@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-1991-10363",
+  "title": "Ley 2/1991, de 14 de febrero, para la protección y regulación de la fauna y flora silvestres en la Comunidad de Madrid",
+  "visible_title": "Ley para la protección y regulación de la fauna y flora silvestres en la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "2/1991",
+  "publication_date": "1991-04-29",
+  "enactment_date": "1991-02-14",
+  "last_updated": "2024-12-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1991/02/14/2",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": "54",
+  "summary": "Esta ley establece el marco jurídico para proteger y conservar la biodiversidad en la Comunidad de Madrid. Regula la creación de catálogos de especies amenazadas, planes de recuperación y la gestión de espacios naturales de protección temporal. Además, define las prohibiciones para la manipulación de flora y fauna y establece un régimen sancionador para castigar daños al medio natural.",
+  "citizen_impact": "Prohíbe a los ciudadanos la captura, daño o recolección de especies protegidas y la destrucción de sus hábitats. También limita actividades como la caza o la pesca según las especies declaradas protegidas o cinegéticas.",
+  "professional_impact": "Afecta a taxidermistas, propietarios de centros de recuperación, núcleos zoológicos y establecimientos de venta de animales, quienes deben inscribirse en registros específicos y cumplir estrictos requisitos sanitarios y de bienestar. Los profesionales de la caza y la pesca deben ajustarse a las listas de especies permitidas y métodos autorizados.",
+  "keywords": [
+    "fauna silvestre",
+    "flora silvestre",
+    "especies amenazadas",
+    "protección medioambiental",
+    "Comunidad de Madrid",
+    "biodiversidad",
+    "infracciones ambientales"
+  ],
+  "key_points": [
+    "Creación del Catálogo Regional de Especies Amenazadas para clasificar especies según su riesgo de extinción.",
+    "Prohibición estricta de capturar, dañar o comercializar especies catalogadas como en peligro o sensibles.",
+    "Establecimiento de 'Espacios Naturales de Protección Temporal' para proteger especies en periodos críticos como la migración.",
+    "Regulación de la actividad de la taxidermia mediante la creación de un Registro de Talleres Taxidermistas.",
+    "Obligación de los centros de recuperación de animales de cumplir con los mismos requisitos que los núcleos zoológicos.",
+    "Prohibición de espectáculos o actividades que causen sufrimiento a la fauna silvestre.",
+    "Régimen de sanciones que incluye multas de hasta 50 millones de pesetas (según texto original) y la obligación de restaurar el daño causado."
+  ],
+  "legal_references": [
+    "Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestre",
+    "Convenio de Washington",
+    "Convenio de Berna",
+    "Convenio de Bonn",
+    "Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad"
+  ],
+  "derogations": [
+    "Cuantas disposiciones se opongan a lo dispuesto en esta Ley"
+  ],
+  "main_obligations": "Prohibición de destruir, recolectar o comercializar especies catalogadas. Los establecimientos de venta de animales y núcleos zoológicos deben llevar libros de registro y cumplir normas higiénico-sanitarias. Los infractores están obligados a reparar el daño y restaurar el medio natural.",
+  "effective_date": "1991-03-05",
+  "procedures": [
+    {
+      "name": "Inscripción en el Registro de ejemplares vivos de especies catalogadas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Apertura del registro",
+          "description": "La Agencia de Medio Ambiente abre el registro para centros científicos, culturales o educativos.",
+          "start_date": "3 meses tras la aprobación del Catálogo",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Inscripción obligatoria",
+          "description": "Todo poseedor de ejemplares vivos de especies catalogadas debe inscribirse.",
+          "start_date": "6 meses tras la apertura del registro",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Notificación de fauna no autóctica protegida",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Censo y control",
+          "description": "Notificación a la Agencia de Medio Ambiente de la posesión de animales no autóctonos protegidos por tratados internacionales.",
+          "start_date": "6 meses tras la entrada en vigor de la ley",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

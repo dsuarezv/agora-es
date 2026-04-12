@@ -1,0 +1,101 @@
+{
+  "identifier": "BOE-A-2025-6598",
+  "title": "Real Decreto 252/2025, de 1 de abril, por el que se aprueba el Reglamento del Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud",
+  "visible_title": "Reglamento del Impuesto Complementario para grupos multinacionales y nacionales de gran magnitud",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de Hacienda",
+  "official_number": "252/2025",
+  "publication_date": "2025-04-02",
+  "enactment_date": "2025-04-01",
+  "last_updated": "2025-04-02",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/04/01/252",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "80",
+  "summary": "Esta norma establece un nuevo impuesto diseñado para evitar que las grandes corporaciones eludan impuestos trasladando beneficios a países con baja tributación. El reglamento regula cómo deben calcular su base imponible, cómo declarar sus datos financieros y cómo realizar los pagos obligatorios a Hacienda. Su objetivo es asegurar que los grupos multinacionales y nacionales de gran tamaño contribuyan con un tipo impositivo mínimo global. Con esto, se busca equilibrar la competencia fiscal y garantizar que la riqueza generada en España tribute de forma justa.",
+  "citizen_impact": "Sin impacto directo en ciudadanos, salvo en el ámbito de la justicia fiscal y la recaudación de recursos públicos para servicios estatales.",
+  "professional_impact": "Impacto crítico para departamentos fiscales y financieros de grandes grupos empresariales. Implica la implementación de nuevos sistemas de contabilidad y trazabilidad de datos, la gestión de plazos de declaración estrictos y la obligación de realizar autoliquidaciones electrónicas, incluso si la cuota es cero. Además, conlleva un riesgo sancionador basado en conjuntos de datos.",
+  "keywords": [
+    "impuesto complementario",
+    "multinacionales",
+    "fiscalidad mínima global",
+    "grupos de gran magnitud",
+    "Hacienda",
+    "declaración informativa",
+    "auto liquidación"
+  ],
+  "key_points": [
+    "Implementación de un impuesto para asegurar un tipo impositivo mínimo global en grandes grupos.",
+    "Las entidades sin ánimo de lucro con cifra de negocios < 750M€ o < 25% del grupo quedan excluidas.",
+    "Posibilidad de excluir durante 5 años ganancias/pérdidas por cobertura de inversión extranjera.",
+    "Criterio de residencia para trabajadores: deben desempeñar más del 50% de su tiempo en la jurisdicción.",
+    "Criterio de ubicación de activos: deben estar situados en la jurisdicción más de la mitad del periodo.",
+    "Los créditos fiscales transferibles se equiparan a los reembolsables admisibles.",
+    "Obligación de presentar autoliquidaciones electrónicas, incluso si el resultado es cero.",
+    "Prohibición de solicitar devoluciones: la cuota del impuesto no puede ser negativa.",
+    "Opción de declaración informativa simplificada hasta julio de 2030 para jurisdicciones sin impuesto generado.",
+    "Exigencia de sistemas contables altamente fiables y auditables para la opción simplificada.",
+    "El régimen sancionador se aplica por conjuntos de datos, donde cada dato relevante cuenta como una unidad."
+  ],
+  "legal_references": [
+    "Directiva (UE) 2022/2523",
+    "Ley 7/2024, de 20 de diciembre",
+    "Ley 39/2015, de 1 de octubre",
+    "Normas modelo de la OCDE",
+    "Ley del Impuesto (artículos 6.5, 18.1, 20, 21, 22, 23, 24, 25, 26, 28, 29, 30, 47, 48.1, 50)",
+    "Disposición transitoria tercera de la Ley del Impuesto",
+    "Disposición final vigésima segunda de la Ley del Impuesto",
+    "Disposición transitoria sexta de la Ley del Impuesto"
+  ],
+  "derogations": [],
+  "main_obligations": "Las empresas deben presentar una declaración informativa electrónica hasta el último día del mes 15 tras el cierre del ejercicio, comunicando la estructura del grupo tres meses antes. Asimismo, deben realizar la autoliquidación electrónica en los 25 días naturales siguientes al cierre del mes 15.",
+  "effective_date": "2025-04-03",
+  "procedures": [
+    {
+      "name": "Declaración informativa del Impuesto Complementario",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación previa de la entidad declaraante",
+          "description": "Comunicar identificación, fechas de ejercicio y jurisdicción de la matriz a la Administración Tributaria.",
+          "start_date": "3 meses antes de la conclusión del plazo de presentación",
+          "end_date": null,
+          "required_documentation": "Identificación de la entidad, fechas de inicio/fin de ejercicio y país de la matriz última."
+        },
+        {
+          "step": 2,
+          "title": "Presentación de la declaración informativa",
+          "description": "Presentación electrónica de la información detallada del grupo y de cada jurisdicción.",
+          "start_date": null,
+          "end_date": "Último día del decimoquinto mes posterior al último día del periodo impositivo",
+          "required_documentation": "Información sobre estructura del grupo, entidades constitutivas, datos jurisdiccionales y cálculos de tipo efectivo."
+        }
+      ]
+    },
+    {
+      "name": "Declaración informativa y autoliquidación del Impuesto Complementario",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la primera declaración informativa",
+          "description": "Presentación de datos detallados sobre el cálculo del impuesto en las jurisdicciones correspondientes.",
+          "start_date": "Dos meses antes del último día del decimoctavo mes tras el cierre del periodo impositivo",
+          "end_date": "Depende del periodo impositivo (con plazos especiales para periodos que finalizan antes del 31/03/2025)",
+          "required_documentation": "Cálculos específicos de impuestos por jurisdicción y entidades"
+        },
+        {
+          "step": 2,
+          "title": "Autoliquidación del impuesto",
+          "description": "Presentación electrónica y pago de la cuota resultante del impuesto complementario.",
+          "start_date": "25 días naturales tras el decimoquinto mes posterior al cierre del periodo impositivo",
+          "end_date": "25 días naturales tras el decimoquinto mes posterior al cierre del periodo impositivo",
+          "required_documentation": "Identificación de la declaración informativa de soporte y del sustituto del contribuyente"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

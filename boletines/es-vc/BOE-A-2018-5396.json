@@ -1,0 +1,235 @@
+{
+  "identifier": "BOE-A-2018-5396",
+  "title": "Ley 7/2018, de 26 de marzo, de Seguridad Ferroviaria",
+  "visible_title": "Ley de Seguridad Ferroviaria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "7/2018",
+  "publication_date": "2018-04-20",
+  "enactment_date": "2018-03-26",
+  "last_updated": "2025-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2018/03/26/7",
+  "official_journal": "DOGV",
+  "summary": "Esta ley transforma la seguridad del transporte ferroviario y tranviario en la Comunidad Valenciana mediante la creación de la Agència Valenciana de Seguretat Ferroviària, un organismo independiente de supervisión. Introduce un modelo de gestión de riesgos que prioriza el factor humano y establece una comisión técnica para investigar accidentes sin buscar culpables, sino causas técnicas. Además, endurece las normas de urbanismo para evitar cruces peligrosos y establece límites estrictos de fatiga y alcohol para el personal ferroviario. El objetivo final es garantizar un sistema de transporte más seguro y profesionalizado.",
+  "citizen_impact": "Mejora la seguridad directa en los viajes de tren y tranvía. Los ciudadanos se benefician de una investigación técnica más rigurosa de accidentes y de una mayor protección en zonas urbanas gracias a la prohibición de nuevos pasos a nivel y la obligación de construir túneles o puentes en nuevas urbanizaciones. Además, se garantiza un derecho de asistencia integral para víctimas y familiares tras un accidente.",
+  "professional_impact": "Las empresas ferroviarias deben obtener un certificado de seguridad obligatorio y mantener seguros de responsabilidad civil de al menos 10 millones de euros. El personal ferroviario enfrenta controles estrictos de alcohol (límite 0,10 g/l) y límites de conducción (máximo 4h continuas y 8h diarias). Los promotores urbanísticos asumen la carga de construir pasos a distinto nivel si sus proyectos aumentan el tráfico en pasos a nivel existentes.",
+  "keywords": [
+    "seguridad ferroviaria",
+    "Agència Valenciana de Seguretat Ferroviària",
+    "accidentes ferroviarios",
+    "pasos a nivel",
+    "transporte tranviario",
+    "gestión de riesgos"
+  ],
+  "key_points": [
+    "Creación de la Agència Valenciana de Seguretat Ferroviària como supervisor independiente de la infraestructura.",
+    "Establecimiento de la Comissió d’Investigació d’Accidents Ferroviaris para análisis técnico sin fines punitivos.",
+    "Obligatoriedad de certificado de seguridad para operar cualquier servicio ferroviario.",
+    "Prohibición general de nuevos pasos a nivel, salvo excepciones muy justificadas.",
+    "Obligación de los promotores urbanísticos de construir pasos a distinto nivel si aumentan el tráfico en cruces existentes.",
+    "Límites estrictos de fatiga: máximo 4 horas de conducción continua y 8 horas diarias (7h en nocturnidad).",
+    "Control de sustancias: tasa de alcohol permitida de 0,10 g/l en sangre para personal ferroviario.",
+    "Seguro obligatorio de responsabilidad civil de al menos 10.000.000 de euros por siniestro.",
+    "Derecho de asistencia integral para víctimas y familiares mediante una oficina única post-emergencia.",
+    "Régimen sancionador con multas que pueden alcanzar los 380.000 euros.",
+    "Clasificación diferenciada entre líneas ferroviarias y tranviarias.",
+    "Obligación de remitir informes anuales de averías y fallos humanos."
+  ],
+  "legal_references": [
+    "Directiva 2004/49/CE",
+    "Directiva 95/18/CE",
+    "Directiva 2001/14/CE",
+    "Directiva (UE) 2016/798",
+    "Ley 38/2015 (Sector Ferroviario)",
+    "Estatuto de Autonomía de la Comunidad Valenciana",
+    "Ley 39/2015 (Procedimiento Administrativo Común)",
+    "Ley 1/2015 (Hacienda Pública de la Generalitat)",
+    "Ley 6/2011 (Movilidad de la Comunidad Valenciana)",
+    "Ley 5/2014 (Ordenación del Territorio, Urbanismo y Paisaje)",
+    "Ley 40/2015 (Régimen Jurídico del Sector Público)",
+    "Ley 29/1998 (Jurisdicción Contencioso-Administrativa)",
+    "Real Decreto 1561/1995",
+    "Orden de 1 de abril de 1996",
+    "Decreto 37/1996",
+    "Orden 7/2011"
+  ],
+  "derogations": [
+    "Directiva 2004/49/CE",
+    "Decreto 37/1996, de 5 de mayo, del Gobierno Valenciano"
+  ],
+  "main_obligations": "Las entidades ferroviarias deben obtener un certificado de seguridad antes de operar y mantener un seguro de responsabilidad civil de 10 millones de euros. El personal debe cumplir estrictos límites de conducción y alcohol, mientras que los promotores deben presentar estudios de impacto en pasos a nivel para nuevos desarrollos.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Otorgamiento del Certificado de Seguridad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de certificación",
+          "description": "La entidad ferroviaria presenta la solicitud junto con la documentación que justifique su sistema de gestión de seguridad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación del sistema de gestión de la seguridad, manual SFG, procesos de gestión de riesgos, formación de personal, auditorías internas y certificados de material/infraestructura."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la Agencia",
+          "description": "La AVFS dicta resolución aprobando o denegando el certificado.",
+          "start_date": "Desde la presentación de la solicitud",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Renovación del Certificado de Seguridad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de renovación",
+          "description": "La entidad debe solicitar la renovación del certificado vigente.",
+          "start_date": "Al menos 6 meses antes de la expiración",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Revocación del Certificado de Seguridad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación del procedimiento",
+          "description": "La AVFS inicia el expediente de oficio ante incumplimientos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Medidas provisionales",
+          "description": "La Agencia puede suspender temporalmente el certificado o retirar material para asegurar la eficacia de la resolución.",
+          "start_date": "Durante la tramitación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Revocación del certificado de seguridad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de inicio",
+          "description": "Se comunica a la entidad ferroviaria el inicio del procedimiento.",
+          "start_date": "Desde la notificación",
+          "end_date": null,
+          "required_documentation": "Alegaciones, documentos e información"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de alegaciones",
+          "description": "La entidad dispone de un plazo para presentar pruebas y alegaciones.",
+          "start_date": "Desde la notificación",
+          "end_date": "15 días",
+          "required_documentation": "Pruebas y alegaciones"
+        },
+        {
+          "step": 3,
+          "title": "Propuesta de resolución",
+          "description": "Se notifica la propuesta para que la entidad pueda alegar de nuevo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentos e información del expediente"
+        },
+        {
+          "step": 4,
+          "title": "Alegaciones a la propuesta",
+          "description": "Plazo para formular alegaciones tras la propuesta de resolución.",
+          "start_date": "Desde la notificación",
+          "end_date": "15 días",
+          "required_documentation": "Documentos e información"
+        },
+        {
+          "step": 5,
+          "title": "Resolución final",
+          "description": "Decisión de sobreseimiento o revocación del certificado.",
+          "start_date": null,
+          "end_date": "Máximo 6 meses (luego caduca)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Investigación de accidentes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación del accidente",
+          "description": "La entidad ferroviaria debe informar inmediatamente a la Comisión.",
+          "start_date": "Inmediatamente",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Decisión de apertura",
+          "description": "La Comisión decide si inicia la investigación técnica.",
+          "start_date": "Desde la notificación",
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Comunicación a la Agencia",
+          "description": "Se informa a la Agencia sobre la decisión de investigar.",
+          "start_date": "Tras la decisión",
+          "end_date": "7 días",
+          "required_documentation": "Datos de fecha, hora, lugar, tipo y consecuencias"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de inspección",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de inicio",
+          "description": "Se designa el objeto y el personal responsable.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Desarrollo de la inspección",
+          "description": "Visitas, entrevistas y levantamiento de actas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Actas de inspección"
+        },
+        {
+          "step": 3,
+          "title": "Trámite de audiencia",
+          "description": "Notificación de actas para alegaciones.",
+          "start_date": "Tras el desarrollo",
+          "end_date": "Entre 10 y 15 días",
+          "required_documentation": "Alegaciones"
+        },
+        {
+          "step": 4,
+          "title": "Conclusión",
+          "description": "Emisión de informes (conformidad, disconformidad u observación).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

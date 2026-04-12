@@ -1,0 +1,83 @@
+{
+  "identifier": "BOE-A-2012-3400",
+  "title": "Ley 1/1989, de 13 de abril, por la que se modifica la calificación de determinadas infracciones administrativas en materia de caza y pesca fluvial y se elevan las cuantías de las sanciones",
+  "visible_title": "Modificación de infracciones y sanciones en materia de caza y pesca fluvial",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "1/1989",
+  "publication_date": "2012-03-10",
+  "enactment_date": "1989-04-13",
+  "last_updated": "2011-03-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1989/04/13/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma actualiza el régimen sancionador para la pesca fluvial en el País Vasco, ajustando las multas a la realidad económica de la época. Introduce un mecanismo de actualización automática de las sanciones mediante el IPC para evitar que pierdan eficacia con el tiempo. Además, redefine ciertas conductas para adaptarlas a la normativa constitucional y a las necesidades específicas del territorio vasco.",
+  "citizen_impact": "Afecta directamente a pescadores recreativos y aficionados, quienes deben conocer las nuevas escalas de sanciones y prohibiciones para evitar multas elevadas o la pérdida de su licencia. También regula comportamientos en zonas de agua, como el baño en lugares no permitidos o el respeto a las distancias entre pescadores.",
+  "professional_impact": "Impacta en profesionales de la pesca, empresas de piscicultura y gestores de recursos hídricos, imponiéndoles controles estrictos sobre el vertido de sustancias, la construcción de obras en cauces y el comercio de especies. Los funcionarios de guardería ven reforzada su capacidad de inspección y control de licencias y artes de pesca.",
+  "keywords": [
+    "pesca fluvial",
+    "infracciones administrativas",
+    "sanciones",
+    "País Vasco",
+    "protección de especies acuáticas",
+    "licencia de pesca"
+  ],
+  "key_points": [
+    "Actualización automática de las multas según el Índice de Precios al Consumo (IPC).",
+    "Clasificación de infracciones en muy graves, graves, menos graves y leves.",
+    "Prohibición estricta de usar electricidad o sustancias tóxicas para pescar.",
+    "Regulación de las dimensiones y tipos de redes permitidas para evitar la sobrepesca.",
+    "Obligación de respetar los caudales mínimos necesarios para la vida acuática.",
+    "Sanciones que incluyen la anulación de la licencia de pesca y la inhabilitación para obtenerla.",
+    "Control sobre el comercio de peces y cangrejos para asegurar el cumplimiento de tallas y épocas de veda."
+  ],
+  "legal_references": [
+    "Reglamento de la Ley de Caza de 25 de marzo de 1971",
+    "Ley de Pesca Fluvial"
+  ],
+  "derogations": [
+    "Todas las disposiciones que contravengan el contenido de esta Ley"
+  ],
+  "main_obligations": "Los pescadores deben poseer y portar su licencia, respetar las vedas, las tallas mínimas y las distancias entre usuarios. Se prohíbe estrictamente alterar los cauces, verter residuos en el agua o utilizar artes de pesca no autorizadas bajo riesgo de multas que van desde las 10.000 pesetas hasta las 500.000 pesetas (según la escala de la época).",
+  "effective_date": "1989-04-13",
+  "procedures": [
+    {
+      "name": "Actualización anual de sanciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cálculo de nuevas cuantías",
+          "description": "Aplicación del IPC sobre la sanción del año anterior para actualizar los importes.",
+          "start_date": "Anualmente",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Publicación oficial",
+          "description": "Publicación de las nuevas cuantías en los Boletines Oficiales de las Diputaciones Forales.",
+          "start_date": "Anualmente",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Estudio cinegético",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración de estudio",
+          "description": "El Gobierno Vasco debe realizar un estudio completo sobre la fauna para valorar posibles moratorias de caza y pesca.",
+          "start_date": "1990-04-13",
+          "end_date": "1991-04-13",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

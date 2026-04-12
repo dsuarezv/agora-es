@@ -1,0 +1,118 @@
+{
+  "identifier": "BOE-A-2000-21563",
+  "title": "Ley 4/2000, de 25 de octubre, de Espectáculos Públicos y Actividades Recreativas de la Comunidad Autónoma de La Rioja",
+  "visible_title": "Ley de Espectáculos Públicos y Actividades Recreativas de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "4/2000",
+  "publication_date": "2000-11-30",
+  "enactment_date": "2000-10-25",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2000/10/25/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula la organización, funcionamiento y control de todos los espectáculos públicos y actividades de ocio en La Rioja. Su objetivo es garantizar la seguridad, la higiene y el descanso de la población, adaptando la normativa estatal a la gestión autonómica. Establece un marco de competencias entre ayuntamientos y la Comunidad Autónoma para la inspección y sanción de actividades.",
+  "citizen_impact": "Garantiza que los lugares de ocio (bares, discotecas, cines, etc.) cumplan con estándares de seguridad y salubridad. Protege especialmente a los menores mediante restricciones de acceso y prohibición de venta de alcohol y tabaco. Además, asegura el derecho de los usuarios a recibir información clara sobre precios, horarios y condiciones de admisión.",
+  "professional_impact": "Obliga a los empresarios del sector del ocio a obtener licencias municipales, contratar seguros de responsabilidad civil y mantener planes de emergencia. Introduce la obligación de disponer de libros de reclamaciones y cumplir con normativas de aforo y horarios. Los titulares enfrentan un régimen sancionador que incluye multas económicas significativas y posibles clausuras de locales.",
+  "keywords": [
+    "espectáculos públicos",
+    "actividades recreativas",
+    "ocio",
+    "licencias de funcionamiento",
+    "derecho de admisión",
+    "seguridad en locales",
+    "protección de menores",
+    "régimen sancionador"
+  ],
+  "key_points": [
+    "Obligatoriedad de licencia municipal de funcionamiento para cualquier local de ocio.",
+    "Exigencia de seguro de responsabilidad civil para cubrir daños a asistentes y terceros.",
+    "Regulación estricta del acceso de menores a discotecas, salas de baile y casinos.",
+    "Reconocimiento del derecho de admisión, siempre que no sea discriminatorio o vejatorio.",
+    "Obligación de informar claramente sobre precios, horarios, aforo y condiciones de admisión.",
+    "Facultad de las autoridades para clausurar locales en caso de peligro inminente o falta de licencia.",
+    "Creación de un registro autonómico de empresas del sector.",
+    "Responsabilidad solidaria de los titulares por las infracciones cometidas en sus establecimientos."
+  ],
+  "legal_references": [
+    "Ley Orgánica 3/1982",
+    "Ley Orgánica 2/1999",
+    "Real Decreto 2374/1994",
+    "Decreto 1/1995",
+    "Real Decreto 2816/1982",
+    "Ley 30/1992",
+    "Ley 4/1999",
+    "Ley 3/1995",
+    "Constitución Española",
+    "Ley 5/1999"
+  ],
+  "derogations": [
+    "Todas las normas de igual o inferior rango que se opongan a lo dispuesto en esta Ley"
+  ],
+  "main_obligations": "Los titulares deben poseer licencia municipal y seguro de responsabilidad civil vigente. Están obligados a facilitar el libro de reclamaciones, respetar los horarios autorizados y cumplir con las medidas de seguridad y aforo. Se prohíbe la venta de alcohol y tabaco a menores de 18 años.",
+  "effective_date": "2001-02-28",
+  "procedures": [
+    {
+      "name": "Concesión de Licencia Municipal de Funcionamiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y tramitación",
+          "description": "Presentación de la solicitud para obtener la licencia municipal mediante expediente único.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de seguro de responsabilidad civil y cumplimiento de condiciones técnicas."
+        },
+        {
+          "step": 2,
+          "title": "Informe técnico de la Comunidad Autónoma",
+          "description": "La Entidad Local solicita informe a la Consejería competente; el informe es vinculante si es desfavorable.",
+          "start_date": "Tras finalizar la tramitación del expediente",
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Comprobación administrativa",
+          "description": "Verificación de que se han cumplido todas las condiciones exigidas para iniciar la actividad.",
+          "start_date": "Tras notificar el cumplimiento de condiciones",
+          "end_date": "15 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Inicio de actividad (Régimen provisional)",
+          "description": "Si tras un mes no hay notificación de la comprobación, se puede iniciar la actividad provisionalmente.",
+          "start_date": "1 mes tras la comunicación",
+          "end_date": null,
+          "required_documentation": "Acreditación del seguro de responsabilidad civil"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación e instrucción",
+          "description": "Inicio del expediente por parte de la autoridad competente (Local para leves/graves, Autonómica para muy graves).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Audiencia al interesado",
+          "description": "Plazo para que el presunto infractor presente alegaciones.",
+          "start_date": null,
+          "end_date": "10 días (2 días en caso de urgencia)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

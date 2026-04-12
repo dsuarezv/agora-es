@@ -1,0 +1,83 @@
+{
+  "identifier": "BOE-A-2012-4187",
+  "title": "Ley 15/2011, de 15 de diciembre, de Emprendedores, Autónomos y Pymes",
+  "visible_title": "Ley de Emprendedores, Autónomos y Pymes",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "15/2011",
+  "publication_date": "2012-03-27",
+  "enactment_date": "2011-12-15",
+  "last_updated": "2011-12-26",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2011/12/15/15",
+  "official_journal": "Diario Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley busca reactivar la economía de Castilla-La Mancha apoyando directamente a quienes crean empresas. Implementa medidas para reducir la burocracia mediante la digitalización, crea un Observatorio para detectar necesidades de mercado y fomenta la cultura emprendedora desde la educación. Además, ofrece ayudas específicas para colectivos vulnerables como jóvenes, mujeres y personas con discapacidad.",
+  "citizen_impact": "Los ciudadanos que quieran emprender en la región encontrarán procesos más ágiles y digitales. También mejora la formación educativa al incluir contenidos de gestión empresarial y ética desde etapas tempranas.",
+  "professional_impact": "Los autónomos y pequeñas empresas se benefician de asesoramiento técnico gratuito en prevención de riesgos y mayor facilidad de acceso al crédito. Los funcionarios de la administración regional deberán implementar nuevos sistemas telemáticos y gestionar el nuevo Observatorio Regional de Mercado.",
+  "keywords": [
+    "emprendimiento",
+    "autónomos",
+    "pymes",
+    "Castilla-La Mancha",
+    "simplificación administrativa",
+    "ayudas económicas",
+    "prevención de riesgos laborales",
+    "educación emprendedora"
+  ],
+  "key_points": [
+    "Creación de los 'Puntos de Activación Empresarial' (PAE) para agilizar trámites de forma telemática.",
+    "Establecimiento del Observatorio Regional de Mercado para orientar las ayudas según las necesidades reales de la economía.",
+    "Inclusión de contenidos de cultura emprendedora en los currículos de educación básica, bachillerato y formación profesional.",
+    "Asesoramiento técnico gratuito en prevención de riesgos laborales para autónomos y nuevos emprendedores.",
+    "Prioridad de pago a empresas emprendedoras en contratos con la administración (máximo 30 días tras certificación).",
+    "Posibilidad de compensar deudas con la administración regional mediante créditos a favor de la empresa.",
+    "Fomento de la figura del 'business angel' para facilitar la inversión privada en nuevas empresas.",
+    "Impulso de medidas de conciliación familiar y laboral para pequeñas empresas y autónomos."
+  ],
+  "legal_references": [
+    "Ley 7/1985, reguladora de las Bases de Régimen Local",
+    "Ley Orgánica 6/2001, de 21 de diciembre, de Universidades",
+    "Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales",
+    "Ley 7/2010, de 20 de julio, de Educación de Castilla-La Mancha",
+    "Ley 9/2008, de 4 de diciembre, de Medidas en Materia de Tributos Cedidos en Castilla-La Mancha",
+    "Constitución Española",
+    "Estatuto de Autonomía de Castilla-La Mancha"
+  ],
+  "derogations": [
+    "Cualquier disposición de igual o inferior rango que se oponga a esta ley"
+  ],
+  "main_obligations": null,
+  "effective_date": "2012-04-16",
+  "procedures": [
+    {
+      "name": "Creación de empresa mediante tramitación telemática",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Asesoramiento y tramitación en PAE",
+          "description": "Uso de los Puntos de Activación Empresarial para recibir asesoramiento y realizar los trámites de inicio de actividad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación necesaria para el inicio de actividad según el régimen jurídico elegido."
+        }
+      ]
+    },
+    {
+      "name": "Funcionamiento del Observatorio Regional de Mercado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Puesta en marcha",
+          "description": "El Observatorio debe estar operativo en un plazo máximo de 3 meses tras la entrada en vigor de la ley.",
+          "start_date": "2012-04-16",
+          "end_date": "3 meses después",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

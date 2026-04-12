@@ -1,0 +1,111 @@
+{
+  "identifier": "BOE-A-2016-8270",
+  "title": "Ley 10/2016, de 19 de julio, de medidas urgentes para la actualización del sistema de transporte público de Galicia",
+  "visible_title": "Medidas urgentes para la actualización del sistema de transporte público de Galicia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "10/2016",
+  "publication_date": "2016-09-08",
+  "enactment_date": "2016-07-19",
+  "last_updated": "2016-07-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2016/07/19/10",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca modernizar y reorganizar todo el sistema de transporte público en Galicia para adaptarlo a la realidad actual de dispersión poblacional y urbanización. Introduce la creación de un nuevo Plan de Transporte Público que definirá las rutas y servicios, priorizando la sostenibilidad y la tecnología. Además, establece mecanismos para que los servicios actuales no se interrumpan mientras se diseñan y licitan los nuevos contratos tras una anulación judicial previa.",
+  "citizen_impact": "Los ciudadanos verán una mejora en la cobertura del transporte, especialmente en zonas rurales mediante servicios 'bajo demanda' gestionados por tecnología. Se busca un sistema más accesible para personas con movilidad reducida y una mejor integración de tarifas y horarios entre diferentes medios de transporte.",
+  "professional_impact": "Las empresas de transporte deben adaptarse a nuevos estándares de calidad (que representarán al menos el 65% de la puntuación en licitaciones) y a la obligatoriedad de usar sistemas de ayuda a la explotación. Los operadores actuales mantienen la prestación del servicio de forma transitoria hasta que se adjudiquen los nuevos contratos según el nuevo Plan.",
+  "keywords": [
+    "transporte público",
+    "Galicia",
+    "movilidad",
+    "planificación de transporte",
+    "transporte bajo demanda",
+    "concesiones de transporte",
+    "accesibilidad"
+  ],
+  "key_points": [
+    "Creación obligatoria del Plan de Transporte Público de Galicia para rediseñar el mapa de servicios.",
+    "Plazo de 21 meses para la aprobación del primer Plan de Transporte Público.",
+    "Garantía de continuidad de los servicios actuales para evitar cortes en el transporte mientras se planifica el nuevo sistema.",
+    "Introducción de modelos de transporte 'bajo demanda' para mejorar la conexión en zonas rurales dispersas.",
+    "Obligación de que los nuevos vehículos interurbanos sean accesibles para personas con movilidad reducida.",
+    "Los criterios de calidad deben suponer al menos el 65% de la puntuación en los concursos de licitación.",
+    "Posibilidad de crear servicios de transporte temporal para eventos específicos (ferias, playas, etc.) mediante adjudicación directa."
+  ],
+  "legal_references": [
+    "Ley 5/2009, de 26 de noviembre",
+    "Reglamento (CE) n.º 1370/2007",
+    "Ley 16/1987, de 30 de julio",
+    "Ley 14/2013, de 26 de diciembre",
+    "Real Decreto 1211/1990"
+  ],
+  "derogations": [
+    "Artículo 1 de la Ley 5/2009, de 26 de noviembre"
+  ],
+  "main_obligations": "Las empresas de transporte deben mantener la prestación del servicio de forma obligatoria hasta la nueva adjudicación, a menos que renuncien formalmente en un plazo de 15 días. Los nuevos vehículos deben cumplir con requisitos de accesibilidad y las empresas deben integrar sus servicios en el sistema tarifario zonal.",
+  "effective_date": "2016-07-20",
+  "procedures": [
+    {
+      "name": "Elaboración y aprobación del Plan de Transporte Público de Galicia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del Plan",
+          "description": "La consejería competente desarrolla el contenido del plan según el anexo de la ley.",
+          "start_date": "2016-07-20",
+          "end_date": "21 meses después de la entrada en vigor",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública e informe técnico",
+          "description": "Sometimiento del plan a información pública y consulta al Consejo Gallego de Transportes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación final",
+          "description": "Aprobación del Plan por parte del Consejo de la Xunta de Galicia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Establecimiento de servicios de duración limitada (ferias, playas, etc.)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de explotación",
+          "description": "La Administración o una empresa interesada presenta el proyecto de explotación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto con itinerarios, calendario, frecuencias y tarifas."
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Sometimiento del proyecto a información pública durante 10 días y consulta al Comité Gallego de Transportes.",
+          "start_date": null,
+          "end_date": "10 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Adjudicación",
+          "description": "La dirección general puede acordar la adjudicación directa del servicio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

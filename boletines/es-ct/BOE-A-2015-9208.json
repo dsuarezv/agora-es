@@ -1,0 +1,134 @@
+{
+  "identifier": "BOE-A-2015-9208",
+  "title": "Ley 16/2015, de 21 de julio, de simplificación de la actividad administrativa de la Administración de la Generalidad y de los gobiernos locales de Cataluña y de impulso de la actividad económica",
+  "visible_title": "Ley de simplificación administrativa y de impulso de la actividad económica en Cataluña",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "16/2015",
+  "publication_date": "2015-08-15",
+  "enactment_date": "2015-07-21",
+  "last_updated": "2020-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2015/07/21/16",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley revoluciona la relación entre la administración catalana y el sector privado, convirtiendo la agilidad administrativa en un derecho para ciudadanos y empresas. El cambio fundamental es el paso de un modelo de 'permiso previo' a uno de 'confianza y control posterior', permitiendo que muchas actividades comiencen sin esperar una licencia. Además, unifica trámites mediante una Ventanilla Única y digitaliza la gestión para evitar que se pida la misma documentación varias veces. También moderniza los procesos de evaluación ambiental para que los proyectos urbanísticos y económicos avancen con mayor rapidez y claridad.",
+  "citizen_impact": "Los ciudadanos y emprendedores ya no tienen que esperar meses por licencias para actividades de bajo riesgo, pudiendo actuar mediante declaraciones responsables. Se reduce la burocracia al evitar la duplicidad de documentos gracias a la carpeta empresarial única y se agilizan los plazos de respuesta administrativa a un máximo de 10 días en informes clave.",
+  "professional_impact": "Las empresas ganan agilidad operativa al sustituir licencias por comunicaciones previas o declaraciones responsables. Los funcionarios deben adaptarse a un modelo de inspección basado en planes anuales y control posterior en lugar de autorizaciones previas. Los promotores de proyectos deben presentar documentación ambiental específica para acceder a procesos simplificados.",
+  "keywords": [
+    "simplificación administrativa",
+    "declaración responsable",
+    "comunicación previa",
+    "ventanilla única empresarial",
+    "evaluación ambiental estratégica",
+    "Cataluña",
+    "impulso económico"
+  ],
+  "key_points": [
+    "Sustitución de licencias previas por declaración responsable (actividades inocuas) y comunicación previa (bajo riesgo).",
+    "Creación de la Ventanilla Única Empresarial para centralizar trámites de la Generalidad y entes locales.",
+    "Implementación de un Portal Electrónico Único con una 'carpeta empresarial' para evitar duplicidad de documentos.",
+    "Cambio de modelo: de la autorización previa al control posterior basado en la confianza legítima.",
+    "Reducción de plazos para informes administrativos a un máximo de 10 días.",
+    "Eliminación de licencias urbanísticas para obras de ampliación, reformas sin proyecto y cambios de uso no residenciales.",
+    "Modernización de la evaluación ambiental: la 'decisión previa' pasa a ser 'evaluación ambiental estratégica simplificada'.",
+    "Nuevos plazos en evaluación ambiental: un mes para consultas y un mes para el informe en procesos simplificados.",
+    "Exención de nueva evaluación ambiental para planes en suelo urbano que ya cuenten con planeamiento general evaluado.",
+    "Resolución de conflictos ambientales mediante el Consejero de Medio Ambiente o el Gobierno.",
+    "Efecto desestimatorio si la administración no responde en un mes a las declaraciones de no significatividad ambiental."
+  ],
+  "legal_references": [
+    "Estatuto de autonomía de Cataluña",
+    "Ley 26/2010 de régimen jurídico y de procedimiento de las administraciones públicas de Cataluña",
+    "Decreto legislativo 2/2003 (Ley municipal y de régimen local de Cataluña)",
+    "Ley 20/2009 de prevención y control ambiental de las actividades",
+    "Ley 3/2010 de prevención y seguridad en materia de incendios",
+    "Decreto legislativo 1/2010 (Ley de urbanismo)",
+    "Ley 6/1988 forestal de Cataluña",
+    "Ley 6/2009",
+    "Ley 42/2007",
+    "Ley del Estado 21/2013",
+    "Decreto 64/2014",
+    "Directiva 2006/123/CE",
+    "Decreto legislativo 3/2010"
+  ],
+  "derogatons": [
+    "246 disposiciones mencionadas en el Plan de racionalización normativa",
+    "Apartados 1 y 2 del artículo 5 del Reglamento sobre protección de la legalidad urbanística",
+    "Artículos 6 y 71 del Reglamento sobre protección de la legalidad urbanística",
+    "Disposición adicional segunda del Decreto legislativo 3/2010",
+    "Artículos 258 a 268 del Texto Refundido de la Ley Municipal y de Régimen Local de Cataluña",
+    "Artículos 272 a 281 del Texto Refundido de la Ley Municipal y de Régimen Local de Cataluña"
+  ],
+  "main_obligations": "Las administraciones deben emitir informes en un plazo máximo de 10 días. Las empresas deben presentar declaración responsable o comunicación previa según su nivel de riesgo. Los promotores deben justificar la ausencia de efectos ambientales significativos para procesos simplificados.",
+  "effective_date": "2015-08-15",
+  "procedures": [
+    {
+      "name": "Evaluación ambiental estratégica ordinaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Consulta a administraciones y personas interesadas",
+          "descrption": "El órgano ambiental realiza consultas a los afectados.",
+          "start_date": "Desde la recepción del expediente completo",
+          "end_date": "1 mes",
+          "required_documentation": "Expediente de evaluación ambiental estratégica completo"
+        },
+        {
+          "step": 2,
+          "title": "Declaración ambiental estratégica",
+          "descrption": "Emisión de la decisión final sobre el plan o programa.",
+          "start_date": "Desde la recepción del expediente completo",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Evaluación ambiental estratégica simplificada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Consulta a administraciones y personas interesadas",
+          "descrption": "Fase de consultas al órgano ambiental.",
+          "start_date": "Inicio del procedimiento",
+          "end_date": "1 mes",
+          "required_documentation": "Documento ambiental estratégico y borrador del plan/programa"
+        },
+        {
+          "step": 2,
+          "title": "Informe ambiental estratégico",
+          "descrption": "Formulación del informe tras las consultas.",
+          "start_date": "Tras finalizar el plazo de consultas",
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de declaración de no significatividad (Modificaciones urbanísticas)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "descrption": "El promotor justifica que la modificación no tiene efectos ambientales significativos.",
+          "start_date": "Fase preliminar de la elaboración",
+          "end_date": null,
+          "required_documentation": "Justificación de la ausencia de efectos significativos"
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "descrption": "El órgano ambiental adopta la decisión.",
+          "start_date": "Desde la presentación de la solicitud",
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

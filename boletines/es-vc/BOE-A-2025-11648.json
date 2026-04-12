@@ -1,0 +1,120 @@
+{
+  "identifier": "BOE-A-2025-11648",
+  "title": "Ley 4/2025, de 22 de mayo, de voluntariado de la Comunitat Valenciana",
+  "visible_title": "Ley de Voluntariado de la Comunitat Valenciana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "4/2025",
+  "publication_date": "2025-06-10",
+  "enactment_date": "2025-05-22",
+  "last_updated": "2025-05-26",
+  "status": "in_force",
+  "scope": "Autoonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2025/05/22/4",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza el voluntariado en la Comunitat Valenciana creando una distinción clave entre las actividades organizadas por entidades y las acciones de solidaridad puntuales. Introduce protecciones esenciales como seguros obligatorios y un sistema de acreditación de competencias que las universidades podrán reconocer. Además, establece un marco de mayor control para las entidades, exigiendo planes de voluntariado para acceder a fondos públicos. El objetivo es profesionalizar el sector y garantizar la seguridad de quienes deciden colaborar de forma altruista.",
+  "citizen_impact": "Los voluntarios ahora cuentan con una protección reforzada mediante seguros obligatorios de accidentes, enfermedad y responsabilidad civil. Además, podrán acreditar formalmente las competencias adquiridas, lo que les permitirá obtener reconocimiento académico en sus estudios universitarios. No obstante, quienes tengan antecedentes penales por delitos graves (violencia de género, terrorismo, etc.) no podrán realizar actividades de voluntariado.",
+  "professional_impact": "Las entidades de voluntariado deben adaptarse a un nuevo marco de gestión, siendo obligatorio elaborar y visar un 'Plan de Voluntariado' (con vigencia de hasta 5 años) para poder recibir subvenciones o firmar convenios públicos. Se impone la obligación de contratar seguros específicos para las 'acciones de solidaridad' y un plazo de un año para ajustar toda su estructura operativa a la nueva normativa.",
+  "keywords": [
+    "voluntariado",
+    "Comunitat Valenciana",
+    "acciones de solidaridad",
+    "seguros obligatorios",
+    "acreditación de competencias",
+    "entidades sin ánimo de lucro"
+  ],
+  "key_points": [
+    "Creación de 'Acciones de Solidaridad': actividades altruistas puntuales que no requieren la estructura formal del voluntariado pero sí seguros obligatorios.",
+    "Seguros obligatorios: las entidades deben cubrir accidentes, enfermedad y responsabilidad civil para quienes realicen acciones de solidaridad.",
+    "Reconocimiento académico: posibilidad de que las universidades validen las horas y competencias obtenidas mediante el voluntariado.",
+    "Control de antecedentes: prohibición de participar en voluntariados a personas con antecedentes penales por delitos de violencia de género, integridad física, libertad sexual o terrorismo.",
+    "Plan de Voluntariado: requisito indispensable para entidades que quieran acceder a subvenciones o convenios públicos.",
+    "Registro de entidades: inscripción obligatoria para acceder a ayudas públicas.",
+    "Protección de datos: garantía estricta del cumplimiento del RGPD y la LOPDGDD en la gestión de voluntarios.",
+    "Plazo de adaptación: las entidades tienen un año para ajustar su funcionamiento a esta ley."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunitat Valenciana",
+    "Carta Social Europea de 1961",
+    "Resolución de la Asamblea General de las Naciones Unidas de febrero de 1986",
+    "Ley 6/1996, de 15 de enero, del voluntariado",
+    "Ley 45/2015, de 14 de octubre, de voluntariado",
+    "Ley 1/2022, de 13 de abril, de transparencia y Buen Gobierno de la Comunitat Valenciana",
+    "Real Decreto 1110/2015, de 23 de diciembre",
+    "Decreto 176/2014, de 10 de octubre, del Consell",
+    "Ley orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+    "Reglamento (UE) 2016/679 (RGPD)"
+  ],
+  "derogations": [
+    "Ley 4/2001, de 19 de junio, del Voluntariado de la Comunitat Valenciana"
+  ],
+  "main_obligations": "Las entidades tienen un plazo de un año para adaptar su estructura a la nueva ley. Para acceder a subvenciones, deberán elaborar y visar su Plan de Voluntariado en el plazo de un año tras la aprobación del reglamento.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Incorporación al voluntariado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Suscripción del acuerdo de incorporación",
+          "description": "Formalización de la relación entre el voluntario y la entidad mediante un acuerdo que detalle derechos, deberes, funciones y seguros.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración responsable de no tener antecedentes penales (según el caso) y certificación negativa del Registro Central de Delincuentes Sexuales si hay contacto con menores."
+        }
+      ]
+    },
+    {
+      "name": "Registro de entidades de voluntariado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inscripción en el Registro Autonómico",
+          "description": "Trámite para que las entidades obtengan personalidad jurídica y puedan acceder a subvenciones públicas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de constitución legal, domicilio fiscal en la Comunitat Valenciana y Plan de Voluntariado."
+        }
+      ]
+    },
+    {
+      "name": "Adaptación normativa de entidades de voluntariado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Ajuste de la entidad a la nueva ley",
+          "descrption": "Las entidades deben modificar su funcionamiento para cumplir con la Ley 4/2025.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "1 año desde la entrada en vigor",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Elaboración y visado de Planes de Voluntariado",
+          "descrption": "Requisito necesario para optar a subvenciones o convenios públicos.",
+          "start_date": "Entrada en vigor del desarrollo reglamentario",
+          "end_date": "1 año desde la entrada en vigor del desarrollo reglamentario",
+          "required_documentation": "Plan de voluntariado conforme al artículo 19"
+        }
+      ]
+    },
+    {
+      "name": "Desarrollo reglamentario de la Ley",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Dictar disposiciones de desarrollo",
+          "descrption": "El Consell de la Generalitat debe aprobar el reglamento y el Plan del Voluntariado.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "1 año desde la entrada en vigor",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

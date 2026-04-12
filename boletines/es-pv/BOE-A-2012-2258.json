@@ -1,0 +1,236 @@
+{
+  "identifier": "BOE-A-2012-2258",
+  "title": "Ley 4/1992, de 17 de julio, de Policía del País Vasco",
+  "visible_title": "Ley de Policía del País Vasco",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "4/1992",
+  "publication_date": "2012-02-15",
+  "enactment_date": "1992-07-17",
+  "last_updated": "2020-08-06",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1992/07/17/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley unificó la seguridad ciudadana en el País Vasco al integrar los cuerpos de Miñones, Forales y Mikeletes en la Ertzaintza. Establece un modelo de policía profesional con escalas jerárquicas claras y un sistema de carrera basado en méritos y especialización. Además, introduce mecanismos de control ciudadano y transparencia para investigar posibles malas prácticas policiales. Regula también la capacidad de los municipios para gestionar sus propias policías locales según su población.",
+  "citizen_impact": "Garantiza que cualquier agente de la Ertzaintza que interactúe contigo deba identificarse mediante un dispositivo visible y registrable. Ofrece canales directos para presentar quejas o agradecimientos a través de la Oficina Ekinbide y asegura la investigación de oficio ante lesiones graves o fallecimientos en intervenciones policiales.",
+  "professional_impact": "Define una estructura de carrera estricta donde los destinos por concurso son inamovibles durante dos años y la especialización conlleva la obligación de ocupar puestos específicos. Establece un régimen disciplinario severo contra el acoso (sexual, laboral o sexista) y el uso indebido de armas, además de proteger económicamente a las familias en caso de muerte en cumplimiento del deber.",
+  "keywords": [
+    "Ertzaintza",
+    "Policía del País Vasco",
+    "Seguridad ciudadana",
+    "Policía Local",
+    "Control policial",
+    "Carrera profesional policial"
+  ],
+  "key_points": [
+    "Unificación de los cuerpos de Miñones, Forales y Mikeletes en la Ertzaintza.",
+    "Obligación de identificación personal visible y registrable de los agentes ante el ciudadano.",
+    "Creación de la Oficina Ekinbide para la gestión de quejas y agradecimientos ciudadanos.",
+    "Investigación obligatoria de oficio ante fallecimientos o lesiones graves en intervenciones.",
+    "Estructura de la Ertzaintza dividida en cuatro escalas: Superior, Ejecutiva, Inspección y Básica.",
+    "Los destinos obtenidos por concurso de méritos exigen una permanencia mínima de dos años.",
+    "La especialización obliga al agente a solicitar puestos que requieran dicha formación bajo riesgo de asignación forzosa.",
+    "Los municipios de más de 5.000 habitantes pueden crear su propio Cuerpo de Policía Local.",
+    "Los municipios pequeños pueden disponer de un servicio de hasta 5 agentes con funciones limitadas.",
+    "Implementación de planes de promoción de la mujer para la igualdad en el cuerpo.",
+    "Creación de la Academia de Policía para formación permanente y capacitación lingüística.",
+    "Régimen disciplinario que tipifica como muy graves el acoso sexual, laboral o sexista."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía del País Vasco",
+    "Real Decreto 290/1980",
+    "Ley Orgánica de Fuerzas y Cuerpos de Seguridad",
+    "Ley 10/1982 de Normalización del Uso del Euskera",
+    "Ley 4/2005 para la Igualdad de Mujeres y Hombres",
+    "Ley 15/2012 de Ordenación del Sistema de Seguridad Pública de Euskadi",
+    "Ley 31/1995 de Prevención de Riesgos Laborales",
+    "Ley de la Función Pública Vasca",
+    "Constitución Española (Artículo 14)",
+    "Ley 2/1998 de la Potestad Sancionadora de las Administraciones Públicas Vascas",
+    "Ley Orgánica del Poder Judicial",
+    "Ley 6/89, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad"
+  ],
+  "derogations": [
+    "Decreto Legislativo 1/2020, de 22 de julio"
+  ],
+  "main_obligations": "Los agentes deben identificarse siempre ante el ciudadano y actuar con neutralidad política, absteniéndose de cumplir órdenes manifiestamente delictivas. Los agentes especializados están obligados a presentarse a las convocatorias de sus puestos específicos.",
+  "effective_date": "1992-07-17",
+  "procedures": [
+    {
+      "name": "Proceso de Selección de Funcionarios de Policía",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria Pública",
+          "description": "Publicación en el BOPV o boletín correspondiente con requisitos, pruebas y temario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite requisitos de edad, titulación, permiso de conducir y compromiso de porte de armas."
+        },
+        {
+          "step": 2,
+          "title": "Fase de Oposición/Concurso",
+          "description": "Realización de pruebas teóricas, prácticas, psicotécnicas o valoración de méritos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Curso de Formación y Período de Prácticas",
+          "description": "Formación obligatoria y prácticas en centros policiales con carácter eliminatorio.",
+          "start_date": null,
+          "end_date": "Máximo 30 meses acumulados",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Nombramiento",
+          "description": "Designación como funcionario de carrera tras superar el proceso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de Quejas Ciudadanas (Ekinbide)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la queja",
+          "description": "El ciudadano presenta su queja ante la Oficina Ekinbide.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Tramitación",
+          "description": "Si la queja es sobre policía local, se remite a la autoridad municipal correspondiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución y Seguimiento",
+          "description": "Ekinbide analiza la recurrencia de las quejas e incorpora los resultados a su memoria anual.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Provisión de puestos de trabajo por concurso",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación de la convocatoria",
+          "description": "Publicación en el Boletín de la Ertziantzay o del Territorio Histórico con todos los requisitos y baremos.",
+          "start_date": "Fecha de publicación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de solicitudes",
+          "description": "Plazo mínimo para que los interesados presenten su candidatura.",
+          "start_date": "Fecha de publicación",
+          "end_date": "Mínimo 15 días después de la publicación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento disciplinario",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del expediente",
+          "description": "Inicio del procedimiento tras la detección de una posible falta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y audiencia",
+          "description": "Fase de investigación donde el expedientado puede ejercer su derecho de defensa y contar con abogado o representante sindical.",
+          "start_date": null,
+          "end_date": "Máximo 6 meses (salvo excepciones)",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Dictamen final que impone la sanción o archiva el expediente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Encuadramiento de nivel de desarrollo profesional",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de encuadramiento",
+          "description": "El funcionario solicita voluntariamente el reconocimiento de un nuevo nivel profesional.",
+          "start_date": "Convocatoria anual única",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Evaluación técnica",
+          "description": "Los órganos técnicos evalúan el desempeño, capacitación y compromiso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Celebración de reuniones sindicales en dependencias policiales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de reunión",
+          "description": "Presentación por escrito con al menos 4 días naturales de antelación indicando fecha, hora, lugar y orden del día.",
+          "start_date": "4 días naturales antes de la reunión",
+          "end_date": null,
+          "required_documentation": "Escrito con fecha, hora, lugar y orden del día"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la autoridad",
+          "description": "La autoridad debe notificar la resolución. Si no se notifica 24 horas antes, la reunión puede celebrarse siempre que no afecte al servicio.",
+          "start_date": "24 horas antes de la fecha prevista",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Permuta de destinos en Policía Local",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de permuta",
+          "description": "Solicitud previa informe de la jefatura local para agentes con 5 años de servicio ininterrumpido y misma escala/categoría.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

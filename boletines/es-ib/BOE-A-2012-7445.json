@@ -1,0 +1,74 @@
+{
+  "identifier": "BOE-A-2012-7445",
+  "title": "Ley 3/2012, de 30 de abril, de medidas tributarias urgentes",
+  "visible_title": "Medidas tributarias urgentes",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "3/2012",
+  "publication_date": "2012-06-05",
+  "enactment_date": "2012-04-30",
+  "last_updated": "2014-06-07",
+  "status": "amended",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2012/04/30/3",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley busca mitigar la crisis económica en las Illes Balears mediante una estrategia dual: aumentar la recaudación y reactivar la economía. Introduce incentivos fiscales para fomentar la inversión empresarial, el autoempleo y la creación de empleo. Asimismo, endurece la gestión del canon de saneamiento de aguas y regula la tasa fiscal sobre el juego.",
+  "citizen_impact": "Los ciudadanos pueden beneficiarse de deducciones en el IRPF por inversión en vivienda o autoempleo, y de reducciones en sucesiones y donaciones si se crean empresas. También afecta a los usuarios de servicios de agua y jugadores de azar por cambios en la gestión de sus tasas.",
+  "professional_impact": "Las empresas y emprendedores tienen nuevos incentivos para invertir en acciones de nuevas entidades o trasladar sus sedes. Los gestores de servicios de agua (sustitutos) enfrentan mayores obligaciones de control de impagos y la prohibición de recibir premios por recaudación. Los operadores de juego deben adaptarse a nuevos sistemas de cálculo y reparto de premios.",
+  "keywords": [
+    "medidas tributarias",
+    "Illes Balears",
+    "incentivos fiscales",
+    "inversión",
+    "empleo",
+    "canon de saneamiento",
+    "tasa del juego",
+    "IRPF",
+    "sucesiones y donaciones"
+  ],
+  "key_points": [
+    "Nuevas deducciones en el IRPF para fomentar el autoempleo e inversión en nuevas empresas.",
+    "Reducciones en el Impuesto sobre Sucesiones y Donaciones vinculadas a la creación de empleo.",
+    "Tipos reducidos en el ITP para la compra de inmuebles destinados a sedes de nuevas empresas.",
+    "Nuevas reglas para el reparto de premios en salas de bingo.",
+    "Obligación de los sustitutos del canon de agua de ingresar el 100% de lo facturado.",
+    "Prohibición de conceder premios de recaudación a los sustitutos del canon de saneamiento.",
+    "Nuevos requisitos estrictos para declarar saldos deudores en el canon de aguas."
+  ],
+  "legal_references": [
+    "Ley 28/2010",
+    "Ley 22/2009",
+    "Ley 22/2006",
+    "Ley 9/1991",
+    "Ley 11/1998",
+    "Decreto Ley 6/2011"
+  ],
+  "derogations": [
+    "Decreto Ley 6/2011",
+    "Artículo 4 de la Ley 12/1999",
+    "Artículo 21 de la Ley 8/2004",
+    "Artículo 30 de la Ley 22/2006",
+    "Artículos 9, 15, 16, 17, 18 y 19 de la Ley 6/2007",
+    "Artículos 2, 10, 13 y 16 de la Ley 1/2009"
+  ],
+  "main_obligations": "Los sustitutos del canon de saneamiento de aguas deben presentar una declaración-liquidación resumen anual antes del 28 de febrero. Deben ingresar el 100% de las cuotas repercutidas y cumplir requisitos estrictos de registro contable para poder deducir saldos deudores.",
+  "effective_date": "2012-06-06",
+  "procedures": [
+    {
+      "name": "Declaración-liquidación resumen anual del Canon de saneamiento de aguas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración resumen",
+          "description": "El sustituto del contribuente debe presentar el resumen anual de las cuotas del canon.",
+          "start_date": null,
+          "end_date": "28-02 del año siguiente",
+          "required_documentation": "Detalle de saldos deudores, facturas rectificadas, documentación de requerimientos judiciales o de concursos si aplica."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

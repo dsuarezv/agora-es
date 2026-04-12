@@ -1,0 +1,209 @@
+{
+  "identifier": "BOE-A-2004-18333",
+  "title": "Ley 2/2004, de 27 de septiembre, del Plan de Ordenación del Litoral",
+  "visible_title": "Plan de Ordenación del Litoral",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "2/2004",
+  "publication_date": "2004-10-27",
+  "enactment_date": "2004-09-27",
+  "last_updated": "2025-04-04",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2004/09/27/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley redefine cómo se gestiona y protege la costa de Cantabria, estableciendo un equilibrio entre el crecimiento urbanístico y la conservación ambiental. Divide el litoral en zonas de protección estricta y áreas de ordenación para evitar la saturación del territorio mediante el concepto de 'capacidad de carga'. Además, introduce medidas para garantizar la accesibilidad en playas y obliga a destinar una parte significativa de los nuevos desarrollos a vivienda protegida. En definitiva, busca frenar la urbanización descontrolada y asegurar un uso sostenible de los recursos costeros.",
+  "citizen_impact": "Los ciudadanos verán un litoral más protegido y accesible, con la obligación de que las playas urbanas cuenten con infraestructuras para personas con movilidad reducida. También se garantiza una mayor oferta de vivienda protegida (hasta un 35% en zonas periurbanas) y se limita el uso de vehículos en playas rurales para preservar el entorno natural.",
+  "professional_impact": "Los promotores inmobiliarios enfrentan mayores restricciones y la obligación de destinar porcentajes específicos de suelo a vivienda protegida. Los ayuntamientos deben adaptar sus planes urbanísticos y realizar informes de impacto territorial previos. Los operadores turísticos en zonas de protección tienen límites estrictos para nuevas instalaciones, aunque se permite la ampliación de campings bajo condiciones específicas.",
+  "keywords": [
+    "ordenación litoral",
+    "costa Cantabria",
+    "protección ambiental",
+    "vivienda protegida",
+    "capacidad de carga",
+    "urbanismo costero",
+    "accesibilidad playas"
+  ],
+  "key_points": [
+    "Creación de Áreas de Protección (Costera, Intermareal, Ribeiras, Ecológica, Paisajística y Litoral) con usos muy restringidos.",
+    "Limitación del crecimiento urbanístico basada en la 'capacidad de carga' de la infraestructura y recursos.",
+    "Obligación de destinar al menos un 35% de suelo residencial a vivienda protegida en áreas periurbanas.",
+    "Clasificación de playas en urbanas, periurbanas, semirrurales y rurales para adaptar su gestión.",
+    "Garantía de accesibilidad universal para personas con movilidad reducida en todas las playas urbanas.",
+    "Prohibición de circulación de vehículos a motor en playas rurales (salvo pesca, limpieza y seguridad).",
+    "Prohibición de nuevas instalaciones no desmontables en playas rurales y zonas dunares.",
+    "Prohibición de urbanizaciones aisladas en el Área de Modelo Tradicional.",
+    "Posibilidad de ampliar campings existentes en zonas de protección hasta un máximo de 5 hectáreas para alcanzar categorías de estrellas.",
+    "Prohibición de nuevas explotaciones mineras en áreas de protección, salvo excepciones por valor económico extraordinario.",
+    "Unificación de autorizaciones para usos en la zona de servidumbre de protección bajo competencia autonómica."
+  ],
+  "legal_references": [
+    "Ley 2/2001, de 25 de junio, de Ordenación Territorial y Régimen Urbanístico del Suelo de Cantabria",
+    "Ley 22/1988, de 28 de julio, de Costas",
+    "Estatuto de Autonomía para Cantabria",
+    "Constitución Española (Art. 47 y 53)",
+    "Sentencia del Tribunal Constitucional 149/1991",
+    "Sentencia del Tribunal Constitucional 77/1984",
+    "Carta Europea de Ordenación del Territorio (1983)",
+    "Estrategia Territorial Europea (1999)",
+    "Ley de Cantabria 5/2022, de 15 de julio",
+    "Decreto 60/1993",
+    "Ley de Cantabria 2/2001, de 27 de mayo"
+  ],
+  "derogatons": [
+    "Decreto 60/1993, de 28 de agosto, que regula las autorizaciones de uso en la zona de servidumbre de protección del dominio público marítimo-terrestre"
+  ],
+  "main_obligations": "Los municipios deben adaptar su planeamiento urbanístico en un plazo de un año y realizar informes de impacto territorial previos a la aprobación de sus Planes Generales. Los promotores en áreas periurbanas deben cumplir con los porcentajes de vivienda protegida (25% o 35% según el caso).",
+  "effective_date": "2004-09-28",
+  "procedures": [
+    {
+      "name": "Autorización de usos y actuaciones en el Área de Protección",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Entrega de documentación completa ante la Comisión Regional de Ordenación del Territorio y Urbanismo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación técnica según Ley 5/2022"
+        },
+        {
+          "step": 2,
+          "title": "Consulta a la Administración del Estado",
+          "description": "Informe sobre delimitación de la línea de deslinde y afectación al dominio público.",
+          "start_date": "Tras recepción de documentación",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de la Comisión Regional",
+          "description": "Emisión de la resolución definitiva por parte de la autoridad autonómica.",
+          "start_date": "Tras informe del Estado",
+          "end_date": "3 meses (desde entrada en registro)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Informe de Impacto Territorial para Planes Generales (PGOU)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Remisión de documentación",
+          "description": "El Ayuntamiento envía el proyecto de PGOU a la Consejería competente.",
+          "start_date": "Momento de adaptación/revisión del plan",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Emisión de informe",
+          "description": "La Comisión Regional emite informe de adecuación al modelo territorial.",
+          "start_date": "Tras recepción de documentos",
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Actualización del ámbito de aplicación del Plan",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de inclusión",
+          "description": "La Comisión Regional propone incluir suelos indebidamente excluidos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública y audiencia",
+          "description": "Se somete a consulta la propuesta ante el Estado y el Ayuntamiento interesado.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación por Decreto",
+          "description": "El Consejo de Gobierno aprueba la inclusión mediante Decreto tras informe de la Dirección General.",
+          "start_date": "Tras plazo de audiencia",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación del planeamiento municipal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio de la adaptación",
+          "description": "Los municipios deben comenzar la modificación de sus planes para ajustarlos a la nueva Ley.",
+          "start_date": "1 año desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Requerimiento de la Comunidad Autónoma",
+          "description": "Si el municipio no inicia el proceso, la Consejería puede requerirlo.",
+          "start_date": "Tras transcurrido 1 año sin inicio",
+          "end_date": "3 meses tras el requerimiento",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Subrogación de competencia",
+          "description": "La Comunidad Autónoma puede asumir la competencia si no se cumple el plazo.",
+          "start_date": "Tras el vencimiento de los 3 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Delimitación de áreas de tanteo y retracto",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación inicial",
+          "description": "La Consejería propone las áreas y notifica a los titulares conocidos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Periodo para que los interesados consulten y presenten alegaciones.",
+          "start_date": "Tras aprobación inicial",
+          "end_date": "1 mes",
+          "required_documentation": "Alegaciones de fondo o forma"
+        },
+        {
+          "step": 3,
+          "title": "Informe técnico",
+          "description": "Emisión de informe por la Comisión Regional de Ordenación del Territorio y Urbanismo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación definitiva",
+          "description": "El Consejo de Gobierno dicta la resolución final.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

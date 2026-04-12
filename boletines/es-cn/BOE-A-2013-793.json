@@ -1,0 +1,90 @@
+{
+  "identifier": "BOE-A-2013-793",
+  "title": "Ley 8/2012, de 27 de diciembre, de medidas administrativas y fiscales complementarias a las de la Ley 4/2012, de 25 de junio",
+  "visible_title": "Medidas administrativas y fiscales complementarias a la Ley 4/2012",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "8/2012",
+  "publication_date": "2013-01-28",
+  "enactment_date": "2012-12-27",
+  "last_updated": "2018-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2012/12/27/8",
+  "official_journal": "BOC",
+  "journal_issue": "10",
+  "summary": "Esta norma implementa recortes salariales y ajustes fiscales en Canarias para asegurar la sostenibilidad de las finanzas autonómicas ante la crisis económica. Establece la reducción de sueldos para personal público y altos cargos, y regula los complementos económicos por incapacidad temporal. Además, ajusta diversas tasas administrativas y clarifica la condición de comerciante minorista para el impuesto indirecto canario.",
+  "citizen_impact": "El impacto es indirecto para la mayoría de los ciudadanos, aunque afecta a quienes reciben servicios de la administración pública mediante la optimización de recursos. No introduce nuevos trámites para el ciudadano común, salvo en la gestión de tasas específicas.",
+  "professional_impact": "Afecta directamente a los funcionarios y personal de la administración canaria (incluyendo universidades y sanidad) mediante la reducción de sus retribuciones y la supresión de pagas extraordinarias. También impacta a comerciantes minoristas y exportadores de combustibles por cambios en la definición fiscal y procedimientos de devolución.",
+  "keywords": [
+    "recorte salarial",
+    "sector público canario",
+    "incapacidad temporal",
+    "medidas fiscales",
+    "tasas administrativas",
+    "comerciante minorista",
+    "presupuesto público"
+  ],
+  "key_points": [
+    "Reducción del 7,14% en las retribuciones de miembros del Gobierno, altos cargos y personal directivo.",
+    "Supresión de la paga extraordinaria y la paga adicional de complemento específico en diciembre para personal con presupuesto limitativo.",
+    "Regulación de complementos por incapacidad temporal para que el personal reciba hasta el 100% de su sueldo según el periodo de baja.",
+    "Modificación de las tasas para carnés de estudiante y profesor internacional.",
+    "Nueva definición de comerciante minorista para el Impuesto General Indirecto Canario.",
+    "Facultad para la devolución del impuesto especial sobre combustibles a exportadores."
+  ],
+  "legal_references": [
+    "Ley 4/2012, de 25 de junio",
+    "Real Decreto-ley 20/2012, de 13 de julio",
+    "Ley 12/2011, de 29 de diciembre",
+    "Ley 2/1987, de 30 de marzo",
+    "Ley 5/1986, de 28 de julio",
+    "Ley 2/1998, de 6 de abril",
+    "Decreto Legislativo 1/1994"
+  ],
+  "derogations": [
+    "Apartado 5 y segundo párrafo del apartado 6 del artículo 36 de la Ley 2/1987",
+    "Apartado 3 y segundo párrafo del apartado 4 del artículo 16 de la Ley 4/2012",
+    "Artículos 17 (salvo apartado 3), 21, 22 y 24 de la Ley 4/2012"
+  ],
+  "main_obligations": "El personal público sujeto a la norma debe aceptar la reducción de retribuciones y la supresión de pagas según los supuestos establecidos. Los exportadores de combustibles deben solicitar la devolución del impuesto siguiendo los plazos y formas que dicte la Consejería de Hacienda.",
+  "effective_date": "2013-01-29",
+  "procedures": [
+    {
+      "name": "Complemento por incapacidad temporal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio de la incapacidad",
+          "description": "La situación de incapacidad debe iniciarse a partir del 15 de octubre de 2012 para aplicar el nuevo régimen.",
+          "start_date": "2012-10-15",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Cálculo de complementos por tramos",
+          "description": "Reconocimiento de complementos: 50% hasta el día 3, 75% hasta el día 20, y 100% desde el día 21.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Devolución de Impuesto sobre Combustibles",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de devolución",
+          "description": "El exportador debe solicitar la devolución a la Administración Tributaria Canaria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Forma, plazo y condiciones que establezca el Consejero competente."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

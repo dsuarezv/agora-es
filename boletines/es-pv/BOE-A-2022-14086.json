@@ -1,0 +1,172 @@
+{
+  "identifier": "BOE-A-2022-14086",
+  "title": "Ley 9/2022, de 30 de junio, de protección de los animales domésticos",
+  "visible_title": "Ley de protección de los animales domésticos",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "9/2022",
+  "publication_date": "2022-08-25",
+  "enactment_date": "2022-06-30",
+  "last_updated": "2022-08-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2022/06/30/9",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta ley transforma la consideración jurídica de los animales, pasando de ser objetos a seres vivos con sensibilidad. Establece un control estricto sobre su bienestar, prohibiendo prácticas como las mutilaciones estéticas o el abandono prolongado. Regula la cría, el comercio y la gestión de colonias felinas para garantizar un entorno seguro. Además, endurece drásticamente las sanciones por maltrato y negligencia.",
+  "citizen_impact": "Los dueños de mascotas deben identificar y registrar a sus animales en el REGiA en un plazo de 2 meses. Se imponen nuevas reglas de convivencia: uso de correa de máximo 2 metros, recogida inmediata de excrementos y prohibición de dejar perros solos más de 12 horas. Los propietarios de perros deben contratar obligatoriamente un seguro de responsabilidad civil.",
+  "professional_impact": "Los comercios y criaderos enfrentan controles más estrictos, incluyendo inspecciones sin aviso previo y la prohibición de exhibir animales en escaparates. Los ayuntamientos deben implementar el método CER para gatos de colonia. Las empresas de espectáculos circenses pierden la posibilidad de usar animales, y las sanciones económicas para infracciones graves pueden alcanzar los 100.000 euros.",
+  "keywords": [
+    "bienestar animal",
+    "protección de animales",
+    "País Vasco",
+    "mascotas",
+    "método CER",
+    "REGIA",
+    "sanciones animales"
+  ],
+  "key_points": [
+    "Reconocimiento de los animales como seres vivos dotados de sensibilidad.",
+    "Obligatoriedad de esterilización en la transmisión de perros y gatos.",
+    "Prohibición de mutilaciones estéticas (orejas, colas, uñas o cuerdas vocales).",
+    "Límite de soledad: máximo 12 horas para perros y 24 horas para otros animales.",
+    "Obligación de contratar seguro de responsabilidad civil para dueños de perros.",
+    "Prohibición de espectáculos circenses itinerantes y carruseles con animales.",
+    "Gestión obligatoria de colonias felinas mediante el método CER (captura, esterilización, marcado y retorno).",
+    "Prohibición de exhibir animales vivos en escaparates comerciales.",
+    "Prohibición de vender animales menores de dos meses.",
+    "Prohibición de usar collares de castigo (pinchazos o descargas).",
+    "Creación del Registro General de Identificación de Animales de Compañía (REGIA).",
+    "Sanciones de hasta 100.000 euros e inhabilitación de hasta 10 años para tener animales."
+  ],
+  "legal_references": [
+    "Tratado de Funcionamiento de la Unión Europea (Art. 13)",
+    "Tratado de Lisboa",
+    "Convenio de Washington, Berna y Bonn",
+    "Código Penal",
+    "Código Civil (Art. 1905)",
+    "Ley 6/1993 de Protección de los Animales (País Vasco)",
+    "Ley 10/2007 de Perros de Asistencia",
+    "Ley 2/1998, de 20 de febrero, de la potestad sancionadora de las Administraciones Públicas de la Comunidad Autónoma del País Vasco",
+    "REGIA (Registro General de Identificación de Animales de Compañía)",
+    "REIAC (Red Española de Identificación de Animales de Compañía)"
+  ],
+  "derogations": [
+    "Ley 6/1993, de 29 de junio, de Protección de los Animales"
+  ],
+  "main_obligations": "Los ciudadanos deben identificar y registrar a sus mascotas en el REGiA en un plazo de 2 meses. En caso de extravío, se debe comunicar en 72 horas, y en caso de muerte, en un plazo de 10 días.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Gestión de pérdida o extravío de un animal identificado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación del extravío",
+          "description": "El titular debe informar de la pérdida al Registro de Identificación de Animales de la Comunidad Autónoma Vasca.",
+          "start_date": "Máximo 72 horas desde el extravío",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Recogida por la administración",
+          "description": "Los ayuntamientos o diputaciones proceden a la captura y transporte mediante métodos sin sufrimiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Notificación al titular",
+          "description": "Si el animal está identificado, se envía notificación fehaciente al titular en un plazo de 3 días hábiles tras su recogida.",
+          "start_date": "3 días hábiles tras la recogida",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Recuperación del animal",
+          "description": "El titular dispone de un plazo para recuperar al animal abonando los gastos de recogida, estancia y veterinarios.",
+          "start_date": "Desde la notificación",
+          "end_date": "7 días hábiles tras la notificación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de animales sin identificación en centros de recogida",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Identificación y registro",
+          "description": "Se identifica al animal a su entrada en el centro de recogida.",
+          "start_date": "Al momento de la entrada",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de retención",
+          "description": "Periodo en el que el animal permanece en el centro esperando ser reclamado.",
+          "start_date": "Desde la entrada",
+          "end_date": "15 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Destino final",
+          "description": "Si no es reclamado, el animal puede ser objeto de adopción o apropiado por el ayuntamiento.",
+          "start_date": "Tras los 15 días",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación",
+          "description": "Apertura del expediente por la autoridad competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Medidas provisionales/cautelares",
+          "description": "Retirada de animales o cierre de instalaciones para evitar riesgos inmediatos.",
+          "start_date": "Antes de la incoación o tras el inicio del expediente",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Imposición de la sanción (multa, decomiso, inhabilitación o clausura).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Prescripción de infracciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de prescripción de la infracción",
+          "description": "Tiempo transcurrido desde la falta hasta que se pierde la capacidad de sancionar.",
+          "start_date": "Desde el día de la comisión",
+          "end_date": "1 año (leves), 2 años (graves) o 3 años (muy graves)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

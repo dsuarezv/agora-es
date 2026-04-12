@@ -1,0 +1,122 @@
+{
+  "identifier": "BOE-A-2001-17999",
+  "title": "Ley 9/2001, de 21 de agosto, de Conservación de la Naturaleza",
+  "visible_title": "Ley de Conservación de la Naturaleza",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "9/2001",
+  "publication_date": "2001-09-25",
+  "enactment_date": "2001-08-21",
+  "last_updated": "2019-08-07",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2001/08/21/9",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece el marco jurídico para proteger, restaurar y gestionar la biodiversidad, los espacios naturales y la flora y fauna silvestres en Galicia. Define distintas categorías de protección (como parques naturales o reservas) y crea herramientas de planificación para evitar el deterioro ambiental. Además, regula el catálogo de especies amenazadas y establece un régimen de infracciones y sanciones para quienes dañen el patrimonio natural.",
+  "citizen_impact": "Los ciudadanos tienen el deber de respetar los espacios naturales y la obligación de reparar cualquier daño causado. En zonas protegidas, se pueden imponer limitaciones al uso de la propiedad privada y se establece el derecho de la administración a ejercer el tanteo y retracto en la compraventa de terrenos.",
+  "professional_impact": "Empresas y propietarios de terrenos en zonas protegidas deben cumplir con restricciones de uso y planes de ordenación que prevalecen sobre el urbanismo. Los profesionales de la taxidermia deben inscribirse en un registro específico, y cualquier actividad que afecte a especies catalogadas requiere autorizaciones administrativas estrictas.",
+  "keywords": [
+    "biodiversidad",
+    "espacios naturales protegidos",
+    "flora y fauna",
+    "Galicia",
+    "conservación",
+    "medio ambiente",
+    "sanciones ambientales"
+  ],
+  "key_points": [
+    "Creación de la Red gallega de espacios protegidos con diversas categorías (parques, reservas, monumentos, etc.).",
+    "Establecimiento de Planes de Ordenación de los Recursos Naturales con carácter obligatorio y ejecutivo.",
+    "Creación del Catálogo Gallego de Especies Amenazadas y el Registro de Especies de Interés Gallego.",
+    "Introducción del derecho de tanteo y retracto para la Administración en la compraventa de inmuebles en espacios protegidos.",
+    "Obligatoriedad de planes de conservación para la mayoría de los espacios protegidos en un plazo de 2 años.",
+    "Régimen sancionador que clasifica las infracciones en leves, menos graves, graves y muy graves.",
+    "Prohibición general de introducir especies no autóctonas sin autorización."
+  ],
+  "legal_references": [
+    "Constitución Española de 1978",
+    "Estatuto de autonomía de Galicia",
+    "Directiva 92/43/CEE",
+    "Ley 4/1989, de 27 de marzo",
+    "Ley 1/1983, de 23 de febrero",
+    "Ley 7/2012, de 28 de junio, de montes de Galicia",
+    "Ley 1/1993, de 13 de abril, de Protección de los Animales Domésticos y Salvajes en Cautividad",
+    "Ley 30/1992, de 26 de noviembre"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a la Ley 9/2001 en Galicia"
+  ],
+  "main_obligations": "Prohibición de dañar, capturar o comercializar especies catalogadas sin permiso. Obligación de restaurar el medio natural tras una infracción. Multas que pueden alcanzar las 50.000.000 de pesetas para infracciones muy graves.",
+  "effective_date": "2001-09-26",
+  "procedures": [
+    {
+      "name": "Declaración de espacios naturales protegidos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "description": "La Consejería de Medio Ambiente inicia de oficio el procedimiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Elaboración de Plan de Ordenación (para Reservas y Parques)",
+          "description": "Se debe elaborar y aprobar el plan de ordenación antes de la declaración.",
+          "start_date": null,
+          "end_date": "1 año tras la declaración (si se permite la excepción)",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Información pública",
+          "description": "Sometimiento del plan a consulta de los interesados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación",
+          "description": "Resolución mediante Ley (Reservas), Decreto (Parques/Monumentos) u Orden (Interés local/privado).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación",
+          "description": "Apertura del expediente por el Delegado provincial de la Consejería.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Audiencia",
+          "description": "Se otorga derecho a alegaciones al interesado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Imposición de la sanción según la gravedad (Delegado, Director General o Consejero).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

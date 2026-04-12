@@ -1,0 +1,101 @@
+{
+  "identifier": "BOE-A-2007-3601",
+  "title": "Ley 16/2006, de 28 de diciembre, de Protección y Defensa de los Consumiendores y Usuarios de Aragón",
+  "visible_title": "Ley de Protección y Defensa de los Consumidores y Usuarios de Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "16/2006",
+  "publication_date": "2007-02-21",
+  "enactment_date": "2006-12-28",
+  "last_updated": "2019-04-04",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2006/12/28/16",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza la protección del consumidor en Aragón, equiparando los derechos de las compras físicas con las digitales. Refuerza la seguridad de productos y servicios mediante un control administrativo más estricto y rápido. Establece sanciones severas para empresas que engañen o pongan en riesgo la salud pública. Además, garantiza derechos básicos como el aviso previo antes de cortes de suministros esenciales y la devolución inmediata de cobros indebidos.",
+  "citizen_impact": "El ciudadano gana seguridad en sus compras online y protección contra cortes de luz, agua, gas o internet, que ahora requieren un aviso previo de 10 días hábiles. Si una empresa cobra de más, tiene derecho a la devolución inmediata. También se garantiza el acceso a oficinas de información al consumidor en municipios de más de 5.000 habitantes.",
+  "professional_impact": "Las empresas deben cumplir con protocolos estrictos de información (facturas gratuitas, presupuestos por escrito y avisos de riesgos). Se enfrentan a una inspección de consumo con capacidad de entrar en locales sin previo aviso y tomar muestras. El incumplimiento de garantías o el fraude puede acarrear multas de hasta 600.000 euros o el cierre del negocio por hasta cinco años.",
+  "keywords": [
+    "consumidor",
+    "Aragón",
+    "comercio electrónico",
+    "inspección de consumo",
+    "derechos del consumidor",
+    "sanciones",
+    "suministros esenciales"
+  ],
+  "key_points": [
+    "Equiparación total de derechos entre el comercio físico y el comercio electrónico.",
+    "Prohibición de cortar suministros esenciales (agua, luz, gas, internet) sin aviso previo de 10 días hábiles.",
+    "Derecho a la devolución inmediata de cantidades cobradas por encima del precio anunciado o presupuestado.",
+    "La Inspección de Consumo puede entrar en locales sin previo aviso y realizar toma de muestras por triplicado.",
+    "Multas por infracciones muy graves de hasta 600.000 euros o el quíntuplo del valor de los productos.",
+    "Posibilidad de cierre de establecimientos de hasta cinco años en casos de alto riesgo para la salud.",
+    "Obligatoriedad de ofrecer facturas gratuitas y presupuestos por escrito con plazo de validez.",
+    "Responsabilidad directa de la marca etiquetada en caso de fraude en productos envasados.",
+    "Obligación de instalar oficinas de información al consumidor en municipios de más de 5.000 habitantes.",
+    "La obstrucción a la inspección o negativa a entregar documentación se considera infracción.",
+    "Obligación de informar sobre riesgos de uso y medidas de seguridad de forma visible.",
+    "Los proveedores digitales deben informar claramente sobre trámites de contratación y errores de datos."
+  ],
+  "legal_references": [
+    "Estatuto de Auto-nomía de Aragón (art. 20.1 y 35.1.19.ª)",
+    "Ley 8/1997, de 30 de octubre, del Estatuto del Consumidor y Usuario de la Comunidad Autónoma de Aragón",
+    "Recomendación 98/257/CE de la Comisión",
+    "Recomendación 2001/310/CE de la Comisión",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones públicas y del Procedimiento Administrativo Común"
+  ],
+  "derogations": [
+    "Ley 8/1997, de 30 de octubre, del Estatuto del Consumidor y Usuario de la Comunidad Autónoma de Aragón"
+  ],
+  "main_obligations": "Las empresas deben entregar facturas gratuitas, presupuestos por escrito y avisar con 10 días de antelación antes de cortar suministros esenciales. Asimismo, deben permitir el acceso de la Inspección, suministrar datos y exhibir documentación de transacciones cuando se les requiera.",
+  "effective_date": "2007-02-21",
+  "procedures": [
+    {
+      "name": "Medidas cautelares de la Inspección de Consumo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Actuación de inspección",
+          "description": "El inspector adopta medidas de cierre o inmovilización ante riesgo urgente e inminente.",
+          "start_date": "Inmediato",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Ratificación administrativa",
+          "description": "La medida cautelar debe ser ratificada por el órgano competente para mantenerse.",
+          "start_date": "Dentro de los 15 días siguientes a la actuación",
+          "end_date": "15 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Resolución de reclamaciones de servicios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la reclamación",
+          "description": "El consumidor presenta su queja ante el prestador del servicio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de respuesta",
+          "description": "La empresa debe dar respuesta a la reclamación en el plazo más breve posible.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

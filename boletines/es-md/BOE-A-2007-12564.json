@@ -1,0 +1,82 @@
+{
+  "identifier": "BOE-A-2007-12564",
+  "title": "Ley 2/2007, de 27 de marzo, por la que se regula la garantía del suministro eléctrico de la Comunidad de Madrid",
+  "visible_title": "Ley de garantía del suministro eléctrico de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "2/2007",
+  "publication_date": "2007-06-27",
+  "enactment_date": "2007-03-27",
+  "last_updated": "2024-12-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2007/03/27/2",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley establece requisitos adicionales de seguridad y continuidad para el servicio eléctrico en Madrid, más allá de la normativa estatal. Su objetivo es asegurar que la red eléctrica soporte la alta demanda y la densidad urbana de la región. Obliga a las empresas distribuidoras a diseñar infraestructuras con sistemas de respaldo y planes de mantenimiento estrictos para evitar apagones prolongados.",
+  "citizen_impact": "Busca reducir la duración y frecuencia de los cortes de luz en hogares y comercios. Aunque no impone trámites al ciudadano, garantiza un derecho a recibir un suministro estable y con tiempos de reparación definidos ante averías.",
+  "professional_impact": "Las empresas eléctricas deben presentar programas de inversión y medios materiales ante la Comunidad de Madrid. Además, enfrentan sanciones económicas muy elevadas (hasta 30 millones de euros) por fallos graves en el suministro o por no cumplir con las inspecciones técnicas.",
+  "keywords": [
+    "suministro eléctrico",
+    "Comunidad de Madrid",
+    "distribución de energía",
+    "garantía de suministro",
+    "subestaciones",
+    "continuidad del servicio"
+  ],
+  "key_points": [
+    "Obligación de diseñar subestaciones con mercados secundarios para asegurar el suministro en zonas urbanas.",
+    "Las empresas deben comunicar cualquier incidencia eléctrica grave a la Administración en un plazo máximo de 6 horas.",
+    "Se exige la dotación de equipos de emergencia (grupos electrógenos o subestaciones móviles) para atender averías.",
+    "Las empresas deben presentar un programa periódico de inversiones y medios materiales para garantizar la red.",
+    "Las infracciones muy graves pueden conllevar multas de hasta 30.000.000 de euros.",
+    "Se permite declarar de 'interés general' obras eléctricas para agilizar su ejecución frente a licencias municipales.",
+    "Los terceros que causen daños a la red eléctrica mediante obras pueden ser sancionados por la distribuidora."
+  ],
+  "legal_references": [
+    "Ley 54/1997, de 27 de noviembre, del Sector Eléctrico",
+    "Ley Orgánica 3/1983, de 25 de febrero (Estatuto de Autonomía de la Comunidad de Madrid)",
+    "Real Decreto 1955/2000, de 1 de diciembre"
+  ],
+  "derogations": [],
+  "main_obligations": "Las distribuidoras deben mantener las instalaciones en perfecto estado, realizar inspecciones periódicas mediante organismos autorizados y cumplir con los tiempos máximos de reparación de averías. El incumplimiento de estas medidas o la interrupción de suministros esenciales conlleva multas de hasta 30 millones de euros.",
+  "effective_date": "2007-06-28",
+  "procedures": [
+    {
+      "name": "Comunicación de incidencias en el suministro",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de la incidencia",
+          "description": "La empresa debe informar a la Comunidad de Madrid sobre la interrupción del suministro.",
+          "start_date": "Desde el momento de la incidencia",
+          "end_date": "Máximo 6 horas después de ocurrida la incidencia",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización de instalaciones de interés general",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Informe del Ayuntamiento",
+          "description": "El Ayuntamiento debe emitir un informe sobre la conformidad urbanística del proyecto.",
+          "start_date": "Tras la presentación del proyecto",
+          "end_date": "1 mes (puede reducirse a 10 días en caso de urgencia extraordinaria)",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la Consejería",
+          "description": "La Consejería de Energía decide sobre la viabilidad si el informe es favorable o si hay discrepancia.",
+          "start_date": "Tras el plazo del informe municipal",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,119 @@
+{
+  "identifier": "BOE-A-2025-3191",
+  "title": "Real Decreto 103/2025, de 18 de febrero, por el que se crea la Orden del Mérito a la Seguridad del Ministerio del Interior",
+  "visible_title": "Creación de la Orden del Mérito a la Seguridad del Ministerio del Interior",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio del Interior",
+  "official_number": "103/2025",
+  "publication_date": "2025-02-19",
+  "enactment_date": "2025-02-18",
+  "last_updated": "2025-02-19",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/02/18/103",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "43",
+  "summary": "Se crea una nueva condecoración civil para premiar acciones excepcionales que contribuyan a la seguridad pública y ciudadana. Esta distinción reconoce tanto a personas físicas como a entidades (públicas o privadas) que superen sus deberes ordinarios con lealtad y compromiso. El objetivo es incentivar la colaboración ciudadana y premiar la excelencia profesional en el ámbito de la seguridad.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo como incentivo para la colaboración voluntaria en situaciones de emergencia o seguridad.",
+  "professional_impact": "Los miembros de las Fuerzas y Cuerpos de Seguridad podrán recibir esta condecoración como un mérito policial para su valoración profesional. No supone ninguna carga económica ni nueva obligación, pero sí un reconocimiento oficial a la excelencia en su servicio.",
+  "keywords": [
+    "seguridad pública",
+    "condecoración",
+    "mérito",
+    "Ministerio del Interior",
+    "seguridad ciudadana",
+    "reconocimiento civil"
+  ],
+  "key_points": [
+    "Creación de la Orden del Mérito a la Seguridad con modalidades de Cruz (para personas) y Placa (para entidades).",
+    "Las categorías de la Cruz son: Gran Cruz, Cruz de Oro y Cruz de Plata.",
+    "La condecoración puede otorgarse de forma póstuma.",
+    "No conlleva ninguna prestación económica para el beneficiario.",
+    "Para policías, tiene efectos de condecoración policial para su carrera profesional.",
+    "La concesión se inicia siempre de oficio por el Ministerio del Interior.",
+    "Se puede revocar la distinción si el beneficiario es condenado por un delito doloso o realiza actos incompatibles con la Orden.",
+    "La imposición se realizará preferentemente el 15 de junio."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 149.1.29.ª)",
+    "Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad",
+    "Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Ley 50/1997, de 27 de noviembre, del Gobierno",
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales"
+  ],
+  "derogations": [],
+  "main_obligations": null,
+  "effective_date": "2025-03-11",
+  "procedures": [
+    {
+      "name": "Procedimiento de concesión de la Orden del Mérito",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación de oficio",
+          "description": "El Ministro del Interior ordena el inicio del expediente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Instrucción del expediente",
+          "description": "La Secretaría de Estado de Seguridad elabora el expediente con informes técnicos y de la Dirección General de Coordinación y Estudios.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": "Méritos del candidato e informes pertinentes"
+        },
+        {
+          "step": 3,
+          "title": "Propuesta y resolución",
+          "description": "Se formula propuesta al órgano competente para resolver la concesión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de revocación de la condecoración",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación de oficio",
+          "description": "El Ministro del Interior ordena el inicio del procedimiento de revocación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Alegaciones",
+          "description": "El interesado dispone de un plazo para presentar alegaciones o pruebas.",
+          "start_date": null,
+          "end_date": "10 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Audiencia",
+          "description": "Se da trámite de audiencia a la persona interesada.",
+          "start_date": null,
+          "end_date": "10 días",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "El Ministro del Interior dicta la resolución final de revocación.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,103 @@
+{
+  "identifier": "BOE-A-2011-7406",
+  "title": "Ley 1/2011, de 28 de marzo, de Mediación de la Comunidad Autónoma de Cantabria",
+  "visible_title": "Ley de Mediación de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "1/2011",
+  "publication_date": "2011-04-26",
+  "enactment_date": "2011-03-28",
+  "last_updated": "2017-04-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2011/03/28/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco legal para la resolución amistosa de conflictos en Cantabria mediante la figura del mediador. Busca reducir la carga de los tribunales ofreciendo una vía extrajudicial, voluntaria y confidencial para resolver disputas civiles y sociales. Regula desde los requisitos para ser mediador profesional hasta el funcionamiento de la mediación gratuita y el registro oficial de profesionales.",
+  "citizen_impact": "Permite a los ciudadanos resolver conflictos (como disputas familiares o civiles) de forma más rápida, económica y menos traumática que un juicio. Ofrece la posibilidad de acceder a mediación gratuita si se cumplen los requisitos de justicia gratuita y garantiza que el proceso sea totalmente voluntario y confidencial.",
+  "professional_impact": "Crea una nueva profesión regulada en Cantabria: el mediador, que requiere formación específica y estar inscrito en un registro oficial. Los mediadores deben contratar un seguro de responsabilidad civil y están sujetos a un régimen sancionador por incumplir deberes de imparcialidad, confidencialidad o abandono injustificado del proceso.",
+  "keywords": [
+    "mediación",
+    "resolución de conflictos",
+    "extrajudicial",
+    "Cantabria",
+    "mediador profesional",
+    "justicia gratuita",
+    "acuerdo amistoso"
+  ],
+  "key_points": [
+    "La mediación es totalmente voluntaria: las partes pueden abandonar el proceso en cualquier momento sin sanción.",
+    "Se prohíbe la mediación en casos de violencia de género, violencia familiar o situaciones de desigualdad evidente.",
+    "Los mediadores deben estar inscritos en el Registro de Personas Mediadoras de Cantabria.",
+    "La mediación gratuita se gestiona siguiendo los criterios de la justicia gratuita estatal.",
+    "Los acuerdos alcanzados en el ámbito civil y social pueden ser homologados judicialmente para tener fuerza de sentencia.",
+    "Existe un límite de tres meses para la duración de los procesos de mediación gratuita (prorrogables por un mes).",
+    "Se establece un régimen de sanciones para mediadores que cometan infracciones leves, graves o muy graves (como romper la confidencialidad)."
+  ],
+  "legal_references": [
+    "Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil",
+    "Ley de Enjuiciamiento Criminal",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Real Decreto Legislativo 2/1995, de 7 de abril, por el que se aprueba el Texto Refundido de la Ley de Procedimiento Laboral",
+    "Directiva 2008/52/CE",
+    "Ley de Cantabria 1/2004, de 1 de abril, Integral para la Prevención de la Violencia contra las Mujeres y la protección de sus Víctimas",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal"
+  ],
+  "derogations": [],
+  "main_obligations": "Los mediadores están obligados a mantener la confidencialidad, la imparcialidad y a inscribirse en el registro oficial. Las partes deben actuar de buena fe y, si no es mediación gratuita, deben abonar los honorarios profesionales pactados.",
+  "effective_date": "2011-05-01",
+  "procedures": [
+    {
+      "name": "Procedimiento de Mediación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Reunión inicial e información",
+          "description": "El mediador explica el funcionamiento, costes, derechos y deberes a las partes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta inicial de la reunión"
+        },
+        {
+          "step": 2,
+          "title": "Desarrollo de las sesiones",
+          "description": "Fase de debate y negociación para buscar soluciones comunes.",
+          "start_date": null,
+          "end_date": "Máximo 3 meses en mediación gratuita",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Cierre y Acta final",
+          "description": "Redacción del acuerdo alcanzado o acta de imposibilidad de acuerdo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta final de la mediación"
+        }
+      ]
+    },
+    {
+      "name": "Inscripción en el Registro de Personas Mediadoras",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inscripción",
+          "description": "Presentación de la solicitud acreditando formación y requisitos legales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Título oficial o formación específica acreditada"
+        },
+        {
+          "step": 2,
+          "title": "Evaluación y resolución",
+          "description": "La Consejería de Justicia evalúa la solicitud y procede a la inscripción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

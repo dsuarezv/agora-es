@@ -1,0 +1,99 @@
+{
+  "identifier": "BOE-A-2005-13022",
+  "title": "Ley 1/2005, de 24 de junio, de tiempos de respuesta en la atención sanitaria especializada del sistema sanitario público de Extremadura",
+  "visible_title": "Ley de tiempos de respuesta en la atención sanitaria especializada de Extremadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "1/2005",
+  "publication_date": "2005-07-29",
+  "enactment_date": "2005-06-24",
+  "last_updated": "2005-07-07",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2005/06/24/1",
+  "official_journal": "Diario Oficial de Extremadura",
+  "journal_issue": null,
+  "summary": "Esta ley establece límites máximos de espera para que los pacientes en Extremadura reciban atención médica especializada (cirugías, consultas y pruebas) sin esperas excesivas. Si el sistema público no puede cumplir estos plazos, la norma garantiza que el paciente pueda atenderse en un centro privado concertado sin coste adicional. Además, crea un registro único de pacientes en lista de espera para mejorar la transparencia y la gestión de la demanda sanitaria.",
+  "citizen_impact": "Los ciudadanos extremeños ganan el derecho a que su atención médica no se retrase más de unos plazos concretos. Si la sanidad pública falla en esos tiempos, tienen derecho a elegir un centro privado concertado para su tratamiento, con el gasto cubierto por el Servicio Extremeño de Salud.",
+  "professional_impact": "Los profesionales sanitarios y gestores deben cumplir con plazos estrictos y registrar obligatoriamente a los pacientes en un sistema único. Los gestores de salud deben implementar sistemas de información semestrales sobre listas de espera y coordinar la derivación a centros privados cuando se incumplan los tiempos.",
+  "keywords": [
+    "lista de espera",
+    "atención sanitaria especializada",
+    "Extremadura",
+    "derechos del paciente",
+    "tiempos de respuesta",
+    "sanidad pública",
+    "centros concertados"
+  ],
+  "key_points": [
+    "Plazo máximo de 180 días naturales para intervenciones quirúrgicas.",
+    "Plazo máximo de 60 días naturales para primeras consultas externas.",
+    "Plazo máximo de 30 días naturales para pruebas diagnósticas o terapéuticas.",
+    "Derecho a la libre elección de un centro privado concertado si se superan los plazos.",
+    "Creación del Registro de Pacientes en Lista de Espera del Sistema Sanitario Público de Extremadura.",
+    "Obligación de informar semestralmente sobre el estado de las listas de espera.",
+    "El Servicio Extremeño de Salud asume los gastos de la atención en centros privados si incumple los plazos.",
+    "Exclusión de la atención primaria y de las cirugías de trasplante de órganos de esta ley."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 14/1986, de 25 de abril, General de Sanidad",
+    "Ley 10/2001, de 28 de junio, de Salud de Extremadura",
+    "Decreto 4/2003, de 14 de enero",
+    "Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud",
+    "Real Decreto 605/2003, de 23 de mayo",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal",
+    "Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente"
+  ],
+  "derogatons": [
+    "Todas las disposiciones anteriores de igual o inferior rango que se opongan a lo previsto en esta Ley"
+  ],
+  "main_obligations": "El Servicio Extremeño de Salud debe garantizar que las cirugías, consultas y pruebas se realicen en los plazos de 180, 60 y 30 días respectivamente. En caso de incumplimiento, debe facilitar la atención en centros privados concertados y asumir los costes derivados.",
+  "effective_date": "2005-10-29",
+  "procedures": [
+    {
+      "name": "Garantía de atención en centro privado por superación de plazos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Superación del plazo máximo",
+          "description": "El paciente alcanza el límite de días (180, 60 o 30) sin recibir la atención.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Oferta de centro alternativo",
+          "description": "La Dirección General ofrece otros centros públicos de la red para cumplir el plazo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Requerimiento de atención privada",
+          "description": "Si la oferta pública no es suficiente, el paciente solicita vía Defensor de Usuarios la atención en un centro privado concertado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud a través del Defensor de los Usuarios"
+        }
+      ]
+    },
+    {
+      "name": "Desarrollo reglamentario de la Ley",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo para desarrollo normativo",
+          "description": "La Junta de Extremadura debe elaborar los reglamentos necesarios para la aplicación de la ley.",
+          "start_date": "2005-07-29",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

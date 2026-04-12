@@ -1,0 +1,188 @@
+{
+  "identifier": "BOE-A-2017-2421",
+  "title": "Ley 2/2017, de 3 de febrero, por la función social de la vivienda de la Comunitat Valenciana",
+  "visible_title": "Ley por la función social de la vivienda de la Comunidad Valenciana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "2/2017",
+  "publication_date": "2017-03-07",
+  "enactment_date": "2017-02-03",
+  "last_updated": "2023-02-27",
+  "status": "in_force",
+  "scope": "Autoonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2017/02/03/2",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley transforma el acceso a la vivienda en la Comunidad Valenciana, convirtiéndolo en un derecho exigible para personas vulnerables. Su objetivo principal es combatir la desocupación de viviendas de grandes tenedores y proteger a familias en riesgo de exclusión. Introduce medidas drásticas contra el desahucio, como el alquiler con opción a compra para deudores hipotecarios y la prohibición de cortes de suministros básicos sin informe social. Además, busca incentivar el alquiler privado mediante seguros de impago y sanciones severas para quienes mantengan viviendas vacías o realicen acoso inmobiliario.",
+  "citizen_impact": "Los ciudadanos en situación de vulnerabilidad ganan herramientas para evitar desahucios y cortes de luz, agua o gas. Se facilita el acceso a la vivienda mediante ayudas directas al alquiler y la opción de compra para deudores hipotecarios. Además, se protege contra la discriminación en el acceso al alquiler y el acoso inmobiliario, garantizando que los agentes inmobiliarios operen bajo estándares profesionales y seguros.",
+  "professional_impact": "Los grandes tenedores y propietarios de viviendas vacías enfrentan nuevas obligaciones de comunicación y posibles multas coercitivas si no ocupan sus inmuebles. Las empresas de suministros deben implementar protocolos de información sobre pobreza energética y solicitar informes de servicios sociales antes de realizar cortes. Los agentes inmobiliarios deben cumplir con requisitos de formación, registro oficial y responsabilidad civil, mientras que las entidades financieras deben reportar la compra de viviendas protegidas.",
+  "keywords": [
+    "vivienda digna",
+    "función social",
+    "desahucios",
+    "pobreza energética",
+    "grandes tenedores",
+    "alquiler",
+    "vivienda desocupada",
+    "Comunitat Valenciana"
+  ],
+  "key_points": [
+    "Reconocimiento del derecho subjetivo al acceso a una vivienda digna y asequible para vulnerables.",
+    "Creación de un sistema de alquiler con opción a compra para deudores hipotecarios en emergencia social.",
+    "Declaración de vivienda deshabitada para grandes tenedores tras 1 año de desocupación.",
+    "Imposición de multas coercitivas a propietarios que no ocupen viviendas declaradas deshabitadas en 6 meses.",
+    "Reserva del 10% de vivienda pública para víctimas de violencia machista.",
+    "Prohibición de cortes de suministros básicos sin informe previo de servicios sociales.",
+    "Obligación de las suministradoras de informar sobre derechos de pobreza energética en facturas.",
+    "Incentivos para el alquiler privado mediante seguros de impago y rehabilitación gestionada.",
+    "Prohibición de la discriminación indirecta y el acoso inmobiliario.",
+    "Exigencia de formación, establecimiento físico y seguro de responsabilidad civil a agentes inmobiliarios.",
+    "Multas de hasta 950.000 euros por infracciones muy graves como acoso o discriminación.",
+    "Obligación de las empresas de suministros de facilitar datos para identificar viviendas vacías."
+  ],
+  "legal_references": [
+    "Constitución Española (Art. 33 y 47)",
+    "Estatuto de Autonomía de la Comunitat Valenciana (Art. 15 y 16)",
+    "Ley 8/2004, de 20 de octubre, de la Generalitat, de la vivienda de la Comunidad Valenciana",
+    "Pacto internacional de derechos económicos, sociales y culturales (Art. 11)",
+    "Declaración de derechos humanos de 1948 (Art. 25)",
+    "Carta social europea de 1961",
+    "Nueva agenda urbana de las Naciones Unidas (Hábitat III)",
+    "Sentencia del Tribunal de Justicia de la Unión Europea de 14 de marzo de 2013 (Asunto C-415-11)",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal",
+    "Ley 1/2000, de 7 de enero, de enjuiciamiento civil",
+    "Decreto 130/2021"
+  ],
+  "derogations": [],
+  "main_obligations": "Los grandes tenedores deben comunicar semestralmente sus viviendas desocupadas y los propietarios de viviendas declaradas deshabitadas deben ocuparlas en un plazo de 6 meses. Las suministradoras deben solicitar informe de servicios sociales antes de cortar suministros y los agentes inmobiliarios deben inscribirse en el registro oficial.",
+  "effective_date": "2017-03-07",
+  "procedures": [
+    {
+      "name": "Declaración de vivienda deshabitada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Se inicia de oficio o tras comunicación del gran tenedor.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y resolución",
+          "description": "Plazo máximo de un año para dictar resolución tras el inicio.",
+          "start_date": null,
+          "end_date": "1 año",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Obligación de ocupación",
+          "description": "La vivienda debe ser habitada efectivamente tras la notificación.",
+          "start_date": "Desde la notificación",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acceso al derecho subjetivo a la vivienda",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de vivienda",
+          "description": "Presentación de la solicitud ante la consejería competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Inscripción en el registro de demandantes de vivienda"
+        },
+        {
+          "step": 2,
+          "title": "Resolución administrativa",
+          "description": "La administración debe resolver la solicitud.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Silencio administrativo positivo",
+          "description": "Si no hay resolución en el plazo, se entiende otorgado el uso del alojamiento.",
+          "start_date": "Tras 6 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Arrendamiento con opción a compra para deudores hipotecarios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de asistencia",
+          "description": "El propietario demanda la asistencia de la Generalitat ante la demanda de la entidad financiera.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Redacción del contrato",
+          "description": "La consejería redacta el contrato de arrendamiento.",
+          "start_date": "Desde la solicitud",
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento para la declaración de vivienda deshabitada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de inicio",
+          "description": "Se inicia de oficio o por denuncia identificando la vivienda y a los titulares.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Alegaciones",
+          "description": "Los interesados disponen de un plazo para presentar sus argumentos.",
+          "start_date": "10 días",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Periodo de prueba",
+          "description": "Se practican las pruebas propuestas por las partes.",
+          "start_date": "Mínimo 10 días",
+          "end_date": "Máximo 20 días",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Audiencia y oferta de medidas de fomento",
+          "description": "Se ofrece a los propietarios medidas para evitar la declaración de deshabitada.",
+          "start_date": "15 días",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Propuesta de resolución",
+          "description": "El instructor redacta la decisión final tras valorar las pruebas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

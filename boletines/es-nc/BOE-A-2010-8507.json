@@ -1,0 +1,76 @@
+{
+  "identifier": "BOE-A-2010-8507",
+  "title": "Ley Foral 8/2010, de 20 de abril, por la que se regula en Navarra la venta directa de productos ligados a la explotación agraria y ganadera",
+  "visible_title": "Regulación de la venta directa de productos agrarios y ganaderos en Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "8/2010",
+  "publication_date": "2010-05-28",
+  "enactment_date": "2010-04-20",
+  "last_updated": "2023-03-21",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2010/04/20/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma permitía a los agricultores y ganaderos navarros transformar sus propios productos (como hacer mermeladas, quesos o embutidos) para venderlos directamente al consumidor sin intermediarios. El objetivo era aumentar la rentabilidad de las explotaciones rurales y fomentar los circuitos de comercialización cortos. Buscaba dar valor añadido a la producción primaria y ayudar a la supervivencia del sector en el medio rural.",
+  "citizen_impact": "Facilitaba el acceso de los consumidores a productos frescos y transformados directamente desde el origen, permitiendo comprar en ferias o explotaciones. Sin embargo, la norma ha sido derogada, por lo que su aplicación actual depende de la legislación vigente que la sustituyó.",
+  "professional_impact": "Para los agricultores y ganaderos, suponía la oportunidad de diversificar ingresos mediante la transformación artesanal. Imponía requisitos de seguridad alimentaria, trazabilidad y la necesidad de cumplir con sistemas de autocontrol (APPCC) o guías de buenas prácticas para poder comercializar legalmente.",
+  "keywords": [
+    "venta directa",
+    "explotación agraria",
+    "transformación agroalimentaria",
+    "Navarra",
+    "circuitos cortos",
+    "seguridad alimentaria",
+    "trazabilidad"
+  ],
+  "key_points": [
+    "Permite la transformación de materias primas obtenidas exclusivamente en la propia explotación.",
+    "Establece tres modalidades de venta: directa al consumidor, venta parcial con intermediario (exenta de registro sanitario) y venta con permiso sanitario para la UE.",
+    "Obliga a mantener un sistema de trazabilidad para rastrear el producto desde la producción hasta el consumo.",
+    "Exige el cumplimiento de normas de higiene y sistemas de control de riesgos (APPCC o GPCH).",
+    "Define actividades permitidas como la elaboración de zumos, conservas, productos cárnicos, lácteos, miel, aceite y venta de huevos."
+  ],
+  "legal_references": [
+    "Ley Foral 4/2005",
+    "Reglamento (CE) núm. 853/2004",
+    "Reglamento (CE) 852/2004",
+    "Ley Foral 5/2023"
+  ],
+  "derogations": [
+    "Ley Foral 8/2010 (derogada por la Ley Foral 5/2023)"
+  ],
+  "main_obligations": "Los productores deben garantizar la inocuidad de los alimentos, implementar sistemas de autocontrol y asegurar la trazabilidad total de los productos. Deben realizar una declaración de actividad si optan por la modalidad de venta directa.",
+  "effective_date": "2010-06-17",
+  "procedures": [
+    {
+      "name": "Declaración de actividad para venta directa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Realización de la declaración",
+          "description": "Cada explotación que realice venta directa debe presentar una declaración de actividad según la reglamentación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación según desarrollo reglamentario"
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de Registro Sanitario",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inscripción",
+          "description": "Las explotaciones que deseen comercializar en la UE deben solicitar su inscripción en el Registro de Industrias Agroalimentarias.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Modelo de solicitud oficial"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

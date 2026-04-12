@@ -1,0 +1,89 @@
+{
+  "identifier": "BOE-A-2023-3125",
+  "title": "Ley 11/2022, de 29 de diciembre, de mejora de la calidad urbana, ambiental y social de los barrios y villas",
+  "visible_title": "Ley de mejora urbana, ambiental y social de los barrios y villas",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "11/2022",
+  "publication_date": "2023-02-07",
+  "enactment_date": "2022-12-29",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2022/12/29/11",
+  "official_journal": "Diari Oficial de la Generalitat de Catalunya",
+  "journal_issue": null,
+  "summary": "Esta ley crea el Fondo de Recuperación Urbana, Ambiental y Social para combatir la segregación y la pobreza en barrios vulnerables de Cataluña. Busca financiar proyectos integrales que mejoren la vivienda, la eficiencia energética y la cohesión social. El objetivo es evitar que la crisis climática y la desigualdad económica afecten desproporcionadamente a los sectores más desfavorecidos.",
+  "citizen_impact": "Los residentes de barrios degradados o con problemas de habitabilidad podrán beneficiarse de ayudas para rehabilitar sus viviendas, mejorar la eficiencia energética y acceder a mejores servicios públicos. También se busca proteger a los vecinos de procesos de gentrificación mediante mecanismos de control del mercado de la vivienda.",
+  "professional_impact": "Los ayuntamientos y entidades locales deberán elaborar programas de intervención complejos para acceder a la financiación. Las empresas de construcción, rehabilitación y servicios energéticos encontrarán nuevas oportunidades de mercado en las zonas de atención especial, mientras que los propietarios podrían estar sujetos a un censos enfitéutico temporal para recuperar la inversión pública.",
+  "keywords": [
+    "regeneración urbana",
+    "vivienda",
+    "eficiencia energética",
+    "cambio climático",
+    "cohesión social",
+    "fondos públicos",
+    "Cataluña",
+    "barrios vulnerables"
+  ],
+  "key_points": [
+    "Creación del Fondo de Recuperación Urbana, Ambiental y Social para financiar mejoras en barrios críticos.",
+    "Identificación de 'áreas de atención especial' basadas en renta baja, degradación arquitectónica o riesgo climático.",
+    "Financiación de transformaciones físicas que incluyan rehabilitación energética y accesibilidad.",
+    "Introducción de mecanismos para evitar la gentrificación y la especulación tras las mejoras urbanas.",
+    "Posibilidad de aplicar un 'censo enfitéutico' (hasta 10 años) para recuperar la inversión pública si el inmueblando se vende.",
+    "Creación de una Oficina Técnica de Barrios y Villas para asesorar a municipios y evaluar resultados.",
+    "Fomento de la participación ciudadana y de los partenariados público-comunitarios en la gestión de proyectos.",
+    "Los municipios pueden solicitar hasta el 75% (o excepcionalmente el 90%) de la financiación del proyecto."
+  ],
+  "legal_references": [
+    "Ley 2/2004, de 4 de junio, de mejora de barrios, áreas urbanas y villas que requieren una atención especial",
+    "Ley 5/2015, de 13 de mayo, de modificación del libro quinto del Código civil de Cataluña"
+  ],
+  "derogations": [
+    "Ley 2/2004, de 4 de junio, de mejora de barrios, áreas urbanas y villas que requieren una atención especial"
+  ],
+  "main_obligations": "Los municipios que reciban fondos deben ejecutar las actuaciones en un plazo de 5 a 8 años y elaborar un programa memoria de intervención integral. Los propietarios de inmuebles rehabilitados con fondos públicos pueden estar sujetos a la obligación de reintegrar la inversión en caso de venta durante el periodo de censos enfitéuticos.",
+  "effective_date": "2023-01-01",
+  "procedures": [
+    {
+      "name": "Acceso a la financiación del Fondo de Recuperación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Apertura de convocatoria",
+          "description": "El departamento competente abre anualmente la convocatoria para nuevos proyectos o continuidad de los existentes.",
+          "start_date": "Anualmente",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Elaboración del Programa Memoria de Intervención Integral",
+          "description": "El municipio debe redactar un plan detallado que justifique la necesidad de actuación y defina las medidas sociales, físicas y ambientales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Programa memoria con indicadores, presupuesto, calendario y modelo de gobernanza"
+        },
+        {
+          "step": 3,
+          "title": "Examen por la Comisión de Gestión",
+          "description": "La comisión analiza las solicitudes y realiza una propuesta de adjudicación basada en la equidad territorial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución definitiva",
+          "description": "El Consejero competente resuelve sobre qué proyectos se financian y qué importe se asigna.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-2012-1256",
+  "title": "Ley 11/2011, de 28 de diciembre, de medidas fiscales para el fomento de la venta y rehabilitación de viviendas y otras medidas tributarias",
+  "visible_title": "Medidas fiscales para el fomento de la venta y rehabilitación de viviendas",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "11/2011",
+  "publication_date": "2012-01-27",
+  "enactment_date": "2011-12-28",
+  "last_updated": "2011-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2011/12/28/11",
+  "official_journal": "Boletín Oficial de Canarias",
+  "journal_issue": null,
+  "summary": "Esta ley busca reactivar el sector de la construcción en Canarias mediante incentivos fiscales. Introduce un tipo reducido de IGIC para la compra de primera vivienda nueva de bajo coste y crea deducciones en el IRPF para fomentar las obras de reforma y rehabilitación de viviendas. Además, ajusta la escala del IRPF autonómico y eleva el mínimo exento del Impuesto sobre el Patrimonio.",
+  "citizen_impact": "Los ciudadanos canarios pueden pagar menos impuestos al comprar su primera vivienda nueva (siempre que no supere los 150.000€) y obtener beneficios fiscales al reformar su casa. También se reduce la carga fiscal en el IRPF y se protege más el patrimonio personal al aumentar el mínimo exento.",
+  "professional_impact": "Las promotoras de viviendas nuevas se benefician de un tipo de IGIC reducido del 2,75% para incentivar ventas. El sector de la construcción y reformas verá un aumento de la demanda gracias a las deducciones por rehabilitación. Los profesionales deben asegurar que los pagos de las obras se realicen por medios trazables (transferencia, tarjeta, etc.) para que el cliente pueda aplicar la deducción.",
+  "keywords": [
+    "vivienda habitual",
+    "rehabilitación de viviendas",
+    "IGIC reducido",
+    "deducción IRPF",
+    "sector construcción",
+    "Canarias",
+    "impuesto sobre el patrimonio"
+  ],
+  "key_points": [
+    "Nuevo tipo de IGIC del 2,75% para la compra de primera vivienda nueva con base imponible inferior a 150.000€.",
+    "Deducción del 10% en la cuota autonómica del IRPF para obras de rehabilitación o reforma de viviendas en Canarias.",
+    "Deducción especial del 12% para obras de adecuación por discapacidad, con límites de base más elevados.",
+    "Obligación de realizar los pagos de las reformas mediante medios electrónicos (tarjeta, transferencia, cheque) para poder deducirse el gasto.",
+    "Aumento del mínimo exento en el Impuesto sobre el Patrimonio a 700.000 euros.",
+    "Modificación de la escala autonómica del IRPF para ajustarse a la situación económica."
+  ],
+  "legal_references": [
+    "Ley 22/2009, de 18 de diciembre",
+    "Decreto legislativo 1/2009, de 21 de abril",
+    "Ley 35/2006, de 28 de diciembre",
+    "Ley 20/1991, de 7 de junio",
+    "Real Decreto-ley 13/2011, de 18 de septiembre"
+  ],
+  "derogations": [
+    "Todas las normas de igual o inferior rango que se opongan a lo dispuesto en esta ley."
+  ],
+  "main_obligations": "El comprador de una vivienda con el tipo reducido de IGIC debe comunicar su intención de usarla como vivienda habitual al vendedor, preferiblemente en la escritura pública. En caso de incumplimiento del destino de la vivienda, el comprador es responsable solidario de la deuda tributaria.",
+  "effective_date": "2012-01-28",
+  "procedures": [
+    {
+      "name": "Aplicación de deducción por obras de rehabilitación o reforma",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Realización de la obra y pago trazable",
+          "description": "Ejecución de las obras y pago mediante tarjeta, transferencia o cheque nominativo.",
+          "start_date": "2011-09-15",
+          "end_date": "2012-12-31",
+          "required_documentation": "Justificantes de pago bancario y facturas de la obra."
+        },
+        {
+          "step": 2,
+          "title": "Declaración de la deducción",
+          "description": "Aplicación de la deducción en la declaración de la renta (IRPF) dentro de los límites establecidos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Comunicación de destino de vivienda para tipo reducido de IGIC",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación al vendedor",
+          "description": "Comunicación previa o simultánea a la entrega de la vivienda manifestando su uso como primera vivienda habitual.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Comunicación escrita o incorporación en escritura pública."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

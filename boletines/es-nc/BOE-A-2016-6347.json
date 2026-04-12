@@ -1,0 +1,107 @@
+{
+  "identifier": "BOE-A-2016-6347",
+  "title": "Ley Foral 8/2016, de 9 de junio, sobre el Consejo de Navarrra",
+  "visible_title": "Ley sobre el Consejo de Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "8/2016",
+  "publication_date": "2016-07-01",
+  "enactment_date": "2016-06-09",
+  "last_updated": "2016-06-15",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2016/06/09/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma moderniza y regula el funcionamiento del Consejo de Navarra como el máximo órgano consultivo de la Comunidad Foral. Establece un sistema de elección de sus miembros por el Parlamento para garantizar su independencia y neutralidad política. Define sus competencias en la emisión de dictámenes sobre leyes, presupuestos y otros asuntos de relevancia jurídica y administrativa.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta a juristas de prestigio que puedan ser elegidos como miembros, exigiendo 15 años de experiencia y condición política navarra. También impacta a funcionarios de la Administración de Navarra, ya que regula la movilidad y el régimen de personal de este órgano.",
+  "keywords": [
+    "Consejo de Navarra",
+    "órgano consultivo",
+    "derecho foral",
+    "dictámenes",
+    "administración pública",
+    "Navarra"
+  ],
+  "key_points": [
+    "El Consejo se compone de 5 miembros elegidos por el Parlamento de Navarra por mayoría absoluta.",
+    "Los miembros tienen un mandato de 8 años sin posibilidad de reelección.",
+    "Se exige una experiencia profesional mínima de 15 años para los candidatos.",
+    "El Consejo debe emitir dictámenes preceptivos en temas clave como la reforma de la Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral.",
+    "El plazo general para emitir dictámenes es de 45 días hábiles, pudiendo reducirse a 15 en casos urgentes.",
+    "Si el Consejo no emite el dictamen en plazo, se entiende que no hay objeción al asunto.",
+    "Los miembros tienen prohibido ocupar cargos en el Gobierno de Navarra, cargos electivos estatales/europeos o cargos directivos en partidos y sindicatos."
+  ],
+  "legal_references": [
+    "Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra",
+    "Ley Orgánica 7/2010, de 27 de octubre"
+  ],
+  "derogations": [
+    "Ley Foral 8/1999, de 16 de marzo, del Consejo de Navarra"
+  ],
+  "main_obligations": "Los miembros del Consejo están obligados a guardar secreto sobre las actuaciones y deliberaciones, asistir a las reuniones y realizar los estudios y ponencias encomendados.",
+  "effective_date": "2016-07-02",
+  "procedures": [
+    {
+      "name": "Elección de miembros del Consejo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de candidatos",
+          "descrption": "Grupos parlamentarios, colegios de abogados o la Universidad Pública de Navarra proponen candidatos.",
+          "start_date": "En caso de vacante, en el plazo de un mes",
+          "end_date": null,
+          "required_documentation": "Escrito de aceptación del candidato"
+        },
+        {
+          "step": 2,
+          "title": "Comparecencia",
+          "descrption": "Los candidatos exponen sus méritos ante la comisión competente del Parlamento.",
+          "start_date": "Previamente a la sesión de elección",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Elección en el Pleno",
+          "descrption": "El Pleno del Parlamento elige a los miembros por mayoría absoluta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Nombramiento y toma de posesión",
+          "descrption": "La Presidencia del Parlamento comunica el nombre a la Presidencia de la Comunidad para el nombramiento oficial.",
+          "start_date": null,
+          "end_date": "30 días naturales tras el nombramiento",
+          "required_documentation": "Juramento o promesa de respeto al régimen foral y la Constitución"
+        }
+      ]
+    },
+    {
+      "name": "Emisión de dictámenes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de consulta",
+          "descrption": "La autoridad competente solicita el dictamen acompañando la documentación necesaria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Expediente completo y antecedentes"
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y plazo de emisión",
+          "descrption": "El Consejo estudia el asunto y emite el dictamen por escrito.",
+          "start_date": "Desde la recepción de la documentación",
+          "end_date": "45 días hábiles (o 15 si es urgente, o hasta 30 días adicionales con resolución motivada)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

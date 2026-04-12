@@ -1,0 +1,210 @@
+{
+  "identifier": "BOE-A-1995-19108",
+  "title": "Ley 16/1995, de 4 de mayo, Forestal y de Protección de la Naturaleza de la Comunidad de Madrid",
+  "visible_title": "Ley Forestal y de Protección de la Naturaleza de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "16/1995",
+  "publication_date": "1995-08-10",
+  "enactment_date": "1995-05-04",
+  "last_updated": "2023-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1995/05/04/16",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley regula la gestión, protección y aprovechamiento de los montes y espacios naturales en la Comunidad de Madrid. Establece un sistema de clasificación de montes para asegurar su conservación y otorga a la Administración la capacidad de intervenir en su gestión y propiedad. La norma busca equilibrar el uso recreativo y la producción forestal con la necesidad imperativa de proteger los recursos hídricos y la biodiversidad. Además, impone responsabilidades estrictas en caso de incendios, plagas o degradación del suelo para garantizar la restauración del ecosistema.",
+  "citizen_impact": "Los ciudadanos pueden disfrutar de actividades recreativas y recogida limitada de productos forestales (como piñas o plantas medicinales hasta 5kg) sin permiso previo, siempre que no sean especies protegidas. Sin embargo, el acceso a ciertos montes puede ser restringido por motivos de seguridad o conservación, y podrían aplicarse tarifas por el uso recreativo.",
+  "professional_impact": "Los propietarios de montes enfrentan cargas significativas: deben notificar y tratar plagas bajo orden administrativa, restaurar terrenos incendiados (si son culpables) y compensar la pérdida de suelo forestal mediante la reforestación del doble o cuádruple de la superficie ocupada en proyectos urbanísticos. Las empresas extractivas deben obtener informes de la Agencia de Medio Ambiente y restaurar el terreno. Los agentes forestales tienen potestad para paralizar actividades de forma cautelar.",
+  "keywords": [
+    "gestión forestal",
+    "protección de la naturaleza",
+    "montes de utilidad pública",
+    "reforestación obligatoria",
+    "incendios forestales",
+    "suelo forestal",
+    "medio ambiente Madrid"
+  ],
+  "key_points": [
+    "Clasificación de montes en régimen general o especial (Utilidad Pública, Protectores, Protegidos y Preservados).",
+    "Los montes de Utilidad Pública son inalienables, inembargables e imprescriptibles.",
+    "Obligación de reforestar el doble de la superficie perdida por urbanismo (o el cuádruple si es bosque con >30% de cobertura).",
+    "Prohibición de cambiar el uso de terrenos incendiados durante un plazo de 30 años.",
+    "Los propietarios deben notificar plagas y realizar los tratamientos ordenados sin derecho a indemnización.",
+    "Posibilidad de firmar consorcios con la Comunidad para que esta financie la gestión y mantenimiento a cambio de derechos de uso.",
+    "Recogida libre de frutos, piñas o plantas medicinales hasta un límite de 5kg (si no son especies protegidas).",
+    "Las empresas de canteras requieren informe de la Agencia de Medio Ambiente y deben restaurar el terreno.",
+    "Los agentes forestales pueden paralizar actividades cautelarmente ante irregularidades.",
+    "Destinar el 15% de los ingresos de aprovechamiento a fondos de mejora en montes de utilidad pública."
+  ],
+  "legal_references": [
+    "Ley de Montes",
+    "Ley del Patrimonio Forestal del Estado",
+    "Ley de Incendios Forestales",
+    "Ley de Fomento de la Producción Forestal",
+    "Constitución Española",
+    "Ley 4/1989 de Conservación de los Espacios Naturales y de la Flora y Fauna silvestres",
+    "Ley 3/1988 de Gestión del Medio Ambiente de la Comunidad de Madrid",
+    "Ley 10/1991 de Protección del Medio Ambiente",
+    "Ley de Régimen del Suelo y Ordenación Urbana (RD Leg. 1/1992)",
+    "Normativa estatal básica de Montes"
+  ],
+  "derogations": [],
+  "main_obligations": "Los propietarios deben notificar plagas y ejecutar tratamientos obligatorios sin indemnización. En caso de incendios por culpa, deben restaurar la cubierta vegetal en 2 años. Los promotores urbanísticos deben compensar la pérdida de suelo forestal mediante reforestación intensiva.",
+  "effective_date": "1995-08-10",
+  "procedures": [
+    {
+      "name": "Declaración de Monte de Utilidad Pública",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del expediente",
+          "description": "A instancia de la entidad local propietaria o de oficio por la Comunidad de Madrid.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información a propietarios",
+          "description": "Se debe informar a las entidades propietarias para que presenten alegaciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "La declaración se produce mediante decreto del Consejo de Gobierno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Cambio de uso forestal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y Memoria",
+          "description": "Presentación de memoria justificativa y descripción del proyecto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria justificativa y descripción del proyecto"
+        },
+        {
+          "step": 2,
+          "title": "Evaluación de impacto",
+          "description": "Realización de la evaluación de impacto ambiental si procede.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informe de la Agencia de Medio Ambiente",
+          "description": "La Agencia debe autorizar o informar sobre el cambio de uso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Expediente de prevalencia (si aplica)",
+          "description": "Si afecta a montes catalogados, se debe demostrar la prevalencia del nuevo interés sobre el de utilidad pública.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Derecho de Tanteo en transmisión de montes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de enajenación",
+          "description": "El transmitente o comprador debe notificar por escrito a la Comunidad de Madrid el precio y condiciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Notificación escrita con precio y condiciones"
+        },
+        {
+          "step": 2,
+          "title": "Ejercicio de tanteo",
+          "description": "La Comunidad de Madrid tiene un plazo para decidir si compra el monte en las mismas condiciones.",
+          "start_date": "Desde la notificación",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Derecho de Retracto",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Conocimiento de la transmisión",
+          "description": "La Comunidad de Madrid tiene derecho a retractarse si no se notificó o el precio fue inferior al real.",
+          "start_date": "Desde el conocimiento oficial o inscripción en el Registro",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Aprovechamiento Forestal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación de expediente",
+          "description": "Elaboración de pliego de condiciones técnico-facultativas y pago de tasas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Pliego de condiciones y pago de tasa"
+        },
+        {
+          "step": 2,
+          "title": "Emisión de licencia",
+          "description": "Concesión de la licencia de aprovechamiento por la administración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del expediente",
+          "description": "Apertura por denuncia o por actuación de agentes forestales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de inspección o denuncia"
+        },
+        {
+          "step": 2,
+          "title": "Notificación y alegaciones",
+          "description": "Se comunica al presunto responsable los hechos y se le permite defenderse.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Decisión motivada sobre la sanción o archivo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

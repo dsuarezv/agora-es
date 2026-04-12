@@ -1,0 +1,84 @@
+{
+  "identifier": "BOE-A-2018-10760",
+  "title": "Ley 16/2018, de 28 de junio, de derechos y garantías de la dignidad de la persona en el proceso de atención al final de la vida",
+  "visible_title": "Ley de derechos y garantías de la dignidad de la persona en el proceso de atención al final de la vida",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat Valenciana",
+  "official_number": "16/2018",
+  "publication_date": "2018-07-30",
+  "enactment_date": "2018-06-28",
+  "last_updated": "2018-06-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2018/06/28/16",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo deben atenderse las personas en la etapa final de su vida en la Comunidad Valenciana, priorizando su autonomía y dignidad. Establece el derecho a recibir cuidados paliativos, a rechazar tratamientos y a decidir sobre la sedación paliativa o terminal. Busca evitar la obstinación terapéutica y garantizar que la voluntad del paciente se respete incluso si pierde la capacidad de comunicarse.",
+  "citizen_impact": "Los ciudadanos en situación terminal o sus familiares ganan seguridad jurídica para asegurar que se respeten sus deseos médicos. Permite formalizar de forma oficial un documento de voluntades anticipadas para decidir qué tratamientos aceptar o rechazar en el futuro.",
+  "professional_impact": "El personal sanitario y las instituciones (públicas y privadas) tienen ahora deberes legales estrictos sobre la información, la confidencialidad y el respeto a las decisiones del paciente. Se les obliga a evitar la obstinación terapéutica y a consultar el registro de voluntades anticipadas, bajo riesgo de sanciones administrativas.",
+  "keywords": [
+    "final de la vida",
+    "dignidad",
+    "autonomía del paciente",
+    "cuidados paliativos",
+    "voluntades anticipadas",
+    "sedación terminal",
+    "obstinación terapéutica"
+  ],
+  "key_points": [
+    "Derecho a recibir cuidados paliativos integrales en cualquier lugar (hospital, domicilio o residencia).",
+    "Derecho a la sedación paliativa y terminal para aliviar sufrimientos refractarios.",
+    "Derecho a rechazar o interrumpir cualquier tratamiento médico, incluso si esto acelera la muerte.",
+    "Obligatoriedad de respetar el Documento de Voluntades Anticipadas inscrito en el registro.",
+    "Prohibición de la obstinación terapéutica (prolongar la vida biológica sin mejora real).",
+    "Derecho a la compañía permanente de familiares o personas allegadas en centros sanitarios.",
+    "Creación del Observatorio Valenciano de la Muerte Digna para supervisar el cumplimiento de la ley.",
+    "Garantía de una habitación individual para personas en sus últimos días en centros de atención."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 41/2002, de 14 de diciembre, básica reguladora de la autonomía del paciente",
+    "Ley 10/2014, de 29 de diciembre, de salud de la Comunidad Valenciana",
+    "Ley 39/2015, de 1 de octubre, del procedimiento administrativo común",
+    "Ley 14/1986, de 25 de junio, general de sanidad",
+    "Ley Orgánica 1/1996, de 15 de enero, de protección jurídica del menor"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que contravengan esta ley"
+  ],
+  "main_obligations": "Los centros sanitarios y sociales deben garantizar el acceso a cuidados paliativos y respetar la voluntad del paciente. El personal médico debe evitar la obstinación terapéutica y consultar obligatoriamente el registro de voluntades anticipadas. El incumplimiento de deberes como impedir el acompañamiento o no registrar datos clínicos conlleva sanciones administrativas.",
+  "effective_date": "2018-10-30",
+  "procedures": [
+    {
+      "name": "Formalización del Documento de Voluntades Anticipadas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Redacción del documento",
+          "description": "El interesado redacta sus instrucciones ante notario o ante dos testigos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública o escrito con firma de dos testigos"
+        },
+        {
+          "step": 2,
+          "title": "Inscripción en el Registro",
+          "description": "El documento se inscribe en el Registro Centralizado de Voluntades Anticipadas de la Comunidad Valenciana.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento formalizado"
+        },
+        {
+          "step": 3,
+          "title": "Incorporación a la historia clínica",
+          "description": "Una vez inscrito, el documento se integra automáticamente en el historial del paciente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

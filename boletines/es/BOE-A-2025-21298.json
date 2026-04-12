@@ -1,0 +1,107 @@
+{
+  "identifier": "BOE-A-2025-21298",
+  "title": "Real Decreto 942/2025, de 21 de octubre, por el que se regulan los productos sanitarios para diagnóstico in vitro",
+  "visible_title": "Regulación de los productos sanitarios para diagnóstico in vitro",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de Sanidad",
+  "official_number": "942/2025",
+  "publication_date": "2025-10-23",
+  "enactment_date": "2025-10-21",
+  "last_updated": "2025-10-23",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/10/21/942",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "255",
+  "summary": "Esta norma adapta la normativa española al marco europeo para garantizar que los productos de diagnóstico in vitro (como tests de enfermedades o pruebas genéticas) sean seguros y fiables. Refuerza la supervisión de la AEMPS, otorgándole más capacidad para retirar productos peligrosos del mercado. Introduce controles estrictos para la fabricación en centros sanitarios, la distribución y la venta de productos sensibles. Además, establece nuevos requisitos de acreditación para laboratorios y mecanismos de registro para todos los agentes del sector.",
+  "citizen_impact": "Aumenta la seguridad en los resultados de pruebas diagnósticas y genéticas. Los ciudadanos tienen derecho a recibir asesoramiento previo y consentimiento por escrito en castellano antes de realizarse pruebas genéticas. Además, se garantiza que los productos sujetos a prescripción no puedan comprarse por internet, protegiendo la salud pública.",
+  "professional_impact": "Las empresas del sector (fabricantes, distribuidores e importadores) deben cumplir con nuevos requisitos de registro, documentación técnica y supervisión técnica. Los laboratorios de centros sanitarios están obligados a acreditarse bajo la norma ISO 15189. Los fabricantes tienen plazos específicos para obtener licencias y los agentes económicos deberán gestionar la transición de datos hacia el nuevo registro nacional.",
+  "keywords": [
+    "diagnóstico in vitro",
+    "productos sanitarios",
+    "AEMPS",
+    "pruebas genéticas",
+    "seguridad sanitaria",
+    "ISO 15189",
+    "control sanitario"
+  ],
+  "key_points": [
+    "Los centros sanitarios pueden fabricar productos para uso propio sin fines comerciales, comunicándolo previamente a la AEMPS.",
+    "Las pruebas genéticas exigen obligatoriamente asesoramiento y consentimiento expreso por escrito en castellano.",
+    "Se prohíbe la venta por internet de productos que requieran prescripción médica, incluyendo pruebas genéticas.",
+    "Los distribuidores deben contar con un técnico responsable cualificado para supervisar su actividad.",
+    "La AEMPS tiene potestad para retirar productos o imponer medidas cautelares ante riesgos, siendo los costes asumidos por la empresa responsable.",
+    "Los laboratorios de centros sanitarios deben acreditarse obligatoriamente bajo la norma ISO 15189.",
+    "Los fabricantes de productos para terceros disponen de un año para cumplir con la exigencia de la licencia previa de funcionamiento.",
+    "Los fabricantes deben conservar la documentación técnica durante un mínimo de 10 años.",
+    "Los importadores y distribuidores deben garantizar que todas las instrucciones de los productos estén en castellano.",
+    "Se crea un registro de comercialización obligatorio para todos los agentes económicos en España."
+  ],
+  "legal_references": [
+    "Reglamento (UE) 2017/746",
+    "Real Decreto 1662/2000",
+    "Real Decreto 1277/2003",
+    "Ley 14/1986",
+    "Ley 41/2002",
+    "Ley Orgánica 3/2018",
+    "Ley 14/2007",
+    "Ley 39/2015",
+    "Real Decreto 186/2016",
+    "Real Decreto 601/2019",
+    "Real Decreto 1029/2022",
+    "Real Decreto 1836/1999",
+    "Real Decreto 1085/2009",
+    "Real Decreto 1275/2011",
+    "Real Decreto 1644/2008",
+    "Real Decreto 1090/2015",
+    "Real Decreto 81/2014",
+    "Real Decreto 1337/1999",
+    "Real Decreto Legislativo 1/2015",
+    "Norma ISO 15189",
+    "Directiva 98/79/CE"
+  ],
+  "derogations": [
+    "Real Decreto 1662/2000, de 29 de septiembre"
+  ],
+  "main_obligations": "Los laboratorios deben acreditarse bajo la norma ISO 15189 y los centros sanitarios que fabriquen productos propios deben comunicar su actividad a la AEMPS. Los agentes económicos deben actualizar anualmente su registro y, una vez operativo el sistema nacional, tienen 6 meses para traspasar la información desde EuVaMDED.",
+  "effective_date": "2025-10-23",
+  "procedures": [
+    {
+      "name": "Comercialización y puesta en servicio de productos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación en EuVamned",
+          "description": "Registro de la información del producto en la base de datos europea.",
+          "start_date": "Depende de la operatividad de EuVamned",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comunicación al Registro de comercialización nacional",
+          "description": "Traspaso de la información al registro español una vez este sea operativo.",
+          "start_date": "Desde la notificación en EuVamned",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Obtención de licencia para fabricantes de productos para terceros",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de carencia de licencia previa",
+          "description": "Periodo de gracia para fabricantes que ya realizaban la actividad completa para terceros.",
+          "start_date": "2025-10-23",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

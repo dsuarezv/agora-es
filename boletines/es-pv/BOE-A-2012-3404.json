@@ -1,0 +1,100 @@
+{
+  "identifier": "BOE-A-2012-3404",
+  "title": "Ley 5/1989, de 6 de julio, de Protección y Ordenación de la Reserva de la Biosfera de Urdaibai",
+  "visible_title": "Ley de Protección y Ordenación de la Reserva de la Biosfera de Urdaibai",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "5/1989",
+  "publication_date": "2012-03-10",
+  "enactment_date": "1989-07-06",
+  "last_updated": "1997-11-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1989/07/06/5",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta ley establece un régimen jurídico especial para proteger y gestionar la Reserva de la Biosfera de Urdaibai, un espacio de alto valor natural y arqueológico. Su objetivo es armonizar el desarrollo socioeconómico y turístico con la conservación de los ecosistemas (ría, litoral, encinares y yacimientos). Para ello, crea un Patronato de gestión y obliga a la creación de un Plan Rector de Uso y Gestión que prevalecerá sobre el planeamiento urbanístico.",
+  "citizen_impact": "Los ciudadanos que vivan o realicen actividades en la zona deben respetar restricciones específicas de uso del suelo y actividades recreativas. Se limita la transformación de la naturaleza del terreno en áreas protegidas y se establecen normas para el uso de recursos naturales.",
+  "professional_impact": "Empresas turísticas, constructoras y agricultores enfrentan restricciones estrictas en las áreas de especial protección, requiriendo autorizaciones previas del Gobierno Vasco para ciertas actividades. Los ayuntamientos afectados tienen derechos de tanteo y retracto en la compraventa de terrenos protegidos y deben coordinarse con el Plan Rector.",
+  "keywords": [
+    "Reserva de la Biosfera",
+    "Urdaibai",
+    "protección ambiental",
+    "gestión del territorio",
+    "Patronato",
+    "paisaje",
+    "yacimientos arqueológicos"
+  ],
+  "key_points": [
+    "Creación de áreas de especial protección: ría, litoral, encinares cantábricos e interés arqueológico.",
+    "El Plan Rector de Uso y Gestión tiene prioridad sobre el planeamiento urbanístico municipal.",
+    "Se establece un Patronato para la gestión y vigilancia de la Reserva.",
+    "Los usos existentes legalizados antes de la ley se consideran 'tolerados' pero no pueden ampliarse.",
+    "Se imponen restricciones severas a la construcción y actividades forestales en zonas arqueológicas.",
+    "Las administraciones tienen derecho de tanteo y retracto en la transmisión de terrenos protegidos.",
+    "Se tipifican infracciones ambientales muy graves, graves y leves con multas económicas significativas."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía para el País Vasco (artículo 10.31)",
+    "Estatuto de Autonomía para el País Vasco (artículo 11.1 a)",
+    "Ley Orgánica 3/1979, de 18 de Diciembre",
+    "Ley de 17 de julio de 1958 de Procedimiento Administrativo"
+  ],
+  "derogations": [],
+  "main_obligations": "Prohibición de realizar actividades que transformen la naturaleza de las áreas de especial protección. Obligación de solicitar autorización al órgano ambiental para instalaciones permanentes, dragados o saneamiento. Las infracciones muy graves pueden conllevar multas de hasta 50.000.000 de pesetas.",
+  "effective_date": "1989-07-07",
+  "procedures": [
+    {
+      "name": "Elaboración del Plan Rector de Uso y Gestión",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Redacción del Plan",
+          "descrption": "El órgano ambiental del Gobierno Vasco redacta el plan con enfoque en aguas, vegetación y usos tradicionales.",
+          "start_date": "1989-07-06",
+          "end_date": "1 año después de la promulgación",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "descrption": "Periodo para que la ciudadanía presente alegaciones.",
+          "start_date": "Tras la redacción",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Audiencia a administraciones",
+          "descrption": "Trámite de audiencia a ayuntamientos y Diputación Foral de Bizkaia.",
+          "start_date": "Tras la información pública",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación definitiva",
+          "descrption": "Elevación al Gobierno Vasco para su aprobación tras informe del Patronato.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Constitución del Patronato",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Constitución",
+          "descrption": "Creación del órgano de gestión de la Reserva.",
+          "start_date": "1989-07-06",
+          "end_date": "6 meses después de la entrada en vigor",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

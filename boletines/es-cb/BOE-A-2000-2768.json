@@ -1,0 +1,75 @@
+{
+  "identifier": "BOE-A-2000-2768",
+  "title": "Ley 11/1999, de 27 de diciembre, de Medidas Fiscales y Administrativas",
+  "visible_title": "Ley de Medidas Fiscales y Administrativas de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "11/1999",
+  "publication_date": "2000-02-11",
+  "enactment_date": "1999-12-27",
+  "last_updated": "2001-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/1999/12/27/11",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "journal_issue": null,
+  "summary": "Esta norma actualiza el sistema de tasas y la gestión administrativa en Cantabria. Introduce nuevos pagos por servicios educativos y sanitarios, ajusta los costes de servicios náuticos y de carreteras, y establece un marco jurídico para la construcción y explotación de infraestructuras portuarias mediante concesiones. Además, reorganiza entidades públicas y define la naturaleza de la empresa TRAGSA.",
+  "citizen_impact": "Los ciudadanos deberán pagar nuevas tasas por la expedición de títulos académicos y por la habilitación de profesionales sanitarios. También se actualizan los precios de ciertos servicios náuticos y de gestión de carreteras en la región.",
+  "professional_impact": "Las empresas del sector portuario disponen de un nuevo marco para participar en concesiones de obras públicas, con reglas sobre la cesión de proyectos a terceros y regímenes económicos. Los profesionales sanitarios y el sector educativo enfrentan nuevos costes por trámites de habilitación y titulación.",
+  "keywords": [
+    "tasas administrativas",
+    "infraestructuras portuarias",
+    "concesiones de obras",
+    "Cantabria",
+    "gestión pública",
+    "títulos académicos",
+    "profesionales sanitarios"
+  ],
+  "key_points": [
+    "Creación de la tasa por expedición de títulos y diplomas académicos.",
+    "Creación de la tasa por habilitación de profesionales sanitarios.",
+    "Actualización de tarifas en servicios náutico-pesqueros y de carreteras.",
+    "Regulación de contratos de concesión para infraestructuras portuarias con plazos máximos de 75 años.",
+    "Obligación de realizar estudios de viabilidad técnica, económica y social antes de construir puertos.",
+    "Posibilidad de que la Administración exija a los concesionarios portuarios ceder al menos un 30% de la obra a terceros.",
+    "Extinción del Patronato del Conservatorio de Música «Jesús de Monasterio».",
+    "Reconocimiento de TRAGSA como medio propio instrumental de la Administración."
+  ],
+  "legal_references": [
+    "Ley 9/1992 de Tasas y Precios Públicos del Gobierno de Cantabria",
+    "Ley Orgánica 1/1990 de Ordenación General del Sistema Educativo",
+    "Ley 4/1999 de Organismos Públicos de la Comunidad Autónoma de Cantabria",
+    "Ley 66/1997 de Medidas Fiscales, Administrativas y del Orden Social",
+    "Ley 13/1995 de Contratos de las Administraciones Públicas"
+  ],
+  "derogations": [
+    "Apartado uno de la disposición adicional primera de la Ley de Cantabria 13/1998"
+  ],
+  "main_obligations": "Los concesionarios de obras portuarias deben garantizar el equilibrio financiero y cumplir con los requisitos de cesión de obra a terceros si la Administración lo exige. Los estudios de viabilidad deben incluir obligatoriamente análisis de demanda, riesgos, medio ambiente y rentabilidad social.",
+  "effective_date": "2000-02-12",
+  "procedures": [
+    {
+      "name": "Concesión de obras públicas de infraestructura portuaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Estudio previo de viabilidad",
+          "description": "Realización de análisis de rentabilidad social, viabilidad técnica, económica, riesgos y factores medioambientales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudio de demanda, análisis de riesgos y evaluación de impacto medioambiental."
+        },
+        {
+          "step": 2,
+          "title": "Contratación y concesión",
+          "description": "Celebración del contrato donde el concesionario obtiene el derecho de explotación a cambio de construir la obra.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

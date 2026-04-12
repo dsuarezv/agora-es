@@ -1,0 +1,73 @@
+{
+  "identifier": "BOE-A-2012-7520",
+  "title": "Ley 6/2012, de 17 de mayo, de estabilidad presupuestaria",
+  "visible_title": "Ley de estabilidad presupuestaria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "6/2012",
+  "publication_date": "2012-06-06",
+  "enactment_date": "2012-05-17",
+  "last_updated": "2017-03-30",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2012/05/17/6",
+  "official_journal": "Diari Oficial de la Generalitat de Catalunya",
+  "journal_issue": null,
+  "summary": "Esta norma establece las reglas para que la Generalitat de Catalunya mantenga sus cuentas equilibradas y no se endeude en exceso. Su objetivo principal es garantizar la sostenibilidad económica y la autonomía financiera de la región mediante el control del déficit y la deuda. Para ello, obliga a ajustar los gastos a los ingresos y crea un fondo de reserva para épocas de excedentes.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que regula la gestión interna de las cuentas públicas.",
+  "professional_impact": "Afecta directamente a funcionarios y gestores de la Administración de la Generalitat y sus organismos, quienes deben cumplir estrictos límites de gasto y presentar planes presupuestarios a medio plazo. Impone una mayor carga de transparencia y reporte de información económica.",
+  "keywords": [
+    "estabilidad presupuestaria",
+    "déficit estructural",
+    "deuda pública",
+    "sostenibilidad financiera",
+    "presupuesto",
+    "Cataluña"
+  ],
+  "key_points": [
+    "Establece un objetivo de déficit estructural del 0,14% del PIB catalán para el año 2019.",
+    "Crea un fondo de reserva alimentado por excedentes para cancelar deuda o evitar nuevos créditos.",
+    "Otorga prioridad absoluta al pago de intereses y capital de la deuda sobre cualquier otro gasto.",
+    "Obliga al Gobierno a presentar un marco presupuestario a medio plazo (entre 3 y 5 años).",
+    "Exige que el límite máximo de gasto no financiero se presente al Parlamento antes del 31 de julio de cada año.",
+    "Permite revisar límites en casos de catástrofes naturales o recesión económica declarada."
+  ],
+  "legal_references": [
+    "Estatuto de autonomía de Cataluña",
+    "Tratado de Funcionamiento de la Unión Europea",
+    "Protocolo sobre el procedimiento aplicable en caso de déficit excesivo",
+    "Pacto de estabilidad y crecimiento",
+    "Ley orgánica 2/2012, de 27 de abril, de estabilidad presupuestaria y sostenibilidad financiera",
+    "Ley 23/1998, de 30 de diciembre, de estadística de Cataluña"
+  ],
+  "derogations": [
+    "Todas las disposiciones de igual o inferior rango que se opongan o contradigan esta ley."
+  ],
+  "main_obligations": "La Administración debe cumplir con los límites de déficit estructural y deuda fijados. El Gobierno tiene la obligación de presentar anualmente el límite de gasto no financiero antes del 31 de julio y elaborar un marco presupuestario plurianual.",
+  "effective_date": "2012-06-07",
+  "procedures": [
+    {
+      "name": "Planificación y control presupuestario anual",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación del límite de gasto",
+          "description": "El Gobierno debe presentar al Parlamento el límite máximo de gasto no financiero para el año siguiente.",
+          "start_date": "cada año",
+          "end_date": "31 de julio",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Elaboración del marco presupuestario a medio plazo",
+          "description": "Presentación de una programación de 3 a 5 años con proyecciones de ingresos y gastos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

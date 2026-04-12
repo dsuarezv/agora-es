@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-2012-9374",
+  "title": "Ley 7/2012, de 13 de junio, de medidas urgentes para la ordenación urbanística sostenible",
+  "visible_title": "Medidas urgentes para la ordenación urbanística sostenible",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "7/2012",
+  "publication_date": "2012-07-14",
+  "enactment_date": "2012-06-13",
+  "last_updated": "2017-12-29",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2012/06/13/7",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta norma busca reactivar el sector urbanístico en las Illes Baleares tras la crisis económica, eliminando la parálisis causada por la excesiva rigidez de los trámites. Define con precisión qué es suelo urbano y urbanizable, y establece nuevas reglas para la gestión de asentamientos en entornos rurales. Además, introduce medidas para agilizar la tramitación de planes y simplificar la legalización de construcciones.",
+  "citizen_impact": "Para el ciudadano común, la ley busca facilitar la regularización de viviendas y la mejora de infraestructuras en zonas ya urbanizadas. También establece mecanismos para que los ayuntamientos puedan gestionar mejor la vivienda protegida y los servicios básicos en núcleos rurales.",
+  "professional_impact": "Los promotores inmobiliarios y constructores ven modificadas sus obligaciones de cesión de suelo y reservas de vivienda protegida. Los técnicos municipales y urbanistas disponen de herramientas para agilizar la modificación de planes y la gestión de usos en suelo rústico, aunque deben cumplir con nuevos requisitos de viabilidad económica.",
+  "keywords": [
+    "urbanismo",
+    "suelo urbano",
+    "suelo urbanizable",
+    "suelo rústico",
+    "Illes Baleares",
+    "ordenación territorial",
+    "vivienda protegida",
+    "cesión de suelo"
+  ],
+  "key_points": [
+    "Nueva definición de suelo urbano que exige la existencia de servicios básicos (agua, luz, vías).",
+    "Creación de la categoría de 'asentamientos en el medio rural' para núcleos que no requieren todos los servicios urbanos estándar.",
+    "Establecimiento de una obligación de cesión de suelo del 15% para actuaciones de transformación urbanística.",
+    "Reserva obligatoria del 30% de la edificabilidad residencial para vivienda de protección pública.",
+    "Posibilidad de utilizar sistemas de depuración individuales en asentamientos rurales para evitar costes de alcantarillado.",
+    "Simplificación de trámites para modificar planes urbanísticos y agilizar la gestión de polígonos industriales.",
+    "Nuevas reglas para permitir usos sostenibles y de interés general en suelo rústico.",
+    "Reducción de sanciones en casos de legalización voluntaria de construcciones."
+  ],
+  "legal_references": [
+    "Ley 4/2008, de 14 de mayo",
+    "Ley 12/2017, de 29 de diciembre",
+    "Ley 2/2014, de 25 de marzo",
+    "Ley 6/1999, de 3 de abril",
+    "Ley 10/1990, de 23 de junio",
+    "Ley 6/1997, de 8 de julio",
+    "Real Decreto Legislativo 2/2008"
+  ],
+  "derogations": [
+    "Ley 4/2008, de 14 de mayo",
+    "Decreto Ley 2/2012, de 17 de febrero",
+    "Artículos 10 y 11 de la Ley 10/2010",
+    "Ley 10/1989, de 2 de noviembre"
+  ],
+  "main_obligations": "Los promotores deben ceder el 15% de la edificabilidad en actuaciones de transformación y reservar el 30% para vivienda protegida. En suelo rústico, las actividades de interés general o extractivas deben abonar una prestación compensatoria del 10% del coste de inversión.",
+  "effective_date": "2012-07-15",
+  "procedures": [
+    {
+      "name": "Legalización de construcciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de legalización",
+          "description": "El interesado debe solicitar la legalización dentro de los plazos fijados para evitar sanciones mayores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación técnica de la obra"
+        },
+        {
+          "step": 2,
+          "title": "Imposición de sanción (si no se legaliza a tiempo)",
+          "description": "Multa del 5% al 10% del valor de la obra si se solicita fuera de plazo pero antes de la sanción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de usos en suelo rústico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Trámite de información pública",
+          "description": "Anuncio en el BOIB y punto de acceso electrónico para alegaciones.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Emisión de informe y notificación",
+          "description": "El órgano competente emite el informe tras el periodo de alegaciones y notifica al municipio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

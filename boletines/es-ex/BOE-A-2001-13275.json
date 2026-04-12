@@ -1,0 +1,105 @@
+{
+  "identifier": "BOE-A-2001-13275",
+  "title": "Ley 5/2001, de 10 de mayo, de Crédito Cooperativo",
+  "visible_title": "Ley de Crédito Cooperativo",
+  "rank": "ley",
+  "country": "es",
+  "department": "Junta de Extremadura",
+  "official_number": "5/2001",
+  "publication_date": "2001-07-10",
+  "enactment_date": "2001-05-10",
+  "last_updated": "2022-11-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2001/05/10/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula el funcionamiento de las cooperativas de crédito en Extremadura para fomentar el desarrollo económico regional. Establece las reglas para su creación, gestión, control y disolución, asegurando que su actividad financiera sirva principalmente a las necesidades de sus socios. Además, crea mecanismos de supervisión autonómica y figuras de protección al cliente para garantizar la estabilidad del sistema financiero local.",
+  "citizen_impact": "Los ciudadanos extremeños que sean socios de estas cooperativas cuentan con una mayor protección de sus derechos y una supervisión más cercana de la Junta de Extremadura. También se garantiza la existencia de un Defensor del Cliente para resolver posibles conflictos.",
+  "professional_impact": "Las entidades de crédito cooperativo en Extremadura deben cumplir con requisitos estrictos de capital, organización y transparencia, además de someterse a auditorías externas. Los directivos y consejeros enfrentan nuevas obligaciones de registro en un Registro de Altos Cargos y deben cumplir con regímenes de incompatibilidad y responsabilidad profesional.",
+  "keywords": [
+    "crédito cooperativo",
+    "Extremadura",
+    "entidades de crédito",
+    "cooperativas",
+    "sector financiero",
+    "desarrollo regional",
+    "defensor del cliente"
+  ],
+  "key_points": [
+    "Creación de un Registro de Cooperativas de Crédito de la Comunidad Autónoma de Extremadura.",
+    "Obligatoriedad de contar con un Defensor del Cliente para proteger a los usuarios.",
+    "Establecimiento de límites para las operaciones con terceros (máximo 50% de los recursos totales).",
+    "Creación del Registro de Altos Cargos para supervisar a los directivos.",
+    "Exigencia de un capital social mínimo y auditoría externa obligatoria.",
+    "Regulación de las 'Secciones de Crédito' para cooperativas que no son entidades de crédito.",
+    "Obligación de destinar parte de los excedentes a Fondos de Educación y Promoción.",
+    "Requisito de contar con un Consejo Rector de entre 5 y 15 miembros."
+  ],
+  "legal_references": [
+    "Ley 13/1989, de 26 de mayo, de Cooperativas de Crédito",
+    "Real Decreto 84/1993, de 22 de enero",
+    "Ley 2/1998, de 26 de marzo, de Sociedades Cooperativas de Extremadura",
+    "Sentencia 155/1993 del Tribunal Constitucional",
+    "Ley 19/1988, de 12 de julio, de Auditoría de Cuentas",
+    "Ley 26/2003, de 17 de julio"
+  ],
+  "derogations": [
+    "Ley 2/1996, de 30 de mayo, de derogación de la Ley 4/1995, de 5 de abril, de Crédito Cooperativo"
+  ],
+  "main_obligations": "Las cooperativas deben mantener un capital social mínimo, someter sus cuentas a auditoría externa y comunicar cualquier cambio en sus órganos de gobierno en un plazo de 15 días. Deben destinar al menos un 20% de sus excedentes al Fondo de Reserva Obligatorio y un 15% al Fondo de Educación y Promoción.",
+  "effective_date": "2001-07-11",
+  "procedures": [
+    {
+      "name": "Creación de una Cooperativa de Crédito",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Presentación de la solicitud ante la Consejería de Economía, Industria y Comercio incluyendo estatutos, programa de actividades y relación de socios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de Estatutos, Certificación negativa de denominación, Programa de actividades, Relación de socios y capital, Relación de Consejo Rector y Directores, Justificación de depósito."
+        },
+        {
+          "step": 2,
+          "title": "Resolución estatal",
+          "description": "La Consejería eleva el informe al Ministro de Economía y Hacienda para la resolución definitiva.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Inscripción",
+          "description": "Tras la autorización, se debe inscribir en el Registro Especial del Banco de España, en el Registro Mercantil y en el Registro de Cooperativas de Crédito de Extremadura.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública de constitución y Estatutos."
+        }
+      ]
+    },
+    {
+      "name": "Modificación de Estatutos o procesos de fusión/escisión",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de la Asamblea General",
+          "description": "La Asamblea debe aprobar el cambio por mayoría cualificada (4/5 en ciertos casos).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Autorización administrativa",
+          "description": "El Consejo de Gobierno de la Junta de Extremadura debe autorizar la operación previa propuesta del Consejero competente e informe del Banco de España.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

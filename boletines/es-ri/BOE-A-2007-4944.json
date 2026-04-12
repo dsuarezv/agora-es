@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-2007-4944",
+  "title": "Ley 1/2007, de 12 de febrero, de Fundaciones de la Comunidad Autónoma de La Rioja",
+  "visible_title": "Ley de Fundaciones de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "1/2007",
+  "publication_date": "2007-03-09",
+  "enactment_date": "2007-02-12",
+  "last_updated": "2017-04-01",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2007/02/12/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula la creación, funcionamiento y control de las fundaciones que operan principalmente en La Rioja. Su objetivo es dar seguridad jurídica al tercer sector y facilitar la participación ciudadana en fines de interés general. Establece las reglas para la dotación económica, la estructura de gobierno (patronato) y la supervisión que ejerce el Protectorado autonómico.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo para aquellos que deseen fundar una entidad sin ánimo de lucro o participar en su gestión.",
+  "professional_impact": "Afecta directamente a fundadores, patronos y gestores de entidades sociales en La Rioja. Introduce requisitos de dotación mínima (30.000€), la obligación de presentar un plan de actuación anual y la necesidad de inscribirse en el Registro de Fundaciones de La Rioja para tener personalidad jurídica.",
+  "keywords": [
+    "fundaciones",
+    "La Rioja",
+    "tercer sector",
+    "patronato",
+    "protectorado",
+    "interés general",
+    "sin ánimo de lucro"
+  ],
+  "key_points": [
+    "Dotación mínima presunta de 30.000 euros para constituir una fundación.",
+    "Posibilidad de realizar aportaciones dinerarias de forma sucesiva (mínimo 25% inicial en 5 años).",
+    "Obligatoriedad de contar con un Secretario y la posibilidad de contratar un Gerente para la gestión.",
+    "El Protectorado supervisa la legalidad y puede intervenir en caso de irregularidades graves.",
+    "Obligación de presentar anualmente un plan de actuación y las cuentas anuales ante el Protectorado.",
+    "Las fundaciones deben destinar al menos el 70% de sus resultados a los fines fundacionales.",
+    "Prohibición de que los patronos contraten con la fundación sin autorización previa del Protectorado."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de La Rioja",
+    "Ley 50/2002, de 26 de diciembre, de Fundaciones",
+    "Ley 49/2002, de 23 de diciembre, de Régimen fiscal de las entidades sin fines lucrativos",
+    "Ley 3/2003, de 3 de marzo, de Organización del Sector Público de la Comunidad Autónoma de La Rioja",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común"
+  ],
+  "derogations": [],
+  "main_obligations": "Las fundaciones deben inscribirse en el Registro de Fundaciones de La Rioja, presentar anualmente sus cuentas y plan de actuación, y destinar al menos el 70% de sus ingresos netos a sus fines sociales.",
+  "effective_date": "2007-03-21",
+  "procedures": [
+    {
+      "name": "Constitución de una fundación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Certificación de denominación",
+          "description": "Obtener certificación del Registro de Fundaciones de La Rioja de que el nombre no está duplicado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificación del Registro"
+        },
+        {
+          "step": 2,
+          "title": "Otorgamiento de escritura pública",
+          "description": "Formalizar la constitución mediante escritura ante notario, incluyendo estatutos y dotación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública, estatutos, acreditación de dotación"
+        },
+        {
+          "step": 3,
+          "title": "Inscripción registral",
+          "description": "Inscribir la escritura en el Registro de Fundaciones de La Rioja para obtener personalidad jurídica.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": "Escritura de constitución"
+        }
+      ]
+    },
+    {
+      "name": "Gestión de cuentas anuales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación de cuentas",
+          "description": "El patronato debe aprobar las cuentas anuales del ejercicio anterior.",
+          "start_date": null,
+          "end_date": "6 meses desde el cierre del ejercicio",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Remisión al Protectorado",
+          "description": "Enviar las cuentas, inventario y memoria al Protectorado.",
+          "start_date": null,
+          "end_date": "30 días tras la aprobación",
+          "required_documentation": "Cuentas anuales, inventario, memoria"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

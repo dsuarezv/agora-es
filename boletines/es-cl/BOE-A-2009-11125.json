@@ -1,0 +1,183 @@
+{
+  "identifier": "BOE-A-2009-11125",
+  "title": "Ley 5/2009, de 4 de junio, del ruido de Castilla y León",
+  "visible_title": "Ley del ruido de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "5/2009",
+  "publication_date": "2009-07-06",
+  "enactment_date": "2009-06-04",
+  "last_updated": "2021-02-25",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2009/06/04/5",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley regula la protección contra la contaminación acústica en Castilla y León para proteger la salud y el bienestar. Establece cómo se clasifica el territorio según su nivel de ruido y obliga a los ayuntamientos y empresas a cumplir con límites estrictos. Introduce medidas de control tecnológico para locales de ocio y define sanciones severas para quienes superen los niveles permitidos. Su objetivo es garantizar que el ruido no afecte la convivencia ni la salud de la población.",
+  "citizen_impact": "Los ciudadanos tienen derecho a un entorno con niveles de ruido controlados. Se garantiza la prohibición de obras ruidosas en viviendas durante la noche (22:00 a 08:00) y restricciones en repartos. Además, permite que las autoridades actúen de forma inmediata (clausura y precinto) si el ruido en viviendas supera excesivamente los límites permitidos.",
+  "professional_impact": "Empresas de ocio deben instalar limitadores de potencia con transmisión telemática y registro de datos. Promotores y constructores están obligados a presentar estudios acústicos para obtener licencias en edificios residenciales, sanitarios o educativos. Los municipios de más de 20.000 habitantes deben gestionar sus propios mapas de ruido, y las empresas emisoras deben adaptarse a la normativa en un plazo de 6 años.",
+  "keywords": [
+    "ruido",
+    "contaminación acústica",
+    "Castilla y León",
+    "sanciones",
+    "limitadores de sonido",
+    "mapas de ruido",
+    "ocio nocturno"
+  ],
+  "key_points": [
+    "Clasificación del territorio en 5 tipos de áreas acústicas según su sensibilidad.",
+    "Obligatoriedad de estudios acústicos para licencias de construcción en edificios residenciales, sanitarios, educativos o culturales.",
+    "Prohibición de realizar obras en viviendas entre las 22:00 y las 08:00 horas.",
+    "Restricción de actividades de carga, descarga y reparto entre las 20:00 y las 08:00 horas.",
+    "Instalación obligatoria de limitadores de potencia con transmisión telemática en locales de música.",
+    "Clausura inmediata y precinto de equipos si el ruido en viviendas supera en 15 dB los límites permitidos.",
+    "Multas de hasta 300.000 euros por superar los límites de ruido en más de 10 dB(A).",
+    "Prohibición de nuevas licencias o ampliaciones en Zonas Acústicamente Saturadas (ZAS).",
+    "Los inspectores pueden acceder a instalaciones privadas, requiriendo orden judicial solo para entradas domiciliarias.",
+    "Los sistemas de alarma y vigilancia requieren autorización municipal previa.",
+    "Los locales de ocio deben mantener un servicio de mantenimiento con reparación en un máximo de una semana.",
+    "Los emisores acústicos tienen un plazo de 6 años para adaptarse totalmente a la ley."
+  ],
+  "legal_references": [
+    "Ley 37/2003, de 17 de noviembre, del Ruido",
+    "Directiva 2002/49/CE",
+    "Ley 7/1985, Reguladora de las Bases de Régimen Local",
+    "Ley 1/1998, de 4 de junio, de Régimen Local de Castilla y León",
+    "Ley 11/2003, de 8 de abril, de Prevención Ambiental de Castilla y León",
+    "Real Decreto 1367/2007, de 19 de octubre",
+    "Real Decreto 212/2002, de 22 de febrero",
+    "Real Decreto 1371/2007, de 19 de octubre",
+    "Ley 27/2006, de 18 de julio, de acceso a la información ambiental",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley estatal del Ruido",
+    "Ley 7/2006, de 2 de octubre, de espectáculos públicos y actividades recreativas de la Comunidad de Castilla y León",
+    "Decreto 3/1995, de 12 de enero, que establece las condiciones para actividades clasificadas por niveles sonoros o vibraciones",
+    "Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación",
+    "Real Decreto 1513/2005, de 16 de diciembre",
+    "Norma UNE EN ISO 140-4:1999",
+    "Norma UNE EN ISO 140-5:1999",
+    "Norma UNE EN ISO 3382:2001",
+    "Norma UNE EN ISO 140-7:1999",
+    "Norma ISO 1996-1:2003",
+    "Norma ISO 2631-1:1997",
+    "Norma ISO 26312:2003",
+    "Norma ISO 717-2:1997"
+  ],
+  "derogations": [
+    "Decreto 3/1995, de 12 de enero",
+    "Apartados 16 y 17 del artículo 36 de la Ley 7/2006, de 2 de octubre, de espectáculos públicos y actividades recreativas de la Comunidad de Castilla y León"
+  ],
+  "main_obligations": "Los titulares de emisores acústicos deben respetar los límites de emisión y adaptarse a la ley en 6 años. Los promotores deben presentar estudios acústicos previos para licencias, y los locales de ocio deben instalar limitadores con transmisión telemática y asegurar reparaciones en menos de una semana.",
+  "effective_date": "2009-07-06",
+  "procedures": [
+    {
+      "name": "Obtención de licencia de construcción (edificaciones sensibles)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de estudio acústico",
+          "description": "El promotor debe presentar un estudio realizado por entidad acreditada que determine los niveles sonoros de la parcela.",
+          "start_date": "Al solicitar la licencia",
+          "end_date": null,
+          "required_documentation": "Estudio acústico realizado por entidad de evaluación acreditada."
+        },
+        {
+          "step": 2,
+          "title": "Concesión de licencia",
+          "description": "La administración no concederá la licencia si los índices de inmisión superan los objetivos de calidad acústica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Obtención de licencia de primera ocupación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de informe de ensayo",
+          "description": "Justificar 'in situ' el cumplimiento de aislamientos y niveles en instalaciones comunes.",
+          "start_date": "Al solicitar la licencia de ocupación",
+          "end_date": null,
+          "required_documentation": "Informe de ensayo realizado por entidad de evaluación acreditada."
+        }
+      ]
+    },
+    {
+      "name": "Elaboración de Mapas de Ruido",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Trámite de información pública",
+          "description": "Exposición de los mapas para que la ciudadanía pueda realizar alegaciones.",
+          "start_date": "Tras la elaboración del mapa",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aprobación",
+          "description": "Aprobación por la administración competente tras el periodo de información pública.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de Zona Acústicamente Saturada (ZAS)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento administrativo",
+          "descrption": "Elaboración de plano de delimitación, relación de actividades y estudio de niveles sonoros en tres puntos de medida.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Plano de delimitación, relación de actividades, estudio de niveles sonoros (mediciones en 3 puntos, 2 días, 2 semanas distintas)."
+        },
+        {
+          "step": 2,
+          "title": "Información pública y audiencia",
+          "descrption": "Periodo para que vecinos y titulares de actividades presenten alegaciones.",
+          "start_date": "Tras la elaboración del expediente",
+          "end_date": "1 mes",
+          "required_documentation": "Alegaciones y documentos de interesados"
+        },
+        {
+          "step": 3,
+          "title": "Declaración de la zona",
+          "descrption": "Si en la mitad más uno de los puntos se superan los límites por >10 dB(A), el Ayuntamiento declara la zona como saturada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "descrption": "Detección de infracción mediante inspección o denuncia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de inspección"
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "descrption": "Plazo máximo para dictar la resolución de la sanción.",
+          "start_date": "Desde el inicio del procedimiento",
+          "end_date": "9 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

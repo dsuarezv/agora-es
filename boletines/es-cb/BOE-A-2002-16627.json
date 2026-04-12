@@ -1,0 +1,77 @@
+{
+  "identifier": "BOE-A-2002-16627",
+  "title": "Ley 5/2002, de 24 de julio, de Medidas Cautelares Urbanísticas en el ámbito del litoral, de sometimiento de los instrumentos de planificación territorial y urbanística a evaluación ambiental y de régimen urbanístico de los cementerios",
+  "visible_title": "Medidas Cautelares Urbanísticas en el Litoral, Evaluación Ambiental y Régimen de Cementerios",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "5/2002",
+  "publication_date": "2002-08-19",
+  "enactment_date": "2002-07-24",
+  "last_updated": "2006-12-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2002/07/24/5",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "journal_issue": null,
+  "summary": "Esta ley implementa medidas de emergencia para proteger la costa de Cantabria, suspendiendo licencias de construcción en zonas específicas hasta que se apruebe el Plan de Ordenación del Litoral. Además, adapta la normativa regional a las exigencias europeas de evaluación ambiental para planes urbanísticos. Finalmente, establece reglas estrictas para la ubicación y construcción de nuevos cementerios para proteger la salud pública y el subsuelo.",
+  "citizen_impact": "Los ciudadanos que posean terrenos en las zonas costeras señaladas verán frenada su capacidad de construir o desarrollar proyectos urbanísticos de forma inmediata. Por otro lado, la normativa de cementerios busca garantizar la seguridad sanitaria y la protección del agua subterránea en sus entornos.",
+  "professional_impact": "Promotores y urbanistas en zonas costeras enfrentan una suspensión de licencias y la aprobación de planes parciales. Los responsables de proyectos de cementerios deberán cumplir con nuevos requisitos técnicos, como estudios hidrogeológicos obligatorios y la obtención de informes sanitarios favorables antes de cualquier obra.",
+  "keywords": [
+    "urbanismo",
+    "litoral",
+    "medidas cautelares",
+    "evaluación ambiental",
+    "cementerios",
+    "Cantabria",
+    "protección ambiental"
+  ],
+  "key_points": [
+    "Suspensión de licencias de construcción de viviendas y aprobación de planes parciales en suelos urbanizables específicos del litoral cantábrico.",
+    "Las medidas cautelares costeras tienen una duración máxima de un año o hasta la aprobación del Plan de Ordenación del Litoral.",
+    "Obligatoriedad de realizar evaluaciones ambientales en los planes de ordenación territorial y urbanística.",
+    "Los nuevos cementerios deben ubicarse en terrenos permeables y contar con una zona de protección ajardinada de 25 metros sin construcciones.",
+    "Exigencia de un informe sanitario favorable y un estudio hidrogeológico detallado para la autorización de nuevos cementerios.",
+    "Se establece una zona de influencia de 150 metros alrededor de los cementerios donde las construcciones requieren estudios previos."
+  ],
+  "legal_references": [
+    "Ley 2/2001, de 25 de junio, de Ordenación Territorial y Régimen Urbanístico del Suelo de Cantabria",
+    "Directiva 2001/42/CEE",
+    "Directiva 85/337/CEE"
+  ],
+  "derogations": [],
+  "main_obligations": "Los promotores de cementerios deben presentar un estudio hidrogeológico y obtener informe sanitario favorable. En las zonas costeras afectadas, queda prohibido obtener licencias de obras mayores de residencia y se suspende la aprobación de planes parciales.",
+  "effective_date": "2002-07-25",
+  "procedures": [
+    {
+      "name": "Autorización de nuevos cementerios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de documentación técnica",
+          "description": "El promotor debe aportar un estudio hidrogeológico del subsuelo y las propiedades geológicas del terreno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudio hidrogeológico (capa freática, porosidad, riesgo de afectación a aguas subterráneas)."
+        },
+        {
+          "step": 2,
+          "title": "Informe sanitario",
+          "description": "Obtención de informe favorable de la Consejería de Sanidad, Consumo y Servicios Sociales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Autorización del proyecto",
+          "description": "Emisión de la autorización por el órgano competente tras validar los informes previos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,84 @@
+{
+  "identifier": "BOE-A-2006-14085",
+  "title": "Ley 6/2006, de 9 de junio, de prevención de la Contaminación Lumínica",
+  "visible_title": "Ley de prevención de la Contaminación Lumínica",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "6/2006",
+  "publication_date": "2006-08-03",
+  "enactment_date": "2006-06-09",
+  "last_updated": "2006-06-16",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2006/06/09/6",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "journal_issue": null,
+  "summary": "Esta ley regula la instalación y el uso de sistemas de iluminación en Cantabria para combatir la contaminación lumínica y fomentar el ahorro energético. Establece una zonificación del territorio según su vulnerabilidad para controlar la intensidad de la luz y protege el medio ambiente y el paisaje nocturno. Además, crea un fondo económico para subvencionar la mejora de la eficiencia lumínica y define un régimen de sanciones para quienes incumplan las normas.",
+  "citizen_impact": "Los ciudadanos verán cambios en la iluminación de sus calles y entornos naturales, buscando cielos más oscuros y mayor ahorro de energía. No impone trámites directos a la población, pero sí regula cómo las empresas y ayuntamientos deben iluminar espacios públicos y privados con impacto exterior.",
+  "professional_impact": "Las empresas de iluminación, constructoras y promotores deben cumplir con estrictas normativas técnicas y de zonificación para obtener licencias. Los ayuntamientos asumen la responsabilidad de gestionar el alumbrado público, establecer horarios de apagado y supervisar el cumplimiento mediante inspecciones.",
+  "keywords": [
+    "contaminación lumínica",
+    "eficiencia energética",
+    "alumbrado público",
+    "medio ambiente",
+    "zonificación lumínica",
+    "Cantabria"
+  ],
+  "key_points": [
+    "División del territorio en zonas (E1 a E4) según su sensibilidad ambiental o astronómica para limitar el brillo permitido.",
+    "Prohibición de luminarias que emitan luz hacia el cielo (hemisferio superior) por encima del 10% de su flujo total.",
+    "Prohibición de publicidad nocturna aérea y de iluminación directa en acantilados con presencia de aves protegidas.",
+    "Obligación de los ayuntamientos de establecer horarios de apagado para el alumbrado exterior.",
+    "Creación de un fondo autonómico para financiar ayudas y subvenciones para la mejora de la iluminación.",
+    "Plazo de hasta 8 años para que los alumbrados existentes se adapten a la nueva normativa.",
+    "Posibilidad de sancionar con multas de hasta 30.000 euros y el precinto/desconexión de las luces en infracciones muy graves."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía para Cantabria",
+    "Ley Orgánica 8/1981, de 30 de diciembre",
+    "Ley 30/1992, de 26 de diciembre",
+    "Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local"
+  ],
+  "derogations": [],
+  "main_obligations": "Los titulares de instalaciones deben cumplir con las prescripciones técnicas y de zonificación; se prohíbe el uso de proyectores o láseres hacia el cielo y la publicidad aérea nocturna. Las infracciones muy graves pueden conllevar multas de hasta 30.000 euros y la desconexión del suministro.",
+  "effective_date": "2006-11-03",
+  "procedures": [
+    {
+      "name": "Homologación de luminarias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de proyecto",
+          "description": "Los fabricantes o responsables presentan prototipos o proyectos ante el órgano competente de medio ambiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto técnico o prototipo de la luminaria"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de homologación",
+          "description": "El órgano de certificación debe pronunciarse sobre el cumplimiento técnico.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de alumbrados existentes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de adecuación",
+          "description": "Los alumbrados con licencia previa deben ajustarse a la nueva ley.",
+          "start_date": "2006-08-03",
+          "end_date": "8 años",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

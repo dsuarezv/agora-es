@@ -1,0 +1,115 @@
+{
+  "identifier": "BOE-A-2017-7821",
+  "title": "Ley 3/2017, de 26 de abril, de perros de asistencia para personas con discapacidad en la Comunidad Autónoma de Canarias",
+  "visible_title": "Ley de perros de asistencia para personas con discapacidad en Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "3/2017",
+  "publication_date": "2017-07-06",
+  "enactment_date": "2017-04-26",
+  "last_updated": "2017-05-08",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2017/04/26/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley garantiza el derecho de acceso, circulación y permanencia de personas con discapacidad acompañadas de perros de asistencia en cualquier espacio público o de uso colectivo en Canarias. Amplía el concepto tradicional de 'perro guía' para incluir perros de señalización, apoyo motor, alerta médica y de seguridad. Además, establece un marco de reconocimiento oficial, obligaciones sanitarias y un régimen sancionador para asegurar el cumplimiento de este derecho.",
+  "citizen_impact": "Las personas con discapacidad en Canarias ahora tienen el derecho legal de entrar con su perro de asistencia en comercios, restaurantes, hoteles, transportes y centros de ocio sin que se les pueda negar el acceso o cobrarles extra. Los usuarios deben contar con un perro reconocido oficialmente y disponer de un seguro de responsabilidad civil de al menos 300.000 euros.",
+  "professional_impact": "Los dueños de establecimientos públicos o de uso colectivo (bares, tiendas, hoteles, etc.) no pueden impedir la entrada de estos perros ni aplicar derechos de admisión que los excluyan. Los profesionales del adiestramiento deben estar acreditados oficialmente, y las empresas no pueden discriminar a candidatos en procesos de selección por el uso de un perro de asistencia.",
+  "keywords": [
+    "perros de asistencia",
+    "discapacidad",
+    "accesibilidad",
+    "Canarias",
+    "derecho de acceso",
+    "perro guía",
+    "inclusión social"
+  ],
+  "key_points": [
+    "Reconocimiento del derecho de acceso, permanencia y circulación en todos los espacios públicos y de uso colectivo.",
+    "Ampliación de la categoría de 'perro guía' a 'perro de asistencia' (incluye alerta médica, apoyo motor y señalización de sonidos).",
+    "Prohibición de cobrar suplementos o gastos adicionales por el acceso del perro de asistencia.",
+    "Obligatoriedad de tener un seguro de responsabilidad civil con cobertura mínima de 300.000 euros por siniestro.",
+    "Los perros de asistencia tienen preferencia en los asientos reservados para personas con discapacidad en el transporte público.",
+    "Los perros de asistencia están exentos de pagar billete en transportes públicos y privados.",
+    "Creación de un registro oficial de perros de asistencia en Canarias.",
+    "Los perros de asistencia no pueden ser de razas potencialmente peligrosas.",
+    "Se reconoce la validez de los reconocimientos de perros de asistencia de otras comunidades autónomas o países para turistas."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Convenio Internacional sobre los Derechos de las Personas con Discapacidad",
+    "Real Decreto Legislativo 1/2013",
+    "Estatuto de Autonomía de Canarias",
+    "Ley 9/1987 de Servicios Sociales",
+    "Ley 8/1995 de accesibilidad de Canarias",
+    "Real Decreto 1035/2011"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": "Los usuarios deben mantener al perro con distintivo visible, contar con seguro de responsabilidad civil de 300.000€ y cumplir con las estrictas condiciones sanitarias (vacunas, esterilización y revisiones anuales). Los establecimientos tienen prohibido impedir el acceso o cobrar cargos extra por la presencia del animal.",
+  "effective_date": "2017-07-06",
+  "procedures": [
+    {
+      "name": "Reconocimiento de la condición de perro de asistencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de reconocimiento",
+          "descrption": "Presentación de solicitud ante el órgano competente de servicios sociales acreditando el adiestramiento y la vinculación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado de adiestramiento, acreditación de discapacidad, póliza de seguro de responsabilidad civil y documentación sanitaria del animal."
+        },
+        {
+          "step": 2,
+          "title": "Instrucción del expediente",
+          "descrption": "Tramitación administrativa para verificar el cumplimiento de requisitos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "descrption": "Dictamen sobre la concesión del reconocimiento oficial y registro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de pérdida o suspensión de la condición",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Apertura de expediente",
+          "descrption": "Inicio de procedimiento por causas como muerte, renuncia, falta de seguro o comportamiento agresivo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Audiencia",
+          "descrption": "Periodo para que el usuario o tutor presente alegaciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de pérdida o suspensión",
+          "descrption": "Decisión final. Si es suspensión, el plazo máximo de subsanación es de 6 meses.",
+          "start_date": null,
+          "end_date": "6 meses para subsanación en caso de suspensión",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

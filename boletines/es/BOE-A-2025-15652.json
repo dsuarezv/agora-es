@@ -1,0 +1,82 @@
+{
+  "identifier": "BOE-A-2025-15652",
+  "title": "Ley 7/2025, de 28 de julio, por la que se crea la Agencia Estatal de Salud Pública y se modifica la Ley 33/2011, de 4 de octubre, General de Salud Pública",
+  "visible_title": "Creación de la Agencia Estatal de Salud Pública",
+  "rank": "ley",
+  "country": "es",
+  "department": "Ministerio de Sanidad",
+  "official_number": "7/2025",
+  "publication_date": "2025-07-29",
+  "enactment_date": "2025-07-28",
+  "last_updated": "2025-07-29",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/l/2025/07/28/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "181",
+  "summary": "Esta ley crea la Agencia Estatal de Salud Pública (AESAP) para centralizar la inteligencia epidemiológica y mejorar la respuesta ante futuras crisis sanitarias. El nuevo organismo asume funciones de vigilancia, evaluación de riesgos ambientales y coordinación de la Red Estatal de Vigilancia. Además, busca integrar el enfoque 'Una sola salud' para conectar la salud humana, animal y ambiental, reforzando la seguridad nacional frente a amenazas biológicas.",
+  "citizen_impact": "La norma busca mejorar la protección de la salud colectiva mediante una respuesta más rápida ante epidemias. Aunque no impone trámites directos a los ciudadanos, sí garantiza una comunicación de riesgos más transparente y eficaz ante emergencias sanitarias.",
+  "professional_impact": "Las empresas del sector farmacéutico y de productos sanitarios deberán colaborar activamente en la planificación de suministros ante crisis. Las PYMES que soliciten autorizaciones de biocidas disfrutarán de reducciones significativas en las tasas aplicables. Asimismo, se establece una nueva obligación de suministro de datos para instituciones sanitarias y entidades privadas.",
+  "keywords": [
+    "Agencia Estatal de Salud Pública",
+    "AESAP",
+    "vigilancia epidemiológica",
+    "salud pública",
+    "seguridad nacional",
+    "una sola salud",
+    "biocidas",
+    "crisis sanitaria"
+  ],
+  "key_points": [
+    "Creación de la Agencia Estatal de Salud Pública (AESAP) con personalidad jurídica propia y autonomía de gestión.",
+    "Implementación del enfoque 'Una sola salud' (One Health) para integrar la salud humana, animal y ambiental.",
+    "Obligación de todas las administraciones y entidades privadas de suministrar datos necesarios para la vigilancia epidemiológica.",
+    "Establecimiento de tasas para la evaluación de riesgos de biocidas y fitosanitarios, con descuentos para PYMES.",
+    "Modificación del sistema de precios de referencia para medicamentos con ventaja estratégica o beneficio incremental.",
+    "Creación de una reserva estratégica sanitaria coordinada con la Seguridad Nacional.",
+    "Refuerzo de la comunicación de riesgos para combatir la desinformación en salud pública.",
+    "Fomento de la investigación y capacitación de profesionales especializados en salud pública."
+  ],
+  "legal_references": [
+    "Ley 33/2011, de 4 de octubre, General de Salud Pública",
+    "Ley 40/2015, de 1 de julio, de Régimen Jurídico del Sector Público",
+    "Ley 36/2015, de 28 de septiembre, de Seguridad Nacional",
+    "Reglamento (UE) n.º 528/2012 relativo a biocidas",
+    "Real Decreto Legislativo 1/2015, de 24 de julio, de garantías y uso racional de los medicamentos",
+    "Reglamento (UE) 2016/679 (RGPD)"
+  ],
+  "derogations": [
+    "Artículo 33 de la Ley 53/2002, de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social"
+  ],
+  "main_obligations": "Las administraciones públicas, centros sanitarios y entidades privadas están obligadas a suministrar a la AESAP los datos necesarios para la vigilancia y evaluación de riesgos en salud pública. Las empresas deben colaborar en la identificación de necesidades de suministros ante emergencias sanitarias.",
+  "effective_date": "2025-07-30",
+  "procedures": [
+    {
+      "name": "Aprobación del Estatuto de la AESAP",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración y aprobación del Estatuto",
+          "description": "El Gobierno debe aprobar mediante Real Decreto el Estatuto que define la estructura y órganos de la Agencia.",
+          "start_date": "6 meses tras la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de autorizaciones de biocidas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y pago de tasas",
+          "description": "Presentación de la solicitud y abono de la tasa correspondiente para iniciar el procedimiento.",
+          "start_date": null,
+          "end_date": "30 días para el pago tras notificación",
+          "required_documentation": "Justificante de pago de la tasa"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

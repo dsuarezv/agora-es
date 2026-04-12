@@ -1,0 +1,114 @@
+{
+  "identifier": "BOE-A-2011-8403",
+  "title": "Ley 10/2011, de 24 de marzo, de derechos y garantías de la dignidad de la persona en el proceso de morir y de la muerte",
+  "visible_title": "Ley de derechos y garantías de la dignidad de la persona en el proceso de morir y de la muerte",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "10/2011",
+  "publication_date": "2011-05-14",
+  "enactment_date": "2011-03-24",
+  "last_updated": "2011-04-07",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2011/03/24/10",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo deben respetarse los deseos y la dignidad de los pacientes en la etapa final de su vida en Aragón. Establece el derecho a recibir cuidados paliativos, a rechazar tratamientos y a dejar instrucciones anticipadas sobre la atención médica. Su objetivo es evitar la obstinación terapéutica y garantizar que la voluntad del paciente se cumpla incluso si pierde la capacidad de decidir.",
+  "citizen_impact": "Permite a cualquier persona (incluidos menores de 14 años con juicio suficiente) redactar un documento de voluntades anticipadas para decidir qué tratamientos quiere o no recibir en el futuro. También garantiza el derecho a recibir cuidados para el dolor y el acompañamiento familiar en hospitales.",
+  "professional_impact": "Obliga al personal sanitario a consultar el Registro de Voluntades Anticipadas y a respetar las decisiones del paciente o su representante. Introduce la obligación de evitar la obstinación terapéutica mediante el consenso de al menos dos profesionales y crea la necesidad de integrar estos valores en la historia clínica.",
+  "keywords": [
+    "muerte digna",
+    "voluntades anticipadas",
+    "cuidados paliativos",
+    "autonomía del paciente",
+    "sedación paliativa",
+    "Aragón",
+    "bioética"
+  ],
+  "key_points": [
+    "Creación del Registro de Voluntades Vitales Anticipadas en Aragón.",
+    "Derecho a la sedación paliativa para aliviar sufrimientos refractarios.",
+    "Posibilidad de que menores de 14 años otorguen voluntades anticipadas con asistencia.",
+    "Derecho a elegir el domicilio para recibir cuidados paliativos.",
+    "Obligación de los centros sanitarios de garantizar habitación individual para pacientes terminales.",
+    "Prohibición de la obstinación terapéutica (tratamientos inútiles que solo prolongan la vida biológica).",
+    "Creación del Comité de Bioética de Aragón y Comités de Ética Asistencial en los centros.",
+    "Derecho a la asistencia espiritual según las creencias del paciente."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Aragón",
+    "Ley 41/2002, de 14 de diciembre, de autonomía del paciente",
+    "Ley 6/2002, de 15 de abril, de Salud de Aragón",
+    "Ley 13/2006, de 27 de diciembre, de Derecho de la Persona",
+    "Ley 14/1986, de 24 de abril, General de Sanidad",
+    "Ley 55/2003, de 16 de diciembre, del Estatuto Marco"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": "Los profesionales sanitarios deben informar adecuadamente al paciente y respetar sus decisiones de rechazo de tratamiento. Los centros sanitarios están obligados a proporcionar cuidados paliativos, apoyo al duelo y garantizar la privacidad y acompañamiento familiar.",
+  "effective_date": "2011-08-14",
+  "procedures": [
+    {
+      "name": "Formalización de la Declaración de Voluntades Anticipadas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elección del método de formalización",
+          "description": "El ciudadano puede elegir entre tres vías para redactar su documento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento escrito con identificación y firma."
+        },
+        {
+          "step": 2,
+          "title": "Procedimientos de otorgamiento",
+          "description": "Ante Notario, ante dos testigos (uno sin parentesco) o ante personal habilitado por Salud.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Inscripción en el Registro",
+          "description": "El documento se incorpora al Registro de Voluntades Vitales Anticipadas para su consulta médica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adecuación de medidas terapéuticas (Limitación de soporte vital)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Valoración clínica",
+          "description": "El médico responsable identifica la futilidad del tratamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Consenso profesional",
+          "description": "Se requiere la opinión coincidente de al menos otros dos profesionales (uno médico y uno de enfermería).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Constancia en la historia clínica de las opiniones."
+        },
+        {
+          "step": 3,
+          "title": "Comunicación y registro",
+          "description": "Se informa al paciente o representante y se deja constancia en la historia clínica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

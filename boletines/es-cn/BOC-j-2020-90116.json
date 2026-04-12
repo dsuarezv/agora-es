@@ -1,0 +1,106 @@
+{
+  "identifier": "BOC-j-2020-90116",
+  "title": "Decreto-ley 6/2020, de 17 de abril, de medidas urgentes de carácter social dirigidas a las personas en situación de vulnerabilidad como consecuencia de la crisis sanitaria ocasionada por el COVID-19",
+  "visible_title": "Medidas sociales urgentes para personas vulnerables por la crisis del COVID-19 en Canarias",
+  "rank": "real_decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "6/2020",
+  "publication_date": "2020-04-22",
+  "enactment_date": "2020-04-17",
+  "last_updated": "2020-11-04",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOC-j-2020-90116",
+  "official_journal": "Boletín Oficial de Canarias",
+  "journal_issue": null,
+  "summary": "Esta norma establece ayudas económicas de emergencia para paliar la precariedad social causada por la pandemia en Canarias. Crea el Ingreso Canario de Emergencia (ICE) para familias sin ingresos y flexibiliza la tramitación de la Prestación Canaria de Inserción (PCI). Además, exonera del pago del alquiler a los beneficiarios de viviendas protegidas durante los meses de abril y mayo de 2020.",
+  "citizen_impact": "Las familias en situación de extrema necesidad en Canarias pueden solicitar una ayuda económica única (ICE) o recibir la PCI de forma más rápida. También, quienes vivan en viviendas protegidas del ICV o VISOCAN no tendrán que pagar el alquiler en abril y mayo de 2020.",
+  "professional_impact": "Los servicios sociales municipales deben realizar informes para la concesión de ayudas y gestionar renovaciones de la PCI de oficio. Se crea un registro excepcional de funcionarios para asistir a ciudadanos sin medios digitales en la solicitud de ayudas por vía telefónica.",
+  "keywords": [
+    "ayudas sociales",
+    "COVID-19",
+    "Ingreso Canario de Emergencia",
+    "PCI",
+    "vivienda protegida",
+    "vulnerabilidad",
+    "Canarias"
+  ],
+  "key_points": [
+    "Creación del Ingreso Canario de Emergencia (ICE) para unidades de convivencia sin ingresos ni otras ayudas.",
+    "El ICE es una ayuda de pago único equivalente al 75% de las cuantías de la PCI.",
+    "Flexibilización de requisitos para la Prestación Canaria de Inserción (PCI) durante el estado de alarma.",
+    "Exoneración del pago de alquiler en viviendas protegidas (ICV y VISOCAN) para abril y mayo de 2020.",
+    "Posibilidad de solicitar ayudas por teléfono para evitar la brecha digital y proteger la salud.",
+    "Orden de prioridad en la solicitud del ICE: primero familias con menores, luego con un menor y finalmente el resto.",
+    "Actualización de las cuantías de la PCI con efectos desde el 1 de enero de 2020."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020",
+    "Real Decreto-ley 8/2020",
+    "Decreto ley 4/2020 de Canarias",
+    "Real Decreto 487/2020",
+    "Ley 1/2007 de la PCI",
+    "Ley 16/2019 de Servicios Sociales de Canarias",
+    "Ley 1/2010 de Igualdad de Canarias",
+    "Real Decreto-ley 11/2020",
+    "Ley 39/2015 del Procedimiento Administrativo Común",
+    "Ley de la PCI"
+  ],
+  "derogations": [],
+  "main_obligations": "Los beneficiarios del ICE deben comunicar cualquier cambio en su situación económica o personal en un plazo de 3 días hábiles y están obligados a reintegrar las cantidades cobradas indebidamente.",
+  "effective_date": "2020-04-27",
+  "procedures": [
+    {
+      "name": "Solicitud del Ingreso Canario de Emergencia (ICE)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "descrption": "Tramitación vía sede electrónica o de forma excepcional por vía telefónica mediante grabación.",
+          "start_date": "2020-04-27",
+          "end_date": "un mes desde la entrada en vigor",
+          "required_documentation": "Declaración responsable de identidad y datos económicos (verificados por administración)."
+        },
+        {
+          "step": 2,
+          "title": "Plazos de prioridad por grupos",
+          "descrption": "Periodos específicos según composición familiar para evitar saturación.",
+          "start_date": "primeros 5 días hábiles (familias con 2+ menores o monoparentales)",
+          "end_date": "día 10 (familias con 1 menor)",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "descrption": "Dictamen de la Dirección General de Derechos Sociales e Inmigración.",
+          "start_date": "desde la solicitud",
+          "end_date": "1 mes desde el registro",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación extraordinaria de la PCI",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Resolución de solicitudes pendientes",
+          "descrption": "Resolución favorable de solicitudes registradas por ayuntamientos con informe social favorable.",
+          "start_date": "2020-04-17",
+          "end_date": null,
+          "required_documentation": "Informe favorable de servicios sociales municipales"
+        },
+        {
+          "step": 2,
+          "title": "Verificación posterior",
+          "descrption": "Comprobación de requisitos tras el estado de alarma para mantener la prestación.",
+          "start_date": "tras el fin del estado de alarma",
+          "end_date": "3 meses tras la verificación",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

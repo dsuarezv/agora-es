@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-2021-11616",
+  "title": "Decreto-ley 4/2021, de 3 de mayo, para impulsar y agilizar la tramitación de ayudas y otras actuaciones en materia de vivienda",
+  "visible_title": "Impulso y agilización de ayudas y actuaciones en materia de vivienda",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "4/2021",
+  "publication_date": "2021-07-13",
+  "enactment_date": "2021-05-03",
+  "last_updated": "2021-05-04",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/dl/2021/05/03/4",
+  "official_journal": "BOIB (implícito por jurisdicción)",
+  "journal_issue": null,
+  "summary": "Esta norma busca acelerar la entrega de ayudas al alquiler y la gestión de vivienda pública en Baleares para mitigar los efectos de la crisis por la COVID-19. Introduce un régimen especial de subvenciones para que los pagos lleguen más rápido a los ciudadanos. Además, refuerza la capacidad de la Administración para adquirir viviendas de grandes tenedores y endurece el control sobre las viviendas desocupadas y la protección de la vivienda pública.",
+  "citizen_impact": "Facilita el acceso a ayudas al alquiler al eliminar la obligación de acreditar el depósito de la fianza para solicitarlas. También busca aumentar la oferta de vivienda pública y social mediante la compra de inmuebles y la agilización de trámites de rehabilitación.",
+  "professional_impact": "Los grandes tenedores enfrentan mayores obligaciones de información, mayor control de inspección y sanciones más severas por falta de colaboración. Las empresas inmobiliarias y constructoras se benefician de la prórroga de exenciones de restricciones estivales para mantener la actividad de obra.",
+  "keywords": [
+    "vivienda",
+    "ayudas al alquiler",
+    "grandes tenedores",
+    "vivienda protegida",
+    "subvenciones",
+    "Baleares",
+    "fianzas",
+    "viviendas desocupadas"
+  ],
+  "key_points": [
+    "Se elimina el requisito de acreditar el depósito de la fianza para poder solicitar ayudas al alquiler.",
+    "Se crea un régimen de subvenciones de concurrencia no competitiva para que las ayudas se concedan de forma continua y rápida.",
+    "Se permite que la Administración ceda su derecho de adquisición preferente a ayuntamientos y otras entidades públicas.",
+    "Se endurecen las sanciones y se amplían los tipos de infracción para grandes tenedores y agencias inmobiliarias.",
+    "Se obliga a los grandes tenedores a facilitar el acceso físico de los inspectores a las viviendas desocupadas registradas.",
+    "Se amplía el plazo para ejercer el derecho de retracto en viviendas protegidas a tres meses.",
+    "Se prorroga la posibilidad de realizar obras de construcción sin las restricciones estivales habituales hasta mediados de junio de 2021."
+  ],
+  "legal_references": [
+    "Ley 5/2018, de 19 de junio, de la vivienda de las Illes Balears",
+    "Decreto Ley 3/2020, de 28 de febrero",
+    "Real Decreto Ley 11/2020, de 31 de marzo",
+    "Ley 29/1994, de 24 de marzo, de Arrendamientos Urbanos",
+    "Ley 2/2020, de 15 de octubre"
+  ],
+  "derogations": [
+    "Apartado 5 del artículo 90 de la Ley 5/2018",
+    "Disposición transitoria tercera del Decreto 36/2019",
+    "Decreto 109/1990, de 13 de diciembre",
+    "Artículos 1, 2, 3, 4, 9, 10, 11 y disposiciones del Decreto 22/1989"
+  ],
+  "main_obligations": "Los grandes tenedores deben comunicar la venta de viviendas desocupadas y facilitar el acceso de inspectores a las mismas. Se establecen nuevas infracciones por incumplimiento de la función social de la vivienda protegida y por conductas indebidas en la actividad inmobiliaria.",
+  "effective_date": "2021-05-03",
+  "procedures": [
+    {
+      "name": "Concesión de ayudas al alquiler (Régimen Especial)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación de bases y convocatoria",
+          "description": "Publicación de las bases mediante resolución con un periodo de información pública de 7 días.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Solicitud y tramitación",
+          "description": "Tramitación por sistema de concurrencia no competitiva, resolviendo a medida que se completa la gestión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Preferiblemente vía telemática"
+        },
+        {
+          "step": 3,
+          "title": "Pago de la ayuda",
+          "description": "Se permite la concesión de anticipos de hasta el 100% del importe máximo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

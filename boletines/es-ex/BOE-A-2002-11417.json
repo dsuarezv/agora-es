@@ -1,0 +1,93 @@
+{
+  "identifier": "BOE-A-2002-11417",
+  "title": "Ley 3/2002, de 9 de mayo, de Comercio, de la Comunidad Autónoma de Extremadura",
+  "visible_title": "Ley de Comercio de Extremadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "3/2002",
+  "publication_date": "2002-06-12",
+  "enactment_date": "2002-05-09",
+  "last_updated": "2018-10-26",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2002/05/09/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico que regula toda la actividad comercial en Extremadura, tanto mayorista como minorista. Su objetivo es equilibrar la competencia entre grandes superficies y pequeño comercio, modernizar los hábitos de consumo y proteger los derechos de los consumidores. Además, define las reglas para las ventas a distancia, el comercio electrónico, las promociones y los horarios comerciales en la región.",
+  "citizen_impact": "Los ciudadanos ven regulados sus derechos en compras online, a domicilio o en rebajas, garantizando información clara sobre precios y derecho de desistimiento. También afecta a su vida diaria mediante la regulación de los horarios de apertura de tiendas y la prohibición de venta de alcohol en horario nocturno.",
+  "professional_impact": "Los comerciantes y autónomos deben cumplir con requisitos de registro (franquicias, venta a distancia), licencias específicas para grandes superficies y normativas estrictas sobre publicidad de rebajas y ventas promocionales. Las empresas enfrentan un régimen sancionador que puede incluir multas de hasta 500.000 euros y el cierre de establecimientos.",
+  "keywords": [
+    "comercio",
+    "Extremadura",
+    "ventas promocionales",
+    "horarios comerciales",
+    "consumidores",
+    "grandes superficies",
+    "comercio electrónico",
+    "licencia comercial"
+  ],
+  "key_points": [
+    "Regulación de modalidades de venta: a distancia, electrónica, domiciliaria y automática.",
+    "Control de horarios: regla general de cierre en festivos, con excepciones anuales y libertad horaria para pequeños comercios o zonas turísticas.",
+    "Exigencia de informe comercial vinculante para la implantación de grandes superficies (más de 2.500 m2).",
+    "Protección contra la venta con pérdida y la venta en pirámide (ambas prohibidas).",
+    "Reglas estrictas para rebajas y promociones: obligación de mostrar el precio anterior y evitar la manipulación de precios.",
+    "Creación de registros obligatorios para franquiciadores y empresas de venta a distancia con domicilio en Extremadura.",
+    "Prohibición de venta de bebidas alcohólicas en establecimientos comerciales durante el horario nocturno.",
+    "Establecimiento de un régimen sancionador con multas graduadas según la gravedad de la infracción."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Extremadura",
+    "Constitución Española",
+    "Ley 26/1991 de contratos celebrados fuera de establecimientos mercantiles",
+    "Ley 6/1998 del Juego de Extremadura",
+    "Ley 2/2003 de la Convivencia y el Ocio de Extremadura",
+    "Código de Comercio",
+    "Ley 6/2001 del Estatuto de los Consumidores de Extremadura",
+    "Ley 7/1996 de Ordenación del Comercio Minorista",
+    "Ley 30/1992 de Régimen Jurídico de las Administraciones Públicas"
+  ],
+  "derogations": [
+    "Normas de igual o inferior rango que se opongan a la presente Ley"
+  ],
+  "main_obligations": "Los comerciantes deben exhibir horarios y licencias, cumplir con los plazos de desistimiento en ventas no presenciales y respetar la prohibición de venta con pérdida. Las infracciones graves o muy graves pueden acarrear multas de hasta 500.000 euros y el cierre del local.",
+  "effective_date": "2002-06-22",
+  "procedures": [
+    {
+      "name": "Implantación de grandes superficies o equipamientos colectivos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de informe comercial",
+          "description": "El Ayuntamiento debe solicitar un informe vinculante a la Consejería de Comercio antes de iniciar obras.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informes medioambientales y urbanísticos"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la Consejería",
+          "description": "La Consejería debe emitir el informe en un plazo máximo de 3 meses.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inscripción en Registros (Franquicias/Venta a distancia)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de inicio de actividad",
+          "description": "Comunicar la actividad para su inscripción en el registro correspondiente.",
+          "start_date": null,
+          "end_date": "3 meses desde la firma del contrato o inicio de actividad",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

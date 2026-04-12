@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-2022-1277",
+  "title": "Ley 9/2021, de 20 de diciembre, del Plan Estadístico 2021-2024",
+  "visible_title": "Plan Estadístico de Cantabria 2021-2024",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "9/2021",
+  "publication_date": "2022-01-27",
+  "enactment_date": "2021-12-20",
+  "last_updated": "2025-03-26",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2021/12/20/9",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece la hoja de ruta para la producción, gestión y difusión de la información estadística oficial en Cantabria durante el periodo 2021-2024. Organiza las actividades de recogida de datos en áreas clave como población, economía, medio ambiente y salud. Su objetivo es garantizar que la administración cuente con datos fiables y actualizados para la toma de decisiones políticas y sociales.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, más allá de la mejora en la calidad y disponibilidad de los datos públicos que ellos mismos consultan.",
+  "professional_impact": "Obliga a los funcionarios y responsables de registros administrativos a colaborar con la máxima celeridad en el suministro de datos para fines estadísticos. También establece directrices para las instituciones que forman parte del Sistema Estadístico de Cantabria para evitar duplicidades y asegurar la calidad técnica.",
+  "keywords": [
+    "estadística",
+    "Cantabria",
+    "planificación",
+    "datos administrativos",
+    "demografía",
+    "economía",
+    "ICANE"
+  ],
+  "key_points": [
+    "Establece la obligatoriedad de suministrar información necesaria para las estadísticas, tanto a ciudadanos como a administraciones.",
+    "Introduce la obligación de incluir la variable sexo en las fichas de las operaciones estadísticas.",
+    "Prioriza el uso de registros administrativos y fuentes de Big Data frente a los métodos de recogida tradicionales.",
+    "Crea un sistema de coordinación para evitar que diferentes organismos realicen la misma estadística dos veces.",
+    "Define un calendario de difusión anual que debe ser público para garantizar la transparencia.",
+    "Establece la protección del secreto estadístico para garantizar la confidencialidad de los datos aportados."
+  ],
+  "legal_references": [
+    "Ley 4/2005, de 5 de octubre, de Estadística de Cantabria",
+    "Ley Orgánica 8/1981, de 30 de diciembre, del Estatuto de Autonomía para Cantabria",
+    "Ley 12/2020, de 28 de diciembre, de Medidas Fiscales y Administrativas",
+    "Reglamento (CE) n.º 223/2009 del Parlamento Europeo y del Consejo"
+  ],
+  "derogations": [
+    "Ley 5/2016, de 19 de diciembre, del Plan Estadístico 2017-2020",
+    "Decreto 6/2019, de 7 de febrero"
+  ],
+  "main_obligations": "Los responsables de registros administrativos y funcionarios deben prestar colaboración con la mayor celeridad para el suministro de datos. Las instituciones del sistema estadístico deben presentar sus propuestas de actuaciones antes del 30 de septiembre de cada año.",
+  "effective_date": "2022-01-28",
+  "procedures": [
+    {
+      "name": "Aprobación del Programa Anual de Estadística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Preparación del anteproyecto",
+          "description": "El ICANE prepara el anteproyecto consultando a las instituciones del sistema.",
+          "start_date": null,
+          "end_date": "15-11",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Propuesta de la Consejería",
+          "description": "La Consejería competente tramita la propuesta ante el Gobierno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación por Decreto",
+          "description": "El Gobierno de Cantabria aprueba el programa mediante Decreto.",
+          "start_date": null,
+          "end_date": "31-12",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Remisión al Parlamento",
+          "description": "Se envía el programa aprobado al Parlamento de Cantabria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inclusión de actuaciones en programas anuales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Envío de propuestas",
+          "description": "Las instituciones deben enviar sus propuestas al ICANE.",
+          "start_date": null,
+          "end_date": "30-09",
+          "required_documentation": "Proyecto técnico homologado"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

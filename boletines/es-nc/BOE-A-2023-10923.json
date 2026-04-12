@@ -1,0 +1,69 @@
+{
+  "identifier": "BOE-A-2023-10923",
+  "title": "Ley Foral 14/2023, de 5 de abril, del Impuesto especial sobre los envases de plástico no reutilizables",
+  "visible_title": "Impuesto especial sobre los envases de plástico no reutilizables",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "14/2023",
+  "publication_date": "2023-05-08",
+  "enactment_date": "2023-04-05",
+  "last_updated": "2023-04-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2023/04/05/14",
+  "official_journal": "Boletín Oficial de Navarra",
+  "journal_issue": null,
+  "summary": "Esta norma introduce un impuesto para reducir la generación de residuos plásticos y fomentar la economía circular en Navarra. El tributo grava la fabricación o adquisición de envases de plástico que no sean reutilizables. Su objetivo es penalizar el uso de plástico virgen y premiar el uso de materiales reciclados, contribuyendo así a la protección del medio ambiente.",
+  "citizen_impact": "El impacto es indirecto, ya que el impuesto recae sobre los fabricantes y distribuidores, lo que podría traducirse en un ligero aumento de los precios de productos envasados en plástico no reutilizable. No impone trámites directos a los consumidores.",
+  "professional_impact": "Las empresas fabricantes y comercializadoras de envases deben cumplir con nuevas obligaciones de registro, contabilidad y certificación del contenido de plástico reciclado. Además, deben desglosar correctamente el impuesto y el peso del plástico en sus facturas, bajo riesgo de sanciones económicas.",
+  "keywords": [
+    "impuesto plástico",
+    "envases no reutilizables",
+    "economía circular",
+    "reciclaje",
+    "Navarra",
+    "residuos"
+  ],
+  "key_points": [
+    "Se aplica un impuesto de 0,45 euros por cada kilogramo de plástico no reciclado contenido en envases no reutilizables.",
+    "Los envases que contengan plástico reciclado están exentos de este impuesto sobre la parte que sea reciclada.",
+    "Están exentos los envases destinados a medicamentos, productos sanitarios, alimentos para usos médicos y ciertos usos agrícolas.",
+    "Las pequeñas adquisiciones intracomunitarias de envases con menos de 5 kg de plástico no reciclado no tributan.",
+    "Los fabricantes deben certificar el contenido de plástico reciclado mediante entidades acreditadas (norma UNE-EN 15343:2008).",
+    "Se obliga a los fabricantes a desglosar en factura el importe del impuesto y los kilogramos de plástico no reciclado."
+  ],
+  "legal_references": [
+    "Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular",
+    "Convenio Económico entre el Estado y la Comunidad Foral de Navarra",
+    "Ley Foral 13/2000, de 14 de diciembre, General Tributaria",
+    "Ley Foral 11/2019, de 11 de marzo, de la Administración de la Comunidad Foral de Navarra"
+  ],
+  "derogations": [],
+  "main_obligations": "Los contribuyentes deben autoliquidar el impuesto trimestralmente, inscribirse en el Registro territorial y llevar una contabilidad de los productos y materias primas. Las facturas deben incluir obligatoriamente el importe del impuesto y la cantidad de plástico no reciclado en kg. El incumplimiento de estas normas o la falsa certificación del plástico reciclado conlleva multas de hasta el 150% del beneficio fiscal indebido.",
+  "effective_date": "2023-01-01",
+  "procedures": [
+    {
+      "name": "Gestión y liquidación del impuesto",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inscripción en el Registro",
+          "description": "Los contribuyentes deben inscribirse en el Registro territorial del impuesto.",
+          "start_date": "30 días naturales tras la entrada en vigor de la Orden Foral reguladora",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Autoliquidación",
+          "description": "Presentación y pago del impuesto de forma trimestral (o mensual si el contribuyente es mensual en IVA).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Modelos oficiales establecidos por la Hacienda Foral"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

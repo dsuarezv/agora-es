@@ -1,0 +1,84 @@
+{
+  "identifier": "BOE-A-2014-13415",
+  "title": "Resolución de 11 de diciembre de 2014, de la Dirección de Tráfico del Departamento de Seguridad, por la que se establecen medidas especiales de regulación de tráfico durante el año 2015 en la Comunidad Autónoma del País Vasco",
+  "visible_title": "Medidas especiales de regulación de tráfico en el País Vasco para 2015",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "BOE-A-2014-13415",
+  "publication_date": "2014-12-24",
+  "enactment_date": "2014-12-11",
+  "last_updated": "2015-12-24",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/res/2014/12/11/(1)",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece restricciones temporales de circulación en el País Vasco para el año 2015 con el fin de garantizar la seguridad y fluidez del tráfico. Regula la prohibición de circular para vehículos de transporte de mercancías peligrosas, vehículos pesados de más de 7.500 kg y vehículos con dimensiones especiales en fechas y horarios específicos. También limita la realización de eventos deportivos que ocupen la calzada en vías interurbanas durante periodos de alta congestión.",
+  "citizen_impact": "Afecta principalmente a los conductores de vehículos pesados y de transporte de mercancías peligrosas, quienes deben planificar sus rutas evitando los horarios restringidos. Para el ciudadano medio, esto se traduce en una gestión de la movilidad orientada a evitar atascos en periodos de vacaciones o festivos.",
+  "professional_impact": "Las empresas de transporte de mercancías peligrosas y de carga pesada (>7.500 kg) deben ajustar sus horarios de entrega y rutas para cumplir con las prohibiciones. Los organizadores de eventos deportivos deben solicitar autorizaciones específicas y cumplir con las restricciones de ocupación de calzada para poder realizar sus actividades.",
+  "keywords": [
+    "tráfico",
+    "País Vasco",
+    "restricciones de circulación",
+    "mercancías peligrosas",
+    "transporte de carga",
+    "seguridad vial"
+  ],
+  "key_points": [
+    "Prohibición de circulación para vehículos con mercancías peligrosas (ADR) los domingos, festivos y vísperas en horarios determinados.",
+    "Restricciones para vehículos de transporte de mercancías con masa máxima autorizada superior a 7.500 kg en periodos estivales y fechas clave.",
+    "Limitación de eventos deportivos y marchas ciclísticas que ocupen calzada en vías interurbanas durante fechas de alta afluencia.",
+    "Obligatoriedad de usar itinerarios específicos (RIMP) para el transporte de mercancías peligrosas.",
+    "Exenciones para servicios indispensables, transporte de animales vivos, productos perecederos y vehículos de emergencia.",
+    "Posibilidad de parada obligatoria y retirada del vehículo por parte de la autoridad si se incumple la norma."
+  ],
+  "legal_references": [
+    "Real Decreto Legislativo 339/1990",
+    "Real Decreto 1428/2003",
+    "Real Decreto 3256/1982",
+    "Decreto 194/2013",
+    "Real Decreto 97/2014",
+    "Real Decreto 2822/1998"
+  ],
+  "derogations": [],
+  "main_obligations": "Los vehículos de mercancías peligrosas y pesados de más de 7.500 kg deben abstenerse de circular por las vías de la CAPV en los días y horas señalados en los anexos I y II. El incumplimiento conlleva sanciones según la Ley de Tráfico y la posible retirada del vehículo.",
+  "effective_date": "2014-12-31",
+  "procedures": [
+    {
+      "name": "Autorización de eventos deportivos y ocupación de calzada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "descrption": "Los organizadores deben solicitar permiso para eventos que ocupen calzada o arcenes en vías interurbanas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos del evento y detalles de la ocupación de la vía."
+        },
+        {
+          "step": 2,
+          "title": "Evaluación de la autoridad",
+          "descrption": "Los responsables territoriales de tráfico evalúan si la prueba es internacional o si no afecta a vías de alta intensidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de autorizaciones especiales de circulación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Justificación de necesidad",
+          "descrption": "Presentación de solicitud para circular en periodos restringidos por servicios indispensables.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Matrícula, características del vehículo, tipo de mercancía y justificación del servicio."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

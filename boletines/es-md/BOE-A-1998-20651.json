@@ -1,0 +1,78 @@
+{
+  "identifier": "BOE-A-1998-20651",
+  "title": "Ley 11/1998, de 9 de julio, de Protección de los Consumiendores de la Comunidad de Madrid",
+  "visible_title": "Protección de los Consumidores de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "11/1998",
+  "publication_date": "1998-08-28",
+  "enactment_date": "1998-07-09",
+  "last_updated": "2024-12-26",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1998/07/09/11",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas de juego para proteger a los consumidores en la Comunidad de Madrid, asegurando que reciban información veraz y productos seguros. Refuerza la protección de los colectivos más vulnerables y otorga a la Administración la capacidad de inspeccionar comercios y sancionar incumplimientos. Además, fomenta la colaboración entre la Comunidad y los Ayuntamientos para que la vigilancia del consumo llegue a todos los municipios. El objetivo final es equilibrar la relación entre empresas y clientes, garantizando derechos básicos como la garantía por escrito y la transparencia en los precios.",
+  "citizen_impact": "Garantiza que recibas información clara y en castellano sobre lo que compras, incluyendo el precio total con impuestos. Te asegura el derecho a una factura detallada, a garantías por escrito en productos duraderos y a un resguardo cuando dejes algo para reparar. Además, protege especialmente a menores, personas con discapacidad, mayores e inmigrantes.",
+  "professional_impact": "Las empresas están obligadas a suministrar información objetiva, facilitar el acceso a inspecciones y permitir la toma de muestras. Deben garantizar la seguridad de sus productos y entregar documentación mercantil cuando se les requiera. Para infracciones leves, las empresas tienen la oportunidad de subsanar el error antes de recibir una sanción formal.",
+  "keywords": [
+    "consumidores",
+    "protección al consumidor",
+    "Comunidad de Madrid",
+    "derechos del consumidor",
+    "inspección de consumo",
+    "garantías",
+    "colectivos vulnerables"
+  ],
+  "key_points": [
+    "Protección reforzada para colectivos vulnerables (infancia, discapacidad, mayores, gestantes e inmigrantes).",
+    "Obligación de informar con datos objetivos, ciertos y en castellano sobre productos.",
+    "Derecho a factura detallada con identidad fiscal del proveedor y desglose de conceptos.",
+    "Derecho a garantía por escrito en bienes duraderos y resguardo de depósito en reparaciones.",
+    "Prohibición de cláusulas que obliguen al consumidor a renunciar a sus derechos legales.",
+    "Facultad de la Inspección para realizar visitas, tomar muestras y retirar productos peligrosos.",
+    "Posibilidad de corregir infracciones leves mediante un aviso previo de subsanación.",
+    "Cooperación entre la Comunidad de Madrid y Ayuntamientos para la gestión del consumo.",
+    "Creación de un registro de servicios municipales de consumo para especializar a los empleados públicos."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 51)",
+    "Ley 26/1984, General para la Defensa de los Consumidores",
+    "Estatuto de Auto-nomía de la Comunidad de Madrid",
+    "Ley Orgánica 10/1994 de Reforma del Estatuto de Auto-nomía de la Comunidad de Madrid",
+    "Real Decreto 44/1996 de medidas para garantizar la seguridad general de los productos",
+    "Ley 30/1992 del Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley 13/1995 de regulación del uso de la informática en el tratamiento de datos personales de la Comunidad de Madrid",
+    "Real Decreto 1945/1983, de 22 de junio"
+  ],
+  "derogations": [],
+  "main_obligations": "Las empresas deben garantizar la seguridad de sus productos, informar de precios totales y facilitar la inspección. Ante una infracción leve, el sujeto requerido debe acreditar la subsanación en un plazo máximo de 15 días hábiles.",
+  "effective_date": "1998-08-28",
+  "procedures": [
+    {
+      "name": "Subsanación de infracciones leves",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Apercibimiento por escrito",
+          "description": "La autoridad comunica por escrito la existencia de indicios de infracción leve y requiere su corrección.",
+          "start_date": "Desde la notificación del requerimiento",
+          "end_date": null,
+          "required_documentation": "Acreditación de la subsanación o corrección de la deficiencia"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de subsanación",
+          "description": "Periodo para que el interesado corrija la irregularidad observada.",
+          "start_date": "Desde la notificación",
+          "end_date": "15 días hábiles (ampliables)",
+          "required_documentation": "Documentación que acredite la corrección"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

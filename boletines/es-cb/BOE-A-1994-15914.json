@@ -1,0 +1,108 @@
+{
+  "identifier": "BOE-A-1994-15914",
+  "title": "Ley 6/1994, de 19 de mayo, reguladora de las Entidades Locales Menores",
+  "visible_title": "Ley reguladora de las Entidades Locales Menores",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "6/1994",
+  "publication_date": "1994-07-08",
+  "enactment_date": "1994-05-19",
+  "last_updated": "2022-06-21",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/1994/05/19/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma regulaba el funcionamiento, organización y régimen electoral de las Entidades Locales Menores (Juntas Vecinales y Concejos Abiertos) en Cantabria. Su objetivo era solucionar problemas de gobernanza, como la falta de candidaturas, la dificultad para renovar cargos y la falta de competencias claras frente a los Ayuntamientos. Establecía cómo se crean, modifican o disuelven estas entidades para asegurar su gestión de bienes y servicios locales.",
+  "citizen_impact": "Aunque la norma ya está derogada, en su momento permitió a los vecinos de núcleos pequeños participar directamente en la gestión de su patrimonio y servicios. Facilitó mecanismos de control sobre sus representantes, como la moción de censura, y definió cómo se elegían sus autoridades locales.",
+  "professional_impact": "Afectaba directamente a alcaldes, concejales y secretarios de los Ayuntamientos, quienes debían coordinar la delegación de servicios y la fiscalización de estas entidades. También imponía obligaciones de registro y gestión administrativa a los funcionarios municipales encargados de estas zonas.",
+  "keywords": [
+    "Entidades Locales Menores",
+    "Juntas Vecinales",
+    "Concejo Abierto",
+    "Cantabria",
+    "Régimen Local",
+    "Administración descentralizada"
+  ],
+  "key_points": [
+    "Establece la personalidad jurídica y capacidad de obrar de las Juntas Vecinales.",
+    "Define dos modelos de gobierno: la Junta Vecinal (Presidente y Vocales) y el Concejo Abierto (para núcleos muy pequeños).",
+    "Permite la destitución del Presidente mediante moción de censura por mayoría absoluta de los electores.",
+    "Regula la creación de nuevas entidades con un mínimo de 500 habitantes y patrimonio propio.",
+    "Establece que las entidades pueden cobrar tasas y precios públicos por sus servicios.",
+    "Define la competencia de las entidades para gestionar su propio patrimonio y caminos rurales.",
+    "Determina que el Secretario de la Junta será el Secretario del Ayuntamiento correspondiente."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía para Cantabria",
+    "Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local",
+    "Ley Orgánica del Régimen Electoral General"
+  ],
+  "derogations": [
+    "Ley 6/1994, de 19 de mayo, reguladora de las Entidades Locales Menores (derogada por la Ley 3/2022, de 14 de junio)"
+  ],
+  "main_obligations": "Las Entidades Locales Menores están obligadas a realizar un inventario valorado de sus bienes y derechos, remitiendo copia al Ayuntamiento. Deben someterse a la fiscalización externa del Tribunal de Cuentas en materia presupuestaria y contable.",
+  "effective_date": "1994-07-09",
+  "procedures": [
+    {
+      "name": "Creación de una Entidad Local Menor",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación de la petición",
+          "description": "Presentación de solicitud por la mayoría de vecinos o por acuerdo del Ayuntamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escrito de petición especificando derechos e intereses del núcleo."
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Periodo de exposición para posibles alegaciones de los vecinos.",
+          "start_date": "1 mes desde la petición",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informe del Ayuntamiento",
+          "description": "El Ayuntamiento emite un informe sobre la petición y reclamaciones.",
+          "start_date": "Tras la información pública",
+          "end_date": "30 días",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución definitiva",
+          "description": "El Consejo de Gobierno resuelve la creación mediante resolución publicada en el BOC.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Moción de censura para destitución del Presidente",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Suscripción de la moción",
+          "description": "Presentación de la moción firmada por la mayoría absoluta de los electores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Firmas de la mayoría absoluta de electores autenticadas por Notario o Secretario del Ayuntamiento."
+        },
+        {
+          "step": 2,
+          "title": "Discusión y votación",
+          "description": "Debate y votación en un Pleno convocado específicamente para ello.",
+          "start_date": "Tras la presentación",
+          "end_date": "15 días",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

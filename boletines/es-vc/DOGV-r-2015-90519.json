@@ -1,0 +1,89 @@
+{
+  "identifier": "DOGV-r-2015-90519",
+  "title": "Decreto-ley 3/2015, de 24 de julio, del Consell, por el que se regula el acceso universal a la atención sanitaria en la Comunitat Valenciana",
+  "visible_title": "Acceso universal a la atención sanitaria en la Comunitat Valenciana",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Consell de la Generalitat Valenciana",
+  "official_number": "3/2015",
+  "publication_date": "2015-07-29",
+  "enactment_date": "2015-07-24",
+  "last_updated": "2018-01-17",
+  "status": "amended",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=DOGV-r-2015-90519",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta norma busca revertir la exclusión sanitaria de miles de personas extranjeras en situación irregular en la Comunidad Valenciana causada por cambios en la normativa estatal. Establece el derecho a recibir asistencia sanitaria integral, en igualdad de condiciones que el resto de la población, a quienes residan efectivamente en la región. El objetivo es garantizar la salud pública y evitar el uso ineficiente de urgencias al permitir un seguimiento médico preventivo y continuado.",
+  "citizen_impact": "Permite que los extranjeros sin papeles que vivan en la Comunidad Valenciana puedan acudir al médico de familia y recibir tratamientos de forma regular, no solo en urgencias. Para acceder, deben estar empadronados al menos tres meses y presentar una solicitud en su centro de salud. Los medicamentos prescritos tendrán un copago del 40% (o 10% en aportación reducida).",
+  "professional_impact": "Los profesionales del Sistema Valenciano de Salud deben gestionar la asignación de médicos y centros para este colectivo mediante el documento SIP. Se requiere la elaboración de informes sociales para casos de vulnerabilidad o falta de empadronamiento. Además, se crea una comisión mixta para evaluar periódicamente el cumplimiento de la norma.",
+  "keywords": [
+    "atención sanitaria universal",
+    "Comunidad Valenciana",
+    "extranjeros irregularidad",
+    "derecho a la salud",
+    "sistema sanitario público",
+    "acceso sanitario"
+  ],
+  "key_points": [
+    "Garantiza la asistencia sanitaria integral a extranjeros no registrados ni autorizados a residir en España.",
+    "Requiere un mínimo de tres meses de empadronamiento en la Comunidad Valenciana.",
+    "El acceso incluye la cartera común básica de servicios y programas de salud pública.",
+    "La asistencia es exclusiva dentro del territorio de la Comunidad Valenciana.",
+    "Se establece un copago del 40% en medicamentos de régimen ambulatorio.",
+    "La acreditación de este derecho tiene una vigencia de dos años renovables.",
+    "Se permite un procedimiento especial mediante informe social para quienes no puedan acreditar el empadronamiento."
+  ],
+  "legal_references": [
+    "Ley 16/2003, de 28 de mayo, de Cohesión y Calidad del Sistema Nacional de Salud",
+    "Real Decreto Ley 16/2012, de 20 de abril",
+    "Real Decreto 1192/2012, de 3 de agosto",
+    "Ley 10/2014, de 29 de diciembre, de la Generalitat, de Salud de la Comunitat Valenciana",
+    "Ley 33/2011, de 4 de octubre, General de Salud Pública",
+    "Ley 5/1983, de 30 de diciembre, de la Generalitat del Consell",
+    "Decreto 190/2013, de 20 de diciembre"
+  ],
+  "derogatons": [],
+  "main_obligations": "Los solicitantes deben acreditar su residencia efectiva mediante el padrón y presentar una solicitud específica en su centro de salud. Los usuarios deben abonar el porcentaje correspondiente por la adquisición de medicamentos prescritos.",
+  "effective_date": "2015-07-30",
+  "procedures": [
+    {
+      "name": "Acceso a la asistencia sanitaria para colectivos excluidos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "descrption": "El interesado debe acudir al centro de salud que le corresponda por domicilio para presentar la solicitud y documentación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite residencia efectiva (padrón de al menos 3 meses), condición de extranjero no autorizado y falta de cobertura en el SNS."
+        },
+        {
+          "step": 2,
+          "title": "Reconocimiento y asignación",
+          "descrption": "Se emite el acto de reconocimiento de la modalidad asistencial y se asigna médico de familia y centro de salud.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Emisión de documento SIP",
+          "descrption": "Se entrega el documento de asistencia sanitaria SIP para identificación en el sistema.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Renovación",
+          "descrption": "Cada dos años se debe acreditar nuevamente el cumplimiento de los requisitos para mantener la vigencia.",
+          "start_date": "cada 2 años",
+          "end_date": null,
+          "required_documentation": "Documentación acreditativa de los requisitos iniciales"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

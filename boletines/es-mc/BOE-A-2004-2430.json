@@ -1,0 +1,115 @@
+{
+  "identifier": "BOE-A-2004-2430",
+  "title": "Ley 3/2003, de 10 de abril, del Sistema de Servicios Sociales de la Región de Murcia",
+  "visible_title": "Ley del Sistema de Servicios Sociales de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "3/2003",
+  "publication_date": "2004-02-10",
+  "enactment_date": "2003-04-10",
+  "last_updated": "2021-07-30",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2003/04/10/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece la estructura y organización de todos los servicios sociales en la Región de Murcia, definiendo tanto la atención primaria como la especializada. Busca garantizar el derecho de los ciudadanos a un sistema de protección social coordinado, preventivo y de responsabilidad pública. Regula la participación de entidades privadas mediante conciertos y convenios, y establece un régimen de inspección y sanciones para asegurar la calidad de la asistencia.",
+  "citizen_impact": "Garantiza el acceso a servicios de apoyo para colectivos vulnerables (mayores, personas con discapacidad, familias, etc.) bajo principios de igualdad y universalidad. Los ciudadanos tienen derecho a recibir atención personalizada, información sobre sus derechos y a participar en la gestión de los servicios.",
+  "professional_impact": "Las entidades privadas que presten servicios sociales deben registrarse y cumplir con requisitos de acreditación para poder colaborar con la Administración. Los profesionales y centros están sujetos a una inspección estricta y a un régimen sancionador que incluye multas de hasta 150.000 euros por infracciones muy graves.",
+  "keywords": [
+    "servicios sociales",
+    "asistencia social",
+    "Región de Murcia",
+    "atención primaria",
+    "atención especializada",
+    "entidades de interés asistencial",
+    "conciertos sociales",
+    "protección social"
+  ],
+  "key_points": [
+    "Creación de un Sistema de Servicios Sociales dividido en atención primaria (responsabilidad pública) y atención especializada.",
+    "Reconocimiento de la figura de 'entidades declaradas de interés asistencial' con beneficios fiscales y acceso preferente a conciertos.",
+    "Implementación de un régimen de conciertos sociales para la gestión de servicios por parte de entidades privadas.",
+    "Establecimiento de un Plan Regional de Servicios Sociales para la planificación de recursos.",
+    "Creación de la Inspección de Servicios Sociales para supervisar la calidad y el cumplimiento de la norma.",
+    "Definición de un catálogo de derechos y obligaciones para los usuarios de los servicios.",
+    "Introducción de un régimen sancionador con multas graduadas según la gravedad de la infracción."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 5/2002, de 3 de junio",
+    "Ley 5/2001, de 5 de diciembre",
+    "Ley 8/1985, de 9 de diciembre",
+    "Ley Orgánica 4/1982, de 9 de junio",
+    "Ley Orgánica 4/1994, de 24 de marzo",
+    "Real Decreto 649/1995, de 25 de abril",
+    "Código Civil"
+  ],
+  "derogations": [
+    "Ley 8/1985, de 9 de diciembre, de servicios sociales de la Región de Murcia"
+  ],
+  "main_obligations": "Las entidades prestadoras deben inscribirse en el Registro de Entidades y centros. Se prohíbe la falta de confidencialidad de datos y la obstrucción a la labor inspectora. Las infracciones muy graves pueden conllevar multas de hasta 150.000 euros y la clausura definitiva de centros.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Régimen de Conciertos Sociales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de concierto",
+          "description": "Las entidades privadas solicitan la prestación de servicios mediante concierto social.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de autorización administrativa, inscripción en el Registro y medios suficientes para el servicio."
+        },
+        {
+          "step": 2,
+          "title": "Formalización",
+          "description": "Suscripción de un documento administrativo que establece las condiciones del servicio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Duración y renovación",
+          "description": "El concierto tiene una duración máxima de 6 años, renovable por 4 años más.",
+          "start_date": null,
+          "end_date": "6 años",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del expediente",
+          "description": "Apertura del procedimiento ante una presunta infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Medidas cautelares",
+          "description": "La Administración puede adoptar cierres temporales o fianzas para evitar daños.",
+          "start_date": null,
+          "end_date": "máximo 6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Decisión motivada que impone la sanción o archiva el expediente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

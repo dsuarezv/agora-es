@@ -1,0 +1,153 @@
+{
+  "identifier": "BOE-A-2012-4375",
+  "title": "Ley 4/1986, de 23 de abril, de Estadística de la Comunidad Autónoma de Euskadi",
+  "visible_title": "Ley de Estadística de la Comunidad Autónoma de Euskadi",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "4/1986",
+  "publication_date": "2012-03-30",
+  "enactment_date": "1986-04-23",
+  "last_updated": "2023-11-23",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1986/04/23/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea el Instituto Vasco de Estadística (Eustat) para centralizar y profesionalizar la gestión de datos en el País Vasco. Su objetivo es garantizar que la información estadística sea fiable, imparcial y esté protegida por un estricto secreto profesional. La norma busca modernizar el uso de datos mediante el aprovechamiento de Big Data y la apertura de información de alto valor a través de tecnologías digitales. Con esto, se pretende evitar que la administración pida la misma información varias veces al ciudadano y fomentar la economía digital.",
+  "citizen_impact": "Reduce la carga administrativa al evitar que se solicite la misma información repetidamente, gracias al uso de datos administrativos existentes. Además, garantiza que cualquier dato personal facilitado para fines estadísticos esté protegido por un secreto de 100 años.",
+  "professional_impact": "Las empresas y desarrolladores acceden a datos de alto valor mediante APIs para fomentar la innovación digital. Los funcionarios y entidades locales tienen la obligación de suministrar información requerida y coordinar sus datos (como el padrón) con el Eustat, bajo riesgo de sanciones por incumplimiento o falsedad.",
+  "keywords": [
+    "Eustat",
+    "Estadística",
+    "País Vasco",
+    "Datos de alto valor",
+    "Secreto estadístico",
+    "API",
+    "Big Data",
+    "Administración pública"
+  ],
+  "key_points": [
+    "Creación del Eustat como organismo autónomo para garantizar la imparcialidad técnica de los datos.",
+    "Protección de la identidad mediante un secreto estadístico con una duración de 100 años.",
+    "Obligatoriedad de suministrar información estadística cuando sea requerida formalmente.",
+    "Implementación de sanciones por incumplimiento o por facilitar información falsa.",
+    "Uso de Big Data y datos administrativos para evitar la duplicidad de trámites al ciudadano.",
+    "Creación del Registro de Población de la Comunidad Autónoma de Euskadi para coordinar la residencia.",
+    "Publicación de datos de alto valor mediante interfaces API para permitir descargas masivas y automatizadas.",
+    "Los resultados estadísticos oficiales son de aplicación obligatoria en las relaciones jurídicas de la Comunidad Autónoma.",
+    "Los municipios tienen la obligación de remitir el padrón al Eustat.",
+    "Transición organizada de las funciones de estadística desde la Dirección de Economía y Hacienda hacia el nuevo Eustat."
+  ],
+  "legal_references": [
+    "Ley 27/1983, de 25 de noviembre, de Relaciones entre las Instituciones Comunes de la Comunidad Autónoma y los Órganos Forales de sus Territorios Históricos",
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Ley 12/1983, de 22 de junio, de Principios Ordenadores de la Hacienda General del País Vasco",
+    "Estatuto de Autonomía de la Comunidad Autónoma de Euskadi (Art. 10.37)",
+    "Reglamentos de ejecución de la Comisión Europea",
+    "Directiva relativa a los Datos Abiertos y la Reutilización de la Información del Sector Público",
+    "Artículo 7 de la Ley 4/1986"
+  ],
+  "derogations": [],
+  "main_obligations": "Los ciudadanos y entidades están obligados a suministrar la información estadística requerida formalmente. El personal encargado debe cumplir estrictamente con el secreto estadístico, y los municipios deben remitir sus datos de padrón al Eustat.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Suministro de información estadística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requerimiento",
+          "description": "La autoridad estadística solicita la información mediante requerimiento directo (correo o visita).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos individualizados o agregados según la normativa de la operación."
+        },
+        {
+          "step": 2,
+          "title": "Plazo de entrega",
+          "description": "El sujeto obligado debe entregar la información en el plazo concedido; si no lo hace, se considera incumplimiento automático.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Elaboración del Plan Vasco de Estadística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del anteproyecto",
+          "description": "El Eustat elabora el anteproyecto tras analizar los planes de la Comisión Vasca de Estadística.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe de la Comisión y el Consejo",
+          "description": "Participación de los órganos consultivos en la elaboración y revisión del plan.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación",
+          "description": "El proyecto se eleva al Gobierno para su aprobación mediante Ley.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Constitución y reglamentación de órganos estadísticos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Constitución de la Comisión Vasca de Estadística",
+          "description": "Creación de la Euskal Estatistika-Batzordea.",
+          "start_date": "Publicación de la Ley en el BOPV",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Reglamento de la Comisión Vasca de Estadística",
+          "description": "Aprobación de las normas de funcionamiento interno de la Comisión.",
+          "start_date": "Publicación de la Ley en el BOPV",
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Constitución del Consejo Vasco de Estadística",
+          "description": "Creación del Euskal Estatistika-Kontslea.",
+          "start_date": "Publicación de la Ley en el BOPV",
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Reglamento del Consejo Vasco de Estadística",
+          "description": "Aprobación de las normas de funcionamiento interno del Consejo.",
+          "start_date": "Publicación de la Ley en el BOPV",
+          "end_date": "1 año",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Presentación del Plan Vasco de Estadística",
+          "description": "El Gobierno debe presentar el proyecto de Ley al Parlamento Vasco.",
+          "start_date": "Entrada en vigor de la Ley",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

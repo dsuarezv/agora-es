@@ -1,0 +1,94 @@
+{
+  "identifier": "BOE-A-2003-4505",
+  "title": "Ley 11/2002, de 18 de diciembre, de Ordenación de la Actividad de los Centros y Servicios de Acción Social y de Mejora de la Calidad en la Prestación de los Servicios Sociales de la Comunidad de Madrid",
+  "visible_title": "Ley de Ordenación de la Actividad de los Centros y Servicios de Acción Social de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "11/2002",
+  "publication_date": "2003-03-05",
+  "enactment_date": "2002-12-18",
+  "last_updated": "2022-12-22",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2002/12/18/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece el marco jurídico para regular cómo funcionan los centros y servicios de acción social en la Comunidad de Madrid, tanto públicos como privados. Su objetivo es asegurar que la atención social cumpla con estándares de calidad y profesionalidad mediante un sistema de autorizaciones y registros. Además, introduce mecanismos de inspección y un régimen sancionador para garantizar la seguridad de los usuarios.",
+  "citizen_impact": "Garantiza a los usuarios de servicios sociales un decálogo de derechos fundamentales, como el derecho a la intimidad, a la información y a no ser discriminados. También establece mecanismos para que los ciudadanos puedan presentar reclamaciones y asegurar que los servicios recibidos sean de calidad.",
+  "professional_impact": "Obliga a las entidades (públicas y privadas) que prestan servicios sociales a obtener autorizaciones administrativas y registrarse oficialmente. Los directores de centros deben estar colegiados en un registro específico y las empresas deben cumplir con ratios de personal, condiciones de infraestructura y sistemas de evaluación de calidad bajo riesgo de sanciones económicas elevadas.",
+  "keywords": [
+    "servicios sociales",
+    "acción social",
+    "Comunidad de Madrid",
+    "centros residenciales",
+    "calidad asistencial",
+    "inspección de servicios",
+    "derechos del usuario"
+  ],
+  "key_points": [
+    "Creación de un Registro de Entidades, Centros, Servicios y Directores para controlar quién presta servicios sociales.",
+    "Establecimiento de un Decálogo de Derechos para los usuarios de estos servicios.",
+    "Obligatoriedad de sistemas de evaluación de calidad, especialmente para centros residenciales con más de 100 usuarios.",
+    "Procedimiento de autorización administrativa para la apertura de nuevos centros sociales.",
+    "Régimen sancionador que incluye multas de hasta 600.000 euros para infracciones muy graves.",
+    "Posibilidad de cierre definitivo de centros en caso de incumplimientos graves o riesgos para los usuarios.",
+    "Regulación de la responsabilidad de los directores de centros en la gestión y administración."
+  ],
+  "legal_references": [
+    "Ley 8/1990, de 10 de octubre",
+    "Ley 30/1992, de 26 de diciembre",
+    "Estatuto de Autonomía de la Comunidad de Madrid",
+    "Ley 12/2022, de 21 de diciembre"
+  ],
+  "derogations": [
+    "Ley 8/1990, de 10 de octubre, reguladora de las actuaciones inspectoras y de control de los Centros y Servicios de Acción Social"
+  ],
+  "main_obligations": "Las entidades deben obtener autorización administrativa previa para abrir centros y comunicar cualquier modificación sustancial. Se prohíbe la apertura de centros sin autorización y el exceso de ocupación de plazas, con sanciones que pueden alcanzar los 600.000 euros.",
+  "effective_date": "2003-04-05",
+  "procedures": [
+    {
+      "name": "Autorización administrativa para Centros de Servicios Sociales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Visado previo",
+          "description": "Trámite de comprobación inicial por la Administración regional.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación reglamentaria y declaración responsable."
+        },
+        {
+          "step": 2,
+          "title": "Licencia municipal",
+          "description": "Obtención de la licencia correspondiente por parte del Ayuntamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Otorgamiento de autorización",
+          "description": "Resolución final de la Comunidad de Madrid.",
+          "start_date": null,
+          "end_date": "2 meses desde la presentación de la documentación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Comunicación previa para Servicios de Acción Social",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de comunicación",
+          "description": "Puesta en conocimiento de la Administración para iniciar la actividad o modificar condiciones no sustanciales.",
+          "start_date": null,
+          "end_date": "Inicio de actividad desde el día de su presentación",
+          "required_documentation": "Declaración responsable de cumplimiento de requisitos."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

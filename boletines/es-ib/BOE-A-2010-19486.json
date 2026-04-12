@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-2010-19486",
+  "title": "Ley 11/2010, de 2 de noviembre, de ordenación del transporte marítimo de las Illes Balears",
+  "visible_title": "Ley de ordenación del transporte marítimo de las Illes Balears",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "11/2010",
+  "publication_date": "2010-12-20",
+  "enactment_date": "2010-11-02",
+  "last_updated": "2024-11-14",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2010/11/02/11",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley regula el transporte marítimo de pasajeros y mercancías que se realiza exclusivamente entre puertos de las Islas Baleares. Su objetivo es garantizar la libre competencia entre empresas navieras, pero permitiendo que la Administración intervenga para asegurar servicios esenciales en rutas estratégicas. Además, establece un marco de protección para el medio ambiente marino y define derechos específicos para los pasajeros y residentes de ciertas islas.",
+  "citizen_impact": "Los pasajeros cuentan con nuevos derechos de información y compensaciones económicas en caso de retrasos o cancelaciones. Los residentes de la isla de Formentera tienen garantizadas frecuencias mínimas de transporte y precios máximos para asegurar su conexión con el resto del archipiélago.",
+  "professional_impact": "Las empresas navieras pasan de un régimen de autorización a uno de comunicación previa, facilitando el inicio de actividades. Sin embargo, deben cumplir con requisitos estrictos de seguridad, seguros y capacidad económica, además de estar sujetas a inspecciones y un régimen sancionador que puede alcanzar los 200.000 euros.",
+  "keywords": [
+    "transporte marítimo",
+    "Illes Baleares",
+    "cabotaje",
+    "derechos del pasajero",
+    "servicios públicos",
+    "navieras",
+    "Formentera"
+  ],
+  "key_points": [
+    "Se establece el régimen de comunicación previa para iniciar servicios de transporte marítimo.",
+    "Se crean líneas de interés estratégico para garantizar la conectividad entre islas.",
+    "Los pasajeros tienen derecho a compensaciones por retrasos: 25% si es de 1 a 2 horas, y 50% si supera las 2 horas.",
+    "Se garantiza un servicio mínimo de 10 frecuencias diarias para residentes en la ruta Eivissa-Formentera.",
+    "Las empresas deben inscribirse obligatoriamente en el Registro Balear de Navieros.",
+    "Se permite la imposición de obligaciones de servicio público mediante contratos administrativos en rutas deficitarias.",
+    "Se establecen sanciones económicas de hasta 200.000 euros para infracciones muy graves."
+  ],
+  "legal_references": [
+    "Ley 27/1992, de 24 de noviembre, de puertos del Estado y de la marina mercante",
+    "Reglamento (CEE) 3577/1992 del Consejo",
+    "Real Decreto 1340/2007",
+    "Estatuto de Autonomía de las Illes Balears"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a la presente ley"
+  ],
+  "main_obligations": "Las navieras deben comunicar el inicio de su actividad con 15 días de antelación y mantener seguros de responsabilidad civil y de viajeros. Los pasajeros deben portar su documento de identidad y billete para el embarque.",
+  "effective_date": "2010-12-20",
+  "procedures": [
+    {
+      "name": "Comunicación previa de actividad de transporte",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de inicio de actividad",
+          "description": "Comunicación fehaciente a la consejería competente para iniciar el servicio.",
+          "start_date": "15 días antes del inicio",
+          "end_date": null,
+          "required_documentation": "Datos del servicio, itinerario, horarios, buques y acreditación de requisitos legales."
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del expediente",
+          "description": "Inicio formal del procedimiento tras detectar una posible infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución del procedimiento",
+          "description": "Plazo máximo para dictar y notificar la sanción o el archivo.",
+          "start_date": "Desde la incoación",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,108 @@
+{
+  "identifier": "BOE-A-2020-12770",
+  "title": "Ley 5/2020, de 24 de julio, de Medidas Urgentes para la Declaración de Proyectos Prioritarios en Castilla-La Mancha",
+  "visible_title": "Ley de Medidas Urgentes para la Declaración de Proyectos Prioritarios en Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "5/2020",
+  "publication_date": "2020-10-23",
+  "enactment_date": "2020-07-24",
+  "last_updated": "2024-03-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2020/07/24/5",
+  "official_journal": "Boletín Oficial de la Junta de Comunidades de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley busca reactivar la economía de Castilla-La Mancha tras la crisis del COVID-19 mediante la creación de un régimen de 'proyectos prioritarios'. Establece un sistema de tramitación administrativa acelerada y simplificada para inversiones estratégicas en sectores clave. Además, crea la Unidad de Acompañamiento Empresarial para asesorar y agilizar los trámites de estos proyectos desde su inicio hasta su ejecución.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo por la posible mejora en la creación de empleo y dinamización económica regional derivada de las inversiones incentivadas.",
+  "professional_impact": "Las empresas de sectores estratégicos (energía, agroalimentario, tecnología, etc.) pueden acceder a una tramitación administrativa con plazos reducidos a la mitad y apoyo directo de la administración. Los funcionarios de la Junta de Comunidades deberán priorizar estos expedientes y coordinarse a través de la nueva Unidad de Acompañamiento Empresarial.",
+  "keywords": [
+    "proyectos prioritarios",
+    "simplificación administrativa",
+    "inversión estratégica",
+    "reactivación económica",
+    "Castilla-La Mancha",
+    "tramitación preferente",
+    "acompañamiento empresarial"
+  ],
+  "key_points": [
+    "Creación de la Unidad de Acompañamiento Empresarial para asesorar y seguir proyectos desde su planteamiento.",
+    "Reducción de los plazos administrativos a la mitad para proyectos declarados prioritarios.",
+    "Posibilidad de declarar utilidad pública o interés social a proyectos de sectores estratégicos para facilitar expropiaciones.",
+    "Definición de 14 sectores económicos estratégicos (agrícola, energía, logística, turismo, etc.).",
+    "Incentivos económicos y preferencia en el acceso a líneas de financiación y avales regionales.",
+    "Facilidad para implantar proyectos en suelo rústico mediante la obtención directa de calificación urbanística.",
+    "Reducción de requisitos de inversión y empleo para proyectos en zonas de riesgo de despoblación.",
+    "Creación de un visor cartográfico para conocer la viabilidad ambiental de un terreno antes de invertir.",
+    "Medidas de apoyo temporal para cooperativas afectadas por la crisis sanitaria (uso de fondos de formación para liquidez)."
+  ],
+  "legal_references": [
+    "Ley 20/2013 de garantía de la unidad de mercado",
+    "Ley 40/2015 de régimen jurídico del sector público",
+    "Estatuto de Autonomía de Castilla-La Mancha",
+    "Ley 39/2015 del Procedimiento Administrativo Común",
+    "Ley 11/2010 de Cooperativas de Castilla-La Mancha",
+    "Real Decreto-Ley 15/2020",
+    "Ley 8/2013 de Medidas Tributarias de Castilla-La Mancha"
+  ],
+  "derogations": [],
+  "main_obligations": "Los beneficiarios de la declaración de proyecto prioritario están obligados a mantener la inversión, la actividad y el empleo comprometidos en el municipio de localización durante un periodo mínimo de tres años tras la finalización del proyecto.",
+  "effective_date": "2020-07-25",
+  "procedures": [
+    {
+      "name": "Declaración de Proyecto Prioritario",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de declaración",
+          "description": "Presentación electrónica de la memoria del proyecto, estudios de impacto y plan de viabilidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria del proyecto, estudio de empleo e innovación, plan de viabilidad económico-financiera y declaración responsable."
+        },
+        {
+          "step": 2,
+          "title": "Examen y subsanación",
+          "description": "La Unidad de Acompañamiento Empresarial revisa la documentación y solicita mejoras si es necesario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Información pública",
+          "description": "Exposición pública del expediente para recibir alegaciones.",
+          "start_date": null,
+          "end_date": "20 días",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Emisión de informes preceptivos",
+          "description": "Los órganos competentes (municipios, medio ambiente, etc.) deben emitir sus informes.",
+          "start_date": null,
+          "end_date": "7 días",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Valoración y propuesta",
+          "description": "La Comisión de Ordenación del Territorio y Urbanismo emite un informe de propuesta.",
+          "start_date": null,
+          "end_date": "10 días desde la recepción",
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Resolución final",
+          "description": "Dictado de la Orden (por Consejería) o Acuerdo (por Consejo de Gobierno) que declara el proyecto como prioritario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

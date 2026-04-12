@@ -1,0 +1,177 @@
+{
+  "identifier": "BOE-A-2018-5394",
+  "title": "Ley 5/2018, de 6 de marzo, de la Huerta de València",
+  "visible_title": "Ley de la Huerta de València",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "5/2018",
+  "publication_date": "2018-04-20",
+  "enactment_date": "2018-03-06",
+  "last_updated": "2025-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2018/03/06/5",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta ley protege la Huerta de València frente a la expansión urbanística, priorizando el uso agrícola del suelo. Establece mecanismos para rehabilitar terrenos degradados y penaliza el abandono de fincas mediante la gestión por terceros. Para compensar las restricciones de uso, ofrece ayudas económicas a los agricultores, especialmente a los jóvenes. Además, integra la protección de la huerta en el registro de la propiedad mediante mapas digitales para evitar construcciones ilegales.",
+  "citizen_impact": "Los ciudadanos y propietarios de fincas en la huerta deben saber que el abandono de tierras puede derivar en la cesión forzosa de la propiedad para su cultivo. Por otro lado, los agricultores locales tienen derecho a ayudas económicas para compensar la menor rentabilidad de sus tierras y beneficios adicionales si son jóvenes agricultores.",
+  "professional_impact": "Los agricultores deben inscribir sus parcelas en el REACV para acceder a ayudas. Los Registradores de la Propiedad están obligados a consultar mapas digitales georreferenciados para evitar inscribir obras fuera de ordenación. Los ayuntamientos pueden sustituir zonas verdes urbanas por la protección de suelo de huerta equivalente.",
+  "keywords": [
+    "Huerta de València",
+    "protección agraria",
+    "suelo rústico",
+    "urbanismo",
+    "ayudas agricultura",
+    "gestión de tierras"
+  ],
+  "key_points": [
+    "Prioridad absoluta de la actividad agraria sobre la presión urbanística en la zona.",
+    "Creación de 'enclaves' y 'sectores de recuperación' para rehabilitar suelos degradados con edificabilidad mínima (1/3 del terreno).",
+    "Sistema de arrendamiento forzoso o cesión de tierras para propietarios que no mantengan sus fincas en cultivo.",
+    "Prohibición de vertidos de residuos sólidos y restricciones severas en acequias y cauces.",
+    "Obligatoriedad de soterrar infraestructuras (luz, comunicaciones) para reducir el impacto visual.",
+    "Ayudas económicas para agricultores para compensar la pérdida de rentabilidad por restricciones de uso.",
+    "Bonificaciones especiales para titulares de explotaciones agrarias jóvenes.",
+    "Obligación de los Registradores de la Propiedad de usar mapas digitales georreferenciados de la Huerta.",
+    "Ilegalidad de nuevas construcciones que contravengan la ley; solo se permiten obras de conservación.",
+    "Creación del Consejo de la Huerta de València para gestionar fondos y planes de desarrollo.",
+    "Posibilidad de que municipios reduzcan exigencias de zonas verdes si protegen suelo de huerta equivalente.",
+    "Los proyectos urbanísticos en curso pueden seguir su trámite o adaptarse a la nueva normativa."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunitat Valenciana",
+    "Ley 5/2014 de ordenación del territorio, urbanismo y paisaje de la Comunitat Valenciana",
+    "Ley 8/2002 de ordenación de las estructuras agrarias de la Comunitat Valenciana",
+    "Ley 3/2013 de los contratos y otras relaciones jurídicas agrarias",
+    "Decreto 1/2011 del Consell",
+    "Ley 45/2007 para el desarrollo sostenible del medio rural",
+    "Ley 35/2011 sobre titularidad compartida de las explotaciones agrarias",
+    "Agenda 2030 de la ONU",
+    "Ley 38/2015 del procedimiento administrativo común de las administraciones públicas",
+    "Ley Hipotecaria (artículo 9)",
+    "Decreto 219/2018, de 30 de noviembre, del Consell",
+    "Real Decreto Ley de 30 de octubre de 2015 (Texto refundido de la Ley de suelo y rehabilitación urbana)"
+  ],
+  "derogations": [],
+  "main_obligations": "Los propietarios de suelos infrautilizados deben elegir medidas correctoras, cesión o intermediación en un plazo de 1 año. Los agricultores deben inscribir sus parcelas en el REACV para recibir ayudas. Las administraciones deben facilitar mapas web a los registradores en 3 meses.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Declaración de suelo agrario infrautilizado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inspección y acta",
+          "description": "Los servicios de inspección detectan la infrautilización y levantan acta informando al titular.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Declaración de infrautilización",
+          "description": "Se formaliza la declaración tras dar audiencia al interesado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Inscripción en el inventario",
+          "description": "Si tras un año persiste la situación, la parcela se inscribe en el inventario público.",
+          "start_date": "1 año tras la declaración",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Plazo de subsanación u opción",
+          "description": "El titular debe elegir entre medidas correctoras, cesión temporal o mecanismos de intermediación.",
+          "start_date": "1 año tras la inscripción",
+          "end_date": "6 meses tras la elección",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Incumplimiento de la función social",
+          "description": "Si no se opta por nada, se inicia el procedimiento de incumplimiento de la función social (vía expropiación).",
+          "start_date": "Tras el plazo de la opción",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Recuperación de Enclaves de la Huerta",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración de enclave",
+          "description": "Se delimita el área de terreno degradado o con ruinas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Obligación de restauración",
+          "description": "El propietario debe recuperar y cultivar al menos 2/3 de la propiedad.",
+          "start_date": null,
+          "end_date": "4 años tras la declaración",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Venta forzosa o expropiación",
+          "description": "Si no se cumple tras requerimiento, se procede a subasta pública o expropiación.",
+          "start_date": "2 años tras el requerimiento",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Constitución del Consejo de la Huerta y Plan de Desarrollo Agrario",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Constitución del Consejo y elaboración del plan",
+          "description": "Creación del órgano de gobierno de la Huerta y redacción del plan de desarrollo.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "9 meses desde la entrada en vigor",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de ayudas para la actividad agraria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requisito de inscripción y cultivo",
+          "description": "La parcela debe estar cultivada e inscrita en el Registro de Explotaciones Agrarias de la CV.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Inscripción en el REACV"
+        }
+      ]
+    },
+    {
+      "name": "Integración de mapas en el Registro de la Propiedad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Puesta a disposición de servicios de mapas web",
+          "description": "La consejería debe facilitar el acceso a los planes de acción territorial georreferenciados a los registradores.",
+          "start_date": "Publicación de la ley",
+          "end_date": "3 meses desde la publicación",
+          "required_documentation": "Servicio de mapas web con metadatos"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

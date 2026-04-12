@@ -1,0 +1,105 @@
+{
+  "identifier": "BOE-A-2025-3560",
+  "title": "Real Decreto 91/2025, de 11 de febrero, por el que se establece el mecanismo de gobernanza en materia de energía, cambio climático y calidad del aire",
+  "visible_title": "Mecanismo de gobernanza en materia de energía, cambio climático y calidad del aire",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio para la Transición Ecológica y el Reto Demográfico",
+  "official_number": "91/2025",
+  "publication_date": "2025-02-22",
+  "enactment_date": "2025-02-11",
+  "last_updated": "2025-02-22",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/02/11/91",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "46",
+  "summary": "Esta norma organiza cómo el Estado español recopila, coordina y envía la información sobre emisiones, energía y clima a la Unión Europea y organismos internacionales. Establece un sistema de colaboración entre distintos ministerios y administraciones para asegurar que los datos sobre calidad del aire y gases de efecto invernadero sean exactos y transparentes. Su objetivo es cumplir con los compromisos climáticos de España (como el Acuerdo de París) mediante un control riguroso de los inventarios y las políticas implementadas.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta principalmente a funcionarios de administraciones públicas y organismos estatales, que ahora tienen la obligación legal de suministrar datos específicos sobre sus actividades. Las empresas públicas y privadas que gestionen datos estadísticos o ambientales relevantes deberán responder a los requerimientos de información del Ministerio para permitir el cálculo de emisiones y proyecciones.",
+  "keywords": [
+    "cambio climático",
+    "calidad del aire",
+    "emisiones de gases de efecto invernadero",
+    "gobernanza energética",
+    "inventario nacional de emisiones",
+    "transparencia climática",
+    "PNIEC"
+  ],
+  "key_points": [
+    "Crea un sistema de coordinación entre ministerios para centralizar la información climática y energética.",
+    "Establece la obligación de elaborar anualmente el Inventario Nacional de emisiones y absorciones.",
+    "Obliga a realizar proyecciones de emisiones de forma bienal para planificar el futuro climático.",
+    "Define plazos estrictos para que los departamentos remitan datos al Ministerio para la Transición Ecológica.",
+    "Incluye mecanismos para informar sobre el apoyo financiero y tecnológico que España brinda a países en desarrollo.",
+    "Garantiza el acceso público a los informes y datos climáticos a través de la web del Ministerio.",
+    "Establece la necesidad de coordinar la información con las Comunidades Autónomas para los planes de adaptación."
+  ],
+  "legal_references": [
+    "Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera",
+    "Ley 7/2021, de 20 de mayo, de cambio climático y transición energética",
+    "Real Decreto 818/2018, de 6 de julio",
+    "Reglamento (UE) 2018/1999 del Parlamento Europeo y del Consejo",
+    "Directiva (UE) 2016/2284 del Parlamento Europeo y del Consejo",
+    "Acuerdo de París",
+    "Convenio Marco de Naciones Unidas sobre el Cambio Climático (CMNUCC)"
+  ],
+  "derogations": [
+    "Apartado 3 del Anexo III del Real Decreto 818/2018"
+  ],
+  "main_obligations": "Los organismos públicos y privados señalados deben suministrar la información solicitada por la Dirección General de Calidad y Evaluación Ambiental para los inventarios. Los departamentos ministeriales deben remitir la información sobre políticas y medidas antes del 15 de diciembre de cada año para cumplir con la normativa europea.",
+  "effective_date": "2025-02-23",
+  "procedures": [
+    {
+      "name": "Elaboración del Inventario Nacional de emisiones y absorciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Remisión de datos por organismos",
+          "description": "Los responsables de organismos públicos y privados deben enviar la información sobre su actividad del año anterior.",
+          "start_date": "anual",
+          "end_date": "31 de diciembre",
+          "required_documentation": "Datos de actividad y emisiones según requerimiento de la DGCEA"
+        },
+        {
+          "step": 2,
+          "title": "Envío del balance energético",
+          "description": "La Dirección General de Planificación y Coordinación Energética remite el balance energético nacional.",
+          "start_date": "anual",
+          "end_date": "1 de noviembre",
+          "required_documentation": "Balance energético nacional"
+        },
+        {
+          "step": 3,
+          "title": "Notificación a la Comisión Europea (Datos preliminares)",
+          "description": "Envío de datos preliminares del Inventario de GEI a la UE.",
+          "start_date": "anual",
+          "end_date": "15 de enero",
+          "required_documentation": "Tablas Comunes de Reporte (CRT)"
+        }
+      ]
+    },
+    {
+      "name": "Elaboración de Proyecciones de emisiones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recopilación de información de políticas y medidas",
+          "description": "Los departamentos ministeriales informan sobre las medidas de mitigación y adaptación.",
+          "start_date": "anual",
+          "end_date": "15 de diciembre de años pares",
+          "required_documentation": "Descripción de políticas, calendarios e implementación"
+        },
+        {
+          "step": 2,
+          "title": "Notificación de proyecciones a la UE",
+          "description": "Envío bienal de las proyecciones de emisiones y absorciones.",
+          "start_date": "bienal (años impares)",
+          "end_date": "15 de marzo",
+          "required_documentation": "Informes de proyecciones"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

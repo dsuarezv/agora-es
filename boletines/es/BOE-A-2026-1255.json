@@ -1,0 +1,84 @@
+{
+  "identifier": "BOE-A-2026-1255",
+  "title": "Resolución de 14 de enero de 2026, de la Dirección General de Tráfico, por la que se establecen medidas especiales de regulación de tráfico durante el año 2026",
+  "visible_title": "Medidas especiales de regulación de tráfico 2026",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Ministerio del Interior",
+  "official_number": "BOE-A-2026-1255",
+  "publication_date": "2026-01-20",
+  "enactment_date": "2026-01-14",
+  "last_updated": "2026-01-20",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/res/2026/01/14/(1)",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "18",
+  "summary": "Esta resolución establece las restricciones de circulación y las medidas de gestión de tráfico que se aplicarán en toda España durante el año 2026. Su objetivo es garantizar la seguridad vial y la fluidez del tráfico durante periodos de desplazamientos masivos, como vacaciones, festivos o eventos deportivos. La norma regula prohibiciones específicas para vehículos pesados, transporte de mercancías peligrosas y vehículos especiales en fechas y tramos determinados.",
+  "citizen_impact": "Los ciudadanos pueden experimentar cambios en sus rutas habituales o restricciones de circulación en ciertas carreteras durante fines de semana y festivos. Además, se pueden producir cierres de obras o cambios en la velocidad permitida en zonas con alta presencia de ciclistas para mejorar la seguridad.",
+  "professional_impact": "Las empresas de transporte de mercancías (especialmente las de más de 7.500 kg) y de mercancías peligrosas deben planificar sus rutas evitando los tramos y horarios restringidos detallados en los anexos. Los organizadores de eventos deportivos también deben cumplir con requisitos estrictos de autorización para no afectar la movilidad nacional.",
+  "keywords": [
+    "tráfico",
+    "restricciones de circulación",
+    "transporte de mercancías",
+    "seguridad vial",
+    "DGT",
+    "mercancías peligrosas",
+    "vehículos pesados"
+  ],
+  "key_points": [
+    "Restricciones de circulación para vehículos de más de 7.500 kg en fechas y tramos específicos.",
+    "Regulación estricta de itinerarios para el transporte de mercancías peligrosas (Red RIMP).",
+    "Limitaciones para la realización de eventos deportivos que afecten a la fluidez del tráfico.",
+    "Posibilidad de habilitar carriles VAO, carriles en sentido contrario o el uso dinámico del arcén en situaciones especiales.",
+    "Suspensión de obras en carreteras durante periodos de alta demanda como Semana Santa o verano.",
+    "Limitaciones de velocidad en tramos con alta concentración de ciclistas.",
+    "Exenciones para transporte de ganado vivo, mercancías perecederas y servicios de emergencia/auxilio."
+  ],
+  "legal_references": [
+    "Real Decreto Legislativo 6/2015 (Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial)",
+    "Real Decreto 1428/2003 (Reglamento General de Circulación)",
+    "Real Decreto 2822/1998 (Reglamento General de Vehículos)",
+    "Real Decreto 97/2014 (Transporte de mercancías peligrosas)"
+  ],
+  "derogations": [],
+  "main_obligations": "Los conductores de vehículos pesados (>7.500 kg) y de mercancías peligrosas deben respetar estrictamente los calendarios, tramos y rutas indicados en los anexos de la resolución. El incumplimiento de estas medidas será sancionado según la Ley de Tráfico vigente.",
+  "effective_date": "2026-01-28",
+  "procedures": [
+    {
+      "name": "Autorización de eventos deportivos y no deportivos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "descrption": "Los organizadores deben solicitar permiso para eventos que afecten a la circulación o requieran escolta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Plan de itinerario y detalles del evento"
+        },
+        {
+          "step": 2,
+          "title": "Evaluación de fluidez",
+          "descrption": "Los Centros de Gestión de Tráfico determinan si el evento altera significativamente la movilidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de obras en carretera",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de suspensión de obras",
+          "descrption": "La DGT solicita a los organismos titulares la interrupción de obras en periodos de tráfico intenso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

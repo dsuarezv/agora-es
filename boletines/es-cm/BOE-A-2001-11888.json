@@ -1,0 +1,88 @@
+{
+  "identifier": "BOE-A-2001-11888",
+  "title": "Ley 4/2001, de 10 de mayo, de Parques Arqueológicos de Castilla-La Mancha",
+  "visible_title": "Ley de Parques Arqueológicos de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "4/2001",
+  "publication_date": "2001-06-21",
+  "enactment_date": "2001-05-10",
+  "last_updated": "2021-06-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2001/05/10/4",
+  "official_journal": "Diario Oficial de Castilla-La Mancha",
+  "summary": "Esta ley establece el marco jurídico para la creación, protección y gestión de los Parques Arqueológicos en Castilla-La Mancha. Su objetivo es integrar la conservación de yacimientos con el desarrollo sostenible y el disfrute público de los bienes culturales. Regula desde los requisitos para declarar un parque hasta las normas de uso del territorio y los regímenes de sanciones.",
+  "citizen_impact": "Los ciudadanos pueden disfrutar de espacios culturales protegidos, pero tienen prohibido realizar actividades que dañen el patrimonio, como usar detectores de metales sin permiso o recoger objetos arqueológicos. El incumplimiento de estas normas puede acarrear multas económicas significativas.",
+  "professional_impact": "Empresas de turismo, constructoras y propietarios de terrenos en zonas de interés arqueológico deben cumplir con planes de ordenación específicos. Los profesionales de la arqueología deben seguir regímenes de autorización estrictos para cualquier excavación o prospección dentro de estos parques.",
+  "keywords": [
+    "patrimonio arqueológico",
+    "parques arqueológicos",
+    "Castilla-La Mancha",
+    "conservación cultural",
+    "desarrollo sostenible",
+    "protección del patrimonio",
+    "sanciones arqueológicas"
+  ],
+  "key_points": [
+    "Creación de Parques Arqueológicos mediante Decreto del Consejo de Gobierno.",
+    "Obligatoriedad de contar con un Plan de Ordenación para cada parque.",
+    "Derecho de tanteo y retracto de la Administración sobre la compraventa de inmuebles en el parque.",
+    "Declaración de utilidad pública para permitir la expropiación forzosa si fuera necesario.",
+    "Prohibición estricta del uso de detectores de metales sin autorización específica.",
+    "Régimen de sanciones que distingue entre infracciones leves, graves y muy graves.",
+    "Obligación de reparar el daño causado al patrimonio en caso de infracción."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Castilla-La Mancha",
+    "Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español",
+    "Ley 4/1990, de 30 de mayo, de Patrimonio Histórico de Castilla-La Mancha",
+    "Ley 39/2015, de 1 de octubre",
+    "Ley 30/1992"
+  ],
+  "derogations": [],
+  "main_obligations": "Se prohíbe la recogida de objetos arqueológicos, el uso de detectores de metales sin permiso y la realización de vertidos o actividades no autorizadas en el parque. Las multas pueden alcanzar los 150.253,02 euros en infracciones muy graves y se exige la reparación del daño causado.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Declaración de Parque Arqueológico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del expediente",
+          "description": "Inicio del procedimiento de oficio o a solicitud de interesado por la Consejería competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de Plan de Ordenación, Reglamento de gestión y Plan de financiación."
+        },
+        {
+          "step": 2,
+          "title": "Información pública y consultas",
+          "description": "Periodo de audiencia a interesados y consulta a entidades locales y sociales.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informes preceptivos",
+          "description": "Emisión de informes por instituciones consultivas y otras Consejeras (Medio Ambiente, Turismo, etc.).",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución final",
+          "description": "Aprobación mediante Decreto del Consejo de Gobierno.",
+          "start_date": null,
+          "end_date": "12 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

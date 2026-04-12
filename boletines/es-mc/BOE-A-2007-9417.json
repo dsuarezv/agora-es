@@ -1,0 +1,362 @@
+{
+  "identifier": "BOE-A-2007-9417",
+  "title": "Ley 8/2006, de 16 de noviembre, de Sociedades Cooperativas, de la Región de Murcia",
+  "visible_title": "Ley de Sociedades Cooperativas de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "8/2006",
+  "publication_date": "2007-05-09",
+  "enactment_date": "2006-11-16",
+  "last_updated": "2020-06-18",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2006/11/16/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley proporciona un marco jurídico propio y flexible para las cooperativas en la Región de Murcia, dejando de depender de la normativa estatal general. Su objetivo es dinamizar el sector permitiendo nuevas figuras como socios a prueba o cooperadores y facilitando la actividad con terceros no socios. Además, regula la estructura interna, la gestión de capital y los procesos de transformación o fusión de estas entidades. En definitiva, busca modernizar el modelo cooperativista regional para que sea más competitivo y adaptable.",
+  "citizen_impact": "Para el ciudadano que quiera asociarse, ofrece mayor claridad sobre sus derechos de separación y reembolso de aportaciones. En el caso de cooperativas de vivienda, protege al socio regulando la venta de derechos a terceros y la gestión de las promociones.",
+  "professional_impact": "Afecta directamente a emprendedores y gestores de cooperativas, quienes deben cumplir con estrictos deberes de inscripción en el Registro, formalización de acuerdos y transparencia contable. Impone responsabilidades específicas en procesos de fusión, escisión y disolución, además de prohibiciones de incompatibilidad para cargos directivos y sus familiares.",
+  "keywords": [
+    "sociedades cooperativas",
+    "Región de Murcia",
+    "gobernanza cooperativa",
+    "socio a prueba",
+    "cooperativa de trabajo asociado",
+    "cooperativa de vivienda",
+    "fusión de cooperativas"
+  ],
+  "key_points": [
+    "Mayor flexibilidad económica: se permite realizar operaciones con terceros no socios según los estatutos.",
+    "Nuevas figuras de socios: creación del socio a prueba (máximo 10 meses), cooperadores y asociados para dinamizar la entidad.",
+    "Flexibilidad estructural: posibilidad de crear secciones con patrimonio y gestión autónoma, incluyendo secciones de crédito.",
+    "Gobernanza y control: prohibición de incompatibilidad entre cargos de Consejo, Intervención y Dirección, extendida a familiares hasta segundo grado.",
+    "Protección del socio: derecho al reembolso de al menos el 25% de las aportaciones obligatorias al causar la baja.",
+    "Límites en cooperativas de trabajo: los trabajadores asalariados no pueden superar el 30% del total.",
+    "Regulación de cooperativas de vivienda: obligación de auditoría si tienen 20 o más inmuebles y derecho de adquisición preferente para socios.",
+    "Modelos mixtos: permite votos preferentes por capital siempre que los socios cooperadores mantengan el 51% de los votos.",
+    "Agrupación de entidades: creación de grupos cooperativos donde una entidad 'cabecera' puede emitir instrucciones obligatorias a las de base.",
+    "Régimen de pérdidas: las pérdidas no compensadas pueden imputarse a los socios según su actividad con la cooperativa.",
+    "Derechos en fusiones: los socios que voten en contra o no asistan tienen derecho de separación.",
+    "Control administrativo: la Administración de Murcia tiene competencias de fomento, inspección y sanción."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía para la Región de Murcia",
+    "Ley orgánica 4/94",
+    "Ley orgánica 1/98",
+    "Real Decreto 374/1995",
+    "Ley de Sociedades Anónimas",
+    "Ley de Arrendamientos Urbanos o Rústicos",
+    "Ley de Auditoría de Cuentas",
+    "Código de Comercio",
+    "Ley de Insolvencia (Ley Concursal)",
+    "Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres",
+    "Código Civil",
+    "Ley 39/2015",
+    "Ley 40/2015",
+    "Ley 27/1999",
+    "Ley 20/1990",
+    "Real Decreto 463/2020"
+  ],
+  "derogatons": [],
+  "main_obligations": "Las sociedades en constitución deben incluir la mención 'en constitución' en toda su documentación y facturas para evitar sanciones. El Consejo Rector debe inscribir sus acuerdos en el Registro en un plazo de un mes y los interventores deben emitir informes de cuentas en el mismo plazo.",
+  "effective_date": "2007-01-01",
+  "procedures": [
+    {
+      "name": "Constitución de la sociedad cooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Promoción y acuerdos",
+          "description": "Celebración de asamblea constituyente o constitución directa ante notario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública y acta de asamblea (si procede)"
+        },
+        {
+          "step": 2,
+          "title": "Otorgamiento de escritura pública",
+          "description": "Si hubo asamblea, el plazo para otorgar la escritura es de máximo 2 meses.",
+          "start_date": "Desde la asamblea constituyente",
+          "end_date": "2 meses",
+          "required_documentation": "Certificación de no existencia de denominación idéntica"
+        },
+        {
+          "step": 3,
+          "title": "Solicitud de inscripción registral",
+          "description": "Presentación de la escritura en el Registro de Sociedades Cooperativas de la Región de Murcia.",
+          "start_date": "Desde el otorgamiento de la escritura",
+          "end_date": "1 mes",
+          "required_documentation": "Escritura pública de constitución"
+        },
+        {
+          "step": 4,
+          "title": "Resolución del Registro",
+          "description": "El Registro procede al asiento o deniega la inscripción.",
+          "start_date": "Desde la presentación de la escritura",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Admisión de nuevos socios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de admisión",
+          "description": "El interesado presenta solicitud por escrito al Consejo Rector.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud por escrito"
+        },
+        {
+          "step": 2,
+          "title": "Resolución del Consejo Rector",
+          "description": "El Consejo debe comunicar la decisión motivada.",
+          "start_date": "Desde la recepción de la solicitud",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Impugnación de acuerdos de la Asamblea General",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Identificación de nulidad o anulabilidad",
+          "description": "Detectar acuerdos contrarios a la Ley o Estatutos.",
+          "start_date": "Desde la adopción del acuerdo",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Ejercicio de la acción de impugnación",
+          "description": "Presentación de la demanda por parte de socios o legitimados.",
+          "start_date": "1 año para acuerdos nulos; 40 días para anulables (si se constató oposición)",
+          "end_date": null,
+          "required_documentation": "Documento de oposición si se desea impugnar acuerdo anulable"
+        }
+      ]
+    },
+    {
+      "name": "Proceso de Reembolso de Aportaciones por Baja",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de la baja",
+          "description": "El socio comunica su salida de la cooperativa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Cálculo del importe",
+          "description": "El Consejo Rector calcula el valor a reembolsar tras la aprobación de cuentas.",
+          "start_date": "3 meses desde la aprobación de cuentas",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Notificación al socio",
+          "description": "Se comunica al socio el resultado del cálculo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Ejecución del pago",
+          "description": "El pago puede aplazarse según estatutos (máximo 5 años en expulsión, 3 en baja justificada, 1 en defunción).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Elección de miembros del Consejo Rector",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del proceso",
+          "description": "Se inicia la organización electoral.",
+          "start_date": "2 meses antes de finalizar el mandato actual",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Constitución de la Junta Electoral",
+          "description": "Formada por el Presidente y dos socios por sorteo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Publicación de censo y calendario",
+          "description": "La Junta aprueba y publica el censo y las fechas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Presentación de candidaturas",
+          "description": "Los socios presentan sus listas o candidaturas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Proclamación y votación",
+          "description": "Se eligen los candidatos con mayor número de votos mediante votación secreta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Inscripción en el Registro",
+          "description": "Se solicita la inscripción del nombramiento.",
+          "start_date": "1 mes desde el nombramiento",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Fusión",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del proyecto",
+          "description": "Redacción del proyecto de fusión y documentos financieros.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Cuentas anuales (3 últimos ejercicios), balance de fusión, informe del Consejo Rector y proyecto de estatutos."
+        },
+        {
+          "step": 2,
+          "title": "Convocatoria y examen de documentos",
+          "description": "Convocatoria de Asamblea General poniendo a disposición de los socios la documentación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación completa del proyecto de fusión."
+        },
+        {
+          "step": 3,
+          "title": "Aprobación en Asamblea",
+          "description": "Votación por mayoría de dos tercios de los presentes y representados.",
+          "start_date": null,
+          "end_date": "6 meses desde la elaboración del proyecto (si no se aprueba, el proyecto queda sin efecto)",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Publicidad y oposición de acreedores",
+          "description": "Publicación en el BOCM y diarios para que los acreedores puedan oponerse.",
+          "start_date": null,
+          "end_date": "2 meses desde el último anuncio",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Disolución y Liquidación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de disolución",
+          "description": "La Asamblea General acuerda la disolución por las causas legales.",
+          "start_date": null,
+          "end_date": "El Consejo Rector debe convocar la Asamblea en 1 mes desde que constata la causa",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Nombramiento de liquidadores",
+          "description": "Designación de los encargados de cerrar la sociedad.",
+          "start_date": null,
+          "end_date": "Si no se nombran, se puede solicitar judicialmente tras 2 meses de la disolución",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Balance final y reparto",
+          "description": "Aprobación del balance final y distribución del haber social tras pagar deudas.",
+          "start_date": null,
+          "end_date": "Plazo de 40 días para impugnación tras la publicación del balance",
+          "required_documentation": "Balance final, informe de gestión y proyecto de distribución."
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de descualificación de la sociedad cooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del expediente",
+          "description": "Inicio del procedimiento por pérdida de requisitos o infracciones muy graves.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Traslado y acreditación de requisitos",
+          "description": "Si es por falta de socios, la cooperativa tiene un mes para acreditar que cumple el número mínimo.",
+          "start_date": "Desde la incoación",
+          "end_date": "1 mes",
+          "required_documentation": "Documentación que acredite el número de socios"
+        },
+        {
+          "step": 3,
+          "title": "Emisión de informe",
+          "description": "La Dirección General debe emitir un informe preceptivo en un plazo de un mes.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Audiencia y resolución",
+          "description": "Se otorga audiencia a la sociedad y el Consejero dicta la resolución motivada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inscripción en el Registro de Sociedades Cooperativas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Presentación de la solicitud de inscripción o anotación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución por silencio administrativo",
+          "description": "Si no hay respuesta en 6 meses, la solicitud se entiende desestimada.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 4
+}

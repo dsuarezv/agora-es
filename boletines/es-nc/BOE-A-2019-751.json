@@ -1,0 +1,116 @@
+{
+  "identifier": "BOE-A-2019-751",
+  "title": "Ley Foral 29/2018, de 26 de diciembre, de Lugares de la Memoria Histórica de Navarra",
+  "visible_title": "Ley de Lugares de la Memoria Histórica de Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "29/2018",
+  "publication_date": "2019-01-23",
+  "enactment_date": "2018-12-26",
+  "last_updated": "2018-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2018/12/26/29",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un marco para identificar, proteger y difundir los espacios físicos en Navarra vinculados a la represión durante la Guerra Civil y el franquismo. Busca transformar lugares de terror (como fosas o centros de detención) en espacios de memoria y cultura de paz. Para ello, crea un Registro oficial y regula cómo deben conservarse y señalizarse estos sitios.",
+  "citizen_impact": "Los ciudadanos tienen el derecho de acceder a la información sobre estos lugares y participar en su difusión. Además, cualquier persona que encuentre restos humanos en terrenos sujetos a esta ley tiene la obligación legal de comunicarlo inmediatamente a la Administración.",
+  "professional_impact": "Los propietarios de terrenos o inmuebles declarados como lugares de memoria asumen obligaciones de conservación, deben permitir la señalización y la visita pública (mínimo 4 días al mes). Las empresas constructoras y ayuntamientos deben solicitar autorización específica y presentar proyectos técnicos para cualquier obra en estos espacios, bajo riesgo de sanciones graves o expropiación.",
+  "keywords": [
+    "memoria histórica",
+    "Navarra",
+    "protección de lugares",
+    "derechos humanos",
+    "reparación",
+    "patrimonio histórico",
+    "fosas comunes"
+  ],
+  "key_points": [
+    "Creación de un Registro oficial de Lugares de la Memoria Histórica de Navarra.",
+    "Protección especial que incluye la posibilidad de expropiación forzosa por utilidad pública.",
+    "Obligación de los propietarios de permitir visitas públicas al menos 4 días al mes.",
+    "Suspensión inmediata de licencias de construcción o demolición cuando se inicia el procedimiento de declaración.",
+    "Multas económicas que pueden alcanzar los 150.000 euros por infracciones muy graves.",
+    "Obligatoriedad de comunicar el hallazgo de restos humanos de forma inmediata.",
+    "Integración del estudio de estos lugares en el sistema educativo de Navarra."
+  ],
+  "legal_references": [
+    "Ley Foral 33/2013, de 26 de noviembre",
+    "Constitución Española (referenciada por el marco de derechos)"
+  ],
+  "derogations": [
+    "Modifica la Ley Foral 33/2013, de 26 de noviembre, de reconocimiento y reparación moral de las ciudadanas y ciudadanos navarros asesinados y víctimas de la represión a raíz del golpe militar del 1936."
+  ],
+  "main_obligations": "Los propietarios deben facilitar la conservación de los bienes, permitir la señalización y la visita pública (4 días/mes). Se prohíbe realizar excavaciones o construcciones sin autorización previa, bajo pena de multas de hasta 150.000€ o expropiación.",
+  "effective_date": "2019-01-24",
+  "procedures": [
+    {
+      "name": "Declaración e inscripción en el Registro de Lugares de la Memoria Histórica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Resolución de inicio",
+          "description": "Se inicia de oficio o a petición de parte, identificando el lugar y sus valores.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": "Delimitación cartográfica, identificación de propiedad y valores históricos."
+        },
+        {
+          "step": 2,
+          "title": "Anotación preventiva y medidas cautelares",
+          "description": "Se suspenden licencias de edificación o demolición de forma inmediata.",
+          "start_date": "Desde la resolución de inicio",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Audiencia e información pública",
+          "description": "Trámite para que los afectados y el público presenten alegaciones.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Informe de la Comisión Técnica",
+          "description": "Emisión de informe preceptivo y vinculante por la Comisión de Coordinación.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Resolución final",
+          "description": "Acuerdo de Gobierno de Navarra que dicta la declaración e inscripción definitiva.",
+          "start_date": null,
+          "end_date": "El procedimiento caduca a los 12 meses si no se resuelve",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización para obras o modificaciones en lugares protegidos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Presentación de solicitud acompañada de proyecto técnico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de conservación, estudio histórico, diagnóstico de estado y presupuesto."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la Administración",
+          "description": "El departamento competente resuelve la solicitud.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": "Informe de la Comisión Técnica de Coordinación."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

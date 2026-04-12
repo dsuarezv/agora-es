@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-1992-11685",
+  "title": "Ley 3/1992, de 18 de marzo, de Protección de los Animales",
+  "visible_title": "Ley de Protección de los Animales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Diputación Regional de Cantabria",
+  "official_number": "3/1992",
+  "publication_date": "1992-05-23",
+  "enactment_date": "1992-03-18",
+  "last_updated": "2013-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/1992/03/18/3",
+  "official_journal": "BOCM (implícito por jurisdicción Cantabria)",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco normativo para la protección de todos los animales en Cantabria, regulando su trato, tenencia y comercio. Define las obligaciones de los propietarios, protege la fauna silvestre y regula las actividades de caza y pesca continental. Además, tipifica infracciones y sanciones para garantizar el bienestar animal y la sanidad pública.",
+  "citizen_impact": "Los dueños de mascotas deben censar a sus perros en el Ayuntamiento y mantener sus cartillas sanitarias actualizadas. También prohíbe el abandono de animales y obliga a recoger los excrementos en la vía pública. Los ciudadanos tienen derecho a denunciar casos de maltrato animal.",
+  "professional_impact": "Los establecimientos de venta y cría de animales deben inscribirse en el registro de núcleos zoológicos y cumplir requisitos de higiene estrictos. Los cazadores y pescadores deben cumplir con licencias, seguros y periodos de veda específicos bajo riesgo de sanciones económicas elevadas. Los ganaderos deben seguir planes de saneamiento y vacunación obligatorios.",
+  "keywords": [
+    "protección animal",
+    "bienestar animal",
+    "fauna silvestre",
+    "caza",
+    "pesca",
+    "mascotas",
+    "sanciones",
+    "Cantabria"
+  ],
+  "key_points": [
+    "Obligación de censar a los perros en el municipio de residencia en un plazo de 3 meses desde el nacimiento o adquisición.",
+    "Prohibición absoluta del abandono de animales y del maltrato físico o psicológico.",
+    "Creación del Catálogo Regional de Especies Amenazadas en Cantabria.",
+    "Exigencia de certificados sanitarios y licencias para el comercio de especies protegidas o exóticas.",
+    "Regulación estricta de las técnicas de sacrificio para garantizar procesos indoloros.",
+    "Responsabilidad civil de los dueños por daños causados por sus animales a terceros o al medio ambiente.",
+    "Posibilidad de confiscación de animales en casos de maltrato, desnutrición o enfermedades contagiosas."
+  ],
+  "legal_references": [
+    "Convenios de Washington, Berna y Bonn",
+    "Real Decreto 3114/1982",
+    "Real Decreto 1350/1984",
+    "Real Decreto 223/1988",
+    "Directiva CEE 86/609",
+    "Código Civil (Artículo 1.905)",
+    "Ley 4/1989 de Conservación de los Espacios Naturales y de la Fauna y Flora Silvestre",
+    "Ley de Procedimiento Administrativo de 17 de julio de 1958"
+  ],
+  "derogations": [
+    "Disposiciones que se opongan a la presente Ley"
+  ],
+  "main_obligations": "Los propietarios deben garantizar condiciones higiénicas, alimentación adecuada y vacunación de sus animales. Se prohíbe el maltrato, el abandono y la venta de animales a menores sin autorización. Las infracciones pueden conllevar multas de hasta 2.500.000 pesetas.",
+  "effective_date": "1992-05-13",
+  "procedures": [
+    {
+      "name": "Censo de perros",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Registro de nacimiento o adquisición",
+          "description": "Inscripción del perro en el Ayuntamiento de residencia.",
+          "start_date": "Desde el nacimiento o adquisición",
+          "end_date": "3 meses (nacimiento) o 1 mes (adquisición)",
+          "required_documentation": "Documentación que acredite la propiedad o procedencia"
+        }
+      ]
+    },
+    {
+      "name": "Recuperación de animales abandonados con identificación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación al propietario",
+          "description": "Aviso al dueño del animal localizado por el Ayuntamiento.",
+          "start_date": null,
+          "end_date": "3 días tras la notificación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adecuación de establecimientos de venta",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de adecuación",
+          "description": "Periodo para que las tiendas de animales cumplan los nuevos requisitos de la ley.",
+          "start_date": "Fecha de publicación de la ley",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,70 @@
+{
+  "identifier": "BOE-A-2022-6906",
+  "title": "Decreto-ley 3/2022, de 29 de marzo, de acceso a datos de los ente s locales y del Departamento de Educación para la aplicación de medidas destinadas a la detección y distribución equilibrada del alumnado con necesidades educativas específicas",
+  "visible_title": "Acceso a datos para la detección de necesidades educativas y lucha contra la segregación escolar",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "3/2022",
+  "publication_date": "2022-04-29",
+  "enactment_date": "2022-03-29",
+  "last_updated": "2022-03-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2022/03/29/3",
+  "official_journal": "Diari Oficial de la Generalitat de Catalunya",
+  "journal_issue": null,
+  "summary": "Esta norma permite el intercambio de datos entre los ayuntamientos y el Departamento de Educación de Cataluña para identificar a alumnos en situación de vulnerabilidad. El objetivo es combatir la segregación escolar y asegurar una distribución más equilibrada del alumnado en los centros. Se busca actuar de forma preventiva ante la desigualdad socioeconómica y garantizar la igualdad de oportunidades en el acceso al sistema educativo.",
+  "citizen_impact": "Las familias en situación de vulnerabilidad (por renta, vivienda o servicios sociales) podrían ser identificadas automáticamente por la administración para recibir apoyo educativo sin necesidad de trámites adicionales. No impone nuevas obligaciones a los ciudadanos, sino que facilita la detección de sus necesidades.",
+  "professional_impact": "Los funcionarios de servicios sociales y educación ahora tienen la obligación de compartir datos específicos (identificativos, de residencia y de vulnerabilidad) entre administraciones. Se exige la implementación de medidas técnicas estrictas de seguridad, trazabilidad y control de acceso para proteger la confidencialidad de la información sensible.",
+  "keywords": [
+    "segregación escolar",
+    "necesidades educativas específicas",
+    "vulnerabilidad socioeconómica",
+    "intercambio de datos",
+    "equidad educativa",
+    "Cataluña"
+  ],
+  "key_points": [
+    "Se autoriza el intercambio de datos entre ayuntamientos y el Departamento de Educación sin consentimiento previo por interés público.",
+    "Los ayuntamientos deben facilitar datos sobre familias atendidas por servicios sociales, beneficiarias de ayudas al alquiler o en exclusión residencial.",
+    "El Departamento de Educación compartirá datos de residencia y características educativas con los entes locales.",
+    "Se permite el acceso a datos de alumnos con necesidades específicas derivadas de desventaja social.",
+    "Se establece la obligación de implementar sistemas de control de acceso por perfil de usuario y trazabilidad de consultas.",
+    "La medida busca evitar que la segregación escolar perpetúe la desigualdad social."
+  ],
+  "legal_references": [
+    "Ley Orgánica 2/2006, de 3 de mayo, de Educación",
+    "Ley 12/2009, del 10 de julio, de Educación",
+    "Decreto 11/2021, de 16 de febrero",
+    "Estatuto de Autonomía de Cataluña",
+    "Ley 13/2008, de 5 de noviembre, de la Presidencia de la Generalitat y del Gobierno"
+  ],
+  "derogations": [],
+  "main_obligations": "Las entidades responsables deben aplicar medidas técnicas para garantizar la confidencialidad y trazabilidad de los datos compartidos. Los funcionarios que accedan a esta información están sujetos al deber de confidencialidad y solo pueden usarla para sus funciones específicas.",
+  "effective_date": "2022-03-29",
+  "procedures": [
+    {
+      "name": "Intercambio de información para la detección de vulnerabilidad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Extracción y envío de datos de vulnerabilidad por entes locales",
+          "description": "Los ayuntamientos facilitan datos de familias en situación de riesgo (renta, vivienda, servicios sociales) al Departamento de Educación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos identificativos, de contacto e indicadores de vulnerabilidad."
+        },
+        {
+          "step": 2,
+          "title": "Extracción y envío de datos educativos por el Departamento de Educación",
+          "description": "El Departamento de Educación facilita datos de residencia y características educativas a los entes locales para la planificación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos de residencia y datos de características personales y educativas del alumno."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

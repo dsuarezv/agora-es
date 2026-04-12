@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-2014-754",
+  "title": "Ley 8/2013, de 27 de diciembre, de comunicación y publicidad institucional de Extremadura",
+  "visible_title": "Ley de comunicación y publicidad institucional de Extremadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "8/2013",
+  "publication_date": "2014-01-25",
+  "enactment_date": "2013-12-27",
+  "last_updated": "2014-02-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2013/12/27/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo las instituciones de Extremadura pueden usar dinero público para campañas de comunicación y publicidad. Su objetivo es evitar que la publicidad se use para el lucimiento personal de los políticos, garantizando que los mensajes sean veraces, transparentes y de interés público. Para ello, crea una Comisión de control que supervisa la planificación y evaluación de estas campañas.",
+  "citizen_impact": "Garantiza que la información que recibes de la Junta de Extremadura sea objetiva y no una herramienta de propaganda electoral. Además, asegura que las campañas sean accesibles para personas con discapacidad y respetuosas con el medio ambiente.",
+  "professional_impact": "Las empresas de publicidad y comunicación que quieran trabajar con la administración extremeña deben ajustarse a procesos de contratación pública estrictos y a un plan anual de comunicación. Los profesionales del sector deben cumplir con criterios de transparencia, veracidad y sostenibilidad ambiental para poder adjudicarse contratos.",
+  "keywords": [
+    "publicidad institucional",
+    "comunicación pública",
+    "transparencia",
+    "Extremadura",
+    "control de gasto",
+    "ética política"
+  ],
+  "key_points": [
+    "Prohibición estricta de usar publicidad para destacar logros de gestión política.",
+    "Creación de la Comisión de Comunicación y Publicidad Institucional para controlar y evaluar campañas.",
+    "Obligación de publicar en la web el coste de cada campaña y quién se la adjudicó.",
+    "Prohibición de mensajes sexistas, discriminatorios o que inciten a la violencia.",
+    "Exigencia de que las campañas sean accesibles para personas con discapacidad.",
+    "Preferencia por soportes publicitarios respetuosos con el medio ambiente.",
+    "Obligación de elaborar un Plan Anual de comunicación y publicidad.",
+    "Restricción de campañas institucionales durante periodos electorales para evitar el uso de recursos públicos con fines partidistas."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Extremadura",
+    "Ley 6/1996, de 26 de septiembre",
+    "Ley 1/2002, de Gobierno y de la Administración de la Comunidad Autónoma de Extremadura",
+    "Ley 5/2007, de 19 de abril, General de Hacienda Pública de Extremadura",
+    "Ley 7/1985, de 26 de abril, de Bases del Régimen Local",
+    "Ley 34/1988, de 11 de noviembre, General de Publicidad",
+    "Ley 4/2013, de 21 de mayo, de Gobierno Abierto de Extremadura",
+    "LOREG (Ley Orgánica del Régimen Electoral General)"
+  ],
+  "derogations": [
+    "Decreto 77/2006, de 2 de mayo, de creación de la Comisión General de Comunicación y Publicidad"
+  ],
+  "main_obligations": "Las instituciones deben asegurar que la publicidad sea de interés público y no partidista. Cualquier persona puede solicitar la cesación o rectificación de campañas ilícitas, y la administración debe resolver en un plazo máximo de 6 días.",
+  "effective_date": "2014-02-14",
+  "procedures": [
+    {
+      "name": "Solicitud de cesación o rectificación de campañas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Cualquier persona con interés legítimo puede solicitar que se pare o corrija una campaña que incumpla la ley.",
+          "start_date": "Desde el inicio de la campaña",
+          "end_date": "Para rectificación: hasta 7 días después de finalizada la campaña",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución del órgano competente",
+          "description": "El órgano debe dictar una resolución ejecutiva tras analizar la solicitud.",
+          "start_date": "Desde la presentación",
+          "end_date": "Máximo 6 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ejecución de la medida",
+          "description": "Si se estima la solicitud, la administración debe cesar la campaña o rectificarla.",
+          "start_date": "Inmediatamente tras la resolución",
+          "end_date": "7 días para la rectificación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Medida cautelar de suspensión",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de suspensión provisional",
+          "description": "A petición del interesado, se puede pedir que se suspenda la campaña mientras se resuelve el fondo.",
+          "start_date": "Durante el procedimiento",
+          "end_date": null,
+          "required_documentation": "Indicios de infracción manifiesta"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la medida cautelar",
+          "description": "El órgano debe decidir sobre la suspensión provisional.",
+          "start_date": "Desde la petición",
+          "end_date": "Máximo 3 días",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

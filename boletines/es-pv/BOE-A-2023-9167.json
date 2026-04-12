@@ -1,0 +1,127 @@
+{
+  "identifier": "BOE-A-2023-9167",
+  "title": "Ley 1/2023, de 16 de marzo, de la potestat sancionadora de las Administraciones Públicas Vascas",
+  "visible_title": "Potestad sancionadora de las Administraciones Públicas Vascas",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "1/2023",
+  "publication_date": "2023-04-14",
+  "enactment_date": "2023-03-16",
+  "last_updated": "2023-03-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2023/03/16/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y unifica el sistema de sanciones de las administraciones vascas para hacerlo más justo y humano. Introduce la justicia restaurativa, permitiendo que las multas se sustituyan por trabajos comunitarios o actividades cívicas bajo ciertas condiciones. Además, refuerza la protección de colectivos vulnerables y menores, y garantiza que los ciudadanos tengan más derechos de defensa y descuentos por pago voluntario. El objetivo es que el castigo no sea solo económico, sino que tenga un carácter educativo y socialmente útil.",
+  "citizen_impact": "Los ciudadanos cuentan con nuevas protecciones: pueden solicitar la cuantía mínima de una multa si están en situación de vulnerabilidad y tienen derecho a un descuento de al menos el 20% si reconocen la responsabilidad o pagan pronto. Además, se garantiza que los procesos sancionadores no se alarguen indefinidamente, ya que caducan si no hay resolución en 6 meses. También se reconoce el derecho de las víctimas a ser informadas e intervenir en el proceso.",
+  "professional_impact": "Las administraciones vascas deben adaptar sus protocolos para identificar a las víctimas y motivar correctamente los informes de los agentes de la autoridad. Los funcionarios deben asegurar que los procedimientos de instrucción sean compatibles con la vida laboral del interesado y cumplir estrictamente con los plazos de resolución para evitar la caducidad de los expedientes. Se introduce la posibilidad de tramitación simplificada para infracciones leves.",
+  "keywords": [
+    "potestad sancionadora",
+    "País Vasco",
+    "justicia restaurativa",
+    "multas",
+    "derechos del ciudadano",
+    "vulnerabilidad",
+    "procedimiento administrativo"
+  ],
+  "key_points": [
+    "Sustitución de multas por trabajos de valor comunitario o actividades cívicas con consentimiento.",
+    "Derecho a solicitar la multa mínima en casos de vulnerabilidad o riesgo de exclusión social.",
+    "Descuento mínimo del 20% por reconocimiento de responsabilidad o pago voluntario.",
+    "Creación de la figura de la 'víctima' con derecho a ser identificada, informada e intervenir.",
+    "Caducidad del procedimiento si no se dicta resolución en un plazo de 6 meses.",
+    "Protección reforzada y carácter educativo de la sanción para menores de edad.",
+    "Posibilidad de revocar sanciones por parte de administraciones locales por razones de equidad o interés general.",
+    "Derecho a impugnar la denegación de pruebas mediante un recurso rápido de 3 días.",
+    "Tramitación simplificada para infracciones leves con resolución en 30 días.",
+    "Obligación de la Administración de motivar los informes de agentes de la autoridad."
+  ],
+  "legal_references": [
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+    "Ley 2/1998, de 20 de febrero, de la potestat sancionadora de las Administraciones Públicas de la Comunidad Autónoma del País Vasco",
+    "Ley 2/2016, de 7 de abril, de Instituciones Locales de Euskadi",
+    "Ley 3/2005, de 18 de febrero, de Atención y Protección a la Infancia y la Adolescencia",
+    "Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor",
+    "Convenio sobre los Derechos del Niño (1989)",
+    "Estatuto de los Trabajadores",
+    "Código Penal"
+  ],
+  "derogatons": [
+    "Ley 2/1998, de 20 de febrero, de la potestat sancionadora de las Administraciones Públicas de la Comunidad Autónoma del País Vasco"
+  ],
+  "main_obligations": "La Administración debe notificar el acuerdo de iniciación otorgando 15 días para alegaciones y debe dictar resolución en un máximo de 6 meses para evitar la caducidad. Los agentes de la autoridad tienen la obligación de motivar sus informes de manera lógica.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Procedimiento Administrativo Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "description": "Apertura del expediente de oficio, por denuncia o petición razonada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Relato de hechos, identificación de presuntos responsables y tipificación."
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y alegaciones",
+          "description": "Fase de investigación donde se permite la defensa de los implicados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentos de defensa y pruebas."
+        },
+        {
+          "step": 3,
+          "title": "Propuesta de resolución",
+          "description": "El instructor propone una sanción motivada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución definitiva",
+          "description": "Decisión final que incluye la valoración de pruebas y determinación de la sanción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Revocación de Sanciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de revocación",
+          "description": "Iniciada por la parte interesada alegando vulnerabilidad o equidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la situación socioeconómica o de vulnerabilidad."
+        },
+        {
+          "step": 2,
+          "title": "Informes",
+          "description": "El órgano que impuso la sanción y el que resolvió el recurso deben informar.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de revocación",
+          "description": "Decisión motivada que debe publicarse en el BOPV.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

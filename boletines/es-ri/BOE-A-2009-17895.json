@@ -1,0 +1,120 @@
+{
+  "identifier": "BOE-A-2009-17895",
+  "title": "Ley 4/2009, de 20 de octubre, de aprovechamientos de recursos pastables",
+  "visible_title": "Ley de aprovechamientos de recursos pastables",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "4/2009",
+  "publication_date": "2009-11-10",
+  "enactment_date": "2009-10-20",
+  "last_updated": "2009-10-23",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2009/10/20/4",
+  "official_journal": "Boletín Oficial de La Rioja",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza la gestión de los pastos en La Rioja, sustituyendo normativas obsoletas de 1938 y 1969. Su objetivo es organizar el aprovechamiento sostenible de recursos como dehesas, prados y rastrojos para favorecer la ganadería extensiva. Para ello, traslada la toma de decisiones a los propios ganaderos mediante la creación de comisiones locales municipales.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos que no se dediquen a la actividad agropecuaria.",
+  "professional_impact": "Los ganaderos y agricultores riojanos pasan a tener un papel activo en la gestión de los pastos a través de las nuevas comisiones locales. Se establecen reglas claras para la adjudicación de pastos, la fijación de precios y nuevas obligaciones en materia de sanidad, bienestar animal y uso de fitosanitarios.",
+  "keywords": [
+    "ganadería extensiva",
+    "pastos",
+    "La Rioja",
+    "recursos pastables",
+    "comisión local de pastos",
+    "aprovechamiento de pastos",
+    "gestión agraria"
+  ],
+  "key_points": [
+    "Creación de la Comisión Local de Pastos en cada municipio con aprovechamiento para que ganaderos y agricultores decidan la gestión local.",
+    "Implementación de dos sistemas de adjudicación: adjudicación directa (preferente para ganaderos locales con derechos) y otros métodos para el sobrante.",
+    "Obligatoriedad de cumplir con programas de sanidad, identificación y bienestar animal para usar los pastos.",
+    "Prohibición de usar productos fitosanitarios tóxicos en zonas de paso, caminos y vías pecuarias.",
+    "Los precios de los pastos los fijan las comisiones locales dentro de unos límites marcados por la Consejería.",
+    "El 40% de los ingresos por el uso de pastos debe reinvertirse en el sector agrario del municipio.",
+    "Se establecen sanciones económicas que van desde los 100 hasta los 18.000 euros según la gravedad."
+  ],
+  "legal_references": [
+    "Ley 2/1995, de 10 de febrero, de Protección y Desarrollo del Patrimonio Forestal de La Rioja",
+    "Ley de 7 de octubre de 1938, sobre aprovechamiento de pastos y rastrojeras",
+    "Decreto 1256/1969, de 6 de junio, Reglamento de pastos, hierbas y rastrojeras",
+    "Constitución Española",
+    "Estatuto de Autonomía de La Rioja"
+  ],
+  "derogations": [
+    "Ley de 7 de octubre de 1938, sobre aprovechamiento de pastos y rastrojeras",
+    "Decreto 1256/1969, de 6 de junio, Reglamento de pastos, hierbas y rastrojeras"
+  ],
+  "main_obligations": "Los ganaderos deben cumplir con la normativa de sanidad y bienestar animal, señalizar terrenos con fitosanitarios tóxicos y respetar las zonas de exclusión. El incumplimiento de estas normas o el pastoreo sin adjudicación conlleva multas de hasta 18.000 euros y la posible pérdida de derechos de pasto.",
+  "effective_date": "2009-11-11",
+  "procedures": [
+    {
+      "name": "Elaboración de Ordenanzas de Pastos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de la Comisión Local",
+          "description": "La comisión local elabora la propuesta de ordenanza de pastos de su municipio.",
+          "start_date": "Tras la constitución de la comisión",
+          "end_date": "1 año tras la constitución",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe del Ayuntamiento",
+          "description": "El ayuntamiento debe emitir un informe favorable sobre la propuesta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Exposición pública",
+          "description": "Publicación en el tablón de anuncios y el BOR para alegaciones.",
+          "start_date": null,
+          "end_date": "20 días",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación final",
+          "description": "La Consejería resuelve alegaciones y aprueba la ordenanza.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adjudicación de aprovechamientos pastables",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de tasación",
+          "description": "La comisión local propone los precios de las tasas.",
+          "start_date": "Último trimestre del año",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Adjudicación directa preferente",
+          "description": "Se adjudica a ganaderos locales con derechos de pasto inscritos.",
+          "start_date": "Inmediatamente tras la tasación",
+          "end_date": "Antes del inicio del año natural",
+          "required_documentation": "Libro de registro de explotación o documento equivalente"
+        },
+        {
+          "step": 3,
+          "title": "Adjudicación de sobrantes",
+          "description": "Uso de otros métodos para las superficies no adjudicadas directamente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

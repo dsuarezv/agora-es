@@ -1,0 +1,78 @@
+{
+  "identifier": "DOGV-r-2020-90102",
+  "title": "Decreto-ley 3/2020, de 10 de abril, de adopción de medidas urgentes para establecer ayudas económicas a los trabajadores y las trabajadoras afectados por un ERTE, y a los que han reducido la jornada laboral por conciliación familiar con motivo de la declaración del estado de alarma por la crisis sanitaria provocada por la Covid-19",
+  "visible_title": "Ayudas económicas para trabajadores afectados por ERTE y reducción de jornada por conciliación",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Generalitat Valenciana",
+  "official_number": "3/2020",
+  "publication_date": "2020-04-11",
+  "enactment_date": "2020-04-10",
+  "last_updated": "2020-04-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=DOGV-r-2020-90102",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta norma establece ayudas económicas directas para mitigar la pérdida de ingresos de los trabajadores en la Comunidad Valenciana debido a la crisis de la Covid-19. Se divide en dos bloques: un apoyo de 150€ para trabajadores con rentas bajas en situación de ERTE con suspensión total, y ayudas para quienes redujeron su jornada para cuidar a familiares. El objetivo es evitar que la crisis sanitaria se convierta en un problema estructural de empleo y pobreza.",
+  "citizen_impact": "Los trabajadores en la Comunidad Valenciana afectados por ERTE total o por reducción de jornada para cuidados familiares pueden recibir ayudas de entre 150€ y 600€ según su situación. No requiere trámites complejos de convocatoria pública al ser de concesión directa, buscando rapidez ante la emergencia.",
+  "professional_impact": "La gestión de las ayudas recae en la Agencia Tributaria Valenciana (para ERTE) y en LABORA (para conciliación). Se autoriza el intercambio de datos entre administraciones (SEPE, Seguridad Social) para simplificar la tramitación y reducir la carga burocrática del ciudadano.",
+  "keywords": [
+    "ERTE",
+    "ayudas económicas",
+    "conciliación familiar",
+    "Comunitat Valenciana",
+    "Covid-19",
+    "reducción de jornada"
+  ],
+  "key_points": [
+    "Ayuda de 150€ para trabajadores con rentas bajas en ERTE con suspensión total de contrato.",
+    "Prioridad de ayuda para ERTE según la base de cotización más baja y, en empate, por edad.",
+    "Ayudas para conciliación de hasta 600€ si la reducción de jornada es del 81% al 100%.",
+    "Ayudas para conciliación de 450€ si la reducción es del 61% al 80%.",
+    "Ayudas para conciliación de 300€ si la reducción es del 50% al 60%.",
+    "Las ayudas se conceden mediante régimen de concesión directa por razones de urgencia.",
+    "Se permite el uso de datos de la Seguridad Social y el SEPE para agilizar la gestión sin pedir consentimiento extra."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020",
+    "Real Decreto Ley 8/2020",
+    "Decreto 5/2019 de la Generalitat",
+    "Ley 7/2014 de la Generalitat",
+    "Ley 38/2003 General de Subvenciones",
+    "Ley 1/2015 de la Generalitat",
+    "Estatuto de los Trabajadores (Art. 37.6)"
+  ],
+  "derogations": [],
+  "main_obligations": null,
+  "effective_date": "2020-04-12",
+  "procedures": [
+    {
+      "name": "Ayudas para trabajadores con rentas bajas en ERTE",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación y gestión",
+          "description": "Gestión administrativa de las ayudas a través de la Agencia Tributaria Valenciana.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos de cotización y situación de ERTE (se solicitarán interadministrativamente)"
+        }
+      ]
+    },
+    {
+      "name": "Ayudas para conciliación de vida familiar y laboral",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación y gestión",
+          "description": "Gestión de las ayudas para reducción de jornada a través de LABORA.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Justificación de la reducción de jornada por cuidados"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

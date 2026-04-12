@@ -1,0 +1,107 @@
+{
+  "identifier": "BOE-A-2005-7987",
+  "title": "Ley 3/2005, de 8 de abril, de incompatibilidades de altos cargos de la Administración de la Junta de Andalucía y de declaración de actividades, bienes e intereses de altos cargos y otros cargos públicos",
+  "visible_title": "Ley de Incompatibilidades y Retribuciones del Personal Alto Cargo de la Junta de Andalucía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "3/2005",
+  "publication_date": "2005-05-17",
+  "enactment_date": "2005-04-08",
+  "last_updated": "2024-07-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2005/04/08/3",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": null,
+  "summary": "Esta ley establece un régimen estricto de dedicación exclusiva para los altos cargos de la Junta de Andalucía, prohibiéndoles realizar otras actividades profesionales o empresariales. Introduce la obligación de declarar públicamente sus bienes, intereses y rentas para garantizar la transparencia. Además, regula las sanciones por incumplimiento y las asignaciones económicas que reciben tras dejar sus cargos.",
+  "citizen_impact": "Aumenta la transparencia institucional al permitir que cualquier ciudadano consulte en internet la situación patrimonial y los intereses de quienes ocupan puestos de poder en Andalucía. Esto ayuda a prevenir conflictos de intereses y la corrupción.",
+  "professional_impact": "Afecta directamente a directivos y altos cargos públicos, quienes pierden la libertad de ejercer otras profesiones o negocios mientras ocupan su puesto. También impone a las empresas que licitan con la Junta la obligación de declarar que sus directivos no tengan vínculos con altos cargos andaluces.",
+  "keywords": [
+    "altos cargos",
+    "incompatibilidades",
+    "transparencia",
+    "declaración de bienes",
+    "Junta de Andalucía",
+    "conflicto de intereses",
+    "ética pública"
+  ],
+  "key_points": [
+    "Dedicación exclusiva obligatoria para altos cargos, prohibiendo casi cualquier otra actividad laboral o empresarial.",
+    "Obligación de presentar declaraciones de bienes, actividades e intereses en un plazo de dos meses tras la toma de posesión o cese.",
+    "Publicidad total de las declaraciones de rentas y patrimonio en el Portal de la Junta de Andalucía.",
+    "Prohibición de trabajar para empresas privadas relacionadas con asuntos que el alto cargo gestionó durante los dos años siguientes a su cese.",
+    "Sanciones que pueden incluir el cese inmediato y la inhabilitación para ocupar cargos públicos hasta por 10 años.",
+    "Prohibición de tener cuentas bancarias en paraísos fiscales para los altos cargos y sus familiares cercanos.",
+    "Regulación de asignaciones económicas temporales para ex presidentes, consejeros y otros altos cargos tras su cese."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía para Andalucía",
+    "Constitución Española",
+    "Ley 5/1984, de 23 de abril",
+    "Leyes 4/1990 y 4/1994",
+    "Ley 35/2006 (IRPF)",
+    "Ley 1/2014 de Transparencia Pública de Andalucía",
+    "Real Decreto 1398/1993",
+    "Ley 39/2015",
+    "Ley 40/2015"
+  ],
+  "derogations": [
+    "Ley 5/1984, de 23 de abril, de Incompatibilidades de Altos Cargos de la Administración Andaluz"
+  ],
+  "main_obligations": "Los altos cargos deben declarar sus bienes e intereses en un plazo de 2 meses desde su nombramiento o cese. Tienen prohibido ejercer actividades profesionales privadas incompatibles y deben abstenerse de intervenir en asuntos donde tengan intereses personales o familiares.",
+  "effective_date": "2005-04-08",
+  "procedures": [
+    {
+      "name": "Declaración de actividades, bienes, intereses y retribuciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración",
+          "description": "El alto cargo debe presentar su declaración y las autoliquidaciones del IRPF/Patrimonio.",
+          "start_date": "2 meses desde la toma de posesión, cese o modificación de circunstancias",
+          "end_date": null,
+          "required_documentation": "Modelo de declaración de la Consejería y autoliquidaciones tributarias del último ejercicio."
+        },
+        {
+          "step": 2,
+          "title": "Actualización anual",
+          "description": "Presentación de la declaración de rentas del último ejercicio.",
+          "start_date": "Antes del 1 de agosto de cada año",
+          "end_date": null,
+          "required_documentation": "Autoliquidaciones tributarias íntegras."
+        }
+      ]
+    },
+    {
+      "name": "Autorización para actividades privadas tras el cese",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de la intención",
+          "description": "El ex alto cargo comunica su intención de realizar actividad privada en el mismo sector.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Comunicación escrita a la Consejería competente."
+        },
+        {
+          "step": 2,
+          "title": "Instrucción por la Inspección General",
+          "description": "La Inspección recaba informe de la Consejería de origen en un plazo de 5 días.",
+          "start_date": "Tras la comunicación",
+          "end_date": "5 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución final",
+          "description": "La Consejería dicta la resolución autorizando o denegando la actividad.",
+          "start_date": "Tras el informe de inspección",
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

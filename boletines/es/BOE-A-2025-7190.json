@@ -1,0 +1,163 @@
+{
+  "identifier": "BOE-A-2025-7190",
+  "title": "Real Decreto 164/2025, de 4 de marzo, por el que se aprueba el Reglamento de segugetIdad contra incendios en los establecimientos industriales",
+  "visible_title": "Reglamento de seguridad contra incendios en establecimientos industriales",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes",
+  "official_number": "164/2025",
+  "publication_date": "2025-04-10",
+  "enactment_date": "2025-03-04",
+  "last_updated": "2025-04-10",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/03/04/164",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "87",
+  "summary": "Esta norma actualiza y endurece las exigencias de seguridad contra incendios para todas las industrias y almacenes logísticos en España. Su objetivo es modernizar la protección de infraestructuras críticas, alineándolas con estándares europeos y el Código Técnico de la Edificación. Introduce inspecciones obligatorias cada cinco años y establece criterios técnicos estrictos para la evacuación, la resistencia de estructuras y la instalación de sistemas de detección y extinción. Además, regula específicamente nuevos riesgos como los paneles fotovoltaicos en cubiertas y el almacenamiento de productos agrícolas.",
+  "citizen_impact": "Sin impacto directo en ciudadanos, salvo en lo relativo a la seguridad de los trabajadores en entornos industriales y la protección de las comunidades colindantes a zonas de almacenamiento.",
+  "professional_impact": "Impacto alto para titulares de industrias, almacenes logísticos, proyectistas y organismos de control. Las empresas deben asumir nuevas cargas de mantenimiento, realizar inspecciones quinquenales obligatorias y adaptar sus instalaciones si amplían su actividad. Los proyectistas asumen responsabilidad sobre el uso de técnicas de seguridad equivalentes, y los almacenes logísticos con alta carga de fuego deben cumplir requisitos específicos de protección.",
+  "keywords": [
+    "seguridad contra incendios",
+    "establecimientos industriales",
+    "almacenes logísticos",
+    "inspecciones periódicas",
+    "prevención de incendios",
+    "protección estructural",
+    "evacuación"
+  ],
+  "key_points": [
+    "Obligatoriedad de realizar inspecciones de seguridad contra incendios cada 5 años en todos los establecimientos industriales.",
+    "Los almacenes logísticos están sujetos al reglamento si su carga de fuego total alcanza o supera los 3 millones de megajulios.",
+    "Obligación de comunicar cualquier incendio con daños personales, paralización de actividad (>14 días) o daños materiales (>30.000 €) en un plazo de 15 días hábiles.",
+    "Nuevos requisitos de evacuación: pasillos de al menos 1 metro de ancho y puertas de 80 cm.",
+    "Exigencia de espacios de maniobra para bomberos (6m de ancho) en edificios industriales de más de 1.000 m² de planta superior.",
+    "Regulación específica para paneles fotovoltaicos: separación en grupos de 45x45m mediante franjas libres de 1,2 metros en cubiertas extensas.",
+    "Control estricto en almacenes de cereales y piensos, permitiendo prescindir de rociadores si se instalan sistemas de detección por aspiración o térmica y controles semanales.",
+    "Las entreplantas con puestos de trabajo fijos se consideran estructura portante y deben cumplir requisitos de resistencia al fuego.",
+    "Uso obligatorio de productos de construcción con marcado CE según el Reglamento (UE) 2024/3110.",
+    "Los cambios de actividad o ampliaciones que aumenten el riesgo obligan a la adaptación inmediata al nuevo reglamento.",
+    "Las estructuras textiles (carpas) deben garantizar una resistencia estructural mínima de R 30.",
+    "Las cámaras frigoríficas (<4°C) deben situar los equipos de extinción (BIEs) en las entradas."
+  ],
+  "legal_references": [
+    "Real Decreto 2267/2004",
+    "Reglamento (UE) 2024/3110",
+    "Reglamento (UE) n.º 305/2011",
+    "Real Decreto 513/2017",
+    "Real Decreto 314/2006 (Código Técnico de la Edificación)",
+    "Orden del Ministerio de Industria y Energía de 27 de julio de 1999",
+    "Acuerdo Europeo sobre el Transporte de Mercancías Peligrosas por Carretera (ADR)",
+    "Real Decreto 2822/1998",
+    "Real Decreto 552/2019",
+    "Real Decreto 2200/1995",
+    "Ley 21/1992 de Industria",
+    "Ley 38/1999 de Ordenación de la Edificación",
+    "Ley 39/2015",
+    "Ley 50/1997",
+    "Real Decreto 355/2024",
+    "Real Decreto 393/2007",
+    "Constitución Española art. 149.1.13.ª",
+    "Real Decreto Legislativo 5/2000",
+    "CTE DB-SI",
+    "Real Decreto 485/1997",
+    "Real Decreto 486/1997",
+    "Real Decreto 893/2013",
+    "Normas UNE-EN 124",
+    "RIPCI",
+    "UNE-EN 15619",
+    "UNE-EN 13501-1",
+    "UNE-EN 14115",
+    "UNE 23585",
+    "UNE-EN 16750",
+    "Reglamento Electrotécnico para Baja Tensión"
+  ],
+  "derogatons": [
+    "Real Decreto 2267/2004"
+  ],
+  "main_obligations": "Los titulares deben realizar inspecciones periódicas cada 5 años y comunicar siniestros relevantes (daños >30.000€, daños personales o paralización >14 días) en un plazo de 15 días hábiles. En caso de deficiencias detectadas en inspecciones, se dispone un plazo máximo de 6 meses para su subsanación.",
+  "effective_date": "2025-04-10",
+  "procedures": [
+    {
+      "name": "Puesta en servicio de un establecimiento industrial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración de proyecto o memoria técnica",
+          "descrption": "Redacción por un técnico titulado que justifique el cumplimiento de los requisitos de seguridad.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": "Proyecto o memoria técnica, información de productos (art. 9.4) y documentación de instalaciones (RD 513/2017)."
+        },
+        {
+          "step": 2,
+          "title": "Certificación de adecuación",
+          "descrption": "Emisión de certificado por técnico titulado que manifieste la adecuación de las instalaciones al proyecto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado de adecuación con detalle de sectores, áreas de riesgo y uso de técnicas equivalentes si procede."
+        },
+        {
+          "step": 3,
+          "title": "Inspección inicial (si aplica)",
+          "descrption": "Acta de inspección emitida por organismo de control para establecimientos de riesgo medio/alto o con técnicas especiales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de inspección inicial de organismo de control habilitado."
+        },
+        {
+          "step": 4,
+          "title": "Comunicación o Declaración Responsable",
+          "descrption": "Presentación ante el órgano competente de la Comunidad Autónoma para el registro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto/memoria, certificado de adecuación y acta de inspección (si aplica)."
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de establecimientos existentes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aplicación de normas de funcionamiento y mantenimiento",
+          "descrption": "Obligación de cumplir con los nuevos capítulos de funcionamiento, inspección y sanciones.",
+          "start_date": "6 meses desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Realización de inspecciones periódicas",
+          "descrption": "Adaptación de la periodicidad de inspecciones según el nuevo reglamento.",
+          "start_date": "6 meses desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Comunicación de incendios en establecimientos industriales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Ocurrencia del incendio",
+          "description": "Se produce un incendio con daños personales, paralización o daños materiales superiores a 30.000€.",
+          "start_date": "Fecha del incendio",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comunicación al órgano competente",
+          "description": "El titular debe informar a la comunidad autónoma correspondiente.",
+          "start_date": "Desde la ocurrencia del incendio",
+          "end_date": "15 días hábiles después del incendio",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 4
+}

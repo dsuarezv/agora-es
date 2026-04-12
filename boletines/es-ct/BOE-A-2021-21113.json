@@ -1,0 +1,92 @@
+{
+  "identifier": "BOE-A-2021-21113",
+  "title": "Decreto-ley 24/2021, de 26 de octubre, de aceleración del despliegue de las energías renovables distribuidas y participadas",
+  "visible_title": "Aceleración del despliegue de las energías renovables distribuidas y participadas",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "24/2021",
+  "publication_date": "2021-12-22",
+  "enactment_date": "2021-10-26",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2021/10/26/24",
+  "official_journal": "DOGC / BOE",
+  "journal_issue": null,
+  "summary": "Esta norma busca frenar el impacto negativo de la proliferación descontrolada de grandes proyectos renovables en el territorio catalán. Introduce un modelo de energía distribuida y participada que prioriza el autoconsumo y la implicación de la población local para evitar conflictos sociales. Además, busca proteger el suelo agrícola de alta calidad y ordenar el despliegue mediante una nueva planificación territorial y la creación de mesas de diálogo social.",
+  "citizen_impact": "Facilita el autoconsumo energético al simplificar los trámites administrativos y la documentación necesaria para instalar paneles solares. También otorga a los vecinos de zonas con proyectos renovables el derecho a participar en la propiedad o beneficios de los mismos, fomentando la aceptación local.",
+  "professional_impact": "Las empresas de energía y promotores deben ahora cumplir con requisitos de participación local y respetar criterios de protección de suelos agrícolas. Se simplifica la gestión para instaladores de autoconsumo de baja tensión (<100 kW), mientras que los gestores de redes de distribución estarán bajo una supervisión más estricta respecto a las denegaciones de conexión.",
+  "keywords": [
+    "energías renovables",
+    "autoconsumo",
+    "transición energética",
+    "participación ciudadana",
+    "suelo agrario",
+    "Cataluña",
+    "comunidades energéticas"
+  ],
+  "key_points": [
+    "Priorización de proyectos de autoconsumo y generación distribuida frente a grandes plantas.",
+    "Obligación de ofrecer participación local en proyectos de energía renovable con fines mercantiles.",
+    "Creación de la Mesa de Diálogo Social de las Energías Renovables en cada veguería para alcanzar consensos.",
+    "Simplificación administrativa para el autoconsumo de baja tensión (menor de 100 kW).",
+    "Protección de suelos agrícolas de alto valor frente a la instalación de plantas fotovoltaicas.",
+    "Obligación de elaborar un Plan Territorial Sectorial para la generación eólica y fotovoltaica en 6 meses.",
+    "Creación de un grupo de trabajo para una futura empresa energética pública renovable.",
+    "Mayor control sobre las denegaciones de conexión a la red por parte de los gestores de distribución."
+  ],
+  "legal_references": [
+    "Decreto-ley 16/2019, de 26 de noviembre",
+    "Ley 16/2017, de 1 de agosto, del cambio climático",
+    "Ley 3/2019, de 17 de junio, de los espacios agrarios",
+    "Directiva (UE) 2018/2001",
+    "Real Decreto-ley 23/2020, de 23 de junio",
+    "Real Decreto 244/2019"
+  ],
+  "derogations": [
+    "Artículo 11 del Decreto-ley 16/2019, de 26 de noviembre",
+    "Apartado 2 de la disposición final tercera de la Ley 3/2019, de 17 de junio"
+  ],
+  "main_obligations": "Los promotores de proyectos con fines mercantiles deben acreditar la oferta de participación local. El Gobierno debe presentar el Plan Territorial Sectorial en un plazo de 6 meses y crear un grupo de trabajo para la empresa energética pública en 3 meses.",
+  "effective_date": "2021-12-23",
+  "procedures": [
+    {
+      "name": "Planificación Territorial Sectorial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Formulación del Plan",
+          "description": "El Gobierno debe acordar el plan para la generación eólica, fotovoltaica y sus líneas de evacuación.",
+          "start_date": "2021-12-23",
+          "end_date": "6 meses"
+        }
+      ]
+    },
+    {
+      "name": "Constitución de Empresa Energética Pública",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Creación de grupo de trabajo",
+          "description": "Creación de un grupo de trabajo para estudiar la constitución de la empresa.",
+          "start_date": "2021-12-23",
+          "end_date": "3 meses"
+        }
+      ]
+    },
+    {
+      "name": "Publicación de datos agrícolas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación de superficies",
+          "description": "Publicación en la web de datos de superficies de secano, regadío y porcentaje de ocupación por plantas autorizadas.",
+          "start_date": "2021-12-23",
+          "end_date": "3 meses"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

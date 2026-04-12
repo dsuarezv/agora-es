@@ -1,0 +1,111 @@
+{
+  "identifier": "BOE-A-2020-11363",
+  "title": "Ley 11/2020, de 18 de septiembre, de medidas urgentes en materia de contención de rentas en los contratos de arrendamiento de vivienda y de modificación de la Ley 18/2007, de la Ley 24/2015 y de la Ley 4/2016, relativa a la protección del derecho a la vivienda",
+  "visible_title": "Ley de medidas urgentes de contención de rentas en contratos de arrendamiento de vivienda",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "11/2020",
+  "publication_date": "2020-09-29",
+  "enactment_date": "2020-09-18",
+  "last_updated": "2022-11-01",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2020/09/18/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un régimen excepcional para limitar el precio de los alquileres en zonas de Cataluña declaradas como 'mercado de vivienda tenso'. Su objetivo es frenar la escalada de precios y facilitar el acceso a la vivienda, equilibrando el derecho a la propiedad con la función social de la vivienda. Para ello, utiliza un índice de referencia de precios para fijar topes a las nuevas rentas y a las actualizaciones de contratos existentes.",
+  "citizen_impact": "Los inquilinos en zonas tensionadas tienen ahora un límite legal que impide que el propietario les suba el alquiler por encima de un índice de referencia oficial. Además, si se cobra de más, el inquilino tiene derecho a reclamar la devolución de ese exceso con intereses. Los propietarios ven limitada su capacidad para fijar precios libremente en estas áreas específicas.",
+  "professional_impact": "Los propietarios y agencias inmobiliarias deben informar obligatoriamente sobre el índice de referencia y la renta del contrato anterior al ofrecer una vivienda. Las empresas de gestión de alquileres deben adaptarse a los nuevos límites de precios y a la obligación de desglosar gastos de servicios. Se introduce un régimen sancionador para quienes incumplan los topes de renta.",
+  "keywords": [
+    "alquiler de vivienda",
+    "contención de rentas",
+    "mercado de vivienda tenso",
+    "índice de precios de alquiler",
+    "Cataluña",
+    "derecho a la vivienda"
+  ],
+  "key_points": [
+    "Creación de la figura de 'área con mercado de vivienda tenso' para aplicar límites de precio.",
+    "Uso de un índice de referencia oficial para determinar el precio máximo de nuevos contratos.",
+    "Límite de incremento de hasta un 5% respecto al índice de referencia según características de la vivienda.",
+    "Prohibición de superar la renta del último contrato en los 5 años anteriores (salvo excepciones).",
+    "Derecho de devolución de rentas cobradas en exceso con interés legal más 3 puntos.",
+    "Flexibilidad para viviendas de obra nueva o gran rehabilitación (pueden alcanzar el margen superior del índice).",
+    "Obligación de informar sobre el índice de referencia en todas las ofertas de alquiler en zonas tensionadas.",
+    "Posibilidad de excluir viviendas de gran superficie (más de 150 m²) del régimen de contención."
+  ],
+  "legal_references": [
+    "Ley 18/2007",
+    "Ley 24/2015",
+    "Ley 4/2016",
+    "Constitución Española (Art. 33 y 47)",
+    "Estatuto de Autonomía de Cataluña"
+  ],
+  "derogations": [
+    "Disposición final sexta de la Ley 4/2016"
+  ],
+  "main_obligations": "Los arrendadores en zonas tensionadas no pueden pactar rentas que superen el precio de referencia o la renta del contrato anterior. Deben informar por escrito de la renta previa y el índice aplicable. El incumplimiento de estos límites genera la obligación de reembolsar las cantidades excedentes al inquilino.",
+  "effective_date": "2020-09-29",
+  "procedures": [
+    {
+      "name": "Declaración de áreas con mercado de vivienda tenso",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciativa de la declaración",
+          "descrption": "La Generalitat, municipios o áreas metropolitanas pueden proponer la declaración de una zona como mercado tenso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria explicativa con motivos, circunstancias y duración propuesta."
+        },
+        {
+          "step": 2,
+          "title": "Informe preceptivo",
+          "descrption": "Se requiere un informe del ayuntamiento afectado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Consulta y audiencia",
+          "descrption": "Trámite de información pública y audiencia para los interesados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Publicación",
+          "descrption": "La declaración debe publicarse en el DOGC y portales de transparencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Seguimiento y evaluación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Constitución de la comisión",
+          "descrption": "Creación de una comisión para evaluar las medidas de contención.",
+          "start_date": "3 meses tras la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe anual",
+          "descrption": "La comisión debe elevar un informe anual de seguimiento al Gobierno.",
+          "start_date": null,
+          "end_date": "Anualmente",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

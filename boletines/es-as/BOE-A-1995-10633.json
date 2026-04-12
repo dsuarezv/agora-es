@@ -1,0 +1,136 @@
+{
+  "identifier": "BOE-A-1995-10633",
+  "title": "Ley 2/1995, de 13 de marzo, sobre régimen jurídico de la Administración del Principado de Asturias",
+  "visible_title": "Régimen jurídico de la Administración del Principado de Asturias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "2/1995",
+  "publication_date": "1995-05-04",
+  "enactment_date": "1995-03-13",
+  "last_updated": "2025-12-02",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1995/03/13/2",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y organiza el funcionamiento de la Administración asturiana para hacerla más ágil y cercana. Su objetivo es eliminar la burocracia innecesaria mediante la digitalización, la transparencia y el principio de no pedir documentos que la Administración ya posee. Además, establece reglas claras para la creación de normas, la gestión de sanciones y la contratación pública, buscando siempre la eficiencia y la responsabilidad.",
+  "citizen_impact": "Facilita la vida del ciudadano al evitar que tenga que aportar la misma información varias veces y al permitir la gestión de expedientes de forma digital a través de una sede electrónica. Además, ofrece incentivos económicos directos: puedes obtener hasta un 50% de descuento en sanciones si reconoces la infracción y pagas voluntariamente de forma rápida.",
+  "professional_impact": "Las empresas y profesionales deben adaptarse a procesos de contratación y resolución de conflictos con plazos estrictos (máximo 8 meses). Los funcionarios y directivos públicos deben basar sus nombramientos en criterios de competencia y experiencia, mientras que la Administración está obligada a realizar auditorías de eficacia y consultas públicas antes de aprobar normas que afecten a intereses legítimos.",
+  "keywords": [
+    "Administración de Asturias",
+    "simplificación administrativa",
+    "digitalización",
+    "transparencia",
+    "sanciones",
+    "contratación pública",
+    "sede electrónica"
+  ],
+  "key_points": [
+    "Principio de 'solo una vez': la Administración no puede pedirte datos que ya tiene.",
+    "Digitalización proactiva: acceso a expedientes y notificaciones mediante sede electrónica y portal de internet.",
+    "Descuentos en sanciones: 25% de reducción por reconocer la falta y un 25% adicional por pago voluntario rápido (50% total).",
+    "Transparencia en la IA: obligación de informar sobre el uso de inteligencia artificial en procesos automatizados.",
+    "Consulta pública obligatoria: mínimo 10 días hábiles para normas que afecten a derechos e intereses legítimos.",
+    "Plazos de resolución: máximo 12 meses para expedientes sancionadores y 8 meses para resolución de contratos.",
+    "Nombramientos profesionales: los cargos directivos deben basarse en competencia y experiencia.",
+    "Simplificación de trámites: uso de modelos normalizados y declaraciones responsables para reducir la carga administrativa."
+  ],
+  "legal_references": [
+    "Ley 30/1992, de 26 de noviembre",
+    "Estatuto de Autonomía para Asturias",
+    "Ley 39/2015, de 1 de octubre",
+    "Ley 40/2015, de 1 de diciembre",
+    "Ley 20/2013, de 9 de diciembre",
+    "Ley 1/1982, de 24 de mayo",
+    "Ley 9/1983, de 12 de diciembre"
+  ],
+  "derogations": [
+    "Ley 1/1982, de 24 de mayo, de organización y funcionamiento de la Administración del Principado de Asturias"
+  ],
+  "main_obligations": "La Administración debe resolver los expedientes sancionadores en un plazo máximo de 12 meses y los conflictos contractuales en 8 meses. Asimismo, debe realizar auditorías de eficacia y publicar sus planes de iniciativas legislativas para garantizar la transparencia.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Elaboración de normas (Anteproyectos de Ley o Proyectos de Decreto)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Consulta pública",
+          "description": "Publicación en el portal de transparencia para recibir aportaciones de ciudadanos y entidades.",
+          "start_date": "10 días hábiles",
+          "end_date": null,
+          "required_documentation": "Documentos del expediente necesarios"
+        },
+        {
+          "step": 2,
+          "title": "Información entre consejerías",
+          "description": "Remisión del texto a las demás consejerías para observaciones.",
+          "start_date": "7 días naturales",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Dictamen de órganos consultivos",
+          "description": "Sometimiento a dictamen si es preceptivo (siendo el Consejo Consultivo el último).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio y notificación",
+          "description": "Notificación del inicio del procedimiento al presunto infractor.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Alegaciones y reconocimiento",
+          "description": "Plazo para presentar alegaciones o reconocer la responsabilidad para obtener descuentos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución y notificación",
+          "description": "Finalización del procedimiento con la decisión de la administración.",
+          "start_date": "Plazo máximo de 12 meses desde el inicio",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Resolución de Contratos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Inicio de la instrucción de la resolución contractual, ya sea de oficio o a instancia de parte.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución final",
+          "description": "Dictado de la resolución que pone fin al contrato.",
+          "start_date": "Plazo máximo de 8 meses desde el inicio",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

@@ -1,0 +1,91 @@
+{
+  "identifier": "BOE-A-2025-25393",
+  "title": "Real Decreto 1133/2025, de 10 de diciembre, por el que se establecen las bases reguladoras de las subvenciones destinadas al fomento de las razas autóctonas españolas",
+  "visible_title": "Subvenciones para el fomento de las razas autóctonas españolas",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de Agricultura, Pesca y Alimentación",
+  "official_number": "1133/2025",
+  "publication_date": "2025-12-12",
+  "enactment_date": "2025-12-10",
+  "last_updated": "2025-12-12",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/12/10/1133",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "298",
+  "summary": "Esta norma establece las nuevas reglas para conceder ayudas económicas destinadas a proteger y mejorar las razas de ganado autóctonas en España. El objetivo es asegurar la biodiversidad ganadera y cumplir con la normativa europea de ayudas de Estado. Las subvenciones se centrarán en financiar programas de cría, la gestión de libros genealógicos y la promoción del logotipo 'Raza Autóctona'.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes.",
+  "professional_impact": "Las asociaciones de criadores y entidades públicas ganaderas se benefician de nuevas opciones de financiación para actividades como bancos de germoplasma o control genético. Sin embargo, deben cumplir con requisitos estrictos de gestión de datos (ARCAs), auditorías y procesos de subcontratación controlados. Las comunidades autónomas asumen la carga de gestionar las convocatorias y el pago de estas ayudas.",
+  "keywords": [
+    "razas autóctonas",
+    "ganadería",
+    "subvenciones",
+    "biodiversidad",
+    "recursos genéticos",
+    "asociaciones de criadores",
+    "programa de cría"
+  ],
+  "key_points": [
+    "Se modernizan los criterios para recibir ayudas, permitiendo financiar más actividades según el reglamento europeo.",
+    "Las subvenciones se concederán mediante concurrencia competitiva (no es un derecho automático, hay que competir por ellas).",
+    "Se incentiva la creación de bancos de germoplasma y el envío de muestras al Banco Nacional de Germoplasma Animal.",
+    "Se fomenta el uso del logotipo 'Raza Autóctona' para mejorar la comercialización de productos.",
+    "Las comunidades autónomas tienen autonomía para establecer sus propios criterios de puntuación y límites de cuantía.",
+    "La norma permite la subcontratación de hasta el 100% de la actividad, con controles estrictos si supera los 60.000 euros.",
+    "Se establece un sistema de territorialización de fondos basado en el número de asociaciones y explotaciones por comunidad."
+  ],
+  "legal_references": [
+    "Real Decreto 45/2019",
+    "Ley 38/2003 (Ley General de Subvenciones)",
+    "Reglamento (UE) 2022/2472",
+    "Real Decreto 505/2013",
+    "Ley 39/2015",
+    "Real Decreto 1625/2011"
+  ],
+  "derogations": [
+    "Real Decreto 1625/2011, de 14 de noviembre"
+  ],
+  "main_obligations": "Las asociaciones beneficiarias deben cargar toda la información requerida en el Sistema Nacional de Información de Razas (ARCAs) y cumplir con la normativa de protección de datos. Deben conservar la documentación justificativa y, si adquieren bienes inventariables, mantenerlos destinados al fin de la subvención durante al menos 2 o 5 años según el caso.",
+  "effective_date": "2027-01-01",
+  "procedures": [
+    {
+      "name": "Concesión de subvenciones para el fomento de razas autóctonas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación de la convocatoria",
+          "description": "Las comunidades autónomas publican el extracto de la convocatoria en su diario oficial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de solicitudes",
+          "description": "Las asociaciones presentan su solicitud y un proyecto detallado de actividades y presupuesto.",
+          "start_date": "A partir de la publicación de la convocatoria",
+          "end_date": "Máximo 1 mes tras la publicación",
+          "required_documentation": "Proyecto detallado de actividades, programación y presupuesto"
+        },
+        {
+          "step": 3,
+          "title": "Instrucción y resolución",
+          "description": "La administración analiza las solicitudes y dicta la resolución de concesión.",
+          "start_date": null,
+          "end_date": "Máximo 6 meses tras la publicación de la convocatoria",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Justificación de la subvención",
+          "description": "El beneficiario presenta la memoria de actuación y la memoria económica tras finalizar la actividad.",
+          "start_date": null,
+          "end_date": "Máximo 3 meses desde la finalización del periodo de actividad",
+          "required_documentation": "Memoria de actuación, memoria económica (o cuenta simplificada si < 60.000€)"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

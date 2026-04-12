@@ -1,0 +1,88 @@
+{
+  "identifier": "BOE-A-2021-3493",
+  "title": "Decreto-ley Foral 1/2021, de 13 de enero, por el que se aprueban medidas tributarias para responder al impacto generado por la crisis sanitaria del coronavirus (COVID-19)",
+  "visible_title": "Medidas tributarias para responder al impacto de la crisis sanitaria del COVID-19 en Navarra",
+  "rank": "decreto-ley foral",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "1/2021",
+  "publication_date": "2021-03-06",
+  "enactment_date": "2021-01-13",
+  "last_updated": "2021-01-18",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/dlf/2021/01/13/1",
+  "official_journal": "Boletín Oficial de Navarra",
+  "journal_issue": null,
+  "summary": "Esta norma introduce alivios fiscales urgentes para mitigar la crisis económica causada por la pandemia en Navarra. Permite aplazar deudas tributarias a pequeñas empresas y autónomos, elimina la obligación de realizar pagos fraccionados del IRPF en el cuarto trimestre de 2020 y facilita la deducción de pérdidas por impagos. Además, incentiva a los propietarios de locales comerciales a reducir las rentas de sus inquilinos en sectores afectados.",
+  "citizen_impact": "Afecta principalmente a autónomos y pequeños empresarios que pueden retrasar sus pagos a Hacienda sin intereses de demora. Los propietarios de locales comerciales pueden obtener beneficios fiscales si pactan rebajas de alquiler con sus inquilinos de los sectores turístico o comercial.",
+  "professional_impact": "Las pymes y autónomos con facturación inferior a 6.010.121,24 € pueden solicitar el aplazamiento de deudas sin garantías ni intereses. Los profesionales de la gestión de cobros y contables verán simplificada la deducción de créditos incobrables al reducirse el plazo de espera de 6 a 3 meses.",
+  "keywords": [
+    "tributación",
+    "Navarra",
+    "COVID-19",
+    "aplazamiento de deuda",
+    "autónomos",
+    "pymes",
+    "IRPF",
+    "Impuesto sobre Sociedades",
+    "alquileres comerciales"
+  ],
+  "key_points": [
+    "Aplazamiento de deudas para empresas con volumen de operaciones hasta 6.010.121,24 € en 2020.",
+    "El aplazamiento no requiere garantías ni genera intereses de demora.",
+    "Exoneración del pago fraccionado del IRPF correspondiente al cuarto trimestre de 2020 para autónomos.",
+    "Reducción del plazo para deducir pérdidas por impagos de 6 a 3 meses en IRPF e Impuesto sobre Sociedades.",
+    "Incentivo fiscal para arrendadores que bajen la renta de locales de hostelería y comercio en el primer trimestre de 2021.",
+    "Las deudas aplazadas se pagarán en 4 cuotas mensuales tras un periodo de suspensión de 3 meses."
+  ],
+  "legal_references": [
+    "Ley Foral 7/2020",
+    "Decretos-leyes Forales 4 y 6 de 2020",
+    "Real Decreto 463/2020",
+    "Real Decreto 926/2020",
+    "Ley Orgánica 13/1982",
+    "Artículo 42 del Código de Comercio",
+    "Ley Foral 26/2016",
+    "Ley Foral 7/1996",
+    "Real Decreto-ley 35/2020",
+    "Ley 29/1994 (LAU)"
+  ],
+  "derogations": [
+    "Nota 1.ª de las notas comunes a la sección segunda de la Ley Foral 7/1996"
+  ],
+  "main_obligations": "Para el aplazamiento, las empresas deben solicitarlo telemáticamente y mantenerse al corriente de otras obligaciones tributarias. Los arrendadores que quieran el incentivo deben informar separadamente en su declaración el importe de la rebaja y el NIF del arrendatario.",
+  "effective_date": "2021-01-13",
+  "procedures": [
+    {
+      "name": "Solicitud de aplazamiento excepcional de deudas tributarias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Presentación obligatoria a través de los servicios telemáticos de Hacienda Foral de Navarra.",
+          "start_date": "2021-01-01",
+          "end_date": "2021-04-30",
+          "required_documentation": "Modelo oficial de solicitud"
+        },
+        {
+          "step": 2,
+          "title": "Periodo de suspensión de ingreso",
+          "description": "Suspensión del ingreso de la deuda durante tres meses tras el fin del periodo voluntario.",
+          "start_date": "3 meses tras el fin del periodo voluntario",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Pago fraccionado",
+          "description": "Pago de la deuda en cuatro cuotas mensuales de igual importe.",
+          "start_date": "Tras el periodo de suspensión",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

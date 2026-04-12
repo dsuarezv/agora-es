@@ -1,0 +1,82 @@
+{
+  "identifier": "BOE-A-2010-10985",
+  "title": "Ley 5/2010, de 21 de junio, canaria de fomento a la participación ciudadana",
+  "visible_title": "Ley de Fomento a la Participación Ciudadana de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "5/2010",
+  "publication_date": "2010-07-12",
+  "enactment_date": "2010-06-21",
+  "last_updated": "2023-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2010/06/21/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para que los ciudadanos y entidades de Canarias intervengan activamente en la gestión de las políticas públicas. Busca modernizar la administración mediante mecanismos de consulta, transparencia y colaboración directa. Su objetivo es pasar de una democracia puramente representativa a una más deliberativa y cercana al ciudadano.",
+  "citizen_impact": "Otorga a los canarios el derecho a proponer nuevas normas reglamentarias (si se reúnen 15.000 firmas) y a participar en la elaboración de políticas sectoriales. También garantiza el acceso a información clara sobre la gestión pública y la posibilidad de colaborar en actividades sin ánimo de lucro.",
+  "professional_impact": "Obliga a la Administración canaria a adaptar sus estructuras para permitir la participación y a crear códigos de buen gobierno. Los funcionarios deben estar formados en estos nuevos mecanismos de interacción y la Administración debe gestionar registros y canales digitales de consulta.",
+  "keywords": [
+    "participación ciudadana",
+    "Canarias",
+    "democracia deliberativa",
+    "transparencia",
+    "políticas públicas",
+    "entidades ciudadanas",
+    "consulta pública"
+  ],
+  "key_points": [
+    "Derecho a presentar propuestas de iniciativa reglamentaria con el respaldo de 15.000 firmas y 3 entidades.",
+    "Creación del Registro de Participación Ciudadana para gestionar procesos de intervención.",
+    "Establecimiento de instrumentos como foros de consulta, paneles ciudadanos y jurados ciudadanos para evaluar la gestión.",
+    "Garantía de derecho a la información sobre el estado de los procedimientos y resultados de la gestión pública.",
+    "Reconocimiento de las entidades ciudadanas (asociaciones, fundaciones) como sujetos con derechos específicos de participación.",
+    "Obligación de la Administración de realizar audiencias ciudadanas en la fase de elaboración de programas sectoriales."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Canarias",
+    "Carta de los Derechos Fundamentales de la Unión Europea",
+    "Reglamento (UE) 2016/679",
+    "Ley Orgánica 3/2018",
+    "Ley 4/1986 de Entidades Canarias en el Exterior"
+  ],
+  "derogatons": [
+    "Cualquier disposición legal o reglamentaria que se oponga a la presente ley"
+  ],
+  "main_obligations": "La Administración debe garantizar el acceso a la información, adaptar sus estructuras para la participación y tramitar las propuestas ciudadanas en un plazo de 3 meses para decidir si inician su tramitación.",
+  "effective_date": "2010-07-02",
+  "procedures": [
+    {
+      "name": "Propuesta de iniciativa reglamentaria ciudadana",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la propuesta",
+          "description": "Entrega de texto propuesto y memoria justificativa respaldada por 3 entidades y 15.000 firmas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Texto de la propuesta, memoria justificativa, avales de entidades y listado de firmas."
+        },
+        {
+          "step": 2,
+          "title": "Valoración administrativa",
+          "description": "La Administración debe valorar la oportunidad y el interés público de la propuesta.",
+          "start_date": null,
+          "end_date": "3 meses desde la presentación",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Orden de inicio de tramitación o denegación por falta de cumplimiento de requisitos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

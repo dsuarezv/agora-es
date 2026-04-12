@@ -1,0 +1,85 @@
+{
+  "identifier": "BOE-A-2018-9415",
+  "title": "Ley 3/2018, de 24 de mayo, de protección y apoyo garantizado para personas con discapacidad en Castilla-La Mancha",
+  "visible_title": "Ley de protección y apoyo garantizado para personas con discapacidad en Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "3/2018",
+  "publication_date": "2018-07-06",
+  "enactment_date": "2018-05-24",
+  "last_updated": "2018-06-06",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2018/05/24/3",
+  "official_journal": "Boletín Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley crea un sistema de planificación para que las personas con discapacidad en Castilla-La Mancha puedan decidir cómo quieren ser cuidadas y apoyadas cuando sus familiares ya no puedan hacerlo. Introduce la figura del 'Plan Personal de Futuro', un documento donde la persona expresa sus preferencias sobre vivienda, salud, ocio y trabajo. Además, garantiza el acceso prioritario a residencias para quienes se queden sin apoyo familiar.",
+  "citizen_impact": "Las personas con discapacidad que tienen dificultades para tomar decisiones ganan el derecho a diseñar su propio futuro de forma anticipada. Esto evita que, ante la ausencia de la familia, se tomen decisiones sobre su vida sin tener en cuenta sus gustos o valores personales.",
+  "professional_impact": "Los profesionales de servicios sociales y sanidad deberán actuar como 'agentes de mediación' para ayudar en la elaboración de estos planes. Se crean nuevas estructuras administrativas como la Oficina Regional de Orientación y Apoyo y un registro específico de planes personales.",
+  "keywords": [
+    "discapacidad",
+    "plan personal de futuro",
+    "autonomía personal",
+    "apoyos",
+    "Castilla-La Mancha",
+    "toma de decisiones",
+    "apoyo residencial"
+  ],
+  "key_points": [
+    "Creación del 'Plan Personal de Futuro' como declaración de voluntad de la persona con discapacidad.",
+    "Introducción de la figura del 'Agente de Mediación' para asesorar en la planificación.",
+    "Garantía de apoyo residencial prioritario para personas con discapacidad que pierdan su red de apoyo familiar.",
+    "Establecimiento de Unidades de Orientación y Apoyo a nivel provincial.",
+    "Creación de una Oficina Regional de Orientación y Apoyo para coordinar el sistema.",
+    "Implementación de un Registro de Planes Personales de Futuro para asegurar que los profesionales conozcan las preferencias del usuario.",
+    "Uso obligatorio de formatos de lectura fácil para asegurar la accesibilidad en la toma de decisiones."
+  ],
+  "legal_references": [
+    "Convenio Internacional sobre los Derechos de las Personas con Discapacidad",
+    "Ley 26/2011",
+    "Real Decreto Legislativo 1/2013",
+    "Ley 39/2006",
+    "Constitución Española",
+    "Ley 25/2014",
+    "Estatuto de Autonomía de Castilla-La Mancha",
+    "Ley 14/2010 de Servicios Sociales de Castilla-La Mancha",
+    "Ley 7/2014 de Garantía de los Derechos de las Personas con Discapacidad en Castilla-La Mancha",
+    "Real Decreto 1971/1999"
+  ],
+  "derogations": [],
+  "main_obligations": null,
+  "effective_date": "2018-08-06",
+  "procedures": [
+    {
+      "name": "Elaboración del Plan Personal de Futuro",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud e Información",
+          "description": "La persona o su familia solicitan información en las Unidades de Orientación y Apoyo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la discapacidad (igual o superior al 33%) y residencia en la región."
+        },
+        {
+          "step": 2,
+          "title": "Asesoramiento y Mediación",
+          "description": "Un agente de mediación acompaña a la persona en el diseño de sus preferencias.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Formalización y Registro",
+          "description": "Firma del plan por la persona, familia y mediador, y su inscripción en el registro oficial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,108 @@
+{
+  "identifier": "BOE-A-1998-19581",
+  "title": "Ley 1/1998, de 2 de marzo, de Fundaciones de la Comunidad de Madrid",
+  "visible_title": "Ley de Fundaciones de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "1/1998",
+  "publication_date": "1998-08-12",
+  "enactment_date": "1998-03-02",
+  "last_updated": "2014-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1998/03/02/1",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para la creación, funcionamiento y control de las fundaciones que operan principalmente en la Comunidad de Madrid. Su objetivo es fomentar la iniciativa privada en actividades de interés general, ofreciendo un régimen más flexible que el estatal en aspectos como la gestión de bienes. Además, regula la supervisión que ejerce el Protectorado y crea el Registro de Fundaciones autonómico.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo que formen parte de colectividades beneficiarias de las actividades de una fundación.",
+  "professional_impact": "Afecta directamente a fundadores, patronos y gestores de entidades sin ánimo de lucro en Madrid. Introduce obligaciones de contabilidad, auditoría y la necesidad de informar al Protectorado sobre la disposición de bienes significativos, además de establecer reglas sobre la retribución de patronos y la gestión de actividades económicas.",
+  "keywords": [
+    "fundaciones",
+    "Comunidad de Madrid",
+    "interés general",
+    "patronato",
+    "protectorado",
+    "entidades sin ánimo de lucro",
+    "gestión patrimonial"
+  ],
+  "key_points": [
+    "Prohibición de crear fundaciones con fines de beneficio familiar para parientes hasta el cuarto grado.",
+    "Obligatoriedad de un Patronato de al menos tres miembros.",
+    "Régimen de control 'a posteriori': la venta de bienes importantes se comunica al Protectorado, no requiere autorización previa.",
+    "Las fundaciones deben destinar al menos el 70% de sus ingresos y resultados a sus fines fundacionales.",
+    "Posibilidad de que las fundaciones realicen actividades económicas para financiar sus objetivos.",
+    "Obligación de auditoría externa si se superan ciertos umbrales de activos, ingresos o número de trabajadores.",
+    "Creación del Registro de Fundaciones de la Comunidad de Madrid para la inscripción de actos y entidades.",
+    "El Protectorado actúa como órgano de asesoramiento, apoyo y control de la legalidad."
+  ],
+  "legal_references": [
+    "Ley Orgánica 10/1994",
+    "Ley Orgánica 3/1983",
+    "Ley estatal 30/1994",
+    "Constitución Española (artículo 149.1)",
+    "Ley 16/1985 del Patrimonio Histórico Español",
+    "Ley 19/1988 de Auditoría de Cuentas",
+    "Real Decreto-ley 11/2010",
+    "Ley 4/2003 de Cajas de Ahorros"
+  ],
+  "derogations": [
+    "Artículo 4.2 del Decreto autonómico 26/1996",
+    "Decreto 40/1999"
+  ],
+  "main_obligations": "Las fundaciones deben destinar obligatoriamente el 70% de sus ingresos netos a sus fines sociales. Deben llevar una contabilidad ordenada y presentar sus cuentas anuales al Protectorado en los 10 días hábiles siguientes a su aprobación por el Patronato.",
+  "effective_date": "1998-03-24",
+  "procedures": [
+    {
+      "name": "Constitución e inscripción de una fundación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Informe del Protectorado",
+          "description": "El Protectorado debe emitir un informe favorable sobre la finalidad de interés general y la suficiencia de la dotación.",
+          "start_date": "Desde la solicitud",
+          "end_date": "3 meses",
+          "required_documentation": "Escritura de constitución y acreditación de la dotación"
+        },
+        {
+          "step": 2,
+          "title": "Inscripción en el Registro",
+          "description": "Una vez obtenido el informe favorable, se procede a la inscripción para adquirir personalidad jurídica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública"
+        }
+      ]
+    },
+    {
+      "name": "Modificación de estatutos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación al Protectorado",
+          "description": "El Patronato comunica el acuerdo de modificación al Protectorado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acuerdo del Patronato"
+        },
+        {
+          "step": 2,
+          "title": "Periodo de oposición",
+          "description": "El Protectorado tiene un plazo para oponerse por razones de legalidad.",
+          "start_date": "Desde la notificación",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Formalización",
+          "description": "Tras la no oposición, se formaliza en escritura pública e inscripción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

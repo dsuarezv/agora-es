@@ -1,0 +1,173 @@
+{
+  "identifier": "BOE-A-2002-24540",
+  "title": "Ley 19/2002, de 24 de octubre, de Archivos Públicos de Castilla-La Manch la",
+  "visible_title": "Ley de Archivos Públicos de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "19/2002",
+  "publication_date": "2002-12-17",
+  "enactment_date": "2002-10-24",
+  "last_updated": "2025-04-15",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2002/10/24/19",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley organiza el sistema de archivos públicos de Castilla-La Mancha para garantizar la transparencia, la gestión eficiente de la administración y la protección del patrimonio documental. Establece cómo se deben conservar, transferir y eliminar los documentos públicos, asegurando que la memoria histórica de la región esté protegida. Además, regula el derecho de los ciudadanos a acceder a la información pública custodiada en estos centros.",
+  "citizen_impact": "Garantiza el derecho de cualquier persona a consultar documentos administrativos y realizar investigaciones históricas o científicas. Establece plazos de acceso (generalmente 30 años para documentos administrativos) y define qué información es privada o está restringida para proteger la intimidad.",
+  "professional_impact": "Obliga a los funcionarios y personal de archivos a cumplir con deberes de custodia, organización y secreto profesional. Introduce la obligación de contar con personal cualificado (archiveros) en centros específicos y establece un régimen sancionador con multas que pueden alcanzar los 901.518 euros por infracciones muy graves.",
+  "keywords": [
+    "archivos públicos",
+    "patrimonio documental",
+    "transparencia",
+    "acceso a la información",
+    "gestión documental",
+    "Castilla-La Mancha"
+  ],
+  "key_points": [
+    "Derecho de acceso: Los ciudadanos pueden solicitar documentos, con un plazo de resolución de un mes por parte de la Administración.",
+    "Plazos de transferencia: Los documentos pasan de archivos de oficina a centrales tras 5 años, de centrales a intermedios tras 15 años, y de intermedios a históricos tras 30 años.",
+    "Protección de datos: El acceso a datos sensibles (salud, religión, ideología) está restringido hasta 25 años después de la muerte del afectado o 50 años desde la fecha del documento.",
+    "Obligatoriedad de archiveros: Los municipios de más de 20.000 habitantes deben tener obligatoriamente un archivero municipal.",
+    "Régimen sancionador: Se tipifican infracciones leves, graves y muy graves con multas económicas significativas.",
+    "Inalienabilidad: Los documentos públicos son inalienables, imprescriptibles e inembargables."
+  ],
+  "legal_references": [
+    "Ley Orgánica 9/1982, de 10 de agosto, del Estatuto de Autoonomía de Castilla-La Mancha",
+    "Constitución Española de 1978",
+    "Ley 3/1991, de 14 de marzo, de Entidades Locales de Castilla-La Mancha",
+    "Decreto 134/1996, de 19 de noviembre",
+    "Ley 7/2001, de 26 de junio, de Selección de Personal y Provisión de Puestos de Trabajo",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas"
+  ],
+  "derogations": [
+    "Artículos integrantes de la Sección I, III, IV y V de la Ley 4/1990, de 30 de mayo, del Patrimonio Histórico de Castilla-La Mancha",
+    "Decreto 214/1991, de 26 de noviembre, que organiza el Archivo Regional de Castilla-La Mancha",
+    "Disposiciones de la Ley 4/1990 relacionadas con el régimen, funciones y funcionamiento de la Comisión Calificadora de Documentos contenidas en el Decreto 134/1996"
+  ],
+  "main_obligations": "Los responsables de archivos deben garantizar la custodia y organización de los fondos. El personal debe mantener el secreto profesional. La destrucción de documentos solo puede hacerse mediante dictamen vinculante de la Comisión Calificadora. El incumplimiento de estas normas puede acarrear multas de hasta 901.518,16 euros.",
+  "effective_date": "2002-12-18",
+  "procedures": [
+    {
+      "name": "Acceso a la documentación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de acceso",
+          "descrption": "El interesado debe realizar la solicitud por escrito dirigida al órgano del que dependa el archivo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud escrita"
+        },
+        {
+          "step": 2,
+          "title": "Resolución administrativa",
+          "descrption": "La Administración debe resolver y notificar la decisión al interesado.",
+          "start_date": null,
+          "end_date": "1 mes desde la entrada en registro",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Impugnación",
+          "descrption": "En caso de denegación, el interesado puede interponer el recurso administrativo que proceda.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Transferencia de documentos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Custodia en archivo de oficina",
+          "descrption": "Periodo máximo de permanencia en la unidad administrativa.",
+          "start_date": null,
+          "end_date": "5 años",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Transferencia a archivo central",
+          "descrption": "Traspaso de la documentación tras cumplir el plazo de oficina.",
+          "start_date": "Tras 5 años",
+          "end_date": null,
+          "required_documentation": "Relación escrita de documentos"
+        },
+        {
+          "step": 3,
+          "title": "Custodia en archivo central",
+          "descrption": "Periodo de permanencia en el archivo central.",
+          "start_date": null,
+          "end_date": "15 años",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Transferencia a archivo intermedio",
+          "descrption": "Traspaso de la documentación tras cumplir el plazo de central.",
+          "start_date": "Tras 15 años",
+          "end_date": null,
+          "required_documentation": "Relación escrita de documentos"
+        },
+        {
+          "step": 5,
+          "title": "Custodia en archivo intermedio",
+          "descrption": "Periodo de permanencia en el archivo intermedio.",
+          "start_date": null,
+          "end_date": "30 años",
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Transferencia a archivo histórico",
+          "descrption": "Traspaso definitivo para conservación permanente.",
+          "start_date": "Tras 30 años",
+          "end_date": null,
+          "required_documentation": "Relación escrita de documentos"
+        }
+      ]
+    },
+    {
+      "name": "Eliminación de documentos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de eliminación",
+          "descrption": "Los responsables del archivo proponen la destrucción de series sin utilidad administrativa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Dictamen de la Comisión",
+          "descrption": "La Comisión Calificadora emite un dictamen vinculante.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución y publicación",
+          "descrption": "El órgano competente resuelve y publica la decisión en el DOCM.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Ejecución y certificación",
+          "descrption": "Destrucción física y emisión de certificación para la Comisión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificación de destrucción"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

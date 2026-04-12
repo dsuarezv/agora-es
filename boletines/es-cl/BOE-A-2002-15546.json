@@ -1,0 +1,113 @@
+{
+  "identifier": "BOE-A-2002-15546",
+  "title": "Ley 13/2002, de 15 de julio, de Fundaciones de Castilla y León",
+  "visible_title": "Ley de Fundaciones de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "13/2002",
+  "publication_date": "2002-08-01",
+  "enactment_date": "2002-07-15",
+  "last_updated": "2024-05-14",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2002/07/15/13",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico específico para las fundaciones que operan principalmente en Castilla y León. Su objetivo es facilitar la creación, funcionamiento y gestión de estas entidades, equilibrando la autonomía de sus patronatos con la supervisión del Protectorado. Regula aspectos desde la constitución hasta la extinción, adaptándose a la normativa estatal pero con especial atención a las necesidades de la comunidad autónoma.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo para aquellos que deseen fundar una entidad sin ánimo de lucro o recibir beneficios de las actividades de estas fundaciones.",
+  "professional_impact": "Afecta directamente a gestores de fundaciones, abogados y contables, quienes deben cumplir con requisitos estrictos de transparencia, contabilidad y presentación de cuentas anuales. Los patronos deben conocer sus responsabilidades de gestión y las limitaciones en la contratación con la propia fundación.",
+  "keywords": [
+    "fundaciones",
+    "Castilla y León",
+    "patronato",
+    "protectorado",
+    "entidades sin ánimo de lucro",
+    "derecho de fundación",
+    "registro de fundaciones"
+  ],
+  "key_points": [
+    "Obligatoriedad de inscripción en el Registro de Fundaciones de Castilla y León para operar en la región.",
+    "Los ingresos netos deben destinarse al menos en un 70% a los fines fundacionales en un plazo de tres ejercicios.",
+    "Se permite la realización de actividades mercantiles, pero si son ajenas a los fines, deben hacerse mediante sociedades no personalistas.",
+    "Los patronos tienen prohibido percibir retribución por su cargo, aunque pueden ser reembolsados por gastos justificados.",
+    "Se establece un régimen de control mediante el Protectorado para asegurar la legalidad y el cumplimiento de los fines.",
+    "Las fundaciones públicas tienen reglas específicas de constitución y extinción bajo control de la Junta de Castilla y León.",
+    "La aceptación de cargos en el patronato debe ser formal y registrada.",
+    "Se regula la posibilidad de fusión y absorción de fundaciones para facilitar su dinamismo social."
+  ],
+  "legal_references": [
+    "Ley 30/1994, de 24 de noviembre, de Fundaciones e incentivos fiscales a la participación privada en actividades de interés general",
+    "Constitución Española (artículo 149.1 y 34)",
+    "Estatuto de Autonomía de Castilla y León"
+  ],
+  "derogations": [],
+  "main_obligations": "Las fundaciones deben presentar sus cuentas anuales y memoria al Protectorado en un plazo de seis meses tras el cierre del ejercicio. El incumplimiento de la presentación de documentos o de la normativa vigente conlleva la exclusión de subvenciones y ayudas públicas de la Junta de Castilla y León.",
+  "effective_date": "2002-08-31",
+  "procedures": [
+    {
+      "name": "Constitución de la Fundación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Otorgamiento de escritura pública",
+          "description": "Formalización de la voluntad de fundar ante notario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública de constitución y estatutos"
+        },
+        {
+          "step": 2,
+          "title": "Inscripción en el Registro de Fundaciones",
+          "description": "Trámite para obtener la personalidad jurídica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública"
+        }
+      ]
+    },
+    {
+      "name": "Gestión de Cuentas Anuales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación de cuentas",
+          "description": "El Patronato debe aprobar las cuentas del ejercicio anterior.",
+          "start_date": null,
+          "end_date": "6 meses tras la finalización del ejercicio",
+          "required_documentation": "Inventario, Balance, Cuenta de resultados y Memoria"
+        },
+        {
+          "step": 2,
+          "title": "Remisión al Protectorado",
+          "description": "Envío de la documentación para su control y depósito.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación contable completa"
+        }
+      ]
+    },
+    {
+      "name": "Procedimientos del Protectorado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Resolución de solicitudes",
+          "description": "El Protectorado debe dictar resolución expresa sobre las solicitudes presentadas.",
+          "start_date": null,
+          "end_date": "3 meses desde la recepción",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Emisión de certificados",
+          "description": "Expedición de certificados de hechos o circunstancias solicitados.",
+          "start_date": null,
+          "end_date": "1 mes desde la recepción",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

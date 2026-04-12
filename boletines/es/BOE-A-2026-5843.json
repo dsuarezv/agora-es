@@ -1,0 +1,143 @@
+{
+  "identifier": "BOE-A-2026-5843",
+  "title": "Resolución de 11 de marzo de 2026, de la Dirección General de la Agencia Estatal de Administración Tributaria, por la que se aprueban las directrices generales del Plan Anual de Control Tributario y Aduanero de 2026",
+  "visible_title": "Directrices generales del Plan Anual de Control Tributario y Aduanero de 2026",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Ministerio de Hacienda",
+  "official_number": "BOE-A-2026-5843",
+  "publication_date": "2026-03-12",
+  "enactment_date": "2026-03-11",
+  "last_updated": "2026-03-12",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/res/2026/03/11/(1)",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "63",
+  "summary": "La Agencia Tributaria lanza su estrategia de vigilancia para 2026, centrada en el uso intensivo de tecnología para detectar el fraude. La Administración reforzará el cruce de datos bancarios y de pagos con tarjeta de forma mensual para identificar ingresos no declarados. Se pondrá el foco en sectores de alto riesgo como el comercio electrónico, las criptomonedas, el sector inmobiliario y los creadores de contenido en redes sociales. Además, se modernizarán los métodos de pago de deudas y la asistencia virtual para facilitar la gestión de impuestos.",
+  "citizen_impact": "Los ciudadanos verán una mayor vigilancia sobre sus movimientos bancarios, pagos con tarjeta y transacciones en criptoactivos. Se facilita el pago de deudas tributarias mediante Bizum y tarjetas en la App de la AEAT, pero también aumenta la probabilidad de inspecciones si hay discrepancias entre los ingresos declarados y los movimientos en cuentas o neobancos.",
+  "professional_impact": "Las empresas deben adaptar sus sistemas de facturación (SIF) antes de enero de 2027. Los proveedores de criptoactivos tienen nuevas obligaciones de información (modelo 175), y los operadores de hidrocarburos asumen responsabilidad solidaria por el IVA. Los vendedores de e-commerce deberán vigilar su necesidad de designar representantes fiscales según la normativa de IVA.",
+  "keywords": [
+    "control tributario",
+    "AEAT",
+    "criptoactivos",
+    "fraude fiscal",
+    "comercio electrónico",
+    "blockchain",
+    "fiscalidad influencers",
+    "IVA"
+  ],
+  "key_points": [
+    "Control mensual de cuentas bancarias, ingresos por TPV y pagos móviles para detectar fraude.",
+    "Vigilancia intensificada de criptoactivos y dinero electrónico mediante el intercambio automático de información (DAC8).",
+    "Nuevos métodos de pago de deudas tributarias mediante Bizum y tarjeta de crédito/débito en la App y canales de asistencia.",
+    "Uso de inteligencia artificial y trazabilidad blockchain para rastrear transacciones y detectar rentas no declaradas.",
+    "Supervisión específica de la residencia fiscal de 'influencers' y creadores de contenido en redes sociales.",
+    "Control estricto sobre la deducción del IVA en bienes de inversión para evitar cambios de destino fraudulentos.",
+    "Nuevos procedimientos de embargo más eficaces sobre saldos en neobancos y créditos de terminales TPV.",
+    "Vigilancia de las Agrupaciones de Interés Económico (AIE) para evitar la generación artificial de gastos.",
+    "Control sobre el sector inmobiliario y el uso de neobancos para ocultar rentas.",
+    "Intensificación de inspecciones a grandes empresas, grupos fiscales y patrimonios elevados."
+  ],
+  "legal_references": [
+    "Plan Estratégico 2024-2027",
+    "Directiva DAC8",
+    "Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria (art. 38 ter)",
+    "Reglamento VERI*FACTU",
+    "Ley 18/2022 (Ley de creación y crecimiento de empresas)",
+    "Directiva (UE) 2020/285",
+    "Ley 7/2024 (Impuesto mínimo global, impuesto sobre margen de intereses y líquidos para cigarros electrónicos)",
+    "Directiva DAC7",
+    "Convenio AEAT-DGT (2024)",
+    "Reglamento (UE) n.º 904/2010",
+    "Orden HAC/747/2025",
+    "Directiva 2025/50/UE (FASTer)",
+    "Ley 38/1992 de Impuestos Especiales",
+    "Reglamento de Impuestos Especiales",
+    "Reglamento 651/2014 de la Comisión",
+    "Ley 31/2022 de Presupuestos Generales del Estado"
+  ],
+  "derogations": [],
+  "main_obligations": "Los empresarios deben adaptar sus sistemas de facturación (SIF) a los requisitos del Reglamento de sistemas informáticos de facturación antes de enero de 2027. Los proveedores de servicios de criptoactivos deben informar mediante el nuevo modelo 175.",
+  "effective_date": "2026-01-01",
+  "procedures": [
+    {
+      "name": "Campaña de Renta 2025",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación mediante Rentas DIRECTA",
+          "descrption": "Presentación de declaraciones sin necesidad de modificar el borrador para colectivos específicos.",
+          "start_date": "2025",
+          "end_date": null,
+          "required_documentation": "Borrador de Rentas WEB"
+        },
+        {
+          "step": 2,
+          "title": "Pago de la declaración",
+          "descrption": "Posibilidad de pago mediante Bizum o tarjeta electrónica a través de la App de la AEAT.",
+          "start_date": "2025",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de Facturación Electrónica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adaptación de sistemas informáticos (SIF)",
+          "descrption": "Plazo para que los obligados adapten sus sistemas al Reglamento de sistemas informáticos de facturación.",
+          "start_date": "2025",
+          "end_date": "2027-01-01",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de embargo de saldos y créditos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Identificación de riesgo",
+          "description": "Detección de deudores mediante análisis de perfiles de riesgo y uso de IA.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Ejecución del embargo",
+          "description": "Aplicación de la nueva resolución para el embargo telemático de saldos en cuentas bancarias, neobancos y créditos de TPV.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Control de criptoactivos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Obtención de información",
+          "description": "Recopilación de datos mediante modelos 172, 173 y 721 sobre saldos y operaciones de 2025.",
+          "start_date": "2026",
+          "end_date": null,
+          "required_documentation": "Modelos informativos de criptoactivos"
+        },
+        {
+          "step": 2,
+          "title": "Trazabilidad y cruce",
+          "description": "Análisis de datos mediante herramientas blockchain para detectar patrimonios no justificados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

@@ -1,0 +1,84 @@
+{
+  "identifier": "BORM-s-2021-90231",
+  "title": "Decreto-ley 4/2021, de 17 de junio, de simplificación administrativa en materia de Medio Ambiente, Medio Natural, Investigación e Innovación Agrícola y Medioambiental",
+  "visible_title": "Simplificación administrativa en materia de Medio Ambiente, Medio Natural, Investigación e Innovación Agrícola y Medioambiental",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "4/2021",
+  "publication_date": "2021-06-22",
+  "enactment_date": "2021-06-17",
+  "last_updated": "2022-06-01",
+  "status": "amended",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2021-90231",
+  "official_journal": "Boletín Oficial de la Región de Murcia",
+  "journal_issue": "90231",
+  "summary": "Esta norma busca agilizar y simplificar los trámites administrativos en materia ambiental y de investigación en la Región de Murcia para facilitar la ejecución de los fondos europeos Next Generation. Introduce cambios estructurales en el IMIDA para crear el Observatorio del Mar Menor y ajusta procedimientos de evaluación ambiental, gestión de montes y vías pecuarias. El objetivo es reducir la burocracia y dar seguridad jurídica ante la necesidad de acelerar la transición ecológica y digital.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo por la mejora indirecta en la gestión de la protección del Mar Menor y la agilización de proyectos de sostenibilidad ambiental.",
+  "professional_impact": "Empresas del sector agrícola, forestal y de investigación se benefician de trámites más rápidos y claros en cambios de uso de suelo y evaluaciones ambientales. Los profesionales de la caza y la pesca ven modificadas las vigencias de las vedas, mientras que los ayuntamientos deben coordinar la clasificación de vías pecuarias con sus planes urbanísticos.",
+  "keywords": [
+    "simplificación administrativa",
+    "medio ambiente",
+    "Mar Menor",
+    "IMIDA",
+    "investigación agrícola",
+    "evaluación ambiental",
+    "vías pecuarias",
+    "montes"
+  ],
+  "key_points": [
+    "Creación del Observatorio del Mar Menor integrado en el IMIDA para coordinar el seguimiento científico del ecosistema.",
+    "Agilización de los trámites de evaluación ambiental para proyectos de explotación agrícola en áreas naturales.",
+    "Ajuste de los plazos de resolución para los procedimientos de deslinde y amojonamiento de montes y vías pecuarias según la ley estatal.",
+    "Posibilidad de prorrogar las órdenes de veda de pesca ante circunstancias excepcionales para evitar vacíos legales.",
+    "Reclasificación automática de vías pecuarias que atraviesan suelo urbano o urbanizable para facilitar la gestión municipal.",
+    "Obligación de aportar documentación técnica adecuada en solicitudes de cambio de uso de cubierta vegetal para evitar retrasos.",
+    "Exigencia de reintegrar ayudas públicas si se autoriza un cambio de uso de suelo forestal a agrícola.",
+    "Derogación de los artículos sobre ordenación de la navegación en la Ley de recuperación del Mar Menor para resolver conflictos de competencias con el Estado."
+  ],
+  "legal_references": [
+    "Ley 21/2013 de Evaluación Ambiental",
+    "Real Decreto Legislativo 1/2016 de Prevención y Control Integrados de la Contaminación",
+    "Ley 4/2009 de Protección Ambiental Integrada de la Región de Murcia",
+    "Ley 42/2007 de Patrimonio Natural y de la Biodiversidad",
+    "Ley 33/2003 de Patrimonio de las Administraciones Públicas",
+    "Ley 7/2003 de Caza y Pesca Fluvial de la Región de Murcia",
+    "Ley 8/2014 de Medidas Tributarias, de Simplificación Administrativa y en materia de Función Pública",
+    "Ley 3/2020 de recuperación y protección del Mar Menor"
+  ],
+  "derogations": [
+    "Artículos 64, 65 y 66 de la Ley 3/2020, de 27 de julio, de recuperación y protección del Mar Menor"
+  ],
+  "main_obligations": "Los solicitantes de cambio de uso de cubierta vegetal deben acompañar su solicitud de la documentación técnica requerida. En caso de cambio de uso de suelo forestal anteriormente subvencionado, se debe reintegrar la ayuda o compensar con nueva forestación.",
+  "effective_date": "2021-06-23",
+  "procedures": [
+    {
+      "name": "Cambio de uso y modificación de cubierta vegetal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "descrption": "El interesado debe presentar la solicitud acompañada de la documentación técnica adecuada para evitar retrasos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación técnica específica según la normativa forestal"
+        }
+      ]
+    },
+    {
+      "name": "Deslinde y amojonamiento de montes y vías pecuarias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación de deslinde",
+          "descrption": "Procedimiento para determinar los límites de los montes de utilidad pública y vías pecuarias, ahora ajustado a los plazos de la Ley 33/2003.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

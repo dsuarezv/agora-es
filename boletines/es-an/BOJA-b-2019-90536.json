@@ -1,0 +1,120 @@
+{
+  "identifier": "BOJA-b-2019-90536",
+  "title": "Decreto-ley 3/2019, de 24 de septiembre, de medidas urgentes para la adecuación ambiental y territorial de las edificaciones irregulares en la Comunidad Autónoma de Andalucía",
+  "visible_title": "Medidas para la adecuación ambiental y territorial de las edificaciones irregulares en Andalucía",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "3/2019",
+  "publication_date": "2019-09-25",
+  "enactment_date": "2019-09-24",
+  "last_updated": "2019-09-25",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOJA-b-2019-90536",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": "90536",
+  "summary": "Esta norma busca regular la situación de miles de viviendas construidas ilegalmente en Andalucía sobre las que ya no se pueden aplicar sanciones por prescripción. Establece mecanismos para que estas edificaciones puedan acceder a servicios básicos (agua, luz, saneamiento) y se integren en la planificación urbanística mediante Planes Especiales o la modificación del Plan General. El objetivo es mejorar las condiciones de salubridad y seguridad de las familias y reducir el impacto ambiental negativo.",
+  "citizen_impact": "Permite a propietarios de viviendas irregulares (que ya no pueden ser demolidas por el paso del tiempo) solicitar un reconocimiento de 'asimilado a fuera de ordenación' para poder contratar suministros básicos como agua o luz. También abre una vía para que estas viviendas puedan ser legalizadas en el futuro si se cumplen ciertas condiciones de seguridad y salubridad.",
+  "professional_impact": "Los ayuntamientos adquieren la competencia para tramitar el reconocimiento de la situación de estas viviendas y crear Planes Especiales de adecuación. Los técnicos y arquitectos deben certificar las condiciones de seguridad y salubridad para estos trámites. Además, se endurece el control sobre las empresas que realizan parcelaciones ilegales o publicidad engañosa de terrenos sin urbanizar.",
+  "keywords": [
+    "urbanismo",
+    "edificaciones irregulares",
+    "suelo no urbanizable",
+    "adecuación ambiental",
+    "asimilado a fuera de ordenación",
+    "Andalucía"
+  ],
+  "key_points": [
+    "Creación de la figura de 'asimilado a fuera de ordenación' para viviendas cuya ilegalidad ha prescrito.",
+    "Permiso de acceso a servicios básicos (agua, luz, saneamiento) tras el reconocimiento administrativo.",
+    "Posibilidad de crear 'Planes Especiales' para agrupar viviendas irregulares y dotarlas de infraestructuras sin esperar al Plan General.",
+    "Prohibición de realizar obras o acceder a servicios en viviendas irregulares que no hayan sido declaradas como 'asimiladas'.",
+    "Obligación de los propietarios de asumir los costes de la regularización y las infraestructuras.",
+    "Nuevas infracciones por publicidad de parcelaciones ilegales y por realizar acometidas de suministros sin autorización.",
+    "Exigencia de licencia municipal para cualquier segregación en suelo no urbanizable para evitar el fraude en el Registro de la Propiedad."
+  ],
+  "legal_references": [
+    "Ley 7/2002, de 17 de diciembre, de Ordenación Urbanística de Andalucía",
+    "Ley 19/1975, de 2 de mayo, de reforma de la Ley sobre el Régimen del Suelo y Ordenación Urbana",
+    "Ley 8/1990, de 25 de julio, sobre Reforma del Régimen Urbanístico y Valoraciones del Suelo",
+    "Ley 6/2016, de 1 de agosto",
+    "Ley 2/2018, de 26 de abril",
+    "Decreto 2/2012, de 10 de enero",
+    "Orden de 1 de marzo de 2013",
+    "Ley 7/2021, de 1 de diciembre",
+    "Decreto 550/2022, de 29 de noviembre"
+  ],
+  "derogations": [
+    "Ley 6/2016, de 1 de agosto",
+    "Ley 2/2018, de 26 de abril",
+    "Decreto 2/2012, de 10 de enero",
+    "Orden de 1 de marzo de 2013",
+    "Disposición adicional décima de la Ley 7/2002",
+    "Disposición adicional decimotercera de la Ley 7/2002",
+    "Disposición adicional decimoquinta de la Ley 7/2002"
+  ],
+  "main_obligations": "Los propietarios de edificaciones irregulares deben asumir todos los costes de la regularización y las infraestructuras. Se prohíbe realizar obras o acceder a suministros en viviendas irregulares que no hayan obtenido la declaración de 'asimilado a fuera de ordenación'.",
+  "effective_date": "2019-09-26",
+  "procedures": [
+    {
+      "name": "Reconocimiento de la situación de asimilado a fuera de ordenación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "El procedimiento puede iniciarse de oficio por el Ayuntamiento o a solicitud del interesado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Identificación de la finca, fecha de terminación de la edificación y certificado de técnico competente sobre seguridad y salubridad."
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y consultas",
+          "description": "El Ayuntamiento solicita informes a órganos gestores de intereses públicos afectados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ejecución de obras necesarias (si procede)",
+          "description": "El Ayuntamiento puede ordenar obras de seguridad, salubridad o mitigación de riesgos antes de resolver.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado descriptivo y gráfico de la ejecución de las obras."
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "Dictamen final que reconoce la situación jurídica y el régimen aplicable.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Plan Especial de adecuación ambiental y territorial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Formulación y aprobación",
+          "description": "El Ayuntamiento identifica la agrupación de viviendas y elabora el plan para dotarlas de servicios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudios de impacto ambiental, paisajístico, viabilidad económica y de riesgos."
+        },
+        {
+          "step": 2,
+          "title": "Ejecución",
+          "description": "Realización de las obras de urbanización mediante proyectos de obras públicas ordinarias.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

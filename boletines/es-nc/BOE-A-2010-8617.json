@@ -1,0 +1,83 @@
+{
+  "identifier": "BOE-A-2010-8617",
+  "title": "Ley Foral 9/2010, de 28 de abril, de ayuda a las víctimas del terrorismo",
+  "visible_title": "Ley de ayuda a las víctimas del terrorismo",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "9/2010",
+  "publication_date": "2010-05-31",
+  "enactment_date": "2010-04-28",
+  "last_updated": "2010-05-10",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2010/04/28/9",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un sistema de atención y asistencia integral para las víctimas del terrorismo en Navarra, con especial énfasis en las víctimas de ETA. Su objetivo es reparar los daños físicos, psíquicos y materiales sufridos, además de ofrecer apoyo en ámbitos como la salud, la educación, la vivienda y el empleo. La norma busca dar un reconocimiento institucional y material al dolor de las víctimas y sus familias.",
+  "citizen_impact": "Las víctimas del terrorismo y sus familiares directos (hasta segundo grado) tienen derecho a recibir ayudas económicas complementarias a las del Estado, asistencia psicológica especializada y apoyo en la gestión de su vivienda o estudios. También se contempla protección y subvenciones para personas que vivan bajo amenazas o acoso terrorista.",
+  "professional_impact": "Los funcionarios de la Administración de Navarra deben gestionar nuevas ayudas y la creación de una Comisión específica de ayuda a las víctimas. Las empresas pueden beneficiarse de programas de responsabilidad social para la contratación prioritaria de estas personas, y los centros educativos públicos y concertados tienen la obligación de impartir programas de educación para la paz.",
+  "keywords": [
+    "víctimas del terrorismo",
+    "ayudas económicas",
+    "reparación de daños",
+    "Navarra",
+    "asistencia integral",
+    "indemnizaciones",
+    "ETA"
+  ],
+  "key_points": [
+    "Las ayudas de Navarra son complementarias a las del Estado, cubriendo hasta un 30% adicional de las cuantías estatales.",
+    "Se incluyen indemnizaciones por daños físicos, psíquicos y reparaciones por daños materiales en viviendas, vehículos y locales.",
+    "Se establece un sistema de asistencia psicológica inmediata y de seguimiento para secuelas.",
+    "Se garantiza el acceso preferente a vivienda de protección oficial y ayudas para la adaptación de la vivienda por discapacidad.",
+    "Se crean becas de estudio prioritarias para víctimas o sus familiares en caso de invalidez.",
+    "Se contempla la protección y subvenciones para la instalación de sistemas de seguridad ante amenazas o acoso.",
+    "Se establece un programa anual de Educación para la Paz y los Derechos Humanos en los centros educativos.",
+    "Se crea la Comisión de Ayuda a las Víctimas del Terrorismo en Navarra para gestionar y coordinar las ayudas."
+  ],
+  "legal_references": [
+    "Ley 13/1996, de 30 de diciembre",
+    "Ley 32/1999, de 8 de octubre",
+    "Ley 2/2003, de 12 de marzo",
+    "Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra",
+    "Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia"
+  ],
+  "derogations": [
+    "Disposiciones que se opongan a la presente Ley Foral"
+  ],
+  "main_obligations": "Los interesados deben presentar denuncia ante órganos competentes y solicitar previamente las ayudas a la Administración General del Estado. Deben comprometerse a informar sobre cualquier otra ayuda recibida (de seguros u otros organismos) para evitar duplicidades.",
+  "effective_date": "2010-06-01",
+  "procedures": [
+    {
+      "name": "Concesión de ayudas, indemnizaciones y reparaciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de ayudas estatales",
+          "description": "El interesado debe solicitar primero las indemnizaciones ante la Administración General del Estado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la condición de víctima y los daños."
+        },
+        {
+          "step": 2,
+          "title": "Solicitud en la Comunidad Foral de Navarra",
+          "description": "Una vez solicitadas las estatales, se formaliza la solicitud en la Dirección General con competencia en materia de Justicia.",
+          "start_date": "Desde la fecha del atentado o tras la curación de secuelas",
+          "end_date": "Hasta un año después de la resolución estatal",
+          "required_documentation": "Datos personales, descripción de daños, datos de seguros contratados y certificación de la Delegación del Gobierno."
+        },
+        {
+          "step": 3,
+          "title": "Resolución de la solicitud",
+          "description": "La Administración debe resolver la solicitud en un plazo máximo determinado.",
+          "start_date": "Desde la comunicación de la resolución estatal",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

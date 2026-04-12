@@ -1,0 +1,111 @@
+{
+  "identifier": "BOE-A-1996-19263",
+  "title": "Ley 1/1996, de 27 de junio, de Cámaras Agrarias de Castilla-La Mancha",
+  "visible_title": "Ley de Cámaras Agrarias de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "1/1996",
+  "publication_date": "1996-08-22",
+  "enactment_date": "1996-06-27",
+  "last_updated": "2021-11-12",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/1996/06/27/1",
+  "official_journal": "Diario Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta norma reorganiza el sector agrario en Castilla-La Mancha mediante la creación de una única Cámara Agraria por cada provincia. Su objetivo es transformar las antiguas cámaras locales en corporaciones de derecho público con funciones de consulta y colaboración con la administración regional. Establece un sistema democrático de elección de sus órganos y define los criterios para que las organizaciones profesionales agrarias sean consideradas representativas.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes.",
+  "professional_impact": "Afecta directamente a agricultores y ganaderos, quienes pasan de tener cámaras locales a una estructura provincial única. Define cómo pueden participar en la gestión de estas cámaras mediante el voto y establece los requisitos para que sus asociaciones profesionales tengan voz oficial ante la Junta de Comunidades.",
+  "keywords": [
+    "Cámaras Agrarias",
+    "Castilla-La Mancha",
+    "sector agrario",
+    "derecho público",
+    "régimen electoral",
+    "organizaciones profesionales agrarias"
+  ],
+  "key_points": [
+    "Creación de una Cámara Agraria única por cada una de las cinco provincias de la región.",
+    "Las Cámaras actúan como órganos consultivos de la Junta de Comunidades, pero no pueden realizar labores de negociación o reivindicación.",
+    "Se establece un sistema de elección democrática para el Pleno, con mandatos de cuatro años.",
+    "Las organizaciones profesionales agrarias son consideradas representativas si obtienen al menos el 10% de los votos válidos.",
+    "Se prohíbe expresamente a las Cámaras realizar actividades mercantiles.",
+    "Extinción de todas las cámaras agrarias de ámbito inferior al provincial."
+  ],
+  "legal_references": [
+    "Ley 23/1986, de 24 de diciembre",
+    "Ley 23/1991, de 15 de octubre",
+    "Ley 37/1994, de 27 de diciembre",
+    "Estatuto de Autonomía de Castilla-La Mancha",
+    "Real Decreto 327/1996, de 23 de febrero",
+    "Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas"
+  ],
+  "derogations": [
+    "Todas las Cámaras Agrarias de ámbito inferior al provincial existentes en Castilla-La Mancha",
+    "Ley 6/2021, de 5 de noviembre de 2021 (derogó la presente norma)"
+  ],
+  "main_obligations": "Las Cámaras deben elaborar un inventario patrimonial y un presupuesto antes de cada ejercicio económico. Los órganos de gobierno deben someter sus estatutos a la aprobación de la Consejería de Agricultura y Medio Ambiente.",
+  "effective_date": "1996-08-23",
+  "procedures": [
+    {
+      "name": "Proceso Electoral de las Cámaras Agrarias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de elecciones",
+          "description": "El Consejo de Gobierno de Castilla-La Mancha dicta la convocatoria cada cuatro años.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Exposición del censo electoral",
+          "description": "Publicación del censo provisional en los Ayuntamientos para posibles alegaciones.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": "Alegaciones ante la Junta Electoral Regional"
+        },
+        {
+          "step": 3,
+          "title": "Presentación de candidaturas",
+          "description": "Presentación de listas cerradas por organizaciones profesionales o agrupaciones de electores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Aval del 10% de los electores para agrupaciones independientes"
+        },
+        {
+          "step": 4,
+          "title": "Constitución del Pleno",
+          "description": "Sesión consultiva para proclamar al Pleno y elegir Presidente y Comisión Ejecutiva.",
+          "start_date": "1 mes tras la finalización del proceso electoral",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aprobación de Estatutos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación por el Pleno",
+          "description": "El Pleno debe aprobar los estatutos por mayoría absoluta.",
+          "start_date": null,
+          "end_date": "3 meses tras la constitución",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Remisión y verificación",
+          "description": "Envío a la Consejería para verificar su adecuación normativa e inscripción.",
+          "start_date": null,
+          "end_date": "10 días tras la aprobación",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

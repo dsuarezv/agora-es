@@ -1,0 +1,79 @@
+{
+  "identifier": "BOE-A-2017-524",
+  "title": "Resolución INT/2989/2016, de 27 de diciembre, por la que se establecen las restricciones a la circulación durante el año 2017",
+  "visible_title": "Restricciones a la circulación por la red viaria de Cataluña durante el año 2017",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "INT/2989/2016",
+  "publication_date": "2017-01-18",
+  "enactment_date": "2016-12-27",
+  "last_updated": "2017-01-02",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/res/2016/12/27/int2989",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta resolución establece las limitaciones de tráfico para vehículos pesados y especiales en las carreteras de Cataluña durante todo el año 2017. El objetivo es mejorar la fluidez de la red vial y la seguridad ciudadana, especialmente en periodos de vacaciones o festivos. Regula específicamente el transporte de mercancías, mercancías peligrosas (ADR), vehículos de obras y servicios, y el uso de carriles bus-VAO.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo por posibles cambios en la fluidez del tráfico o la gestión de rutas en zonas de montaña o túneles.",
+  "professional_impact": "Afecta gravemente a empresas de transporte de mercancías, logística y construcción. Los transportistas deben planificar sus rutas evitando tramos restringidos, respetando horarios específicos en festivos y siguiendo itinerarios obligatorios (RIMP) para mercancías peligrosas. También impone la obligación de consultar itinerarios idóneos en la web del SCT para evitar sanciones.",
+  "keywords": [
+    "tráfico",
+    "restricciones de circulación",
+    "transporte de mercancías",
+    "mercancías peligrosas",
+    "Cataluña",
+    "vehículos pesados",
+    "seguridad vial"
+  ],
+  "key_points": [
+    "Prohibición de circular para vehículos de mercancías con masa superior a 7.500 kg en tramos y horarios específicos.",
+    "Restricciones severas para vehículos de transporte especial y de obras en domingos, festivos y vísperas.",
+    "Obligatoriedad de usar la Red de Itinerarios de Mercancías Peligrosas (RIMP) para transporte ADR.",
+    "Limitaciones de circulación en túneles críticos como el del Cadí y el de Vielha en periodos de festividad.",
+    "Restricciones de circulación en carriles bus-VAO de la C-58CC para vehículos no autorizados.",
+    "Limitaciones de tráfico en accesos a Barcelona durante días específicos y horarios de mayor congestión.",
+    "Exenciones para transporte de ganado vivo, leche, basura municipal y productos de campaña agrícola.",
+    "Posibilidad de retirada de vehículos por parte de los Mossos d'Esquadra en condiciones meteorológicas extremas."
+  ],
+  "legal_references": [
+    "Ley 14/1997, de 24 de diciembre, de creación del Servicio Catalán de Tráfico",
+    "Real Decreto Legislativo 6/2015, de 30 de octubre (Ley sobre tráfico, circulación de vehículos a motor y seguridad vial)",
+    "Real Decreto 1428/2003, de 21 de noviembre (Reglamento General de Circulación)",
+    "Decreto 320/2011, de 19 de abril"
+  ],
+  "derogations": [
+    "Resolución INT/2882/2015, de 10 de diciembre"
+  ],
+  "main_obligations": "Los vehículos de transporte de mercancías >7.500 kg y transporte especial deben respetar los horarios y tramos prohibidos detallados en los anexos. Los transportistas de mercancías peligrosas deben seguir estrictamente los itinerarios de la red RIMP y la señalización vertical.",
+  "effective_date": "2017-01-18",
+  "procedures": [
+    {
+      "name": "Solicitud de exención de restricciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "descrption": "Solicitud de exención para desplazamientos por razones de urgencia o necesidad ineludible.",
+          "start_date": "5 días de antelación a la fecha del desplazamiento",
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la necesidad ineludible, matrícula del vehículo, tipo de carga y ruta prevista."
+        }
+      ]
+    },
+    {
+      "name": "Consulta de itinerario idóneo (ADR)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Consulta web",
+          "descrption": "Obtención de una ruta vinculante para transporte de mercancías peligrosas a través de la web del SCT.",
+          "start_date": null,
+          "end_date": "1 mes de caducidad",
+          "required_documentation": "Datos del origen y destino"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

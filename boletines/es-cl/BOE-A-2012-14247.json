@@ -1,0 +1,116 @@
+{
+  "identifier": "BOE-A-2012-14247",
+  "title": "Ley 7/2012, de 24 de octubre, de Estabilidad y Disciplina Presupuestaria",
+  "visible_title": "Ley de Estabilidad y Disciplina Presupuestaria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "7/2012",
+  "publication_date": "2012-11-20",
+  "enactment_date": "2012-10-24",
+  "last_updated": "2014-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2012/10/24/7",
+  "official_journal": "Boletín Oficial de Castilla y León",
+  "journal_issue": null,
+  "summary": "Esta norma impone un control estricto sobre el gasto público en Castilla y León para evitar el endeudamiento descontrolado. Establece una 'regla de gasto' que limita el crecimiento de la inversión pública al crecimiento del PIB nacional. Además, obliga a los entes públicos a crear planes de reequilibrio si detectan desajustes financieros y prioriza el pago de la deuda sobre otros gastos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, más allá de la garantía de que la administración regional mantenga sus cuentas sanas para asegurar la prestación de servicios públicos a largo plazo.",
+  "professional_impact": "Afecta directamente a gestores de la administración pública y entidades del sector público autonómico, quienes ahora deben cumplir con límites de gasto estrictos, presentar informes trimestrales de seguimiento y elaborar planes de reequilibrio obligatorios en caso de déficit. También impone mayores controles en la tramitación de subvenciones y proyectos de inversión.",
+  "keywords": [
+    "estabilidad presupuestaria",
+    "disciplina presupuestaria",
+    "gasto público",
+    "Castilla y León",
+    "sostenibilidad financiera",
+    "regla de gasto",
+    "plan económico-financiero"
+  ],
+  "key_points": [
+    "El gasto público no puede crecer más que el PIB medio de la economía española.",
+    "Si un ente público tiene déficit, debe presentar un plan de reequilibrio en un mes.",
+    "El pago de la deuda tiene prioridad absoluta y sus créditos no pueden ser modificados.",
+    "Se crea un 'Fondo de reserva' con los excedentes para reducir la deuda neta.",
+    "Las subvenciones no pueden extender su pago más allá de un año tras su concesión.",
+    "Cualquier inversión que aumente el gasto corriente debe incluir una memoria de financiación.",
+    "Las Cortes de Castilla y León deben aprobar el límite de gasto antes del 31 de julio de cada año."
+  ],
+  "legal_references": [
+    "Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera",
+    "Ley 2/2006, de 3 de mayo, de la Hacienda y del Sector Público de la Comunidad de Castilla y León",
+    "Constitución Española (artículo 135)",
+    "Estatuto de Autonomía de Castilla y León"
+  ],
+  "derogatons": [],
+  "main_obligations": "Los entes públicos deben operar en equilibrio o superávit; en caso de déficit, están obligados a remitir un plan de reequilibrio a la Consejería de Hacienda en un plazo de un mes y presentar informes de seguimiento trimestrales.",
+  "effective_date": "2012-11-21",
+  "procedures": [
+    {
+      "name": "Plan de reequilibrio económico-financiero",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Constatación de desequilibrio o incumplimiento",
+          "description": "Detección de la situación de déficit o falta de estabilidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Remisión del plan a la Consejería de Hacienda",
+          "description": "El ente afectado debe enviar su plan de medidas correctoras.",
+          "start_date": "1 mes desde la constatación",
+          "end_date": null,
+          "required_documentation": "Plan económico-financiero de reequilibrio"
+        },
+        {
+          "step": 3,
+          "title": "Comprobación e idoneidad",
+          "description": "La Consejería verifica si las medidas son adecuadas para corregir el desequilibrio.",
+          "start_date": null,
+          "end_date": "2 meses desde la presentación",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Seguimiento trimestral",
+          "description": "Informes periódicos sobre la evolución del plan y desviaciones.",
+          "start_date": "Trimestralmente",
+          "end_date": null,
+          "required_documentation": "Informe de seguimiento"
+        }
+      ]
+    },
+    {
+      "name": "Aprobación del límite de gasto no financiero",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de la Consejería",
+          "description": "La Consejería de Hacienda propone el límite de gasto para el siguiente ejercicio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Acuerdo de la Junta",
+          "description": "La Junta de Castilla y León acuerda el límite.",
+          "start_date": null,
+          "end_date": "1 mes tras la propuesta",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Debate y aprobación en Cortes",
+          "description": "Las Cortes de Castilla y León deben aprobar el límite de gasto.",
+          "start_date": null,
+          "end_date": "31 de julio",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

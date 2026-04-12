@@ -1,0 +1,103 @@
+{
+  "identifier": "BOE-A-1995-12748",
+  "title": "Ley 1/1995, de 6 de abril, de Cámaras Agrarias de Castilla y León",
+  "visible_title": "Ley de Cámaras Agrarias de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "1/1995",
+  "publication_date": "1995-05-30",
+  "enactment_date": "1995-04-06",
+  "last_updated": "2024-05-14",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/1995/04/06/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula la creación, estructura y funcionamiento de las Cámaras Agrarias en Castilla y León como corporaciones de derecho público. Establece su carácter democrático, su capacidad para gestionar recursos propios y su función de colaboración con la administración autonómica. Define el proceso electoral para elegir a sus miembros y delimita sus competencias para evitar que interfieran con sindicatos o empresas comerciales.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes.",
+  "professional_impact": "Afecta directamente a los profesionales del sector agrario, quienes participan en la elección de sus representantes mediante un proceso electoral específico. Establece reglas de incompatibilidad para los miembros de las Cámaras, prohibiéndoles ejercer cargos públicos o ser empleados de la Administración Pública en activo.",
+  "keywords": [
+    "Cámaras Agrarias",
+    "Castilla y León",
+    "sector agrario",
+    "derecho público",
+    "elecciones agrarias",
+    "administración agraria"
+  ],
+  "key_points": [
+    "Las Cámaras Agrarias son entidades con personalidad jurídica propia y autonomía de gestión.",
+    "Su estructura es democrática, con órganos de gobierno compuestos por un Pleno, una Comisión Delegada y un Presidente.",
+    "Los miembros del Pleno son designados por las organizaciones profesionales agrarias más representativas.",
+    "Se prohíbe expresamente a las Cámaras realizar actividades comerciales o mercantiles.",
+    "Las Cámaras no pueden sustituir las funciones de reivindicación de los sindicatos o asociaciones profesionales.",
+    "La Junta de Castilla y León ejerce la tutela administrativa sobre estas entidades.",
+    "El mandato de los miembros del Pleno es de cinco años.",
+    "Se crea un Registro de Cámaras Agrarias dependiente de la Consejería de Agricultura y Ganadería."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Castilla y León",
+    "Ley Orgánica 9/1992, de 23 de diciembre",
+    "Ley 23/1986, de 24 de diciembre",
+    "Ley 23/1991, de 15 de octubre",
+    "Decreto Legislativo 1/1990, de 25 de octubre"
+  ],
+  "derogations": [
+    "Disposiciones que se opongan a lo establecido en esta Ley"
+  ],
+  "main_obligations": "Los miembros de las Cámaras no pueden ser funcionarios públicos en activo ni ejercer cargos públicos (salvo concejales o alcaldes bajo ciertas condiciones). Las Cámaras deben remitir sus estatutos y modificaciones al Registro de Cámaras Agrarias y presentar su memoria y presupuesto anual en el primer trimestre de cada año.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Constitución de la Cámara Agraria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación de estatutos",
+          "description": "El Pleno aprueba los estatutos de la Cámara.",
+          "start_date": "Tras la constitución",
+          "end_date": "6 meses tras la constitución",
+          "required_documentation": "Estatutos de la Cámara"
+        },
+        {
+          "step": 2,
+          "title": "Informe de la Consejería",
+          "description": "La Consejería de Agricultura y Ganadería emite informe sobre la adecuación de los estatutos.",
+          "start_date": "Tras la recepción de estatutos",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Inscripción en el Registro",
+          "description": "Inscripción de los estatutos en el Registro de Cámaras Agrarias.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe jurídico favorable"
+        }
+      ]
+    },
+    {
+      "name": "Proceso Electoral de las Cámaras",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de elecciones",
+          "description": "La Junta de Castilla y León convoca las elecciones cada cinco años.",
+          "start_date": "Cada 5 años",
+          "end_date": null,
+          "required_documentation": "Publicación en el BOCyL"
+        },
+        {
+          "step": 2,
+          "title": "Presentación de candidaturas",
+          "description": "Presentación de listas cerradas por organizaciones profesionales o agrupaciones de electores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Listas completas y avales (si es agrupación de electores)"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

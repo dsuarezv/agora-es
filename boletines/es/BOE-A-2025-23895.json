@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-2025-23895",
+  "title": "Resolución de 4 de noviembre de 2025, de la Entidad Pública Empresarial ADIF-Alta Velocidad, por la que se publica el Reglamento de determinación de los cánones ferroviarios ADIF-Alta Velocidad",
+  "visible_title": "Reglamento de determinación de los cánones ferroviarios ADIF-Alta Velocidad",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Ministerio de Transportes y Movilidad Sostenible",
+  "official_number": "2025-23895",
+  "publication_date": "2025-11-25",
+  "enactment_date": "2025-11-04",
+  "last_updated": "2025-11-25",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/res/2025/11/04/(2)",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "283",
+  "summary": "ADIF-Alta Velocidad actualiza el sistema de precios (cánones) que las compañías ferroviarias deben pagar por utilizar la red de alta velocidad. La norma busca asegurar la rentabilidad de las infraestructuras mediante una actualización anual de tarifas y la introducción de recargos en rutas de alta demanda. Además, penaliza el uso ineficiente de la capacidad reservada para evitar que los trenes circulen por debajo de lo planificado. El nuevo reglamento clasifica de forma más precisa las líneas, estaciones y tipos de servicios para que el cobro sea más justo y acorde al uso real.",
+  "citizen_impact": "Aunque es una norma de carácter técnico entre ADIF y operadores, el impacto indirecto puede verse en la estructura de precios de los billetes de tren de alta velocidad y en la disponibilidad de horarios, ya que las empresas deberán optimizar sus rutas para evitar penalizaciones por falta de uso.",
+  "professional_impact": "Los operadores ferroviarios (viajeros y mercancías) enfrentan nuevas cargas administrativas y económicas: deben presentar declaraciones mensuales de viajeros, optimizar su programación para no superar los umbrales de penalización por falta de uso (2% en viajeros, 15% en mercancías) y gestionar nuevos recargos en corredores estratégicos.",
+  "keywords": [
+    "cánones ferroviarios",
+    "ADIF-Alta Velocidad",
+    "operadores ferroviarios",
+    "alta velocidad",
+    "tarifas ferroviarias",
+    "capacidad de red"
+  ],
+  "key_points": [
+    "Actualización anual obligatoria de los precios (cánones) y recargos aplicables.",
+    "Eliminación del tipo de servicio VL3 para unificar criterios con el VL1.",
+    "Nuevas tarifas diferenciadas según si el tren es de composición simple o doble en líneas tipo A.",
+    "Recargos adicionales por uso de redes de altas prestaciones en ejes clave como Madrid-Barcelona, Madrid-Andalucía, Madrid-Valencia, Madrid-Asturias, Madrid-Galicia e Internacional.",
+    "Penalización del 100% del canon por cancelación de capacidad con menos de 24h de antelación o uso inferior al 50% del periodo adjudicado.",
+    "Penalización por falta de uso: recargo si la diferencia entre km reservados y circulados supera el 2% en viajeros y el 15% en mercancías.",
+    "Nueva clasificación de líneas (tipos A a E) y estaciones (del 1 al 6) para el cálculo de costes.",
+    "Segmentación de servicios VL1 por número de plazas (Z1, Z2, Z3) y horario (Normal o Punta).",
+    "Mecanismo de compensación para evitar que la recaudación exceda los cánones respecto a lo pagado desde el inicio del horario de servicio."
+  ],
+  "legal_references": [
+    "Ley 38/2015, de 29 de septiembre, del Sector Ferroviario",
+    "Directiva 2012/34/UE del Parlamento Europeo y del Consejo",
+    "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+    "Reglamento de Ejecución (UE) 2015/909 de la Comisión",
+    "Real Decreto 1044/2013, de 27 de diciembre",
+    "Propuesta de Reglamento del Parlamento Europeo y del Consejo sobre la utilización de la capacidad de infraestructura ferroviaria"
+  ],
+  "derogations": [
+    "Reglamento de Determinación de los Cánones Ferroviarios aprobado por el Consejo de Administración de ADIF-Alta Velocidad en sesión celebrada el 30 de septiembre de 2024"
+  ],
+  "main_obligations": "Los operadores deben presentar mensualmente una declaración con el detalle de viajeros (número de tren, fecha, estaciones y pasajeros) para el cálculo del canon de estaciones. Asimismo, deben optimizar su programación para cumplir con los umbrales de uso de capacidad y evitar penalizaciones.",
+  "effective_date": "2025-12-01",
+  "procedures": [
+    {
+      "name": "Actualización anual de cánones ferroviarios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación del Reglamento",
+          "description": "El Consejo de Administración de ADIF-AV adopta el reglamento tras dictamen del Consejo de Estado.",
+          "start_date": "2025-10-28",
+          "end_date": "2025-11-04",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Publicación en el BOE",
+          "description": "Publicación oficial para su entrada en vigor y conocimiento de los operadores.",
+          "start_date": "2025-11-25",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Liquidación de compensaciones",
+          "description": "Establecimiento de una compensación global para operadores en el plazo de tres meses tras la finalización del horario de servicio 2024-2025.",
+          "start_date": "Finalización horario 2024-2025",
+          "end_date": "3 meses después",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Cálculo de la adición al canon por adjudicación de capacidad (Modalidad A)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cálculo del exceso o defecto",
+          "description": "Se resta la diferencia entre kilómetros reservados y circulados, aplicando los umbrales del 2% para viajeros y 15% para mercancías.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Determinación del importe",
+          "description": "Se multiplica la diferencia resultante (Km_Defecto_Umbral o Km_Exceso_Umbral) por la tarifa según el reglamento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

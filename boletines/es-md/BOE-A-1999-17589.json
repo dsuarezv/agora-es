@@ -1,0 +1,83 @@
+{
+  "identifier": "BOE-A-1999-17589",
+  "title": "Ley 16/1999, de 29 de abril, de Comercio Interior de la Comunidad de Madrid",
+  "visible_title": "Ley de Comercio Interior de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "16/1999",
+  "publication_date": "1999-08-16",
+  "enactment_date": "1999-04-29",
+  "last_updated": "2012-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1999/04/29/16",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para regular la actividad comercial minorista en la Comunidad de Madrid. Su objetivo es modernizar el sector, garantizar la libre competencia y proteger los derechos de los consumidores. Regula aspectos críticos como los horarios comerciales, la instalación de grandes superficies y las modalidades de venta promocional.",
+  "citizen_impact": "Garantiza derechos de protección al consumidor, como plazos de garantía de al menos seis meses para bienes duraderos y el derecho de reflexión en ventas a domicilio. También influye en la disponibilidad de servicios mediante la regulación de horarios y la apertura de comercios en domingos y festivos.",
+  "professional_impact": "Obliga a los comerciantes a cumplir con requisitos de registro, publicidad de horarios y normativas específicas para ventas en rebajas o liquidaciones. Los grandes establecimientos y tiendas de 'descuento duro' deben someterse a autorizaciones administrativas previas, y las infracciones pueden acarrear multas de hasta 100 millones de pesetas.",
+  "keywords": [
+    "comercio interior",
+    "Comunidad de Madrid",
+    "consumidores",
+    "horarios comerciales",
+    "establecimientos comerciales",
+    "ventas promocionales",
+    "garantías"
+  ],
+  "key_points": [
+    "Establece un plazo mínimo de garantía de seis meses para bienes de carácter duradero.",
+    "Regula la instalación de grandes establecimientos (superiores a 2.500 m²) y medianos (750 m²) mediante autorizaciones.",
+    "Define la libertad de horarios para comerciantes, permitiendo la apertura en domingos y festivos en sectores específicos o zonas turísticas.",
+    "Regula las ventas de promoción, con obligación de informar claramente sobre productos y existencias.",
+    "Establece el derecho de reflexión de al menos siete días para contratos celebrados fuera de establecimientos (ventas domiciliarias).",
+    "Crea registros específicos para franquiciadores y empresas de venta a distancia.",
+    "Tipifica infracciones comerciales en leves, graves y muy graves con sanciones económicas graduadas."
+  ],
+  "legal_references": [
+    "Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista",
+    "Ley Orgánica 5/1998, de 7 de julio",
+    "Ley 4/1994, de 6 de junio, de Calendario de Horarios Comerciales",
+    "Real Decreto-ley 22/1993, de 29 de diciembre",
+    "Ley 26/1991, de 21 de noviembre, de Protección de los Consumidores",
+    "Código Civil",
+    "Código de Comercio"
+  ],
+  "derogations": [
+    "Ley 4/1994, de 6 de junio, de Calendario de Horarios Comerciales (salvo el artículo 3.1)",
+    "Orden 3323/1996, de 16 de abril",
+    "Orden 3349/1996, de abril"
+  ],
+  "main_obligations": "Los comerciantes deben exhibir sus horarios de apertura de forma visible, respetar los plazos de garantía y cumplir con las reglas de publicidad en rebajas y liquidaciones. Las infracciones graves pueden conllevar multas de hasta 2.500.000 pesetas y las muy graves hasta 100.000.000 de pesetas.",
+  "effective_date": "1999-08-17",
+  "procedures": [
+    {
+      "name": "Autorización de instalación de medianos establecimientos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Presentación de solicitud para instalación, ampliación, modificación, traslado o cambio de titularidad de locales de 750 m² a 2.500 m².",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación reglamentaria establecida por la Consejería competente."
+        }
+      ]
+    },
+    {
+      "name": "Declaración de Zona de Gran Afluencia Turística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación del procedimiento",
+          "description": "Puede iniciarse de oficio, por solicitud del Ayuntamiento o por asociaciones empresariales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

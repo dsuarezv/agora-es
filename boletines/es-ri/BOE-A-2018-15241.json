@@ -1,0 +1,89 @@
+{
+  "identifier": "BOE-A-2018-15241",
+  "title": "Ley 5/2018, de 19 de octubre, de gratuidad de los libros de texto y material curricular",
+  "visible_title": "Ley de gratuidad de los libros de texto y material curricular",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "5/2018",
+  "publication_date": "2018-11-07",
+  "enactment_date": "2018-10-19",
+  "last_updated": "2022-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2018/10/19/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un sistema de préstamo gratuito de libros de texto y materiales educativos para alumnos de Educación Primaria, ESO y FP Básica en centros públicos de La Rioja. En lugar de dar ayudas económicas directas, la Administración financia la compra de materiales que pertenecen al centro escolar. El objetivo es garantizar la igualdad de oportunidades y fomentar la sostenibilidad mediante la reutilización de recursos.",
+  "citizen_impact": "Las familias de La Rioja dejan de tener que comprar los libros de texto para sus hijos en los niveles educativos cubiertos, ya que los recibirán en préstamo sin coste. Sin embargo, los padres tienen la obligación de devolver los libros en buen estado al finalizar el curso para mantener este derecho.",
+  "professional_impact": "Los centros docentes deben crear una Comisión de Gestión y utilizar plataformas digitales para administrar el préstamo. Los docentes coordinadores de este sistema recibirán horas lectivas asignadas para su supervisión, y la Inspección Educativa deberá supervisar el correcto funcionamiento del modelo.",
+  "keywords": [
+    "gratuidad libros de texto",
+    "material curricular",
+    "sistema de préstamo",
+    "educación básica",
+    "La Rioja",
+    "igualdad de oportunidades"
+  ],
+  "key_points": [
+    "Sustitución de ayudas económicas por un sistema de préstamo de libros propiedad del centro.",
+    "La gratuidad se aplica a Educación Primaria, ESO y Formación Profesional Básica.",
+    "Los libros pueden ser en formato impreso o digital, pero no deben requerir licencias de terceros.",
+    "Los centros eligen los libros y deben mantener las mismas ediciones durante al menos cuatro cursos.",
+    "La participación en el sistema es voluntaria y requiere manifestación expresa de los padres.",
+    "La pérdida o deterioro negligente de los libros obliga a su reposición por parte de la familia.",
+    "Se fomenta el uso de Recursos Educativos Abiertos (REA) y plataformas digitales.",
+    "Implementación progresiva: comienza en 2019-2020 y se extiende a todos los niveles hasta 2022-2023."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de La Rioja",
+    "Ley Orgánica 2/2006, de 3 de mayo, de Educación",
+    "Orden EDU/39/2018, de 20 de junio"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": "Los alumnos y sus representantes deben devolver los libros en buen estado al finalizar el curso. En caso de pérdida o deterioro por negligencia, la familia está obligada a reponer el material, bajo riesgo de suspensión temporal del derecho a la gratuidad.",
+  "effective_date": "2019-06-17",
+  "procedures": [
+    {
+      "name": "Implantación del sistema de préstamo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Campaña de información",
+          "description": "Comunicación a centros, familias y alumnos sobre derechos, deberes y funcionamiento del sistema.",
+          "start_date": "2018-06-17",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Adhesión voluntaria",
+          "description": "Manifestación expresa de la voluntad de participar en el sistema por parte de los padres o tutores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Manifestación expresa según plazos reglamentarios"
+        },
+        {
+          "step": 3,
+          "title": "Inicio de la gratuidad (Fase 1)",
+          "description": "Aplicación del sistema en 3º y 6º de Primaria y FP Básica.",
+          "start_date": "2019-09-01",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Extensión progresiva",
+          "description": "Ampliación de la gratuidad al resto de niveles de enseñanza obligatoria.",
+          "start_date": "2021-09-01",
+          "end_date": "2023-06-30",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

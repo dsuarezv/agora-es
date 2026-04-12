@@ -1,0 +1,107 @@
+{
+  "identifier": "BOE-A-1984-26617",
+  "title": "Ley 6/1984, de 29 de octubre, sobre protección y fomentos de las especies forestales autóctonas",
+  "visible_title": "Ley sobre protección y fomento de las especies forestales autóctonas",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "6/1984",
+  "publication_date": "1984-12-01",
+  "enactment_date": "1984-10-29",
+  "last_updated": "1984-11-16",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/1984/10/29/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca frenar la pérdida de bosques nativos en Cantabria (como robledales, hayas y castaños) causada por la explotación excesiva, incendios y pastoreo. Establece un registro de masas forestales y la creación de áreas de protección especial para garantizar su regeneración. Además, regula la protección de árboles ejemplares de gran valor y fomenta la repoblación mediante viveros regionales.",
+  "citizen_impact": "Los propietarios de terrenos forestales pueden ver limitadas sus actividades de tala o pastoreo si sus tierras entran en zonas de protección especial. Sin embargo, también pueden recibir compensaciones económicas de la Administración si se les prohíbe explotar madera por interés ecológico.",
+  "professional_impact": "Los propietarios de montes y empresas forestales deben cumplir con programas de ordenación aprobados para poder obtener ayudas o permisos de tala. Los técnicos forestales y la administración regional asumen la carga de gestionar registros, inventarios de árboles singulares y planes de repoblación.",
+  "keywords": [
+    "especies forestales autóctonas",
+    "Cantabria",
+    "protección forestal",
+    "regeneración forestal",
+    "áreas de protección especial",
+    "árboles singulares",
+    "ordenación de montes"
+  ],
+  "key_points": [
+    "Creación de un Registro de Masas Forestales con la ubicación y especies de cada zona.",
+    "Obligación de repoblar con especies autóctonas en un plazo de 2 años tras realizar cortas intensivas en fincas particulares.",
+    "Posibilidad de declarar Áreas de Protección Especial donde se pueden prohibir actividades como la caza o el pastoreo.",
+    "Derecho de los propietarios a recibir compensación económica si se suspenden sus aprovechamientos madereros por razones ecológicas.",
+    "Protección especial para árboles 'singulares' mediante un inventario que impide su tala sin autorización expresa.",
+    "Prohibición de obtener ayudas o permisos de tala si el monte no tiene un programa de ordenación y aprovechamiento aprobado.",
+    "Fomento de la repoblación mediante la entrega gratuita de plantas autóctonas a particulares en zonas con programas aprobados."
+  ],
+  "legal_references": [
+    "Ley de Montes de 1957",
+    "Reglamento de la Ley de Montes de 1962",
+    "Estatuto de Autonomía de Cantabria"
+  ],
+  "derogations": [],
+  "main_obligations": "Los propietarios de fincas particulares que realicen cortas a hecho o aclaros intensivos están obligados a repoblar el terreno con la misma especie o una similar autóctona en un plazo máximo de 2 años. Asimismo, no se pueden realizar aprovechamientos sin un programa de ordenación previo aprobado.",
+  "effective_date": "1984-12-02",
+  "procedures": [
+    {
+      "name": "Elaboración de programas de ordenación y aprovechamiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Redacción del programa",
+          "descrption": "Los Servicios Forestales redactan el plan de aprovechamiento del monte.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Participación de propietarios",
+          "descrption": "Se debe integrar obligatoriamente a las entidades propietarias en la tramitación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aceptación de la propuesta",
+          "descrption": "La aprobación es preceptiva tras la aceptación previa de la entidad propietaria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de Áreas de Protección Especial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta técnica",
+          "descrption": "Los Servicios Forestales proponen la zona basándose en su interés ecológico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comunicación y acuerdo",
+          "descrption": "Se comunica a los propietarios para su conocimiento y aceptación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución por falta de acuerdo",
+          "descrption": "Si no hay acuerdo, el Consejo de Gobierno puede decretar la zona prevaleciendo el interés general.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

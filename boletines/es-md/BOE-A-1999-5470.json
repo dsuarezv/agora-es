@@ -1,0 +1,89 @@
+{
+  "identifier": "BOE-A-1999-5470",
+  "title": "Ley 16/1998, de 27 de octubre, de Creación del Instituto de Realojamiento e Integración Social",
+  "visible_title": "Creación del Instituto de Realojamiento e Integración Social",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "16/1998",
+  "publication_date": "1999-03-06",
+  "enactment_date": "1998-10-27",
+  "last_updated": "2015-12-31",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1998/10/27/16",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea un ente público especializado para combatir el fenómeno del 'chaoblismo' en la Comunidad de Madrid. Su objetivo es proporcionar viviendas dignas a familias en situación de exclusión social y, simultáneamente, ejecutar programas de integración laboral, educativa y social. La norma busca evitar la concentración de estas familias en barrios específicos y coordinar la actuación entre ayuntamientos y la administración regional.",
+  "citizen_impact": "Para las familias que viven en chabolas o infraviviendas, esta norma suponía una vía para acceder a una vivienda pública y a servicios de apoyo social. No otorga un derecho automático, sino que condiciona la ayuda al cumplimiento de programas de integración social y laboral.",
+  "professional_impact": "Crea una nueva estructura administrativa con personal funcionario y laboral especializado en trabajo social y gestión de vivienda. Los ayuntamientos de la región pasan a colaborar mediante convenios-programa, delegando en este Instituto la gestión técnica y económica de los realojos.",
+  "keywords": [
+    "realojamiento",
+    "integración social",
+    "vivienda social",
+    "exclusión social",
+    "Comunidad de Madrid",
+    "chabolas"
+  ],
+  "key_points": [
+    "Creación del Instituto de Realojaenento e Integración Social como ente de Derecho Público.",
+    "El acceso a la vivienda está vinculado a un 'contrato de integración social' con compromisos de progreso.",
+    "Se establece la figura de 'convenios-programa' con ayuntamientos para delimitar actuaciones territoriales.",
+    "El Instituto tiene capacidad para adquirir, arrendar y gestionar directamente el patrimonio de viviendas.",
+    "Se busca una distribución territorial equitativa para evitar la creación de guetos o barrios segregados.",
+    "El Instituto asume todas las funciones y bienes del antiguo Consorcio para el Realojamiento."
+  ],
+  "legal_references": [
+    "Ley 9/1990, de 8 de noviembre, Reguladora de la Hacienda de la Comunidad de Madrid",
+    "Ley 3/2014, de 22 de diciembre",
+    "Decreto 244/2015, de 29 de diciembre",
+    "Estatuto de Autonomía de la Comunidad de Madrid",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas"
+  ],
+  "derogations": [
+    "Consorcio para el Realojamiento de la Población Marginada de Madrid (subrogado)",
+    "Ley 16/1998 (derogada por el Decreto 244/2015)"
+  ],
+  "main_obligations": "Las familias beneficiarias deben cumplir con los requisitos de los convenios-programa y los compromisos de integración social pactados en su contrato de alquiler para mantener la vivienda.",
+  "effective_date": "1999-03-07",
+  "procedures": [
+    {
+      "name": "Acceso a vivienda y servicios del Instituto",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Suscripción de convenio-programa",
+          "description": "Acuerdo entre el Instituto y el Ayuntamiento para delimitar el territorio y la población a intervenir.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comprobación de requisitos",
+          "description": "Verificación de que los potenciales beneficiarios cumplen las condiciones de exclusión social y necesidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informes sociales y bases de datos de exclusión"
+        },
+        {
+          "step": 3,
+          "title": "Adjudicación de vivienda",
+          "description": "Asignación de la vivienda tras un informe social razonado por parte del Consejo de Administración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe social razonado"
+        },
+        {
+          "step": 4,
+          "title": "Firma del contrato de integración social",
+          "description": "Formalización del alquiler vinculado a compromisos de inserción laboral, educativa y social.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

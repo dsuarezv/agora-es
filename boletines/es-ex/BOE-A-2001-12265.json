@@ -1,0 +1,166 @@
+{
+  "identifier": "BOE-A-2001-12265",
+  "title": "Ley 3/2001, de 26 de abril, de la Caliidad, Promoción y Acceso a la Vivienda de Extremadura",
+  "visible_title": "Ley de Calidad, Promoción y Acceso a la Vivienda de Extremadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "3/2001",
+  "publication_date": "2001-06-26",
+  "enactment_date": "2001-04-26",
+  "last_updated": "2019-04-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2001/04/26/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo se debe construir, promocionar y acceder a la vivienda en Extremadura para asegurar que sean seguras y habitables. Establece controles estrictos para proteger a los compradores de viviendas nuevas y a los inquilinos, obligando a que los suministros básicos dependan de la cédula de habitabilidad. Además, impone sanciones severas para evitar el uso indebido de la vivienda protegida y garantiza que los fondos de los compradores y las fianzas de alquiler estén protegidos. En definitiva, busca equilibrar el mercado inmobiliario y proteger el derecho a una vivienda digna.",
+  "citizen_impact": "Los ciudadanos ganan seguridad jurídica: los compradores de viviendas en construcción pueden recuperar su dinero si no hay licencia en 3 meses, y los inquilinos tienen la garantía de que su fianza se deposita en una cuenta oficial. Además, nadie podrá darte suministros (luz, agua, gas) sin una cédula de habitabilidad que certifique que la casa es segura. Si compras vivienda protegida, debes cumplir con las reglas de uso para evitar multas de hasta 200.000 euros.",
+  "professional_impact": "Los promotores deben depositar los anticipos de clientes en cuentas bancarias separadas y detallar con precisión la superficie útil y construida en su publicidad. Los arrendadores tienen la obligación de depositar la fianza en la cuenta de la Comunidad Autónoma en un plazo de 30 días. Las empresas del sector deben cumplir con estándares de habitabilidad y eficiencia para obtener la cédula de habitabilidad, requisito indispensable para la conexión de servicios.",
+  "keywords": [
+    "vivienda",
+    "Extremadura",
+    "habitabilidad",
+    "vivienda protegida",
+    "alquiler",
+    "promoción inmobiliaria",
+    "fianza",
+    "cédula de habitabilidad"
+  ],
+  "key_points": [
+    "La Cédula de Habitabilidad es obligatoria para contratar suministros de agua, luz, gas y telecomunicaciones.",
+    "Los promotores no pueden usar el dinero de los anticipos de los compradores para otros fines; deben depositarlo en una cuenta separada.",
+    "Si compras una vivienda en construcción y no se concede la licencia urbanística en 3 meses, puedes recuperar tu señal.",
+    "La publicidad inmobiliaria debe ser transparente, indicando superficie útil, construida e impuestos incluidos.",
+    "Las fianzas de los contratos de alquiler deben depositarse en una cuenta especial de la Comunidad Autónoma en un plazo de 30 días.",
+    "El uso de vivienda protegida para fines distintos al domicilio habitual se considera una infracción grave.",
+    "Las multas por incumplimientos muy graves en vivienda protegida pueden alcanzar los 200.000 euros.",
+    "Las viviendas desocupadas por más de 6 meses pueden ser declaradas como tales mediante procedimiento administrativo.",
+    "El silencio administrativo en solicitudes de ayudas y subvenciones significa que la solicitud ha sido denegada.",
+    "Las infracciones prescriben según su gravedad: 9 meses para leves, 18 para graves y 24 para muy graves."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 47)",
+    "Estatuto de Autonomía de Extremadura",
+    "Ley 2/1993 de Enajenación de Viviendas de la CAE",
+    "Ley 3/1995 de Fomento de la Vivienda en Extremadura",
+    "Ley 38/1999 de Ordenación de la Edificación",
+    "Ley de Arrendamientos Urbanos",
+    "Ley de Expropiación Forzosa",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal"
+  ],
+  "derogatons": [
+    "Ley 2/1993, de 13 de diciembre, de Enajenación de Viviendas de la Comunidad Autónoma de Extremadura",
+    "Ley 3/1995, de 6 de abril, de Fomento de la Vivienda en Extremadura",
+    "Ley 8/1996, de 15 de noviembre, reguladora de la Comisión Regional de la Vivienda de la Comunidad Autónoma de Extremadura"
+  ],
+  "main_obligations": "Los arrendadores deben depositar la fianza en la cuenta de la Comunidad Autónoma en un plazo máximo de 30 días. Los promotores deben garantizar la devolución de anticipos mediante depósitos bancarios separados. Los compradores de vivienda protegida deben notificar cualquier venta a la Junta para permitir el derecho de tanteo.",
+  "effective_date": "2001-06-26",
+  "procedures": [
+    {
+      "name": "Obtención de la Cédula de Habitabilidad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Finalización de obra",
+          "description": "El promotor debe solicitar la recepción de la obra.",
+          "start_date": "Tras la ejecución de la obra",
+          "end_date": null,
+          "required_documentation": "Certificado de recepción de obra"
+        },
+        {
+          "step": 2,
+          "title": "Solicitud al Ayuntamiento",
+          "description": "El promotor solicita la cédula aportando certificado de técnico competente.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": "Certificado de técnico competente"
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Si el Ayuntamiento no responde en 2 meses, se entiende concedida por silencio administrativo.",
+          "start_date": "2 meses tras la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Ejercicio del Derecho de Tanteo (Vivienda Protegida)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de la transmisión",
+          "description": "El vendedor o entidad financiera debe notificar la intención de venta a la Junta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Precio, forma de pago y datos del comprador"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de decisión de la Junta",
+          "description": "La Junta tiene un plazo para decidir si compra la vivienda al mismo precio.",
+          "start_date": "Día siguiente a la notificación correcta",
+          "end_date": "30 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Pago",
+          "description": "La Junta debe realizar el pago del precio acordado.",
+          "start_date": null,
+          "end_date": "4 meses (o 2 meses en ejecuciones patrimoniales)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación",
+          "description": "Inicio del expediente de oficio, por petición de otros órganos o por denuncia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Instrucción",
+          "description": "Fase de investigación realizada por los Servicios de la Consejería de Vivienda para establecer responsabilidades.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Propuesta de resolución",
+          "description": "La Consejería formula la propuesta tras la instrucción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "Dictada por el Director General de Vivienda o de Urbanismo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Recurso de Alzada",
+          "description": "Posibilidad de recurrir ante el Consejero de Vivienda, Urbanismo y Transportes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

@@ -1,0 +1,165 @@
+{
+  "identifier": "BOE-A-2019-7787",
+  "title": "Ley 7/2019, de 29 de marzo, de apoyo y fomento del emprendimiento y del trabajo autónomo en Aragón",
+  "visible_title": "Ley de apoyo y fomento del emprendimiento y del trabajo autónomo en Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "7/2019",
+  "publication_date": "2019-05-25",
+  "enactment_date": "2019-03-29",
+  "last_updated": "2021-02-23",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2019/03/29/7",
+  "official_journal": "Boletín Oficial de Aragón",
+  "journal_issue": null,
+  "summary": "Esta ley busca transformar el ecosistema emprendedor de Aragón facilitando la creación de negocios y protegiendo a los autónomos. Su objetivo es reducir la burocracia mediante la digitalización y la simplificación de trámites, ofreciendo además una red de seguridad para quienes fracasan y buscan una segunda oportunidad. Además, combate la despoblación incentivando el emprendimiento en zonas rurales y facilitando el relevo generacional en negocios existentes. En definitiva, crea un entorno más ágil, financiado y acompañado para quienes deciden trabajar por cuenta propia.",
+  "citizen_impact": "Los emprendedores y autónomos aragoneses disfrutarán de trámites más rápidos mediante declaraciones responsables en lugar de autorizaciones para actividades de bajo riesgo. Quienes vivan en municipios de menos de 5.000 habitantes tendrán acceso a incentivos fiscales y ayudas específicas. Además, se facilita el acceso a la información y la gestión de cotizaciones a través de una plataforma digital centralizada.",
+  "professional_impact": "Las empresas y autónomos pueden acceder a nuevos mecanismos de financiación como el Fondo de Inversión Social o el Fondo para la Segunda Oportunidad. Los mediadores de emprendimiento facilitarán la transferencia de negocios y acuerdos financieros. La Administración tiene la obligación de simplificar la contratación pública mediante tecnología compatible y de realizar informes de impacto económico antes de regular nuevas medidas.",
+  "keywords": [
+    "emprendimiento",
+    "autónomos",
+    "Aragón",
+    "segunda oportunidad",
+    "relevo generacional",
+    "simplificación administrativa",
+    "despoblación"
+  ],
+  "key_points": [
+    "Creación de una Plataforma del emprendimiento y del trabajo autónomo para centralizar información, trámites y simular cotizaciones.",
+    "Sustitución de autorizaciones por declaraciones responsables para actividades de bajo riesgo, agilizando el inicio de actividad.",
+    "Implementación de la figura del 'emprendedor de segunda oportunidad' con asesoramiento tras fracasos previos.",
+    "Establecimiento de la 'declaración de inversión de interés autonómico' que reduce a la mitad los plazos de tramitación.",
+    "Incentivos fiscales y ayudas para autónomos que se instalen en municipios de menos de 5.000 habitantes.",
+    "Fomento del relevo generacional identificando negocios sin sucesores para facilitar su traspaso.",
+    "Creación de la figura del mediador de emprendimiento para acuerdos financieros y transferencia de negocios.",
+    "Implementación de un Fondo Especial para la Segunda Oportunidad para mediación concursal y acuerdos de pago.",
+    "Creación de un Fondo de Inversión Social mixto para financiar proyectos y cooperativas con intereses reducidos.",
+    "Obligación de la Administración de facilitar el acceso a la contratación pública mediante tecnología compatible (PROPROC y CODICE).",
+    "Creación de un Registro de autónomos y microempresas mediante declaración responsable para la gestión de ayudas.",
+    "Obligación de la Administración de emitir informes de impacto económico-administrativo antes de nuevas regulaciones."
+  ],
+  "legal_references": [
+    "Ley 7/2019, de 29 de marzo, de apoyo y fomento del emprendimiento y del trabajo autónomo en Aragón",
+    "Estatuto de Autonomía de Aragón",
+    "Ley 14/2013, de 27 de septiembre, de apoyo a los emprendedores y su internacionalización",
+    "Ley 20/2007, de 11 de julio, del Estatuto del Trabajo Autónomo",
+    "Ley 31/2015, de 9 de septiembre, por la que se modifica y actualiza la normativa de autoempleo",
+    "Ley 6/2017, de 24 de octubre, de Reformas Urgentes del Trabajo Autónomo",
+    "Real Decreto-ley 28/2018, de 28 de diciembre",
+    "Decreto 132/2018, de 24 de julio",
+    "Ley 39/2015, de 1 de diciembre, del Procedimiento Administrativo Común",
+    "Decreto-ley 1/2008, de 30 de octubre",
+    "Constitución Española"
+  ],
+  "derogatons": [],
+  "main_obligations": "La Administración debe elaborar los Planes Estratégicos en un plazo de 6 meses y aprobar un mapa de servicios en un plazo de un año tras el Plan de Emprendimiento. Asimismo, debe realizar informes de impacto económico-administrativo antes de cualquier nueva regulación que afecte al sector.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Declaración de inversión de interés autonómico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El emprendedor presenta el proyecto acompañado de un plan de viabilidad y memoria justificativa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Plan de viabilidad económico-financiera y memoria justificativa."
+        },
+        {
+          "step": 2,
+          "title": "Evaluación y resolución",
+          "description": "El Gobierno debe emitir la declaración; si no hay pronunciamiento en 3 meses, se entiende desestimada.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inicio de actividad mediante declaración responsable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de declaración responsable",
+          "description": "El interesado comunica el inicio de actividad asumiendo la responsabilidad de cumplir los requisitos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración responsable de cumplimiento de requisitos."
+        },
+        {
+          "step": 2,
+          "title": "Ejercicio de la actividad",
+          "description": "Se permite el inicio inmediato de la actividad sin esperar la inscripción registral o autorización.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Elaboración de Planes Estratégicos (Autónomo y Emprendimiento)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elevación de la propuesta",
+          "description": "El departamento de economía eleva los planes al Gobierno de Aragón.",
+          "start_date": "6 meses desde la entrada en vigor de la ley",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aprobación",
+          "description": "Aprobación mediante Acuerdo del Gobierno de Aragón tras información pública.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Creación del Mapa de servicios y procedimientos estandarizados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación del Mapa",
+          "description": "El titular del departamento aprueba y publica el mapa en el BOA.",
+          "start_date": "1 año tras la aprobación del Plan Estratégico del Emprendimiento",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acceso a la contratación pública para autónomos y microempresas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instauración de herramientas tecnológicas",
+          "description": "Implementación de formatos basados en equivalencia PPRÓC y CODICE.",
+          "start_date": "1 año",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inscripción en el Registro de autónomos y microempresas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inscripción",
+          "description": "Inscripción mediante declaración responsable.",
+          "start_date": "6 meses desde la entrada en vigor (para regulación)",
+          "end_date": null,
+          "required_documentation": "Declaración responsable"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

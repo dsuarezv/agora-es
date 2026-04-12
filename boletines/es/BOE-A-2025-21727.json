@@ -1,0 +1,94 @@
+{
+  "identifier": "BOE-A-2025-21727",
+  "title": "Orden HAC/1198/2025, de 21 de octubre, por la que se aprueba el modelo 240 «Comunicación de la entidad constitutiva declarante de la declaración informativa del Impuesto Complementario», el modelo 241 «Declaración informativa del Impuesto Complementario», y el modelo 242 «Autoliquidación del Impuesto Complementario» y se establecen las condiciones y el procedimiento para su presentación",
+  "visible_title": "Aprobación de los modelos 240, 241 y 242 para la gestión del Impuesto Complementario",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio de Hacienda",
+  "official_number": "HAC/1198/2025",
+  "publication_date": "2025-10-29",
+  "enactment_date": "2025-10-21",
+  "last_updated": "2025-10-29",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2025/10/21/hac1198",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "260",
+  "summary": "Esta norma establece los modelos y procedimientos técnicos para que los grandes grupos multinacionales cumplan con el nuevo Impuesto Complementario en España. Su objetivo es garantizar que estas empresas tributen con un tipo mínimo global del 15%, evitando el traslado de beneficios a paraísos fiscales. Para ello, regula la comunicación de quién declara, la presentación de la información detallada del grupo y la liquidación final del impuesto.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta directamente a los departamentos fiscales y contables de grupos multinacionales con ingresos superiores a 750 millones de euros. Impone nuevas cargas administrativas mediante la presentación obligatoria de tres modelos específicos (240, 241 y 242) de forma electrónica, exigiendo una coordinación técnica precisa con los estándares de la OCDE.",
+  "keywords": [
+    "Impuesto Complementario",
+    "Multinacionales",
+    "Modelo 240",
+    "Modelo 241",
+    "Modelo 242",
+    "Tributación mínima global",
+    "OCDE",
+    "Pilar Dos"
+  ],
+  "key_points": [
+    "Aprobación del Modelo 240 para comunicar qué entidad del grupo será la responsable de presentar la declaración informativa.",
+    "Aprobación del Modelo 241 para la declaración informativa detallada sobre la estructura del grupo y el cálculo del impuesto.",
+    "Aprobación del Modelo 242 para la autoliquidación y el pago efectivo de la deuda tributaria.",
+    "Obligatoriedad de presentación exclusivamente por vía electrónica.",
+    "El Modelo 241 debe seguir el formato XML estandarizado por la OCDE para facilitar el intercambio internacional de datos.",
+    "Se establece un régimen de transición para los primeros periodos imponitivos.",
+    "Posibilidad de presentar una declaración informativa simplificada para ciertos periodos de transición."
+  ],
+  "legal_references": [
+    "Directiva (UE) 2022/2523",
+    "Ley 7/2024, de 20 de diciembre",
+    "Real Decreto 252/2025, de 1 de abril",
+    "Ley 3/2025, de 29 de abril",
+    "Ley 4/2025, de 24 de julio",
+    "Orden HAP/2194/2013",
+    "Orden EHA/1658/2009",
+    "Orden EHA/2027/2007"
+  ],
+  "derogations": [],
+  "main_obligations": "Los grupos obligados deben presentar el Modelo 240 (comunicación de entidad declarante) al menos tres meses antes de que venza el plazo de la declaración informativa. El Modelo 241 (declaración informativa) debe presentarse antes del último día del mes 15 tras el cierre del ejercicio. El Modelo 242 (autoliquidación) debe presentarse y pagarse en los 25 días naturales siguientes al vencimiento del plazo del Modelo 241.",
+  "effective_date": "2025-10-30",
+  "procedures": [
+    {
+      "name": "Comunicación de la entidad declarante (Modelo 240)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación del Modelo 240",
+          "descrption": "Comunicar la identificación y residencia de la entidad que presentará la declaración informativa.",
+          "start_date": "Al menos 3 meses antes del plazo del modelo 241",
+          "end_date": null,
+          "required_documentation": "Datos de la entidad matriz o designada según Anexo I"
+        }
+      ]
+    },
+    {
+      "name": "Declaración informativa del Impuesto Complementario (Modelo 241)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Envío de mensajes informáticos",
+          "descrption": "Presentación de la información detallada sobre la estructura del grupo y cálculos del impuesto mediante formato XML.",
+          "start_date": null,
+          "end_date": "Último día del mes 15 posterior al cierre del periodo",
+          "required_documentation": "Datos de entidades, estructura de grupo y cálculos según Anexo II"
+        }
+      ]
+    },
+    {
+      "name": "Autoliquidación del Impuesto Complementario (Modelo 242)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Determinación e ingreso de la deuda",
+          "descrption": "Presentación electrónica de la liquidación y pago de la deuda tributaria.",
+          "start_date": null,
+          "end_date": "25 días naturales tras el vencimiento del modelo 241",
+          "required_documentation": "Modelo 242 cumplimentado según Anexo III"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

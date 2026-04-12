@@ -1,0 +1,84 @@
+{
+  "identifier": "BOE-A-2010-10715",
+  "title": "Ley 5/2010, de 16 de junio, reguladora del Consejo Consultivo de las Illes Balears",
+  "visible_title": "Ley reguladora del Consejo Consultivo de las Illes Balears",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "5/2010",
+  "publication_date": "2010-07-06",
+  "enactment_date": "2010-06-16",
+  "last_updated": "2024-12-13",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2010/06/16/5",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley redefine la estructura, composición y funciones del Consejo Consultivo de las Illes Balears para adaptarlo al nuevo Estatuto de Autonomía. Amplía el número de miembros de siete a diez expertos para garantizar una mayor capacidad técnica y profesional. Establece nuevas obligaciones de consulta obligatoria para el Gobierno en proyectos de ley y disposiciones reglamentarias. Además, crea un cuerpo propio de letrados para asegurar la calidad jurídica de sus dictámenes.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta a juristas y funcionarios de la Administración autonómica, creando un nuevo cuerpo de letrados con acceso mediante procesos selectivos. Los miembros del Consejo deben cumplir un régimen de incompatibilidades muy estricto para evitar conflictos de interés. También establece nuevas reglas para la gestión de personal y la contratación pública dentro del órgano.",
+  "keywords": [
+    "Consejo Consultivo",
+    "Illes Balears",
+    "asesoramiento jurídico",
+    "administración pública",
+    "dictámenes",
+    "jurisprudencia autonómica"
+  ],
+  "key_points": [
+    "Aumento de la composición del Consejo de 7 a 10 miembros.",
+    "Nueva forma de elección: 4 miembros por el Parlamento y 6 designados por el Gobierno.",
+    "Obligación de dictaminar proyectos de ley del Gobierno según el Estatuto de Autonomía.",
+    "Creación de un cuerpo de letrados profesionales para la asistencia técnica.",
+    "Establecimiento de la suspensión cautelar automática de consejeros si son procesados judicialmente.",
+    "Regulación estricta de incompatibilidades para garantizar la independencia y objetividad.",
+    "Plazos de resolución de consultas: generalmente un mes, con casos de urgencia de 15 días hábiles.",
+    "Garantía de publicidad de los dictámenes y votos particulares en castellano y catalán."
+  ],
+  "legal_references": [
+    "Ley Orgánica 3/1980 (LOCE)",
+    "Sentencia del Tribunal Constitucional 204/1992",
+    "Ley 5/1993 del Consejo Consultivo de les Illes Balears",
+    "Ley Orgánica 2/1983 (Estatuto de Autonomía de las Illes Balears)",
+    "Ley Orgánica 1/2007 (Reforma del Estatuto de Autonomía)",
+    "Ley 30/1992 de régimen jurídico de las administraciones públicas",
+    "Ley 3/2007 de la función pública de las Illes Balears"
+  ],
+  "derogations": [
+    "Ley 5/1993, de 15 de junio, del Consejo Consultivo de las Illes Balears"
+  ],
+  "main_obligations": "El Consejo debe emitir dictámenes en plazos determinados (1 mes por defecto, 15 días si es urgente). El Gobierno está obligado a consultar al Consejo en los supuestos previstos por el Estatuto y esta ley, debiendo especificar si sigue o no el dictamen emitido.",
+  "effective_date": "2010-07-07",
+  "procedures": [
+    {
+      "name": "Procedimiento de consulta al Consejo Consultivo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de dictamen",
+          "description": "El órgano interesado presenta la consulta acompañada de toda la documentación necesaria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Expediente completo y documentación relacionada con la cuestión planteada."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y plazo de resolución",
+          "description": "El Consejo resuelve la consulta en un plazo general de un mes, o 15 días si se justifica urgencia.",
+          "start_date": "Desde la recepción de la solicitud",
+          "end_date": "1 mes (o 15 días hábiles si es urgente, o 30 días adicionales por complejidad)",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Emisión y publicación del dictamen",
+          "description": "Se aprueba el dictamen en el Pleno y se publica íntegramente en catalán y castellano.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

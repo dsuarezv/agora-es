@@ -1,0 +1,117 @@
+{
+  "identifier": "BOE-A-2002-20381",
+  "title": "Ley 5/2002, de 8 de octubre, de Protección del Medio Ambiente en La Rioja",
+  "visible_title": "Protección del Medio Ambiente en La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "5/2002",
+  "publication_date": "2002-10-22",
+  "enactment_date": "2002-10-08",
+  "last_updated": "2017-05-12",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2002/10/08/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas para prevenir y reparar daños al medio ambiente en la comunidad de La Rioja. Su objetivo es asegurar que cualquier actividad que pueda contaminar sea controlada mediante licencias y evaluaciones de impacto. Implementa el principio de que quien contamina debe hacerse cargo de los costes de reparación. Además, crea mecanismos de control y sanciones severas para garantizar el cumplimiento de la normativa ambiental.",
+  "citizen_impact": "Garantiza un entorno más protegido y saludable para los habitantes de La Rioja. Aunque no afecta directamente al día a día de la mayoría, asegura que las actividades industriales cercanas no degraden el medio ambiente sin consecuencias.",
+  "professional_impact": "Afecta gravemente a empresas e industrias, que ahora deben gestionar Autorizaciones Ambientales Integradas para unificar permisos. Introduce la obligación de presentar estudios de impacto, la posibilidad de inspecciones sin previo aviso y la responsabilidad financiera de reparar daños, pudiendo enfrentar multas de hasta 2,5 millones de euros.",
+  "keywords": [
+    "medio ambiente",
+    "La Rioja",
+    "impacto ambiental",
+    "autorización integrada",
+    "responsabilidad ambiental",
+    "sanciones ambientales",
+    "prevención de daños"
+  ],
+  "key_points": [
+    "Aplicación del principio 'quien contamina paga', permitiendo exigir fianzas o seguros de responsabilidad civil.",
+    "Las industrias de alto impacto requieren una Autorización Ambiental Integrada que unifica todos los permisos sectoriales.",
+    "Creación del Fondo de Conservación Ambiental para cubrir daños cuando el responsable sea insolvente o desconocido.",
+    "Existencia de un Registro de Infractores para personas y empresas sancionadas.",
+    "Las inspecciones ambientales pueden realizarse sin notificación previa durante el horario de funcionamiento.",
+    "El incumplimiento de las condiciones ambientales puede provocar la suspensión inmediata de la actividad.",
+    "Mandato de cumplimiento obligatorio para todos los ciudadanos, autoridades y tribunales de La Rioja."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 45)",
+    "Estatuto de Autonomía de La Rioja",
+    "Directiva 85/337/CEE",
+    "Directiva 96/61/CEE",
+    "Directiva 2001/42/CE",
+    "Ley 6/2001, de 8 de mayo",
+    "Real Decreto Legislativo 1302/1986",
+    "Tratado de Roma (Artículo 130.R.2)",
+    "Ley 21/1992 (Industria)",
+    "Ley 30/1992"
+  ],
+  "derogations": [
+    "Normas que contravengan o se opongan a la presente Ley"
+  ],
+  "main_obligations": "Obligación de presentar Estudios de Impacto Ambiental para proyectos específicos y comunicar cambios de titularidad en un plazo de 3 meses. Asimismo, es imperativo restaurar el medio ambiente tras cualquier daño causado.",
+  "effective_date": "2002-11-11",
+  "procedures": [
+    {
+      "name": "Evaluación de Impacto Ambiental",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación del Estudio de Impacto Ambiental",
+          "descrption": "El promotor debe presentar el documento técnico con la valoración de efectos ambientales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudio de Impacto Ambiental y documentación técnica"
+        },
+        {
+          "step": 2,
+          "title": "Información Pública",
+          "descrption": "El estudio se somete a consulta pública para recibir alegaciones.",
+          "start_date": "mínimo 20 días",
+          "end_date": "máximo 2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Emisión de la Declaración de Impacto Ambiental",
+          "descrption": "El órgano ambiental determina la conveniencia del proyecto y las medidas correctoras.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Licencia Ambiental Municipal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud",
+          "descrption": "Presentación de la solicitud ante el Ayuntamiento con memoria ambiental.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto firmado por técnico competente y memoria ambiental"
+        },
+        {
+          "step": 2,
+          "title": "Información Pública y Consultas",
+          "descrption": "El Ayuntamiento somete la solicitud a información pública y solicita informes a otros órganos.",
+          "start_date": "20 días (información pública)",
+          "end_date": "30 días (plazo de informes)",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "descrption": "El Alcalde dicta la resolución otorgando o denegando la licencia.",
+          "start_date": null,
+          "end_date": "máximo 3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

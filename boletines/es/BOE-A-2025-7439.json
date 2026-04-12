@@ -1,0 +1,107 @@
+{
+  "identifier": "BOE-A-2025-7439",
+  "title": "Real Decreto 214/2025, de 18 de marzo, por el que se crea el registro de huella de carbono, compensación y proyectos de absorción de dióxido de carbono y por el que se establece la obligación del cálculo de la huella de carbono y de la elaboración y publicación de planes de reducción de emisiones de gases de efecto invernadero",
+  "visible_title": "Creación del registro de huella de carbono, compensación y proyectos de absorción de CO2 y obligación de calcular emisiones y planes de reducción",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio para la Transición Ecológica y el Reto Demográfico",
+  "official_number": "214/2025",
+  "publication_date": "2025-04-12",
+  "enactment_date": "2025-03-18",
+  "last_updated": "2025-04-12",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/03/18/214",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "89",
+  "summary": "Esta norma crea un nuevo registro oficial para centralizar la información sobre huella de carbono, proyectos de absorción de CO2 y compensaciones en España. Su objetivo es facilitar el cumplimiento de los compromisos climáticos internacionales mediante la transparencia y la trazabilidad de las emisiones. Además, impone por primera vez la obligación de calcular la huella de carbono y publicar planes de reducción a la Administración General del Estado y sus organismos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo por una mayor transparencia en la información ambiental que las instituciones y grandes empresas deben hacer pública.",
+  "professional_impact": "Las grandes empresas (con más de 500 empleados o de interés público) deben seguir publicando su huella de carbono, pero la Administración Pública ahora tiene la obligación de inscribirse anualmente en el registro a partir de 2026. Los gestores de proyectos de absorción de CO2 (como comunidades de montes) obtienen un marco para inscribir sus proyectos y obtener reconocimiento oficial. También se introduce la posibilidad de usar la huella de carbono como criterio en la contratación pública.",
+  "keywords": [
+    "huella de carbono",
+    "emisiones de gases de efecto invernadero",
+    "compensación de CO2",
+    "proyectos de absorción",
+    "cambio climático",
+    "registro de carbono"
+  ],
+  "key_points": [
+    "Creación de un registro público con tres secciones: huella de carbono, proyectos de absorción y compensación.",
+    "Obligatoriedad para la Administración General del Estado de calcular su huella y plan de reducción, con inscripción anual desde 2026.",
+    "Las grandes empresas mantienen su obligación de informar, pero su inscripción en el registro es voluntaria.",
+    "Se permite la interoperabilidad entre el registro estatal y los registros autonómicos.",
+    "Los proyectos de absorción de CO2 pueden inscribirse en el Registro de la Propiedad para dar seguridad jurídica a los derechos sobre las absorciones.",
+    "Se crea una 'bolsa de garantía' para asegurar la permanencia de las absorciones de carbono en proyectos de absorción.",
+    "La huella de carbono podrá ser un criterio de valoración en los procedimientos de contratación pública.",
+    "Los proyectos de absorción deben garantizar la adicionalidad y el almacenamiento a largo plazo del carbono."
+  ],
+  "legal_references": [
+    "Ley 7/2021, de 20 de mayo, de cambio climático y transición energética",
+    "Código de Comercio (artículo 49.5)",
+    "Ley de Sociedades de Capital (artículo 262.5)",
+    "Real Decreto 163/2014",
+    "Ley 11/2018, de 28 de diciembre",
+    "Ley 39/2015, de 1 de octubre",
+    "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Reglamento (UE) 2021/1119"
+  ],
+  "derogations": [
+    "Real Decreto 163/2014, de 14 de marzo"
+  ],
+  "main_obligations": "La Administración General del Estado y sus organismos deben calcular anualmente su huella de carbono y elaborar un plan de reducción, inscribiéndose obligatoriamente en el registro a partir de 2026. Las grandes empresas deben calcular su huella y publicar su plan de reducción de forma anual en sus informes de sostenibilidad.",
+  "effective_date": "2025-06-12",
+  "procedures": [
+    {
+      "name": "Inscripción en el Registro de Huella de Carbono (Sección a)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "descrption": "Remisión de solicitud mediante formularios electrónicos a través de la sede electrónica del Ministerio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe de huella de carbono, certificado de verificación (si procede) y plan de reducción de emisiones."
+        },
+        {
+          "step": 2,
+          "title": "Subsanación de errores",
+          "descrption": "Plazo para corregir deficiencias en la documentación presentada.",
+          "start_date": "10 días hábiles tras el requerimiento",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "descrption": "Decisión de la Oficina Española de Cambio Climático sobre la inscripción.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inscripción en el Registro de Proyectos de Absorción (Sección b)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "descrption": "Envío de documentación técnica y de titularidad del proyecto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Cálculo de absorciones, croquis del área (.shp), documentos de uso del suelo, autorización administrativa, certificación del Registro de la Propiedad y plan de gestión."
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "descrption": "Decisión administrativa sobre la inscripción del proyecto.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,92 @@
+{
+  "identifier": "BOE-A-2015-4620",
+  "title": "Ley 7/2015, de 1 de abril, de los municipios de Canarias",
+  "visible_title": "Ley de los municipios de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "7/2015",
+  "publication_date": "2015-04-28",
+  "enactment_date": "2015-04-01",
+  "last_updated": "2022-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2015/04/01/7",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley redefine cómo se organizan y gestionan los ayuntamientos en Canarias, otorgándoles mayor autonomía para decidir sobre su propio territorio y servicios. Introduce mecanismos modernos de participación ciudadana y digitalización obligatoria para mejorar la transparencia. Además, permite nuevas formas de gestión de recursos, como la creación de áreas metropolitanas o el pago de impuestos en especie. En definitiva, busca que los municipios sean más ágiles, digitales y cercanos a las necesidades de sus vecinos.",
+  "citizen_impact": "Los vecinos ganan voz directa en la política local mediante consejos de barrio y sector, y tienen derecho a intervenir oralmente en los Plenos con aviso previo. La digitalización facilita trámites y garantiza el acceso a la información mediante un tablón de anuncios electrónico. Además, se abre la posibilidad de sustituir multas administrativas por trabajos en beneficio de la comunidad.",
+  "professional_impact": "Los ayuntamientos deben digitalizar toda su comunicación oficial y adaptar sus reglamentos. Las empresas pueden beneficiarse de contratos menores con cuantías superiores a las estatales y de la gestión de servicios mediante áreas metropolitanas. Los funcionarios y cargos políticos deben ajustarse a nuevas reglas sobre concejales no adscritos y la obligatoriedad de informes de eficiencia en la intervención.",
+  "keywords": [
+    "municipios Canarias",
+    "autonomía local",
+    "participación ciudadana",
+    "gestión municipal",
+    "administración electrónica",
+    "ayuntamientos"
+  ],
+  "key_points": [
+    "Garantía de autonomía municipal para gestionar intereses propios y organizar su administración.",
+    "Creación de órganos de participación: Consejos de Participación Ciudadana, de Barrio y de Sector.",
+    "Derecho de los vecinos a solicitar intervención oral en los Plenos municipales (con 48 horas de antelación).",
+    "Obligatoriedad de implementar un tablón de anuncios electrónico y uso de medios digitales para comunicaciones.",
+    "Posibilidad de sustituir multas administrativas por trabajos en beneficio de la comunidad vecinal.",
+    "Permiso para que los ayuntamientos admitan el pago de tributos locales en especie.",
+    "Facilidad para realizar contratos menores con cuantías superiores a las de la legislación estatal.",
+    "Creación de Áreas Metropolitanas para gestionar servicios que superan el límite de un solo municipio.",
+    "Autorización para celebrar sesiones de órganos colegiados mediante medios electrónicos.",
+    "Limitación de derechos económicos y prohibición de cargos directivos para concejales no adscritos.",
+    "Los municipios tienen la iniciativa exclusiva en procesos de fusión o segregación de términos municipales."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Canarias",
+    "Ley de Racionalización y Sostenibilidad de la Administración Local",
+    "Artículo 105.b de la Constitución Española",
+    "Ley 27/2013, de 27 de diciembre, de Racionalización y Sostenibilidad de la Administración Local",
+    "Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias"
+  ],
+  "derogations": [
+    "Título V de la Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias"
+  ],
+  "main_obligations": "Los ayuntamientos deben adaptar sus reglamentos y ordenanzas a esta ley antes del 1 de enero de 2017. Las fundaciones públicas municipales tienen un plazo de 6 meses para adaptarse a la nueva normativa o serán extinguidas automáticamente.",
+  "effective_date": "2015-05-28",
+  "procedures": [
+    {
+      "name": "Intervención ciudadana en el Pleno",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de intervención",
+          "description": "El vecino debe solicitar su derecho a intervenir oralmente en la sesión del Pleno.",
+          "start_date": "48 horas antes de la sesión",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación normativa municipal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adaptación de reglamentos y ordenanzas",
+          "description": "Los ayuntamientos deben ajustar su normativa interna a lo dispuesto en esta ley.",
+          "start_date": "2015-05-28",
+          "end_date": "2017-01-01",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Adaptación de fundaciones públicas municipales",
+          "description": "Las fundaciones deben ajustar su funcionamiento a la nueva ley para evitar la extinción.",
+          "start_date": "2015-05-28",
+          "end_date": "6 meses tras la entrada en vigor",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

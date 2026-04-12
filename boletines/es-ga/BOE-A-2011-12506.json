@@ -1,0 +1,89 @@
+{
+  "identifier": "BOE-A-2011-12506",
+  "title": "Ley 2/2011, de 16 de junio, de disciplina presupuestaria y sostenibilidad financiera",
+  "visible_title": "Ley de disciplina presupuestaria y sostenibilidad financiera",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "2/2011",
+  "publication_date": "2011-07-20",
+  "enactment_date": "2011-06-16",
+  "last_updated": "2017-02-09",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2011/06/16/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas de juego para que la administración de Galicia no gaste más de lo que puede permitir su economía a largo plazo. Introduce límites estrictos al gasto no financiero y obliga a planificar los presupuestos mirando hacia los próximos tres años, no solo el año actual. Su objetivo es evitar que la deuda crezca de forma descontrolada y asegurar que los servicios públicos sigan siendo sostenibles incluso en crisis económicas.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, más allá de la garantía indirecta de que los servicios públicos autonómicos cuenten con una gestión financiera responsable para evitar impagos o colapsos económicos.",
+  "professional_impact": "Afecta directamente a gestores públicos, directivos de organismos autónomos, universidades públicas y empresas del sector público gallego. Estos profesionales ahora deben cumplir con estrictos controles de gasto, elaborar informes de estrategia plurianual y asumir responsabilidad directa por el incumplimiento de los objetivos de estabilidad.",
+  "keywords": [
+    "disciplina presupuestaria",
+    "sostenibilidad financiera",
+    "gasto público",
+    "deuda pública",
+    "estabilidad presupuestaria",
+    "Galicia",
+    "sector público"
+  ],
+  "key_points": [
+    "Establecimiento de un límite máximo de gasto no financiero aprobado por el Parlamento.",
+    "Obligación de elaborar un informe de estrategia financiero-fiscal con una previsión de tres años.",
+    "Prohibición de realizar modificaciones presupuestarias que generen déficit, salvo fondos ya recaudados.",
+    "Regla de oro: los gastos corrientes deben financiarse con ingresos corrientes.",
+    "Obligación de usar los ingresos extraordinarios para reducir deuda en lugar de aumentar el gasto corriente.",
+    "Responsabilidad individual de los gestores por el incumplimiento de los objetivos de estabilidad.",
+    "Nuevas exigencias de transparencia y publicación de datos financieros para cualquier interesado.",
+    "Regulación específica de la gestión financiera para las universidades públicas de Galicia."
+  ],
+  "legal_references": [
+    "Real decreto legislativo 2/2007, de 28 de diciembre",
+    "Ley 2/2011, de 4 de marzo, de economía sostenible",
+    "Estatuto de autonomía de Galicia",
+    "Ley 16/2010, de 17 de diciembre",
+    "Ley 1/1983, de 23 de febrero",
+    "Artículo 135 de la Constitución española"
+  ],
+  "derogatons": [
+    "Todas las normas que contradigan o se opongan a lo dispuesto en esta ley"
+  ],
+  "main_obligations": "Los agentes del sector público deben cumplir con los objetivos de estabilidad y deuda fijados, remitiendo información periódica a la Intervención General. En caso de incumplimiento, deben presentar un plan económico-financiero o de reequilibrio en plazos estrictos (10 días para liquidaciones en ciertos casos).",
+  "effective_date": "2011-07-21",
+  "procedures": [
+    {
+      "name": "Elaboración del escenario presupuestario plurianual",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Confección del informe de estrategia financiero-fiscal",
+          "description": "La consejería de hacienda elabora la previsión de ingresos y gastos para los tres ejercicios siguientes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe de estrategia financiero-fiscal"
+        },
+        {
+          "step": 2,
+          "title": "Aprobación del límite de gasto no financiero",
+          "description": "El Consejo de la Xunta acuerda el límite de gasto y lo remite al Parlamento para su aprobación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de incumplimiento de estabilidad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Detección de incumplimiento en la liquidación",
+          "description": "Si la liquidación presupuestaria no cumple los objetivos, el agente debe actuar inmediatamente.",
+          "start_date": null,
+          "end_date": "10 días desde la constatación",
+          "required_documentation": "Plan económico-financiero"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

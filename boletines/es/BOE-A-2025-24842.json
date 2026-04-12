@@ -1,0 +1,83 @@
+{
+  "identifier": "BOE-A-2025-24842",
+  "title": "Orden TED/1393/2025, de 2 de diciembre, por la que se establece la Instrucción técnica complementaria para determinar bajo qué circunstancias un vertedero clausurado ya no constituye un riesgo significativo para el medio ambiente",
+  "visible_title": "Instrucción técnica para determinar cuándo un vertedero clausurado deja de ser un riesgo ambiental",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio para la Transición Ecológica y el Reto Demográfico",
+  "official_number": "TED/1393/2025",
+  "publication_date": "2025-12-06",
+  "enactment_date": "2025-12-02",
+  "last_updated": "2025-12-06",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2025/12/02/ted1393",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "293",
+  "summary": "Esta norma establece los criterios técnicos objetivos para decidir si un vertedero que ya ha cumplido su periodo mínimo de vigilancia de 30 años puede considerarse seguro para el medio ambiente. Define parámetros específicos sobre lixiviados, aguas subterráneas, gases y estabilidad del terreno para evitar decisiones arbitrarias. Si el vertedero no cumple estos criterios, las autoridades pueden prorrogar la vigilancia o exigir medidas correctoras.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta directamente a las empresas explotadoras de vertederos y a las autoridades ambientales de las Comunidades Autónomas. Las empresas obtienen un marco claro para finalizar sus obligaciones de mantenimiento y vigilancia, mientras que las autoridades disponen de herramientas estadísticas para justificar prórrogas o exigir medidas adicionales. También establece que los costes de prórrogas no previstas deben cubrirse con las fianzas o por los titulares/propietarios del terreno.",
+  "keywords": [
+    "vertederos clausurados",
+    "riesgo ambiental",
+    "vigilancia postclausura",
+    "lixiviados",
+    "gases de vertedero",
+    "estabilidad geotécnica",
+    "aguas subterráneas"
+  ],
+  "key_points": [
+    "Establece 4 criterios técnicos para declarar un vertedero como 'sin riesgo significativo': aislamiento hidráulico, calidad de aguas subterráneas, control de gases y estabilidad mecánica.",
+    "Permite a las autoridades eximir a las empresas de sus deberes de vigilancia y mantenimiento si se cumplen todos los criterios.",
+    "Faculta la prórroga de la vigilancia por periodos de 5 años si no se alcanzan los niveles de seguridad requeridos.",
+    "Define límites específicos para gases (ej. menos de 50 m3/h de gas extraíble o concentraciones de metano y ácido sulfhídrico por debajo de ciertos umbrales).",
+    "Obliga a realizar análisis estadísticos (como el método bootstrapping) para evaluar la acumulación de lixiviados.",
+    "Establece que los costes de prórrogas de vigilancia deben pagarse con las fianzas constituidas o por los titulares/propietarios del terreno.",
+    "Se aplica a vertederos que hayan terminado su periodo de vigilancia de 30 años, pero puede aplicarse en cualquier fase del ciclo de vida."
+  ],
+  "legal_references": [
+    "Ley 22/2011, de 28 de julio, de residuos y suelos contaminados",
+    "Real Decreto 646/2020, de 7 de julio",
+    "Directiva (UE) 2018/850",
+    "Ley 39/2015, de 1 de diciembre, del Procedimiento Administrativo Común",
+    "Ley 7/2022, de 8 de abril",
+    "Ley 50/1997, de 27 de noviembre, del Gobierno",
+    "Ley 27/2006, de 18 de julio, de acceso a la información y participación pública en materia de medio ambiente",
+    "Constitución Española (art. 149.1.23.ª)"
+  ],
+  "derogations": [],
+  "main_obligations": "Los titulares de vertederos deben cumplir con los criterios de aislamiento, calidad de agua, control de gases y estabilidad mecánica para finalizar su responsabilidad. En caso de incumplimiento tras la prórroga, deben elaborar un análisis de riesgos específico y asumir los costes de las medidas correctoras o de la vigilancia extendida.",
+  "effective_date": "2025-12-26",
+  "procedures": [
+    {
+      "name": "Evaluación de la seguridad del vertedero clausurado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Finalización del periodo de vigilancia postclausura",
+          "description": "Cumplimiento de los 30 años mínimos de vigilancia obligatoria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Programas de vigilancia y registros de datos ambientales"
+        },
+        {
+          "step": 2,
+          "title": "Evaluación de criterios técnicos",
+          "description": "La autoridad ambiental comprueba el cumplimiento de los 4 criterios (lixiviados, aguas, gases y estabilidad).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Resultados de balances hídricos, análisis de piezómetros, mediciones de gases y levantamientos topográficos"
+        },
+        {
+          "step": 3,
+          "title": "Resolución de riesgo o prórroga",
+          "description": "Si se cumplen los criterios, se exime de vigilancia. Si no, se puede prorrogar la vigilancia 5 años o exigir medidas correctoras.",
+          "start_date": null,
+          "end_date": "2 años tras la evaluación",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

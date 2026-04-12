@@ -1,0 +1,107 @@
+{
+  "identifier": "BOE-A-1985-18953",
+  "title": "Ley 2/1985, de 8 de mayo, sobre iniciativa legislativa popular y de los Ayuntamientos de Castilla-La Mancha",
+  "visible_title": "Ley de Iniciativa Legislativa Popular y de los Ayuntamientos de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Junta de Comunidades de Castilla-La Mancha",
+  "official_number": "2/1985",
+  "publication_date": "1985-09-04",
+  "enactment_date": "1985-05-08",
+  "last_updated": "1985-05-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/1985/05/08/2",
+  "official_journal": "Diario Oficial de la Comunidad Autónoma de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta norma establece los mecanismos para que los ciudadanos y los Ayuntamientos de Castilla-La Mancha puedan proponer leyes directamente ante las Cortes regionales. Define los requisitos de firmas, los documentos necesarios y los límites de materias sobre las que se puede legislar. Su objetivo es fomentar la participación democrática directa en la creación de leyes autonómicas.",
+  "citizen_impact": "Permite a los ciudadanos mayores de edad inscritos en el censo electoral proponer leyes regionales si consiguen reunir al menos 20.000 firmas. Esto otorga un poder de incidencia política directa para llevar temas de interés social al debate parlamentario.",
+  "professional_impact": "Los ayuntamientos pueden actuar como colectivos legisladores si se agrupan al menos seis municipios con un censo conjunto de 20.000 electores. Los notarios, secretarios judiciales y secretarios municipales asumen la carga de autenticar las firmas de los proponentes.",
+  "keywords": [
+    "iniciativa legislativa popular",
+    "participación ciudadana",
+    "Cortes de Castilla-La Mancha",
+    "ayuntamientos",
+    "derecho de petición",
+    "legislación autonómica"
+  ],
+  "key_points": [
+    "Los ciudadanos necesitan un mínimo de 20.000 firmas para presentar una propuesta de ley.",
+    "Se prohíbe proponer leyes sobre temas tributarios, presupuestarios o de organización territorial.",
+    "La recogida de firmas tiene un plazo máximo de tres meses tras la admisión de la propuesta.",
+    "Las firmas deben ser autenticadas por notario, secretario judicial o secretario municipal.",
+    "Los Ayuntamientos pueden presentar leyes si se unen al menos seis municipios con 20.000 electores en total.",
+    "Existe una indemnización para la Comisión Promotora de hasta un millón de pesetas si la ley llega a tramitación.",
+    "Las propuestas de ley no caducan si las Cortes se disuelven durante su tramitación."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Castilla-La Mancha (artículo 12.1)",
+    "Ley Orgánica 9/1982, de 10 de agosto",
+    "Ley Orgánica 3/1984, de 26 de marzo",
+    "Ley Orgánica 23/1979, de 3 de octubre"
+  ],
+  "derogations": [],
+  "main_obligations": "Los promotores deben presentar una propuesta con texto articulado, exposición de motivos y memoria detallada. Las firmas deben incluir nombre, apellidos, DNI y municipio, y ser autenticadas formalmente para que la propuesta sea admitida.",
+  "effective_date": "1985-09-05",
+  "procedures": [
+    {
+      "name": "Iniciativa Legislativa Popular",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la propuesta",
+          "description": "Entrega ante la Mesa de las Cortes del texto de la ley, memoria y datos de la Comisión Promotora.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Texto articulado, exposición de motivos, memoria y relación de la Comisión Promotora."
+        },
+        {
+          "step": 2,
+          "title": "Examen de admisibilidad",
+          "description": "La Mesa de las Cortes decide si la propuesta cumple los requisitos legales.",
+          "start_date": "Desde la presentación",
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Recogida de firmas",
+          "description": "Tras la admisión, la Comisión Promotora debe recoger las firmas necesarias en los pliegos sellados.",
+          "start_date": "Día siguiente a la devolución de los pliegos",
+          "end_date": "3 meses",
+          "required_documentation": "Plegos sellados por la Mesa de las Cortes."
+        },
+        {
+          "step": 4,
+          "title": "Entrega de firmas y recuento",
+          "description": "Entrega de los pliegos con firmas autenticadas y recuento público por la Mesa.",
+          "start_date": "Tras el plazo de recogida",
+          "end_date": "10 días tras el vencimiento del plazo de recogida",
+          "required_documentation": "Plegos con firmas y certificaciones de inscripción en el censo."
+        }
+      ]
+    },
+    {
+      "name": "Iniciativa Legislativa de los Ayuntamientos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la propuesta municipal",
+          "description": "Presentación de la propuesta aprobada por mayoría absoluta de al menos seis ayuntamientos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Texto de la ley, memoria, acta de acuerdo municipal y certificaciones de población."
+        },
+        {
+          "step": 2,
+          "title": "Examen de admisibilidad",
+          "description": "La Mesa de las Cortes examina la documentación y decide sobre su admisión.",
+          "start_date": "Desde la presentación",
+          "end_date": "15 días",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

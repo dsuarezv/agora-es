@@ -1,0 +1,126 @@
+{
+  "identifier": "BOE-A-2014-9898",
+  "title": "Ley 3/2014, de 11 de septiembre, de Transparencia y Buen Gobierno de La Rioja",
+  "visible_title": "Ley de Transparencia y Buen Gobierno de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "3/2014",
+  "publication_date": "2014-10-01",
+  "enactment_date": "2014-09-11",
+  "last_updated": "2021-02-01",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2014/09/11/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un marco de máxima apertura de la Administración de La Rioja hacia la ciudadanía. Obliga a los organismos públicos a publicar de forma proactiva su actividad, gastos y organización, además de garantizar el derecho de cualquier persona a solicitar información sin necesidad de justificar su interés. También introduce la reutilización de datos públicos y el uso de software libre para mejorar la eficiencia y el control social sobre el gasto público.",
+  "citizen_impact": "Los ciudadanos ganan el derecho real de saber cómo se gestionan sus impuestos y cómo se toman las decisiones que les afectan. Permite acceder a documentos públicos de forma gratuita y digital, facilitando la participación en procesos de planificación de la región.",
+  "professional_impact": "Los funcionarios y cargos públicos tienen la obligación de gestionar y facilitar la información solicitada, bajo riesgo de sanciones por incumplimiento de las normas de buen gobierno. Las empresas que reciban más de 100.000 € en subvenciones o que obtengan el 40% de sus ingresos de fondos públicos también deben cumplir con estándares de transparencia.",
+  "keywords": [
+    "transparencia",
+    "acceso a la información pública",
+    "buen gobierno",
+    "datos abiertos",
+    "software libre",
+    "participación ciudadana",
+    "La Rioja"
+  ],
+  "key_points": [
+    "Creación de un Portal de la Transparencia para centralizar toda la información pública accesible.",
+    "Obligación de publicar contratos, subvenciones, sueldos de altos cargos y planes anuales.",
+    "Derecho de acceso a la información sin necesidad de motivar la solicitud.",
+    "Garantía de que la información sea accesible para personas con discapacidad.",
+    "Fomento de la reutilización de documentos públicos para fines comerciales o no comerciales.",
+    "Promoción del uso de software libre en la administración autonómica.",
+    "Obligación de transparencia para entidades privadas que reciban grandes cuantías de fondos públicos.",
+    "Derecho de participación ciudadana con periodos de exposición pública de al menos un mes para planes generales."
+  ],
+  "legal_references": [
+    "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno",
+    "Estatuto de Autonomía de La Rioja",
+    "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+    "Ley 5/2017",
+    "Ley 11/2005, de 19 de octubre, de Patrimonio de la Comunidad Autónoma de La Rioja",
+    "Ley 4/1994, de 24 de mayo, de Archivos y Patrimonio Documental de La Rioja",
+    "Ley 37/2007, de 16 de julio, sobre reutilización de la información del sector público",
+    "Ley 8/2003, de 28 de octubre, del Gobierno e incompatibilidades de sus miembros"
+  ],
+  "derogations": [],
+  "main_obligations": "Los sujetos obligados deben mantener actualizada su publicidad activa (gastos, contratos, personal) y responder a las solicitudes de acceso a la información. Las entidades privadas con ingresos públicos significativos deben cumplir con las normas de transparencia en su gestión de fondos.",
+  "effective_date": "2014-12-10",
+  "procedures": [
+    {
+      "name": "Derecho de acceso a la información pública",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de acceso",
+          "description": "El ciudadano presenta una solicitud, preferiblemente por medios electrónicos, sin necesidad de motivar su petición.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Ninguna (no requiere motivación)"
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y resolución",
+          "description": "El órgano competente analiza la solicitud ponderando el interés público y la protección de datos personales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reutilización de información del sector público",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de reutilización",
+          "description": "Presentación de la solicitud de uso de documentos públicos por medios electrónicos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la autorización",
+          "description": "El titular de la consejería dicta resolución en un plazo máximo de 20 días (prorrogables otros 20).",
+          "start_date": null,
+          "end_date": "40 días desde la solicitud",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Participación ciudadana en planes y programas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Anuncio y exposición pública",
+          "description": "Se informa de la propuesta a través del Portal de la Transparencia.",
+          "start_date": null,
+          "end_date": "Mínimo 1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Formulación de alegaciones",
+          "description": "Los ciudadanos presentan sus observaciones y opiniones sobre la propuesta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Información de resultados",
+          "description": "La Administración comunica las decisiones adoptadas y los motivos de las mismas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

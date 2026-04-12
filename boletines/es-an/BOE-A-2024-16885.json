@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-2024-16885",
+  "title": "Ley 2/2024, de 19 de julio, del Consejo Consultivo de Andalucía",
+  "visible_title": "Ley del Consejo Consultivo de Andalucía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "2/2024",
+  "publication_date": "2024-08-15",
+  "enactment_date": "2024-07-19",
+  "last_updated": "2024-07-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2024/07/19/2",
+  "official_journal": "Boletín Oficial del Estado (BOE)",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza la estructura y funciones del Consejo Consultivo de Andalucía para asegurar que sus dictámenes técnicos aporten mayor seguridad jurídica a la Administración. Introduce una nueva Comisión de Estudios y Análisis Normativo para mejorar la calidad de las leyes y realizar seguimiento de su aplicación. Además, profesionaliza el órgano elevando la experiencia exigida a sus miembros y reorganizando su composición para que sea más eficiente y técnica.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta a funcionarios y juristas de la Junta de Andalucía, quienes deberán cumplir con requisitos de experiencia más estrictos (15 años) para ocupar cargos en el Consejo. También impacta a los ayuntamientos y universidades públicas andaluzas, que cuentan con este órgano como su máximo asesor jurídico para garantizar la legalidad de sus actuaciones.",
+  "keywords": [
+    "Consejo Consultivo de Andalucía",
+    "asesoramiento jurídico",
+    "administración pública",
+    "seguridad jurídica",
+    "derecho administrativo andaluz"
+  ],
+  "key_points": [
+    "Creación de la Comisión de Estudios y Análisis Normativo para realizar estudios, encuestas y seguimiento de leyes.",
+    "Aumento de la exigencia de experiencia para presidentes y consejeros, pasando de 10 a 15 años como juristas de prestigio.",
+    "Reducción del número de consejeros electivos sin dedicación exclusiva de seis a cuatro.",
+    "Establecimiento de la dedicación exclusiva y a tiempo completo para los consejeros permanentes y electivos.",
+    "Implementación de criterios de paridad de género (mínimo 40%) en la composición del Consejo.",
+    "Nueva sede oficial del Consejo en la ciudad de Granada.",
+    "Obligación de la Administración de explicar por qué se aparta de un dictamen del Consejo Consultivo.",
+    "Plazo general de 30 días para emitir dictámenes, reduciéndose a 20 o 15 días en casos específicos o urgentes."
+  ],
+  "legal_references": [
+    "Ley 8/1993, de 19 de octubre",
+    "Ley 4/2005, de 8 de abril",
+    "Ley Orgánica 2/2007, de 19 de marzo",
+    "Ley 6/2006, de 24 de octubre",
+    "Ley 9/2007, de 22 de octubre",
+    "Ley 5/2010, de 11 de junio",
+    "Ley Orgánica 7/1999, de 21 de abril",
+    "Ley 39/2015, de 1 de diciembre",
+    "Ley 3/2005, de 8 de abril",
+    "Ley 40/2015, de 1 de octubre",
+    "Ley 5/2023, de 7 de junio"
+  ],
+  "derogations": [
+    "Ley 4/2005, de 8 de abril, del Consejo Consultivo de Andalucía"
+  ],
+  "main_obligations": "El Consejo Consultivo debe evacuar las consultas en un plazo de 30 días (o 20/15 días según la urgencia). La Administración tiene la obligación de comunicar formalmente los motivos si decide no seguir un dictamen del Consejo.",
+  "effective_date": "2024-08-04",
+  "procedures": [
+    {
+      "name": "Procedimiento de consulta y emisión de dictámenes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de dictamen",
+          "description": "Remisión del expediente administrativo a la Presidencia del Consejo Consultivo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Toda la documentación necesaria del expediente administrativo."
+        },
+        {
+          "step": 2,
+          "title": "Subsanación de expediente",
+          "description": "Si el expediente está incompleto, el Consejo puede solicitar documentación adicional.",
+          "start_date": "10 días desde la petición",
+          "end_date": null,
+          "required_documentation": "Antecedentes, informes y pruebas requeridas."
+        },
+        {
+          "step": 3,
+          "title": "Evacuación del dictamen",
+          "description": "Plazo para que el Consejo emita su respuesta técnica.",
+          "start_date": "Desde la recepción de la solicitud",
+          "end_date": "30 días (o 20/15 días según urgencia o tipo de materia)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

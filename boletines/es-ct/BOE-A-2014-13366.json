@@ -1,0 +1,69 @@
+{
+  "identifier": "BOE-A-2014-13366",
+  "title": "Ley 15/2014, de 4 de diciembre, del impuesto sobre la provisión de contenidos por parte de prestaadores de servicios de comunicaciones electrónicas y de fomento del sector audiovisual y la difusión cultural digital",
+  "visible_title": "Impuesto sobre la provisión de contenidos por parte de prestadores de servicios de comunicaciones electrónicas y de fomento del sector audiovisual",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "15/2014",
+  "publication_date": "2014-12-23",
+  "enactment_date": "2014-12-04",
+  "last_updated": "2017-08-11",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2014/12/04/15",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma crea un impuesto específico en Cataluña para financiar la industria audiovisual y la cultura digital. El dinero recaudado se destina a fondos para el cine y la creación de contenidos culturales en formato digital. El objetivo es compensar la crisis económica del sector cultural mediante una nueva fuente de ingresos públicos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que el impuesto no puede repercutirse en la factura del usuario; es la empresa operadora quien debe pagarlo íntegramente.",
+  "professional_impact": "Las empresas operadoras de servicios de comunicaciones electrónicas en Cataluña asumen la carga de ser sujetos pasivos sustitutos, debiendo autoliquidar y pagar una cuota de 0,25 euros por contrato mensual. Además, deben cumplir con la prohibición de trasladar este coste al consumidor final.",
+  "keywords": [
+    "impuesto audiovisual",
+    "Cataluña",
+    "comunicaciones electrónicas",
+    "fomento cultural",
+    "industria cinematográfica",
+    "digitalización"
+  ],
+  "key_points": [
+    "Creación de un impuesto de naturaleza finalista para financiar la cultura y el cine en Cataluña.",
+    "Cuota fija de 0,25 euros por contrato de acceso a contenidos al mes.",
+    "Las empresas operadoras actúan como sustitutos y tienen prohibido repercutir el impuesto al cliente.",
+    "Creación del Fondo para el fomento de la difusión cultural digital.",
+    "El impuesto se aplica tanto a servicios vinculados a la telefonía fija como a servicios mediante dispositivos móviles con residencia o domicilio fiscal en Cataluña.",
+    "La gestión y recaudación queda a cargo de la Agencia Tributaria de Cataluña."
+  ],
+  "legal_references": [
+    "Ley 20/2010, de 7 de julio, del cine",
+    "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "Ley 1/1991, de 27 de febrero, reguladora del régimen sancionador en materia de juego",
+    "Estatuto de Autonomía de Cataluña"
+  ],
+  "derogations": [],
+  "main_obligations": "Los prestadores de servicios deben realizar la autoliquidación mensual del impuesto y pagar la cuota de 0,25€ por contrato. Se prohíbe expresamente trasladar este coste al consumidor final bajo riesgo de sanciones por parte de la Agencia Tributaria y órganos de consumo.",
+  "effective_date": "2014-12-24",
+  "procedures": [
+    {
+      "name": "Gestión y autoliquidación del impuesto",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Devengo del impuesto",
+          "description": "El impuesto se genera el primer día de cada mes natural o el día de la contratación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Autoliquidación y pago",
+          "description": "El operador debe presentar la declaración y realizar el ingreso en el plazo que dicte el reglamento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Modelo de autoliquidación que se aprobará por orden del consejero competente."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

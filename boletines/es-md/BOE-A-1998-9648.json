@@ -1,0 +1,107 @@
+{
+  "identifier": "BOE-A-1998-9648",
+  "title": "Ley 17/1997, de 4 de julio, de Espectáculos Públicos y Actividades Recreativas",
+  "visible_title": "Ley de Espectáculos Públicos y Actividades Recreativas",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "17/1997",
+  "publication_date": "1998-04-24",
+  "enactment_date": "1997-07-04",
+  "last_updated": "2024-12-26",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1997/07/04/17",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco normativo para regular todos los espectáculos públicos y actividades de ocio en la Comunidad de Madrid. Su objetivo es unificar los criterios de licencias entre municipios, garantizar la seguridad de los asistentes y proteger a menores y consumidores. Además, define un régimen sancionador claro para evitar la impunidad ante riesgos de seguridad o incumplimientos de higiene.",
+  "citizen_impact": "Garantiza que los lugares de ocio (discotecas, cines, teatros) cumplan con estándares de seguridad, higiene y accesibilidad para personas con discapacidad. También refuerza la protección de menores frente al consumo de alcohol y regula el derecho de admisión para evitar discriminaciones arbitrarias.",
+  "professional_impact": "Obliga a empresarios del sector ocio a obtener licencias municipales y seguros de responsabilidad civil específicos. Introduce la posibilidad de abrir mediante 'declaración responsable' para emprendedores y PYMES, agilizando la apertura, pero impone inspecciones estrictas y sanciones económicas elevadas por incumplimientos.",
+  "keywords": [
+    "espectáculos públicos",
+    "actividades recreativas",
+    "licencias de funcionamiento",
+    "seguridad ciudadana",
+    "ocio",
+    "protección de menores",
+    "derecho de admisión",
+    "Comunidad de Madrid"
+  ],
+  "key_points": [
+    "Unificación de trámites de licencias para evitar la disparidad entre distintos municipios de Madrid.",
+    "Creación de la figura de 'licencia excepcional' para edificios de valor histórico-artístico.",
+    "Obligatoriedad de contratar seguros de responsabilidad civil y de incendio para todos los locales.",
+    "Regulación estricta del derecho de admisión para impedir la discriminación y la violencia.",
+    "Prohibición de venta de alcohol y tabaco a menores de 18 años y regulación de su publicidad.",
+    "Introducción de la 'declaración responsable' como vía rápida para la apertura de nuevos negocios.",
+    "Establecimiento de un régimen de sanciones que incluye multas de hasta 900.000 euros y clausuras.",
+    "Obligación de disponer de Libros de Reclamaciones en los locales."
+  ],
+  "legal_references": [
+    "Real Decreto 2816/1982",
+    "Real Decreto 2371/1994",
+    "Estatuto de Autonomía de la Comunidad de Madrid",
+    "Ley 6/1995 de Garantías de los Derechos de la Infancia y de la Adolescencia",
+    "Ley 30/1992 de Régimen Jurídico de las Administraciones Públicas",
+    "Ley 8/1993 de promoción de accesibilidad",
+    "Decreto Legislativo 1/2006"
+  ],
+  "derogations": [
+    "Real Decreto 2816/1982 (en lo que se oponga a esta Ley)"
+  ],
+  "main_obligations": "Los titulares deben obtener licencia municipal de funcionamiento y mantener seguros de responsabilidad civil vigentes. Se prohíbe estrictamente el acceso de menores de 18 años a zonas de consumo de alcohol en discotecas (salvo actuaciones en directo con acompañamiento) y la venta de tabaco a menores.",
+  "effective_date": "1998-04-24",
+  "procedures": [
+    {
+      "name": "Obtención de Licencia de Funcionamiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de finalización de obras",
+          "descrption": "El interesado comunica al Ayuntamiento que las obras o medidas correctoras han finalizado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de obra y actividad firmado por técnico competente."
+        },
+        {
+          "step": 2,
+          "title": "Comprobación administrativa",
+          "descrption": "El Ayuntamiento debe verificar que las instalaciones se ajustan al proyecto presentado.",
+          "start_date": "1 mes desde la comunicación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de la licencia",
+          "descrption": "Emisión de la resolución expresa que otorga la licencia de funcionamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Apertura mediante Declaración Responsable (PYMES/Emprendedores)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de declaración",
+          "descrption": "El solicitante manifiesta bajo su responsabilidad que cumple todos los requisitos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de obra, certificado de seguro, resguardo de tasas y certificado de fin de obra."
+        },
+        {
+          "step": 2,
+          "title": "Registro y comprobación",
+          "descrption": "El Ayuntamiento registra la entrada y debe realizar la inspección para verificar la adecuación.",
+          "start_date": "El mismo día de la recepción",
+          "end_date": "1 mes para la resolución de comprobación",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

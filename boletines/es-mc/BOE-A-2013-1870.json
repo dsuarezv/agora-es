@@ -1,0 +1,138 @@
+{
+  "identifier": "BOE-A-2013-1870",
+  "title": "Ley 7/2012, de 20 de julio, regulaora de la reedificación por sustitución forzosa para la urgente reconstrucción de Lorca",
+  "visible_title": "Ley de reedificación por sustitución forzosa para la reconstrucción de Lorca",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "7/2012",
+  "publication_date": "2013-02-20",
+  "enactment_date": "2012-07-20",
+  "last_updated": "2015-03-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2012/07/20/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un mecanismo de 'sustitución forzosa' para acelerar la reconstrucción de viviendas destruidas por el terremoto de Lorca en 2011. Permite que, si los propietarios no se ponen de acuerdo o no actúan para reconstruir sus edificios, el Ayuntamiento pueda designar a un agente edificador externo que gestione la obra. El objetivo es evitar el bloqueo de la reconstrucción urbana mediante la intervención pública cuando la voluntad de los copropietarios es insuficiente.",
+  "citizen_impact": "Los propietarios de viviendas afectadas por el terremoto tienen la obligación de solicitar licencias de obra en plazos estrictos. Si no lo hacen o no se ponen de acuerdo, pueden perder el control directo sobre la gestión de su reconstrucción, pasando esta a un profesional (agente edificador) que decidirá los detalles técnicos y financieros, aunque los costes seguirán siendo responsabilidad de los dueños.",
+  "professional_impact": "Crea la figura del 'agente edificador', un profesional o entidad que asume la gestión técnica y económica de la obra por cuenta de los propietarios. Los ayuntamientos adquieren nuevas competencias para declarar incumplimientos y gestionar concursos públicos de programas de actuación edificatoria de forma acelerada.",
+  "keywords": [
+    "reconstrucción Lorca",
+    "sustitución forzosa",
+    "agente edificador",
+    "terremoto Lorca",
+    "propiedad horizontal",
+    "licencia de obras",
+    "derecho de propiedad"
+  ],
+  "key_points": [
+    "Obligación de solicitar licencia de obras en 2 meses tras la entrada en vigor o tras recibir ayudas.",
+    "Si los propietarios no actúan, el Ayuntamiento puede declarar el incumplimiento del deber de edificar.",
+    "Se crea un concurso para elegir a un 'agente edificador' que ejecutará la obra.",
+    "Los propietarios que representen el 50% de la superficie tienen derecho preferente para proponer su propio plan de actuación.",
+    "El agente edificador asume la gestión, pero los propietarios deben pagar todos los costes de la obra.",
+    "El impago de las cuotas de construcción permite al Ayuntamiento ejecutar las garantías o incluso expropiar la propiedad.",
+    "La aprobación del plan de actuación conlleva automáticamente la licencia de obras."
+  ],
+  "legal_references": [
+    "Real Decreto-ley 6/2011",
+    "Real Decreto-ley 11/2012",
+    "Texto Refundido de la Ley de Suelo (TRLS)",
+    "Ley de Expropiación Forzosa",
+    "Decreto Legislativo 1/2005 (TRLS de la Región de Murcia)"
+  ],
+  "derogations": [],
+  "main_obligations": "Los copropietarios deben solicitar la licencia de obras en un plazo de 2 meses desde la entrada en vigor de la ley o desde la concesión de ayudas. Deben otorgar la escritura de declaración de obra nueva en un mes tras la licencia si la mitad de los propietarios lo requiere. El impago de las cuotas de edificación faculta la ejecución de garantías y la expropiación.",
+  "effective_date": "2013-02-21",
+  "procedures": [
+    {
+      "name": "Declaración de incumplimiento del deber de edificar",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "El Ayuntamiento inicia de oficio o a instancia de parte el trámite.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificación de dominio y cargas del Registro de la Propiedad"
+        },
+        {
+          "step": 2,
+          "title": "Audiencia de interesados",
+          "description": "Se abre un plazo para que los propietarios aleguen.",
+          "start_date": null,
+          "end_date": "10 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de incumplimiento",
+          "description": "El Ayuntamiento resuelve declarando el incumplimiento y convocando el concurso.",
+          "start_date": null,
+          "end_date": "3 meses (máximo total del procedimiento)",
+          "required_documentation": "Pliego de condiciones"
+        }
+      ]
+    },
+    {
+      "name": "Concurso de Programas de Actuación Edificatoria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación de la convocatoria",
+          "description": "Anuncio mediante edictos y Boletín Oficial de la Región de Murcia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de propuestas",
+          "description": "Los licitadores presentan sus programas técnicos y económicos.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": "Proyecto básico, memoria de calidades y proposición jurídico-económica"
+        },
+        {
+          "step": 3,
+          "title": "Apertura de proposiciones",
+          "description": "Se procede al examen de las ofertas presentadas.",
+          "start_date": null,
+          "end_date": "20 días",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Adjudicación",
+          "description": "Se elige la oferta más ventajosa y se designa al agente edificador.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aprobación del Programa de Actuación Edificatoria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación inicial e información pública",
+          "description": "El Ayuntamiento aprueba el plan y lo somete a consulta.",
+          "start_date": null,
+          "end_date": "20 días",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aprobación definitiva",
+          "description": "Tras las alegaciones, se aprueba el programa y se concede la licencia de obras.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

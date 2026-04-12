@@ -1,0 +1,128 @@
+{
+  "identifier": "BOE-A-2002-14187",
+  "title": "Ley 5/2002, de 3 de junio, sobre vertidos de aguas residuales industriales a los sistemas públicos de saneamiento",
+  "visible_title": "Ley sobre vertidos de aguas residuales industriales a los sistemas públicos de saneamiento",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "5/2002",
+  "publication_date": "2002-07-17",
+  "enactment_date": "2002-06-03",
+  "last_updated": "2023-03-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2002/06/03/5",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo las industrias y comercios pueden verter sus aguas residuales en las redes de alcantarillado y depuración de Asturias. Su objetivo es evitar que sustancias tóxicas o excesivas dañen las infraestructuras públicas, pongan en peligro a los trabajadores de las depuradoras o contaminen el medio ambiente. Establece un sistema de autorizaciones previas y controles estrictos para asegurar que los vertidos no superen los límites de contaminación permitidos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, más allá de la protección indirecta del medio ambiente y la salud pública mediante la gestión adecuada de las aguas.",
+  "professional_impact": "Las empresas industriales y comerciales en Asturias deben obtener una autorización específica para verter aguas residuales, lo que implica presentar proyectos técnicos y realizar análisis periódicos de autocontrol. Los inspectores de la administración tienen potestad para acceder a las instalaciones y realizar muestreos sin previo aviso. El incumplimiento de estas normas conlleva sanciones económicas que pueden alcanzar los 450.000 euros.",
+  "keywords": [
+    "vertidos industriales",
+    "aguas residuales",
+    "saneamiento",
+    "autorización de vertido",
+    "medio ambiente",
+    "Asturias",
+    "depuración de aguas"
+  ],
+  "key_points": [
+    "Obligatoriedad de solicitar autorización previa para realizar vertidos industriales al sistema público.",
+    "Prohibición absoluta de verter residuos, materiales radiactivos, gases explosivos o sustancias nocivas.",
+    "Prohibición de usar agua limpia para diluir vertidos contaminados y así intentar cumplir los límites.",
+    "Las empresas deben realizar un autocontrol mediante análisis periódicos hechos por entidades acreditadas.",
+    "Los inspectores tienen derecho de acceso a las instalaciones y pueden actuar como agentes de la autoridad.",
+    "En caso de emergencia o vertido peligroso, la empresa debe informar urgentemente y presentar un informe en 48 horas.",
+    "Las autorizaciones de vertido tienen una vigencia máxima de 8 años antes de ser revisadas.",
+    "Las sanciones se clasifican en leves, graves y muy graves, llegando hasta los 450.000 euros.",
+    "La empresa es responsable de reparar cualquier daño causado a las redes de alcantarillado o depuración."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 45)",
+    "Estatuto de Autonomía del Principado de Asturias (artículo 11.5 y 31.2)",
+    "Ley del Principado de Asturias 1/1994, de 21 de febrero",
+    "Real Decreto Ley 11/1995, de 28 de diciembre",
+    "Directiva 91/271/CEE",
+    "Directiva 98/15/CE",
+    "Ley 7/1985, de 2 de abril, reguladora de las bases del régimen local",
+    "Ley 10/1998, de 21 de abril, de residuos",
+    "Ley 25/1964, de 29 de abril, de energía nuclear"
+  ],
+  "derogations": [],
+  "main_obligations": "Las industrias deben obtener autorización de vertido, realizar análisis de autocontrol periódicos y mantener equipos de medición en buen estado. Se prohíbe el vertido de sustancias peligrosas y la dilución de contaminantes. El incumplimiento puede derivar en multas de hasta 450.000 euros y la obligación de reparar los daños.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Solicitud de autorización de vertido",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El titular debe presentar la solicitud con datos de la actividad y un proyecto técnico detallado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Nombre/razón social, proyecto técnico (instalaciones, procesos, punto de vertido, características del agua) y medidas de emergencia."
+        },
+        {
+          "step": 2,
+          "title": "Informe de la Administración",
+          "description": "Si el vertido es a red municipal pero va a depuradora autonómica, la Administración del Principado debe emitir un informe vinculante.",
+          "start_date": null,
+          "end_date": "30 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de inspección",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Identificación e inicio",
+          "description": "El inspector se identifica y comunica el objeto de la actuación (salvo en horas de funcionamiento).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento acreditativo de la autoridad"
+        },
+        {
+          "step": 2,
+          "title": "Actuaciones de campo",
+          "description": "Muestreo, medición de caudales y comprobación de instalaciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Levantamiento de acta",
+          "description": "Se redacta un acta por duplicado que debe ser firmada por el inspector y el titular.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de emergencias o peligros",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación urgente",
+          "description": "El usuario debe informar inmediatamente a la Administración tras un vertido inusual.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Remisión de informe detallado",
+          "description": "Presentación de un informe completo sobre el incidente.",
+          "start_date": null,
+          "end_date": "48 horas",
+          "required_documentation": "Identificación, ubicación, caudal/materias, motivo, hora, correcciones efectuadas y comunicación realizada."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

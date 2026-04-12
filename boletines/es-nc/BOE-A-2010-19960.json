@@ -1,0 +1,132 @@
+{
+  "identifier": "BOE-A-2010-19960",
+  "title": "Ley Foral 17/2010, de 8 de noviembre, de derechos y deberes de las personas en materia de salud en la Comunidad Foral de Navarra",
+  "visible_title": "Derechos y deberes de las personas en materia de salud en Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "17/2010",
+  "publication_date": "2010-12-28",
+  "enactment_date": "2010-11-08",
+  "last_updated": "2022-12-15",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2010/11/08/17",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley transforma la sanidad en Navarra, dejando atrás el modelo donde el médico decidía todo para dar el control al paciente. Ahora, los ciudadanos tienen autonomía real para elegir sus médicos, solicitar segundas opiniones y decidir sobre sus tratamientos futuros mediante voluntades anticipadas. La norma también garantiza la protección de datos sensibles y el acompañamiento en momentos críticos como el parto o la discapacidad. En definitiva, busca una relación de corresponsabilidad entre el sistema sanitario y la persona.",
+  "citizen_impact": "El ciudadano gana poder de decisión: puede elegir su médico de atención primaria, pediatra o psiquiatra, y solicitar una segunda opinión médica. Además, puede dejar por escrito qué tratamientos desea o no recibir en el futuro (voluntades anticipadas) a través de un registro oficial. También tiene derecho a conocer mensualmente las listas de espera y a que su historia clínica sea accesible y protegida.",
+  "professional_impact": "Los profesionales sanitarios deben adaptarse a un modelo de consentimiento informado estricto, especialmente en cirugías y tratamientos experimentales. Tienen la obligación de mantener historias clínicas legibles, sin abreviaturas innecesarias, y conservarlas al menos 5 años. Asimismo, deben gestionar el Registro de Voluntades Anticipadas y enfrentarse a sanciones severas (hasta 600.000 €) en caso de vulnerar la confidencialidad o si se producen agresiones en el entorno sanitario.",
+  "keywords": [
+    "derechos del paciente",
+    "autonomía del paciente",
+    "voluntades anticipadas",
+    "historia clínica",
+    "consentimiento informado",
+    "Navarra",
+    "sanidad"
+  ],
+  "key_points": [
+    "Libre elección de médico de atención primaria, pediatra y psiquiatra.",
+    "Derecho a solicitar una segunda opinión médica ante diagnósticos o tratamientos importantes.",
+    "Creación del Registro de Voluntades Anticipadas de Navarra para asegurar que se respeten las decisiones del paciente incluso si pierde la capacidad.",
+    "Garantía de acompañamiento para menores, personas con discapacidad, dependientes y mujeres en el parto.",
+    "Derecho a la confidencialidad de datos genéticos y de salud.",
+    "Acceso de familiares a la historia clínica de un fallecido, salvo prohibición expresa del difunto.",
+    "Obligación de informar sobre tiempos y listas de espera de forma mensual y pública.",
+    "Derecho a disponer de muestras biológicas para segundas opiniones o traslados de asistencia.",
+    "La historia clínica debe ser única por centro, legible y conservarse al menos 5 años.",
+    "Sanciones económicas de hasta 600.000 euros por acceso indebido a datos o agresiones al personal.",
+    "Obligatoriedad de consentimiento por escrito en cirugías, procedimientos invasivos y tratamientos experimentales.",
+    "Deber del paciente de avisar si no puede acudir a una cita programada."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 43)",
+    "Ley 14/1986, General de Sanidad",
+    "Ley 41/2002, básica reguladora de la Autonomía del Paciente",
+    "Ley 16/2003, de Cohesión y Calidad del Sistema Nacional de Salud",
+    "Ley Foral 10/1990, de Salud",
+    "Ley Foral 2/2000, de 25 de mayo",
+    "Ley Foral 11/2002, sobre derechos del paciente a las voluntades anticipadas",
+    "Ley Foral 14/2008, de Garantías en la Atención Sanitaria Especializada",
+    "Convenio del Consejo de Europa sobre derechos humanos y dignidad en la aplicación de la Biología y la Biomedicina",
+    "Ley Orgánica 3/1986, de Medidas Especiales en materia de Salud Pública",
+    "Ley 29/1998, Reguladora de la Jurisdicción Contencioso-Administrativa",
+    "Ley 27/2007, de lenguas signadas españolas",
+    "Ley Foral 15/2005, de Promoción, Atención y Protección a la Infancia y a la Adolescencia",
+    "Ley Foral 12/2009, de no discriminación por motivos de identidad de género",
+    "Ley Orgánica 15/1999, de Protección de Datos de Carácter Personal",
+    "Ley Orgánica 2/2010, de 3 de marzo, de salud sexual y reproductiva y de la interrupción voluntaria del embarazo",
+    "Ley 49/2007, de 26 de diciembre, de igualdad de oportunidades, no discriminación y accesibilidad universal de las personas con discapacidad"
+  ],
+  "derogatons": [],
+  "main_obligations": "Los centros sanitarios deben publicar mensualmente las listas de espera en su web y conservar la historia clínica al menos 5 años. Los profesionales deben obtener consentimiento por escrito en intervenciones invasivas o experimentales e identificar cada actuación con fecha y firma.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Formalización de Voluntades Anticipadas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elección de vía de formalización",
+          "description": "Decidir si se realiza ante notario, ante tres testigos o ante personal del Registro de Voluntades Anticipadas/Centros de Salud.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento de voluntades anticipadas"
+        },
+        {
+          "step": 2,
+          "title": "Otorgamiento y registro",
+          "description": "Realizar el acto de declaración y asegurar su incorporación a la historia clínica para su efectividad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento firmado"
+        }
+      ]
+    },
+    {
+      "name": "Reclamaciones y sugerencias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la queja",
+          "description": "El ciudadano presenta su sugerencia o reclamación en las hojas de reclamaciones o servicios de atención al ciudadano.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Hoja de reclamaciones o formulario de atención al ciudadano"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la administración",
+          "description": "La administración debe dar una respuesta razonada por escrito.",
+          "start_date": null,
+          "end_date": "20 días naturales",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador administrativo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Se inicia ante la comisión de una infracción (leve, grave o muy grave).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución del expediente",
+          "description": "Plazo máximo para dictar la resolución del procedimiento sancionador.",
+          "start_date": "Desde el inicio del procedimiento",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

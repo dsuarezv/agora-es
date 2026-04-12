@@ -1,0 +1,105 @@
+{
+  "identifier": "BOE-A-2012-2261",
+  "title": "Ley 7/1992, de 21 de diciembre, que regula determinados aspectos relacionados con Zonas Regables, Planes Comarcales de Mejora y Planes Generales de Transformación",
+  "visible_title": "Ley de Zonas Regables, Planes Comarcales de Mejora y Planes Generales de Transformación",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "7/1992",
+  "publication_date": "2012-02-15",
+  "enactment_date": "1992-12-21",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1992/12/21/7",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta ley busca modernizar el sector agrario vasco mediante la creación de nuevas infraestructuras de regadío. Su objetivo principal es permitir la transformación de explotaciones para hacerlas más rentables y sostenibles. Para lograrlo, otorga a las administraciones la capacidad de declarar la utilidad pública de ciertos proyectos, facilitando la ejecución de obras necesarias.",
+  "citizen_impact": "Los propietarios de terrenos agrícolas pueden verse afectados por procesos de expropiación forzosa si sus tierras son necesarias para infraestructuras de riego de interés general. Sin embargo, también permite que comunidades de usuarios gestionen sus propios proyectos de mejora con beneficios legales similares.",
+  "professional_impact": "Las empresas de ingeniería y constructoras encuentran un marco para proyectos de transformación agraria. Los agricultores y comunidades de regantes ganan herramientas para solicitar la transformación de sus tierras, aunque deben cumplir con los planes generales aprobados por las Diputaciones o el Gobierno Vasco.",
+  "keywords": [
+    "regadío",
+    "expropiación forzosa",
+    "transformación agraria",
+    "zonas regables",
+    "País Vasco",
+    "infraestructuras hidráulicas"
+  ],
+  "key_points": [
+    "Permite la declaración de 'zona regable' mediante decreto para habilitar la expropiación de bienes y derechos necesarios.",
+    "Los Planes Generales de Transformación deben someterse a información pública durante 30 días.",
+    "La aprobación de planes conlleva automáticamente la declaración de utilidad pública y la necesidad de ocupación de terrenos.",
+    "Se permite la expropiación de derechos limitados (servidumbres) para redes de distribución y saneamiento, evitando la expropiación total siempre que sea posible.",
+    "Las comunidades de usuarios pueden promover sus propias actuaciones de transformación bajo condiciones específicas.",
+    "Se establece un procedimiento de expropiación urgente para agilizar las obras de mejora."
+  ],
+  "legal_references": [
+    "Ley de Reforma y Desarrollo Agrario (Libro III)",
+    "Ley de Expropiación Forzosa",
+    "Ley de Aguas"
+  ],
+  "derogations": [],
+  "main_obligations": "Los proyectos de transformación deben ajustarse estrictamente a los Planes Generales de Transformación aprobados. Las administraciones deben realizar procesos de información pública obligatorios antes de la aprobación definitiva de los planes.",
+  "effective_date": "1992-12-22",
+  "procedures": [
+    {
+      "name": "Elaboración y aprobación de Planes Generales de Transformación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del plan",
+          "description": "Los Departamentos Forales elaboran el proyecto de transformación de la zona regable.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "El plan se somete a consulta de los ciudadanos e interesados.",
+          "start_date": "30 días",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación definitiva",
+          "description": "Mediante decreto foral o del Gobierno Vasco según el ámbito territorial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de actuaciones por comunidades de usuarios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Solicitud ante la Diputación Foral o Gobierno Vasco para acogerse a la utilidad pública.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública y audiencia",
+          "description": "Periodo para que los interesados conozcan la solicitud y presenten alegaciones.",
+          "start_date": "1 mes",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Declaración de ajuste al plan",
+          "description": "Resolución mediante orden foral o del Consejero de Agricultura.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

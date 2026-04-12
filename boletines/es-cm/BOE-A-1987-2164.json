@@ -1,0 +1,107 @@
+{
+  "identifier": "BOE-A-1987-2164",
+  "title": "Ley 5/1986, de 23 de diciembre, electoral de Castilla-La Mancha",
+  "visible_title": "Ley electoral de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "5/1986",
+  "publication_date": "1987-01-28",
+  "enactment_date": "1986-12-23",
+  "last_updated": "2024-03-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/1986/12/23/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece las reglas de juego para elegir a los diputados de las Cortes de Castilla-La Mancha. Regula desde quién puede votar y ser elegido, hasta cómo se reparten los escaños y cómo se financian las campañas. Su objetivo es garantizar que el sistema electoral regional sea democrático, proporcional y transparente, integrándose con la normativa estatal.",
+  "citizen_impact": "Define quiénes pueden votar y presentarse como candidatos en las elecciones autonómicas. Además, establece la obligación de que los candidatos declaren públicamente sus bienes y actividades para asegurar la transparencia.",
+  "professional_impact": "Afecta directamente a los partidos políticos y agrupaciones de electores, imponiéndoles estrictos controles de contabilidad y límites de gasto. También establece incompatibilidades para cargos públicos y directivos de empresas públicas que deseen ser diputados.",
+  "keywords": [
+    "elecciones autonómicas",
+    "Castilla-La Mancha",
+    "sistema electoral",
+    "reparto de escaños",
+    "financiación electoral",
+    "inelegibilidad",
+    "incompatibilidades"
+  ],
+  "key_points": [
+    "Las Cortes de Castilla-La Mancha se componen de 33 diputados.",
+    "La provincia es la circunscripción electoral, garantizando representación territorial.",
+    "Se establece la alternancia de género (hombres y mujeres) en las listas de candidatos.",
+    "Los candidatos deben presentar una declaración pública de sus bienes, rentas y actividades económicas.",
+    "Se crea la Junta Electoral de Castilla-La Mancha como órgano de control permanente.",
+    "Se fijan límites de gasto electoral basados en la población de las circunscripciones.",
+    "Se regula la subvención pública para los gastos de campaña y el envío de documentación electoral."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Castilla-La Mancha",
+    "Ley Orgánica del Régimen Electoral General (LOREG)",
+    "Ley Orgánica 9/1982, de 10 de agosto"
+  ],
+  "derogations": [],
+  "main_obligations": "Los candidatos deben presentar una declaración de bienes, rentas y actividades ante la Mesa de las Cortes. Los partidos deben designar un Administrador Electoral y presentar la contabilidad detallada ante la Sindicatura de Cuentas en un plazo de 100 a 125 días tras las elecciones.",
+  "effective_date": "1987-01-29",
+  "procedures": [
+    {
+      "name": "Proceso de Candidaturas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Designación de representantes",
+          "description": "Los partidos deben nombrar su representante general y suplente.",
+          "start_date": "9 días tras la convocatoria",
+          "end_date": "9 días tras la convocatoria",
+          "required_documentation": "Escrito de designación y aceptación"
+        },
+        {
+          "step": 2,
+          "title": "Presentación de candidaturas",
+          "description": "Presentación de las listas de candidatos y suplentes.",
+          "start_date": "15 días tras la convocatoria",
+          "end_date": "20 días tras la convocatoria",
+          "required_documentation": "Listas de candidatos, declaración de aceptación y documentos de elegibilidad"
+        },
+        {
+          "step": 3,
+          "title": "Publicación de candidaturas",
+          "description": "Las candidaturas se exponen en el DOCM.",
+          "start_date": "22 días tras la convocatoria",
+          "end_date": "22 días tras la convocatoria",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Proclamación de candidatos",
+          "description": "Resolución de la Junta Electoral sobre las candidaturas.",
+          "start_date": "27 días tras la convocatoria",
+          "end_date": "27 días tras la convocatoria",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Declaración de bienes",
+          "description": "Los candidatos proclamados deben presentar su declaración de patrimonio.",
+          "start_date": "Tras la proclamación",
+          "end_date": "31 días tras la convocatoria",
+          "required_documentation": "Modelo oficial de declaración de actividades, bienes y rentas"
+        }
+      ]
+    },
+    {
+      "name": "Control de Cuentas Electorales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de contabilidad",
+          "description": "Entrega de la contabilidad detallada de ingresos y gastos ante la Sindicatura de Cuentas.",
+          "start_date": "100 días tras las elecciones",
+          "end_date": "125 días tras las elecciones",
+          "required_documentation": "Contabilidad detallada y documentada"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

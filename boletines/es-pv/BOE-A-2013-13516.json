@@ -1,0 +1,84 @@
+{
+  "identifier": "BOE-A-2013-13516",
+  "title": "Resolución de 16 de diciembre de 2013, de la Dirección de Tráfico, del Departamento de Seguridad, por la que se establecen medidas especiales de regulación de tráfico durante el año 2014 en la Comunidad Autónoma del País Vasco",
+  "visible_title": "Medidas especiales de regulación de tráfico en el País Vasco para 2014",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Departamento de Seguridad de la Comunidad Autónoma del País Vasco",
+  "official_number": "BOE-A-2013-13516",
+  "publication_date": "2013-12-24",
+  "enactment_date": "2013-12-16",
+  "last_updated": "2014-12-24",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/res/2013/12/16/(1)",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece restricciones temporales de circulación en el País Vasco para el año 2014 con el fin de garantizar la seguridad y fluidez del tráfico. Regula la prohibición de circular para vehículos de transporte de mercancías peligrosas, vehículos pesados de más de 7.500 kg y vehículos con dimensiones especiales en fechas y horarios específicos. También limita la realización de eventos deportivos que ocupen la calzada en días de alta densidad de tráfico.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo que se encuentren en zonas de restricciones de tráfico o durante la celebración de eventos deportivos que afecten a la movilidad habitual.",
+  "professional_impact": "Afecta directamente a empresas de transporte de mercancías peligrosas y de carga pesada, quienes deben planificar sus rutas y horarios para evitar prohibiciones. Los organizadores de eventos deportivos deben solicitar autorizaciones específicas y cumplir con las restricciones de fechas para poder ocupar la vía pública.",
+  "keywords": [
+    "tráfico",
+    "País Vasco",
+    "mercancías peligrosas",
+    "restricciones de circulación",
+    "transporte pesado",
+    "seguridad vial"
+  ],
+  "key_points": [
+    "Prohibición de circular para vehículos con mercancías peligrosas (ADR) los domingos, festivos y ciertos días específicos.",
+    "Restricciones para vehículos de transporte de mercancías con una masa máxima autorizada (MMA) superior a 7.500 kg en periodos estivales y fechas clave.",
+    "Limitación de eventos deportivos y marchas ciclísticas en vías interurbanas durante días de alta ocupación.",
+    "Obligatoriedad de usar itinerarios específicos (RIMP) para el transporte de mercancías peligrosas.",
+    "Exenciones para el transporte de animales vivos, productos perecederos, servicios de emergencia y mantenimiento de infraestructuras básicas.",
+    "Posibilidad de sanciones y retirada de vehículos por parte de la autoridad si incumplen las medidas."
+  ],
+  "legal_references": [
+    "Real Decreto Legislativo 339/1990",
+    "Real Decreto 1428/2003",
+    "Real Decreto 3256/1982",
+    "Decreto 194/2013",
+    "Real Decreto 551/2006",
+    "Real Decreto 2822/1998"
+  ],
+  "derogations": [],
+  "main_obligations": "Los transportistas de mercancías peligrosas y vehículos de más de 7.500 kg deben respetar estrictamente los horarios y días de prohibición detallados en los anexos. El incumplimiento conlleva sanciones según la Ley de Tráfico y la posible retirada del vehículo.",
+  "effective_date": "2014-01-05",
+  "procedures": [
+    {
+      "name": "Autorización de eventos deportivos y ocupación de calzada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Los organizadores deben solicitar permiso para eventos que ocupen calzada o arcenes en vías interurbanas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Detalles del evento y características de la ocupación de la vía."
+        },
+        {
+          "step": 2,
+          "title": "Evaluación de la autoridad",
+          "description": "Los responsables territoriales de tráfico evalúan si la prueba afecta a días restringidos o si hay disponibilidad de agentes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de autorización especial de circulación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Justificación de servicio indispensable",
+          "description": "Para circular en días restringidos, se debe demostrar la necesidad de realizar un servicio indispensable.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Matrícula, características del vehículo, tipo de mercancía y ruta prevista."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

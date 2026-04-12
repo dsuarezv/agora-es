@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-2020-4558",
+  "title": "Decreto-ley 3/2020, de 25 de marzo, por el que se aprueban medidas urgentes y extraordinarias en el ámbito administrativo para responder al impacto de la crisis ocasionada por el COVID-19",
+  "visible_title": "Medidas urgentes y extraordinarias en el ámbito administrativo para responder al impacto de la crisis por COVID-19",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Junta de Extremadura",
+  "official_number": "3/2020",
+  "publication_date": "2020-04-22",
+  "enactment_date": "2020-03-25",
+  "last_updated": "2020-03-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/dl/2020/03/25/3",
+  "official_journal": "Diario Oficial de Extremadura",
+  "journal_issue": null,
+  "summary": "Esta norma establece un marco de actuación excepcional para la Administración de Extremadura ante la emergencia sanitaria por COVID-19. Su objetivo es agilizar la gestión de fondos, subvenciones y contratos públicos para permitir una respuesta rápida a la crisis. Además, introduce medidas de protección social y flexibilidad en el funcionamiento de los órganos de gobierno locales.",
+  "citizen_impact": "Los ciudadanos que vivan en viviendas protegidas de promoción pública de Extremadura no tendrán que pagar el alquiler durante el estado de alarma. Asimismo, se garantiza que no se les rescinda el contrato ni se les cobren intereses por impagos durante este periodo.",
+  "professional_impact": "Las empresas y entidades sin ánimo de lucro pueden recibir subvenciones de forma directa y rápida para luchar contra el COVID-19. Los proveedores de transporte escolar pueden ser reasignados para servicios de movilidad sanitaria, y los funcionarios ven simplificados los procesos de contratación y gestión de gastos para evitar la burocracia.",
+  "keywords": [
+    "COVID-19",
+    "gestión administrativa",
+    "subvenciones",
+    "contratación de emergencia",
+    "vivienda protegida",
+    "transporte escolar",
+    "Extremadura"
+  ],
+  "key_points": [
+    "Agilización de la gestión de gasto público eliminando autorizaciones previas del Consejo de Gobierno.",
+    "Modificación de requisitos en subvenciones para evitar que los beneficiarios pierdan la ayuda por causas ajenas (como el cierre de actividades).",
+    "Posibilidad de conceder subvenciones de forma directa y sin convocatoria para entidades que luchen contra el COVID-19.",
+    "Uso de la tramitación de emergencia en la contratación pública para adquirir bienes y servicios sanitarios de forma inmediata.",
+    "Reasignación de los servicios de transporte escolar para el traslado de personal esencial en condiciones sanitarias.",
+    "Exoneración temporal del pago de alquiler en viviendas protegidas de la Junta de Extremadura durante el estado de alarma.",
+    "Habilitación de sesiones telemáticas para los órganos de gobierno de las entidades locales en situaciones de crisis."
+  ],
+  "legal_references": [
+    "Ley 5/2007, de 19 de abril, General de Hacienda Pública de Extremadura",
+    "Real Decreto 463/2020, de 14 de marzo",
+    "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+    "Ley 40/2015, de 1 de diciembre, del Régimen Jurídico del Sector Público",
+    "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+    "Real Decreto-ley 8/2020, de 17 de marzo"
+  ],
+  "derogations": [],
+  "main_obligations": null,
+  "effective_date": "2020-03-25",
+  "procedures": [
+    {
+      "name": "Gestión de subvenciones y contratos de emergencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación de emergencia",
+          "description": "Adquisición inmediata de bienes y servicios para la lucha contra el COVID-19 sin garantías definitivas.",
+          "start_date": "2020-03-25",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Modificación de condiciones de subvenciones",
+          "description": "Ajuste de requisitos y plazos para beneficiarios afectados por la crisis sanitaria.",
+          "start_date": "2020-03-25",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Exoneración de alquiler en vivienda protegida",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aplicación de la exoneración",
+          "description": "Suspensión automática del pago de la renta sin necesidad de solicitud previa.",
+          "start_date": "2020-04-01",
+          "end_date": null,
+          "required_documentation": "Ninguna (se realiza de oficio)"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

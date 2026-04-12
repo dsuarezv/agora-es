@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-2010-20014",
+  "title": "Ley 14/2010, de 3 de diciembre, de espectáculos públicos, actividades recreativas y establecimientos públicos",
+  "visible_title": "Ley de espectáculos públicos, actividades recreativas y establecimientos públicos",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "14/2010",
+  "publication_date": "2010-12-29",
+  "enactment_date": "2010-12-03",
+  "last_updated": "2025-05-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2010/12/03/14",
+  "official_journal": "Diario Oficial de la Comunitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza la gestión del ocio en la Comunidad Valenciana eliminando la necesidad de licencias previas para la mayoría de negocios, sustituyéndolas por un sistema de declaración responsable. El objetivo es agilizar la apertura de locales de espectáculos y actividades recreativas, permitiendo que operen de inmediato si cumplen con la seguridad. La administración mantiene su capacidad de control mediante inspecciones y puede intervenir rápidamente si detecta riesgos para la salud o la seguridad. Además, establece un marco estricto de responsabilidades y sanciones para garantizar la protección de los asistentes.",
+  "citizen_impact": "Para el ciudadano, esto se traduce en una mayor agilidad para encontrar nuevos espacios de ocio y una mayor seguridad garantizada por la inspección. Los usuarios tienen derecho a la devolución del dinero si un espectáculo se cancela sin motivo, acceso a hojas de reclamaciones y transparencia en horarios y condiciones de admisión. También se protege al consumidor prohibiendo la reventa ambulante de entradas.",
+  "professional_impact": "Las empresas del sector del ocio pasan de un modelo de espera de licencias a uno de responsabilidad directa: pueden abrir mediante declaración responsable o con un certificado de un OCA. Los titulares asumen una responsabilidad solidaria por las infracciones de sus empleados y deben cumplir estrictamente con seguros de responsabilidad civil y medidas de seguridad. Los inspectores cuentan con poderes de actuación inmediata y clausura de locales ante peligros inminentes.",
+  "keywords": [
+    "espectáculos públicos",
+    "actividades recreativas",
+    "establecimientos públicos",
+    "declaración responsable",
+    "ocio",
+    "seguridad ciudadana",
+    "inspección de locales"
+  ],
+  "key_points": [
+    "Sustitución de licencias por declaración responsable para agilizar la apertura de negocios.",
+    "Apertura inmediata si se presenta certificado de un Organismo de Certificación Administrativa (OCA).",
+    "Obligación de inspección municipal en un mes si no se dispone de certificado OCA.",
+    "Los cambios de titularidad se gestionan mediante una simple declaración formal ante el ayuntamiento.",
+    "Prohibición estricta de la venta y reventa ambulante de entradas.",
+    "Obligatoriedad de contar con seguro de responsabilidad civil para daños a terceros.",
+    "Capacidad de los inspectores para actuar de urgencia sin audiencia previa ante peligro inminente.",
+    "Posibilidad de clausura de locales y suspensión de licencias como medidas provisionales urgentes.",
+    "Responsabilidad solidaria del titular por las infracciones de sus dependientes.",
+    "Publicación de sanciones en medios de comunicación por razones de ejemplaridad.",
+    "Derecho a la devolución del importe de la entrada si el espectáculo se suspende sin causa justificada.",
+    "Obligación de informar de horarios y condiciones de admisión mediante carteles visibles."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunidad Valenciana",
+    "Ley 17/2009, de 23 de noviembre",
+    "Directiva 2006/123/CE",
+    "Ley 8/2012, de 23 de noviembre",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Ley 4/1999, de 13 de enero, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley 25/2009, de 22 de diciembre",
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Real Decreto 314/2006 (Código Técnico de la Edificación)"
+  ],
+  "derogatons": [
+    "Ley 4/2003, de 26 de febrero, de la Generalitat"
+  ],
+  "main_obligations": "Los titulares deben disponer de seguro de responsabilidad civil, certificados OCA y mantener las condiciones de seguridad y hojas de reclamaciones. Deben informar de horarios y condiciones de admisión mediante carteles visibles y cumplir con los plazos de corrección de irregularidades no peligrosas.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Apertura de establecimiento mediante declaración responsable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de declaración responsable",
+          "description": "Comunicación formal ante el ayuntamiento para iniciar la actividad.",
+          "start_date": "Al inicio de la actividad",
+          "end_date": null,
+          "required_documentation": "Declaración responsable y, opcionalmente, certificado de un OCA para apertura inmediata."
+        },
+        {
+          "step": 2,
+          "title": "Inspección municipal (si no hay certificado OCA)",
+          "description": "La administración debe realizar una inspección para verificar las condiciones.",
+          "start_date": "Plazo máximo de 1 mes desde la declaración",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Actuación de urgencia (si hay peligro)",
+          "description": "Intervención inmediata de los inspectores sin audiencia previa ante riesgo inminente.",
+          "start_date": "En el momento de la detección del peligro",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución del procedimiento",
+          "description": "La administración debe dictar resolución para evitar la caducidad.",
+          "start_date": "Desde el inicio del procedimiento",
+          "end_date": "Plazo de 1 mes",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

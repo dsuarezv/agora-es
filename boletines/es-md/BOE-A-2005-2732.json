@@ -1,0 +1,92 @@
+{
+  "identifier": "BOE-A-2005-2732",
+  "title": "Ley 5/2004, de 28 de diciembre, de medidas fiscales y administrativas",
+  "visible_title": "Ley de medidas fiscales y administrativas de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "5/2004",
+  "publication_date": "2005-02-18",
+  "enactment_date": "2004-12-28",
+  "last_updated": "2010-10-25",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2004/12/28/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley implementa una serie de cambios fiscales y organizativos en la Comunidad de Madrid para cumplir con los objetivos presupuestarios de 2005. Introduce nuevas deducciones en el IRPF para fomentar la natalidad y el acogimiento, además de modificar los impuestos sobre el patrimonio, sucesiones y transmisiones patrimoniales. Asimismo, reorganiza la administración autonómica, simplificando la creación de unidades administrativas y modificando la gestión de la Hacienda regional.",
+  "citizen_impact": "Los ciudadanos madrileños se benefician de nuevas deducciones en el IRPF por nacimiento, adopción, acogimiento de menores o mayores, y por el alquiler de vivienda para menores de 35 años. También se reducen los impuestos en sucesiones para familiares directos y se aplican tipos reducidos en la compra de viviendas para familias numerosas o en el distrito centro de Madrid.",
+  "professional_impact": "Los profesionales del sector inmobiliario y notarios deben atender nuevos tipos impositivos y obligaciones de información. Los altos cargos de la administración deben presentar sus declaraciones de renta en noviembre para facilitar el control telemático, y los funcionarios de bomberos ven modificada su categoría profesional a 'Bombero Especialista'.",
+  "keywords": [
+    "fiscalidad",
+    "IRPF",
+    "impuesto sobre sucesiones",
+    "transmisiones patrimoniales",
+    "deducciones fiscales",
+    "Comunidad de Madrid",
+    "administración pública"
+  ],
+  "key_points": [
+    "Nuevas deducciones en el IRPF por nacimiento (600€-900€) y adopción de hijos.",
+    "Deducción por acogimiento de menores (600€-900€) y de mayores de 65 años o discapacitados (900€).",
+    "Deducción por alquiler de vivienda para menores de 35 años (máximo 840€).",
+    "Aumento del mínimo exento en el Impuesto sobre el Patrimonio para personas con discapacidad (224.000€).",
+    "Bonificación del 99% en el Impuesto sobre Sucesiones para descendientes (Grupo I).",
+    "Tipo reducido del 4% en ITP para viviendas en el Distrito Centro de Madrid con ciertas características.",
+    "Tipo reducido del 4% en ITP para la adquisición de vivienda habitual por familias numerosas.",
+    "Simplificación de la expropiación de terrenos para carreteras al unificar la declaración de utilidad pública y urgencia.",
+    "Cambio de categoría profesional de 'Bombero' a 'Bombero Especialista'."
+  ],
+  "legal_references": [
+    "Ley 21/2001",
+    "Ley 29/1987",
+    "Ley 1/1983",
+    "Ley 14/1995",
+    "Ley 14/1994",
+    "Ley 26/1997",
+    "Ley 1/1984",
+    "Ley 13/1984",
+    "Ley 1/2001",
+    "Ley 11/1998",
+    "Ley 3/1991",
+    "Ley 9/1990",
+    "Ley 40/2003"
+  ],
+  "derogations": [
+    "Ley 2/2004, de 31 de mayo, de Medidas Fiscales y Administrativas (artículos 1, 2, 3 y 4)",
+    "Ley 13/2002, de 20 de diciembre, de Medidas Fiscales y Administrativas (artículo 4)",
+    "Ley 2/1997, de 8 de enero, de Creación de la Agencia para el Desarrollo de Madrid",
+    "Decreto 149/1996, de 31 de octubre"
+  ],
+  "main_obligations": "Los altos cargos deben presentar copia de sus declaraciones de IRPF y Patrimonio en el Registro de Bienes y Derechos Patrimoniales antes del 30 de noviembre de cada año. Los notarios y registradores deben suministrar información telemática sobre actos sujetos a impuestos de sucesiones o transmisiones patrimoniales.",
+  "effective_date": "2005-01-01",
+  "procedures": [
+    {
+      "name": "Declaración de deducciones en el IRPF",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Justificación documental",
+          "description": "El contribuyente debe aportar certificados de acogimiento, resguardos de depósito de fianza o documentos que acrediten el nacimiento/adopción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificados de la Consejería competente, resguardo de depósito de fianza del IVIMA, etc."
+        }
+      ]
+    },
+    {
+      "name": "Declaración-liquidación de tasas de juegos y apuestas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración mensual",
+          "description": "Presentación de la declaración-liquidación de las rifas, tómbolas y apuestas realizadas.",
+          "start_date": "Primeros 20 días naturales del mes siguiente al devengo",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,112 @@
+{
+  "identifier": "BOE-A-2006-14195",
+  "title": "Ley 4/2006, de 23 de junio, de Asociaciones de Andalucía",
+  "visible_title": "Ley de Asociaciones de Andalucía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "4/2006",
+  "publication_date": "2006-08-04",
+  "enactment_date": "2006-06-23",
+  "last_updated": "2006-07-03",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2006/06/23/4",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": null,
+  "summary": "Esta ley regula la creación, organización y funcionamiento de las asociaciones que operan principalmente en Andalucía. Establece un marco de libertad para que los grupos se autoorganicen mediante estatutos, pero define mínimos legales para garantizar la democracia interna y la transparencia. Además, crea mecanismos para fomentar el asociacionismo, como la declaración de interés público y la creación de consejos sectoriales para colaborar con la Administración.",
+  "citizen_impact": "Permite a los ciudadanos agruparse legalmente para fines comunes con reglas claras sobre cómo votar y participar en sus decisiones. Facilita que las asociaciones con fines sociales reciban beneficios fiscales y apoyo si se declaran de interés público en Andalucía.",
+  "professional_impact": "Las asociaciones deben cumplir con obligaciones contables y documentales estrictas (libros de actas, inventarios y contabilidad). Los gestores de estas entidades deben seguir procedimientos específicos para la modificación de estatutos, disolución o imposición de sanciones disciplinarias a miembros.",
+  "keywords": [
+    "asociaciones",
+    "Andalucía",
+    "derecho de asociación",
+    "interés público",
+    "estatutos",
+    "registro de asociaciones",
+    "participación ciudadana"
+  ],
+  "key_points": [
+    "La asociación nace con el acta fundacional, la inscripción en el Registro es solo para publicidad.",
+    "Se exige la participación paritaria de hombres y mujeres en el tejido asociativo.",
+    "Las asociaciones pueden ser declaradas de interés público de Andalucía para obtener beneficios fiscales y económicos.",
+    "Se crean los Consejos Sectoriales de Asociaciones para que la ciudadanía asesore a la Administración.",
+    "Los acuerdos de disolución o modificación de estatutos requieren mayorías cualificadas en la Asamblea General.",
+    "Se promueve el uso de trámites electrónicos para la gestión del Registro de Asociaciones.",
+    "Los miembros de los órganos de representación pueden recibir retribución solo si se establece en los estatutos y se refleja en las cuentas."
+  ],
+  "legal_references": [
+    "Ley Orgánica 1/2002, de 22 de marzo, reguladora del Derecho de Asociación",
+    "Constitución Española (artículo 22)",
+    "Estatuto de Autonomía para Andalucía (artículo 13.25)"
+  ],
+  "derogations": [],
+  "main_obligations": "Las asociaciones deben llevar obligatoriamente una relación actualizada de socios, contabilidad fiel, inventario de bienes y libro de actas. Deben aprobar anualmente las cuentas mediante la Asamblea General.",
+  "effective_date": "2006-08-04",
+  "procedures": [
+    {
+      "name": "Declaración de interés público de Andalucía",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de la asociación",
+          "description": "La asociación presenta la solicitud cumpliendo requisitos de fines generales, actividad no restringida y medios adecuados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estatutos, acreditación de inscripción en el Registro y cumplimiento de requisitos de actividad."
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "La Consejería competente resuelve mediante Orden.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Modificación de estatutos (efectos ante terceros)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de la Asamblea General",
+          "description": "Convocatoria específica para tratar la modificación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Inscripción en el Registro",
+          "description": "Para que la modificación sea válida frente a terceros, debe inscribirse en el Registro de Asociaciones de Andalucía.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta del acuerdo de la Asamblea General."
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento disciplinario",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción",
+          "description": "Un órgano distinto al que resuelve debe instruir el expediente garantizando el derecho a alegaciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Información de los hechos que motivan la sanción."
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "El órgano competente impone la sanción motivada respetando la proporcionalidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

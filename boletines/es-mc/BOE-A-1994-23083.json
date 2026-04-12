@@ -1,0 +1,80 @@
+{
+  "identifier": "BOE-A-1994-23083",
+  "title": "Ley 5/1994, de 1 de agosto, del Estatuto Regional de la Actividad Política",
+  "visible_title": "Estatuto Regional de la Actividad Política",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "5/1994",
+  "publication_date": "1994-10-21",
+  "enactment_date": "1994-08-01",
+  "last_updated": "2015-12-19",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/1994/08/01/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece un marco ético y de control para los diputados y altos cargos de la Región de Murcia. Su objetivo es garantizar la transparencia, la lealtad al interés general y evitar conflictos de intereses mediante la regulación de incompatibilidades y la obligación de declarar bienes y actividades. Busca que la actividad política sea íntegra y que existan consecuencias claras ante conductas corruptas o irregulares.",
+  "citizen_impact": "Aumenta la transparencia y la confianza ciudadana al permitir el control público sobre el patrimonio y los intereses de quienes toman decisiones en la región. No impone trámites directos al ciudadano común, pero sí garantiza un mayor control sobre el uso de los recursos públicos.",
+  "professional_impact": "Afecta directamente a diputados regionales y altos cargos de la Administración murciana, quienes ahora deben cumplir con estrictos regímenes de dedicación exclusiva e incompatibilidades. Además, las empresas que contraten con la región deben certificar que sus directivos no están sujetos a esta ley para evitar conflictos de interés.",
+  "keywords": [
+    "transparencia política",
+    "conflictos de interés",
+    "altos cargos",
+    "incompatibilidades",
+    "declaración de bienes",
+    "ética pública",
+    "Región de Murcia"
+  ],
+  "key_points": [
+    "Obligación de los altos cargos de dedicación absoluta y exclusiva al servicio público.",
+    "Prohibición de que diputados y altos cargos mantengan actividades privadas que generen conflictos de interés.",
+    "Creación de registros públicos de actividades, intereses y bienes para el control de la actividad política.",
+    "Obligación de declarar el patrimonio, bienes, actividades y la situación tributaria (IRPF y Patrimonio).",
+    "Prohibición de que diputados actúen como contratistas de la Administración regional durante su mandato y hasta dos años después.",
+    "Establecimiento de sanciones políticas, penales y civiles, incluyendo la obligación de devolver dinero obtenido indebidamente.",
+    "Control parlamentario a través de una comisión específica para vigilar el cumplimiento de estos deberes."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley 7/1988, de 6 de octubre, de Órganos Rectores de las Cajas de Ahorros de la Región de Murcia"
+  ],
+  "derogations": [
+    "Normas de igual o inferior rango que se opongan a la presente Ley"
+  ],
+  "main_obligations": "Los diputados y altos cargos deben presentar declaraciones de actividades, intereses y bienes en un plazo de dos meses tras su toma de posesión. Se prohíbe la percepción de múltiples remuneraciones públicas y se exige la abstención en asuntos donde exista conflicto de interés personal o familiar.",
+  "effective_date": "1994-10-22",
+  "procedures": [
+    {
+      "name": "Declaración de actividades, intereses y bienes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación inicial de declaraciones",
+          "description": "Formulación de las declaraciones de actividades, intereses, bienes y tributarias tras la toma de posesión.",
+          "start_date": "Fecha de toma de posesión",
+          "end_date": "2 meses después de la toma de posesión",
+          "required_documentation": "Declaración de actividades, intereses, bienes, copia de la última declaración de IRPF y patrimonio, y certificación de estar al corriente con Hacienda."
+        },
+        {
+          "step": 2,
+          "title": "Comunicación de modificaciones",
+          "description": "Notificación de cualquier cambio en la situación patrimonial o en las actividades declaradas.",
+          "start_date": "En el momento en que se produzca la variación",
+          "end_date": "1 mes tras la modificación",
+          "required_documentation": "Documentación que acredite la variación de los datos."
+        },
+        {
+          "step": 3,
+          "title": "Declaración al cese",
+          "description": "Presentación de la declaración final al abandonar el cargo.",
+          "start_date": "Fecha de pérdida del cargo",
+          "end_date": "1 mes después del cese",
+          "required_documentation": "Declaración de cese y actualización de datos."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

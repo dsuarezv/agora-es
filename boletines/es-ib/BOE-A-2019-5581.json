@@ -1,0 +1,233 @@
+{
+  "identifier": "BOE-A-2019-5581",
+  "title": "Ley 12/2019, de 12 de marzo, de consultas populares y procesos participativos",
+  "visible_title": "Ley de consultas populares y procesos participativos",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "12/2019",
+  "publication_date": "2019-04-13",
+  "enactment_date": "2019-03-12",
+  "last_updated": "2019-03-19",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2019/03/12/12",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley transforma la forma en que los ciudadanos de las Illes Baleares influyen en la gestión pública, creando un modelo de democracia participativa real. Introduce la posibilidad de realizar referéndums municipales vinculantes sobre temas locales y permite que la ciudadanía decida directamente sobre el destino de parte de los presupuestos municipales. Para participar, se establece un Registro Único de Participación Ciudadana que incluye a mayores de 16 años. El objetivo es que la toma de decisiones no sea exclusiva de los representantes, sino que incluya mecanismos de consulta, foros y audiencias públicas.",
+  "citizen_impact": "Los ciudadanos mayores de 16 años ganan poder de decisión directa sobre asuntos de su municipio. Pueden participar en presupuestos participativos, votar en consultas ciudadanas (si están inscritos en el registro) o incluso en referéndums municipales que obligan al Ayuntamiento a cumplir el resultado. Además, se facilita el ejercicio del voto permitiendo la votación anticipada en la Secretaría del ayuntamiento sin necesidad de justificar la ausencia el día de la votación.",
+  "professional_impact": "Los ayuntamientos deben adaptar su gestión para incluir partidas presupuestarias específicas para procesos participativos y garantizar que la información llegue a todos sin brecha digital. Los funcionarios deberán gestionar el Registro Único de Participación Ciudadana y organizar mesas de consulta mediante sorteo público. Asimismo, las administraciones locales tienen la obligación de publicar convocatorias con al menos dos meses de antelación y facilitar espacios gratuitos para la campaña de los promotores.",
+  "keywords": [
+    "democracia participativa",
+    "referéndum municipal",
+    "presupuestos participativos",
+    "consulta ciudadana",
+    "Registro Único de Participación Ciudadana",
+    "Illes Baleares"
+  ],
+  "key_points": [
+    "Creación del Registro Único de Participación Ciudadana para mayores de 16 años y entidades sin ánimo de lucro.",
+    "Los referéndums municipales sobre competencias locales son obligatoriamente vinculantes para el ayuntamiento.",
+    "Los referéndums municipales requieren autorización previa del Gobierno del Estado.",
+    "Se prohíbe el uso de papeletas con la respuesta (sí/no) preimpresa para proteger la libertad del voto.",
+    "Se permite el voto anticipado ante la secretaría del ayuntamiento sin necesidad de alegar causas.",
+    "Las consultas ciudadanas no son vinculantes y requieren inscripción previa en el registro.",
+    "La recogida de firmas para iniciar una consulta tiene un plazo máximo de cuatro meses.",
+    "La votación puede realizarse de forma presencial (urna física o electrónica) o telemática.",
+    "Los miembros de las mesas de consulta se eligen por sorteo público y tienen derecho a indemnización.",
+    "Los presupuestos participativos permiten decidir el destino de recursos propios de la administración.",
+    "La autoridad convocante debe publicar el decreto de convocatoria con al menos dos meses de antelación.",
+    "Se deben garantizar espacios gratuitos para la campaña informativa de los promotores."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 1, 9.2, 23, 149.1.32.ª)",
+    "Estatuto de Autoautonomía de las Illes Balears (art. 15, 31, 48.2)",
+    "Ley Orgánica 2/1980 de regulación de referéndums",
+    "Ley 7/1985 de Bases de Régimen Local (art. 18.f, 71)",
+    "Sentencia del Tribunal Constitucional 31/2015",
+    "Sentencia del Tribunal Constitucional 10 de mayo de 2017",
+    "Ley 11/2016 de igualdad de mujeres y hombres",
+    "Ley 20/2006, de 12 de junio, municipal y de régimen local de las Illes Balears"
+  ],
+  "derogations": [
+    "Artículo 123 de la Ley 20/2006, de 12 de junio, municipal y de régimen local de las Illes Balears"
+  ],
+  "main_obligations": "Los ayuntamientos deben reservar partidas presupuestarias para procesos participativos y garantizar la accesibilidad digital. Las autoridades deben publicar las convocatorias con dos meses de antelación y facilitar la campaña de los promotores.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Iniciativa Popular para Referéndum Municipal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Constitución de la comisión promotora",
+          "descrption": "Formación de un grupo mínimo de 10 personas para impulsar la propuesta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de la solicitud",
+          "descrption": "Entrega de solicitud al presidente de la corporación con la pregunta (sí/no) y datos de la comisión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Texto de la pregunta, identificación de la comisión y poderes de representación."
+        },
+        {
+          "step": 3,
+          "title": "Examen de admisibilidad",
+          "descrption": "El secretario examina la solicitud y el alcalde dicta resolución en 20 días hábiles.",
+          "start_date": "Desde la presentación",
+          "end_date": "20 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Recogida de firmas",
+          "descrption": "Proceso de recogida de firmas tras la admisión de la solicitud.",
+          "start_date": "Tras la notificación de admisión",
+          "end_date": "4 meses",
+          "required_documentation": "Pliegos de recogida de firmas con datos de los firmantes."
+        },
+        {
+          "step": 5,
+          "title": "Acuerdo de celebración",
+          "descrption": "El Pleno debe aprobar la celebración del referéndum por mayoría absoluta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Solicitud de autorización estatal",
+          "descrption": "El ayuntamiento solicita la autorización al Gobierno del Estado en 5 días hábiles tras el acuerdo.",
+          "start_date": "Tras el acuerdo del Pleno",
+          "end_date": "5 días hábiles",
+          "required_documentation": "Certificado del acuerdo y expediente completo."
+        },
+        {
+          "step": 7,
+          "title": "Convocatoria",
+          "descrption": "Emisión del decreto de alcaldía para convocar la votación.",
+          "start_date": "Tras la autorización del Estado",
+          "end_date": "5 días hábiles tras recibir autorización",
+          "required_documentation": null
+        },
+        {
+          "step": 8,
+          "title": "Celebración del referéndum",
+          "descrption": "Realización de la votación en un plazo máximo de 3 meses desde la convocatoria.",
+          "start_date": null,
+          "end_date": "Máximo 3 meses tras convocatoria",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Consulta Ciudadana (No refrendaria)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciativa o convocatoria",
+          "descrption": "Puede ser por iniciativa institucional o popular (según porcentajes de población).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Valoración de la solicitud",
+          "descrption": "Examen de la petición por el órgano competente en 20 días hábiles.",
+          "start_date": "Desde la presentación",
+          "end_date": "20 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Votación",
+          "descrption": "Proceso de votación restringido a personas inscritas en el Registro Único.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Proceso de Consulta Ciudadana",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recogida de firmas",
+          "description": "La comisión promotora inicia la recogida de firmas tras la notificación de admisión.",
+          "start_date": "Desde la notificación de la resolución",
+          "end_date": "4 meses",
+          "required_documentation": "Plegos con nombre, apellidos, DNI/NIE/Pasaporte y rúbrica"
+        },
+        {
+          "step": 2,
+          "title": "Convocatoria",
+          "description": "La Presidencia emite un decreto convocando la consulta tras validar las firmas.",
+          "start_date": "Tras la validación de firmas",
+          "end_date": "5 días para la convocatoria",
+          "required_documentation": "Decreto de convocatoria publicado en el BOIB"
+        },
+        {
+          "step": 3,
+          "title": "Campaña informativa",
+          "description": "Periodo de difusión de la consulta y las propuestas.",
+          "start_date": "Desde la convocatoria",
+          "end_date": "Entre 10 y 15 días hábiles antes de la votación",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Votación",
+          "description": "Celebración de la consulta, preferiblemente en domingo o día festivo.",
+          "start_date": "Fecha fijada en el decreto",
+          "end_date": "19:00 horas del día de la votación",
+          "required_documentation": "Documento oficial con fotografía"
+        },
+        {
+          "step": 5,
+          "title": "Escrutinio y proclamación",
+          "description": "Recuento provisional y posterior escrutinio definitivo por el Consejo de Participación.",
+          "start_date": "Inmediatamente tras el cierre",
+          "end_date": "Al día siguiente (escrutinio definitivo)",
+          "required_documentation": "Actas de las mesas y sobres con papeletas"
+        }
+      ]
+    },
+    {
+      "name": "Audiencia Pública Ciudadana",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud",
+          "description": "Petición de audiencia por parte de ciudadanos inscritos en el Registro Único.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Explicación breve del asunto a tratar"
+        },
+        {
+          "step": 2,
+          "title": "Valoración",
+          "description": "La administración comprueba si el asunto es de su competencia.",
+          "start_date": "Desde la solicitud",
+          "end_date": "7 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Celebración",
+          "description": "Debate público oral en una sola jornada.",
+          "start_date": "Tras la convocatoria",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

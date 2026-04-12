@@ -1,0 +1,144 @@
+{
+  "identifier": "BOE-A-1991-10111",
+  "title": "Ley 3/1991, de 14 de marzo, de Entidades Locales de Castilla-La Mancha",
+  "visible_title": "Ley de Entidades Locales de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "3/1991",
+  "publication_date": "1991-04-25",
+  "enactment_date": "1991-03-14",
+  "last_updated": "2012-12-01",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/1991/03/14/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley organiza y regula cómo funcionan los municipios y otras entidades locales en Castilla-La Mancha. Establece las reglas para crear, fusionar o dividir municipios, y regula las entidades de menor tamaño (como pedanías) y las asociaciones entre ayuntamientos (mancomunidades). Además, crea mecanismos de financiación y participación para asegurar que los municipios pequeños puedan prestar servicios básicos.",
+  "citizen_impact": "Afecta a la organización de los servicios que recibes en tu localidad (limpieza, agua, alumbrado, etc.). Determina si tu núcleo de población tiene autonomía propia o depende de un ayuntamiento mayor, y cómo se gestionan tus intereses locales mediante la participación en juntas vecinales o concejos abiertos.",
+  "professional_impact": "Impacta directamente en funcionarios locales y gestores públicos, al definir sus competencias, regímenes de gobierno y estructuras de mando. Para empresas que contratan con la administración, establece la base de la organización de los entes que licitan servicios y obras en la región.",
+  "keywords": [
+    "entidades locales",
+    "municipios",
+    "mancomunidades",
+    "régimen local",
+    "Castilla-La Mancha",
+    "segregación municipal",
+    "concejo abierto",
+    "entidades de ámbito inferior al municipio"
+  ],
+  "key_points": [
+    "Regula la creación, fusión y segregación de municipios bajo requisitos de población y recursos.",
+    "Permite la existencia de Entidades de Ámbito Territorial Inferior al Municipio para gestionar intereses específicos de núcleos alejados.",
+    "Faculta la creación de Mancomunidades para que municipios pequeños colaboren en la prestación de servicios.",
+    "Establece el régimen de 'Concejo Abierto' para municipios de menos de 100 habitantes o por tradición.",
+    "Crea el Consejo Regional de Municipios como órgano de comunicación con la Junta de Comunidades.",
+    "Instituye el Fondo Regional de Cooperación Local para financiar obras y equipamientos municipales.",
+    "Permite la delegación de competencias de la Comunidad Autónoma a municipios grandes o mancomunidades."
+  ],
+  "legal_references": [
+    "Constitución Española de 1978",
+    "Estatuto de Autonomía de Castilla-La Mancha",
+    "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+    "Ley 39/1988, de 28 de diciembre, Reguladora de las Haciendas Locales",
+    "Ley 7/1995, de 21 de diciembre"
+  ],
+  "derogations": [
+    "Ley 7/1995, de 21 de diciembre"
+  ],
+  "main_obligations": "Los municipios que se segreguen para constituir un nuevo municipio deben presentar un anteproyecto de presupuesto que justifique sus ingresos. En procesos de segregación-agregación, el municipio beneficiario debe indemnizar al originario con 10 veces el valor de los impuestos que dejará de percibir.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Alteración de términos municipales (Fusión, Incorporación o Segregación)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciativa",
+          "description": "Presentación de la propuesta por municipios, entidades inferiores, vecinos (2/3), Diputaciones o de oficio por la Consejería.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Audiencia municipal y de interesados",
+          "description": "Exposición pública de la propuesta para alegaciones.",
+          "start_date": "1 mes",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Audiencia a órganos administrativos",
+          "description": "Se da traslado a la Delegación del Gobierno y a la Diputación Provincial.",
+          "start_date": "1 mes",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Informes técnicos",
+          "description": "Emisión de informe de la Dirección General de Administración Local y dictamen del órgano consultivo superior.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Resolución",
+          "description": "Aprobación definitiva mediante Decreto del Consejo de Gobierno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Constitución de Entidades de Ámbito Territorial Inferior al Municipio",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciativa",
+          "description": "Propuesta por 2/3 de los vecinos o por el Ayuntamiento con mayoría de 2/3.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Exposición de la iniciativa en el Ayuntamiento.",
+          "start_date": "1 mes",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Remisión de expediente",
+          "description": "El Ayuntamiento envía el expediente a la Consejería de Presidencia incluyendo informe económico-financiero.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe económico-financiero de viabilidad"
+        },
+        {
+          "step": 4,
+          "title": "Informes preceptivos",
+          "description": "Solicitud de informe a la Delegación del Gobierno y a la Diputación Provincial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Aprobación",
+          "description": "Resolución mediante Decreto del Consejo de Gobierno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

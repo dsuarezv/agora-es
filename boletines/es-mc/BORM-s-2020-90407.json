@@ -1,0 +1,76 @@
+{
+  "identifier": "BORM-s-2020-90407",
+  "title": "Decreto-ley 10/2020, de 8 de octubre, por el que se establecen medidas de lucha contra la ocupación de las viviendas en la Región de Murcia y se modifica la Ley 2/2012, de 11 de mayo, y el Decreto Legislativo 1/1999, de 2 de diciembre, por el que se aprueba el texto refundido de la Ley de Hacienda de la Región de Murcia",
+  "visible_title": "Medidas de lucha contra la ocupación de viviendas en la Región de Murcia",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "10/2020",
+  "publication_date": "2020-10-15",
+  "enactment_date": "2020-10-08",
+  "last_updated": "2022-06-01",
+  "status": "amended",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2020-90407",
+  "official_journal": "Boletín Oficial de la Región de Murcia",
+  "journal_issue": null,
+  "summary": "Esta norma implementa medidas urgentes para combatir la ocupación ilegal de viviendas en Murcia, creando canales de denuncia y asistencia legal para las víctimas. Además, agiliza el pago de ayudas para los damnificados por el terremoto de Lorca y modifica la gestión de la deuda comercial regional para asegurar la sostenibilidad financiera ante la crisis de la COVID-19.",
+  "citizen_impact": "Los propietarios víctimas de ocupación acceden a asistencia jurídica gratuita mediante convenios con colegios de abogados. También se facilita la denuncia de ocupaciones a través de un nuevo canal específico de la Consejería de Vivienda.",
+  "professional_impact": "Las empresas suministradoras de agua, gas y electricidad tienen la obligación de comunicar la ocupación de una vivienda ante sospechas fundadas. Los profesionales del sector de la vivienda y abogados ven reforzada su actuación mediante la creación del Servicio de Mediación Hipotecaria y Lucha contra la Ocupación.",
+  "keywords": [
+    "ocupación de viviendas",
+    "propiedad privada",
+    "ayudas terremoto Lorca",
+    "asistencia jurídica",
+    "suministros básicos",
+    "sostenibilidad financiera"
+  ],
+  "key_points": [
+    "Creación de un canal de denuncias de ocupación gestionado por la Consejería de Vivienda.",
+    "Asistencia legal gratuita para víctimas de ocupación mediante convenios con Colegios de Abogados.",
+    "Obligación de las empresas de suministros (agua, luz, gas) de informar sobre posibles ocupaciones.",
+    "Prohibición de acceder a viviendas de promoción pública a quienes hayan sido sancionados por ocupación en los últimos 10 años.",
+    "Ampliación de plazos para la justificación de ayudas por el terremoto de Lorca hasta el 31 de octubre de 2022.",
+    "Facilitación de anticipos de caja para entidades públicas para evitar retrasos en el pago a proveedores."
+  ],
+  "legal_references": [
+    "Ley 6/2015, de 24 de marzo, de la Vivienda de la Región de Murcia",
+    "Ley 2/2012, de 11 de mayo",
+    "Decreto Legislativo 1/1999, de 2 de diciembre",
+    "Real Decreto-ley 6/2011, de 13 de mayo",
+    "Real Decreto-ley 17/2011, de 31 de octubre",
+    "Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera"
+  ],
+  "derogations": [],
+  "main_obligations": "Las empresas suministradoras de servicios básicos deben comunicar la ocupación de viviendas ante sospechas fundadas. Los solicitantes de vivienda pública no deben haber sido sancionados por ocupación o usurpación en los últimos 10 años.",
+  "effective_date": "2020-10-16",
+  "procedures": [
+    {
+      "name": "Denuncia de ocupación de vivienda",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de denuncia",
+          "descrption": "Uso del nuevo canal de la Consejería de Vivienda para reportar la ocupación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la propiedad o posesión legítima"
+        }
+      ]
+    },
+    {
+      "name": "Justificación de ayudas terremoto Lorca",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de ejecución y justificación",
+          "descrption": "Periodo para presentar certificaciones y certificados finales de obra para el cobro de ayudas.",
+          "start_date": null,
+          "end_date": "2022-10-31",
+          "required_documentation": "Certificaciones de obra y certificado final de obra según Decreto 68/2011"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

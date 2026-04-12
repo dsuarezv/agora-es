@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-1999-11712",
+  "title": "Ley 21/1998, de 30 de noviembre, de Ordenación, Protección y Promoción de la Artesanía en la Comunidad de Madrid",
+  "visible_title": "Ley de Ordenación, Protección y Promoción de la Artesanía en la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "21/1998",
+  "publication_date": "1999-12-09",
+  "enactment_date": "1998-11-30",
+  "last_updated": "2010-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1998/11/30/21",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": "292",
+  "summary": "Esta ley establece el marco legal para organizar, proteger y fomentar el sector artesano en la Comunidad de Madrid. Busca modernizar el sector, proteger los oficios tradicionales en peligro de extinción y facilitar la comercialización de productos artesanales. Para ello, crea registros oficiales, documentos de acreditación y un consejo asesor para el sector.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo para aquellos interesados en adquirir productos con el distintivo oficial de artesanía madrileña que garantiza su origen y técnica.",
+  "professional_impact": "Los artesanos y empresas del sector deben inscribirse en el Registro de Actividades Artesanas para acceder a ayudas, subvenciones y al uso de distintivos oficiales. Se introducen el Carné de Artesano y la Carta de Empresa Artesana como requisitos para obtener el reconocimiento institucional y beneficios económicos.",
+  "keywords": [
+    "artesanía",
+    "Comunidad de Madrid",
+    "oficios tradicionales",
+    "empresa artesana",
+    "promoción económica",
+    "registro de artesanos"
+  ],
+  "key_points": [
+    "Creación del Carné de Artesano para personas físicas y la Carta de Empresa Artesana para personas jurídicas.",
+    "Establecimiento de un Registro de Actividades Artesanas obligatorio para obtener beneficios y ayudas.",
+    "Creación del Consejo Madrileño para la Promoción de la Artesanía como órgano de asesoramiento.",
+    "Posibilidad de declarar 'Áreas de Interés Artesanal' para proteger zonas con identidad artesana específica.",
+    "Exclusión explícita de la artesanía alimentaria, que requiere su propia regulación.",
+    "Los documentos de acreditación (carné y carta) tienen una validez de cinco años.",
+    "Aprobación de un Repertorio de Actividades y Oficios Artesanos que define qué se considera artesanía."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunidad de Madrid",
+    "Real Decreto 1860/1984",
+    "Decreto 10/1991",
+    "Orden 1067/1992",
+    "Orden 4276/1996",
+    "Ley 30/1992"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a la presente Ley"
+  ],
+  "main_obligations": "Los artesanos e inscritos en el Registro deben comunicar cualquier cambio de datos (titularidad, domicilio o actividad) en los plazos que se regulen. Deben poner a disposición de la Consejería la documentación necesaria para verificar la veracidad de sus datos.",
+  "effective_date": "1999-12-09",
+  "procedures": [
+    {
+      "name": "Inscripción en el Registro de Actividades Artesanas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inscripción",
+          "description": "Presentación de la solicitud para ser incluido en el registro oficial de la Comunidad de Madrid.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la actividad y conocimientos según la reglamentación"
+        },
+        {
+          "step": 2,
+          "title": "Obtención de acreditación",
+          "description": "Concesión del Carné de Artesano o la Carta de Empresa Artesana tras la inscripción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Concesión del Distintivo de Carácter Artesanal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud del distintivo",
+          "description": "El artesano o empresa solicita la marca para sus productos específicos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe del Consejo",
+          "description": "El Consejo Madrileño para la Promoción de la Artesanía emite un informe previo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

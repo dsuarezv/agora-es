@@ -1,0 +1,149 @@
+{
+  "identifier": "BOE-A-2017-12357",
+  "title": "Ley 4/2017, de 3 de octubre, de protección y bienestar de los animales de compañía en Galicia",
+  "visible_title": "Ley de protección y bienestar de los animales de compañía en Galicia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "4/2017",
+  "publication_date": "2017-10-30",
+  "enactment_date": "2017-10-03",
+  "last_updated": "2024-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2017/10/03/4",
+  "official_journal": "DOG",
+  "journal_issue": null,
+  "summary": "Esta ley endurece drásticamente la protección de los animales de compañía y silvestres en cautividad en Galicia. Establece prohibiciones estrictas contra el maltrato estético, la educación agresiva y la venta de animales a menores. Además, introduce un régimen sancionador severo que puede alcanzar los 30.000 euros y permite a la Administración intervenir de inmediato para rescatar animales en riesgo. El objetivo es garantizar un estándar de bienestar superior y una responsabilidad clara para sus dueños.",
+  "citizen_impact": "Los dueños de mascotas deben cumplir con la identificación obligatoria de sus perros y el registro en el Regiac. Se prohíbe la venta o donación de animales a menores de 16 años y se limita la separación de cachorros de su madre hasta las 10 semanas. Los ciudadanos también deben recoger los excrementos de sus animales y respetar las prohibiciones de uso de métodos de educación agresiva como collarres eléctricos.",
+  "professional_impact": "Los establecimientos dedicados al comercio de animales o servicios relacionados deben adaptarse a la normativa en un plazo de 18 meses. Los locales de manipulación de alimentos que quieran permitir la presencia de animales deben contar con una autorización y distintivo visible. Las empresas que incumplan la ley se enfrentan a sanciones económicas graves, cierres de locales (de 1 a 10 años o definitivos) y el decomiso de sus animales.",
+  "keywords": [
+    "bienestar animal",
+    "protección de animales",
+    "Galicia",
+    "sanciones animales",
+    "identificación de perros",
+    "tenencia responsable"
+  ],
+  "key_points": [
+    "Identificación obligatoria de todos los perros sin excepción.",
+    "Prohibición total de mutilaciones estéticas (orejas, colas) y de uso de collarres eléctricos.",
+    "Prohibición de venta o donación de animales a menores de 16 años.",
+    "Los cachorros de perros y gatos no pueden separarse de su madre antes de las 10 semanas.",
+    "Sanciones económicas de hasta 30.000 euros, pudiendo ser mayores si hay beneficio económico.",
+    "Posibilidad de decomiso de animales y cierre de negocios como medidas sancionadoras.",
+    "La Administración puede retirar animales o cerrar locales de forma inmediata como medida provisional.",
+    "Los ayuntamientos gestionan infracciones leves, mientras que la Xunta gestiona las graves y muy graves.",
+    "El silencio administrativo en solicitudes de autorización se entiende como desestimación.",
+    "Los responsables de cargos públicos que incumplan la ley recibirán la multa máxima."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 45.1 y 149.1.23)",
+    "Estatuto de Autoarmía de Galicia",
+    "Ley 1/1993 de protección de animales domésticos y salvajes en cautividad",
+    "Ley 8/2014 de modificación de la Ley 1/1993",
+    "Ley 50/1999 de régimen jurídico de la tenencia de animales potencialmente peligrosos",
+    "Real Decreto 287/2002",
+    "Ley 20/2013 de garantía de la unidad de mercado",
+    "Directiva 2006/123/CE",
+    "Ley 9/2013 del emprendimiento y la competitividad económica de Galicia",
+    "Ley 39/2015 del procedimiento administrativo común",
+    "Código Civil (art. 1905)",
+    "Ley 40/2015, de 1 de octubre, de régimen jurídico del sector público",
+    "Ley 31/2003, de 27 de octubre",
+    "Ley 16/2010, de 17 de diciembre"
+  ],
+  "derogatons": [
+    "Ley 1/1993, de 13 de abril, de protección de los animales domésticos y salvajes en cautividad"
+  ],
+  "main_obligations": "Los propietarios deben identificar obligatoriamente a sus perros y cumplir con las normas de recogida de excrementos y no abandono. Los establecimientos comerciales tienen un plazo de 18 meses para adaptarse a las nuevas exigencias de la ley.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Recuperación de animal identificado tras recogida municipal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de recogida",
+          "description": "El centro de recogida comunica al propietario la entrada del animal en un plazo de 48 horas.",
+          "start_date": "48 horas desde la recogida",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de recuperación",
+          "description": "El propietario dispone de un plazo para retirar al animal tras la notificación.",
+          "start_date": "Desde la notificación",
+          "end_date": "10 días naturales",
+          "required_documentation": "Licencia (si es animal potencialmente peligroso)"
+        },
+        {
+          "step": 3,
+          "title": "Declaración de abandono",
+          "description": "Si no se retira en plazo, el animal se considera abandonado y se inicia expediente sancionador.",
+          "start_date": "Tras los 10 días naturales",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Cambio de titularidad de animal identificado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de cambio",
+          "description": "Tanto el cedente como el adquirente deben comunicar el cambio al registro.",
+          "start_date": "Desde la entrega efectiva",
+          "end_date": "10 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de otorgamiento de autorización de establecimientos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y entrada en registro",
+          "description": "Presentación de la solicitud para operar un establecimiento.",
+          "start_date": "Fecha de entrada en registro",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Notificación de la decisión administrativa (si no hay respuesta, se entiende denegada).",
+          "start_date": "Desde la entrada en registro",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Medidas provisionales (opcional)",
+          "description": "Decomiso de animales o cierre de instalaciones para asegurar la eficacia de la resolución.",
+          "start_date": "Previo o durante la tramitación",
+          "end_date": "15 días (plazo para confirmar/modificar mediante acuerdo de inicio)",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y resolución",
+          "description": "Tramitación del expediente y notificación de la sanción.",
+          "start_date": "Desde el acuerdo de inicio",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

@@ -1,0 +1,90 @@
+{
+  "identifier": "BOE-A-2010-6562",
+  "title": "Ley 2/2010, de 11 de marzo, de Derechos de los Ciudadanos en sus relaciones con la Administración de la Comunidad de Castilla y León y de Gestión Pública",
+  "visible_title": "Ley de Derechos de los Ciudadanos y Gestión Pública de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "2/2010",
+  "publication_date": "2010-04-26",
+  "enactment_date": "2010-03-11",
+  "last_updated": "2017-07-06",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2010/03/11/2",
+  "official_journal": "Boletín Oficial de Castilla y León",
+  "journal_issue": null,
+  "summary": "Esta ley transforma la relación entre la Administración de Castilla y León y la ciudadanía, pasando de un modelo de mera organización a uno basado en derechos subjetivos. Establece garantías para que los ciudadanos reciban información, trámites imparciales y resoluciones motivadas. Además, impulsa la modernización mediante la administración electrónica, la simplificación de trámites y la evaluación constante de la calidad de los servicios públicos.",
+  "citizen_impact": "Otorga derechos claros como recibir respuestas en plazos razonables, acceder a documentos y presentar quejas por mal funcionamiento. Facilita la vida digital al promover el uso de la sede electrónica y el expediente electrónico, permitiendo realizar trámites desde cualquier lugar.",
+  "professional_impact": "Obliga a los funcionarios y autoridades a actuar con proactividad, transparencia y eficiencia, asumiendo la responsabilidad por negligencias graves. Las empresas y organismos públicos deben adaptarse a procesos de simplificación administrativa y reducir la carga de información requerida para mejorar la competitividad.",
+  "keywords": [
+    "derechos ciudadanos",
+    "buena administración",
+    "gestión pública",
+    "administración electrónica",
+    "Castilla y León",
+    "transparencia",
+    "simplificación administrativa"
+  ],
+  "key_points": [
+    "Derecho a recibir resoluciones expresas, motivadas y en un plazo máximo de tres meses si no hay otro plazo específico.",
+    "Obligación de la Administración de actuar de oficio para facilitar trámites que reconozcan derechos al ciudadano.",
+    "Derecho a identificar a los responsables de la tramitación de cualquier procedimiento administrativo.",
+    "Implementación de la administración electrónica y el expediente electrónico como ejes de modernización.",
+    "Creación de un sistema de evaluación de políticas públicas y de la calidad de los servicios mediante cartas de servicios.",
+    "Derecho de los ciudadanos a formular quejas y sugerencias, con obligación de respuesta en tres meses.",
+    "Posibilidad de exigir responsabilidad a funcionarios por dolo o negligencia grave tras haber sido indemnizado por la Administración.",
+    "Promoción de la 'ventanilla única' para trámites esenciales de actividad empresarial."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Castilla y León",
+    "Ley 3/2001, de 3 de julio, del Gobierno y Administración de la Comunidad de Castilla y León",
+    "Ley 37/2007, de 16 de noviembre",
+    "Directiva 2006/123/CE del Parlamento Europeo",
+    "Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos",
+    "Ley Orgánica 4/2001, de 12 de diciembre, del régimen del derecho de petición",
+    "Ley 2/1994, de 9 de marzo, del Procurador del Común"
+  ],
+  "derogations": [
+    "Decreto 46/2000, de 9 de marzo, que aprobaba el Plan Marco de Mejora y Calidad de los Servicios de la Administración de la Comunidad de Castilla y León"
+  ],
+  "main_obligations": "La Administración debe responder a las quejas y sugerencias en un plazo máximo de tres meses. Los empleados públicos tienen la obligación de colaborar con el Procurador del Común, bajo riesgo de sanciones disciplinarias o penales.",
+  "effective_date": "2010-05-01",
+  "procedures": [
+    {
+      "name": "Formulación de quejas y sugerencias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la queja",
+          "description": "El ciudadano manifiesta una anomalía o retraso en el servicio público.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la queja",
+          "description": "La Administración debe dar respuesta por escrito a la queja presentada.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Derecho de petición",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Remisión al órgano competente",
+          "description": "Si la petición se dirige a un órgano incompetente, este debe remitirla al correcto y avisar al interesado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

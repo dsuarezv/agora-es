@@ -1,0 +1,77 @@
+{
+  "identifier": "BOE-A-2006-569",
+  "title": "Ley 12/2005, de 27 de diciembre, reguladora del Estatuto de los ex Presidentes de la Junta de Castilla y León",
+  "visible_title": "Estatuto de los ex Presidentes de la Junta de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "12/2005",
+  "publication_date": "2006-01-16",
+  "enactment_date": "2005-12-27",
+  "last_updated": "2005-12-28",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2005/12/27/12",
+  "official_journal": "Boletín Oficial de Castilla y León",
+  "journal_issue": null,
+  "summary": "Esta norma establece el marco de derechos y reconocimientos para quienes hayan ejercido como Presidente de la Junta de Castilla y León tras su cese. Garantiza apoyo protocolario vitalicio y asistencia logística en desplazamientos fuera de la comunidad a través de sus oficinas en Madrid y Bruselas. Además, regula la integración de estos ex mandatarios como consejeros natos en el Consejo Consultivo de la región.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta específicamente a los ex Presidentes de la Junta, quienes adquieren derechos de apoyo institucional y la posibilidad de integrarse en el Consejo Consultivo. Para los profesionales del Consejo Consultivo, modifica las reglas de composición y los plazos de incorporación de estos nuevos miembros.",
+  "keywords": [
+    "ex Presidentes",
+    "Junta de Castilla y León",
+    "Consejo Consultivo",
+    "protocolo",
+    "estatuto",
+    "consejero nato"
+  ],
+  "key_points": [
+    "Reconocimiento y apoyo institucional vitalicio para los ex Presidentes.",
+    "Derecho a usar las oficinas de la Junta en Madrid y Bruselas para desplazamientos fuera de Castilla y León.",
+    "Los ex Presidentes (ciudadanos de la región) son consejeros natos del Consejo Consultivo.",
+    "Plazo de un año para incorporarse al Consejo Consultivo tras el cese.",
+    "El mandato en el Consejo Consultivo suele durar hasta los 70 años, prorrogable a los 75.",
+    "Posibilidad de suspender el mandato en el Consejo si el ex Presidente accede a otro cargo público."
+  ],
+  "legal_references": [
+    "Ley 1/2002, de 9 de abril, reguladora del Consejo Consultivo de Castilla y León",
+    "Estatuto de Autonomía de Castilla y León"
+  ],
+  "derogations": [
+    "Apartado 6 del artículo 7 de la Ley 1/2002, de 9 de abril"
+  ],
+  "main_obligations": "Los ex Presidentes que deseen ser consejeros natos deben notificar su disposición y declarar la ausencia de incompatibilidades en el plazo de un año tras su cese. Si acceden a un cargo público, deben comunicarlo y acreditarlo para suspender su mandato en el Consejo.",
+  "effective_date": "2006-01-17",
+  "procedures": [
+    {
+      "name": "Incorporación al Consejo Consultivo como Consejero Nato",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación y declaración",
+          "description": "El ex Presidente debe comunicar su voluntad de integrarse y declarar que no tiene incompatibilidades.",
+          "start_date": "Desde el cese",
+          "end_date": "1 año desde el cese",
+          "required_documentation": "Declaración de no incurso en causas de incompatibilidad"
+        },
+        {
+          "step": 2,
+          "title": "Suspensión por cargo público",
+          "description": "Si el interesado accede a un cargo público, el mandato se suspende.",
+          "start_date": "Fecha de acceso al cargo público",
+          "end_date": null,
+          "required_documentation": "Comunicación y acreditación del nuevo cargo"
+        },
+        {
+          "step": 3,
+          "title": "Reincorporación tras cargo público",
+          "description": "Plazo para volver al Consejo tras dejar el cargo público.",
+          "start_date": "Fecha de cese en el cargo público",
+          "end_date": "3 meses desde el cese",
+          "required_documentation": "Acreditación del cese en el cargo público"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

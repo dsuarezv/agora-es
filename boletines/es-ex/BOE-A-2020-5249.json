@@ -1,0 +1,98 @@
+{
+  "identifier": "BOE-A-2020-5249",
+  "title": "Decreto-ley 7/2020, de 24 de abril, por el que se aprueban medidas urgentes en materia de educación, para paliar los efectos de la emergencia sanitaria provocada por el COVID-19",
+  "visible_title": "Medidas urgentes en materia de educación para paliar los efectos de la emergencia sanitaria por COVID-19",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Junta de Extremadura",
+  "official_number": "7/2020",
+  "publication_date": "2020-05-23",
+  "enactment_date": "2020-04-24",
+  "last_updated": "2022-11-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/dl/2020/04/24/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece medidas de emergencia para garantizar que el sistema educativo de Extremadura pueda retomar la normalidad tras la suspensión de clases por el COVID-19. Permite la digitalización de trámites administrativos y la gestión electrónica de procesos críticos como la admisión de alumnos. Además, agiliza la concesión de subvenciones y la gestión de contratos de servicios esenciales como el transporte escolar y comedores.",
+  "citizen_impact": "Facilita que las familias realicen la matriculación de sus hijos de forma online para evitar desplazamientos durante el estado de alarma. También asegura la continuidad de ayudas para libros de texto y el funcionamiento de escuelas infantiles en un contexto de crisis.",
+  "professional_impact": "Los centros educativos y empresas de servicios (transporte, comedores) cuentan con mecanismos para tramitar contratos y subvenciones de forma acelerada y electrónica. Se dota de mayor capacidad de decisión al Ente Público de Servicios Educativos Complementarios al elevar su dirección a la categoría de alto cargo.",
+  "keywords": [
+    "educación",
+    "COVID-19",
+    "admisión de alumnos",
+    "tramitación electrónica",
+    "conciertos educativos",
+    "subvenciones",
+    "Extremadura",
+    "transporte escolar"
+  ],
+  "key_points": [
+    "Digitalización obligatoria del proceso de admisión de alumnos para el curso 2020-2021.",
+    "Posibilidad de presentar solicitudes de admisión con declaración responsable, entregando la documentación física posteriormente.",
+    "Habilitación para que la Consejería de Educación gestione trámites de forma electrónica y simplificada.",
+    "Agilización de la convocatoria de ayudas para escuelas infantiles y libros de texto.",
+    "Flexibilización de plazos y requisitos en la suscripción de conciertos educativos.",
+    "Elevación de la Dirección del Ente Público de Servicios Educativos Complementarios a la categoría de Alto Cargo.",
+    "Garantía de continuidad en contratos de transporte escolar y servicios de comedor."
+  ],
+  "legal_references": [
+    "Ley Orgánica 2/2006, de 3 de mayo, de Educación",
+    "Real Decreto 463/2020, de 14 de marzo",
+    "Real Decreto 465/2020, de 17 de marzo",
+    "Ley Orgánica 1/2011, de 28 de enero, de modificación del Estatuto de Autonomía de la Comunidad Autónoma de Extremadura",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Ley 1/2008, de 22 de mayo, de creación de Entidades Públicas de la Junta de Extremadura",
+    "Decreto-ley 3/2020, de 25 de marzo"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan o contradigan al presente decreto-ley"
+  ],
+  "main_obligations": "Los solicitantes de admisión deben presentar una única solicitud electrónica y, posteriormente, aportar la documentación acreditativa de forma presencial para no perder la puntuación o la plaza asignada.",
+  "effective_date": "2020-04-24",
+  "procedures": [
+    {
+      "name": "Admisión de alumnado 2020-2021",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud electrónica",
+          "descrption": "Presentación de la solicitud única a través de la plataforma EducaTIva Rayuela mediante certificado digital o claves de acceso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración responsable de las circunstancias requeridas para la admisión."
+        },
+        {
+          "step": 2,
+          "title": "Aportación de documentación",
+          "descrption": "Entrega presencial de los documentos que acrediten lo declarado en la solicitud.",
+          "start_date": "Plazo que se establezca en la orden",
+          "end_date": null,
+          "required_documentation": "Documentación acreditativa de los datos declarados."
+        },
+        {
+          "step": 3,
+          "title": "Comunicación de resultados",
+          "descrption": "Publicación de los resultados de admisión en la web de cada centro docente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Modificación de Estatutos del Ente Público de Servicios Educativos Complementarios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Modificación reglamentaria",
+          "descrption": "La Consejería de Educación debe realizar las modificaciones necesarias en el Decreto 65/2009 para integrar la nueva Dirección General.",
+          "start_date": "A partir de la entrada en vigor",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

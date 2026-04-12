@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-2011-4631",
+  "title": "Ley 4/2011, de 18 de febrero, de fomento de la colombofilia canaria y protección de la paloma mensajera de la Comunidad Autónoma de Canarias",
+  "visible_title": "Ley de Fomento de la Colombofilia Canaria y Protección de la Paloma Mensajera",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "4/2011",
+  "publication_date": "2011-03-14",
+  "enactment_date": "2011-02-18",
+  "last_updated": "2011-03-02",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2011/02/18/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley reconoce la colombofilia como un deporte tradicional en Canarias, otorgando un estatus especial a la paloma mensajera de competición, que deja de considerarse ganado para ser tratada como ave cautiva. Establece un marco de protección para evitar el maltrato y el fraude deportivo, regulando estrictamente su identificación y cría. Además, impone requisitos sanitarios y de registro para los criadores y establece un régimen de sanciones para quienes incumplan la normativa. El objetivo es profesionalizar y proteger esta actividad deportiva y cultural en el archipiélago.",
+  "citizen_impact": "Los aficionados a la colombofilia deben cumplir con la obligación de anillar a los picachones en los primeros 15 días de vida y poseer una licencia federativa canaria para cualquier actividad de cría o competición. Además, los propietarios deben acreditar la propiedad mediante la tarjeta de propiedad y la anilla de nido, bajo riesgo de sanciones.",
+  "professional_impact": "Los titulares de palomares y centros de cría deben cumplir con estrictos protocolos higiénico-sanitarios y programas de limpieza visados. Aquellos que operen sin autorización tienen un plazo de 18 meses para regularizar su situación ante la Federación Canaria de Colombofilia. El incumplimiento de las normas puede derivar en multas coercitivas, suspensión de instalaciones o la obligación de costear los gastos de intervención y transporte en procesos sancionadores.",
+  "keywords": [
+    "colombofilia",
+    "paloma mensajera",
+    "deporte canario",
+    "cría de aves",
+    "palomares",
+    "protección animal"
+  ],
+  "key_points": [
+    "La paloma mensajera de competición no es considerada ganado ni ave de corral.",
+    "Es obligatorio anillar a los picachones durante los primeros 15 días de vida.",
+    "La propiedad se demuestra exclusivamente con la tarjeta de propiedad y la anilla de nido.",
+    "Es imprescindible contar con licencia federativa canaria para criar, entrenar o competir.",
+    "Los palomares deben tener un programa de limpieza y profilaxis visado por la administración.",
+    "Se prohíbe estrictamente el maltrato, la caza o el disparo a las palomas y sus instalaciones.",
+    "Las infracciones leves son sancionadas por el Alcalde, mientras que las graves/muy graves por el Gobierno de Canarias.",
+    "Existe la posibilidad de recurrir sanciones mediante recurso de reposición en un plazo de un mes.",
+    "Los conflictos deportivos pueden resolverse mediante el Tribunal Arbitral del Deporte Canario.",
+    "La administración puede imponer multas coercitivas de hasta 200 euros, incrementables un 10% por cada requerimiento.",
+    "Se pueden suspender temporalmente las instalaciones (colombódromos) que no cumplan los requisitos.",
+    "Los gastos de transporte y depósito en procedimientos sancionadores corren a cargo del infractor."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 43.3 y 148.1.19)",
+    "Estatuto de Autonomía de Canarias (art. 12.8 y 30.20)",
+    "Ley 8/1997, de 9 de julio, Canaria del Deporte",
+    "Directiva 2005/94/CEE del Consejo",
+    "Ley 8/1991, de 30 de abril, de la Comunidad Autónoma de Canarias, sobre Protección de los Animales de Compañía",
+    "Ley 30/1992, de 26 de noviembre",
+    "Real Decreto 1.398/1993, de 4 de agosto",
+    "Ley de Arbitraje",
+    "Ley Orgánica 10/1982",
+    "Ley Orgánica 4/1996"
+  ],
+  "derogations": [],
+  "main_obligations": "Los criadores deben anillar a los picachones en los primeros 15 días de vida y poseer licencia federativa canaria. Los titulares de instalaciones no autorizadas tienen un plazo de 18 meses para regularizarse ante la Federación Canaria de Colombofilia.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Regularización de palomares y centros de cría no autorizados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de regularización",
+          "description": "Presentar la solicitud de regularización ante la Federación Canaria de Colombofilia.",
+          "start_date": "Desde la entrada en vigor de la ley",
+          "end_date": "Máximo 18 meses",
+          "required_documentation": "Documentación requerida por la Federación"
+        }
+      ]
+    },
+    {
+      "name": "Recurso contra sanciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Interposición de recurso de reposición",
+          "description": "Presentar recurso ante el mismo órgano que dictó la sanción.",
+          "start_date": "Desde la notificación de la sanción",
+          "end_date": "1 mes",
+          "required_documentation": "Escrito de recurso"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

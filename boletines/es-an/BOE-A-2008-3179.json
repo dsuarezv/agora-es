@@ -1,0 +1,163 @@
+{
+  "identifier": "BOE-A-2008-3179",
+  "title": "Ley 22/2007, de 18 de diciembre, de Farmacia de Andalucía",
+  "visible_title": "Ley de Farmacia de Andalucía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "22/2007",
+  "publication_date": "2008-02-21",
+  "enactment_date": "2007-12-18",
+  "last_updated": "2025-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2007/12/18/22",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula todo el ecosistema farmacéutico en Andalucía para garantizar que los medicamentos lleguen a todos los ciudadanos de forma equitativa. Establece cómo se crean nuevas farmacias mediante concursos públicos y cómo se deben gestionar los medicamentos en hospitales, residencias y prisiones. Su objetivo es asegurar la calidad del servicio, la trazabilidad de los fármacos y la transparencia en la dispensación. Con esto, se busca evitar la venta ilegal y asegurar que el profesional siempre oriente al paciente sobre su tratamiento.",
+  "citizen_impact": "Garantiza tu derecho a elegir libremente tu farmacia y a recibir información clara sobre cómo tomar tus medicamentos (dosis y riesgos). Asegura que, incluso en zonas rurales, haya una farmacia disponible gracias a la planificación por población. Además, facilita el acceso mediante la receta electrónica y garantiza que el coste de los medicamentos financiados por el sistema público sea transparente en tu recibo.",
+  "professional_impact": "Las oficinas de farmacia deben cumplir con requisitos estrictos de superficie (85 m² o 60 m² en núcleos pequeños) y distancia mínima (250 m). Los farmacéuticos tienen prohibido tener intereses económicos con laboratorios y deben estar presentes físicamente durante todo el horario de apertura. Los hospitales con más de 100 camas están obligados a tener un servicio de farmacia hospitalaria, y los almacenes mayoristas deben cumplir con el deber de suministro obligatorio.",
+  "keywords": [
+    "farmacia",
+    "medicamentos",
+    "Andalucía",
+    "dispensación",
+    "concurso público",
+    "receta electrónica",
+    "salud pública"
+  ],
+  "key_points": [
+    "Las nuevas farmacias solo se obtienen mediante concurso público basado en méritos.",
+    "Se establece un mínimo de 2.800 habitantes por farmacia y 250 metros de distancia entre ellas.",
+    "Prohibición absoluta de la venta ambulante de medicamentos y de la distribución de muestras gratuitas.",
+    "Derecho garantizado a la libre elección de oficina de farmacia por parte del ciudadano.",
+    "Obligatoriedad de servicio de farmacia hospitalaria en centros con 100 o más camas.",
+    "Implementación de la receta electrónica para agilizar la prestación farmacéutica.",
+    "Obligación de informar al paciente sobre posología, riesgos y beneficios en el momento de la entrega.",
+    "Prohibición de incompatibilidad económica entre farmacéuticos y laboratorios.",
+    "Obligación de incluir en el recibo la parte del coste financiada por el Sistema Público.",
+    "Exigencia de mantener la cadena de frío para medicamentos termolábiles.",
+    "Obligación de presencia física del farmacéutico durante el horario de apertura.",
+    "Los centros socio-sanitarios deben contar con un depósito de medicamentos vinculado a una farmacia."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 43)",
+    "Estatuto de Autonomía para Andalucía (art. 22.1 y 55.1)",
+    "Ley 14/1986, de 25 de abril, General de Sanidad",
+    "Ley 16/1997, de 25 de abril, de Regulación de Servicios de las Oficinas de Farmacia",
+    "Ley 29/2006, de 26 de julio, de garantías y uso racional de los medicamentos y productos sanitarios",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley 30/1992, de 22 de noviembre, de Régimen Jurídico de las Administraciones Públicas",
+    "Real Decreto 909/1978, de 1 de junio"
+  ],
+  "derogatons": [
+    "Artículos 60 bis, 60 ter, 60 quater y 60 quinquies de la Ley 22/2007",
+    "Disposición octava de la Ley 22/2007"
+  ],
+  "main_obligations": "Los profesionales deben asegurar la presencia física en la oficina, la correcta información al paciente y el mantenimiento de la cadena de frío. Los centros sanitarios y hospitales deben garantizar la trazabilidad y el suministro adecuado de medicamentos.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Adjudicación de nuevas oficinas de farmacia (Concurso Público)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Fase 1: Farmacéuticos de núcleos pequeños",
+          "description": "Participan titulares de farmacias en municipios, ELAs o núcleos de menos de 1.000 habitantes con 10 años de antigüedad. Se adjudica hasta el 50% de las plazas.",
+          "start_date": "Desde la publicación de la convocatoria",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Fase 2: Nuevos profesionales",
+          "description": "Participan profesionales que no sean titulares ni cotitulares de ninguna farmacia (o no lo hayan sido en los últimos 5 años).",
+          "start_date": "Tras la fase 1",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Fase 3: Resto de interesados",
+          "description": "Participan los restantes profesionales y aquellos que no resultaron adjudicatarios en fases anteriores.",
+          "start_date": "Tras la fase 2",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Transmisión de la oficina de farmacia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de condiciones",
+          "description": "El transmitente debe comunicar a la Administración las condiciones generales de la transmisión onerosa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de ejecución",
+          "description": "La transmisión debe realizarse en un plazo máximo de 4 meses tras la aceptación por el adjudicatario con mayor puntuación.",
+          "start_date": null,
+          "end_date": "4 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Solicitud de cambio de titularidad",
+          "description": "El nuevo titular debe solicitar la autorización ante la Delegación Provincial.",
+          "start_date": null,
+          "end_date": "2 meses tras la transmisión",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de sanción administrativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del expediente",
+          "description": "Apertura del procedimiento tras la detección de una infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y prescripción",
+          "description": "Dictado de la sanción económica o medidas de cierre según la gravedad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adjudicación de nuevas oficinas de farmacia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de concurso público",
+          "description": "La Consejería convoca un único concurso para adjudicación y autorización.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Evaluación de baremo",
+          "description": "Valoración de formación académica y experiencia profesional.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

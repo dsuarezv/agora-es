@@ -1,0 +1,98 @@
+{
+  "identifier": "BOE-A-2000-15355",
+  "title": "Ley 7/2000, de 11 de julio, de Estadística de Castilla y León",
+  "visible_title": "Ley de Estadística de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "7/2000",
+  "publication_date": "2000-08-12",
+  "enactment_date": "2000-07-11",
+  "last_updated": "2000-07-19",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2000/07/11/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para que la Junta de Castilla y León produzca, gestione y difunda estadísticas oficiales sobre la realidad socioeconómica y geográfica de la región. Organiza los órganos responsables, como la Dirección General de Estadística, y define cómo se deben recoger los datos. Además, garantiza la protección de la privacidad mediante el secreto estadístico y establece un régimen de sanciones para quienes no colaboren o falseen información.",
+  "citizen_impact": "Los ciudadanos pueden ser obligados por ley a facilitar datos específicos para estadísticas oficiales, siempre que la obligación esté regulada por ley. A cambio, la norma garantiza que su información personal sea tratada con estricto secreto estadístico y no se use para otros fines.",
+  "professional_impact": "Las empresas y autónomos con actividad en la región deben cumplir con la entrega de datos si la ley así lo requiere, bajo riesgo de multas. Los funcionarios y personal estadístico asumen responsabilidades estrictas de confidencialidad y rigor técnico, con sanciones graves por incumplir el secreto estadístico.",
+  "keywords": [
+    "estadística",
+    "Castilla y León",
+    "secreto estadístico",
+    "recogida de datos",
+    "plan estadístico",
+    "administración pública"
+  ],
+  "key_points": [
+    "Creación de la Dirección General de Estadística con autonomía funcional.",
+    "Establecimiento del secreto estadístico para proteger la identidad de los informantes.",
+    "Obligatoriedad de suministrar datos cuando una ley específica lo determine.",
+    "Prohibición de usar datos personales para fines distintos a los estadísticos.",
+    "Creación de un Plan Estadístico con una vigencia de cuatro años.",
+    "Régimen sancionador que distingue entre infracciones leves, graves y muy graves.",
+    "Garantía de que los datos sensibles (religión, política, etc.) solo se recojan voluntariamente."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Castilla y León",
+    "Ley Orgánica 4/1999, de 8 de enero",
+    "Reglamento (CE) N.º 3221/97 del Consejo",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas"
+  ],
+  "derogations": [],
+  "main_obligations": "Las personas físicas y jurídicas están obligadas a facilitar datos de forma veraz y exacta cuando la ley lo disponga. El incumplimiento (entrega fuera de plazo o incompleta) conlleva multas de hasta 500.000 pesetas, mientras que suministrar datos falsos es una infracción muy grave con multas de hasta 5.000.000 de pesetas.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Elaboración del Plan Estadístico de Castilla y León",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del anteproyecto",
+          "description": "La Dirección General de Estadística prepara el borrador en coordinación con las unidades estadísticas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Dictamen del Consejo Asesor",
+          "description": "El Consejo Asesor de Estadística debe emitir su informe sobre el anteproyecto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Trámite en la Comisión de Estadística",
+          "description": "La Comisión revisa el anteproyecto e inicia los trámites para su aprobación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación mediante Decreto",
+          "description": "La Junta de Castilla y León aprueba finalmente el Plan mediante Decreto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Determinación de la composición del Consejo Asesor",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de determinación",
+          "description": "La Junta de Castilla y León debe determinar la organización del Consejo.",
+          "start_date": "2000-07-11",
+          "end_date": "6 meses"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

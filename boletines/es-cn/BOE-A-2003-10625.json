@@ -1,0 +1,112 @@
+{
+  "identifier": "BOE-A-2003-10625",
+  "title": "Ley 11/2003, de 4 de abril, sobre Consejos Sociales y Coordinación del Sistema Universitario de Canarias",
+  "visible_title": "Ley sobre Consejos Sociales y Coordinación del Sistema Universitario de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "11/2003",
+  "publication_date": "2003-05-28",
+  "enactment_date": "2003-04-04",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2003/04/04/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "127",
+  "summary": "Esta ley regula la creación y funciones de los Consejos Sociales en las universidades canarias para que la sociedad civil participe activamente en la gestión universitaria. Establece mecanismos de coordinación entre las universidades y el Gobierno de Canarias para asegurar que la oferta académica responda a las necesidades reales del archipiélago. Además, define los criterios para crear, modificar o suprimir centros y estudios universitarios en la región.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo que se beneficien indirectamente de una oferta educativa más alineada con el mercado laboral canario o de una mayor transparencia en la gestión de las universidades públicas.",
+  "professional_impact": "Afecta a profesionales, empresas y sindicatos, quienes ahora tienen asientos reservados en los Consejos Sociales para influir en la planificación universitaria. Las empresas de I+D+i también ven facilitada su colaboración con la universidad mediante mecanismos de transferencia de conocimiento y convenios.",
+  "keywords": [
+    "universidad",
+    "consejo social",
+    "coordinación universitaria",
+    "Canarias",
+    "participación social",
+    "gestión universitaria",
+    "I+D+i"
+  ],
+  "key_points": [
+    "Creación de los Consejos Sociales como órganos de participación de la sociedad en la universidad.",
+    "Los Consejos Sociales tienen autonomía funcional y capacidad para actuar como órganos de contratación.",
+    "El Consejo Social debe emitir informes previos sobre la creación o modificación de facultades y estudios.",
+    "Se establece la obligación de aprobar el presupuesto anual y las cuentas anuales de la universidad.",
+    "El Gobierno de Canarias asume la competencia de coordinar el sistema universitario regional.",
+    "Se crean criterios específicos para la creación, fusión o supresión de centros y estudios universitarios.",
+    "Los Consejos Sociales deben velar por la integridad académica y la lucha contra el fraude.",
+    "Se fomenta la colaboración público-privada y el mecenazgo universitario."
+  ],
+  "legal_references": [
+    "Ley Orgánica 6/2001, de 21 de diciembre, de Universidades",
+    "Estatuto de Auto-nomía de Canarias",
+    "Ley 11/2006, de 11 de diciembre, de la Hacienda Pública Canaria",
+    "Ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres",
+    "Ley Orgánica 3/2018, de 5 de octubre, de Protección de Datos Personales y Garantía de los Derechos Digitales"
+  ],
+  "derogations": [
+    "Ley 6/1984, de 30 de noviembre, de los Consejos Sociales, coordinación universitaria y de creación de Universidades, centros y estudios universitarios"
+  ],
+  "main_obligations": "Las universidades deben someter sus presupuestos y cuentas anuales a la aprobación del Consejo Social. Los Consejos Sociales tienen la obligación de emitir informes previos sobre cambios estructurales en la oferta académica y deben presentar una memoria de actividades ante el Parlamento de Canarias semestralmente.",
+  "effective_date": "2003-05-29",
+  "procedures": [
+    {
+      "name": "Creación, modificación o supresión de centros y enseñanzas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de la Universidad",
+          "descrption": "El Consejo de Gobierno de la universidad inicia la propuesta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe del Consejo Social",
+          "descrption": "El Consejo Social debe emitir un informe previo favorable para proceder.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Acuerdo del Gobierno de Canarias",
+          "descrption": "El Gobierno de Canarias acuerda mediante decreto la creación o modificación.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aprobación del Presupuesto Universitario",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Remisión de documentación",
+          "descrption": "El Consejo de Gobierno remite el proyecto de presupuesto al Consejo Social incluyendo informes de impacto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informes de impacto de género y medioambiental, autorización de costes de personal"
+        },
+        {
+          "step": 2,
+          "title": "Aprobación por el Consejo Social",
+          "descrption": "El Consejo Social aprueba el presupuesto a propuesta del Consejo de Gobierno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Envío a la Consejería",
+          "descrption": "El Consejo Social envía el presupuesto aprobado a la consejería competente.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

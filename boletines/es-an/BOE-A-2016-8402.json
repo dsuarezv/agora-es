@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-2016-8402",
+  "title": "Ley 6/2016, de 1 de agosto, por la que se modifica la Ley 7/2002, de 17 de diciembre, de Ordenación Urbanística de Andalucía para incorporar medidas urgentes en relación con las edificaciones construidas sobre parcelaciones urbanísticas en suelo no urbanizable",
+  "visible_title": "Modificación de la Ley de Ordenación Urbanística de Andalucía sobre edificaciones en suelo no urbanizable",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "6/2016",
+  "publication_date": "2016-09-14",
+  "enactment_date": "2016-08-01",
+  "last_updated": "2019-09-25",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2016/08/01/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma busca resolver la inseguridad jurídica de las casas construidas ilegalmente en parcelaciones sobre suelo no urbanizable en Andalucía. Introduce un mecanismo para que estas viviendas residenciales puedan regularizarse bajo un régimen de 'asimilado al fuera de ordenación' si ha pasado el plazo legal para que la Administración actúe. El objetivo es permitir la integración de estas edificaciones en la ordenación urbana y facilitar la gestión de servicios básicos, siempre que cumplan condiciones de seguridad y sostenibilidad.",
+  "citizen_impact": "Proporciona una vía de regularización para propietarios de viviendas residenciales construidas en suelo no urbanizable que antes estaban en un limbo legal. Permite solicitar el acceso provisional a servicios básicos como agua y luz bajo ciertas condiciones, aunque no otorga la plena legalidad de forma automática.",
+  "professional_impact": "Los ayuntamientos tienen la obligación de identificar estas edificaciones en un plazo de dos años, bajo riesgo de que la Junta de Andalucía asuma la competencia. Los técnicos municipales y arquitectos deberán seguir nuevas instrucciones para la documentación técnica necesaria en los procesos de regularización.",
+  "keywords": [
+    "urbanismo",
+    "suelo no urbanizable",
+    "regularización",
+    "edificaciones aisladas",
+    "Andalucía",
+    "fuera de ordenación",
+    "parcelaciones"
+  ],
+  "key_points": [
+    "Crea un régimen de excepción para viviendas residenciales en parcelaciones de suelo no urbanizable, permitiendo su regularización.",
+    "Establece que la limitación temporal para que la Administración actúe también se aplica a la parcela asociada a la vivienda residencial.",
+    "Permite el acceso provisional a servicios básicos (agua y electricidad) por un máximo de dos años para viviendas habituales en estas situaciones.",
+    "Obliga a los municipios a iniciar la identificación de edificaciones en suelo no urbanizable en un plazo de dos años.",
+    "Declara nulos de pleno derecho los actos que autoricen parcelaciones en suelo no urbanizable.",
+    "Establece que los costes de la regularización deben ser asumidos por los beneficiarios.",
+    "Garantiza el derecho de la ciudadanía a acceder a la información urbanística municipal de forma motivada y en plazos determinados."
+  ],
+  "legal_references": [
+    "Ley 7/2002, de 17 de diciembre, de Ordenación Urbanística de Andalucía",
+    "Decreto 60/2010, de 16 de marzo, por el que se aprueba el Reglamento de Disciplina Urbanística de la Comunidad Autónoma de Andalucía",
+    "Decreto 2/2012, de 10 de enero, por el que se regula el régimen de las edificaciones y asentamientos existentes en suelo no urbanizable en la Comunidad Autónoma de Andalucía",
+    "Ley 19/1995, de 4 de julio, de Modernización de las Exploataciones Agrarias",
+    "Ley 21/2013, de 9 de diciembre, de evaluación ambiental",
+    "Ley 3/2015, de 29 de diciembre, de Medidas en Materia de Gestión Integrada de la Calidad Ambiental, de Aguas, Tributaria y de Sanidad Animal"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a la presente ley"
+  ],
+  "main_obligations": "Los municipios deben iniciar el procedimiento de identificación de edificaciones en suelo no urbanizable en un plazo máximo de dos años. Los propietarios que busquen la regularización deben afrontar todos los costes derivados de la misma.",
+  "effective_date": "2016-09-15",
+  "procedures": [
+    {
+      "name": "Identificación de edificaciones aisladas en suelo no urbanizable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento de identificación",
+          "description": "Los municipios deben iniciar la identificación de las edificaciones según el Decreto 2/2012.",
+          "start_date": "2016-09-15",
+          "end_date": "2 años desde la entrada en vigor",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Culminación del procedimiento",
+          "description": "Finalización del proceso de identificación por parte del municipio.",
+          "start_date": "Desde el inicio del paso 1",
+          "end_date": "2 años desde el inicio del procedimiento",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acceso provisional a servicios básicos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y acreditación técnica",
+          "description": "Presentación de informe técnico y jurídico que acredite que la vivienda es habitual, está terminada y es segura.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe técnico y jurídico de servicios municipales y de la compañía suministradora"
+        },
+        {
+          "step": 2,
+          "title": "Autorización municipal",
+          "description": "Concesión del acceso provisional por un periodo determinado.",
+          "start_date": null,
+          "end_date": "2 años",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

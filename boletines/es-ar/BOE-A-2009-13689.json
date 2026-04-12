@@ -1,0 +1,124 @@
+{
+  "identifier": "BOE-A-2009-13689",
+  "title": "Ley 5/2009, de 30 de junio, de Servicios Sociales de Aragón",
+  "visible_title": "Ley de Servicios Sociales de Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "5/2009",
+  "publication_date": "2009-08-20",
+  "enactment_date": "2009-06-30",
+  "last_updated": "2016-12-20",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2009/06/30/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley reorganiza todo el sistema de asistencia social en Aragón, garantizando que el acceso a las prestaciones sea un derecho exigible ante la justicia. Establece una red de servicios que va desde lo municipal hasta lo especializado, asegurando que incluso en pueblos pequeños (menos de 20.000 habitantes) la ayuda llegue a través de las comarcas. Además, regula cómo las entidades privadas pueden colaborar con la administración y endurece el control sobre su gestión. En definitiva, busca que la ayuda social sea un derecho real, coordinado y transparente para todos los aragoneses.",
+  "citizen_impact": "Los ciudadanos aragoneses pasan de tener una ayuda discrecional a tener un derecho subjetivo que pueden reclamar judicialmente si no se les presta. Tienen derecho a recibir información clara y a que sus datos sean confidenciales. No obstante, tienen la obligación de informar de cualquier cambio en su situación familiar o económica para no perder o recibir indebidamente prestaciones.",
+  "professional_impact": "Los profesionales del sector social cuentan con un marco de respeto y ética profesional, bajo riesgo de sanción si no cumplen la deontología. Las entidades privadas que quieran trabajar con fondos públicos deben cumplir requisitos estrictos de acreditación e inscripción en registros oficiales. Se implementa el Sistema Aragonés de Información de Servicios Sociales para unificar datos de todos los actores del sector.",
+  "keywords": [
+    "servicios sociales",
+    "Aragón",
+    "derechos sociales",
+    "asistencia social",
+    "entidades privadas",
+    "gestión comarcal",
+    "prestaciones sociales"
+  ],
+  "key_points": [
+    "El acceso a las prestaciones esenciales es un derecho subjetivo que puede reclamarse judicialmente.",
+    "Se crea una estructura de servicios dividida en generales (municipales/comunitarios) y especializados (técnicos/complejos).",
+    "Las comarcas asumen la gestión de servicios sociales en municipios de menos de 20.000 habitantes que no puedan hacerlo por sí mismos.",
+    "Las entidades privadas solo pueden colaborar mediante régimen de concierto y deben estar acreditadas e inscritas en el registro.",
+    "Se establece el Sistema Aragonés de Información de Servicios Sociales para unificar datos de entidades públicas y privadas.",
+    "Existe un régimen sancionador severo para entidades que incumplan la norma, con multas de hasta 500.000 euros y cierre de centros.",
+    "Los ciudadanos tienen derecho a la confidencialidad de sus datos y a información comprensible.",
+    "Los profesionales deben cumplir con la ética y la deontología bajo riesgo de expediente sancionador.",
+    "La financiación de los servicios generales es compartida entre la Comunidad Autónoma y las entidades locales.",
+    "Los usuarios están obligados a comunicar cualquier cambio en su situación personal o familiar que afecte a sus prestaciones."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Carta Social Europea",
+    "Estatuto de Autonomía de Aragón",
+    "Ley 4/1987, de 25 de marzo, de Ordenación de la Acción Social",
+    "Ley Orgánica 5/1996, de 30 de diciembre",
+    "Ley 7/1999, de 9 de abril, de Administración Local de Aragón",
+    "Decreto Legislativo 1/2006, de 27 de diciembre, de la Ley de Comarcalización de Aragón",
+    "Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las Personas en Situación de Dependencia",
+    "Ley 9/1992, de 7 de octubre, de Voluntariado Social"
+  ],
+  "derogations": [
+    "Ley 4/1987, de 25 de marzo, de Ordenación de la Acción Social"
+  ],
+  "main_obligations": "Los usuarios deben facilitar datos veraces y comunicar cualquier cambio en su situación personal o familiar. Las entidades privadas deben obtener autorización administrativa, acreditarse y aportar información al Sistema de Información para recibir financiación pública.",
+  "effective_date": "2009-08-21",
+  "procedures": [
+    {
+      "name": "Acceso a prestaciones esenciales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y valoración",
+          "description": "El ciudadano solicita la prestación y los profesionales realizan la valoración y diagnóstico de la necesidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación fehaciente para valorar la situación personal y familiar."
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Actuación inspectora",
+          "description": "El personal de inspección entra en los centros para verificar el cumplimiento de la ley.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Medidas cautelares/protección provisional",
+          "description": "Suspensión de actividades o cierre temporal ante riesgo para la salud o seguridad.",
+          "start_date": "En caso de urgencia extraordinaria",
+          "end_date": "Debe confirmarse en 15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución del expediente",
+          "description": "Imposición de la sanción (amonestación, multa, inhabilitación o cierre).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acreditación de entidades privadas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de acreditación",
+          "description": "Las entidades privadas solicitan la acreditación para participar en prestaciones públicas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Verificación de estándares",
+          "description": "Control de calidad, ratios de personal, infraestructuras y cualificación profesional.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

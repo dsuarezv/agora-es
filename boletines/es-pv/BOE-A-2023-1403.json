@@ -1,0 +1,130 @@
+{
+  "identifier": "BOE-A-2023-1403",
+  "title": "Ley 12/2022, de 15 de diciembre, del transporte por cable",
+  "visible_title": "Ley del transporte por cable",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "12/2022",
+  "publication_date": "2023-01-19",
+  "enactment_date": "2022-12-15",
+  "last_updated": "2022-12-28",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2022/12/15/12",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza la regulación de funiculares, teleféricos y telesquíes en el País Vasco para adaptarlos a las nuevas tecnologías y normativas europeas. Establece un marco claro para la construcción y explotación de estas instalaciones, diferenciando entre servicios públicos, privados y de ámbito urbano o interurbano. Además, define las competencias de gestión entre el Gobierno Vasco y los ayuntamientos según su población.",
+  "citizen_impact": "Garantiza mayores estándares de seguridad y accesibilidad para usuarios de teleféricos y funiculares. Los ciudadanos cuentan con derechos de consumidor reforzados, acceso a hojas de reclamaciones y la garantía de que los servicios se presten en entornos bilingües (euskera y castellano).",
+  "professional_impact": "Las empresas explotadoras deben cumplir con estrictos controles de mantenimiento, seguros obligatorios y planes de emergencia. Los ayuntamientos de más de 50.000 habitantes asumen la gestión de las instalaciones urbanas, mientras que las empresas enfrentan sanciones económicas de hasta 150.000 euros por infracciones muy graves.",
+  "keywords": [
+    "transporte por cable",
+    "teleféricos",
+    "funiculares",
+    "telesquíes",
+    "seguridad vial",
+    "accesibilidad",
+    "País Vasco"
+  ],
+  "key_points": [
+    "Clasificación de instalaciones en públicas (servicio público o recreativas) y privadas.",
+    "Distribución de competencias: el Gobierno Vasco gestiona lo interurbano y municipios pequeños; los ayuntamientos de >50.000 habitantes gestionan lo urbano.",
+    "Obligatoriedad de seguros de viajeros y responsabilidad civil para explotadores.",
+    "Exclusión expresa de ascensores, instalaciones agrarias o industriales del ámbito de esta ley.",
+    "Implementación de un régimen de inspecciones periódicas para garantizar la seguridad técnica.",
+    "Derecho de los usuarios a la atención en euskera y castellano.",
+    "Subrogación de ayuntamientos en la gestión de ascensores y funiculares existentes bajo concesión."
+  ],
+  "legal_references": [
+    "Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres",
+    "Ley 4/1964, de 29 de abril, sobre concesión de teleféricos",
+    "Decreto 673/1966, de 10 de marzo",
+    "Reglamento (UE) 2016/424",
+    "Directiva 2014/33/UE",
+    "Real Decreto 203/2016",
+    "Ley 2/2016, de 7 de abril, de Instituciones Locales de Euskadi",
+    "Estatuto de Autonomía para el País Vasco"
+  ],
+  "derogatations": [
+    "Ley 4/1964, de 29 de abril, sobre concesión de teleféricos (en el ámbito de la competencia vasca)"
+  ],
+  "main_obligations": "Las empresas deben acreditar anualmente la superación de revisiones técnicas, disponer de un plan de autoprotección y contratar seguros obligatorios. Se prohíbe operar sin título habilitante o transportar más personas de las autorizadas, con multas de hasta 150.000 euros.",
+  "effective_date": "2023-01-20",
+  "procedures": [
+    {
+      "name": "Establecimiento de instalaciones de transporte público de servicio público",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Estudio de viabilidad",
+          "description": "Realización de estudios previos para determinar la necesidad de la instalación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudios técnicos de viabilidad"
+        },
+        {
+          "step": 2,
+          "title": "Aprobación del proyecto de explotación",
+          "description": "Tramitación del proyecto que incluye análisis de seguridad, impacto ambiental y reglamento de explotación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto constructivo, análisis de seguridad, informe de seguridad, estudio de financiación y reglamento de explotación"
+        },
+        {
+          "step": 3,
+          "title": "Información pública",
+          "description": "Trámite de exposición pública para alegaciones.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación y declaración de utilidad pública",
+          "description": "Resolución de la administración aprobando el proyecto y reconociendo la utilidad pública para expropiación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Establecimiento de instalaciones de transporte público no de servicio público",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y presentación de proyecto",
+          "description": "Presentación de la solicitud ante la administración competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto conforme al art. 14"
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Trámite de exposición pública.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de aprobación",
+          "description": "La administración debe resolver en un plazo máximo de 6 meses.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Autorización de explotación",
+          "description": "Tras finalizar obras, se solicita la autorización tras verificar la adecuación al proyecto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado de fin de obra, justificante de seguros (viajeros y responsabilidad civil)"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

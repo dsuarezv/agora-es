@@ -1,0 +1,113 @@
+{
+  "identifier": "BOE-A-1999-11981",
+  "title": "Ley 8/1999, de 28 de abril, de Comarcas de la Comunidad Autónoma de Cantabria",
+  "visible_title": "Ley de Comarcas de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "8/1999",
+  "publication_date": "1999-05-28",
+  "enactment_date": "1999-04-28",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/1999/04/28/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea y regula la figura de la comarca como una nueva entidad local en Cantabria. Su objetivo es permitir que grupos de municipios con intereses comunes gestionen servicios que superan su capacidad individual, como urbanismo, medio ambiente o transporte. Establece las reglas para crear estas comarcas, cómo se gobiernan y cómo se financian mediante transferencias autonómicas y aportaciones municipales.",
+  "citizen_impact": "La norma no altera directamente los derechos individuales, pero mejora la gestión de servicios públicos cercanos (como recogida de residuos, cultura o deportes) al permitir una gestión más eficiente entre municipios vecinos. Esto puede traducirse en servicios más estables o especializados en zonas rurales.",
+  "professional_impact": "Los funcionarios locales y técnicos municipales deberán adaptarse a nuevas estructuras de coordinación y posibles transferencias de competencias. Las empresas que operen en servicios de gestión (residuos, transporte, obras) podrían pasar de contratar con ayuntamientos individuales a hacerlo con entidades comarcales.",
+  "keywords": [
+    "comarcas",
+    "entidad local",
+    "gestión de servicios",
+    "organización territorial",
+    "Cantabria",
+    "competencias municipales"
+  ],
+  "key_points": [
+    "Reconocimiento de la comarca como entidad local con personalidad jurídica propia.",
+    "Las comarcas pueden gestionar servicios supramunicipales como medio ambiente, acción social, cultura y transporte.",
+    "La creación de una comarca requiere una Ley del Parlamento de Cantabria.",
+    "Los municipios pueden delegar competencias en la comarca para ganar eficiencia.",
+    "La financiación proviene de tasas, precios públicos, aportaciones de municipios y transferencias de la Comunidad Autónoma.",
+    "Se establece un Consejo Comarca como órgano de gobierno, compuesto por consejeros elegidos según la población.",
+    "La creación de comarcas puede iniciarse por los municipios o por el Gobierno de Cantabria (si el 70% del territorio ya está comarcalizado)."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía para Cantabria",
+    "Ley 7/1985, de 2 de abril, reguladora de las Bases de Régimen Local"
+  ],
+  "derogations": [],
+  "main_obligations": "Los municipios que formen parte de una comarca deben cumplir con los acuerdos de adhesión y, en su caso, realizar las aportaciones económicas necesarias para su funcionamiento según lo determine el Consejo Comarcal.",
+  "effective_date": "1999-05-29",
+  "procedures": [
+    {
+      "name": "Creación de una comarca por iniciativa municipal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciativa de los municipios",
+          "description": "Acuerdo de más de dos quintos de los municipios afectados por mayoría absoluta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificación de acuerdos de los Plenos y documentación justificativa."
+        },
+        {
+          "step": 2,
+          "title": "Traslado a municipios no participantes",
+          "description": "El Gobierno de Cantabria comunica la propuesta al resto de ayuntamientos del área.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de adhesión u oposición",
+          "description": "Los ayuntamientos deben decidir por mayoría absoluta si se adhieren o se oponen.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Tramitación legislativa",
+          "description": "Si no hay oposición legal, se envía el proyecto al Parlamento de Cantabria para su aprobación por Ley.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Elección del Consejo Comarcal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Relación de partidos",
+          "description": "La Junta Electoral de Zona lista los partidos con al menos el 3% de los votos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Distribución de puestos",
+          "description": "Reparto de consejeros mediante sistema de cocientes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Designación de representantes",
+          "description": "Los partidos designan a los concejales que ocuparán los puestos y sus suplentes.",
+          "start_date": "5 días tras la asignación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

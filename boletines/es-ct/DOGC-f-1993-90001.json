@@ -1,0 +1,91 @@
+{
+  "identifier": "DOGC-f-1993-90001",
+  "title": "Decreto Legislativo 1/1993, de 9 de marzo, sobre comercio interior, por el que se aprueba la refundición en un texto único de los preceptos de la Ley 1/1983, de 18 de febrero, y la Ley 23/1991, de 29 de noviembre",
+  "visible_title": "Texto refundido sobre comercio interior",
+  "rank": "decreto legislativo",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "1/1993",
+  "publication_date": "1993-05-21",
+  "enactment_date": "1993-03-09",
+  "last_updated": "2017-08-03",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=DOGC-f-1993-90001",
+  "official_journal": "DOGC",
+  "journal_issue": null,
+  "summary": "Esta norma unifica la regulación del comercio en Cataluña, estableciendo las reglas para la actividad comercial, tanto al por mayor como al por menor. Define las modalidades de venta (ambulante, a domicilio, a distancia, automática, etc.) y las condiciones de transparencia de precios. Además, establece el marco de sanciones para asegurar el cumplimiento de las normas de higiene, seguridad y competencia justa.",
+  "citizen_impact": "Garantiza que los consumidores reciban información clara sobre los precios (PVP) y tengan derechos de reflexión (7 días) en compras a domicilio o a distancia. Protege contra prácticas engañosas como las ventas en pirámide o el envío de productos no solicitados.",
+  "professional_impact": "Obliga a los comerciantes a cumplir con requisitos administrativos (alta en impuestos y Seguridad Social) y a exhibir horarios y precios de forma visible. Impone restricciones estrictas a las ventas en liquidación y de saldos, además de establecer un régimen de multas que pueden alcanzar los 500.000 euros para infracciones muy graves.",
+  "keywords": [
+    "comercio interior",
+    "Cataluña",
+    "venta a domicilio",
+    "venta a distancia",
+    "precios",
+    "venta no sedentaria",
+    "liquidación",
+    "sanciones comerciales"
+  ],
+  "key_points": [
+    "Obligación de indicar el PVP de forma clara, incluyendo impuestos y gastos de envío.",
+    "Derecho de reflexión de al menos 7 días para consumidores en ventas a domicilio y a distancia.",
+    "Prohibición de enviar productos no solicitados bajo la premisa de que el silencio implica aceptación.",
+    "Regulación estricta de las ventas en liquidación, permitidas solo por cese de actividad, transformación o fuerza mayor.",
+    "Las ventas en pirámide o cadena están estrictamente prohibidas.",
+    "Los puestos de venta no sedentaria deben cumplir requisitos de higiene y no pueden tener productos sobre el suelo.",
+    "Las autorizaciones para venta no sedentaria tienen una duración mínima de 15 años para proteger la inversión.",
+    "Las multas se gradúan según la gravedad, pudiendo llegar hasta el décuplo del valor de los productos en casos muy graves."
+  ],
+  "legal_references": [
+    "Ley 1/1983, de 18 de febrero",
+    "Ley 23/1991, de 29 de noviembre",
+    "Ley 3/1992, de 28 de diciembre",
+    "Ley 18/2017, de 1 de agosto",
+    "Ley 1/1990, de 8 de enero",
+    "Ley 7/1996, de 15 de enero"
+  ],
+  "derogations": [
+    "Ley 1/1983, de 18 de febrero",
+    "Ley 23/1991, de 29 de noviembre"
+  ],
+  "main_obligations": "Los comerciantes deben exhibir precios (PVP), horarios y autorizaciones de forma visible. En ventas a domicilio y a distancia, deben informar por escrito del derecho de desistimiento de 7 días. Las liquidaciones requieren comunicación previa al Departament de Comerç, Consum i Turisme con un mes de antelación.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Comunicación de venta en liquidación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de comunicación",
+          "descrption": "El comerciante debe presentar la comunicación ante el Departament de Comerç, Consum i Turisme indicando las causas.",
+          "start_date": "mínimo 1 mes antes del inicio",
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la causa de la liquidación"
+        },
+        {
+          "step": 2,
+          "title": "Periodo de espera y publicidad",
+          "descrption": "No se puede hacer publicidad de la liquidación hasta 8 días antes del inicio y tras la comunicación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Comunicación de venta de saldos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de saldos",
+          "descrption": "Comunicación previa al Departament de Comerç, Consum i Turisme.",
+          "start_date": "mínimo 7 días antes",
+          "end_date": null,
+          "required_documentation": "Indicación de razones y fecha de inicio"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,89 @@
+{
+  "identifier": "BOE-A-2012-3826",
+  "title": "Ley 1/2012, de 29 de febrero, de medidas temporales en determinadas materias del empleo público de la Comunidad Autónoma de Galicia",
+  "visible_title": "Medidas temporales en materia de empleo público de la Comunidad Autónoma de Galicia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "1/2012",
+  "publication_date": "2012-03-17",
+  "enactment_date": "2012-02-29",
+  "last_updated": "2018-12-28",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2012/02/29/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley implementa medidas de austeridad y ahorro de gasto público en la administración gallega debido a la crisis económica. Busca reducir el déficit mediante la suspensión de ayudas sociales, la modificación de jornadas laborales y la regulación de la jubilación de funcionarios. Su aplicación es temporal y depende de la mejora de la situación económica de la comunidad.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que regula exclusivamente la gestión interna del personal de la administración autonómica.",
+  "professional_impact": "Afecta directamente a todos los empleados públicos de Galicia (funcionarios y laborales), reduciendo sus beneficios de acción social, aumentando la jornada media a 37,5 horas semanales y limitando la posibilidad de prolongar la actividad tras la jubilación forzosa.",
+  "keywords": [
+    "empleo público",
+    "austeridad",
+    "Galicia",
+    "jornada laboral",
+    "acción social",
+    "funcionarios",
+    "personal laboral",
+    "ahorro de gasto"
+  ],
+  "key_points": [
+    "Suspensión de ayudas de acción social, salvo para personas con discapacidad (máximo 180€/mes).",
+    "Prohibición de realizar aportaciones a planes de pensiones o seguros colectivos de jubilación.",
+    "Establecimiento de una jornada laboral media mínima de 37,5 horas semanales.",
+    "Posibilidad de reducción voluntaria de jornada para funcionarios y laborales fijos con reducción de sueldo.",
+    "Nuevos requisitos y procedimiento para solicitar la prolongación de la permanencia en servicio activo tras la jubilación forzosa.",
+    "Suspensión del incremento del complemento de destino para ex altos cargos.",
+    "Limitación de los días de libre disposición según la normativa estatal.",
+    "Suspensión de derechos de comedor y otros beneficios del convenio colectivo para personal laboral."
+  ],
+  "legal_references": [
+    "Real Decreto ley 20/2011",
+    "Decreto legislativo 1/2008 (Ley de la función pública de Galicia)",
+    "Estatuto básico del empleado público",
+    "V Convenio colectivo único para el personal laboral de la Xunta de Galicia",
+    "Ley 16/2010"
+  ],
+  "derogations": [
+    "Artículos del V Convenio colectivo único para el personal laboral de la Xunta de Galicia (específicamente artículos 19, 29, 34.2 y disposición adicional tercera)."
+  ],
+  "main_obligations": "Los empleados públicos deben cumplir una jornada media de al menos 37,5 horas semanales. Se prohíbe a las administraciones el abono de ayudas de acción social y la realización de aportaciones a planes de pensiones de empleo.",
+  "effective_date": "2012-03-18",
+  "procedures": [
+    {
+      "name": "Prolongación de la permanencia en servicio activo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "El funcionario debe solicitar la prolongación de su permanencia en servicio activo.",
+          "start_date": "Con una antelación mínima de 3 meses y máxima de 4 meses a la fecha de jubilación forzosa",
+          "end_date": null,
+          "required_documentation": "Informe médico que acredite capacidad psicofísica (si se requiere para la valoración)"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la administración",
+          "description": "La administración resuelve de forma motivada basándose en razones organizativas, evaluación de desempeño o capacidad psicofísica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reducción de jornada voluntaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de reducción",
+          "description": "Funcionarios de carrera, estatutarios y laborales fijos pueden solicitar reducir su jornada hasta un tercio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

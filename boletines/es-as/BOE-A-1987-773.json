@@ -1,0 +1,94 @@
+{
+  "identifier": "BOE-A-1987-773",
+  "title": "Ley 11/1986, de 20 de noviembre, por la que se reconoce la personalidad jurídica de la parroquia rural",
+  "visible_title": "Reconocimiento de la personalidad jurídica de la parroquia rural",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "11/1986",
+  "publication_date": "1987-01-14",
+  "enactment_date": "1986-11-20",
+  "last_updated": "1986-12-04",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1986/11/20/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley otorga capacidad legal propia a las parroquias rurales de Asturias para que puedan actuar como entidades locales independientes de sus municipios. Permite que estos núcleos de población gestionen sus propios bienes comunes, caminos y servicios de interés exclusivo. El objetivo es proteger y potenciar la organización tradicional de convivencia y asentamiento de la población asturiana.",
+  "citizen_impact": "Los vecinos de núcleos rurales ganan autonomía para gestionar sus propios recursos y servicios (como caminos o bienes comunes) sin depender totalmente del Ayuntamiento. Esto permite una gestión más directa y cercana de los intereses específicos de su comunidad.",
+  "professional_impact": "Los representantes de la parroquia (Presidente y Junta) asumen responsabilidades de gestión administrativa, presupuestaria y de conservación de patrimonio. Los funcionarios municipales deberán coordinar sus competencias con estas nuevas entidades locales inframunicipales.",
+  "keywords": [
+    "parroquia rural",
+    "personalidad jurídica",
+    "entidad local",
+    "Asturias",
+    "régimen local",
+    "bienes comunes",
+    "gestión de servicios"
+  ],
+  "key_points": [
+    "Reconocimiento de la parroquia rural como entidad local inframunicipal en Asturias.",
+    "Posibilidad de gestión propia de bienes patrimoniales y servicios de interés exclusivo.",
+    "Creación de un modelo de gobierno con un Presidente (ejecutivo) y una Junta de Parroquia (control).",
+    "Opción de utilizar el sistema de 'Concejo Abierto' para parroquias de menos de 100 habitantes.",
+    "Capacidad para obtener ayudas directas de la Administración Autonómica.",
+    "Procedimiento de creación mediante iniciativa de los vecinos o del Ayuntamiento."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía para Asturias",
+    "Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local",
+    "Ley 55/1980, de 11 de noviembre (Montes vecinales en mano común)",
+    "Decreto del Consejo de Gobierno 9/1984, de 13 de enero"
+  ],
+  "derogations": [],
+  "main_obligations": "La Junta de Parroquia debe aprobar el presupuesto anual y las ordenanzas fiscales, además de rendir cuentas ante la Consejería de Interior y Administración Territorial. Los acuerdos sobre disposición de bienes o créditos requieren ratificación del Ayuntamiento.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Procedimiento de reconocimiento de personalidad jurídica de la parroquia rural",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciativa",
+          "description": "Petición de los residentes (mayoría de vecinos) o del Ayuntamiento para ser reconocidos como parroquia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Fundamentación de la petición, descripción de bienes comunes y servicios exclusivos."
+        },
+        {
+          "step": 2,
+          "title": "Audiencia y oposición",
+          "description": "Se consulta al Ayuntamiento y se abre audiencia a la población interesada.",
+          "start_date": "Tras la petición",
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación de anteproyecto de Decreto",
+          "description": "El Consejo de Gobierno aprueba un anteproyecto regulando el régimen de la parroquia.",
+          "start_date": "Tras la audiencia",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Información pública del anteproyecto",
+          "description": "Se somete el anteproyecto a información pública para alegaciones de los vecinos y el Ayuntamiento.",
+          "start_date": "Tras la aprobación del anteproyecto",
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Aprobación del Decreto final",
+          "description": "El Consejo de Gobierno dicta el Decreto definitivo de reconocimiento.",
+          "start_date": "Tras la información pública",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-2021-463",
+  "title": "Ley 16/2020, de 22 de diciembre, de la desaparición forzada de menores en Cataluña",
+  "visible_title": "Ley de la desaparición forzada de menores en Cataluña",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "16/2020",
+  "publication_date": "2021-01-13",
+  "enactment_date": "2020-12-22",
+  "last_updated": "2020-12-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2020/12/22/16",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca reparar el daño histórico de la sustracción y sustitución de identidad de menores en Cataluña, especialmente durante la posguerra. Establece mecanismos para que las víctimas puedan acceder a la verdad, la justicia y su identidad biológica. Para ello, crea la Oficina de la Víctima de la Desaparición Forzada de Menores y bases de datos de ADN y de afectados.",
+  "citizen_impact": "Permite a personas que sospechan haber sido víctimas de sustracción o sustitución de identidad acceder gratuitamente a documentos y pruebas de ADN para conocer su origen. Facilita el derecho al reencuentro con familiares biológicos bajo supervisión profesional.",
+  "professional_impact": "Obliga a hospitales, centros de salud, registros civiles, archivos y la Iglesia Católica a facilitar información y documentación a las víctimas. Los Mossos d'Esquadra deberán contar con un equipo especializado para investigar estos casos.",
+  "keywords": [
+    "desaparición forzada",
+    "sustracción de menores",
+    "identidad biológica",
+    "derechos humanos",
+    "reparación histórica",
+    "ADN",
+    "Cataluña"
+  ],
+  "key_points": [
+    "Creación de la Oficina de la Víctima de la Desaparición Forzada de Menores de Cataluña.",
+    "Derecho al acceso gratuito de documentación en archivos públicos para las víctimas.",
+    "Creación de una base de datos de identificadores de ADN para facilitar la identificación.",
+    "Obligación de los centros sanitarios y religiosos de custodiar y facilitar archivos históricos.",
+    "Derecho al reencuentro asistido entre familias biológicas y adoptivas si ambas partes acceden.",
+    "Creación de un equipo especializado en los Mossos d'Esquadra para estas investigaciones.",
+    "Gratuidad de las pruebas necesarias para la identificación de restos mediante la Generalitat."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Cataluña",
+    "Ley 13/2008 de la Presidencia de la Generalidad",
+    "Decreto 114/2020",
+    "Ley Orgánica 1/1996 de protección jurídica del menor",
+    "Ley del Estado 26/2015",
+    "Ley del Estado 20/2011 del Registro Civil",
+    "Convenio Europeo de Derechos Humanos",
+    "Convención sobre los Derechos del Niño"
+  ],
+  "derogations": [],
+  "main_obligations": "Los sujetos privados (hospitales, fundaciones, Iglesia) deben responder a las peticiones de información de las víctimas en un plazo máximo de tres meses. Los poderes públicos deben garantizar el acceso a la verdad y la reparación integral de las víctimas.",
+  "effective_date": "2021-01-14",
+  "procedures": [
+    {
+      "name": "Acceso a la información y documentación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de información",
+          "description": "La víctima solicita documentación a archivos públicos o privados (hospitales, registros, etc.).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Indicios documentales, periciales o testificales que fundamenten la sospecha."
+        },
+        {
+          "step": 2,
+          "title": "Plazo de respuesta para sujetos privados",
+          "description": "Los sujetos privados deben dar respuesta a la petición.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de reencuentro familiar",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de mediación",
+          "description": "Las partes interesadas acuden a la Oficina de la Víctima para solicitar el reencuentro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Preparación del reencuentro",
+          "description": "Un equipo especializado de la Oficina prepara y facilita el encuentro para garantizar la conciliación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

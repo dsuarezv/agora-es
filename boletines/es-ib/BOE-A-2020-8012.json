@@ -1,0 +1,72 @@
+{
+  "identifier": "BOE-A-2020-8012",
+  "title": "Decreto-ley 9/2020, de 25 de mayo, de medidas urgentes de protección del territorio de las Illes Balears",
+  "visible_title": "Medidas urgentes de protección del territorio de las Illes Balears",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "9/2020",
+  "publication_date": "2020-07-17",
+  "enactment_date": "2020-05-25",
+  "last_updated": "2024-12-13",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/dl/2020/05/25/9",
+  "official_journal": "BOC (Boletín Oficial de las Islas Baleares)",
+  "journal_issue": null,
+  "summary": "Esta norma busca frenar la expansión urbanística descontrolada y proteger el suelo rústico en las Islas Baleares. Implementa la reclasificación automática de suelos urbanizables que no se han desarrollado en los plazos previstos para convertirlos en suelo rústico. Además, endurece las condiciones para construir en terrenos rurales, exigiendo medidas de integración paisajística y sostenibilidad ambiental.",
+  "citizen_impact": "Los propietarios de terrenos rústicos ven limitadas sus posibilidades de construir viviendas o realizar reformas, debiendo cumplir estrictamente con criterios de paisaje y ahorro de agua. Los ciudadanos también se benefician de una mayor protección del entorno natural y una gestión más sostenible de los recursos hídricos.",
+  "professional_impact": "Promotores y arquitectos enfrentan mayores restricciones y requisitos técnicos para proyectos en suelo rústico, incluyendo la obligación de presentar proyectos de integración paisajística. Los ayuntamientos pierden competencias sobre ciertos suelos, que pasan a ser gestionados por los consejos insulares o el Gobierno autonómico.",
+  "keywords": [
+    "urbanismo",
+    "suelo rústico",
+    "protección del territorio",
+    "medio ambiente",
+    "Islas Baleares",
+    "desarrollo sostenible",
+    "paisaje"
+  ],
+  "key_points": [
+    "Reclasificación automática de suelo urbanizable a suelo rústico si no se ha ejecutado en los plazos legales.",
+    "Suspensión de licencias y trámites urbanísticos en suelos sin urbanización consolidada hasta finales de 2022.",
+    "Obligación de incluir proyectos de integración paisajística y ambiental en cualquier construcción o reforma en suelo rústico.",
+    "Exigencia de mantener elementos tradicionales como muros de piedra seca y vegetación autóctona.",
+    "Nuevas medidas de ahorro de agua para garantizar la sostenibilidad en las islas.",
+    "Limitación de la construcción de viviendas unifamiliares en zonas de riesgo (inundación, incendio, etc.)."
+  ],
+  "legal_references": [
+    "Estatuto de autonomía de las Illes Balears",
+    "Ley 12/2017, de 29 de diciembre, de urbanismo de las Illes Balears",
+    "Ley 5/2005, de 26 de mayo, para la conservación de los espacios de relevancia ambiental (LEC0)",
+    "Decreto ley 8/2020, de 13 de mayo"
+  ],
+  "derogations": [
+    "Normas de igual o inferior rango que se opongan o sean incompatibles, específicamente el apartado tercero de la disposición transitoria primera del Reglamento general de la Ley 2/2014 de Mallorca."
+  ],
+  "main_obligations": "Los solicitantes de licencias en suelo rústico deben presentar un proyecto técnico que garantice la recuperación de la masa boscosa, elementos culturales (piedra seca) y el cumplimiento de normativas de contaminación lumínica. Se prohíbe la edificación en áreas de prevención de riesgos.",
+  "effective_date": "2020-07-17",
+  "procedures": [
+    {
+      "name": "Adaptación de planeamiento municipal al Plan Territorial Insular",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Asunción de potestades por los Consejos Insulares",
+          "description": "Los consejos insulares asumen la ordenación de terrenos si los municipios no han iniciado la adaptación antes del 31/12/2021.",
+          "start_date": "2020-07-17",
+          "end_date": "2021-12-31",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Subrogación por el Gobierno de las Illes Balears",
+          "description": "Si los consejos no actúan, el Gobierno autonómico asume la potestad para aprobar la ordenación antes de finales de 2022.",
+          "start_date": "2022-01-01",
+          "end_date": "2022-12-31",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

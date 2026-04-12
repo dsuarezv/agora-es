@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-2024-4143",
+  "title": "Resolución de 20 de febrero de 2024, de la Dirección de Tráfico, del Departamento de Seguridad, por la que se establecen medidas especiales de regulación de tráfico durante el año 2024 en la Comunidad Autónoma del País Vasco",
+  "visible_title": "Medidas especiales de regulación de tráfico en el País Vasco durante 2024",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Departamento de Seguridad (País Vasco)",
+  "official_number": "BOE-A-2024-4143",
+  "publication_date": "2024-03-04",
+  "enactment_date": "2024-02-20",
+  "last_updated": "2024-09-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/res/2024/02/20/(1)",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta resolución establece restricciones de circulación en el País Vasco para mejorar la seguridad y fluidez del tráfico durante el año 2024. Regula la prohibición de eventos deportivos en ciertas fechas, limita el tránsito de vehículos de transporte de mercancías peligrosas y de vehículos pesados de más de 7.500 kg en periodos de alta demanda. Además, coordina la suspensión de obras en carretera durante fines de semana y periodos de vacaciones.",
+  "citizen_impact": "Los ciudadanos pueden experimentar cambios en la movilidad debido a la prohibición de eventos deportivos en vías interurbanas en fechas específicas. También podrían verse afectados por la gestión de obras en carretera, que se suspenderán en fines de semana para evitar atascos.",
+  "professional_impact": "Las empresas de transporte de mercancías peligrosas y de vehículos pesos (>7.500 kg) deben ajustar sus rutas y horarios de entrega para evitar las prohibiciones en domingos, festivos y periodos estivales. Los organizadores de eventos deportivos deben solicitar autorizaciones específicas y cumplir con las restricciones de fechas indicadas en la norma.",
+  "keywords": [
+    "tráfico",
+    "País Vasco",
+    "restricciones de circulación",
+    "mercancías peligrosas",
+    "transporte de carga",
+    "seguridad vial",
+    "movilidad"
+  ],
+  "key_points": [
+    "Prohibición de circulación para vehículos de mercancías peligrosas los domingos y festivos (8:00 a 24:00) y vísperas de festivos (16:00 a 24:00).",
+    "Restricciones para vehículos de transporte de mercancías con masa superior a 7.500 kg, especialmente en el periodo estival (junio a septiembre).",
+    "Limitación de eventos deportivos y marchas ciclísticas en vías interurbanas durante fechas señaladas en el Anexo I.",
+    "Obligatoriedad de usar itinerarios específicos (RIMP) para el transporte de mercancías peligrosas.",
+    "Suspensión de obras en carretera durante fines de semana (viernes tarde a domingo noche) para garantizar la fluidez.",
+    "Obligación de circular por el carril derecho para camiones (>3.500 kg) y autobuses en condiciones meteorológicas adversas.",
+    "Posibilidad de solicitar autorizaciones especiales para viajes urgentes en periodos restringidos."
+  ],
+  "legal_references": [
+    "Real Decreto Legislativo 6/2015 (Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial)",
+    "Real Decreto 1428/2003 (Reglamento General de Circulación)",
+    "Real Decreto 3256/1982",
+    "Decreto 6/2021",
+    "Real Decreto 97/2014",
+    "Reglamento General de Vehículos (Real Decreto 2822/1998)"
+  ],
+  "derogatations": [],
+  "main_obligations": "Los transportistas de mercancías peligrosas y vehículos de más de 7.500 kg deben respetar estrictamente los horarios y días de prohibición indicados en los anexos. El incumplimiento conlleva sanciones según la Ley de Tráfico y la posible retirada del vehículo por parte de la autoridad.",
+  "effective_date": "2024-03-14",
+  "procudeures": [
+    {
+      "name": "Autorización de pruebas deportivas y eventos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Los responsables deben solicitar permiso para eventos que ocupen calzada o arcenes en vías interurbanas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación del evento y detalles de ocupación de vía"
+        },
+        {
+          "step": 2,
+          "title": "Evaluación de la autoridad de tráfico",
+          "description": "Se denegará la autorización si coincide con las fechas de restricción del Anexo I, salvo excepciones internacionales o electorales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorizaciones especiales de circulación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Justificación de urgencia",
+          "description": "Presentación de solicitud justificando la necesidad ineludible de circular en periodos o rutas restringidas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Matrícula, características del vehículo, tipo de mercancía y ruta"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

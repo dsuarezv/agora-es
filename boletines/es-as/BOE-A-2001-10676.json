@@ -1,0 +1,253 @@
+{
+  "identifier": "BOE-A-2001-10676",
+  "title": "Ley 1/2001, de 6 de marzo, del Patrimonio Cultural",
+  "visible_title": "Ley del Patrimonio Cultural",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "1/2001",
+  "publication_date": "2001-06-06",
+  "enactment_date": "2001-03-06",
+  "last_updated": "2025-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2001/03/06/1",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas para proteger y gestionar todo el patrimonio cultural de Asturias, tanto los monumentos físicos como las tradiciones inmateriales. Define niveles de protección que van desde el Inventario hasta los Bienes de Interés Cultural (BIC) y obliga a los ayuntamientos a integrar estos bienes en sus planes urbanísticos. La norma regula estrictamente cualquier intervención en edificios históricos y establece que los hallazgos arqueológicos pertenecen al dominio público. En definitiva, busca equilibrar el desarrollo de la región con la conservación obligatoria de su identidad histórica y cultural.",
+  "citizen_impact": "Afecta directamente a propietarios de viviendas o terrenos históricos, quienes deben pedir permiso antes de cualquier obra. Si eres dueño de un bien protegido, tienes la obligación de permitir visitas públicas bajo ciertas condiciones. Además, si encuentras restos arqueológicos en tu propiedad, no puedes disponer de ellos y debes informar de inmediato.",
+  "professional_impact": "Empresas constructoras y arquitectos deben solicitar autorizaciones previas de la Consejería de Cultura para intervenir en zonas protegidas, sabiendo que un hallazgo arqueológico puede paralizar la obra. Los ayuntamientos tienen la carga administrativa de adaptar su normativa urbanística en un plazo de 10 años. Los profesionales de la arqueología requieren autorización expresa para usar detectores de metales.",
+  "keywords": [
+    "patrimonio cultural",
+    "Asturias",
+    "BIC",
+    "protección de monumentos",
+    "hallazgos arqueológicos",
+    "urbanismo",
+    "patrimonio inmaterial"
+  ],
+  "key_points": [
+    "Creación de dos niveles de protección: Bienes de Interés Cultural (máximo rango) e Inventario del Patrimonio Cultural (rango medio).",
+    "Protección automática de edificios construidos antes de 1800 y elementos religiosos anteriores a 1900.",
+    "Protección de elementos etnográficos (hórreos, molinos) anteriores a 1940 si mantienen su estilo.",
+    "La declaración de un bien como BIC puede suspender automáticamente licencias de edificación o demolición en la zona.",
+    "Prohibición de reconstrucciones que falseen la autenticidad histórica y de publicidad visual/acústica en entornos protegidos.",
+    "Obligación de soterrar instalaciones eléctricas y telefónicas en Conjuntos Históricos.",
+    "Los hallazgos arqueológicos casuales son de dominio público y deben entregarse a la Administración.",
+    "Uso de detectores de metales para arqueología requiere autorización previa expresa.",
+    "Obligación de permitir visitas públicas en inmuebles protegidos (4 días/mes para BIC; 6 días/año para Inventario).",
+    "Los ayuntamientos deben incluir obligatoriamente los bienes culturales en sus catálogos urbanísticos.",
+    "Los propietarios deben comunicar cualquier daño significativo o el traslado de bienes muebles fuera de Asturias.",
+    "Las colecciones privadas de valor están sujetas a criterios de protección según su valor económico."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 44.1 y 46)",
+    "Estatuto de Autonomía del Principado de Asturias",
+    "Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas",
+    "Real Decreto 81/1989",
+    "Real Decreto 726/1993",
+    "Código Civil (Artículo 351)",
+    "Artículo 23 de la Ley 1/2001",
+    "Artículo 16 de la Ley 1/2001",
+    "Artículo 24 de la Ley 1/2001",
+    "Artículo 111 de la Ley 1/2001",
+    "Artículo 8 de la Ley 1/2001"
+  ],
+  "derogatons": [
+    "Artículo 351 del Código Civil (en lo relativo a hallazgos arqueológicos)"
+  ],
+  "main_obligations": "Los propietarios de bienes protegidos deben solicitar autorización a la Consejería de Educación y Cultura para cualquier intervención que altere su valor. Ante un hallazgo arqueológico, se debe comunicar en un plazo de 48 horas y paralizar la obra inmediatamente.",
+  "effective_date": "2001-06-06",
+  "procedures": [
+    {
+      "name": "Declaración de Bien de Interés Cultural (BIC)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del expediente",
+          "description": "Inicio del procedimiento de oficio o a petición de parte.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informes técnicos y documentación gráfica"
+        },
+        {
+          "step": 2,
+          "title": "Notificación y publicación",
+          "description": "Se notifica a interesados y se publica en el BOPr y BOE, anotándose preventivamente en el Registro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Instrucción y alegaciones",
+          "description": "Periodo para que los interesados presenten alegaciones y se recaben informes técnicos.",
+          "start_date": null,
+          "end_date": "24 meses desde la incoación",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "Dictado de la resolución final tras informes del Consejo del Patrimonio y otras instituciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inclusión en el Inventario del Patrimonio Cultural",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación",
+          "description": "Inicio del expediente mediante resolución de la Consejería.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Instrucción",
+          "description": "Tramitación del expediente siguiendo las reglas de la declaración de BIC.",
+          "start_date": null,
+          "end_date": "16 meses desde la resolución de inicio",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Acto por el que se resuelve la inclusión del bien.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización de obras en bienes del Inventario",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Presentación de la solicitud de intervención ante la Consejería competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto detallado de la intervención"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la solicitud",
+          "description": "Plazo máximo para la concesión de la autorización.",
+          "start_date": "Desde la solicitud",
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Silencio administrativo",
+          "description": "Si no hay respuesta en el plazo, se entiende desestimada la solicitud.",
+          "start_date": "Tras 2 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento ante hallazgo arqueológico durante obra",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Paralización y comunicación",
+          "description": "El promotor o constructor debe detener la obra y avisar a la Consejería y al Ayuntamiento.",
+          "start_date": "Inmediatamente tras el hallazgo",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la Administración",
+          "description": "La Consejería decide si se inicia expediente de declaración de BIC o si se continúa la obra con seguimiento.",
+          "start_date": "Desde la comunicación",
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Comunicación de hallazgos por azar",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación del hallazgo",
+          "description": "Comunicar el descubrimiento a la Consejería de Educación y Cultura.",
+          "start_date": "Desde el hallazgo",
+          "end_date": "48 horas",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Entrega de objetos",
+          "description": "Entrega física de los objetos descubiertos a la Consejería.",
+          "start_date": "Desde el hallazgo",
+          "end_date": "48 horas",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de la normativa urbanística municipal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de catálogos existentes",
+          "description": "Los Ayuntamientos que consideren que sus catálogos ya cumplen la ley deben comunicarlo a la Consejería.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe de la Consejería",
+          "description": "La Consejería de Educación y Cultura debe emitir un informe sobre la adecuación de los catálogos municipales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Adaptación normativa final",
+          "description": "Plazo máximo para que los Ayuntamientos ajusten sus normas urbanísticas a la nueva Ley de Patrimonio.",
+          "start_date": "2001-06-06",
+          "end_date": "10 años desde la entrada en vigor",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Constitución de órganos de gestión del patrimonio",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Constitución del Consejo del Patrimonio Cultural",
+          "description": "Creación del órgano de gestión del patrimonio.",
+          "start_date": "2001-06-06",
+          "end_date": "1 año desde la entrada en vigor",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Constitución de la Comisión de Valoración de Bienes",
+          "description": "Creación de la comisión encargada de valorar los bienes del patrimonio.",
+          "start_date": "2001-06-06",
+          "end_date": "1 año desde la entrada en vigor",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

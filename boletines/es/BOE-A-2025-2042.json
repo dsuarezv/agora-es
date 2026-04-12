@@ -1,0 +1,138 @@
+{
+  "identifier": "BOE-A-2025-2042",
+  "title": "Instrucción 1/2025, de 30 de enero, de la Junta Electoral Central, sobre sustitución de cargos representantes locales",
+  "visible_title": "Sustitución de cargos representantes locales",
+  "rank": "instrucción",
+  "country": "es",
+  "department": "Junta Electoral Central",
+  "official_number": "1/2025",
+  "publication_date": "2025-02-05",
+  "enactment_date": "2025-01-30",
+  "last_updated": "2025-02-05",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/ins/2025/01/30/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "31",
+  "summary": "Esta instrucción actualiza el procedimiento para cubrir vacantes de concejales, alcaldes pedáneos o consejeros comarcales por fallecimiento, incapacidad o renuncia. Su objetivo es agilizar y clarificar cómo se accede a estos cargos para evitar vacíos de poder o retrasos burocráticos. Establece reglas claras sobre cuándo una renuncia es efectiva y cómo deben actuar las corporaciones locales y las Juntas Electorales.",
+  "citizen_impact": "Afecta principalmente a los ciudadanos que participan en política local, garantizando que sus representantes sean sustituidos de forma rápida y legal. En municipios muy pequeños (menos de 250 habitantes), asegura que la gestión no se detenga aunque se agoten los candidatos de una lista.",
+  "professional_impact": "Impacta directamente en secretarios de ayuntamientos, concejales y representantes de partidos políticos. Define nuevos protocolos para la validación de renuncias (incluyendo el uso de firma electrónica) y establece plazos estrictos para que los ayuntamientos comuniquen las vacantes a la Junta Electoral.",
+  "keywords": [
+    "sustitución de cargos",
+    "vacante electoral",
+    "concejal",
+    "Junta Electoral Central",
+    "régimen local",
+    "renuncia de cargo"
+  ],
+  "key_points": [
+    "La renuncia de un concejal solo es efectiva y revocable cuando el Pleno del Ayuntamiento toma conocimiento de ella.",
+    "Se permite el uso de firma electrónica o certificado digital para ratificar renuncias ante el secretario si no hay comparecencia personal.",
+    "Si un ayuntamiento no comunica una vacante en 10 días naturales, los partidos afectados pueden acudir directamente a la Junta Electoral.",
+    "En municipios de menos de 250 habitantes, la vacante se cubre con el siguiente candidato más votado, aunque no sea de la misma lista.",
+    "Si se agotan todos los candidatos en municipios pequeños, no se busca sustituto y el ayuntamiento sigue funcionando con los miembros restantes.",
+    "En caso de empate para sustituir a un cargo en municipios pequeños, se recurre al sorteo, a menos que uno de los empatados renuncie."
+  ],
+  "legal_references": [
+    "Ley Orgánica del Régimen Electoral General (LOREG)",
+    "Ley Orgánica 1/2003",
+    "Ley 30/1992",
+    "Ley 4/1999",
+    "Ley 29/1998"
+  ],
+  "derogations": [
+    "Instrucción de la Junta Electoral Central de 10 de julio de 2003"
+  ],
+  "main_obligations": "Los ayuntamientos deben certificar y remitir a la Junta Electoral la toma de conocimiento de una vacante en su primera sesión tras el cese. Los candidatos propuestos para cubrir vacantes deben presentar declaración bajo juramento de no tener causas de inelegibilidad y su aceptación expresa.",
+  "effective_date": "2025-02-06",
+  "procedures": [
+    {
+      "name": "Sustitución de cargo por vacante (Fallecimiento, incapacidad o renuncia)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de la vacante",
+          "description": "El Pleno toma conocimiento de la vacante y remite certificación a la Junta Electoral de Zona.",
+          "start_date": "En la primera sesión tras la vacante",
+          "end_date": null,
+          "required_documentation": "Certificación del acuerdo del Pleno"
+        },
+        {
+          "step": 2,
+          "title": "Expedición de credencial",
+          "description": "La Junta Electoral emite la credencial acreditativa para el nuevo electo.",
+          "start_date": "Tras recibir la certificación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Toma de posesión",
+          "description": "El nuevo cargo debe ser incluido en el orden del día del primer Pleno tras recibir la credencial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Credencial de la Junta Electoral"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de denuncia por inacción municipal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de espera",
+          "description": "El representante de la candidatura debe esperar 10 días naturales tras la vacante sin comunicación oficial.",
+          "start_date": "Día 1 tras la vacante",
+          "end_date": "Día 10",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Notificación a la Junta Electoral",
+          "description": "El partido afectado pone la situación en conocimiento de la Junta Electoral.",
+          "start_date": "Día 11",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Audiencia al Ayuntamiento",
+          "description": "La Junta Electoral otorga 5 días de audiencia al presidente o secretario del ayuntamiento.",
+          "start_date": "Tras la notificación del partido",
+          "end_date": "5 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Sustitución por agotamiento de listas (Candidatos designados por partidos)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de candidato",
+          "description": "El partido comunica la propuesta adjuntando DNI y declaración jurada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Fotocopia DNI, escrito firmado con declaración bajo juramento y aceptación expresa"
+        },
+        {
+          "step": 2,
+          "title": "Publicación y alegaciones",
+          "description": "Se publica anuncio en el BO correspondiente y se abre plazo para denunciar irregularidades.",
+          "start_date": "Desde la publicación",
+          "end_date": "2 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Subsanación",
+          "description": "Si hay irregularidades, la entidad política tiene dos días para subsanar o alegar.",
+          "start_date": "Día siguiente al plazo de alegaciones",
+          "end_date": "2 días",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

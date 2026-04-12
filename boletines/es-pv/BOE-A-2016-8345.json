@@ -1,0 +1,91 @@
+{
+  "identifier": "BOE-A-2016-8345",
+  "title": "Ley 12/2016, de 28 de julio, de reconocimiento y reparación de víctimas de vulneraciones de derechos humanos en el contexto de la violencia de motivación política en la Comunidad Autónoma del País Vasco entre 1978 y 1999",
+  "visible_title": "Ley de reconocimiento y reparación de víctimas de vulneraciones de derechos humanos en el contexto de la violencia de motivación política en el País Vasco",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "12/2016",
+  "publication_date": "2016-09-10",
+  "enactment_date": "2016-07-28",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2016/07/28/12",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un sistema para reconocer y reparar a las víctimas de graves vulneraciones de derechos humanos ocurridas en el País Vasco entre 1978 y 1999 en un contexto de violencia política. Busca ofrecer un reconocimiento institucional, acceso a la verdad y medidas de reparación económica y sanitaria. La norma pretende contribuir a la convivencia y a la construcción de una memoria histórica crítica mediante la atención a quienes no han sido reconocidos previamente.",
+  "citizen_impact": "Otorga derechos de reconocimiento público y compensaciones económicas a víctimas directas o familiares (en caso de fallecimiento) de vulneraciones de derechos humanos. También garantiza el acceso a asistencia sanitaria integral y psicológica especializada para superar las secuelas de dichos hechos.",
+  "professional_impact": "Crea una nueva Comisión de Valoración compuesta por expertos, juristas, historiadores y peritos forensicos para evaluar los casos. Los funcionarios de la administración vasca deberán gestionar estos expedientes bajo principios de celeridad y trato favorable, evitando la revictimización.",
+  "keywords": [
+    "derechos humanos",
+    "reparación de víctimas",
+    "violencia política",
+    "País Vasco",
+    "memoria histórica",
+    "indemnización",
+    "asistencia sanitaria"
+  ],
+  "key_points": [
+    "Ámbito temporal: hechos ocurridos entre el 29 de diciembre de 1978 y el 31 de diciembre de 1999.",
+    "Derecho a la indemnización: establece baremos de hasta 390.000€ por gran invalidez y 135.000€ por fallecimiento.",
+    "Asistencia sanitaria: cobertura total de prestaciones necesarias para recuperar la salud física y psicológica.",
+    "Derecho a la verdad: compromiso de facilitar el acceso a archivos y conocimiento de los hechos.",
+    "Reconocimiento de familiares: en caso de muerte, los beneficios pasan al cónyuge, hijos o familiares según orden sucesivo.",
+    "Exclusión: no se aplica a personas heridas durante la manipulación de armas o explosivos con fines violentos.",
+    "Plazo de solicitud: se establece un periodo de dos años para presentar las solicitudes una vez abierto el plazo.",
+    "Comisión de Valoración: órgano independiente encargado de proponer la declaración de víctima y valorar daños."
+  ],
+  "legal_references": [
+    "Decreto 107/2012, de 12 de junio",
+    "Constitución Española",
+    "Declaración Universal de Derechos Humanos",
+    "Convenio para la Protección de los Derechos Humanos y de las Libertades Fundamentales del Consejo de Europa",
+    "Directiva 2012/29/UE",
+    "Estatuto de Autonomía del País Vasco",
+    "Orden ESS/66/2013"
+  ],
+  "derogations": [],
+  "main_obligations": "Las personas solicitantes deben facilitar toda la información y documentación requerida para la verificación de datos. El incumplimiento o la falsedad en los datos conlleva la pérdida del reconocimiento y la obligación de devolver las cantidades percibidas con intereses.",
+  "effective_date": "2016-09-11",
+  "procedures": [
+    {
+      "name": "Procedimiento de declaración de víctima y reparación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Inicio del trámite mediante solicitud formal de la persona afectada o sus familiares.",
+          "start_date": "A partir de la resolución que abra el plazo",
+          "end_date": "2 años desde la apertura del plazo",
+          "required_documentation": "Modelo normalizado, descripción de los hechos, informes médicos y certificados de parentesco si procede."
+        },
+        {
+          "step": 2,
+          "title": "Instrucción por la Comisión de Valoración",
+          "description": "Análisis de la documentación, posibles entrevistas y elaboración de informes técnicos forenses.",
+          "start_date": "Tras la recepción de la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Propuesta de resolución",
+          "description": "La Comisión emite un informe motivado proponiendo la declaración de víctima o la denegación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución definitiva",
+          "description": "La autoridad competente dicta la resolución final reconociendo o denegando los derechos.",
+          "start_date": null,
+          "end_date": "Máximo 24 meses desde la solicitud",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

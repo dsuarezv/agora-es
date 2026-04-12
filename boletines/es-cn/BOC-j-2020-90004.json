@@ -1,0 +1,81 @@
+{
+  "identifier": "BOC-j-2020-90004",
+  "title": "Decreto-ley 1/2020, de 16 de enero, de medidas urgentes, por el que se regula la ayuda para la adquisición de medicamentos financiados por el Sistema Nacional de Salud a las personas que ostenten la condición de pensionistas de la Seguridad Social y sus beneficiarios cuya renta anual sea inferior a 18.000 euros",
+  "visible_title": "Ayuda para la adquisición de medicamentos para pensionistas con rentas inferiores a 18.000 euros en Canarias",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "1/2020",
+  "publication_date": "2020-01-17",
+  "enactment_date": "2020-01-16",
+  "last_updated": "2020-03-25",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOC-j-2020-90004",
+  "official_journal": "Boletín Oficial de Canarias",
+  "journal_issue": null,
+  "summary": "Esta norma establece una ayuda económica para cubrir el copago de medicamentos de la Seguridad Social en Canarias. El objetivo es evitar que los pensionistas con bajos ingresos dejen de seguir sus tratamientos por motivos económicos. La ayuda se aplica de forma automática para eliminar el coste del copago en el momento de la compra en la farmacia.",
+  "citizen_impact": "Los pensionistas canarios con rentas inferiores a 18.000 euros ya no tendrán que pagar el copago de sus medicamentos financiados por el SNS. No requiere trámites adicionales, ya que la administración lo gestiona de oficio, y permite incluso recuperar lo pagado desde el 1 de enero de 2020.",
+  "professional_impact": "Las oficinas de farmacia actúan como entidades colaboradoras, dispensando el medicamento sin cobrar el copago y gestionando el cobro posterior con el Servicio Canario de la Salud. Los Colegios Oficiales de Farmacéuticos gestionan la facturación mensual de estas ayudas.",
+  "keywords": [
+    "pensionistas",
+    "medicamentos",
+    "copago farmacèutico",
+    "ayuda económica",
+    "Canarias",
+    "Seguridad Social",
+    "renta baja"
+  ],
+  "key_points": [
+    "Ayuda dirigida a pensionistas y sus beneficiarios residentes en Canarias con renta anual < 18.000€.",
+    "Eliminación del copago (10% con tope de 8,23€ mensuales) en el momento de la compra.",
+    "Gestión de oficio: el ciudadano no tiene que solicitar la ayuda.",
+    "Reembolso de las cantidades abonadas desde el 1 de enero de 2020 hasta la entrada en vigor.",
+    "La ayuda solo es válida para medicamentos prescritos por el sistema público y comprados en farmacias de Canarias."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Canarias",
+    "Real Decreto ley 16/2012",
+    "Ley de Garantías y Uso Racional de los Medicamentos y Productos Sanitarios",
+    "Decreto 78/2019",
+    "Ley General de la Seguridad Social"
+  ],
+  "derogations": [
+    "Decreto 78/2019 (implícito por la nueva regulación general)",
+    "Normativa estatal básica (en caso de que se suprima el copago para este colectivo)"
+  ],
+  "main_obligations": null,
+  "effective_date": "2020-01-18",
+  "proceduers": [
+    {
+      "name": "Reconocimiento y abono de la ayuda farmacèutica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de requisitos",
+          "descrption": "La administración comprueba de oficio la residencia, condición de pensionista y renta mediante ficheros públicos.",
+          "start_date": "2020-01-18",
+          "end_date": null,
+          "required_documentation": "Datos de la declaración de la Renta (IRPF) y tarjeta sanitaria del Servicio Canario de la Salud."
+        },
+        {
+          "step": 2,
+          "title": "Dispensación sin copago",
+          "descrption": "El farmacéutico entrega el medicamento sin cobrar el porcentaje de aportación al usuario.",
+          "start_date": "2020-01-18",
+          "end_date": null,
+          "required_documentation": "Receta médica oficial y tarjeta sanitaria."
+        },
+        {
+          "step": 3,
+          "title": "Gestión de cobro y reembolso",
+          "descrption": "El Servicio Canario de la Salud abona la ayuda a las farmacias y gestiona la devolución de pagos previos a los ciudadanos.",
+          "start_date": "2020-01-18",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

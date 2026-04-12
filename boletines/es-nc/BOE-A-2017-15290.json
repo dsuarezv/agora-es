@@ -1,0 +1,82 @@
+{
+  "identifier": "BOE-A-2017-15290",
+  "title": "Ley Foral 13/2017, de 16 de noviembre, de conciertos sociales en los ámbitos de salud y servicios sociales",
+  "visible_title": "Ley de conciertos sociales en salud y servicios sociales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "13/2017",
+  "publication_date": "2017-12-22",
+  "enactment_date": "2017-11-16",
+  "last_updated": "2022-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2017/11/16/13",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea un modelo de colaboración entre la Administración de Navarra y entidades sin ánimo de lucro para prestar servicios de salud y servicios sociales. El objetivo es permitir que el Tercer Sector gestione servicios públicos de forma indirecta cuando la Administración no tenga capacidad suficiente, pero bajo estricto control público. Se busca ofrecer una alternativa más estable que las subvenciones, garantizando la calidad y evitando la privatización con fines de lucro.",
+  "citizen_impact": "Los ciudadanos que utilicen servicios sociales o sanitarios concertados mantendrán los mismos derechos y costes que si fueran atendidos en centros directamente gestionados por la Administración. Esto garantiza la continuidad y calidad de la atención sin que el usuario pague más por el hecho de que la entidad sea una asociación o fundación.",
+  "professional_impact": "Las entidades sin ánimo de lucro del sector social tienen un nuevo marco jurídico para acceder a la gestión de servicios, con procesos de adjudicación más ágiles que la contratación pública tradicional. Los trabajadores de estas entidades deben ver minimizadas sus diferencias salariales con el personal público, siempre que no suponga un aumento de costes para la Administración.",
+  "keywords": [
+    "conciertos sociales",
+    "servicios sociales",
+    "salud",
+    "entidades sin ánimo de lucro",
+    "gestión indirecta",
+    "Navarra",
+    "Tercer Sector"
+  ],
+  "key_points": [
+    "Permite la gestión de servicios sociales y sanitarios mediante conciertos con entidades sin ánimo de lucro, fuera del régimen de contratación pública general.",
+    "Establece que la gestión indirecta es subsidiaria y no puede usarse para privatizar servicios que la Administración ya gestiona directamente.",
+    "Exige que las entidades tengan al menos 5 años de experiencia previa en actividades sin ánimo de lucro.",
+    "Los precios de los conciertos deben cubrir costes y salarios, pero prohíbe expresamente el beneficio empresarial.",
+    "Los conciertos pueden durar hasta un máximo de 9 años (3 iniciales + prórrogas).",
+    "Se obliga a incluir cláusulas sociales en los conciertos para promover la igualdad, la inserción laboral y la sostenibilidad.",
+    "La Administración debe realizar evaluaciones periódicas (intermedias y finales) para decidir la continuidad de los conciertos.",
+    "Se busca reducir la brecha salarial entre el personal de las entidades concertadas y el personal de la Administración pública."
+  ],
+  "legal_references": [
+    "Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra",
+    "Directiva 2014/24/UE",
+    "Ley Foral 20/1985, de 25 de octubre, de conciertos en materia de servicios sociales",
+    "Ley Orgánica 3/2007, de 28 de marzo, para la igualdad efectiva de mujeres y hombres",
+    "Ley 14/1986, de 25 de abril, General de Sanidad",
+    "Ley Foral 10/1990, de 23 de noviembre, de Salud"
+  ],
+  "derogations": [],
+  "main_obligations": "Las entidades deben reinvertir cualquier beneficio en sus fines sociales y no pueden aplicar políticas de precios inferiores al mercado para distorsionar la competencia. La Administración está obligada a justificar mediante informe la necesidad de recurrir a un concierto antes de adjudicarlo.",
+  "effective_date": "2017-12-23",
+  "procedures": [
+    {
+      "name": "Adjudicación de conciertos sociales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Divulgación de servicios",
+          "description": "La Administración debe publicar en el Portal de Contratación los servicios que prevé adjudicar anualmente.",
+          "start_date": "Anualmente",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Procedimiento de adjudicación",
+          "description": "Dependiendo del caso, será mediante adjudicación directa, sin publicidad o con publicidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de requisitos de entidad sin ánimo de lucro y solvencia técnica"
+        },
+        {
+          "step": 3,
+          "title": "Evaluación del servicio",
+          "description": "Realización de evaluaciones intermedias (a los 18 meses) y finales para decidir prórrogas.",
+          "start_date": "A los 18 meses del inicio",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

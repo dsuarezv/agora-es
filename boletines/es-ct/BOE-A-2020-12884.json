@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-2020-12884",
+  "title": "Decreto-ley 31/2020, de 8 de septiembre, por el que se modifica el Decreto Legislativo 1/2000, de 31 de julio, por el que se aprueba el Texto único de la Ley del deporte, y se establecen medidas de funcionamiento de los órganos de gobierno de las entidades deportivas de Cataluña",
+  "visible_title": "Medidas de funcionamiento de los órganos de gobierno de las entidades deportivas de Cataluña",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "31/2020",
+  "publication_date": "2020-10-24",
+  "enactment_date": "2020-09-08",
+  "last_updated": "2020-09-10",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2020/09/08/31",
+  "official_journal": "Diari Oficial de la Generalitat de Catalunya",
+  "journal_issue": null,
+  "summary": "Esta norma permite que las entidades deportivas en Cataluña sigan funcionando durante la crisis sanitaria por la COVID-19. Facilita el uso de medios electrónicos para reuniones y toma de acuerdos de sus órganos de gobierno. Además, habilita a las juntas directivas para tomar decisiones urgentes y gestionar calendarios de competición ante la imposibilidad de realizar asambleas presenciales.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo para aquellos que formen parte de entidades o federaciones deportivas catalanas.",
+  "professional_impact": "Los directivos de entidades y federaciones deportivas pueden ahora realizar reuniones y acuerdos de forma telemática (si sus estatutos no lo prohíben). También se les otorga capacidad para modificar calendarios deportivos y tomar medidas esenciales sin esperar a la asamblea general, bajo supervisión posterior.",
+  "keywords": [
+    "deporte",
+    "Cataluña",
+    "COVID-19",
+    "entidades deportivas",
+    "gobierno digital",
+    "federaciones deportivas",
+    "medios electrónicos"
+  ],
+  "key_points": [
+    "Se permite el uso de medios electrónicos para reuniones y toma de acuerdos de órganos de gobierno, siempre que los estatutos no lo prohíban.",
+    "Las juntas directivas pueden tomar medidas urgentes para el funcionamiento esencial de la entidad si no se pueden celebrar asambleas a distancia.",
+    "Las federaciones deportivas pueden modificar el calendario de competición de la temporada 2020-2021 mediante sus juntas directivas.",
+    "Los acuerdos urgentes de las juntas directivas deben ser ratificados por la asamblea general en un plazo de 60 días tras el fin de las restricciones sanitarias.",
+    "Las asambleas para aprobar cuentas anuales de 2019 y presupuestos de 2020 deben celebrarse antes del 1 de enero de 2021 (o 60 días tras el fin de las restricciones).",
+    "Se prorrogan los mandatos de las juntas directivas que hayan expirado durante el estado de alarma hasta el 31 de diciembre de 2020.",
+    "Las elecciones para renovar juntas directivas deben realizarse, como máximo, antes del 31 de diciembre de 2020.",
+    "Se permite realizar votaciones electorales de forma independiente a las asambleas generales para facilitar el cumplimiento de medidas sanitarias."
+  ],
+  "legal_references": [
+    "Decreto Legislativo 1/2000, de 31 de julio",
+    "Resolución SLT/2107/2020, de 28 de agosto",
+    "Estatuto de Autonomía de Cataluña",
+    "Ley 13/2008, de 5 de noviembre, de la Presidencia de la Generalidad y del Gobierno",
+    "Real Decreto 463/2020, de 14 de marzo"
+  ],
+  "derogations": [
+    "Disposiciones contrarias a lo establecido en el artículo único de este Decreto-ley"
+  ],
+  "main_obligations": "Las juntas directivas deben ratificar sus acuerdos urgentes ante la asamblea general en un plazo de 60 días naturales tras el cese de las restricciones sanitarias. Las asambleas de aprobación de cuentas deben celebrarse antes del 1 de enero de 2021 o en el plazo de 60 días tras el fin de las restricciones.",
+  "effective_date": "2020-09-08",
+  "procedures": [
+    {
+      "name": "Ratificación de acuerdos de la junta directiva",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adopción de medidas urgentes",
+          "description": "La junta directiva toma decisiones para el funcionamiento esencial o calendario deportivo.",
+          "start_date": "Durante la crisis sanitaria",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Ratificación por Asamblea General",
+          "description": "La asamblea debe validar los acuerdos adoptados por la junta.",
+          "start_date": "Desde el cese de la Resolución SLT/2107/2020",
+          "end_date": "60 días naturales tras el cese de la resolución",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Renovación de mandatos y procesos electorales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de elecciones",
+          "description": "La junta directiva con mandato prorrogado debe convocar el proceso electoral según estatutos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Celebración de elecciones",
+          "description": "Realización del acto de votación, que puede ser independiente de la asamblea general.",
+          "start_date": null,
+          "end_date": "2020-12-31",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

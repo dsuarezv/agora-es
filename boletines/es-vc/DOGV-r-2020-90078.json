@@ -1,0 +1,82 @@
+{
+  "identifier": "DOGV-r-2020-90078",
+  "title": "Decreto-ley 1/2020, de 27 de marzo, del Consell, de medidas urgentes de apoyo económico y financiero a las personas trabajadoras autónomas, de carácter tributario y de simplificación administrativa, para hacer frente al impacto de la Covid-19",
+  "visible_title": "Medidas de apoyo económico, financiero y tributario para autónomos ante la crisis de la Covid-19",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Generalitat Valenciana",
+  "official_number": "1/2020",
+  "publication_date": "2020-03-30",
+  "enactment_date": "2020-03-27",
+  "last_updated": "2020-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=DOGV-r-2020-90078",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta norma establece un paquete de rescate para los trabajadores autónomos de la Comunidad Valenciana afectados por la pandemia. Incluye ayudas directas de hasta 1.500 euros, refuerzo de avales para préstamos y medidas de alivio fiscal. El objetivo es evitar la quiebra de negocios y facilitar la supervivencia económica durante el estado de alarma.",
+  "citizen_impact": "Los autónomos de la Comunidad Valenciana reciben un respiro financiero mediante ayudas directas y la posibilidad de aplazar pagos de impuestos. También se facilita el acceso a crédito con mejores condiciones para mantener la actividad.",
+  "professional_impact": "Los autónomos se benefician de ayudas por lucro cesante y bonificaciones en impuestos de juego y sucesiones. Las entidades financieras y el IVF deben implementar líneas de financiación bonificadas y facilitar la gestión de avales a través de la SGR.",
+  "keywords": [
+    "autónomos",
+    "ayudas económicas",
+    "Covid-19",
+    "Comunitat Valenciana",
+    "tributación",
+    "subvenciones",
+    "avales",
+    "lucro cesante"
+  ],
+  "key_points": [
+    "Ayuda directa de 1.500€ para autónomos obligados al cierre por el estado de alarma.",
+    "Ayuda directa de 750€ para el resto de autónomos afectados.",
+    "Aportación de 17 millones de euros para facilitar avales a través de la SGR.",
+    "Ampliación de un mes para presentar y pagar impuestos de sucesiones, donaciones y transmisiones patrimoniales tras el fin del estado de alarma.",
+    "Bonificación del 100% en el impuesto sobre juegos de azar (máquinas recreativas) durante el periodo de cierre.",
+    "Posibilidad de bonificar hasta un 30% del capital en préstamos del Institut Valencià de Finances.",
+    "Habilitación de la contratación de emergencia para medidas de protección sanitaria."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020",
+    "Ley 38/2003",
+    "Ley 1/2015 de la Generalitat",
+    "Decreto 115/2006",
+    "Ley 13/1997 de la Generalitat",
+    "Ley 5/2013",
+    "Ley 9/2017 de contratos del sector público"
+  ],
+  "derogations": [
+    "Se suprime el requisito de presentar autoliquidación del ITP y AJD como arrendatario de vivienda habitual (con efectos desde 2019)."
+  ],
+  "main_obligations": "Los beneficiarios de las ayudas de juego deben mantener las máquinas en explotación al menos dos trimestres tras el fin del estado de alarma para mantener la bonificación.",
+  "effective_date": "2020-03-30",
+  "procedures": [
+    {
+      "name": "Concesión de ayudas urgentes a autónomos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de ayuda",
+          "descrption": "Tramitación y gestión de las ayudas a través de LABORA.",
+          "start_date": "2020-03-30",
+          "end_date": null,
+          "required_documentation": "Requisitos establecidos en el decreto posterior"
+        }
+      ]
+    },
+    {
+      "name": "Ampliación de plazos tributarios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación y pago de impuestos",
+          "descrption": "Plazo ampliado para sucesiones, donaciones, transmisiones patrimoniales y tributos sobre el juego.",
+          "start_date": "Desde el fin del estado de alarma",
+          "end_date": "Un mes después del fin del estado de alarma",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

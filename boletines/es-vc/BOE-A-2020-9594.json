@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-2020-9594",
+  "title": "Decreto-ley 11/2020, de 24 de julio, de régimen sancionador específico contra los incumplimientos de las disposiciones reguladoras de les medidas de prevención ante la Covid-19",
+  "visible_title": "Régimen sancionador por incumplimiento de medidas de prevención COVID-19",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Generalitat Valenciana",
+  "official_number": "11/2020",
+  "publication_date": "2020-08-13",
+  "enactment_date": "2020-07-24",
+  "last_updated": "2021-12-03",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/dl/2020/07/24/11",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta norma establece un sistema de sanciones específico para castigar a quienes incumplan las medidas sanitarias adoptadas para frenar la pandemia de COVID-19 en la Comunidad Valenciana. Su objetivo es dotar a la Administración de herramientas rápidas y eficaces para sancionar conductas que pongan en riesgo la salud pública. Clasifica las infracciones en leves, graves y muy graves según el riesgo de contagio y la gravedad del daño social.",
+  "citizen_impact": "Los ciudadanos pueden enfrentarse a multas económicas si no usan la mascarilla (hasta 100€) o si incumplen órdenes de confinamiento o cuarentena. También se penaliza la participación en reuniones o fiestas que impidan mantener la distancia de seguridad.",
+  "professional_impact": "Los dueños de locales, organizadores de eventos y autónomos asumen una responsabilidad directa por el cumplimiento de las normas en sus establecimientos. Pueden recibir sanciones que van desde multas de miles de euros hasta el cierre de sus negocios o la inhabilitación para realizar su actividad comercial.",
+  "keywords": [
+    "COVID-19",
+    "sanciones administrativas",
+    "salud pública",
+    "Comunitat Valenciana",
+    "multas",
+    "medidas de prevención"
+  ],
+  "key_points": [
+    "Uso de mascarilla: infracción leve con multa máxima de 100 euros.",
+    "Infracciones graves: multas de 601 a 30.000 euros y posibles cierres de locales de hasta 6 meses.",
+    "Infracciones muy graves: multas de hasta 60.000 euros y cierres de hasta 3 años.",
+    "Responsabilidad solidaria: los dueños de locales son responsables si permiten que los clientes incumplan las normas.",
+    "Descuento por pronto pago: pagar la multa antes de la resolución reduce el importe en un 40%.",
+    "Medidas provisionales: la autoridad puede cerrar un local preventivamente mientras se tramita el expediente sancionador.",
+    "Prescripción: las faltas leves prescriben a los 6 meses, las graves a los 2 años y las muy graves a los 3 años."
+  ],
+  "legal_references": [
+    "Ley 33/2011, de 4 de octubre, General de Salud Pública",
+    "Real Decreto ley 21/2020, de 9 de junio",
+    "Ley 40/2015, de 1 de julio, del Régimen Jurídico del Sector Público",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Estatuto de Autonomía de la Comunidad Valenciana"
+  ],
+  "derogations": [],
+  "main_obligations": "Obligación de usar mascarilla y respetar aforos, distancias y protocolos de higiene. Se prohíbe el incumplimiento de cuarentenas, confinamientos y la realización de actividades no permitidas en locales públicos.",
+  "effective_date": "2020-07-25",
+  "procedures": [
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Actuación inspectora y levantamiento de acta",
+          "description": "Los agentes de la autoridad comprueban el incumplimiento y redactan un acta que se entrega al interesado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de inspección"
+        },
+        {
+          "step": 2,
+          "title": "Instrucción del expediente",
+          "description": "Se inicia el procedimiento administrativo para investigar los hechos.",
+          "start_date": null,
+          "end_date": "6 meses (plazo de resolución)",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución y notificación",
+          "description": "La autoridad dicta la sanción o el archivo del expediente y lo comunica al interesado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Pago con reducción",
+          "description": "Si el interesado paga antes de la resolución, obtiene un 40% de descuento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

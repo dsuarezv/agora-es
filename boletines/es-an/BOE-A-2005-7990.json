@@ -1,0 +1,80 @@
+{
+  "identifier": "BOE-A-2005-7990",
+  "title": "Ley 6/2005, de 8 de abril, regulaora de la Actividad Publicitaria de las Administraciones Públicas de Andalucía",
+  "visible_title": "Ley Reguladora de la Actividad Publicitaria de las Administraciones Públicas de Andalucía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "6/2005",
+  "publication_date": "2005-05-17",
+  "enactment_date": "2005-04-08",
+  "last_updated": "2018-10-16",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2005/04/08/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas de juego para que la Junta de Andalucía y sus entes locales utilicen el dinero público en publicidad. Su objetivo es garantizar que la comunicación institucional sea imparcial, transparente y no se utilice para hacer campaña electoral. Introduce controles estrictos sobre cómo se contrata la publicidad y obliga a publicar qué se paga y a quién.",
+  "citizen_impact": "Garantiza que el dinero de tus impuestos no se use para propaganda política durante las elecciones, asegurando que la información pública sea neutra. Además, permite que cualquier ciudadano sepa en qué se gasta el presupuesto publicitario de la región mediante la transparencia en internet.",
+  "professional_impact": "Las agencias de publicidad y empresas del sector deben cumplir con criterios de adjudicación más técnicos y transparentes, valorando especialmente el diseño y la creación. Las administraciones locales y la Junta tienen la carga de publicar trimestralmente sus adjudicaciones de contratos y ayudas superiores a 30.000 euros.",
+  "keywords": [
+    "publicidad institucional",
+    "transparencia",
+    "contratación pública",
+    "periodo electoral",
+    "Andalucía",
+    "administración pública"
+  ],
+  "key_points": [
+    "Prohibición total de publicidad institucional durante los periodos electorales, salvo para información de servicios o convocatorias legales.",
+    "Obligación de publicar trimestralmente en internet y en el BOJA las adjudicaciones de contratos de publicidad superiores a 30.000 euros.",
+    "Prohibición de realizar actos de inauguración o presentación de proyectos durante los periodos electorales.",
+    "Exigencia de que la publicidad sea imparcial, objetiva y no engañosa.",
+    "Obligación de remitir informes trimestrales al Parlamento de Andalucía sobre el gasto en publicidad, ayudas y convenios.",
+    "Los contratos de creación publicitaria deben valorar obligatoriamente el diseño como factor de adjudicación.",
+    "Prohibición de usar eslóganes o símbolos de partidos políticos en campañas de participación electoral."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Andalucía",
+    "Ley 34/1988, de 11 de noviembre, General de Publicidad",
+    "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+    "Ley 4/1999, de 11 de mayo, Reguladora de la Actividad Publicitaria de las Administraciones Públicas de Andalucía"
+  ],
+  "derogations": [
+    "Ley 4/1999, de 11 de mayo, Reguladora de la Actividad Publicitaria de las Administraciones Públicas de Andalucía"
+  ],
+  "main_obligations": "Las administraciones deben publicar trimestralmente en internet y en el BOJA los contratos de publicidad superiores a 30.000€ y las ayudas/subvenciones de la misma cuantía. Asimismo, deben remitir esta información al Parlamento de Andalucía cada cuatro meses.",
+  "effective_date": "2005-05-18",
+  "procedures": [
+    {
+      "name": "Publicación de adjudicaciones y ayudas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Identificación de contratos y ayudas",
+          "description": "Identificar contratos de publicidad o ayudas superiores a 30.000€ adjudicados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Publicación trimestral",
+          "description": "Publicar en el BOJA y en internet el objeto, cuantía y beneficiario de forma trimestral.",
+          "start_date": "cada 3 meses",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Remisión al Parlamento",
+          "description": "Enviar la relación de adjudicaciones al Parlamento de Andalucía.",
+          "start_date": "cada 4 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

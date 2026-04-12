@@ -1,0 +1,93 @@
+{
+  "identifier": "BOE-A-2003-7528",
+  "title": "Ley 4/2003, de 26 de marzo, de Conservación de Espacios Naturales de La Rioja",
+  "visible_title": "Ley de Conservación de Espacios Naturales de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "4/2003",
+  "publication_date": "2003-04-11",
+  "enactment_date": "2003-03-26",
+  "last_updated": "2023-02-08",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2003/03/26/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea una red de protección para la biodiversidad y los paisajes de La Rioja, estableciendo diferentes categorías de espacios protegidos como Parques o Reservas. Su objetivo es garantizar la conservación de la naturaleza mediante planes de ordenación obligatorios que tienen prioridad sobre otros usos del territorio. Además, introduce mecanismos para compensar económicamente a los municipios que se vean afectados por estas restricciones de uso. La norma también endurece el control mediante inspecciones y un régimen de sanciones para quienes dañen el medio ambiente.",
+  "citizen_impact": "Los ciudadanos que vivan o tengan propiedades en zonas protegidas deben aceptar restricciones en el uso de sus terrenos y permitir el acceso de inspectores. En caso de daños ambientales, existe la obligación de restaurar el entorno y pagar indemnizaciones. Por otro lado, los municipios afectados por la protección pueden beneficiarse de ayudas para fomentar el desarrollo socioeconómico.",
+  "professional_impact": "Las empresas y explotaciones situadas en o cerca de espacios protegidos están sujetas a inspecciones obligatorias, donde deben permitir la toma de muestras y la revisión de documentación. Los inspectores tienen potestad para acceder a instalaciones y solicitar apoyo policial. El incumplimiento de las normas de conservación puede acarrear multas de hasta 300.000 € y la obligación de restaurar el daño causado.",
+  "keywords": [
+    "espacios naturales protegidos",
+    "biodiversidad",
+    "La Rioja",
+    "conservación",
+    "medio ambiente",
+    "sanciones ambientales",
+    "inspección ambiental"
+  ],
+  "key_points": [
+    "Creación de la Red de Espacios Naturales Protegidos de La Rioja (Parques, Reservas, Monumentos, etc.).",
+    "Los Planes de Ordenación de Recursos Naturales son obligatorios y prevalecen sobre otros planes territoriales.",
+    "Establecimiento de 'Áreas de Influencia Socioeconómica' para compensar a municipios afectados por la protección.",
+    "Prohibición de descatificar un espacio natural que haya sufrido un incendio durante los 30 años siguientes al mismo.",
+    "Declaración automática de utilidad pública e interés social de los espacios protegidos.",
+    "Régimen sancionador con multas desde 100 € (leves) hasta 300.000 € (muy graves).",
+    "Facultad de los inspectores para acceder a instalaciones, tomar muestras y solicitar apoyo de la Policía o Fuerzas de Seguridad.",
+    "Las actas de inspección tienen presunción de certeza legal.",
+    "Reconocimiento de espacios protegidos bajo la normativa de la Red Natura 2000 y la Directiva de aves de la UE."
+  ],
+  "legal_references": [
+    "Constitución Española (Art. 45 y 149.1.23)",
+    "Estatuto de Autonomía de La Rioja",
+    "Ley 4/1989, de 27 de marzo",
+    "Directiva 92/43/CEE",
+    "Directiva 79/409/CEE",
+    "Real Decreto 1997/1995",
+    "Ley de Protección del Medio Ambiente de La Rioja",
+    "Real Decreto Legislativo 1302/1986",
+    "Ley 4/1995, de 20 de marzo (Parque Natural de Sierra Cebollera)",
+    "Ley 30/1992"
+  ],
+  "derogatons": [
+    "Ley 4/1989, de 27 de marzo",
+    "Apartado tercero del artículo octavo de la Ley 4/1995, de 20 de marzo (Creación del Parque Natural de Sierra Cebollera)",
+    "Plan de Ordenación de los Recursos Naturales del Camero Viejo (Decreto 52/1993)",
+    "Apartado 3 del artículo 8 de la Ley 4/1995 (Parque Natural de la Sierra de Cebollera)"
+  ],
+  "main_obligations": "Los propietarios y titulares de derechos en zonas protegidas deben permitir el acceso de inspectores, facilitar la toma de muestras y entregar la documentación requerida. En caso de infracción, es obligatorio restaurar el medio natural dañado y abonar las indemnizaciones correspondientes.",
+  "effective_date": "2003-04-12",
+  "procedures": [
+    {
+      "name": "Inspección y vigilancia de espacios naturales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acceso e identificación",
+          "description": "Los agentes acceden a la instalación identificándose ante el responsable.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que se requiera para la inspección"
+        },
+        {
+          "step": 2,
+          "title": "Ejecución de la inspección",
+          "description": "Realización de mediciones, toma de muestras y revisión de documentos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Levantamiento de acta",
+          "description": "Redacción del acta donde se deben incluir las alegaciones del presunto responsable.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

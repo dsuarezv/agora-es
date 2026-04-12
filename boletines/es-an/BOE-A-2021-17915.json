@@ -1,0 +1,158 @@
+{
+  "identifier": "BOE-A-2021-17915",
+  "title": "Ley 5/2021, de 20 de octubre, de Tributos Cedidos de la Comunidad Autónoma de Andalucía",
+  "visible_title": "Ley de Tributos Cedidos de la Comunidad Autónoma de Andalucía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "5/2021",
+  "publication_date": "2021-11-03",
+  "enactment_date": "2021-10-20",
+  "last_updated": "2025-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2021/10/20/5",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley busca aliviar la carga fiscal en Andalucía mediante una reducción significativa de impuestos como el IRPF, Patrimonio, Sucesiones y Transmisiones. Introduce beneficios directos para jóvenes, familias y personas con discapacidad, facilitando el acceso a la vivienda y el emprendimiento. Además, simplifica la gestión de los tributos cedidos y ajusta el Impuesto sobre el Patrimonio para evitar la doble imposición con el nuevo impuesto estatal a las grandes fortunas. En definitiva, es un paquete de medidas para incentivar el consumo, la vivienda y la inversión en la región.",
+  "citizen_impact": "Los ciudadanos andaluces verán una reducción en sus declaraciones de la renta (IRPF) y mayores deducciones por gastos educativos, veterinarios o ejercicio físico. Los jóvenes y familias vulnerables tienen ahora beneficios específicos para comprar vivienda o recibir donaciones de dinero para este fin con una reducción de impuestos de hasta el 99%. También se reduce el coste de adquirir vehículos eléctricos y bicicletas.",
+  "professional_impact": "Las empresas de compraventa de metales preciosos deben cumplir con nuevas obligaciones de autoliquidación mensual. Los empresarios que reciban objetos de metales preciosos deben declarar las operaciones de transmisión del mes en el mes inmediatamente posterior. La Agencia Tributaria de Andalucía actualizará los modelos de declaración para adaptarse a este nuevo régimen.",
+  "keywords": [
+    "IRPF Andalucía",
+    "Impuesto sobre el Patrimonio",
+    "ITP/AJD",
+    "Sucesiones y Donaciones",
+    "Deducciones fiscales",
+    "Vivienda joven",
+    "Tributos cedidos"
+  ],
+  "key_points": [
+    "Reducción de la escala autonómica del IRPF para bajar la presión fiscal.",
+    "Nuevas deducciones en el IRPF por gastos educativos (15%), donativos ecológicos (10%), ejercicio físico (15%) y gastos veterinarios (30%).",
+    "Aumento de deducciones por vivienda: 5% para jóvenes y 5% para vivienda protegida.",
+    "Mejora en el alquiler: deducción del 15% para menores de 35 años, mayores de 65, víctimas de violencia o terrorismo.",
+    "Incremento de la ayuda por nacimiento o adopción de 50€ a 200€ (400€ en zonas despobladas).",
+    "Reducción del tipo general de Transmisiones Patrimoniales (ITP) de un rango del 8-10% a un tipo único del 7%.",
+    "Reducción del 99% en donaciones de dinero para compra de vivienda habitual (menores de 35 años, discapacidad o víctimas de violencia).",
+    "Reducción del 99% en donaciones para la creación o ampliación de empresas (límite de 1.000.000€).",
+    "Tipos de ITP reducidos (3,5%) para jóvenes, familias numerosas, personas con discapacidad y víctimas de violencia al comprar vivienda.",
+    "Tipo de ITP del 1% para vehículos eléctricos, bicicletas y vehículos de movilidad personal.",
+    "Bonificación del 100% en el impuesto por opción de compra en casos de dación en pago de la vivienda habitual.",
+    "Ajuste del Impuesto sobre el Patrimonio para evitar la doble imposición con el impuesto estatal a las grandes fortunas."
+  ],
+  "legal_references": [
+    "Decreto Legislativo 1/2018",
+    "Decreto Ley 1/2019",
+    "Ley 35/2006",
+    "Ley 29/1987",
+    "Ley 40/2003",
+    "Ley 10/2010",
+    "Ley 19/1991",
+    "Ley 49/2002",
+    "Ley 7/2023",
+    "Ley 10/1995",
+    "Ley 38/1992",
+    "Ley 2/1986",
+    "Real Decreto 2822/1998",
+    "Ley 38/2022"
+  ],
+  "derogations": [
+    "Decreto Legislativo 1/2018 (excepto artículos 34, 35, 39 y 40)",
+    "Decreto Ley 7/2021"
+  ],
+  "main_obligations": "Los contribuyentes deben conservar todos los justificantes de las deducciones autonómicas aplicadas. En caso de donaciones de dinero superiores a 5.000€, la operación debe formalizarse en documento público en el plazo de un mes tras la entrega. Los empresarios de metales preciosos deben presentar autoliquidaciones mensuales de las transmisiones.",
+  "effective_date": "2022-01-01",
+  "procedures": [
+    {
+      "name": "Autoliquidación de Sucesiones y Donaciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación e ingreso",
+          "description": "Plazo para presentar la autoliquidación e ingresar la deuda tributaria en donaciones.",
+          "start_date": "Día siguiente a la fecha del devengo",
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autoliquidación de Transmisiones Patrimoniales y Actos Jurídicos Documentados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación e ingreso",
+          "description": "Plazo para presentar la autoliquidación e ingresar la deuda tributaria.",
+          "start_date": "Día siguiente a la fecha del devengo",
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Comprobación de valores de bienes inmuebles",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de valoración",
+          "description": "El interesado solicita por escrito la valoración de sus bienes a la Agencia Tributaria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Autorización si el solicitante no es el titular"
+        },
+        {
+          "step": 2,
+          "title": "Emisión de informe",
+          "description": "La Administración emite la valoración por escrito en un plazo máximo de tres meses.",
+          "start_date": "Desde la solicitud",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de la tasa de máquinas de juego (Tipo B y C)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación de censo",
+          "description": "Publicación trimestral del censo de máquinas en la sede electrónica.",
+          "start_date": "Enero, Abril, Julio, Octubre (días 16 al último)",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Alegaciones",
+          "description": "Plazo para que las empresas presenten alegaciones sobre el censo.",
+          "start_date": "Día 16 del mes",
+          "end_date": "Último día del mes",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aplicación de la bonificación por Impuesto de Solidaridad de las Grandes Fortunas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cálculo de la cuota íntegra",
+          "description": "Determinar la cuota del Impuesto sobre el Patrimonio aplicando el límite conjunto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Cálculo de la diferencia",
+          "description": "Comparar la cuota del impuesto autonómico con la del impuesto estatal para determinar la bonificación aplicable.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

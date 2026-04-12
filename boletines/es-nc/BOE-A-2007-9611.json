@@ -1,0 +1,80 @@
+{
+  "identifier": "BOE-A-2007-9611",
+  "title": "Ley Foral 12/2007, de 4 de abril, de Archivos y Documentos",
+  "visible_title": "Ley Foral de Archivos y Documentos",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "12/2007",
+  "publication_date": "2007-05-11",
+  "enactment_date": "2007-04-04",
+  "last_updated": "2007-04-18",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2007/04/04/12",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco legal para la gestión, conservación y difusión de todo el patrimonio documental de Navarra. Crea el Sistema Archivístico de Navarra para coordinar tanto archivos públicos como privados, asegurando que la información sea accesible y esté bien organizada. Su objetivo es modernizar la administración mediante nuevas técnicas de gestión documental y proteger la memoria histórica de la región.",
+  "citizen_impact": "Garantiza el derecho de los ciudadanos a acceder a la documentación pública y al patrimonio documental de Navarra. Establece plazos claros de acceso (generalmente 30 años para documentos públicos) y protege la privacidad de datos sensibles mediante restricciones específicas.",
+  "professional_impact": "Obliga a las administraciones públicas y municipios (especialmente los de más de 15.000 habitantes) a contar con sistemas de gestión documental y personal técnico especializado. Los profesionales de archivos deben cumplir con estándares técnicos de organización, conservación y descripción para integrar el Sistema Archivístico de Navarra.",
+  "keywords": [
+    "archivos",
+    "documentación",
+    "patrimonio documental",
+    "gestión documental",
+    "Navarra",
+    "conservación",
+    "acceso a la información"
+  ],
+  "key_points": [
+    "Creación del Sistema Archivístico de Navarra para coordinar archivos públicos y privados.",
+    "Obligatoriedad de tener sistemas de gestión documental para administraciones y entidades locales.",
+    "Los municipios de más de 15.000 habitantes deben tener un sistema archivístico propio con personal titulado.",
+    "Establecimiento del ciclo vital del documento: fase activa, semiactiva e inactiva.",
+    "Derecho de acceso ciudadano a la documentación con plazos de restricción definidos.",
+    "Prohibición de destruir documentos del Patrimonio Documental sin autorización de una comisión de evaluación.",
+    "Los documentos públicos son inembargables, imprescriptibles e inalienables.",
+    "Los municipios pequeños pueden compartir servicios de archivo para optimizar recursos."
+  ],
+  "legal_references": [
+    "Ley Foral 14/2005, de 22 de noviembre, del Patrimonio Cultural de Navarra",
+    "Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Mejoramiento del Régimen Foral de Navarra"
+  ],
+  "derogations": [
+    "Apartado 2 del artículo 80 de la Ley Foral 14/2005, de 22 de noviembre"
+  ],
+  "main_obligations": "Las administraciones deben organizar y conservar sus documentos siguiendo el ciclo vital y los calendarios de conservación. Se prohíbe la destrucción de documentos de patrimonio documental sin resolución de la comisión de evaluación. El incumplimiento de estas normas o la denegación injustificada de acceso puede acarrear sanciones graves o muy graves.",
+  "effective_date": "2007-05-12",
+  "procedures": [
+    {
+      "name": "Evaluación y eliminación de documentos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de evaluación",
+          "descrption": "Los responsables de los archivos formulan propuestas de valoración, selección o eliminación de series documentales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Propuesta técnica de evaluación documental"
+        },
+        {
+          "step": 2,
+          "title": "Información de la Comisión",
+          "descrption": "La Comisión de Evaluación Documental informa sobre la propuesta para determinar plazos de conservación o destrucción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Elaboración del calendario de conservación",
+          "descrption": "Una vez firme el acuerdo, se redacta el calendario que regirá la vida de los documentos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

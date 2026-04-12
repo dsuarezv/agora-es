@@ -1,0 +1,147 @@
+{
+  "identifier": "BOJA-b-2014-90268",
+  "title": "Decreto-ley 1/2014, de 18 de marzo, por el que se regula el programa de Impulso a la Construcción Sostenible en Andalucía y se efectúa la convocatoria de incentivos para 2014 y 2015",
+  "visible_title": "Programa de Impulso a la Construcción Sostenible en Andalucía",
+  "rank": "real_decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "1/2014",
+  "publication_date": "2014-03-26",
+  "enactment_date": "2014-03-18",
+  "last_updated": "2014-07-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOJA-b-2014-90268",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": "b-2014-90268",
+  "summary": "Este programa ofrece ayudas económicas para financiar obras de eficiencia energética y energías renovables en edificios de Andalucía. El gran cambio es que permite que las empresas instaladoras gestionen el trámite y apliquen el descuento directamente en la factura, evitando que el ciudadano tenga que esperar a recibir el dinero tras la obra. El objetivo es acelerar la transición hacia una construcción más sostenible mediante incentivos directos y mecanismos de reserva de fondos.",
+  "citizen_impact": "Los ciudadanos pueden reducir el coste de sus reformas energéticas o instalaciones renovables mediante un descuento directo en la factura pagada a la empresa. Para inversiones menores de 18.000€, el ahorro es inmediato al contratar; para inversiones superiores, es imprescindible solicitar la ayuda antes de empezar las obras para poder beneficiarse.",
+  "professional_impact": "Las empresas instaladoras asumen un rol de gestoras, actuando como representantes de los clientes ante la administración y gestionando el cobro del incentivo. Tienen la obligación de verificar la situación de Hacienda y Seguridad Social de sus clientes y deben asegurar la integridad de la documentación digital mediante firma electrónica avanzada.",
+  "keywords": [
+    "eficiencia energética",
+    "energías renovables",
+    "construcción sostenible",
+    "ayudas rehabilitación",
+    "descuento en factura",
+    "Andalucía"
+  ],
+  "key_points": [
+    "Descuento directo en factura: Las empresas pueden aplicar la ayuda directamente al cliente para evitar esperas.",
+    "Umbral de 18.000€: Si la inversión es menor a esta cifra, la empresa anticipa la ayuda; si es superior, la solicitud debe presentarse obligatoriamente antes de iniciar las obras.",
+    "Reserva de fondos: Las empresas pueden solicitar una reserva previa para asegurar la disponibilidad de la ayuda al finalizar la obra.",
+    "Límite de ayuda: Existe un tope máximo de 200.000€ por beneficiario o empresa.",
+    "Vigencia de reservas: Las reservas generales duran 5 meses, extendiéndose a 12 meses si el proyecto incluye dirección facultativa y gestión energética.",
+    "Pagos parciales: En proyectos de gran volumen, se permite cobrar parte del incentivo tras ejecutar el 50% de la inversión.",
+    "Obligación de permanencia: El uso de los bienes para el fin de la ayuda debe mantenerse entre 2 y 5 años según el caso para evitar el reintegro."
+  ],
+  "legal_references": [
+    "Reglamento (UE) núm. 1407/2013",
+    "Ley 38/2003 General de Subvenciones",
+    "Ley 8/2013 de rehabilitación, regeneración y renovación urbanas",
+    "Orden de 4 de febrero de 2009",
+    "Directiva 2010/31/UE",
+    "Directiva 2012/27/UE",
+    "Reglamento (CE) núm. 1828/2006",
+    "Ley 30/1992",
+    "Ley 11/2007",
+    "Ley 4/2003",
+    "Decreto 68/2008",
+    "Ley 7/2013",
+    "Ley 10/2005",
+    "Ley 7/2011"
+  ],
+  "derogatons": [],
+  "main_obligations": "Los beneficiarios deben mantener el uso de las instalaciones para el fin de la ayuda durante un periodo de 2 a 5 años. Las empresas deben verificar que el cliente esté al corriente con Hacienda y la Seguridad Social y presentar la documentación con firma electrónica avanzada.",
+  "effective_date": "2014-03-26",
+  "procedures": [
+    {
+      "name": "Tramitación de incentivos para inversiones < 18.000€ (Procedimiento Simplificado)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Reserva previa de fondos",
+          "descrption": "La empresa colaboradora solicita la reserva de fondos telemáticamente tras formalizar el encargo con el cliente.",
+          "start_date": "Antes de la ejecución de la obra",
+          "end_date": null,
+          "required_documentation": "NIF del beneficiario y cuantía de la actuación"
+        },
+        {
+          "step": 2,
+          "title": "Ejecución de la actuación",
+          "descrption": "Realización de las obras de eficiencia energética o renovables.",
+          "start_date": null,
+          "end_date": "30 de junio de 2015",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Solicitud de incentivo y pago mediante descuento",
+          "descrption": "La empresa presenta la solicitud con la factura total; el cliente recibe el descuento directo en su factura.",
+          "start_date": "Tras la ejecución",
+          "end_date": null,
+          "required_documentation": "Factura única con el gasto total"
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de incentivos para inversiones ≥ 18.000€",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "descrption": "Presentación telemática de la solicitud antes de iniciar cualquier obra.",
+          "start_date": "Antes del inicio de la actuación",
+          "end_date": null,
+          "required_documentation": "Documentación técnica y administrativa"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de concesión",
+          "descrption": "La administración establece los plazos de ejecución y justificación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Pago parcial (opcional)",
+          "descrption": "Se puede solicitar un pago parcial tras acreditar la ejecución de al menos el 50% de la obra.",
+          "start_date": "Tras ejecutar el 50%",
+          "end_date": null,
+          "required_documentation": "Factura de ejecución parcial"
+        },
+        {
+          "step": 4,
+          "title": "Liquidación final",
+          "descrption": "Pago del resto del incentivo tras presentar la factura final.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Factura final"
+        }
+      ]
+    },
+    {
+      "name": "Adhesión de empresas colaboradoras",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de adhesión",
+          "descrption": "La empresa solicita ser colaboradora mediante formulario telemático.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Formulario Anexo IV"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de inscripción",
+          "descrption": "La Agencia Andaluza de la Energía inscribe a la empresa en el registro.",
+          "start_date": null,
+          "end_date": "15 días hábiles",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

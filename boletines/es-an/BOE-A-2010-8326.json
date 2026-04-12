@@ -1,0 +1,99 @@
+{
+  "identifier": "BOE-A-2010-8326",
+  "title": "Ley 2/2010, de 8 de abril, de derechos y garantías de la dignidad de la persona en el proceso de la muerte",
+  "visible_title": "Derechos y garantías de la dignidad de la persona en el proceso de la muerte",
+  "rank": "ley",
+  "country": "es",
+  "department": "Junta de Andalucía",
+  "official_number": "2/2010",
+  "publication_date": "2010-05-25",
+  "enactment_date": "2010-04-08",
+  "last_updated": "2010-05-07",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2010/04/08/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo deben tratarse las personas en fase terminal o de agonía en Andalucía, garantizando su autonomía y dignidad. Establece el derecho a recibir cuidados paliativos, el manejo del dolor y la posibilidad de rechazar tratamientos médicos. Además, refuerza el uso de los testamentos vitales para que la voluntad del paciente se respete incluso cuando ya no pueda comunicarse.",
+  "citizen_impact": "Otorga a los ciudadanos el derecho legal a decidir qué tratamientos médicos desean recibir o rechazar al final de su vida. Permite dejar por escrito sus deseos (testamento vital) para que sean respetados si pierden la capacidad de decidir, asegurando una muerte sin sufrimiento innecesario.",
+  "professional_impact": "Obliga al personal sanitario a respetar la voluntad y los valores del paciente, prohibiendo la obstinación terapéutica (prolongar la vida artificialmente sin beneficio). Impone deberes de información clara, la obligación de consultar el registro de voluntades anticipadas y la necesidad de integrar estas decisiones en la historia clínica.",
+  "keywords": [
+    "muerte digna",
+    "cuidados paliativos",
+    "testamento vital",
+    "autonomía del paciente",
+    "sedación paliativa",
+    "derechos del paciente",
+    "Andalucía"
+  ],
+  "key_points": [
+    "Derecho a recibir cuidados paliativos de calidad y tratamiento del dolor, incluyendo sedación paliativa si es necesario.",
+    "Derecho a rechazar o retirar cualquier tratamiento médico, incluso si esto acelera la muerte.",
+    "Refuerzo de la Declaración de Voluntad Vital Anticipada (testamento vital) para asegurar que se respeten los valores de la persona.",
+    "Obligación de los centros sanitarios de facilitar el acompañamiento familiar y el apoyo en el duelo.",
+    "Prohibición de la obstinación terapéutica mediante la regulación de la limitación del esfuerzo terapéutico.",
+    "Garantía de una habitación individual para pacientes en situación terminal en régimen de hospitalización.",
+    "Creación y vinculación de los centros sanitarios a Comités de Ética Asistencial para resolver conflictos éticos.",
+    "Facilitación de la atención paliativa en el domicilio del paciente si este lo desea."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía para Andalucía",
+    "Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente",
+    "Ley 2/1998, de 15 de junio, de Salud de Andalucía",
+    "Ley 5/2003, de 9 de octubre, de declaración de voluntad vital anticipada",
+    "Convenio de Oviedo (1997)",
+    "Ley 14/1986, de 24 de junio, General de Sanidad",
+    "Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario"
+  ],
+  "derogations": [
+    "Modificaciones parciales a la Ley 2/1998 de Salud de Andalucía y a la Ley 5/2003 de declaración de voluntad vital anticipada"
+  ],
+  "main_obligations": "Los profesionales sanitarios deben informar adecuadamente al paciente, respetar sus decisiones de rechazo de tratamiento y cumplir con las instrucciones del testamento vital. Los centros sanitarios están obligados a garantizar cuidados paliativos, tratamiento del dolor y el derecho al acompañamiento familiar.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Formalización de la Declaración de Voluntad Vital Anticipada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Manifestación de voluntad",
+          "description": "La persona capaz expresa sus deseos y valores de forma escrita para ser inscritos en el registro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento escrito de voluntad anticipada"
+        },
+        {
+          "step": 2,
+          "title": "Verificación y registro",
+          "description": "Un funcionario público habilitado verifica la capacidad y los requisitos formales para su validez.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Limitación del esfuerzo terapéutico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Juicio clínico",
+          "description": "El médico responsable determina que la intervención es fútil o carece de expectativas de mejora.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Consenso profesional",
+          "description": "Se requiere la opinión coincidente de al menos otro médico además del responsable y el criterio de enfermería.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Constancia en la historia clínica de las opiniones profesionales"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

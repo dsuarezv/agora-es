@@ -1,0 +1,112 @@
+{
+  "identifier": "BOE-A-2017-522",
+  "title": "Ley 4/2016, de 23 de diciembre, de medidas de protección del derecho a la vivienda de las personas en riesgo de exclusión residencial",
+  "visible_title": "Ley de medidas de protección del derecho a la vivienda de las personas en riesgo de exclusión residencial",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "4/2016",
+  "publication_date": "2017-01-18",
+  "enactment_date": "2016-12-23",
+  "last_updated": "2025-02-28",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2016/12/23/4",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley busca prevenir y mitigar la exclusión residencial en Cataluña mediante la intervención pública en el mercado de la vivienda. Introduce mecanismos de mediación para personas sobreendeudadas y permite la movilización de viviendas vacías para aumentar el parque de alquiler social. Además, establece obligaciones de realojo para grandes tenedores en situaciones de vulnerabilidad extrema.",
+  "citizen_impact": "Las personas en riesgo de exclusión o con deudas impagables de vivienda acceden a procesos de mediación para intentar renegociar sus deudas o evitar desahucios. También se facilita el acceso a viviendas de alquiler social mediante la gestión de inmuebles que antes estaban vacíos.",
+  "professional_impact": "Los grandes tenedores y entidades financieras enfrentan nuevas obligaciones de realojo y la posibilidad de expropiación temporal de viviendas vacías. Los profesionales de servicios sociales y la administración judicial deben coordinarse para emitir informes de vulnerabilidad que influyan en los procesos de desahucio.",
+  "keywords": [
+    "vivienda",
+    "exclusión residencial",
+    "sobreendeudamiento",
+    "mediación de consumo",
+    "vivienda vacía",
+    "expropiación",
+    "alquiler social",
+    "Cataluña"
+  ],
+  "key_points": [
+    "Creación de la Comisión de Vivienda y Asistencia para Situaciones de Emergencia Social para coordinar actuaciones.",
+    "Implementación de procedimientos de mediación voluntaria para resolver conflictos de deuda de consumo.",
+    "Posibilidad de expropiación forzosa de viviendas vacías para crear parque de vivienda social.",
+    "Obligación de realojo para grandes tenedores en casos de desahucio de familias vulnerables.",
+    "Introducción de planes de saneamiento de deuda con plazos de hasta 3 o 5 años.",
+    "Uso de informes sociales de vulnerabilidad para solicitar la suspensión de lanzamientos judiciales.",
+    "Reducción del valor de la propiedad en un 50% si se incumple la función social de la vivienda."
+  ],
+  "legal_references": [
+    "Ley 29/1994",
+    "Decreto ley 1/2015",
+    "Constitución Española",
+    "Ley 24/2015",
+    "Ley 18/2007",
+    "Código de consumo de Cataluña",
+    "Ley 25/2015"
+  ],
+  "derogations": [],
+  "main_obligations": "Los grandes tenedores están obligados a ofrecer realojo a familias vulnerables en ciertos supuestos de desahucio. Las entidades deben comunicar datos de impagos a servicios sociales para prevenir la exclusión. El incumplimiento de la función social de la vivienda puede derivar en expropiación y multas de hasta 900.000 euros.",
+  "effective_date": "2017-01-19",
+  "procedures": [
+    {
+      "name": "Procedimiento voluntario de mediación por sobreendeudamiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de mediación",
+          "description": "El deudor o acreedor solicita la intervención ante la Comisión de Vivienda.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de las deudas"
+        },
+        {
+          "step": 2,
+          "title": "Admisión a trámite y notificación",
+          "description": "La Comisión decide si admite el caso y notifica a los acreedores.",
+          "start_date": null,
+          "end_date": "20 días naturales para que el acreedor aporte propuestas",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Fase de mediación y estudio",
+          "description": "El mediador elabora un estudio de orientación y un plan de saneamiento.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": "Estudio de orientación y propuesta de plan de saneamiento"
+        },
+        {
+          "step": 4,
+          "title": "Resolución y ratificación",
+          "description": "La Comisión ratifica el acuerdo o emite una resolución con el plan propuesto si no hay acuerdo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de expropiación forzosa de viviendas vacías",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requerimiento previo",
+          "description": "Se requiere al titular para que ocupe la vivienda legalmente.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Inicio del expediente de expropiación",
+          "description": "Si no se acredita ocupación, se inicia el proceso con declaración de ocupación urgente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

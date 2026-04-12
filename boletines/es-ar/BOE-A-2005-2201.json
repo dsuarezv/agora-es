@@ -1,0 +1,79 @@
+{
+  "identifier": "BOE-A-2005-2201",
+  "title": "Ley 6/2004, de 9 de diciembre, por la que se establecen medidas en materia de expropiación forzosas para actuaciones de mejora y creación de regadíos",
+  "visible_title": "Medidas de expropiación forzosa para mejora y creación de regadíos",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "6/2004",
+  "publication_date": "2005-02-11",
+  "enactment_date": "2004-12-09",
+  "last_updated": "2023-03-13",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2004/12/09/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma permitía al Gobierno de Aragón ejecutar proyectos de regadío (sociales o de mejora) mediante la expropiación forzosa cuando no se lograban acuerdos con los propietarios. Su objetivo era evitar que el bloqueo de un solo propietario paralizara obras de interés general para la agricultura. Facilitaba que las comunidades de regantes actuaran como beneficiarias directas del proceso para agilizar la transformación de tierras.",
+  "citizen_impact": "Afectaba principalmente a propietarios de terrenos agrícolas que podían verse obligados a ceder parte de su propiedad para obras de regadío. El impacto era la pérdida de la propiedad a cambio de un justiprecio que no incluía las futuras ganancias de valor que el regadío aportaría a la tierra.",
+  "professional_impact": "Dotaba de herramientas legales a las comunidades de regantes y al sector agrario para desbloquear infraestructuras hidráulicas. Los funcionarios de agricultura ganaban la capacidad de declarar la urgencia de ocupación para acelerar los proyectos.",
+  "keywords": [
+    "expropiación forzosa",
+    "regadíos",
+    "agricultura",
+    "Aragón",
+    "interés social",
+    "comunidades de regantes",
+    "justiprecio"
+  ],
+  "key_points": [
+    "La declaración de interés general de un proyecto de regadío incluía automáticamente la facultad de expropiar.",
+    "Las comunidades de regantes podían actuar como beneficiarias en los procedimientos de expropiación.",
+    "El pago por la tierra (justiprecio) se calculaba sin tener en cuenta la subida de valor que el nuevo regadío aportaría al terreno.",
+    "Se permitía tramitar la urgencia de ocupación para agilizar la ejecución de las obras."
+  ],
+  "legal_references": [
+    "Decreto 43/2003",
+    "Decreto 48/2001",
+    "Ley 10/1997",
+    "Decreto 64/2001",
+    "Ley de Expropiación Forzosa"
+  ],
+  "derogations": [
+    "Ley 6/2004 (derogada por la Ley 6/2023)"
+  ],
+  "main_obligations": "Los propietarios afectados debían ceder sus bienes o derechos para la ejecución de las obras de regadío tras la declaración de interés general. El justiprecio debía calcularse basándose en el valor previo a la ejecución del proyecto.",
+  "effective_date": "2005-02-12",
+  "procedures": [
+    {
+      "name": "Procedimiento de expropiación para regadíos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración de interés general",
+          "description": "El Gobierno de Aragón dicta un Decreto declarando el interés general del proyecto de regadío.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de obras aprobado"
+        },
+        {
+          "step": 2,
+          "title": "Declaración de urgencia (opcional)",
+          "description": "El Consejero de Agricultura propone la urgencia de ocupación para acelerar el proceso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Determinación del justiprecio",
+          "description": "Valoración de los bienes sin incluir plusvalías futuras por el regadío.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

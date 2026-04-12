@@ -1,0 +1,91 @@
+{
+  "identifier": "BOE-A-1985-18027",
+  "title": "Ley 3/1985, de 20 de mayo, sobre iniciativa legislativa del pueblo riojano",
+  "visible_title": "Iniciativa legislativa del pueblo riojano",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "3/1985",
+  "publication_date": "1985-08-22",
+  "enactment_date": "1985-05-20",
+  "last_updated": "1985-05-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/1985/05/20/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el mecanismo para que los ciudadanos de La Rioja puedan proponer leyes directamente al Parlamento regional. Define quiénes pueden participar, cuántas firmas se necesitan y qué temas están prohibidos. El objetivo es permitir que la voluntad popular complemente la labor de los partidos políticos en la creación de normas autonómicas.",
+  "citizen_impact": "Otorga a los ciudadanos riojanos el derecho de proponer leyes si consiguen el apoyo de al menos 6.000 firmas. Esto permite que temas de interés social lleguen al debate parlamentario sin depender exclusivamente de los partidos políticos.",
+  "professional_impact": "Los promotores de estas iniciativas pueden solicitar una indemnización por los gastos realizados, limitada a un máximo de 500.000 pesetas (actualizables). Además, establece la necesidad de contar con fedatarios para la autenticación de firmas, lo que implica una gestión administrativa específica.",
+  "keywords": [
+    "iniciativa legislativa popular",
+    "participación ciudadana",
+    "La Rioja",
+    "derechos políticos",
+    "proposición de ley"
+  ],
+  "key_points": [
+    "Se requiere un mínimo de 6.000 firmas de ciudadanos mayores de edad inscritos en el censo electoral riojano.",
+    "Están prohibidas las iniciativas sobre temas tributarios, reformas del Estatuto de Autonomía o materias que no sean competencia de la Comunidad.",
+    "No se admitirán propuestas que impliquen aumentar gastos o disminuir ingresos presupuestarios.",
+    "La Comisión Promotora tiene un plazo de 3 meses para recoger las firmas una vez admitida la propuesta.",
+    "Las firmas deben ser autenticadas por fedatarios públicos o especiales ante notario.",
+    "Existe una ayuda económica para cubrir gastos de la promoción, con un tope de 500.000 pesetas."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de La Rioja",
+    "Constitución Española",
+    "Ley Orgánica 2/1979 del Tribunal Constitucional"
+  ],
+  "derogations": [],
+  "main_obligations": "Los promotores deben presentar un documento explicativo, el texto de la ley y la lista de la comisión. Las firmas deben recogerse en pliegos sellados y numerados por la Diputación General y ser autenticadas legalmente.",
+  "effective_date": "1985-08-22",
+  "procedures": [
+    {
+      "name": "Tramitación de la Iniciativa Legislativa Popular",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la propuesta",
+          "description": "Entrega ante la Mesa de la Diputación General del documento explicativo, el texto de la ley y la composición de la comisión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento explicativo, texto articulado de la ley y relación de miembros de la Comisión Promotora."
+        },
+        {
+          "step": 2,
+          "title": "Subsanación de defectos",
+          "description": "Si hay errores, la Mesa comunica a la comisión para que los corrija.",
+          "start_date": "10 días tras la notificación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Recogida de firmas",
+          "description": "Una vez admitida la propuesta, los promotores deben recoger las firmas necesarias.",
+          "start_date": "Tras la admisión",
+          "end_date": "3 meses",
+          "required_documentation": "Pliegos sellados y numerados por la Diputación General."
+        },
+        {
+          "step": 4,
+          "title": "Comprobación de firmas",
+          "description": "La Diputación General verifica la documentación y la remite a la Junta Electoral.",
+          "start_date": "Tras la entrega de pliegos",
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Publicación y trámite parlamentario",
+          "description": "Si se alcanzan las 6.000 firmas válidas, se ordena la publicación y se incluye en el orden del día del Pleno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

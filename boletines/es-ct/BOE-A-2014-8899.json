@@ -1,0 +1,172 @@
+{
+  "identifier": "BOE-A-2014-8899",
+  "title": "Ley 9/2014, de 31 de julio, de la seguridad industrial de los establecimientos, las instalaciones y los productos",
+  "visible_title": "Ley de seguridad industrial de establecimientos, instalaciones y productos",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "9/2014",
+  "publication_date": "2014-08-25",
+  "enactment_date": "2014-07-31",
+  "last_updated": "2014-08-05",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2014/07/31/9",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley transforma la gestión de la seguridad industrial en Cataluña para eliminar la lentitud de los trámites burocráticos. El cambio principal es la sustitución de las autorizaciones previas por declaraciones responsables, lo que permite a las empresas empezar a operar de inmediato tras presentar su documentación. Además, establece un nuevo sistema de tasas para inspecciones y registros, y moderniza el funcionamiento de los organismos de control. En definitiva, busca agilizar la actividad económica garantizando que los estándares de seguridad se mantengan mediante la acreditación técnica.",
+  "citizen_impact": "Sin impacto directo en ciudadanos, salvo por la mejora indirecta en la seguridad de las instalaciones industriales y productos que consumen o utilizan.",
+  "professional_impact": "Las empresas industriales y organismos de control sufren un cambio radical: pasan de esperar autorizaciones a operar mediante declaraciones responsables, ganando agilidad pero asumiendo la responsabilidad de la veracidad de sus datos. Los organismos de control deben cumplir con la acreditación ISO 17.020 y pagar tasas específicas. Se introducen nuevos costes por inspecciones, registros y modificaciones de datos.",
+  "keywords": [
+    "seguridad industrial",
+    "declaración responsable",
+    "Cataluña",
+    "organismos de control",
+    "instalaciones industriales",
+    "tasas industriales",
+    "inspección técnica"
+  ],
+  "key_points": [
+    "Sustitución del régimen de autorización por el de declaración responsable para permitir el inicio inmediato de actividades.",
+    "Inscripción automática en los registros oficiales tras la presentación de la declaración responsable.",
+    "Obligatoriedad de acreditación técnica (ISO 17.020) para que los organismos de control puedan operar.",
+    "Simplificación para organismos de control de otras comunidades: solo deben comunicar su actividad para actuar en Cataluña.",
+    "Eliminación de la obligación de mantener oficinas físicas mínimas para los organismos de control.",
+    "Implementación de un nuevo sistema de tasas para inspecciones (Niveles A, M y B), registros y modificaciones.",
+    "Nuevos costes para empresas de instalación y mantenimiento y para la evaluación de riesgos de accidentes graves.",
+    "Recuperación de la gestión de trámites por parte de la Administración a través de la Oficina de Gestión Empresarial.",
+    "Plazos específicos para la prórroga de licencias de obras según el tipo de establecimiento."
+  ],
+  "legal_references": [
+    "Ley 12/2008, de 31 de julio, de seguridad industrial",
+    "Directiva 2012/18/UE",
+    "Directiva 2006/123/CE",
+    "Directiva 1996/82/CE",
+    "Decreto 30/2010, de 2 de marzo",
+    "Norma UNE-EN ISO 17.020",
+    "Estatuto de autonomía de Cataluña (art. 65 y 139.1)",
+    "Ley 30/1992",
+    "Ley 26/2010",
+    "Ley de presupuestos",
+    "Decreto legislativo 3/2008, de 25 de junio",
+    "Ley 3/2012, de 22 de febrero",
+    "Decreto legislativo 1/2010, de 3 de agosto"
+  ],
+  "derogations": [
+    "Ley 12/2008, de 31 de julio, de seguridad industrial (salvo título I)",
+    "Reglamento aprobado por el Decreto 30/2010, de 2 de marzo (salvo títulos 4, 7 y 8)",
+    "Decreto 363/2004",
+    "Orden EM0/2012",
+    "Orden IUE/470/2009",
+    "Orden de 20 de noviembre de 1998",
+    "Orden de 31 de mayo de 1999",
+    "Orden de 13 de diciembre de 1986",
+    "Orden de 28 de marzo de 1990"
+  ],
+  "main_obligations": "Los titulares de instalaciones deben presentar una declaración responsable y pagar las tasas correspondientes antes de la puesta en servicio. Los organismos de control deben contar con acreditación técnica vigente y póliza de responsabilidad civil. Las empresas con riesgo de accidentes graves deben presentar análisis de riesgo y planes de emergencia.",
+  "effective_date": "2014-08-25",
+  "procedures": [
+    {
+      "name": "Inicio de actividad de organismos de control",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de declaración responsable",
+          "description": "Manifestar el cumplimiento de requisitos ante la Administración para iniciar la actividad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración responsable de cumplimiento de requisitos"
+        },
+        {
+          "step": 2,
+          "title": "Inscripción en el Registro",
+          "description": "La Oficina de Gestión Empresarial realiza la inscripción de oficio en el Registro de agentes.",
+          "start_date": "Tras la presentación de la declaración",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Puesta en servicio de instalaciones técnicas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de declaración responsable",
+          "description": "El titular manifiesta que la instalación cumple la normativa para permitir su funcionamiento inmediato.",
+          "start_date": "Previamente a la puesta en servicio",
+          "end_date": null,
+          "required_documentation": "Declaración responsable (con datos del proyecto técnico si aplica)"
+        },
+        {
+          "step": 2,
+          "title": "Inscripción de oficio en el Registro",
+          "description": "La Oficina de Gestión Empresarial inscribe la instalación en el Registro de instalaciones técnicas.",
+          "start_date": "A partir de los datos de la declaración",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Alta o modificación de instalaciones y aparatos en el Registro de seguridad industrial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración responsable",
+          "description": "El titular presenta la documentación para dar de alta o modificar datos de la instalación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración responsable"
+        },
+        {
+          "step": 2,
+          "title": "Pago de la tasa",
+          "description": "Liquidación de 30€ (alta) o 10€ (modificación).",
+          "start_date": "En el momento de la presentación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Inscripción de oficio",
+          "description": "La Administración realiza la inscripción o anotación en el Registro de instalaciones técnicas de seguridad industrial de Cataluña.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Evaluación de documentos de prevención de accidentes graves",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de documentación técnica",
+          "description": "Entrega de análisis de riesgo, información para plan de emergencia o análisis cuantitativo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Análisis de riesgo, información básica para plan de emergencia o análisis cuantitativo de riesgo"
+        },
+        {
+          "step": 2,
+          "title": "Pago de la tasa de evaluación",
+          "description": "Pago de la cuota fija y variable según el documento y el riesgo cuantificado.",
+          "start_date": "En el momento de la presentación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Expedición del documento de evaluación",
+          "description": "La Administración emite el certificado de evaluación de los documentos presentados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

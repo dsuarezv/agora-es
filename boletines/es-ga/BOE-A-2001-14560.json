@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-2001-14560",
+  "title": "Ley 6/2001, de 29 de junio, de adecuación de la normativa de la Comunidad Autónoma de Galicia a la Ley 4/1999, de 13 de enero, de modificación de la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+  "visible_title": "Ley de adecuación de la normativa de procedimiento administrativo de Galicia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "6/2001",
+  "publication_date": "2001-07-26",
+  "enactment_date": "2001-06-29",
+  "last_updated": "2017-10-25",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2001/06/29/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley adapta las reglas de funcionamiento de la administración gallega a las nuevas exigencias estatales de procedimiento administrativo. Su objetivo es garantizar que la administración responda en plazos determinados y defina claramente cuándo el silencio administrativo significa una negativa. Además, organiza quién tiene la competencia para revisar decisiones y quién resuelve reclamaciones de responsabilidad patrimonial en Galicia.",
+  "citizen_impact": "Los ciudadanos tienen ahora mayor seguridad jurídica al conocer los plazos máximos que la administración puede tardar en responder. Sin embargo, en muchos trámites específicos (como licencias o permisos), si la administración no responde, se entenderá que la solicitud ha sido denegada (silencio negativo).",
+  "professional_impact": "Las empresas y profesionales deben prestar especial atención a los plazos de resolución, ya que el incumplimiento de estos puede activar efectos jurídicos. Los funcionarios deben ajustarse a nuevos calendarios de resolución y a una estructura de competencias más clara para la revisión de actos y reclamaciones.",
+  "keywords": [
+    "procedimiento administrativo",
+    "silencio administrativo",
+    "plazos de resolución",
+    "Galicia",
+    "revisión de actos",
+    "responsabilidad patrimonial"
+  ],
+  "key_points": [
+    "Establece plazos máximos de resolución para los procedimientos administrativos en Galicia.",
+    "Define que en subvenciones el plazo máximo de resolución no puede exceder los 9 meses.",
+    "Regula el silencio administrativo, indicando que en muchos casos será negativo (desestimatorio).",
+    "Determina qué órganos de la Xunta son competentes para revisar actos administrativos.",
+    "Organiza la competencia para resolver reclamaciones de responsabilidad patrimonial.",
+    "Identifica qué resoluciones ponen fin a la vía administrativa en la estructura autonómica."
+  ],
+  "legal_references": [
+    "Ley 4/1999, de 13 de enero",
+    "Ley 30/1992, de 26 de noviembre",
+    "Estatuto de Autonomía de Galicia",
+    "Ley 4/1988, de 26 de mayo (Función Pública de Galicia)",
+    "Ley 3/1985, de 12 de abril (Patrimonio de la CA Gallega)",
+    "Ley 13/1996, de 30 de diciembre (Infracciones y Sanciones en Vivienda)"
+  ],
+  "derogations": [],
+  "main_obligations": "La administración está obligada a dictar resolución expresa dentro de los plazos establecidos en el anexo de la ley o en la convocatoria específica. En procedimientos de subvenciones, el plazo no puede superar los 9 meses.",
+  "effective_date": "2001-07-27",
+  "procedures": [
+    {
+      "name": "Procesos selectivos de personal funcionario o laboral",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación del proceso selectivo",
+          "descrption": "Plazo máximo para la notificación de la resolución expresa.",
+          "start_date": "Desde la publicación de la convocatoria",
+          "end_date": "9 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Concesión de subvenciones o ayudas públicas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación de la ayuda",
+          "descrption": "Plazo máximo para la resolución de la solicitud.",
+          "start_date": "Desde la convocatoria o la solicitud",
+          "end_date": "9 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimientos de deslinde de bienes del patrimonio autonómico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación del deslinde",
+          "descrption": "Plazo máximo para la resolución expresa.",
+          "start_date": "Inicio del procedimiento",
+          "end_date": "12 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de delimitación del Camino de Santiago",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación de la delimitación",
+          "descrption": "Plazo máximo para la resolución expresa.",
+          "start_date": "Inicio del procedimiento",
+          "end_date": "5 años",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

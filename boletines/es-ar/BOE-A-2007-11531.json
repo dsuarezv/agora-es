@@ -1,0 +1,99 @@
+{
+  "identifier": "BOE-A-2007-11531",
+  "title": "Ley 1/2007, de 27 de febrero, de Actividades Feriales Oficiales de Aragón",
+  "visible_title": "Ley de Actividades Feriales Oficiales de Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "1/2007",
+  "publication_date": "2007-03-21",
+  "enactment_date": "2007-02-27",
+  "last_updated": "2010-05-05",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2007/02/27/1",
+  "official_journal": "Boletín Oficial de Aragón",
+  "journal_issue": "34",
+  "summary": "Esta ley regula y organiza todas las actividades comerciales de tipo feria, exposición y feria-mercado que se desarrollan con carácter oficial en Aragón. Su objetivo es profesionalizar el sector, garantizar la transparencia y promover los productos regionales tanto a nivel nacional como internacional. Para ello, crea un Registro Oficial, establece categorías de importancia (como las de 'interés preferente') y define un marco de control y supervisión para las entidades organizadoras.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo que decidan asistir como consumidores a ferias o mercados regulados.",
+  "professional_impact": "Las empresas organizadoras de ferias deben cumplir con requisitos estrictos de calificación, registro y control contable para poder ostentar el carácter de 'oficiales'. Los expositores profesionales deben seguir reglamentos de participación que incluyen órganos de arbitraje para resolver conflictos. Además, las entidades que reciban ayudas públicas están sujetas a auditorías y controles económicos rigurosos por parte de la Administración.",
+  "keywords": [
+    "actividades feriales",
+    "Aragón",
+    "ferias oficiales",
+    "exposiciones",
+    "comercio",
+    "entidades organizadoras",
+    "registro oficial"
+  ],
+  "key_points": [
+    "Creación del Registro Oficial de Actividades Feriales de Aragón para censar entidades y eventos.",
+    "Distinción legal entre 'feria' (profesional), 'exposición' (no periódica) y 'feria-mercado' (público general con venta directa).",
+    "Introducción de la categoría de 'interés preferente' para ferias consolidadas con impacto supra-comarcal.",
+    "Obligatoriedad de tener un reglamento de participación con un órgano arbitral para los expositores.",
+    "Exigencia de seguro de responsabilidad civil para todas las entidades organizadoras.",
+    "Establecimiento de un calendario anual de ferias oficiales que debe ser publicado por el Gobierno de Aragón.",
+    "Régimen sancionador con multas que pueden alcanzar los 150.000 euros para infracciones muy graves.",
+    "Obligación de presentar una memoria descriptiva de los resultados económicos y sociales tras cada evento."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Aragón",
+    "Ley 9/1989, de 5 de octubre, de Ordenación de la Actividad Comercial de Aragón",
+    "Ley 13/1999, de 22 de diciembre",
+    "Ley 10/1993, de 4 de noviembre, sobre Comarcalización de Aragón",
+    "Ley 23/2001, de 26 de diciembre, de Medidas de Comarcalización",
+    "Convenio de París de 22 de noviembre de 1928"
+  ],
+  "derogatons": [
+    "Título IV de la Ley 9/1989, de 5 de octubre, de Ordenación de la Actividad Comercial de Aragón",
+    "Decreto 103/1986, de 22 de octubre, de la Diputación General de Aragón, sobre Ferias Comerciales",
+    "Decreto 70/1991, de 4 de abril, de la Diputación General de Aragón, sobre Ferias Comerciales"
+  ],
+  "main_obligations": "Las entidades organizadoras deben inscribirse en el Registro Oficial, solicitar la calificación de oficialidad, presentar su calendario antes del 30 de junio del año anterior y entregar una memoria de resultados tras el evento. Deben contar con seguro de responsabilidad civil y mantener un control contable estricto.",
+  "effective_date": "2007-03-22",
+  "procedures": [
+    {
+      "name": "Calificación de Actividades Feriales Oficiales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de calificación",
+          "description": "Presentación de la solicitud para obtener el carácter de feria o exposición oficial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite los requisitos de la Ley y el reglamento de participación."
+        },
+        {
+          "step": 2,
+          "title": "Informe de la Comisión de Actividades Feriales",
+          "description": "La Comisión emite un informe preceptivo sobre la solicitud.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "El Consejero competente dicta la Orden otorgando o denegando la calificación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Calificación de Interés Preferente",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de interés preferente",
+          "description": "Trámite para ferias ya oficiales que cumplen requisitos de consolidación y ámbito territorial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

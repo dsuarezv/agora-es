@@ -1,0 +1,151 @@
+{
+  "identifier": "BOE-A-2017-10495",
+  "title": "Ley 4/2017, de 12 de julio, de Industria de las Illes Balears",
+  "visible_title": "Ley de Industria de las Illes Balears",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "4/2017",
+  "publication_date": "2017-09-14",
+  "enactment_date": "2017-07-12",
+  "last_updated": "2025-12-06",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2017/07/12/4",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco regulador para la actividad industrial en Baleares, buscando compensar los costes derivados de la insularidad. Introduce un control más estricto sobre la seguridad de las instalaciones y la responsabilidad de los profesionales técnicos. Crea herramientas de planificación estratégica y registros obligatorios para empresas y servicios de ingeniería. Además, endurece el régimen de inspección y sanciones para garantizar la seguridad de las actividades industriales.",
+  "citizen_impact": "Aumenta la seguridad de las instalaciones industriales y de servicios en las islas, reduciendo riesgos de accidentes. Los ciudadanos se benefician de una supervisión más rigurosa de las empresas que operan en el territorio.",
+  "professional_impact": "Las empresas industriales deben inscribirse en el Registro Industrial y exhibir su placa identificativa. Los proyectistas y directores de obra están obligados a contratar seguros de responsabilidad profesional con cobertura mínima de dos años. Las empresas de servicios deben informar detalladamente a los titulares sobre mantenimiento y obligaciones. Se imponen sanciones económicas severas (hasta el 10% del volumen de negocio) por incumplimientos de seguridad.",
+  "keywords": [
+    "industria",
+    "Baleares",
+    "seguridad industrial",
+    "registro industrial",
+    "inspección",
+    "sanciones",
+    "insularidad"
+  ],
+  "key_points": [
+    "Creación del Registro Industrial de las Illes Balears para empresas, ingenieros y agentes de seguridad.",
+    "Obligación de las empresas de colocar una placa visible con su número de registro en la fachada.",
+    "Exigencia de seguro de responsabilidad profesional para proyectistas y directores de obra (mínimo 2 años).",
+    "Plazo máximo de 72 horas para comunicar accidentes o riesgos graves en las instalaciones.",
+    "Potestad de los inspectores para entrar sin previo aviso y precintar locales o equipos.",
+    "Capacidad de la administración para suspender suministros (agua, luz, fluidos) ante riesgos graves e inminentes.",
+    "Multas por infracciones muy graves de hasta 601.012,10 euros o el 10% del volumen de negocio.",
+    "Descuentos en sanciones por pago voluntario: 50% antes de la propuesta de resolución y 25% después.",
+    "Implementación del Plan Director de Industria con una visión estratégica de hasta 10 años.",
+    "Creación del Consejo y la Comisión de Seguridad Industrial como órganos de consulta."
+  ],
+  "legal_references": [
+    "Ley 21/1992, de 16 de julio, de industria",
+    "Ley 17/2009, de 23 de diciembre, sobre el libre acceso a las actividades de servicios y su ejercicio",
+    "Ley 25/2009, de 22 de diciembre, de modificación de varias leyes para su adaptación a la Ley sobre el libre acceso a las actividades de servicios y su ejercicio",
+    "Ley 2/2011, de 4 de marzo, de economía sostenible",
+    "Ley 20/2013, de 9 de diciembre, de garantía de la unidad de mercado (LEGUM)",
+    "Directiva europea de servicios (2006/123/CE)",
+    "Real Decreto 559/2010, de 5 de julio, del Reglamento del Registro Integrado Industrial",
+    "Ley 24/2013, de 26 de diciembre, del Sector Eléctrico",
+    "Ley 13/2012, de 20 de noviembre"
+  ],
+  "derogations": [],
+  "main_obligations": "Las empresas deben notificar cualquier accidente o deficiencia grave de seguridad en un plazo máximo de 72 horas. Los proyectistas deben presentar declaración responsable de su titulación y su seguro de responsabilidad civil. Las empresas de servicios tienen la obligación de entregar documentación técnica e instrucciones de mantenimiento a los titulares.",
+  "effective_date": "2017-07-13",
+  "procedures": [
+    {
+      "name": "Inscripción y mantenimiento en el Registro Industrial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incorporación de datos",
+          "description": "La Administración incorpora los datos de oficio mediante autorizaciones o declaraciones responsables.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Autorizaciones, comunicaciones o declaraciones responsables"
+        },
+        {
+          "step": 2,
+          "title": "Comunicación de modificaciones",
+          "description": "El titular debe comunicar ampliaciones, modificaciones sustanciales, traslados o cese de actividad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Habilitación de profesionales (Proyectistas y Directores de Obra)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de declaración responsable",
+          "description": "Presentar acreditación de titulación, no inhabilitación y seguro de responsabilidad profesional.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Titulación universitaria, seguro de responsabilidad profesional"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador Industrial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inspección o comprobación",
+          "descrption": "Realización de controles administrativos o por organismos de control para verificar el cumplimiento de la seguridad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación técnica, certificados de organismos de control y actas de inspección."
+        },
+        {
+          "step": 2,
+          "title": "Detección de infracción y levantamiento de acta",
+          "descrption": "Formalización de los hechos detectados en un acta con valor probatorio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución del procedimiento",
+          "descrption": "La administración debe resolver y notificar la sanción en un plazo máximo de un año.",
+          "start_date": "Desde el inicio del procedimiento",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Subsanación de deficiencias (Organismos de Control)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Emisión de informe de deficiencias",
+          "descrption": "El organismo de control comunica las anomalías y el plazo para corregirlas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de subsanación",
+          "descrption": "Periodo para que el titular corrija las deficiencias detectadas.",
+          "start_date": null,
+          "end_date": "Plazo reglamentario establecido",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Nueva verificación",
+          "descrption": "El organismo vuelve a inspeccionar para emitir informe positivo o negativo.",
+          "start_date": "Tras la subsanación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

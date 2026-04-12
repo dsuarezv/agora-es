@@ -1,0 +1,181 @@
+{
+  "identifier": "BOE-A-2011-18654",
+  "title": "Ley 7/2011, de 3 de noviembre, de Documentos, Archivos y Patrimonio Documental de Andalucía",
+  "visible_title": "Ley de Documentos, Archivos y Patrimonio Documental de Andalucía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "7/2011",
+  "publication_date": "2011-11-28",
+  "enactment_date": "2011-11-03",
+  "last_updated": "2024-02-16",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2011/11/03/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza la gestión de la memoria histórica y administrativa de Andalucía, integrando la digitalización en la custodia de documentos. Establece un sistema para proteger tanto el patrimonio público como el privado de especial interés histórico. Busca garantizar que la información sea accesible, auténtica y transparente para la ciudadanía. Además, impone un régimen de sanciones severo para evitar la pérdida o destrucción de documentos que forman parte del patrimonio de la región.",
+  "citizen_impact": "Garantiza el derecho de acceso a la información pública y privada de interés histórico. Los ciudadanos pueden investigar y consultar documentos protegidos bajo normas de acceso público, asegurando que la memoria de la región se mantenga íntegra y disponible digitalmente.",
+  "professional_impact": "Los funcionarios deben adoptar nuevos estándares de gestión documental electrónica y custodia. Los propietarios de archivos privados con valor histórico (religiosos, políticos, sindicales, etc.) adquieren responsabilidades legales, como la obligación de informar sobre ventas o solicitar autorización para traslados de documentos inscritos.",
+  "keywords": [
+    "patrimonio documental",
+    "archivos andaluces",
+    "gestión documental electrónica",
+    "transparencia",
+    "archivo privado",
+    "conservación de documentos"
+  ],
+  "key_points": [
+    "Los documentos públicos son inalienables, imprescriptibles e inembargables.",
+    "Los documentos privados con más de 40 años de antigüedad de interés (religioso, político, sindical, etc.) pasan a ser Patrimonio Documental.",
+    "Se crea el Inventario de Bienes Reconocidos para proteger documentos privados con valor histórico.",
+    "Obligatoriedad de gestionar documentos mediante sistemas electrónicos que garanticen su autenticidad e integridad.",
+    "Los propietarios de patrimonio documental deben notificar cualquier venta con dos meses de antelación.",
+    "Cualquier traslado de documentos privados inscritos en el Catálogo General requiere autorización previa de la Consejería.",
+    "Las instituciones religiosas tienen la obligación de colaborar en la preservación de su patrimonio documental.",
+    "Se prohíbe la consulta de originales a personas condenadas por delitos contra el Patrimonio Documental.",
+    "Sanciones económicas de hasta 300.000 € por la eliminación de documentos.",
+    "Integración obligatoria de archivos privados en el Sistema Archivístico si así se solicita.",
+    "Creación del Sistema de Información de Archivos (@rchivA) para la gestión de expedientes electrónicos."
+  ],
+  "legal_references": [
+    "Ley 3/1984, de 9 de enero, de Archivos",
+    "Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas",
+    "Ley 11/2007, de 22 de junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos",
+    "Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público",
+    "Ley 52/2007, de 26 de noviembre, de Memoria Histórica",
+    "Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía",
+    "Constitución Española",
+    "Ley de Transparencia, Acceso a la Información Pública y Buen Gobierno",
+    "Ley de Transparencia Pública de Andalucía",
+    "Ley 9/2007, de 22 de julio, de la Administración de la Junta de Andalucía",
+    "Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público",
+    "Ley 55/2003, de 16 de diciembre, del Estatuto Marco del personal estatutario",
+    "Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente",
+    "Decreto 233/1987, de 26 de diciembre",
+    "Ley 8/2007, de 5 de octubre, de Museos y Colecciones Museográficas de Andalucía"
+  ],
+  "derogations": [
+    "Ley 3/1984, de 9 de enero, de Archivos"
+  ],
+  "main_obligations": "Los propietarios de documentos del Patrimonio Documental deben informar sobre cualquier transmisión onerosa (venta) con 2 meses de antelación. Los titulares de archivos privados deben colaborar con el Censo de Archivos y permitir el acceso a sus documentos si forman parte del Patrimonio Documental.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Inclusión en el Inventario de Bienes Reconocidos del Patrimonio Documental de Andalucía",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del procedimiento",
+          "description": "La Consejería inicia el proceso de oficio o a instancia de parte.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud razonada (en caso de ser a instancia de parte)"
+        },
+        {
+          "step": 2,
+          "title": "Trámite de audiencia",
+          "description": "Se escucha a las personas físicas o jurídicas interesadas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "La Dirección General dicta la resolución de inclusión y la publica en el BOJA.",
+          "start_date": "Desde la incoación",
+          "end_date": "Máximo 12 meses desde la incoación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Transmisión onerosa de documentos del Patrimonio Documental",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación previa",
+          "description": "El titular debe notificar la intención de venta a la Consejería.",
+          "start_date": "2 meses antes de la fecha de transmisión",
+          "end_date": null,
+          "required_documentation": "Notificación fehaciente con condiciones económicas e identificación del adquiriente"
+        },
+        {
+          "step": 2,
+          "title": "Ejercicio del derecho de tanteo",
+          "description": "La Consejería decide si adquiere los documentos por el precio comunicado.",
+          "start_date": "Durante el plazo de 2 meses de la comunicación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización de traslado de documentos privados inscritos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "El propietario solicita permiso para mover los documentos a otro inmueble.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Identificación de documentos, motivo, destino y condiciones de traslado"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la Consejería",
+          "description": "Se autoriza o deniega el traslado.",
+          "start_date": null,
+          "end_date": "2 meses tras la solicitud (silencio positivo)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Integración de archivos en el Sistema Archivístico de Andalucía",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de integración",
+          "description": "Petición de personas físicas o jurídicas (públicas o privadas) para incluir su archivo en el sistema.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "No especificado"
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Resolución de la petición de acuerdo con los requisitos establecidos.",
+          "start_date": "Desde la solicitud",
+          "end_date": "6 meses",
+          "required_documentation": "No especificado"
+        }
+      ]
+    },
+    {
+      "name": "Acceso a documentos de titularidad privada (Patrimonio Documental)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de acceso",
+          "description": "La persona interesada debe realizar una solicitud por escrito, precisa y pormenorizada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud escrita, precisa y pormenorizada"
+        },
+        {
+          "step": 2,
+          "title": "Respuesta del propietario",
+          "description": "El propietario puede denegar el acceso, pero debe hacerlo por escrito y motivadamente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Denegación por escrito y motivada"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

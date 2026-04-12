@@ -1,0 +1,90 @@
+{
+  "identifier": "BOE-A-2025-22022",
+  "title": "Orden PJC/1216/2025, de 30 de octubre, por la que se publica el Acuerdo del Consejo de Seguridad Nacional de 14 de julio de 2025, por el que se aprueba el procedimiento para el desarrollo del Catálogo de Recursos de la Seguridad Nacional, nivel Comunidades y Ciudades Autónomas",
+  "visible_title": "Procedimiento para el desarrollo del Catálogo de Recursos de la Seguridad Nacional a nivel de Comunidades y Ciudades Autónomas",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes",
+  "official_number": "PJC/1216/2025",
+  "publication_date": "2025-11-01",
+  "enactment_date": "2025-10-30",
+  "last_updated": "2025-11-01",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2025/10/30/pjc1216",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "263",
+  "summary": "Esta norma establece la hoja de ruta para crear un inventario detallado de los recursos de seguridad disponibles en todas las Comunidades Autónomas y Ciudades Autónomas de España. El objetivo es integrar estos recursos regionales con los de la Administración General del Estado para tener una visión completa de la capacidad de respuesta ante amenazas nacionales. Se crea un grupo de trabajo específico para recopilar información, digitalizarla y proponer un catálogo unificado que será clasificado como información reservada.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta principalmente a los funcionarios de las administraciones autonómicas y de las Ciudades Autónomas, quienes deberán identificar y aportar inventarios de sus recursos de seguridad. También abre la posibilidad de que, en el futuro, empresas del sector privado tengan que integrar sus recursos en este catálogo nacional.",
+  "keywords": [
+    "Seguridad Nacional",
+    "Catálogo de Recursos",
+    "Comunidades Autónomas",
+    "Gestión de riesgos",
+    "Consejo de Seguridad Nacional",
+    "Materia clasificada"
+  ],
+  "key_points": [
+    "Creación de un Grupo de Trabajo liderado por el Departamento de Seguridad Nacional para elaborar el catálogo regional.",
+    "Integración de la información de las autonomías en una plataforma digital del Sistema de Seguridad Nacional.",
+    "El catálogo final tendrá la calificación de materia clasificada como 'reservado'.",
+    "Se establece un plazo máximo de dos años para elevar la propuesta del catálogo al Consejo de Ministros.",
+    "Posibilidad de ampliar el catálogo para incluir recursos de entidades locales y del sector privado."
+  ],
+  "legal_references": [
+    "Ley 36/2015, de 28 de septiembre, de Seguridad Nacional",
+    "Orden PJC/326/2024"
+  ],
+  "derogations": [],
+  "main_obligations": "Las Comunidades y Ciudades Autónomas deben facilitar los inventarios de sus recursos afectados por riesgos de la Estrategia de Seguridad Nacional. El Consejo de Seguridad Nacional debe informar anualmente al Consejo de Ministros sobre el estado de este catálogo.",
+  "effective_date": "2025-11-02",
+  "procedures": [
+    {
+      "name": "Desarrollo del Catálogo de Recursos de Seguridad Nacional (Nivel Autonómico)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recabación de inventarios",
+          "description": "El Grupo de Trabajo recopila la información de los recursos existentes en las Comunidades y Ciudades Autónomas.",
+          "start_date": "2025-11-02",
+          "end_date": null,
+          "required_documentation": "Inventarios de recursos de sectores afectados por riesgos y amenazas de la Estrategia de Seguridad Nacional"
+        },
+        {
+          "step": 2,
+          "title": "Propuesta e integración digital",
+          "description": "Se proponen los recursos, se suben a la plataforma digital y se crean los manuales de gestión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación por el Comité de Situación",
+          "description": "El Comité analiza el borrador y lo aprueba como propuesta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Informe del Consejo de Seguridad Nacional",
+          "description": "Se eleva la propuesta al Consejo para obtener su informe favorable.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Aprobación final por el Gobierno",
+          "description": "El Gobierno aprueba el catálogo integrado (Estado + Autonomías).",
+          "start_date": null,
+          "end_date": "2 años tras la publicación",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

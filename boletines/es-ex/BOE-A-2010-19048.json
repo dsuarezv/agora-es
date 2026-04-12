@@ -1,0 +1,145 @@
+{
+  "identifier": "BOE-A-2010-19048",
+  "title": "Ley 11/2010, de 16 de noviembre, de pesca y acuicultura de Extremadura",
+  "visible_title": "Ley de pesca y acuicultura de Extremadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "11/2010",
+  "publication_date": "2010-12-10",
+  "enactment_date": "2010-11-16",
+  "last_updated": "2022-11-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2010/11/16/11",
+  "official_journal": "Boletín Oficial de Extremadura",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza la gestión de la pesca y la acuicultura en Extremadura para proteger los ecosistemas acuáticos y fomentar nuevas modalidades de actividad. Introduce beneficios económicos para pescadores que practican técnicas sostenibles y establece ayudas para colectivos vulnerables o mayores. Además, regula la responsabilidad de quienes gestionan aguas para asegurar la supervivencia de las especies. El objetivo es equilibrar el aprovechamiento deportivo y productivo con la conservación de la biodiversidad regional.",
+  "citizen_impact": "Los mayores de 65 años residentes en Extremadura no pagan por su licencia de pesca. Se ofrece un 50% de descuento para quienes practiquen la pesca 'sin muerte' y se exime de tasas a hijos dependientes con rentas familiares bajas. También se facilita la identificación de menores de 14 años al permitir incluirlos en la licencia de un adulto.",
+  "professional_impact": "Las empresas de acuicultura deben adaptar sus plazos de vigencia y procesos de revocación. Los titulares de infraestructuras hidráulicas tienen la obligación de construir pasos para peces y mantener caudales mínimos. Las sociedades de pescadores que gestionan cotos pasan automáticamente al registro de sociedades colaboradoras.",
+  "keywords": [
+    "pesca deportiva",
+    "acuicultura",
+    "licencia de pesca",
+    "pesca sin muerte",
+    "Extremadura",
+    "conservación acuática",
+    "gestión de aguas"
+  ],
+  "key_points": [
+    "Gratuidad de la licencia de pesca para mayores de 65 años residentes en Extremadura.",
+    "Bonificación del 50% en la licencia para la modalidad de pesca sin muerte.",
+    "Exención de tasas para hijos dependientes con residencia en Extremadura y rentas familiares inferiores a 5 veces el SMI.",
+    "Reconocimiento de nuevas modalidades: pesca nocturna, con mosca y carp-fishing.",
+    "Posibilidad de incluir a menores de 14 años en la licencia de un adulto.",
+    "Obligación de construir pasos para peces y mantener caudales mínimos en infraestructuras hidráulicas.",
+    "Creación de la figura del Guía de Pesca para gestión de autorizaciones.",
+    "Prohibición estricta del uso de explosivos, venenos o sustancias químicas en el agua.",
+    "Integración de las sociedades de pescadores en el nuevo registro de sociedades colaboradoras.",
+    "Los expedientes sancionadores en curso se resuelven con la ley anterior al momento de la infracción."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 45 y 149.1.23)",
+    "Estatuto de Autonomía de Extremadura",
+    "Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad",
+    "Real Decreto Legislativo 1/2001 (Texto Refundido de la Ley de Aguas)",
+    "Directiva 2000/60/CE del Parlamento Europeo y del Consejo",
+    "Ley 8/1995, de 27 de abril, de Pesca de Extremadura",
+    "Decreto 269/2005, de 27 de julio",
+    "Ley 1/2002, de 28 de febrero, del Gobierno y de la Administración de la Comunidad Autónoma de Extremadura",
+    "Ley 18/2001, de 14 de diciembre, de Tasas y Precios Públicos de la Comunidad Autónoma de Extremadura"
+  ],
+  "derogatons": [
+    "Ley 8/1995, de 27 de abril, de Pesca de Extremadura"
+  ],
+  "main_obligations": "Los pescadores deben respetar estrictamente las tallas mínimas y las épocas de veda. Los titulares de aprovechamientos hidráulicos están obligados a garantizar caudales mínimos y construir pasos para peces para proteger la vida acuática.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación e instrucción",
+          "description": "Apertura del expediente por la Dirección General competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "description": "Plazo máximo para dictar y notificar la resolución final.",
+          "start_date": "Desde la iniciación",
+          "end_date": "1 año",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Pago voluntario",
+          "description": "Reducción automática del 50% de la multa si se paga en este plazo.",
+          "start_date": "Desde la notificación del Pliego de Cargos",
+          "end_date": "10 días hábiles",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización de Explotaciones de Acuicultura",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Presentación de solicitud con memoria técnica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto o memoria técnica redactada por técnico competente (hidrobiología, hidráulica o construcción)"
+        },
+        {
+          "step": 2,
+          "title": "Vigencia de la autorización",
+          "description": "Periodo de validez de la autorización concedida.",
+          "start_date": null,
+          "end_date": "9 años (prorrogables por periodos iguales)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de exención o bonificación de tasas de pesca",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de licencia",
+          "description": "El interesado solicita la expedición o renovación de la licencia de pesca.",
+          "start_date": "Momento de la solicitud",
+          "end_date": null,
+          "required_documentation": "Acreditación de edad (mayores de 65) o de renta y domicilio familiar (hijos dependientes)"
+        }
+      ]
+    },
+    {
+      "name": "Gestión de cotos de pesca por Sociedades de Pescadores",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Continuidad de acuerdos",
+          "description": "Los acuerdos suscritos bajo la ley anterior mantienen su vigencia hasta su finalización.",
+          "start_date": null,
+          "end_date": "Hasta la finalización del acuerdo",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Inscripción de oficio",
+          "description": "Las sociedades pasan automáticamente al registro de sociedades colaboradoras.",
+          "start_date": "Entrada en vigor de la Ley",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

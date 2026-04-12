@@ -1,0 +1,75 @@
+{
+  "identifier": "BOE-A-2001-1381",
+  "title": "Ley 5/2000, de 28 de diciembre, de Medidas Fiscales y de Régimen Presupuestario y Administrativo",
+  "visible_title": "Ley de Medidas Fiscales y de Régimen Presupuestario y Administrativo",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "5/2000",
+  "publication_date": "2001-01-18",
+  "enactment_date": "2000-12-28",
+  "last_updated": "2015-05-04",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2000/12/28/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma implementa la política económica de la Xunta de Galicia mediante ajustes fiscales y cambios en la gestión de la administración. Introduce deducciones en el IRPF para fomentar la natalidad y apoyar a familias numerosas, además de crear la Agencia Gallega de Desarrollo Rural. También regula la gestión de gastos plurianuales y la estructura de las fundaciones públicas sanitarias en Galicia.",
+  "citizen_impact": "Los ciudadanos gallegos se benefician de mayores deducciones en el IRPF por nacimiento o adopción de hijos y por poseer el título de familia numerosa. También se facilita la deducción por el cuidado de hijos menores de tres años si se emplea a una persona de hogar debidamente registrada.",
+  "professional_impact": "Las empresas de servicios y consultoría ven limitada la duración de sus contratos a un máximo de dos años. Los gestores de la administración pública deben adaptarse a nuevas reglas para la generación de crédito y la gestión de gastos plurianuales, mientras que el sector sanitario ve regularizado el régimen de sus fundaciones públicas.",
+  "keywords": [
+    "IRPF",
+    "deducciones fiscales",
+    "familia numerosa",
+    "natalidad",
+    "desarrollo rural",
+    "presupuesto",
+    "Galicia",
+    "gestión administrativa"
+  ],
+  "key_points": [
+    "Aumento de deducciones en el IRPF por nacimiento o adopción (de 20.000 a 60.000 pesetas según el número de hijos).",
+    "Incremento de las deducciones para familias numerosas en un 50% respecto al año anterior.",
+    "Nueva deducción por cuidado de hijos menores de tres años mediante empleados de hogar registrados.",
+    "Creación de la Agencia Gallega de Desarrollo Rural para combatir la despoblación.",
+    "Limitación de la duración de contratos de consultoría y servicios a un máximo de dos años.",
+    "Transformación de las fundaciones sanitarias en entidades de titularidad y naturaleza pública.",
+    "Actualización de las tasas fiscales aplicables a máquinas recreativas y de azar."
+  ],
+  "legal_references": [
+    "Ley 32/1997",
+    "Ley 14/1996",
+    "Ley de Régimen Financiero y Presupuestario (Decreto Legislativo 1/1999)",
+    "Ley 2/1998",
+    "Ley 25/1971",
+    "Ley 42/1994",
+    "Ley 8/1998",
+    "Ley de Contratos de las Administraciones Públicas",
+    "Ley 1/1983",
+    "Estatuto de Galicia",
+    "Ley Orgánica 1/1990",
+    "Ley 30/1992",
+    "Ley 10/1996"
+  ],
+  "derogations": [
+    "Escala de Profesores del INEF de Galicia (Derogada por disposición adicional quinta)",
+    "Fondo de Cooperación Local (Derogada por disposición adicional octava)"
+  ],
+  "main_obligations": "Los contribuyentes que soliciten deducciones fiscales deben presentar la documentación que justifique el cumplimiento de los requisitos. Las fundaciones sanitarias deben completar su transformación en entidades públicas en un plazo máximo de seis meses.",
+  "effective_date": "2001-01-01",
+  "procedures": [
+    {
+      "name": "Transformación de fundaciones sanitarias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cambio de naturaleza jurídica",
+          "descrption": "Las fundaciones sanitarias deben pasar a ser de titularidad y naturaleza pública.",
+          "start_date": "2001-01-01",
+          "end_date": "6 meses"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

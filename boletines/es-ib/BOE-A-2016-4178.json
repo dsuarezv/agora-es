@@ -1,0 +1,81 @@
+{
+  "identifier": "BOE-A-2016-4178",
+  "title": "Ley 5/2016, de 13 de abril, de la renta social garantizada",
+  "visible_title": "Ley de la renta social garantizada",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "5/2016",
+  "publication_date": "2016-05-02",
+  "enactment_date": "2016-04-13",
+  "last_updated": "2020-06-16",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2016/04/13/5",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta norma crea una ayuda económica mensual para personas y familias en situación de pobreza severa en las Illes Balears. A diferencia de modelos anteriores, no obliga a participar en programas de inserción laboral para recibir el dinero, funcionando como una red de seguridad básica. El objetivo es garantizar ingresos mínimos para cubrir necesidades de alimentación, vivienda y vestido.",
+  "citizen_impact": "Permite a familias vulnerables, especialmente con menores o personas con discapacidad, recibir un ingreso mensual para subsistir. Los beneficiarios deben residir en las Baleares y cumplir ciertos requisitos de ingresos, pero tienen la ventaja de que la ayuda no se pierde automáticamente por buscar trabajo.",
+  "professional_impact": "Obliga a los servicios sociales de la comunidad autónoma a gestionar un nuevo registro, tramitar expedientes y realizar seguimientos anuales de la situación de los beneficiarios. Los funcionarios deben controlar que no se produzcan cobros indebidos y gestionar posibles sanciones por fraude.",
+  "keywords": [
+    "renta social",
+    "pobreza",
+    "ayuda económica",
+    "Illes Balears",
+    "exclusión social",
+    "prestación asistencial"
+  ],
+  "key_points": [
+    "La ayuda es un derecho subjetivo y no depende de la disponibilidad de presupuesto.",
+    "No es obligatorio participar en actividades de inserción laboral para cobrarla.",
+    "Se requiere una residencia mínima de 36 meses en las Illes Balears.",
+    "La cuantía se calcula según el número de personas en el núcleo familiar.",
+    "La prestación es intransferible y no puede ser embargada (salvo excepciones legales).",
+    "Se establece un sistema de sanciones que puede llegar a la prohibición de acceso a la ayuda hasta por 36 meses.",
+    "Los ingresos por trabajo se computan solo al 50% durante los primeros 6 meses para no desincentivar el empleo."
+  ],
+  "legal_references": [
+    "Ley 4/2009, de 11 de junio, de servicios sociales de las Illes Balears",
+    "Decreto 117/2001, de 28 de septiembre",
+    "Constitución Española",
+    "Estatuto de Autoautonomía de las Illes Balears",
+    "Ley 38/2003, General de Subvenciones"
+  ],
+  "derogations": [
+    "Decreto 117/2001, de 28 de septiembre, de regulación de la renta mínima de inserción"
+  ],
+  "main_obligations": "Los beneficiarios deben comunicar cualquier cambio en su situación económica o familiar en un plazo de 10 días. Están obligados a residir de forma efectiva en las Illes Balears y a no rechazar ofertas de trabajo adecuadas.",
+  "effective_date": "2016-05-03",
+  "procedures": [
+    {
+      "name": "Concesión de la renta social garantizada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El interesado presenta el modelo oficial en la Consejería de Servicios Sociales y Cooperación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que indique la situación económica, familiar y de residencia."
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y comprobación",
+          "description": "El órgano instructor verifica los requisitos y puede solicitar subsanación de errores en 10 días.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "La Consejería dicta la resolución en un plazo máximo de 3 meses.",
+          "start_date": null,
+          "end_date": "3 meses desde la solicitud",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

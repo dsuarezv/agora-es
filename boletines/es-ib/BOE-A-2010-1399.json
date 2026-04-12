@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-2010-1399",
+  "title": "Ley 7/2009, de 11 de diciembre, electoral de los Consejos Insulares",
+  "visible_title": "Ley electoral de los Consejos Insulares",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "7/2009",
+  "publication_date": "2010-01-30",
+  "enactment_date": "2009-12-11",
+  "last_updated": "2009-12-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2009/12/11/7",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley establece el sistema para elegir a los miembros de los Consejos Insulares de Mallorca, Menorca e Ibiza mediante sufragio directo. Tras la reforma del Estatuto de Autonomía, se separa la elección de estos consejos de la elección de los diputados del Parlamento. La norma define quiénes pueden votar y ser elegidos, el número de consejeros por isla y las reglas de financiación de las campañas.",
+  "citizen_impact": "Los ciudadanos de Mallorca, Menorca e Ibiza votan directamente a sus representantes en los Consejos Insulares en las mismas fechas que las elecciones municipales. Esto permite que la gestión de las islas tenga una legitimidad democrática propia y separada del Parlamento autonómico.",
+  "professional_impact": "Los partidos políticos y agrupaciones de electores deben designar administradores de candidatura y cumplir con límites de gasto específicos. Además, establece incompatibilidades estrictas para cargos de la administración autonómica, parlamentarios y directivos de medios públicos para evitar conflictos de interés.",
+  "keywords": [
+    "elecciones insulares",
+    "Consejos Insulares",
+    "sufragio universal",
+    "Baleares",
+    "sistema electoral",
+    "incompatibilidades"
+  ],
+  "key_points": [
+    "Elección directa de consejeros para Mallorca (33), Menorca (13) e Ibiza (13).",
+    "Las elecciones coinciden con las municipales (cuarto domingo de mayo).",
+    "Se exige una presencia equilibrada de hombres y mujeres en las listas (alternancia).",
+    "Las candidaturas deben obtener al menos el 5% de los votos para obtener representación.",
+    "Se prohíbe que altos cargos de la administración autonómica y parlamentarios sean consejeros.",
+    "El Consejo Insular de Formentera se rige por la legislación de elecciones municipales.",
+    "Se establece un sistema de subvenciones basado en el número de consejeros y votos obtenidos."
+  ],
+  "legal_references": [
+    "Ley Orgánica 1/2007, de 28 de febrero (Estatuto de Autonomía de las Illes Balears)",
+    "Ley 8/1986, de 26 de noviembre, electoral de la comunidad autónoma de las Illes Balears",
+    "Ley Orgánica del régimen electoral general"
+  ],
+  "derogations": [],
+  "main_obligations": "Los partidos deben designar un representante general y un administrador de candidatura. Los consejeros electos que acepten cargos incompatibles deben cesar inmediatamente en su puesto.",
+  "effective_date": "2010-01-31",
+  "procedures": [
+    {
+      "name": "Constitución del Pleno del Consejo Insular",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de la sesión",
+          "descrption": "El presidente en funciones convoca la sesión tras consultar a los representantes de las listas electas.",
+          "start_date": "Entre el día 20 y el 45 tras las elecciones",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Mesa de edad y comprobación",
+          "descrption": "Se forma una mesa con el electo de mayor y menor edad para verificar credenciales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificados de la Junta Electoral"
+        },
+        {
+          "step": 3,
+          "title": "Declaración de constitución",
+          "descrption": "El pleno se declara constituido si hay mayoría absoluta; si no, se repite dos días después.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Toma de posesión",
+          "descrption": "Los consejeros realizan el juramento o promesa ante la mesa de edad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Elección del Presidente del Consejo Insular",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de candidato",
+          "descrption": "La Mesa propone al candidato que cuente con más firmas de apoyo.",
+          "start_date": "En la sesión de constitución",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Investidura",
+          "descrption": "Votación para obtener la confianza del pleno por mayoría absoluta o simple.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

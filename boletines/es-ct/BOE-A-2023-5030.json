@@ -1,0 +1,81 @@
+{
+  "identifier": "BOE-A-2023-5030",
+  "title": "Resolución INT/183/2023, de 24 de enero, por la que se establecen las restricciones a la circulación durante el año 2023",
+  "visible_title": "Restricciones a la circulación de vehículos en Cataluña",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "INT/183/2023",
+  "publication_date": "2023-02-25",
+  "enactment_date": "2023-01-24",
+  "last_updated": "2024-02-14",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/res/2023/01/24/int183",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece las limitaciones de tráfico para vehículos pesados y de mercancías peligrosas en la red de carreteras de Cataluña durante el año 2023. El objetivo es mejorar la fluidez de la movilidad, la seguridad vial y gestionar el tráfico en zonas críticas o durante periodos de alta demanda. Regula itinerarios obligatorios, horarios restringidos y excepciones específicas según el tipo de carga o vehículo.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo que se utilicen las vías afectadas por las restricciones de transporte pesado o se vean afectados por eventos deportivos y obras programadas.",
+  "professional_impact": "Afecta directamente a empresas de transporte de mercancías, transportistas autónomos y operadores de mercancías peligrosas. Obliga a planificar rutas específicas (como la red XIMP), respetar horarios de prohibición y realizar comunicaciones previas para transportes especiales, bajo riesgo de sanciones o inmovilización del vehículo.",
+  "keywords": [
+    "tráfico",
+    "restricciones de circulación",
+    "transporte de mercancías",
+    "mercancías peligrosas",
+    "Cataluña",
+    "vehículos pesados",
+    "seguridad vial"
+  ],
+  "key_points": [
+    "Prohibición de circular por ciertas vías interurbanas a vehículos de mercancías con masa superior a 7.500 kg en horarios específicos.",
+    "Obligatoriedad de usar la red de itinerarios europeos y autopistas para vehículos de más de 7.500 kg que circulen de paso sin realizar operaciones de transporte.",
+    "Establecimiento de rutas obligatorias (red XIMP) para el transporte de mercancías peligrosas (ADR).",
+    "Restricciones específicas para vehículos en la Val d'Aran y en las carreteras N-II, N-240 y N-340.",
+    "Limitaciones de uso de carriles Bus-VAO en la C-58CC y C-31 norte.",
+    "Regulación de la circulación en condiciones meteorológicas adversas (niebla, nieve, viento) para vehículos pesados.",
+    "Restricciones de acceso a Barcelona en días y horarios de alta congestión.",
+    "Exenciones para el transporte de productos alimentarios, leche, prensa, correo y servicios de emergencia."
+  ],
+  "legal_references": [
+    "Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial (Real Decreto Legislativo 6/2015)",
+    "Reglamento General de Circulación (Real Decreto 1428/2003)",
+    "Ley 14/1997 de creación del Servicio Catalán de Tráfico",
+    "Decreto 320/2011 de reestructuración del Departamento de Interior",
+    "Reglamento (CE) 561/2006 del Parlamento Europeo",
+    "Ley de Carreteras (Decreto Legislativo 2/2009)"
+  ],
+  "derogations": [
+    "Resolución INT/956/2022, de 4 de abril"
+  ],
+  "main_obligations": "Los vehículos de transporte de mercancías >7.500 kg deben respetar los horarios y tramos prohibidos indicados en los anexos. Los vehículos ADR deben seguir estrictamente los itinerarios de la red XIMP o los criterios de seguridad establecidos, bajo riesgo de denuncia y retirada del vehículo por los Mossos d'Esquadra.",
+  "effective_date": "2023-03-05",
+  "procedures": [
+    {
+      "name": "Comunicación previa de transportes especiales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación vía web",
+          "descrption": "Los vehículos de transporte especial deben realizar una comunicación previa a través del enlace transit.gencat.cat.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación del vehículo y de la autorización especial de circulación"
+        }
+      ]
+    },
+    {
+      "name": "Autorización de transporte urgente o mercancías peligrosas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización excepcional",
+          "descrption": "Procedimiento para solicitar permiso de circulación en tramos restringidos por urgencia o necesidad justificada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Justificación de la necesidad ineludible de la operación"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,97 @@
+{
+  "identifier": "BOE-A-2019-3491",
+  "title": "Ley 5/2019, de 20 de febrero, de Renta Extremeña Garantizada",
+  "visible_title": "Ley de Renta Extremeña Garantizada",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "5/2019",
+  "publication_date": "2019-03-12",
+  "enactment_date": "2019-02-20",
+  "last_updated": "2022-11-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2019/02/20/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea una prestación económica mensual para asegurar un nivel de vida digno a personas y familias en Extremadura que carecen de recursos suficientes. A diferencia de modelos anteriores, no solo ofrece ayuda económica, sino que vincula la ayuda a un programa de acompañamiento para fomentar la inclusión social y laboral. El objetivo es combatir la pobreza y la exclusión mediante un sistema de protección social más robusto y basado en derechos.",
+  "citizen_impact": "Los ciudadanos extremeños en situación de vulnerabilidad pueden solicitar una ayuda económica mensual para cubrir necesidades básicas. Para recibirla, deberán cumplir requisitos de residencia, edad y carencia de ingresos, además de comprometerse a participar en programas de formación o empleo. También otorga el derecho a la exención de copago en medicamentos.",
+  "professional_impact": "Los trabajadores sociales de los Servicios Sociales de Atención Social Básica asumen la responsabilidad de asistir en la solicitud, evaluar la situación y redactar los Programas de Acompañamiento para la Inclusión. La Administración debe gestionar un sistema de seguimiento, control de ingresos y aplicación de sanciones en caso de incumplimiento de los compromisos adquiridos.",
+  "keywords": [
+    "renta mínima",
+    "ayuda económica",
+    "exclusión social",
+    "Extremadura",
+    "inclusión laboral",
+    "protección social"
+  ],
+  "key_points": [
+    "La ayuda es mensual y su cuantía se basa en el IPREM, aumentando según el número de miembros de la unidad familiar.",
+    "Se establece un límite máximo de ayuda del 160% del IPREM mensual para la unidad familiar.",
+    "Es obligatorio suscribir un Programa de Acompañamiento para la Inclusión para poder recibir la prestación.",
+    "La ayuda es compatible con otros ingresos siempre que la suma no supere la cuantía máxima permitida.",
+    "Se garantiza la exención del copago farmacéutico para los beneficiarios.",
+    "El incumplimiento de los compromisos de formación o empleo puede conllevar sanciones o la pérdida de la ayuda.",
+    "La prestación tiene una duración inicial de 12 meses, siendo renovable."
+  ],
+  "legal_references": [
+    "Ley 3/2013",
+    "Ley 9/2014",
+    "Estatuto de Autonomía de Extremadura",
+    "Constitución Española",
+    "Ley 39/2015",
+    "Ley 40/2015",
+    "Ley 29/2006"
+  ],
+  "derogations": [
+    "Ley 9/2014, de 1 de octubre, por la que se regula la Renta Básica Extremeña de Inserción",
+    "Título III, artículo 11, de la Ley 7/2016, de 21 de julio, de Medidas Extraordinarias Contra la Exclusión Social"
+  ],
+  "main_obligations": "Los beneficiarios deben destinar la ayuda a fines sociales, participar en programas de empleo/formación, no rechazar ofertas de trabajo adecuadas y comunicar cualquier cambio de ingresos o domicilio en un plazo de 15 días.",
+  "effective_date": "2019-07-12",
+  "procedures": [
+    {
+      "name": "Concesión de la Renta Extremeña Garantizada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El interesado manifiesta su voluntad de solicitar la ayuda con asistencia de un trabajador social.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Libro de familia, certificado de empadronamiento, certificado de convivencia, documentación de residencia legal (extranjeros), resolución de pensiones alimenticias si procede."
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y subsanación",
+          "description": "La Administración revisa la documentación y solicita subsanación si hay errores.",
+          "start_date": null,
+          "end_date": "10 días para subsanar",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Dictamen final de concesión, denegación o modificación.",
+          "start_date": null,
+          "end_date": "3 meses desde la solicitud",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del expediente",
+          "description": "Apertura de expediente ante una posible infracción de las obligaciones de la ley.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

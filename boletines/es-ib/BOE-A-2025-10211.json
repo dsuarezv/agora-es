@@ -1,0 +1,111 @@
+{
+  "identifier": "BOE-A-2025-10211",
+  "title": "Decreto-ley 3/2025, de 14 de marzo, de actuaciones urgentes destinadas a la obtención de suelo mediante proyectos residenciales estratégicos en el municipio de Palma",
+  "visible_title": "Actuaciones urgentes para la obtención de suelo mediante proyectos residenciales estratégicos en Palma",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "3/2025",
+  "publication_date": "2025-05-23",
+  "enactment_date": "2025-03-14",
+  "last_updated": "2025-07-24",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/dl/2025/03/14/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma declara la emergencia habitacional en Palma para agilizar la creación de vivienda mediante la nueva figura de 'proyectos residenciales estratégicos'. Estos proyectos permiten fusionar en un único trámite la ordenación, reparcelación y urbanización del suelo, saltándose la lentitud de los planes urbanísticos ordinarios. El objetivo es aumentar rápidamente la oferta de vivienda, obligando a que al menos el 50% de la edificabilidad se destine a vivienda protegida o de precio limitado.",
+  "citizen_impact": "Busca facilitar el acceso a la vivienda en Palma al aumentar la oferta de pisos protegidos y reducir los tiempos de construcción. Los ciudadanos podrían beneficiarse de una mayor disponibilidad de vivienda asequible, aunque la norma se centra más en la gestión administrativa que en derechos directos inmediatos.",
+  "professional_impact": "Los promotores inmobiliarios cuentan con un procedimiento simplificado y con incentivos de edificabilidad (hasta un 45% de incremento) para desarrollar proyectos estratégicos. Los funcionarios del Ayuntamiento de Palma deben priorizar estos expedientes y asignar recursos específicos para su tramitación urgente.",
+  "keywords": [
+    "vivienda",
+    "Palma",
+    "suelo urbanizable",
+    "vivienda protegida",
+    "proyectos residenciales estratégicos",
+    "emergencia habitacional",
+    "urbanismo"
+  ],
+  "key_points": [
+    "Creación de la figura de 'proyectos residenciales estratégicos' para agilizar la obtención de suelo.",
+    "Obligación de reservar al menos el 50% de la edificabilidad para vivienda protegida o de precio limitado.",
+    "Incremento de la edificabilidad de hasta un 45% en suelos urbanos y urbanizables para incentivar la inversión.",
+    "Declaración de emergencia habitacional en el municipio de Palma, otorgándole prevalencia sobre otras normas urbanísticas.",
+    "Fusión de trámites: un único procedimiento para plan de ordenación, reparcelación y urbanización.",
+    "Introducción de silencio administrativo positivo en la aprobación inicial y definitiva bajo condiciones específicas.",
+    "Obligación de reservar áreas para energías renovables en los nuevos desarrollos urbanísticos.",
+    "Trámite de licencias de edificación con carácter de urgencia para estos proyectos."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 12/2023, de 24 de mayo, por el derecho a la vivienda",
+    "Real Decreto Legislativo 7/2015, de 30 de octubre, de Suelo y Rehabilitación Urbana",
+    "Ley 5/2018, de 19 de junio, de la vivienda de las Illes Balears",
+    "Ley 23/2006, de 20 de diciembre, de capitalidad de Palma",
+    "Ley 12/2017, de 29 de diciembre, de urbanismo de las Illes Balears",
+    "Ley 5/2008, de 14 de mayo, de actuaciones urgentes para la obtención de suelo para viviendas de protección pública",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común"
+  ],
+  "derogations": [
+    "Normas de rango igual o inferior que se opongan al Decreto-ley",
+    "Letra c) del apartado 4 del artículo 12 del Texto refundido de la Ley de evaluación ambiental de las Illes Balears"
+  ],
+  "main_obligations": "Los promotores de proyectos estratégicos deben destinar el 50% de la edificabilidad a vivienda protegida y aportar una garantía del 20% del coste de las obras de urbanización. El Ayuntamiento de Palma está obligado a tramitar estos proyectos de forma preferente y con recursos técnicos dedicados.",
+  "effective_date": "2025-05-23",
+  "procedures": [
+    {
+      "name": "Aprobación de Proyectos Residenciales Estratégicos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación del estudio preliminar",
+          "description": "Presentación de la propuesta escrita y gráfica de ordenación ante el Ayuntamiento de Palma.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Identificación de propietarios, propuesta gráfica, estudios de sostenibilidad y viabilidad económica."
+        },
+        {
+          "step": 2,
+          "title": "Informe de suficiencia municipal",
+          "description": "El Ayuntamiento comprueba la documentación y emite informe sobre el cumplimiento de requisitos.",
+          "start_date": "Desde la recepción de documentación completa",
+          "end_date": "4 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Presentación del proyecto residencial estratégico",
+          "description": "Tras informe favorable, el interesado presenta el proyecto completo.",
+          "start_date": "6 meses tras informe favorable",
+          "end_date": "6 meses",
+          "required_documentation": "Plan de ordenación, proyecto de reparcelación y proyecto de urbanización."
+        },
+        {
+          "step": 4,
+          "title": "Aprobación inicial",
+          "description": "Análisis del proyecto por el Ayuntamiento y aprobación inicial (puede ser por silencio positivo).",
+          "start_date": "6 meses tras recepción de proyecto completo",
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Información pública y evaluación ambiental",
+          "description": "Trámite de exposición pública y obtención de pronunciamiento ambiental.",
+          "start_date": "Tras aprobación inicial",
+          "end_date": "30 días (información pública)",
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Aprobación definitiva",
+          "description": "Resolución final tras atender alegaciones e informes sectoriales.",
+          "start_date": "Tras pronunciamiento ambiental favorable",
+          "end_date": "6 meses (silencio positivo)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,95 @@
+{
+  "identifier": "BOE-A-1993-1775",
+  "title": "Ley 3/1992, de 30 de julio, de Patrimonio de la Comunidad Autónoma de la Región de Murcia",
+  "visible_title": "Ley de Patrimonio de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "3/1992",
+  "publication_date": "1993-01-26",
+  "enactment_date": "1992-07-30",
+  "last_updated": "2014-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/1992/07/30/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas para gestionar, proteger y defender todos los bienes y derechos que pertenecen a la Región de Murcia. Define la diferencia entre bienes de uso público (demaniales) y bienes de propiedad privada de la administración, regulando cómo se pueden usar, vender o adquirir. Además, crea mecanismos para recuperar propiedades usurpadas y establece un régimen de sanciones para quienes dañen el patrimonio regional.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en casos de uso de bienes públicos (como concesiones para actividades privadas) o si un particular desea denunciar la ocupación ilegal de terrenos públicos para obtener una recompensa.",
+  "professional_impact": "Afecta a empresas y profesionales que deseen obtener concesiones administrativas para explotar bienes públicos, quienes deberán cumplir con plazos y obligaciones de conservación. También impacta a funcionarios encargados de la gestión de bienes, quienes asumen responsabilidades de custodia y pueden enfrentar sanciones graves por negligencia.",
+  "keywords": [
+    "patrimonio autonómico",
+    "bienes de dominio público",
+    "bienes patrimoniales",
+    "concesiones administrativas",
+    "deslinde",
+    "usurpación de bienes",
+    "gestión de activos públicos"
+  ],
+  "key_points": [
+    "Diferenciación clara entre bienes de dominio público (inalienables e inembargables) y bienes patrimoniales (privados de la administración).",
+    "Creación de un sistema de premios para ciudadanos que denuncien la ocupación de bienes públicos (10% del valor de venta).",
+    "Facultad de la Administración para recuperar por sí misma la posesión de bienes públicos usurpados.",
+    "Regulación de concesiones administrativas para el uso privado de bienes públicos con una duración máxima de 99 años.",
+    "Obligatoriedad de mantener un inventario general actualizado de todos los bienes de la región.",
+    "Establecimiento de multas por daños o usurpación que pueden llegar hasta el cuádruple del daño causado para funcionarios responsables.",
+    "Procedimiento de deslinde para fijar límites precisos entre propiedades públicas y privadas."
+  ],
+  "legal_references": [
+    "Ley 5/1985, de 31 de julio",
+    "Constitución Española",
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Ley Hipotecaria",
+    "Ley de Procedimiento Administrativo de 1958"
+  ],
+  "derogations": [
+    "Ley 5/1985, de 31 de julio, de Patrimonio de la Comunidad Autónoma"
+  ],
+  "main_obligations": "Los responsables de la gestión de bienes deben asegurar su custodia y conservación. Quienes causen daños o usurpen bienes públicos enfrentan multas de entre el tanto al duplo de los daños, pudiendo triplicarse o cuadruplicarse según la responsabilidad del sujeto.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Recuperación de la posesión de bienes patrimoniales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del expediente",
+          "description": "Apertura de investigación de oficio o por denuncia ante la Consejería de Economía, Hacienda y Fomento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de recuperación judicial",
+          "description": "Si la recuperación no es administrativa, se debe acudir a la vía judicial en un plazo máximo de un año desde la usurpación.",
+          "start_date": null,
+          "end_date": "1 año desde la usurpación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Deslinde",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación",
+          "description": "Inicio del expediente por la Consejería de Economía, Hacienda y Fomento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aprobación y Amojonamiento",
+          "description": "Resolución administrativa y colocación de hitos físicos (mojones) con presencia de interesados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

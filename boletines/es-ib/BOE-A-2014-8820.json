@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-2014-8820",
+  "title": "Ley 7/2014, de 23 de julio, de protección de las personas consumidoras y usuarias de las Illes Balears",
+  "visible_title": "Protección de las personas consumidoras y usuarias de las Illes Balears",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "7/2014",
+  "publication_date": "2014-08-20",
+  "enactment_date": "2014-07-23",
+  "last_updated": "2022-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2014/07/23/7",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley refuerza la seguridad jurídica de quienes compran bienes o servicios en Baleares, ampliando la protección a colectivos vulnerables como turistas, menores y mayores de 70 años. Establece reglas estrictas para la transparencia en presupuestos, la entrega de documentación técnica en viviendas y la trazabilidad de productos. Además, otorga a la administración potestad para intervenir rápidamente ante riesgos, permitiendo desde la toma de muestras hasta el cierre de locales. En caso de duda en contratos o publicidad, la ley garantiza que siempre se interprete a favor del consumidor.",
+  "citizen_impact": "El ciudadano gana herramientas para exigir presupuestos detallados y válidos por 15 días, y mayor transparencia al comprar viviendas (planos y manuales obligatorios). Los turistas cuentan con un estatus de protección especial. Además, ante cualquier ambigüedad en lo que se le ha vendido o prometido en publicidad, el consumidor tiene la ventaja legal en la interpretación del contrato.",
+  "professional_impact": "Las empresas deben cumplir con protocolos estrictos de información (riesgos químicos, precios visibles) y conservación de datos de trazabilidad durante 3 años. Los inspectores tienen facultades amplias, incluyendo visitas fuera de horario comercial y toma de muestras. Existe una responsabilidad económica elevada, con multas de hasta 660.000 euros, y los directivos pueden responder personalmente con su patrimonio si la empresa desaparece.",
+  "keywords": [
+    "consumidores",
+    "Baleares",
+    "protección al consumidor",
+    "turistas",
+    "inspección de consumo",
+    "derechos del consumidor",
+    "sanciones"
+  ],
+  "key_points": [
+    "Protección especial para turistas, menores y mayores de 70 años.",
+    "Los presupuestos deben ser por escrito, con desglose de costes y validez mínima de 15 días.",
+    "Obligación de entregar planos, materiales y manuales de uso al comprar vivienda nueva.",
+    "En caso de duda en contratos o publicidad, la interpretación siempre favorece al consumidor.",
+    "Las empresas deben guardar la trazabilidad de sus productos durante al menos 3 años.",
+    "Los inspectores pueden entrar en locales incluso fuera del horario comercial.",
+    "La negativa a facilitar información o comparecer ante una cita se considera obstrucción.",
+    "Se pueden aplicar medidas urgentes como la inmovilización de productos o cierre de locales.",
+    "Las multas por infracciones muy graves pueden alcanzar los 660.000 euros.",
+    "Los administradores pueden ser responsables personales de las sanciones si la empresa se extingue."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 51)",
+    "Estatuto de Auto-nomía de las Illes Balears (artículo 48.2 y 30.47)",
+    "Ley 1/1998, de 10 de marzo, del Estatuto de los consumidores y usuarios de la comunidad autónoma de las Illes Balears",
+    "Ley 26/1984, de 19 de julio, general para la defensa de los consumidores y usuarios",
+    "Real Decreto Legislativo 1/2007, de 16 de noviembre",
+    "Ley 3/2014",
+    "Ley 30/1992, de 26 de diciembre, de régimen jurídico de las administraciones públicas y del procedimiento administrativo común",
+    "Real Decreto 1398/1993",
+    "Real Decreto 1945/1983"
+  ],
+  "derogations": [
+    "Ley 1/1998, de 10 de marzo, del Estatuto de los consumidores y usuarios de la comunidad autónoma de las Illes Balears"
+  ],
+  "main_obligations": "Las empresas deben exhibir precios de forma visible, entregar presupuestos desglosados y conservar la documentación de trazabilidad de productos por 3 años. Ante inspecciones, es obligatorio permitir el acceso a las dependencias y facilitar la toma de muestras.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Elaboración de presupuestos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Entrega del presupuesto",
+          "description": "La empresa entrega un documento escrito con todos los datos fiscales, descripción del servicio y desglose de precios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Presupuesto por escrito"
+        },
+        {
+          "step": 2,
+          "title": "Periodo de validez",
+          "description": "El presupuesto mantiene su vigencia durante el plazo convenido o, en su defecto, un mínimo de 15 días naturales.",
+          "start_date": "Fecha de entrega",
+          "end_date": "15 días naturales"
+        }
+      ]
+    },
+    {
+      "name": "Inspección de consumo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acceso a instalaciones",
+          "description": "Los inspectores pueden acceder sin previo aviso a locales y dependencias para realizar comprobaciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Requerimiento de información",
+          "description": "Se solicita documentación comercial, industrial o contable para esclarecer posibles infracciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación contable o mercantil"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

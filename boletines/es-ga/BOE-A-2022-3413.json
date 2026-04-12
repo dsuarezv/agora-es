@@ -1,0 +1,84 @@
+{
+  "identifier": "BOE-A-2022-3413",
+  "title": "Ley 16/2021, de 20 de diciembre, del Plan gallego de estadística 2022-2026",
+  "visible_title": "Plan gallego de estadística 2022-2026",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "16/2021",
+  "publication_date": "2022-03-04",
+  "enactment_date": "2021-12-20",
+  "last_updated": "2021-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2021/12/20/16",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece la hoja de ruta para la producción y difusión de datos estadísticos en Galicia durante el periodo 2022-2026. Su objetivo es modernizar el sistema estadístico autonómico mediante el uso de nuevas tecnologías, la integración de datos administrativos y la mejora de la calidad de la información. Busca que los datos generados sirvan para mejorar las políticas públicas y faciliten la toma de decisiones de la ciudadanía y las empresas.",
+  "citizen_impact": "La norma mejora la calidad y accesibilidad de la información pública que los ciudadanos utilizan para conocer la realidad de su entorno. Además, crea el Registro de Población de Galicia para facilitar la comunicación de la administración con los residentes en temas de residencia y domicilio.",
+  "professional_impact": "Para los funcionarios y organismos públicos, implica la obligación de colaborar con el Instituto Gallego de Estadística (IGE) y facilitar el acceso a sus bases de datos. Las empresas y centros de investigación podrán acceder a microdatos anonimizados para fomentar la investigación científica bajo acuerdos específicos.",
+  "keywords": [
+    "estadística",
+    "Galicia",
+    "planificación",
+    "datos",
+    "IGE",
+    "registro de población",
+    "políticas públicas"
+  ],
+  "key_points": [
+    "Establece un plan quinquenal (2022-2026) para organizar la actividad estadística en Galicia.",
+    "Crea el Registro de Población de Galicia (RPG) para centralizar datos de los padrones municipales.",
+    "Prioriza el uso de datos administrativos y el enlace de ficheros para evitar pedir la misma información varias veces.",
+    "Introduce la obligatoriedad de aplicar perspectivas de género y edad en la recogida de datos sobre personas físicas.",
+    "Impulsa la digitalización y el uso de nuevas tecnologías para la recogida y difusión de datos.",
+    "Garantiza la obligación de colaboración ciudadana en las operaciones estadísticas programadas.",
+    "Define tres tipos de objetivos: informativos, instrumentales y de calidad."
+  ],
+  "legal_references": [
+    "Ley 9/1988, de 19 de julio, de estadística de Galicia",
+    "Estatuto de autonomía de Galicia",
+    "Ley 5/2021, de 2 de febrero, de impulso demográfico de Galicia",
+    "Ley 40/2015, de 1 de diciembre, de Régimen Jurídico del Sector Público",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales"
+  ],
+  "derogations": [
+    "Ley 15/2016, de 28 de julio, del Plan Gallego de Estadística 2017-2021"
+  ],
+  "main_obligations": "Los ciudadanos están obligados a colaborar en las operaciones estadísticas programadas según los proyectos técnicos. Los organismos públicos deben facilitar al IGE el acceso a sus ficheros de datos administrativos y cumplir con el secreto estadístico.",
+  "effective_date": "2022-01-01",
+  "procedures": [
+    {
+      "name": "Aprobación del Programa Estadístico Anual",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del proyecto",
+          "description": "El IGE elabora el proyecto de programa estadístico anual.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe del Consejo",
+          "description": "El Consejo Gallego de Estadística emite un informe sobre el proyecto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación por decreto",
+          "description": "El Consejo de la Xunta aprueba el programa mediante decreto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

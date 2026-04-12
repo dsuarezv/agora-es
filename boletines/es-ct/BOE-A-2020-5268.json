@@ -1,0 +1,88 @@
+{
+  "identifier": "BOE-A-2020-5268",
+  "title": "Decreto-ley 8/2020, de 24 de marzo, de modificación parcial del Decreto-ley 7/2020, de 17 de marzo, de medidas urgentes en materia de contratación pública, de salud y gestión de residuos sanitarios, de transparencia, de transporte público y en materia tributaria y económica, y de adopción de otras medidas complementarias",
+  "visible_title": "Medidas urgentes de apoyo económico, fiscal y de gestión ante la crisis del COVID-19 en Cataluña",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "8/2020",
+  "publication_date": "2020-05-25",
+  "enactment_date": "2020-03-24",
+  "last_updated": "2020-06-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2020/03/24/8",
+  "official_journal": "Diari Oficial de la Generalitat de Catalunya",
+  "journal_issue": null,
+  "summary": "Esta norma adapta la respuesta de la Generalitat de Cataluña ante la pandemia de COVID-19, flexibilizando la gestión de subvenciones y la administración pública. Introduce reducciones en el canon del agua para aliviar la carga económica de familias e industrias y permite la celebración de reuniones de órganos de gobierno mediante medios digitales. Además, establece mecanismos de aval para préstamos a autónomos y empresas para asegurar su supervivencia económica.",
+  "citizen_impact": "Las familias con tarifa social de agua no pagarán el canon del agua durante abril y mayo de 2020, y el resto de usuarios domésticos verán su factura reducida a la mitad. También se garantiza la continuidad de servicios sociales y culturales mediante la flexibilización de las ayudas públicas.",
+  "professional_impact": "Las empresas y autónomos pueden acceder a avales públicos para préstamos bancarios. Los gestores de subvenciones y funcionarios públicos tienen ahora mayor flexibilidad para aplazar plazos, justificar gastos y realizar reuniones o auditorías de forma telemática para evitar el bloqueo administrativo.",
+  "keywords": [
+    "COVID-19",
+    "canon del agua",
+    "subvenciones",
+    "contratación pública",
+    "ayudas económicas",
+    "Cataluña",
+    "flexibilización administrativa"
+  ],
+  "key_points": [
+    "Reducción del 50% en el canon del agua para usuarios domésticos, industriales y ganaderos en abril y mayo de 2020.",
+    "Tarifa social de agua de 0 euros para personas vulnerables durante el periodo de crisis.",
+    "Permiso para celebrar sesiones de órganos de gobierno mediante videoconferencia o medios digitales.",
+    "Flexibilidad en subvenciones: se permite aplazar plazos de cumplimiento y justificación por causas de fuerza mayor.",
+    "Autorización de avales de hasta 750 millones de euros para garantizar préstamos a autónomos y empresas.",
+    "Suspensión de plazos para la presentación de cuentas anuales y auditorías de entidades públicas hasta junio de 2020.",
+    "Posibilidad de financiar gastos de proyectos subvencionados aunque no se haya alcanzado el objetivo final por la pandemia."
+  ],
+  "legal_references": [
+    "Decreto-ley 7/2020, de 17 de marzo",
+    "Decreto-ley 6/2020, de 12 de marzo",
+    "Real Decreto-ley 8/2020, de 17 de marzo",
+    "Ley de finanzas públicas de Cataluña (Decreto legislativo 3/2002)",
+    "Texto refundido de la legislación en materia de aguas de Cataluña (Decreto legislativo 3/2003)",
+    "Ley 13/2008, de 5 de noviembre, de la presidencia de la Generalidad",
+    "Decreto-ley 3/2016, de 31 de mayo",
+    "Ley 26/2010, de 8 de julio"
+  ],
+  "derogations": [],
+  "main_obligations": null,
+  "effective_date": "2020-03-24",
+  "procedures": [
+    {
+      "name": "Aplicación de reducción del canon del agua",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Periodo de aplicación de la reducción",
+          "description": "Aplicación de coeficientes reductores (0,5) o tarifa 0 en las facturas de consumo de abril y mayo de 2020.",
+          "start_date": "2020-04-01",
+          "end_date": "2020-05-31",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de cuentas anuales y auditorías",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Suspensión de plazos de comunicación",
+          "description": "Suspensión del plazo para comunicar cuentas a la Intervención General.",
+          "start_date": "2020-03-14",
+          "end_date": "2020-06-01",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Reanudación de plazos",
+          "description": "Reanudación de los plazos de comunicación de cuentas tras la suspensión.",
+          "start_date": "2020-06-01",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

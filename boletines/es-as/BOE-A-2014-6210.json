@@ -1,0 +1,76 @@
+{
+  "identifier": "BOE-A-2014-6210",
+  "title": "Ley 1/2014, de 14 de abril, del Impuesto sobre las Afecciones Ambientales del Uso del Agua",
+  "visible_title": "Impuesto sobre las Afecciones Ambientales del Uso del Agua",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "1/2014",
+  "publication_date": "2014-06-12",
+  "enactment_date": "2014-04-14",
+  "last_updated": "2014-07-29",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2014/04/14/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma crea un impuesto en Asturias para fomentar el uso eficiente del agua y financiar la protección del medio acuático. Sustituye al antiguo canon de saneamiento mediante un modelo que penaliza el consumo excesivo y la contaminación. El objetivo es que los recursos recaudados se destinen exclusivamente a la inversión y mantenimiento de infraestructuras de depuración de aguas residuales.",
+  "citizen_impact": "Los ciudadanos verán reflejado el impuesto en su factura del agua, con una cuota fija mensual de 3 euros para usos domésticos más una parte variable según el consumo. No obstante, quienes vivan en zonas sin alcantarillado o red de saneamiento pública podrían estar exentos del pago.",
+  "professional_impact": "Las empresas industriales enfrentan un régimen más complejo donde la factura dependerá de la carga contaminante de sus vertidos (medida mediante análisis químicos). Además, las entidades suministradoras asumen la carga de recaudar el impuesto y actuar como sustitutos del contribuyente ante la Administración.",
+  "keywords": [
+    "impuesto agua",
+    "medio ambiente",
+    "Asturias",
+    "saneamiento",
+    "vertidos industriales",
+    "uso eficiente del agua",
+    "tributo ambiental"
+  ],
+  "key_points": [
+    "Creación de un impuesto con finalidad extrafiscal para proteger el medio ambiente.",
+    "Establecimiento de una cuota fija de 3€ mensuales para usuarios domésticos.",
+    "Exención para agricultores y ganaderos inscritos en los registros oficiales.",
+    "Cálculo de la cuota industrial basado en la carga contaminante mediante fórmula polinómica.",
+    "Obligación de instalar contadores para evitar estimaciones de consumo por parte de la Administración.",
+    "Destino garantizado de la recaudación para obras y mantenimiento de depuradoras.",
+    "Exención para viviendas sin conexión a la red de alcantarillado público."
+  ],
+  "legal_references": [
+    "Ley 1/1994, de 21 de febrero, sobre abastecimiento y saneamiento de aguas",
+    "Directiva 2000/60/CE",
+    "Real Decreto Legislativo 1/2001, de 20 de julio",
+    "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "Ley 3/2012, de 28 de diciembre, de Presupuestos Generales para 2013"
+  ],
+  "derogations": [
+    "Canon de saneamiento de la Ley 1/1994, de 21 de febrero",
+    "Disposición final segunda de la Ley 3/2012, de 28 de diciembre",
+    "Título II de la Ley 1/1994, de 21 de febrero"
+  ],
+  "main_obligations": "Los usuarios deben permitir la instalación de contadores y, en el caso de industrias, mantener dispositivos de medición de vertidos. La falta de instalación de sistemas de medición obligatorios conlleva multas de entre 300 y 1.800 euros.",
+  "effective_date": "2014-06-01",
+  "procedures": [
+    {
+      "name": "Determinación de la base imponible por carga contaminante",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de régimen especial",
+          "description": "El sujeto pasivo debe solicitar la determinación de la base según la contaminación vertida.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación técnica de la actividad y autorización de vertido."
+        },
+        {
+          "step": 2,
+          "title": "Toma de muestras y análisis",
+          "description": "Realización de análisis químicos para medir parámetros como DQO, nitrógeno, fósforo, etc.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informes de entidades externas acreditadas o análisis de la Junta de Saneamiento."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

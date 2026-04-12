@@ -1,0 +1,104 @@
+{
+  "identifier": "BOE-A-2017-1373",
+  "title": "Ley 4/2016, de 15 de diciembre, de Transparencia y Buen Gobierno de Castilla-La Mancha",
+  "visible_title": "Ley de Transparencia y Buen Gobierno de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "4/2016",
+  "publication_date": "2017-02-11",
+  "enactment_date": "2016-12-15",
+  "last_updated": "2024-07-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2016/12/15/4",
+  "official_journal": "Diario Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley busca que la gestión pública en Castilla-La Mancha sea totalmente abierta y auditable por cualquier ciudadano. Obliga a las instituciones a publicar sus agendas, cuentas bancarias y datos de forma abierta para evitar la opacidad. Además, extiende estas exigencias de transparencia a empresas privadas que gestionen dinero público mediante subvenciones o contratos. Finalmente, crea un organismo independiente para supervisar que se cumplan estos derechos y sancionar los incumplimientos.",
+  "citizen_impact": "El ciudadano gana el derecho de saber en qué gastan el dinero los políticos (agendas y cuentas bancarias) y puede reclamar ante un órgano independiente (Consejo Regional de Transparencia) si la administración le oculta información. También permite el uso de datos públicos para nuevos proyectos gracias a su formato abierto.",
+  "professional_impact": "Las empresas que reciban subvenciones superiores a 60.000€ o contratos de más de 100.000€ anuales deben cumplir con deberes de publicidad activa. Los adjudicatarios de contratos públicos tienen la obligación de entregar información solicitada en un plazo de 15 días, bajo riesgo de multas coercitivas. Los grupos de interés (lobbies) deben registrarse obligatoriamente para influir en políticas públicas.",
+  "keywords": [
+    "transparencia",
+    "buen gobierno",
+    "acceso a la información",
+    "datos abiertos",
+    "lobbies",
+    "control de subvenciones",
+    "Castilla-La Mancha"
+  ],
+  "key_points": [
+    "Obligación de publicar las agendas de trabajo de los titulares de órganos directivos y de apoyo.",
+    "Publicidad obligatoria de las cuentas bancarias y saldos de entes del sector público regional.",
+    "Las entidades privadas con subvenciones >60.000€ o contratos >100.000€ anuales están sujetas a deberes de publicidad.",
+    "Creación de un registro obligatorio para grupos de interés (lobbies) que influyan en políticas públicas.",
+    "Los datos públicos deben ofrecerse en formatos abiertos, actualizados y clasificados para su reutilización.",
+    "Creación del Consejo Regional de Transparencia y Buen Gobierno como órgano independiente de supervisión y resolución de reclamaciones.",
+    "Sanciones económicas de hasta 12.000 euros para altos cargos y entidades que incumplan sus deberes.",
+    "La Administración debe elaborar 'Cartas de Servicio' con compromisos de calidad cuantificables para los usuarios."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 19/2013, de 9 de diciembre",
+    "Ley 30/1992, de 26 de diciembre",
+    "Ley 37/2007, de 16 de noviembre",
+    "Ley 39/2015, de 1 de octubre",
+    "Ley 40/2015, de 1 de octubre",
+    "Directiva 2013/37/UE",
+    "Estatuto de Autonomía de Castilla-La Mancha",
+    "Ley 37/2007, de 16 de noviembre, sobre la reutilización de la información del sector público",
+    "Ley 2/2023, de 20 de febrero"
+  ],
+  "derogations": [
+    "Decreto 108/1983, de 21 de junio",
+    "Disposición adicional séptima (Declaración responsable sobre los principios de buen gobierno)",
+    "Disposición transitoria segunda (Órganos competentes hasta la creación de las unidades de transparencia)"
+  ],
+  "main_obligations": "Las entidades privadas con subvenciones >60.000€ o contratos >100.000€ deben cumplir con la publicidad activa. Los adjudicatarios de contratos deben entregar información en 15 días tras requerimiento y los grupos de interés deben inscribirse en el registro para acceder a altos cargos.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Suministro de información por parte de adjudicatarios y beneficiarios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requerimiento de información",
+          "description": "La administración solicita información necesaria para el cumplimiento de la publicidad activa.",
+          "start_date": "Desde el requerimiento",
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Imposición de multa coercitiva",
+          "description": "En caso de incumplimiento, se puede imponer una multa reiterada cada 15 días hasta el cumplimiento.",
+          "start_date": "Tras el vencimiento del plazo",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acceso a la información pública",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de acceso",
+          "description": "El ciudadano presenta una solicitud de acceso a la información pública.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "La administración debe resolver la solicitud, indicando motivos en caso de denegación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

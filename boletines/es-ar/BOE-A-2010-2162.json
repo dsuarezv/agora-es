@@ -1,0 +1,107 @@
+{
+  "identifier": "BOE-A-2010-2162",
+  "title": "Ley 11/2009, de 30 de diciembre, de la Cámara de Cuentas de Aragón",
+  "visible_title": "Ley de la Cámara de Cuentas de Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "11/2009",
+  "publication_date": "2010-02-10",
+  "enactment_date": "2009-12-30",
+  "last_updated": "2009-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2009/12/30/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley transforma la Cámara de Cuentas de Aragón de un órgano unipersonal a uno colegiado compuesto por tres miembros para garantizar su independencia. Su objetivo es fiscalizar de forma externa y técnica la gestión económica, financiera y operativa de todo el sector público aragonés, incluyendo entidades locales. Con esta norma, Aragón refuerza su autonomía financiera y asegura la transparencia en el uso de los fondos públicos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Los gestores de la administración autonómica y local, así como directivos de empresas y fundaciones públicas, quedan sujetos a una fiscalización externa más rigurosa. Estos profesionales deben garantizar la transparencia y legalidad de sus cuentas, ya que la Cámara tiene potestad para investigar irregularidades y remitirlas a la Fiscalía.",
+  "keywords": [
+    "Cámara de Cuentas de Aragón",
+    "fiscalización externa",
+    "control de cuentas",
+    "sector público aragonés",
+    "transparencia financiera",
+    "auditoría pública"
+  ],
+  "key_points": [
+    "Cambio de modelo: La Cámara pasa de ser unipersonal a un órgano colegiado de tres miembros.",
+    "Independencia total: El órgano depende directamente de las Cortes de Aragón y actúa con plena autonomía frente a la Administración.",
+    "Alcance amplio: Controla no solo a la administración autonómica, sino también a ayuntamientos, diputaciones, consorcios y empresas públicas.",
+    "Fiscalización de ayudas: La Cámara puede inspeccionar la contabilidad de particulares o empresas que reciban subvenciones o ayudas públicas.",
+    "Mandato de 6 años: Los miembros son elegidos por las Cortes de Aragón para periodos de seis años.",
+    "Potestad de denuncia: Si se detectan indicios de delitos o responsabilidad contable, la Cámara debe informar inmediatamente a la Fiscalía o al Tribunal de Cuentas."
+  ],
+  "legal_references": [
+    "Ley 10/2001, de 18 de junio, de creación de la Cámara de Cuentas de Aragón",
+    "Estatuto de Autonomía de Aragón (Ley Orgánica 5/2007)",
+    "Constitución Española"
+  ],
+  "derogatons": [
+    "Ley 10/2001, de 18 de junio, de creación de la Cámara de Cuentas de Aragón"
+  ],
+  "main_obligations": "Las entidades del sector público aragonés deben presentar sus cuentas generales (autonómicas antes del 30 de junio; locales antes del 15 de octubre) para su revisión. Los entes controlados están obligados a colaborar con la Cámara, facilitando toda la documentación requerida bajo riesgo de ser reportados ante las Cortes.",
+  "effective_date": "2010-02-20",
+  "procedures": [
+    {
+      "name": "Constitución de la Cámara de Cuentas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elección y nombramiento de miembros",
+          "description": "Proceso de elección de los tres miembros por parte de las Cortes de Aragón.",
+          "start_date": "dentro de los 3 meses siguientes a la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aprobación del Reglamento",
+          "description": "El Consejo debe elevar el proyecto de Reglamento de Organización y Funcionamiento a las Cortes.",
+          "start_date": "3 meses después de la constitución",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Fiscalización",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación del programa anual",
+          "description": "La Cámara define qué se va a fiscalizar cada año tras consultar a las Cortes.",
+          "start_date": "anualmente",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Notificación de actuación",
+          "description": "Se comunica a la administración o entidad que va a ser controlada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Audiencia previa",
+          "description": "Plazo para que el ente controlado presente alegaciones antes del informe final.",
+          "start_date": "30 días naturales",
+          "end_date": "prorrogable por otros 30 días",
+          "required_documentation": "Alegaciones y pruebas"
+        },
+        {
+          "step": 4,
+          "title": "Emisión de informe definitivo",
+          "description": "Resultado de la fiscalización que se remite a las Cortes y al Tribunal de Cuentas.",
+          "start_date": "6 meses tras la presentación de cuentas",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

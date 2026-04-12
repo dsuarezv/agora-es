@@ -1,0 +1,93 @@
+{
+  "identifier": "BOE-A-2020-4794",
+  "title": "Decreto-ley Foral 3/2020, de 15 de abril, por el que se aprueban medidas urgentes para responder al impacto generado por la crisis sanitaria del coronavirus (COVID-19)",
+  "visible_title": "Medidas urgentes para responder al impacto de la crisis sanitaria del COVID-19 en Navarra",
+  "rank": "decreto-ley foral",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "3/2020",
+  "publication_date": "2020-05-04",
+  "enactment_date": "2020-04-15",
+  "last_updated": "2020-06-23",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/dlf/2020/04/15/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Este decreto implementa un tercer paquete de medidas de emergencia en Navarra para mitigar los efectos económicos y sociales de la pandemia. Se centra en proporcionar ayudas directas a autónomos, agilizar la gestión de la administración pública y reforzar la investigación científica. Además, busca garantizar la liquidez de los servicios sociales y la seguridad laboral en la vuelta al trabajo.",
+  "citizen_impact": "Los autónomos navarros pueden recibir ayudas directas de hasta 2.200€ o 800€ según su situación y renta familiar. También se facilita la gestión de donaciones para la crisis y se refuerza la atención en residencias de mayores.",
+  "professional_impact": "Los autónomos deben cumplir requisitos de residencia, alta en impuestos y límites de renta para acceder a las ayudas. Las empresas y servicios de prevención deben coordinarse bajo la supervisión del ISP LN para garantizar una vuelta al trabajo segura. Los gestores públicos tienen ahora mayor flexibilidad para realizar pagos anticipados en contratos de suministros COVID-19.",
+  "keywords": [
+    "COVID-19",
+    "ayudas autónomos",
+    "Navarra",
+    "crisis sanitaria",
+    "servicios sociales",
+    "investigación científica",
+    "seguridad laboral"
+  ],
+  "key_points": [
+    "Ayuda directa de 2.200€ para autónomos con prestación por cese de actividad que cumplan requisitos de renta y residencia.",
+    "Ayuda de 700€ u 800€ para autónomos que no hayan solicitado la prestación de cese pero hayan sufrido una caída de facturación del 30%.",
+    "Posibilidad de pagar anticipadamente contratos de suministros y equipamiento para combatir la enfermedad.",
+    "Creación de la figura del Responsable de la Coordinación Asistencial Ejecutiva en residencias de mayores.",
+    "Agilización de donaciones económicas mediante modelos de carta de pago sin necesidad de resolución previa de aceptación.",
+    "Financiación extraordinaria para entidades locales para atender necesidades sociales urgentes.",
+    "Autorización para financiar proyectos de investigación sobre COVID-19 que no hayan obtenido fondos del Instituto de Salud Carlos III.",
+    "Coordinación ejecutiva de todos los servicios de prevención de riesgos laborales por parte del ISP LN para la vuelta al trabajo."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020",
+    "Real Decreto 465/2020",
+    "Real Decreto 476/2020",
+    "Real Decreto 487/2020",
+    "Decreto-ley Foral 1/2020",
+    "Decreto-ley Foral 2/2020",
+    "Ley Foral 6/2020",
+    "Ley Foral 7/2020",
+    "Decreto Foral 32/2013",
+    "Ley 7/1985",
+    "Real Decreto-ley 10/2020",
+    "Real Decreto-ley 11/2020",
+    "Ley Foral 13/2007",
+    "Ley 33/2011",
+    "Ley Foral 11/2005"
+  ],
+  "derogations": [
+    "Apartado 3 del artículo 19 de la Ley Foral 6/2020"
+  ],
+  "main_obligations": "Los autónomos que perciban la ayuda de 2.200€ deben permanecer de alta en la Seguridad Social y en el IAE durante 12 meses tras finalizar la prestación, bajo riesgo de reintegro proporcional. Las solicitudes de ayuda deben presentarse telemáticamente.",
+  "effective_date": "2020-04-15",
+  "procedures": [
+    {
+      "name": "Solicitud de ayudas directas para autónomos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Solicitud telemática de la ayuda directa extraordinaria.",
+          "start_date": "2020-04-15",
+          "end_date": "2020-05-31",
+          "required_documentation": "Declaración jurada de cumplimiento de requisitos y documentación contable que acredite la reducción de facturación (si aplica)."
+        },
+        {
+          "step": 2,
+          "title": "Resolución provisional",
+          "description": "El Departamento de Desarrollo Económico y Empresarial dicta resolución provisional.",
+          "start_date": "Desde la solicitud",
+          "end_date": "3 meses después de la solicitud",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Revisión y resolución definitiva",
+          "description": "Revisión de las resoluciones provisionales y cumplimiento de requisitos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

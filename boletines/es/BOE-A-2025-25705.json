@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-2025-25705",
+  "title": "Orden APA/1454/2025, de 5 de diciembre, por la que se establece la marca de calidad y se determina el procedimiento de aplicación y ensayo de los sistemas de autoguiado utilizados en máquinas agrícolas y forestales",
+  "visible_title": "Marca de calidad para sistemas de autoguiado en máquinas agrícolas y forestales",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio de Agricultura, Pesca y Alimentación",
+  "official_number": "APA/1454/2025",
+  "publication_date": "2025-12-16",
+  "enactment_date": "2025-12-05",
+  "last_updated": "2025-12-16",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2025/12/05/apa1454",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "301",
+  "summary": "Esta norma crea una marca de calidad oficial para los sistemas de navegación por satélite (GNSS) que permiten la conducción autónoma o semiautónoma de maquinaria agrícola y forestal. El objetivo es certificar la precisión y eficiencia de estos sistemas mediante ensayos técnicos rigurosos. Con esto, se busca que los agricultores puedan identificar equipos que realmente optimicen sus labores y reduzcan errores en el campo.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes.",
+  "professional_impact": "Los fabricantes de maquinaria y sistemas de autoguiado deberán someter sus productos a ensayos en laboratorios oficiales para obtener la marca. Esto supone una nueva oportunidad de certificación comercial, pero también la necesidad de cumplir con protocolos técnicos estrictos y asumir los costes de los ensayos y la provisión de maquinaria para las pruebas.",
+  "keywords": [
+    "maquinaria agrícola",
+    "sistemas de autoguiado",
+    "GNSS",
+    "marca de calidad",
+    "agricultura de precisión",
+    "ensayos técnicos",
+    "sector forestal"
+  ],
+  "key_points": [
+    "Creación de una marca de calidad para sistemas de autoguiado (AGS) basada en su precisión (centimétrica o submétrica).",
+    "Los sistemas deben tener obligatoriamente el marcado CE y la declaración de conformidad CE para optar a la marca.",
+    "Se establece una lista pública con los modelos certificados, su calificación (excelente, muy buena o buena) y sus componentes.",
+    "Los ensayos evalúan dos parámetros: el error de pasada a pasada (dinámico) y el error de repetitividad (estático).",
+    "La evaluación se basa en la norma internacional ISO 12188-2:2012.",
+    "Los fabricantes deben proporcionar la maquinaria (tractor o máquina) para realizar las pruebas en laboratorios designados."
+  ],
+  "legal_references": [
+    "Real Decreto 448/2020, de 10 de marzo",
+    "Real Decreto 488/2020, de 10 de marzo",
+    "Ley 50/1997, de 27 de noviembre",
+    "Ley 39/2015, de 1 de octubre",
+    "Constitución Española"
+  ],
+  "derogations": [],
+  "main_obligations": "Los fabricantes que deseen la marca deben solicitar el ensayo, declarar la tecnología (centimétrica o submétrica) y proporcionar la maquinaria necesaria para las pruebas. Los sistemas certificados deben cumplir con los estándares de error establecidos en los anexos para obtener la calificación correspondiente.",
+  "effective_date": "2025-12-17",
+  "procedures": [
+    {
+      "name": "Procedimiento de obtención de la marca de calidad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de ensayo",
+          "descrption": "El fabricante solicita el ensayo declarando el tipo de tecnología y la corrección de señal a emplear.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración del tipo de tecnología y corrección de señal"
+        },
+        {
+          "step": 2,
+          "title": "Realización de ensayos parciales",
+          "descrption": "Ejecución de pruebas en pista recta y curva a distintas velocidades (lenta, media, rápida) durante un periodo de 48 horas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Evaluación y calificación",
+          "descrption": "Cálculo de los errores de clase 95% para determinar si la calificación es Buena, Muy buena o Excelente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Emisión de certificado e inclusión en lista pública",
+          "descrption": "Se emite el certificado y se incluye el sistema en la lista global de la web del Ministerio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

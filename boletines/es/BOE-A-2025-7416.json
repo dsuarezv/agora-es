@@ -1,0 +1,82 @@
+{
+  "identifier": "BOE-A-2025-7416",
+  "title": "Resolución de 4 de abril de 2025, del Instituto Social de la Marina, por la que se regula el botiquín a bordo de determinados buques",
+  "visible_title": "Regulación de botiquines sanitarios para buques pesqueros",
+  "rank": "resolución",
+  "country": "es",
+  "department": "Instituto Social de la Marina",
+  "official_number": "BOE-A-2025-7416",
+  "publication_date": "2025-04-11",
+  "enactment_date": "2025-04-04",
+  "last_updated": "2025-04-11",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/res/2025/04/04/(4)",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "88",
+  "summary": "Esta resolución adapta los requisitos de los botiquines médicos a bordo de buques pesqueros que cambian su zona de actividad o clasificación, especialmente para la pesca de túnidos. Establece nuevos tipos de botiquines (como el tipo B adaptado) según la distancia de navegación de la costa. Además, aumenta la dotación de fármacos en buques con tripulaciones numerosas para garantizar una atención médica adecuada en alta mar.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta directamente a armadores y tripulaciones del sector pesquero, quienes deberán cumplir con nuevas dotaciones de material sanitario y contenedores específicos. Las empresas que amplíen su zona de navegación deberán gestionar nuevos tipos de botiquines y someterse a revisiones sanitarias para obtener el certificado de validez correspondiente.",
+  "keywords": [
+    "botiquín de a bordo",
+    "pesca de túnidos",
+    "seguridad marítima",
+    "material sanitario",
+    "Instituto Social de la Marina",
+    "buques pesqueros"
+  ],
+  "key_points": [
+    "Creación del botiquín tipo B adaptado para embarcaciones de pesca litoral que naveguen entre 60 y 140 millas de la costa.",
+    "Obligación de usar contenedores rígidos, estancos y de color naranja para el botiquín tipo B adaptado.",
+    "Los buques con botiquín tipo A y más de 35 tripulantes deben añadir un envase de fármacos/material por cada 10 trabajadores adicionales.",
+    "Los buques que operen temporalmente en el Atlántico Norte (campañas de hasta 4 meses) deben elevar su dotación al estándar de botiquín tipo A.",
+    "Las revisiones de los botiquines deben ser realizadas por personal sanitario designado por el Instituto Social de la Marina."
+  ],
+  "legal_references": [
+    "Real Decreto 258/1999",
+    "Real Decreto 1120/2021",
+    "Real Decreto 119/2024",
+    "Real Decreto 543/2007",
+    "Real Decreto 504/2011",
+    "Ley 39/2015",
+    "Ley 29/1998",
+    "Ley Orgánica 3/2018",
+    "Convenio n.º 164 de la OIT",
+    "Directiva 92/29/CEE"
+  ],
+  "derogations": [],
+  "main_obligations": "Los buques pesqueros deben disponer de un botiquín cuya dotación y contenedor se ajusten estrictamente a su zona de navegación y número de tripulantes. Es obligatorio contar con un certificado de validez emitido tras la revisión sanitaria para asegurar que el material no está caducado y está correctamente almacenado.",
+  "effective_date": "2025-04-12",
+  "procedures": [
+    {
+      "name": "Revisión de botiquines tipo B adaptado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inspección sanitaria",
+          "descrption": "Verificación de identidad, señalización, dotación, estado de conservación, fechas de caducidad y almacenamiento por personal sanitario del ISM.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Botiquín y elementos constitutivos según Anexo I"
+        },
+        {
+          "step": 2,
+          "title": "Expedición de certificado",
+          "descrption": "Emisión del certificado de validez del botiquín tras la inspección satisfactoria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Recurso de alzada",
+          "descrption": "En caso de disconformidad con el resultado de la revisión, se puede interponer recurso ante la Dirección Provincial del ISM.",
+          "start_date": "1 mes desde la notificación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

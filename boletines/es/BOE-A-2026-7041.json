@@ -1,0 +1,91 @@
+{
+  "identifier": "BOE-A-2026-7041",
+  "title": "Orden HAC/277/2026, de 25 de marzo, por la que se aprueban los modelos de declaración del Impuesto sobre la Renta de las Personas Físicas y del Impuesto sobre el Patrimonio, ejercicio 2025, se determinan el lugar, forma y plazos de presentación de los mismos, se establecen los procedimientos de obtención, modificación, confirmación y presentación del borrador de declaración del Impuesto sobre la Renta de las Personas Físicas y se determinan las condiciones generales y el procedimiento para la presentación de ambos por medios electrónicos",
+  "visible_title": "Modelos de declaración del IRPF y del Impuesto sobre el Patrimonio para el ejercicio 2025",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio de Hacienda",
+  "official_number": "HAC/277/2026",
+  "publication_date": "2026-03-27",
+  "enactment_date": "2026-03-25",
+  "last_updated": "2026-03-27",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2026/03/25/hac277",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "76",
+  "summary": "Esta norma establece la estructura técnica y los modelos oficiales para presentar la declaración de la Renta (IRPF) y el Impuesto sobre el Patrimonio correspondientes al ejercicio 2025. Define los plazos de presentación, los métodos de identificación electrónica permitidos y las nuevas casillas para aplicar beneficios fiscales específicos. Además, regula los procedimientos para gestionar el borrador de la declaración y las modalidades de pago o devolución de dinero.",
+  "citizen_impact": "Los ciudadanos deberán presentar sus impuestos entre el 8 de abril y el 30 de junio de 2026. Se introducen mejoras como el servicio 'Renta Directa' para quienes no necesiten cambios en el borrador y nuevas deducciones por eficiencia energética y movilidad eléctrica. También se facilita el pago mediante Bizum o tarjeta de crédito.",
+  "professional_impact": "Los asesores fiscales y gestores deberán adaptarse a las nuevas casillas para actividades artísticas y a los cambios en el régimen de estimación directa y objetiva. Los autónomos verán reflejadas las regularizaciones de cuotas de la Seguridad Social en los modelos. Se requiere conocimiento de los nuevos límites para la deducción por obtención de rendimiento del trabajo tras la subida del SMI.",
+  "keywords": [
+    "IRPF",
+    "Impuesto sobre el Patrimonio",
+    "Campaña de Renta 2025",
+    "Borrador de la declaración",
+    "Modelos tributarios",
+    "Agencia Tributaria"
+  ],
+  "key_points": [
+    "Plazo de presentación de la Renta y Patrimonio: del 8 de abril al 30 de junio de 2026.",
+    "Nueva deducción por obtención de rendimiento del trabajo para rentas inferiores a 18.276 euros anuales.",
+    "Reducción del 30% para rendimientos excepcionales de actividades artísticas que excedan el 130% de la media de los tres años anteriores.",
+    "Prórroga de la deducción por adquisición de vehículos eléctricos 'enchufaibles' (MOVEES III) para 2025.",
+    "Implementación del servicio 'Renta Directa' para una presentación simplificada sin cambios en el borrador.",
+    "Nuevas casillas para la regularización de cuotas de autónomos en el modelo de estimación directa.",
+    "Posibilidad de pagar la deuda tributaria mediante Bizum o transferencia instantánea.",
+    "Adaptación del Impuesto sobre el Patrimonio a la doctrina del Tribunal Supremo sobre la residencia habitual."
+  ],
+  "legal_references": [
+    "Ley 35/2006 (IRPF)",
+    "Ley 19/1991 (Impuesto sobre el Patrimonio)",
+    "Ley 22/2009 (Financiación de Comunidades Autónomas)",
+    "Ley 19/2021 (Ingreso Mínimo Vital)",
+    "Real Decreto-ley 16/2025",
+    "Real Decreto-ley 7/2026",
+    "Real Decreto-ley 3/2025 (MOVEES III)",
+    "Real Decreto-ley 13/2025 (La Palma)"
+  ],
+  "derogations": [],
+  "main_obligations": "Presentar la declaración de la Renta y/o del Patrimonio entre el 8 de abril y el 30 de junio de 2026. Los autónomos están obligados a declarar siempre que hayan estado de alta en el RETA durante el periodo.",
+  "effective_date": "2026-03-28",
+  "procedures": [
+    {
+      "name": "Campaña de presentación de declaraciones (IRPF y Patrimonio)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Obtención del borrador o datos fiscales",
+          "description": "Acceso a la información fiscal mediante certificado, Cl@ve o número de referencia.",
+          "start_date": "2026-04-08",
+          "end_date": "2026-06-30",
+          "required_documentation": "NIF, fecha de caducidad DNI/NIE y casilla 505 de la declaración 2024 (si aplica)."
+        },
+        {
+          "step": 2,
+          "title": "Modificación, confirmación y presentación",
+          "description": "Revisión de datos, corrección de errores y envío telemático de la declaración.",
+          "start_date": "2026-04-08",
+          "end_date": "2026-06-30",
+          "required_documentation": "Documentación adicional según el caso (transparencia fiscal, inversiones en Canarias/Baleares, etc.)."
+        },
+        {
+          "step": 3,
+          "title": "Pago de la deuda tributaria",
+          "description": "Liquidación del importe a ingresar mediante domiciliación, tarjeta, Bizum o NRC.",
+          "start_date": "2026-04-08",
+          "end_date": "2026-06-30",
+          "required_documentation": "IBAN para domiciliación."
+        },
+        {
+          "step": 4,
+          "title": "Fraccionamiento del pago (IRPF)",
+          "description": "Pago del 60% en la presentación y el 40% restante en un segundo plazo.",
+          "start_date": "2026-04-08",
+          "end_date": "2026-11-05",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

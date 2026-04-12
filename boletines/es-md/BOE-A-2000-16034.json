@@ -1,0 +1,108 @@
+{
+  "identifier": "BOE-A-2000-16034",
+  "title": "Ley 9/2000, de 30 de junio, de Mutualidades de Prevención Social",
+  "visible_title": "Ley de Mutualidades de Previsión Social",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "9/2000",
+  "publication_date": "2000-08-26",
+  "enactment_date": "2000-06-30",
+  "last_updated": "2000-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2000/06/30/9",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley regula y fomenta las mutualidades de previsión social en la Comunidad de Madrid como una alternativa voluntaria y complementaria a la Seguridad Social. Establece las reglas para su funcionamiento, su estructura interna y los requisitos para operar como entidades de previsión social. Busca potenciar la economía social permitiendo que estas entidades cubran riesgos de vida, salud y protección de bienes para sus asociados.",
+  "citizen_impact": "Permite a los ciudadanos de Madrid acceder a sistemas de previsión social privados y voluntarios para complementar su jubilación o cubrir riesgos de salud y accidentes. Ofrece una opción de ahorro y protección gestionada por entidades sin ánimo de lucro.",
+  "professional_impact": "Afecta a profesionales, autónomos y pequeñas empresas que pueden constituir o integrarse en mutualidades para gestionar sus pensiones y riesgos. Impone a estas entidades requisitos estrictos de solvencia, fondos mutuales y supervisión administrativa por parte de la Comunidad de Madrid.",
+  "keywords": [
+    "mutualidades de previsión social",
+    "previsión social complementaria",
+    "economía social",
+    "seguros de vida",
+    "Comunidad de Madrid",
+    "riesgos sociales"
+  ],
+  "key_points": [
+    "Las mutualidades deben ser entidades sin ánimo de lucro y de incorporación voluntaria.",
+    "Se establece la obligación de tener un fondo mutual mínimo para garantizar la solvencia.",
+    "Las entidades pueden cubrir riesgos de muerte, jubilación, accidentes, enfermedad y también riesgos sobre bienes (viviendas de protección oficial, maquinaria de autónomos, etc.).",
+    "Para ampliar prestaciones más allá de los riesgos básicos, se requiere una autorización administrativa específica tras 5 años de actividad.",
+    "La gestión debe ser democrática, con una Asamblea General donde cada mutualista tiene derecho a un voto.",
+    "Se permite la creación de agrupaciones y una Federación Madrileña de Mutualidades para representar sus intereses.",
+    "Los empresarios pueden usar estas mutualidades como instrumentos para gestionar los compromisos de pensiones con sus trabajadores."
+  ],
+  "legal_references": [
+    "Ley 33/1984, de 2 de agosto, sobre Ordenación del Seguro Privado",
+    "Ley 30/1995, de 8 de noviembre, de Ordenación y Supervisión de los Seguros Privados",
+    "Estatuto de Autonomía de la Comunidad de Madrid",
+    "Ley de Contrato de Seguro",
+    "Ley 8/1987, de 8 de junio, de regulación de los Planes y Fondos de Pensiones"
+  ],
+  "derogations": [],
+  "main_obligations": "Las mutualidades deben mantener un fondo mutual permanente (mínimo de 5.000.000 de pesetas) y cumplir con los requisitos de solvencia y provisiones técnicas exigidos por la normativa estatal. Deben inscribirse en el Registro administrativo de la Comunidad de Madrid para operar legalmente.",
+  "effective_date": "2000-08-26",
+  "procedures": [
+    {
+      "name": "Autorización administrativa para el ejercicio de la actividad de mutualismo de previsión social",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Constitución de la entidad",
+          "description": "Otorgamiento de escritura pública e inscripción en el Registro Mercantil para adquirir personalidad jurídica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública de constitución y estatutos sociales"
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de autorización",
+          "description": "Presentación de la solicitud ante la Consejería competente detallando el programa de actividades y garantías financieras.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Programa de actividades, acreditación de fondo mutual y fondo de garantía"
+        },
+        {
+          "step": 3,
+          "title": "Informe de la Administración General del Estado",
+          "description": "La Consejería debe solicitar informe al Estado; si no se emite en 6 meses, se considera conformidad.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Inscripción en el Registro",
+          "description": "Una vez concedida la autorización, se procede a la inscripción en el Registro de mutualidades de la Comunidad de Madrid.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización de ampliación de prestaciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cumplimiento de requisitos previos",
+          "description": "Haber operado al menos 5 años y poseer autorización válida en el Espacio Económico Europeo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de ampliación",
+          "description": "Solicitud dirigida a la Dirección General de Seguros o autoridad autonómica con acreditación de solvencia reforzada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite margen de solvencia y fondo de garantía de mutua a prima fija"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

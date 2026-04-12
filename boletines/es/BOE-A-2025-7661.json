@@ -1,0 +1,262 @@
+{
+  "identifier": "BOE-A-2025-7661",
+  "title": "Circular 2/2025, de 9 de abril, de la Comisión Nacional de los Mercados y la Competencia, por la que se establece la metodología y condiciones de acceso y asignación de capacidad en el sistema de gas natural",
+  "visible_title": "Metodología y condiciones de acceso y asignación de capacidad en el sistema de gas natural",
+  "rank": "circular",
+  "country": "es",
+  "department": "Comisión Nacional de los Mercados y la Competencia",
+  "official_number": "2/2025",
+  "publication_date": "2025-04-16",
+  "enactment_date": "2025-04-09",
+  "last_updated": "2025-04-16",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/cir/2025/04/09/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "92",
+  "summary": "Esta norma moderniza el acceso a la red de gas en España para permitir la integración de energías renovables y gases bajos en carbono, alineándose con los objetivos de descarbonización europeos. Introduce nuevos mecanismos de subasta y gestión de capacidad para evitar que las infraestructuras queden infrautilizadas o sean acaparadas. Establece reglas estrictas de uso y penalizaciones económicas por no utilizar la capacidad contratada, especialmente en plantas de regasificación. Además, regula la conexión de nuevas plantas de producción de gases sostenibles y crea una plataforma digital para agilizar estos trámites.",
+  "citizen_impact": "Sin impacto directo en ciudadanos, aunque la eficiencia de la red y la integración de energías limpias pueden influir indirectamente en la transición energética y la estabilidad del suministro a largo plazo.",
+  "professional_impact": "Afecta directamente a operadores de transporte y distribución, empresas de regasificación, productores de gas natural y de gases renovables/bajos en carbono. Las empresas deben adaptarse a nuevos modelos de subasta (algoritmos de reloj), cumplir con garantías financieras más estrictas (mínimo 50.000€), gestionar slots de regasificación con antelación y utilizar la nueva plataforma SL-ATR para sus gestiones.",
+  "keywords": [
+    "gas natural",
+    "capacidad de red",
+    "gases renovables",
+    "descarbonización",
+    "CNMC",
+    "subastas de capacidad",
+    "regasificación",
+    "infraestructura energética"
+  ],
+  "key_points": [
+    "Integración de gases renovables y bajos en carbono mediante un marco específico de conexión a la red.",
+    "Implementación de la 'capacidad condicionada' para nuevos gases, sujeta a la calidad y flujo de la red.",
+    "Nuevos productos de contratación de capacidad con mayor flexibilidad (anuales, trimestrales, mensuales, diarios e intradia).",
+    "Uso de algoritmos de reloj ascendente para subastas de productos largos y precio uniforme para productos cortos.",
+    "Mecanismo de 'uso o pérdida': si la contratación supera el 80% de la capacidad nominal, se pueden aplicar medidas para liberar infraestructura infrautilizada.",
+    "Penalizaciones severas por no uso de slots de regasificación (hasta 6 millones de euros) o impagos de peaajes superiores a 500.000 euros.",
+    "Creación del Sistema Logístico de Acceso de Terceros a la Red (SL-ATR) como plataforma oficial de gestión.",
+    "Posibilidad de contratos de duración indefinida para la salida de capacidad hacia consumidores finales.",
+    "Existencia de un mercado secundario para la compraventa o subarriendo de capacidad entre usuarios.",
+    "Nuevas reglas de garantías financieras: dos meses de peaje para contratos largos y la totalidad del tiempo para contratos cortos."
+  ],
+  "legal_references": [
+    "Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos",
+    "Real Decreto 949/2001, de 3 de agosto",
+    "Real Decreto-ley 1/2019, de 11 de enero",
+    "Ley 3/2013, de 4 de junio, de creación de la CNMC",
+    "Circular 8/2019, de 12 de diciembre, de la CNMC",
+    "Circular 9/2021, de 15 de diciembre, de la CNMC",
+    "Reglamento (UE) 2024/1789",
+    "Directiva (UE) 2024/1788",
+    "Real Decreto-ley 14/2022, de 1 de agosto",
+    "Real Decreto 1434/2002, de 27 de diciembre",
+    "Ley 39/2015, de 1 de octubre",
+    "Circular 2/2020, de 9 de enero, de la CNMC",
+    "Resolución de 10 de noviembre de 2022, de la CNMC",
+    "Resolución de 2 de agosto de 2016, de la Secretaría de Estado de Energía"
+  ],
+  "derogations": [
+    "Circular 8/2019, de 12 de diciembre, de la CNMC"
+  ],
+  "main_obligations": "Los usuarios deben constituir garantías financieras (mínimo 50.000€) según la duración del contrato y mantenerlas actualizadas bajo riesgo de suspensión en 10 días hábiles. Las plantas de producción de otros gases deben garantizar el presupuesto de conexión en 30 días hábiles si no hay acuerdo con el titular de la red.",
+  "effective_date": "2025-04-16",
+  "procedures": [
+    {
+      "name": "Conexión de plantas de producción de otros gases (que necesitan mezclarse)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Fase de intención",
+          "description": "Los promotores remiten información sobre su intención de conectar la planta al gestor técnico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Información sobre la intención de conexión"
+        },
+        {
+          "step": 2,
+          "title": "Fase de solicitud",
+          "description": "Los promotores envían la solicitud formal de conexión al titular de la red de transporte o distribución.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud de conexión"
+        },
+        {
+          "step": 3,
+          "title": "Fase de decisión",
+          "description": "Los operadores comunican la aceptación o denegación de la solicitud y la capacidad condicionada asignada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acceso a la capacidad de salida para consumidores finales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de acceso",
+          "description": "El suministrador realiza la solicitud a través de la plataforma habilitada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Validación de garantías",
+          "description": "El gestor técnico del sistema comprueba que las garantías del suministrador son suficientes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de altas/modificaciones (sin cambio de comercializador)",
+          "description": "Comprobación de capacidad disponible por parte del operador.",
+          "start_date": null,
+          "end_date": "5 días (productos mensuales: 2 días; diarios/intradiarios: 1 hora)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Asignación de productos de capacidad firme (Subastas)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recepción de solicitudes",
+          "description": "Periodo inicial para que los sujetos remitan solicitudes independientes por cada producto.",
+          "start_date": "Según calendario del gestor técnico",
+          "end_date": null,
+          "required_documentation": "Formularios estándar según el tipo de producto"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la subasta",
+          "description": "Aplicación de algoritmos (reloj ascendente o precio uniforme) para la adjudicación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Generación de obligación contractual",
+          "description": "La plataforma genera automáticamente el contrato vinculante entre operador, gestor y usuario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Modificación de slots contratados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de cambio",
+          "description": "Solicitud de modificación de localización, fecha o tamaño de buque.",
+          "start_date": "Mínimo 5 días antes del inicio del servicio",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Renuncia de capacidad de acceso",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de renuncia",
+          "description": "El usuario comunica la renuncia total o parcial de la capacidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Reasignación",
+          "description": "La capacidad se oferta en el primer proceso posible de mayor duración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Actualización trimestral de garantías para clientes en redes de distribución",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Remisión de información por distribuidoras",
+          "description": "Las distribuidoras envían datos de clientes y consumos al gestor técnico.",
+          "start_date": "Antes del quinto día hábil del mes anterior a la actualización",
+          "end_date": null,
+          "required_documentation": "Datos de usuarios del PVB, grupos tarifarios, número de clientes y caudales contratados."
+        },
+        {
+          "step": 2,
+          "title": "Cálculo y notificación de garantías provisionales",
+          "description": "El gestor técnico calcula el importe y comunica el resultado al usuario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Periodo de alegaciones",
+          "description": "Plazo para que los usuarios presenten observaciones por disconformidad.",
+          "start_date": "Desde la notificación",
+          "end_date": "15 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución de observaciones",
+          "description": "El gestor y distribuidores responden a las alegaciones.",
+          "start_date": null,
+          "end_date": "5 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Notificación de garantías definitivas",
+          "description": "Envío de los requerimientos finales al Gestor de Garantías.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Cumplimiento",
+          "description": "El usuario debe constituir las garantías definitivas.",
+          "start_date": null,
+          "end_date": "5 días hábiles desde la notificación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Conexión de plantas de producción de otros gases",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Negociación de condiciones",
+          "description": "Pacto libre entre solicitante y titular de la red sobre pagos y garantías.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Constitución de garantía (en caso de falta de acuerdo)",
+          "description": "Garantía equivalente al presupuesto de conexión no abonado.",
+          "start_date": "Desde la notificación de autorización administrativa",
+          "end_date": "30 días hábiles",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

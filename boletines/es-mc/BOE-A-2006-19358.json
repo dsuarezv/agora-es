@@ -1,0 +1,79 @@
+{
+  "identifier": "BOE-A-2006-19358",
+  "title": "Ley 6/2006, de 21 de julio, sobre incremento de las medidas de ahorro y conservación en el consumo de agua en la Comunidad Autónoma de la Región de Murcia",
+  "visible_title": "Ley sobre incremento de las medidas de ahorro y conservación en el consumo de agua en la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "6/2006",
+  "publication_date": "2006-11-08",
+  "enactment_date": "2006-07-21",
+  "last_updated": "2006-08-09",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2006/07/21/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece medidas obligatorias para reducir el consumo de agua en la Región de Murcia debido al déficit hídrico estructural. Obliga a instalar dispositivos de ahorro en nuevas construcciones, locales públicos e industrias, y regula el uso de aguas no potables para riego y limpieza. Además, prohíbe el vaciado total de piscinas y establece un régimen de sanciones para quienes incumplan estas normas de eficiencia.",
+  "citizen_impact": "Los ciudadanos verán cambios en sus viviendas, ya que las nuevas construcciones o reformas integrales deberán incluir grifos y cisternas de bajo consumo. Como beneficio, quienes adapten sus viviendas antiguas con sistemas de ahorro pueden obtener un 10% de descuento en su factura del agua durante el primer año.",
+  "professional_impact": "Constructores y arquitectos deben incluir obligatoriamente dispositivos de ahorro en sus proyectos para obtener licencias de obra. Las empresas industriales están obligadas a implementar planes de hidroeficiencia y usar sistemas de reciclaje de agua, bajo riesgo de multas de hasta 600.000 euros.",
+  "keywords": [
+    "ahorro de agua",
+    "consumo responsable",
+    "eficiencia hídrica",
+    "Región de Murcia",
+    "instalaciones de agua",
+    "sanciones ambientales"
+  ],
+  "key_points": [
+    "Obligatoriedad de instalar aireadores en grifos (máx. 5 l/min) y reductores en duchas (máx. 8 l/min) en nuevas viviendas.",
+    "Las cisternas de inodoros deben tener un volumen máximo de 7 litros o sistema de doble descarga.",
+    "Prohibición total de vaciar completamente piscinas públicas o privadas.",
+    "Obligación de usar aguas regeneradas o de lluvia para el riego de parques y jardines.",
+    "Las industrias deben presentar planes de ahorro de agua y utilizar sistemas de reciclaje.",
+    "Las nuevas zonas verdes deben incluir programadores de riego, goteo y detectores de humedad.",
+    "Se prohíbe el uso de agua potable para la limpieza de calles, debiendo usarse agua de recursos marginales.",
+    "Descuento del 10% en la factura del agua para viviendas antiguas que se adapten a estas medidas de ahorro."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Ley 7/1985, de 2 de abril, Reguladora de Bases de Régimen Local",
+    "Ley 4/2005, de 14 de junio, del Ente Público del Agua de la Región de Murcia",
+    "Real Decreto 1398/1993, de 4 de diciembre"
+  ],
+  "derogations": [],
+  "main_obligations": "Instalación obligatoria de dispositivos de ahorro en nuevas obras y reformas mayores; prohibición de vaciado de piscinas y de uso de agua potable para limpieza vial. Las infracciones graves pueden conllevar multas de hasta 600.000 euros y la suspensión del suministro de agua.",
+  "effective_date": "2006-07-21",
+  "procedures": [
+    {
+      "name": "Periodos de adaptación normativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adaptación de locales de pública concurrencia",
+          "description": "Plazo para que los locales públicos instalen mecanismos de cierre automático en grifos y carteles de concienciación.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Adaptación de industrias y limpieza vial",
+          "description": "Plazo para que empresas implementen planes de ahorro y se cambien los métodos de limpieza de vías.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Adaptación de redes de distribución",
+          "description": "Plazo para que las redes públicas de distribución implementen sistemas de control de nivel y sectorización.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

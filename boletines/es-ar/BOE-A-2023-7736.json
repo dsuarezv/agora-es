@@ -1,0 +1,117 @@
+{
+  "identifier": "BOE-A-2023-7736",
+  "title": "Ley 7/2023, de 23 de febrero, de medidas para la implantación y desarrollo en Aragón de tecnologías en la nube (tecnologías cloud)",
+  "visible_title": "Medidas para la implantación y desarrollo de tecnologías cloud en Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "7/2023",
+  "publication_date": "2023-03-27",
+  "enactment_date": "2023-02-23",
+  "last_updated": "2023-03-13",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2023/02/23/7",
+  "official_journal": "Boletín Oficial de Aragón",
+  "journal_issue": null,
+  "summary": "Esta ley busca modernizar la administración aragonesa mediante la adopción masiva de servicios en la nube (cloud). Su objetivo es garantizar que los datos públicos se gestionen de forma segura, soberana y sin depender de un único proveedor tecnológico. Para ello, crea un sello de calidad para empresas proveedoras y establece una estrategia obligatoria de migración digital. En definitiva, busca que la tecnología de la región sea más eficiente, sostenible y esté bajo control autonómico.",
+  "citizen_impact": "Aunque no afecta directamente a los trámites cotidianos del ciudadano, mejora la seguridad y disponibilidad de los servicios públicos digitales al asegurar que los datos críticos se gestionen bajo estándares de seguridad estrictos y dentro de la Unión Europea.",
+  "professional_impact": "Las empresas tecnológicas que quieran trabajar con la administración aragonesa deberán obtener el certificado 'Solución Cloud Certificada de Aragón' (SCCA). Los funcionarios y gestores públicos deberán seguir una nueva 'Política Cloud' obligatoria para evitar la dependencia de proveedores (vendor lock-in) y cumplir con requisitos de automatización y sostenibilidad.",
+  "keywords": [
+    "tecnologías cloud",
+    "computación en la nube",
+    "soberanía digital",
+    "Aragón",
+    "certificación SCCA",
+    "seguridad de datos",
+    "administración pública"
+  ],
+  "key_points": [
+    "Creación del certificado 'Solución Cloud Certificada de Aragón' (SCCA) para proveedores con altos estándares de seguridad.",
+    "Implementación de una 'Política Cloud' obligatoria para el sector público para evitar la dependencia de un solo proveedor.",
+    "Exigencia de requisitos técnicos estrictos: automatización (IaC), ciberseguridad (ENS) y sostenibilidad energética.",
+    "Garantía de soberanía digital asegurando que los datos críticos se gestionen en el Espacio Económico Europeo.",
+    "Creación de una Comisión para las tecnologías cloud para coordinar la estrategia administrativa.",
+    "Transformación del Observatorio Aragonés de la Sociedad de la Información en un órgano participativo.",
+    "Elaboración de una Directriz de Política del Dato para regular el acceso y uso de la información autonómica."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Aragón",
+    "Ley 5/2021 de Organización y Régimen Jurídico del Sector Público Autonómico de Aragón",
+    "Ley 7/2001 de creación de la Aragonesa de Servicios Telemáticos",
+    "Ley Orgánica 3/2007 de igualdad efectiva de mujeres y hombres",
+    "Ley 7/2018 de igualdad de oportunidades entre mujeres y hombres en Aragón",
+    "Ley 8/2015 de Transparencia de la Actividad Pública y Participación Ciudadana de Aragón",
+    "Ley 2/2009 del Presidente y del Gobierno de Aragón",
+    "Ley 17/2001 de Marcas",
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de los derechos digitales"
+  ],
+  "derogations": [
+    "Directiva 95/46/CE"
+  ],
+  "main_obligations": "Los proveedores con certificación SCCA deben notificar brechas de seguridad e incidencias de servicio, así como la discontinuidad de productos con al menos 6 meses de antelación. El Gobierno de Aragón debe cumplir plazos de 6 meses para la política cloud y 1 año para la directriz del dato y requisitos técnicos.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Implementación de la Política Cloud y Adaptación Tecnológica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación de la Política cloud del sector público",
+          "description": "El Gobierno de Aragón debe aprobar la política cloud autonómica.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aprobación del Plan de adaptación de infraestructuras",
+          "description": "Aprobación del plan para adaptar las infraestructuras informáticas a la nube.",
+          "start_date": "Aprobación de la Política cloud",
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación del modelo de adhesión",
+          "description": "Aprobación del modelo para adherirse al sistema previsto en la ley.",
+          "start_date": "Aprobación de la Política cloud",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Certificación de Soluciones Cloud y Regulación de Datos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación de requisitos técnicos mínimos",
+          "description": "Publicación de la orden con los requisitos para ser 'Solución Cloud Certificada de Aragón'.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "1 año",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Actualización del Observatorio de la Sociedad de la Información",
+          "description": "Transformación funcional y organizativa del Observatorio.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "1 año",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Elaboración de la Directriz sobre Política del Dato",
+          "description": "Definición de datos compartibles y niveles de accesibilidad.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

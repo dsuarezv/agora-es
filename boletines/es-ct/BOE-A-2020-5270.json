@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-2020-5270",
+  "title": "Decreto-ley 10/2020, de 27 de marzo, por el que se establecen nuevas medidas extraordinarias para hacer frente al impacto sanitario, económico y social del COVID-19",
+  "visible_title": "Medidas extraordinarias para hacer frente al impacto sanitario, económico y social del COVID-19",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "10/2020",
+  "publication_date": "2020-05-25",
+  "enactment_date": "2020-03-27",
+  "last_updated": "2021-12-23",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2020/03/27/10",
+  "official_journal": "Diari Oficial de la Generalitat de Catalunya",
+  "journal_issue": null,
+  "summary": "Esta norma implementa soluciones de emergencia para mitigar los efectos de la pandemia de COVID-19 en Cataluña. Regula la gestión de servicios funerarios ante el aumento de defunciones, suspende actividades de entidades deportivas y permite la digitalización de reuniones en entidades privadas y cooperativas. Además, establece criterios de fuerza mayor para eventos culturales afectados por la crisis sanitaria.",
+  "citizen_impact": "Permite que las reuniones de comunidades de vecinos o asociaciones se realicen por videoconferencia para evitar contagios. También asegura la continuidad de los servicios funerarios y la gestión de los restos mortales bajo protocolos sanitarios específicos.",
+  "professional_impact": "Las entidades deportivas ven suspendidas sus elecciones y mandatos de forma automática. Las cooperativas y empresas privadas pueden adoptar acuerdos sin reunión presencial o mediante medios telemáticos, facilitando la continuidad operativa. Los gestores culturales pueden invocar la fuerza mayor para eventos afectados.",
+  "keywords": [
+    "COVID-19",
+    "medidas extraordinarias",
+    "servicios funerarios",
+    "entidades deportivas",
+    "videoconferencia",
+    "cooperativas",
+    "fuerza mayor",
+    "Cataluña"
+  ],
+  "key_points": [
+    "Se permite la celebración de reuniones y toma de acuerdos por videoconferencia en entidades privadas y comunidades de propietarios hasta el 31 de diciembre de 2022.",
+    "Las entidades deportivas suspenden sus asambleas generales y procesos electorales durante el estado de alarma.",
+    "Los mandatos de los órganos directivos de entidades deportivas se prorrogan automáticamente si expiran durante la crisis.",
+    "Se autoriza la prestación forzosa de servicios funerarios para garantizar la continuidad del servicio.",
+    "Las cooperativas pueden suspender actividades y posponer el reembolso de aportaciones de socios que causen baja.",
+    "Se reconoce la fuerza mayor para eventos culturales internacionales programados antes del 13 de marzo de 2020."
+  ],
+  "legal_references": [
+    "Decreto-ley 6/2020, de 12 de marzo",
+    "Decreto-ley 7/2020, de 17 de marzo",
+    "Decreto-ley 8/2020, de 24 de marzo",
+    "Ley 2/1997, de 3 de abril, sobre servicios funerarios",
+    "Ley 12/2015, de 9 de julio, de cooperativas",
+    "Código civil de Cataluña",
+    "Real Decreto 463/2020, de 14 de marzo"
+  ],
+  "derogations": [],
+  "main_obligations": "Las entidades deportivas deben reformular sus calendarios electorales en el plazo de un mes tras el levantamiento de la suspensión. Los servicios funerarios deben seguir los protocolos de tratamiento de cadáveres establecidos para COVID-19.",
+  "effective_date": "2020-03-27",
+  "procedures": [
+    {
+      "name": "Gestión de procesos electorales en entidades deportivas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Suspensión de procedimientos",
+          "description": "Se detienen todos los procesos electorales en curso durante el estado de alarma.",
+          "start_date": "2020-03-27",
+          "end_date": "Hasta el levantamiento del estado de alarma",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Reformulación del calendario",
+          "description": "Las juntas electorales deben publicar un nuevo calendario tras finalizar la suspensión.",
+          "start_date": "1 mes tras el levantamiento de la suspensión",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reembolso de aportaciones en cooperativas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Prórroga de reembolso",
+          "description": "El reembolso de aportaciones de socios que causen baja se pospone.",
+          "start_date": "Durante el estado de alarma",
+          "end_date": "6 meses después de que finalice el estado de alarma",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

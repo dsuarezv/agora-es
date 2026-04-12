@@ -1,0 +1,88 @@
+{
+  "identifier": "BOE-A-2001-14647",
+  "title": "Ley 6/2001, de 3 de julio, del juego en la Comunidad de Madrid",
+  "visible_title": "Ley del juego en la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "6/2001",
+  "publication_date": "2001-07-27",
+  "enactment_date": "2001-07-03",
+  "last_updated": "2022-12-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2001/07/03/6",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco regulador para todas las actividades de juego y apuestas en la Comunidad de Madrid. Su objetivo es dotar de seguridad jurídica al sector, controlar la expansión de los juegos y, sobre todo, implementar medidas de protección para prevenir la ludopatía. Para ello, crea un catálogo de juegos permitidos, un registro de interdicciones de acceso y un régimen de inspección y sanciones estricto.",
+  "citizen_impact": "Protege a los ciudadanos mediante la prohibición de acceso a menores y a personas registradas con problemas de juego (ludopatía). Además, garantiza derechos como el cobro de premios, el acceso a información clara sobre las reglas y la disponibilidad de hojas de reclamaciones en los locales.",
+  "professional_impact": "Las empresas del sector deben obtener autorizaciones administrativas previas, inscribirse en el Registro del Juego y constituir fianzas ante la Hacienda regional. Se imponen restricciones severas a la publicidad y al patrocinio, además de obligaciones de control de acceso y monitorización de sistemas técnicos.",
+  "keywords": [
+    "juego y apuestas",
+    "Comunidad de Madrid",
+    "ludopatía",
+    "casinos",
+    "máquinas recreativas",
+    "autorizaciones",
+    "publicidad de juego",
+    "registro de interdicciones"
+  ],
+  "key_points": [
+    "Creación de un Catálogo de Juegos y Apuestas: solo lo que esté en la lista es legal.",
+    "Prohibición absoluta de acceso a menores de edad y personas en el Registro de Interdicciones.",
+    "Regulación estricta de la publicidad: prohibida en centros sanitarios, escolares y mediante personajes de relevancia pública.",
+    "Obligatoriedad de constituir fianzas para garantizar el pago de premios y sanciones.",
+    "Clasificación de infracciones en leves, graves y muy graves con multas de hasta 600.000 euros.",
+    "Creación de la Comisión de Control del Juego para supervisar y homologar materiales.",
+    "Control de zonas de alta concentración de locales de apuestas en municipios y distritos.",
+    "Exigencia de capital mínimo de 12 millones de euros para empresas que operen casinos."
+  ],
+  "legal_references": [
+    "Estatuto de Auto-nomía de la Comunidad de Madrid",
+    "Decreto-ley 16/1977",
+    "Ley 34/1987",
+    "Ley 3/2000"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a la presente Ley"
+  ],
+  "main_obligations": "Las empresas deben obtener autorización previa, inscribirse en el Registro del Juego y constituir fianzas. Está prohibido permitir el acceso a menores o personas interdictas, y se prohíbe la publicidad que incite al juego o use personajes famosos.",
+  "effective_date": "2001-07-28",
+  "procedures": [
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación",
+          "descrption": "Inicio del expediente por parte del Director General competente tras detectar una posible infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de inspección o denuncia"
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y Resolución",
+          "descrption": "Tramitación del expediente que debe finalizar con una resolución en un plazo máximo de 1 año.",
+          "start_date": null,
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización de Casinos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Concurso y Planificación",
+          "descrption": "El Gobierno determina la distribución geográfica y otorga la autorización mediante concurso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de inversión, solvencia técnica y económica, informe municipal"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

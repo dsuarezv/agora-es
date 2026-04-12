@@ -1,0 +1,115 @@
+{
+  "identifier": "BOE-A-2025-21210",
+  "title": "Real Decreto 931/2025, de 21 de octubre, por el que se establece el procedimiento de integración en la condición de personal estatutario del personal de la Red sanitaria militar",
+  "visible_title": "Integración en el régimen estatutario del personal civil de la Red sanitaria militar",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de Defensa",
+  "official_number": "931/2025",
+  "publication_date": "2025-10-22",
+  "enactment_date": "2025-10-21",
+  "last_updated": "2025-10-22",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/10/21/931",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "254",
+  "summary": "Esta norma permite que el personal civil (funcionarios de carrera y laborales fijos) que trabaja en la Red sanitaria militar pase a formar parte del régimen estatutario de salud. El objetivo es homogeneizar las condiciones laborales de todos los profesionales civiles de estos centros, equiparándolos al modelo del Sistema Nacional de Salud. Además, regula la transformación de sus puestos de trabajo y asegura su movilidad y carrera profesional dentro del sistema sanitario.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en la mejora potencial de la gestión y atención sanitaria en los centros de la Red sanitaria militar.",
+  "professional_impact": "Los profesionales civiles de la sanidad militar obtienen la condición de personal estatutario, lo que les otorga derechos de carrera profesional, movilidad y un régimen jurídico más estable. Los trabajadores laborales temporales que sustituyen a personas con derecho a reserva de puesto pasarán a ser estatutarios temporales de forma obligatoria. Se garantiza el respeto de la antigüedad y se crean mecanismos para incentivar puestos de difícil cobertura.",
+  "keywords": [
+    "sanidad militar",
+    "personal estatutario",
+    "integración laboral",
+    "Ministerio de Defensa",
+    "Estatuto Marco",
+    "recursos humanos sanitarios"
+  ],
+  "key_points": [
+    "Integración voluntaria para funcionarios de carrera y personal laboral fijo de la Red sanitaria militar.",
+    "Integración obligatoria para personal laboral temporal que realice sustituciones con reserva de puesto.",
+    "Los puestos de trabajo de origen (laborales o funcionarios) se amortizan al crearse las nuevas plazas estatutarias.",
+    "Se garantiza la equivalencia de categorías profesionales según el catálogo nacional de salud.",
+    "El personal integrado debe permanecer al menos dos años en el ámbito del Ministerio de Defensa.",
+    "Se respetará la antigüedad y se crearán complementos para evitar pérdidas salariales.",
+    "Se faculta al Ministerio de Defensa para crear incentivos económicos para puestos de difícil cobertura.",
+    "Se establece la figura del personal emérito para profesionales con méritos destacados."
+  ],
+  "legal_references": [
+    "Real Decreto 187/2008",
+    "Ley 55/2003 (Estatuto Marco)",
+    "Real Decreto 184/2015",
+    "Real Decreto 205/2024",
+    "Ley 39/2015",
+    "Real Decreto Legislativo 5/2015",
+    "Ley 50/1997",
+    "Ley 19/2013"
+  ],
+  "derogations": [
+    "Real Decreto 187/2008, de 8 de febrero",
+    "Orden SAS/481/2010, de 26 de febrero"
+  ],
+  "main_obligations": "El personal que solicite la integración debe cumplir los requisitos de titulación y categoría en la fecha de finalización del plazo de la convocatoria. El personal integrado tiene la obligación de permanecer un mínimo de dos años en el Ministerio de Defensa.",
+  "effective_date": "2025-10-23",
+  "procedures": [
+    {
+      "name": "Procedimiento de integración voluntaria (Personal fijo)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria pública",
+          "description": "Publicación en el BOE de la resolución que oferta la integración, incluyendo modelo de solicitud y plazos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Modelo de solicitud oficial"
+        },
+        {
+          "step": 2,
+          "title": "Presentación de solicitudes",
+          "description": "Periodo para que el personal interesado presente su opción de integración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación acreditativa de categoría y titulación"
+        },
+        {
+          "step": 3,
+          "title": "Publicación de relación provisional",
+          "descripton": "Lista de aspirantes admitidos y excluidos provisionalmente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Alegaciones y subsanación",
+          "description": "Plazo para impugnar exclusiones o corregir errores en la solicitud.",
+          "start_date": "10 días hábiles tras publicación provisional",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Resolución del proceso",
+          "description": "Dictado de la resolución final de nombramiento como personal estatutario.",
+          "start_date": null,
+          "end_date": "6 meses tras el proceso",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de integración obligatoria (Personal temporal)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Integración de oficio",
+          "description": "Nombramiento directo como personal estatutario temporal cuando la persona sustituida se integra.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

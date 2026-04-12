@@ -1,0 +1,103 @@
+{
+  "identifier": "BOE-A-2015-3281",
+  "title": "Ley 3/2015, de 4 de marzo, de Transparencia y Participación Ciudadana de Castilla y León",
+  "visible_title": "Ley de Transparencia y Participación Ciudadana de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "3/2015",
+  "publication_date": "2015-03-27",
+  "enactment_date": "2015-03-04",
+  "last_updated": "2021-02-25",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2015/03/04/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un marco para que la administración de Castilla y León sea abierta y consultable. Obliga a las instituciones a publicar proactivamente información sobre su funcionamiento, personal y gastos en un Portal de Gobierno Abierto. Además, regula el derecho de cualquier persona a solicitar información pública y crea mecanismos para que la ciudadanía participe en la elaboración de leyes y planes estratégicos.",
+  "citizen_impact": "Otorga a los ciudadanos el derecho de saber cómo se gasta el dinero público y quiénes ocupan cargos en la administración. Permite participar digitalmente en la creación de leyes y proyectos de la Junta mediante sugerencias o propuestas durante un periodo de 10 días.",
+  "professional_impact": "Los altos cargos de la administración ahora tienen la obligación de declarar sus bienes y su renta anualmente de forma pública. Las empresas que contraten con la administración deben estar dispuestas a facilitar toda la información relacionada con sus contratos si se les requiere.",
+  "keywords": [
+    "transparencia",
+    "acceso a la información",
+    "participación ciudadana",
+    "gobierno abierto",
+    "publicidad activa",
+    "Castilla y León"
+  ],
+  "key_points": [
+    "Creación del Portal de Gobierno Abierto como ventanilla única de información y participación.",
+    "Obligación de publicar detalles sobre sueldos de personal eventual, contratos de alta dirección y procesos de selección.",
+    "Derecho de acceso a la información pública para todas las personas.",
+    "Creación de la Comisión de Transparencia para resolver reclamaciones de los ciudadanos.",
+    "Obligación de los altos cargos de presentar declaraciones anuales de IRPF y patrimonio.",
+    "Mecanismo de participación ciudadana de al menos 10 días para anteproyectos de ley y planes.",
+    "Los contratos públicos deben incluir cláusulas de obligación de informar sobre la ejecución contractual."
+  ],
+  "legal_references": [
+    "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno",
+    "Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público",
+    "Ley 2/2006, de 3 de mayo, de la Hacienda y del Sector Público de la Comunidad de Castilla y León",
+    "Ley 2/2010, de 11 de marzo, de Derechos de los ciudadanos en sus relaciones con la Administración de la Comunidad de Castilla y León y de Gestión Pública",
+    "Ley 6/1989, de 6 de octubre, de incompatibilidades de los miembros de la Junta de Castilla y León",
+    "Ley 11/1990, de 28 de mayo, de creación del registro de intereses de los miembros y otros cargos de la Comunidad Autónoma"
+  ],
+  "derogations": [
+    "Artículos 21 y 22 de la Ley 2/2010, de 11 de marzo"
+  ],
+  "main_obligations": "La administración debe publicar información de publicidad activa (personal, gastos, deuda, etc.) en el Portal de Gobierno Abierto. Los altos cargos deben presentar declaraciones notariales de bienes al inicio y fin de su cargo, además de sus declaraciones anuales de renta. Los contratistas deben facilitar la información requerida sobre sus contratos.",
+  "effective_date": "2015-12-10",
+  "procedures": [
+    {
+      "name": "Participación Ciudadana en Proyectos Normativos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación en el Portal",
+          "description": "El órgano competente publica el anteproyecto de ley, decreto, estrategia o plan en el Portal de Gobierno Abierto.",
+          "start_date": null,
+          "end_date": "10 días naturales",
+          "required_documentation": "Texto del proyecto o anteproyecto"
+        },
+        {
+          "step": 2,
+          "title": "Aportaciones ciudadanas",
+          "description": "Los ciudadanos presentan sugerencias, propuestas o textos alternativos por vía electrónica.",
+          "start_date": "Desde la publicación",
+          "end_date": "10 días naturales",
+          "required_documentation": "Propuesta o sugerencia electrónica"
+        },
+        {
+          "step": 3,
+          "title": "Resolución y respuesta",
+          "description": "El órgano debe tomar en consideración las aportaciones y responder individualmente o mediante un informe final.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de Acceso a la Información Pública",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación de la solicitud",
+          "description": "La unidad de acceso a la información recibe y gestiona la solicitud.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "El órgano competente dicta resolución estimando o denegando el acceso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

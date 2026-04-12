@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-2017-13987",
+  "title": "Ley 8/2017, de 27 de junio, de creación del Consejo de la Juventud de la Comunidad de Madrid",
+  "visible_title": "Ley de creación del Consejo de la Juventud de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "8/2017",
+  "publication_date": "2017-12-01",
+  "enactment_date": "2017-06-27",
+  "last_updated": "2024-12-27",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2017/06/27/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece la estructura y funcionamiento del Consejo de la Juventud de la Comunidad de Madrid como una entidad de derecho público. Su objetivo es crear un canal oficial de participación para que las asociaciones juveniles influyan en las políticas de la región. El Consejo actúa como interlocutor entre la juventud organizada y la Administración autonómica.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes, ya que regula una estructura de representación institucional.",
+  "professional_impact": "Afecta principalmente a directivos y gestores de asociaciones juveniles, quienes deben cumplir requisitos de membresía (número de socios, implantación territorial) para participar en la toma de decisiones. También impacta a funcionarios de la Consejería de Juventud que deben coordinarse con este nuevo organismo.",
+  "keywords": [
+    "juventud",
+    "participación ciudadana",
+    "asociacionismo juvenil",
+    "Comunidad de Madrid",
+    "Consejo de la Juventud",
+    "políticas juveniles"
+  ],
+  "key_points": [
+    "Creación del Consejo de la Juventud como entidad con personalidad jurídica propia y autonomía.",
+    "Garantía de representación para colectivos específicos como personas con discapacidad, inmigración, LGTBI y medio ambiente.",
+    "Requisito de membresía para asociaciones: mínimo 30 socios y presencia en dos municipios (o 100 socios en un solo municipio).",
+    "Posibilidad de ser 'miembro observador' para entidades que no cumplan los requisitos de pleno derecho, con voz pero sin voto.",
+    "Establecimiento de una Comisión Permanente con mandato de dos años para la gestión ejecutiva.",
+    "Obligación de las asociaciones de presentar documentación actualizada en cada Asamblea General Ordinaria."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 10/1986, de 4 de diciembre",
+    "Ley 11/2000, de 16 de octubre",
+    "Ley 9/2010, de 23 de diciembre",
+    "Ley 39/2015, de 1 de octubre",
+    "Ley 40/2015, de 1 de octubre",
+    "Ley Orgánica 3/1983, de 25 de febrero",
+    "Ley 9/1999, de 8 de noviembre"
+  ],
+  "derogations": [
+    "Ley 8/2017 (derogada por la Ley 8/2024 con efectos desde el 28 de diciembre de 2024)"
+  ],
+  "main_obligations": "Las entidades miembro deben presentar anualmente la documentación acreditativa de su situación (socios, sedes, cumplimiento tributario y valores constitucionales). El incumplimiento de la asistencia a dos Asambleas Generales consecutivas conlleva la pérdida de la condición de miembro.",
+  "effective_date": "2017-06-28",
+  "procedures": [
+    {
+      "name": "Acceso a la membresía del Consejo de la Juventud",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud y documentación",
+          "description": "Las entidades deben presentar solicitud, certificados de socios, sedes, declaración de valores y memoria de actividades.",
+          "start_date": "1 mes tras la entrada en vigor",
+          "end_date": null,
+          "required_documentation": "Solicitud, certificado de socios, certificado de sedes, declaración responsable de obligaciones tributarias, declaración de valores constitucionales, copia de inscripción en el Registro de Asociaciones y memoria de actividades."
+        },
+        {
+          "step": 2,
+          "title": "Revisión por la Comisión Gestora",
+          "description": "La Comisión Gestora revisa el cumplimiento de los requisitos de las entidades.",
+          "start_date": "Tras la finalización del plazo de presentación",
+          "end_date": "15 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Proclamación de admisión",
+          "description": "Se comunica la admisión o se abre plazo de subsanación en caso de errores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Constitución de la Comisión Gestora (Transitoriedad)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inscripción de asociaciones interesadas",
+          "description": "Plazo para que las asociaciones se inscriban para formar parte de la Comisión Gestora.",
+          "start_date": "Tras la entrada en vigor",
+          "end_date": "15 días",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

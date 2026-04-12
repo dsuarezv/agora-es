@@ -1,0 +1,93 @@
+{
+  "identifier": "BOE-A-2016-6086",
+  "title": "Ley 7/2016, de 2 de junio, de Ordenación del Servicio Jurídico del Gobierno Vasco",
+  "visible_title": "Ordenación del Servicio Jurídico del Gobierno Vasco",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "7/2016",
+  "publication_date": "2016-06-23",
+  "enactment_date": "2016-06-02",
+  "last_updated": "2016-06-07",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2016/06/02/7",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta ley organiza y profesionaliza la asistencia jurídica de la Administración vasca, creando un Servicio Jurídico Central y manteniendo las asesorías de cada departamento. Su objetivo es garantizar que el Gobierno Vasco cuente con expertos para asesorar legalmente sus decisiones y defender sus intereses en juicios. Establece un modelo propio que separa la función de asesoramiento de la de defensa judicial para asegurar la legalidad de los actos públicos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Crea una nueva especialidad de funcionarios (letrados del Gobierno Vasco) con requisitos de acceso específicos. Los funcionarios de la Administración vasca ahora cuentan con un marco claro de representación y defensa judicial para sus actos derivados del ejercicio de sus funciones.",
+  "keywords": [
+    "Servicio Jurídico",
+    "Gobierno Vasco",
+    "Asesoramiento jurídico",
+    "Defensa judicial",
+    "Administración Pública",
+    "Letrados"
+  ],
+  "key_points": [
+    "Creación del Servicio Jurídico Central del Gobierno Vasco como órgano directivo superior.",
+    "División de funciones entre asesoramiento jurídico (departamentos y central) y defensa en juicio (Servicio Jurídico Central).",
+    "Establecimiento de una nueva especialidad de funcionarios para los puestos de letrados.",
+    "Creación de la Junta de Coordinación Jurídica para unificar criterios entre departamentos.",
+    "Regulación de la defensa de autoridades y personal del Gobierno en procesos judiciales relacionados con su cargo.",
+    "Obligación de solicitar autorización del Consejo de Gobierno para interponer recursos o querellas.",
+    "Procedimiento para gestionar conflictos de intereses cuando la Administración litigue contra sí misma."
+  ],
+  "legal_references": [
+    "Ley 7/1986, de 26 de junio, de Representación y Defensa en Juicio de la Comunidad Autónoma del País Vasco",
+    "Decreto 250/1995, de 25 de abril",
+    "Decreto 48/2000, de 14 de marzo",
+    "Decreto 2007/6, de 6 de junio"
+  ],
+  "derogatons": [
+    "Ley 7/1986, de 26 de junio, de Representación y Defensa en Juicio de la Comunidad Autónoma del País Vasco"
+  ],
+  "main_obligations": "El Servicio Jurídico Central debe emitir informes preceptivos en asuntos clave como proyectos de leyes generales o convenios. La Administración tiene la obligación de colaborar con el Servicio Jurídico Central remitiendo comunicaciones judiciales con la máxima celeridad.",
+  "effective_date": "2016-06-24",
+  "procedures": [
+    {
+      "name": "Interposición de acciones o recursos judiciales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "descrption": "Se requiere la autorización previa del Consejo de Gobierno para ejercer acciones o interponer recursos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Tramitación excepcional por urgencia",
+          "descrption": "En casos de urgencia acreditada, el titular del departamento puede decidir, debiendo informar inmediatamente al Consejo de Gobierno para su ratificación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Defensa de autoridades y personal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de defensa",
+          "descrption": "La autoridad o personal interesado debe solicitar formalmente la representación y defensa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución de denegación",
+          "descrption": "El Gobierno o el titular del departamento puede denegar la defensa de forma motivada, especialmente en delitos contra la administración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

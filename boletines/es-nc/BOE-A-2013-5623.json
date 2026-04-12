@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-2013-5623",
+  "title": "Ley Foral 14/2013, de 17 de abril, de Medidas contra el fraude fiscal",
+  "visible_title": "Ley Foral de Medidas contra el fraude fiscal",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "14/2013",
+  "publication_date": "2013-05-29",
+  "enactment_date": "2013-04-17",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2013/04/17/14",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma endurece la lucha contra la evasión de impuestos en Navarra mediante nuevas herramientas de control y sanción. Introduce mecanismos para perseguir la responsabilidad de administradores en casos de impagos reiterados y regula la transmisión de deudas fiscales en procesos de sucesión o disolución de empresas. Además, refuerza la capacidad de la Administración para aplicar medidas cautelares y mejorar la investigación de patrimonios en delitos fiscales.",
+  "citizen_impact": "Los ciudadanos que posean bienes o derechos en el extranjero deben declararlos correctamente para evitar que se consideren incrementos patrimoniales no justificados. También se refuerza la equidad fiscal al asegurar que quienes defraudan no perjudiquen la calidad de los servicios públicos ni la carga tributaria de los cumplidores.",
+  "professional_impact": "Los administradores de empresas enfrentan una mayor responsabilidad subsidiaria si presentan declaraciones sin ingreso de forma reiterada. Las empresas deben prestar atención a la nueva obligación de informar sobre bienes en el extranjero y a las medidas de retención cautelar que la Administración puede aplicar sobre pagos a contratistas.",
+  "keywords": [
+    "fraude fiscal",
+    "Navarra",
+    "responsabilidad tributaria",
+    "medidas cautelares",
+    "impuesto sobre sociedades",
+    "impuesto sobre la renta",
+    "embargos",
+    "prescripción"
+  ],
+  "key_points": [
+    "Los administradores de hecho o de derecho son responsables subsidiarios si presentan declaraciones sin ingreso de forma reiterada.",
+    "En sucesiones o disoluciones empresariales, las deudas fiscales se transmiten a los sucesores o entidades beneficiarias.",
+    "Se permite la prohibición de disponer de bienes inmuebles de sociedades si el deudor controla efectivamente la entidad.",
+    "La Administración puede aplicar medidas cautelares como la retención de pagos a contratistas o la prohibición de enajenar bienes.",
+    "Los bienes en el extranjero no declarados se presumen como incrementos patrimoniales no justificados (presunción iuris et de iure).",
+    "Se amplían los supuestos que interrumpen la prescripción de la deuda tributaria, incluyendo concursos de acreedores y acciones judiciales.",
+    "Se endurecen las sanciones por obstrucción a la investigación de la Administración tributaria.",
+    "La Administración puede embargar cuentas bancarias sin necesidad de identificar cada cuenta o depósito individualmente."
+  ],
+  "legal_references": [
+    "Ley Foral 13/2000, de 14 de diciembre, General Tributaria",
+    "Ley Foral 24/1996, de 30 de diciembre, del Impuesto sobre Sociedades",
+    "Ley Foral del Impuesto sobre la Renta de las Personas Físicas",
+    "Ley Foral 10/1996, de 2 de julio, reguladora del Régimen tributario de las Fundaciones",
+    "Ley Foral 21/2012, de 26 de diciembre",
+    "Código de Comercio",
+    "Código Penal"
+  ],
+  "derogations": [
+    "Reglamento de Recaudación de la Comunidad Foral de Navarra (artículo segundo)"
+  ],
+  "main_obligations": "Obligación de informar sobre bienes y derechos en el extranjero bajo pena de multas de hasta 5.000 euros por dato. Los administradores deben asegurar el ingreso de las retenciones y repercusiones tributarias para evitar la responsabilidad subsidiaria.",
+  "effective_date": "2013-05-30",
+  "procedures": [
+    {
+      "name": "Medidas cautelares de la Administración",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de indicios",
+          "description": "La Administración debe acreditar indicios de impago o riesgo de frustración del cobro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Notificación de la medida",
+          "description": "Se notifica al afectado con los motivos que la justifican.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Duración de la medida",
+          "description": "Las medidas cesan a los 6 meses salvo prórroga motivada o conversión en embargo.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

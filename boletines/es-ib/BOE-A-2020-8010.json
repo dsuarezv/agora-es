@@ -1,0 +1,94 @@
+{
+  "identifier": "BOE-A-2020-8010",
+  "title": "Decreto-ley 7/2020, de 8 de mayo, por el que se establecen medidas urgentes en el ámbito de la educación, para hacer frente a los efectos de la emergencia sanitaria ocasionada por el COVID-19",
+  "visible_title": "Medidas urgentes en educación para hacer frente a la emergencia sanitaria por COVID-19",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "7/2020",
+  "publication_date": "2020-05-08",
+  "enactment_date": "2020-05-08",
+  "last_updated": "2020-05-09",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/dl/2020/05/08/7",
+  "official_journal": "BOIB",
+  "journal_issue": null,
+  "summary": "Esta norma establece reglas extraordinarias para garantizar la continuidad del sistema educativo en Baleares durante la pandemia de COVID-19. Su objetivo principal es digitalizar y simplificar los procesos de admisión de alumnos para el curso 2020-2021, evitando aglomeraciones en centros escolares. Asimismo, obliga a la gestión electrónica de los procesos de selección y administración del personal docente no universitario.",
+  "citizen_impact": "Las familias deben realizar casi todos los trámites de escolarización y matriculación de forma telemática, evitando desplazamientos presenciales. Se introduce la obligación de firmar una declaración responsable sobre el consentimiento del otro progenitor durante la solicitud online.",
+  "professional_impact": "Los docentes no universitarios tienen la obligación legal de relacionarse exclusivamente por vía electrónica con la Consejería para sus trámites administrativos (permisos, licencias, jubilaciones, etc.) y para participar en procesos de selección de plazas.",
+  "keywords": [
+    "educación",
+    "COVID-19",
+    "admisión de alumnos",
+    "escolarización",
+    "trámites telemáticos",
+    "personal docente",
+    "Baleares"
+  ],
+  "key_points": [
+    "Tramitación preferentemente telemática de la admisión y adscripción de alumnos para el curso 2020-2021.",
+    "Uso obligatorio de sistemas de identificación como Cl@ve, GESTIB o combinación de DNI/NIE y móvil.",
+    "Obligación de presentar declaración responsable sobre el visto bueno del otro progenitor en la solicitud online.",
+    "Penalización por solicitudes duplicadas o falsas: pérdida de derechos de prioridad y adjudicación de oficio.",
+    "Obligatoriedad de la relación electrónica para el personal docente no universitario en sus procesos de selección.",
+    "Obligatoriedad de la relación electrónica para docentes en su vida administrativa (incapacidades, licencias, etc.)."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020, de 14 de marzo",
+    "Real Decreto 465/2020, de 17 de marzo",
+    "Ley Orgánica 2/2006, de 3 de mayo, de Educación",
+    "Decreto Ley 4/2020, de 20 de marzo",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Decreto 64/2019, de 2 de agosto",
+    "Estatuto de Autonomía de las Illes Balears"
+  ],
+  "derogations": [],
+  "main_obligations": "Los solicitantes de plazas escolares deben realizar los trámites telemáticamente y declarar la conformidad del otro progenitor. El personal docente no universitario está obligado a realizar todos sus trámites administrativos y de selección exclusivamente por medios electrónicos.",
+  "effective_date": "2020-05-08",
+  "procedures": [
+    {
+      "name": "Proceso de adscripción y admisión de alumnos (Curso 2020-2021)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Autenticación de identidad",
+          "description": "Acceso a la plataforma mediante Cl@ve, usuario GESTIB/CAIB o combinación de DNI/NIE y móvil.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "DNI, NIE o Pasaporte"
+        },
+        {
+          "step": 2,
+          "title": "Solicitud telemática",
+          "description": "Cumplimentación de la solicitud en la plataforma GESTIB incluyendo declaración responsable del otro progenitor.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación acreditativa de criterios de admisión (solo si no es consultable telemáticamente)"
+        },
+        {
+          "step": 3,
+          "title": "Comunicación de resultados",
+          "description": "Publicación de las listas de resultados a través de las webs oficiales de la Consejería.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procesos de selección y provisión de plazas de personal docente",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Participación electrónica",
+          "description": "Participación obligatoria en los procesos de selección a través de los canales y aplicaciones digitales determinados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

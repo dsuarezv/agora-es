@@ -1,0 +1,89 @@
+{
+  "identifier": "BOE-A-2015-4332",
+  "title": "Ley 4/2015, de 23 de marzo, de derechos y garantías de la persona en el proceso de morir",
+  "visible_title": "Ley de derechos y garantías de la persona en el proceso de morir",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "4/2015",
+  "publication_date": "2015-04-22",
+  "enactment_date": "2015-03-23",
+  "last_updated": "2019-02-28",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2015/03/23/4",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley regula la atención sanitaria y los derechos de los pacientes que se encuentran en fase terminal o de agonía en las Islas Baleares. Su objetivo es garantizar la dignidad, la autonomía y el alivio del sufrimiento mediante cuidados paliativos y el respeto a la voluntad del paciente. Introduce mecanismos para que las personas decidan anticipadamente sobre sus tratamientos y regula la sedación en la agonía como medida terapéutica.",
+  "citizen_impact": "Los ciudadanos en situación terminal o sus familiares ganan seguridad jurídica para exigir cuidados paliativos de calidad y el respeto a sus deseos. Permite redactar testamentos vitales ante funcionarios públicos (no solo ante notario) para asegurar que sus decisiones médicas se cumplan incluso si pierden la capacidad de comunicarse.",
+  "professional_impact": "El personal sanitario tiene ahora obligaciones estrictas de informar, consultar el Registro de Voluntades Anticipadas y respetar los valores del paciente. Se establece el deber de evitar la obstinación terapéutica y se regula el procedimiento para la retirada de medidas de soporte vital, proporcionando un marco ético y legal para la toma de decisiones complejas.",
+  "keywords": [
+    "cuidados paliativos",
+    "voluntades anticipadas",
+    "proceso de morir",
+    "sedación en la agonía",
+    "autonomía del paciente",
+    "dignidad",
+    "testamento vital"
+  ],
+  "key_points": [
+    "Derecho a recibir cuidados paliativos integrales y tratamiento del dolor, incluso en el domicilio.",
+    "Posibilidad de formalizar la declaración de voluntad anticipada ante funcionarios públicos habilitados, facilitando el acceso al trámite.",
+    "Obligación de los sanitarios de consultar el Registro de Voluntades Anticipadas e incorporar dicho documento a la historia clínica.",
+    "Derecho a la sedación en la agonía para aliviar síntomas refractarios bajo consentimiento informado.",
+    "Derecho a rechazar o retirar cualquier tratamiento médico, aunque esto suponga un riesgo para la vida.",
+    "Regulación de la 'incapacidad de hecho' para permitir que representantes tomen decisiones basadas en los valores previos del paciente.",
+    "Garantía de habitación individual y acompañamiento familiar sin restricciones horarias en centros hospitalarios.",
+    "Prohibición de la obstinación terapéutica (aplicar tratamientos inútiles que solo prolongan la agonía)."
+  ],
+  "legal_references": [
+    "Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente",
+    "Ley 1/2006, de 3 de marzo, de voluntades anticipadas",
+    "Ley 5/2003, de 4 de abril, de salud de las Illes Balears",
+    "Constitución Española",
+    "Estatuto de Autonomía de las Illes Balears",
+    "Real Decreto 124/2007, de 2 de febrero"
+  ],
+  "derogatations": [
+    "Disposiciones de igual o inferior rango que contravengan esta ley"
+  ],
+  "main_obligations": "Los centros sanitarios deben garantizar el acompañamiento familiar y la atención de cuidados paliativos. Los profesionales sanitarios están obligados a respetar las instrucciones de las voluntades anticipadas y a evitar la obstinación terapéutica, registrando siempre estas decisiones en la historia clínica.",
+  "effective_date": "2015-07-22",
+  "procedures": [
+    {
+      "name": "Entrada en vigor de la ley",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Periodo de vacatio legis",
+          "description": "La ley entra en vigor tres meses después de su publicación en el BOE.",
+          "start_date": "2015-04-22",
+          "end_date": "2015-07-22",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Formalización de la declaración de voluntad anticipada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Manifestación de la voluntad",
+          "description": "La persona expresa sus deseos ante notario, funcionario habilitado, encargado del registro o tres testigos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento de identidad (DNI)"
+        },
+        {
+          "step": 2,
+          "title": "Inscripción y registro",
+          "description": "El documento se inscribe en el Registro de Voluntades Anticipadas y se incorpora a la historia clínica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

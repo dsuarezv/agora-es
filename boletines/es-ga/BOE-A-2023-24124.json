@@ -1,0 +1,574 @@
+{
+  "identifier": "BOE-A-2023-24124",
+  "title": "Ley 6/2023, de 2 de noviembre, del patrimonio de la Comunidad Autónoma de Galicia",
+  "visible_title": "Ley del patrimonio de la Comunidad Autónoma de Galicia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "6/2023",
+  "publication_date": "2023-11-28",
+  "enactment_date": "2023-11-02",
+  "last_updated": "2025-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2023/11/02/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y unifica la gestión de todos los bienes que pertenecen a la Comunidad Autónoma de Galicia. Establece reglas claras para que la Administración pueda comprar, alquilar, vender o ceder propiedades y derechos de forma más eficiente. Además, regula cómo la Xunta gestiona herencias sin testamento y saldos bancarios abandonados, destinando esos fondos a proyectos sociales y culturales. Por último, endurece las sanciones por el uso indebido del patrimonio público, llegando a multas de hasta un millón de euros.",
+  "citizen_impact": "Los ciudadanos pueden recibir un premio del 10% si informan sobre una herencia vacante o un bien público no identificado. También se establece un sistema de reducción de multas para personas en situación de vulnerabilidad económica que cometan infracciones contra el patrimonio. En cuanto a la gestión de fondos, los saldos bancarios abandonados por 20 años pasan a la Comunidad, cuyos beneficios se destinarán a asistencia social y cultura.",
+  "professional_impact": "Las empresas y entidades sin ánimo de lucro tienen nuevas reglas para acceder a concesiones de uso (hasta 75 años) y cesiones de bienes (con límites de 1 o 2 años sin concurso). Los funcionarios tienen la obligación de comunicar la existencia de herencias o donaciones a favor de la Xunta. Las empresas públicas deben cumplir con mayores estándares de transparencia, publicando sus cuentas y estatutos en la web, y remitiendo inventarios anuales.",
+  "keywords": [
+    "patrimonio gallego",
+    "bienes públicos",
+    "herencias vacantes",
+    "concesiones administrativas",
+    "sanciones patrimonio",
+    "gestión de bienes"
+  ],
+  "key_points": [
+    "Creación de un sistema de premios (10%) para ciudadanos que denuncien herencias vacantes o bienes públicos no identificados.",
+    "Nueva clasificación de sanciones: leves (hasta 5.000€), graves (hasta 50.000€) y muy graves (hasta 1.000.000€).",
+    "Los saldos y depósitos abandonados durante 20 años pasan a ser propiedad de la Comunidad Autónoma.",
+    "El dinero de las herencias sin testamento se reparte: 70% para asistencia social y 30% para cultura.",
+    "Las concesiones de uso de bienes pueden alcanzar una duración de hasta 75 años.",
+    "Se permite la venta directa de inmuebles a entidades sin ánimo de lucro o de interés general.",
+    "Las entidades que reciban bienes heredados deben asumir todas las deudas y gastos de transmisión.",
+    "Se introduce la 'mutación demanial' para cambiar el uso de un bien público sin cambiar su titularidad.",
+    "Posibilidad de realizar inspecciones presenciales en bienes públicos sin aviso previo.",
+    "Uso de multas coercitivas (hasta el 20% del valor del bien) para forzar la desocupación de bienes públicos.",
+    "Reducción del 20% en sanciones por reconocimiento de responsabilidad o pago voluntario.",
+    "Exención de tributos autonómicos y locales en operaciones de reordenación del patrimonio empresarial público."
+  ],
+  "legal_references": [
+    "Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas",
+    "Ley 5/2011, de 30 de septiembre, del patrimonio de la Comunidad Autónoma de Galicia",
+    "Decreto 50/1989, de 9 de marzo",
+    "Ley 3/1985, de 12 de abril, del patrimonio de la Comunidad Autónoma gallega",
+    "Decreto 94/1999, de 25 de marzo",
+    "Ley 33/2003, de 3 de noviembre, del patrimonio de las administraciones públicas",
+    "Ley 15/2015, de 2 de julio, de la jurisdicción voluntaria",
+    "Ley 2/2006, de 14 de junio, de derecho civil de Galicia",
+    "Constitución Española (artículo 132)",
+    "Ley 16/2010, de 14 de junio, de organización y funcionamiento de la Administración general y del sector público autonómico de Galicia",
+    "Código Civil",
+    "Ley de Contratos del Sector Público",
+    "Ley de régimen de inversiones extranjeras",
+    "Ley 2/2023, de 20 de febrero, reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción",
+    "Ley 8/2012, de 29 de junio, de vivienda de Galicia",
+    "Ley 4/2019, de 17 de julio",
+    "Real Decreto 36/2023",
+    "Orden TED/815/2015",
+    "Ley 2/2016, de 10 de febrero"
+  ],
+  "derogatons": [
+    "Ley 5/2011, de 30 de septiembre, del patrimonio de la Comunidad Autónoma de Galicia (salvo art. 59 bis y disp. adicional décima)",
+    "Artículo 52.2 de la Ley 8/2012, de 29 de junio, de vivienda de Galicia",
+    "Reglamento para la ejecución de la Ley 3/1985, de 1 de abril, aprobado por Decreto 50/1989",
+    "Decreto 94/1999, de 25 de marzo, sobre el régimen administrativo de la sucesión intestada"
+  ],
+  "main_obligations": "Las entidades que reciban bienes mediante cesión deben inscribirlos en el Registro de la Propiedad y Catastro y remitir informes de uso cada 3 años. Los arrendatarios deben avisar con 3 meses de antelación si desean dejar un inmueble antes de finalizar el contrato.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Declaración de la Comunidad Autónoma como heredera abintestato",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del expediente",
+          "description": "El procedimiento puede iniciarse de oficio, por comunicación o por denuncia de personas no obligadas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Fase de actuaciones previas",
+          "description": "Fase para discriminar la procedencia de la iniciación del expediente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Instrucción y notificación",
+          "description": "Plazo para la instrucción del expediente y notificación de la resolución.",
+          "start_date": null,
+          "end_date": "1 año",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "Declaración de la Comunidad Autónoma como heredera y adjudicación administrativa de bienes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Denuncia o Comunicación",
+          "description": "Informar de la existencia de una expectativa de derecho de sucesión.",
+          "start_date": null,
+          "end_date": "30 días desde el conocimiento (para evitar infracción)",
+          "required_documentation": "Certificados de defunción, últimas voluntades, DNI, etc."
+        },
+        {
+          "step": 6,
+          "title": "Informe Preliminar",
+          "description": "Investigación de la procedencia de la sucesión y búsqueda de otros herederos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 7,
+          "title": "Incoación y Publicación",
+          "description": "Publicación en el BOE, DOG y exposición pública en ayuntamientos por 30 días.",
+          "start_date": "30 días de exposición pública",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 8,
+          "title": "Resolución",
+          "description": "Declaración de heredera y adjudicación de bienes. Plazo máximo de 1 año.",
+          "start_date": null,
+          "end_date": "1 año desde la incoación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Afectación de bienes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación",
+          "description": "El órgano directivo de patrimonio inicia el expediente de oficio o a petición de la consejería interesada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Emisión de la Orden/Acuerdo",
+          "description": "El acto debe describir el bien, sus fines, su condición de dominio público y la referencia catastral.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Otorgamiento de autorizaciones y concesiones en régimen de concurrencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "description": "Inicio de oficio o a petición de tercero con justificación de la conveniencia pública.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Elaboración del pliego",
+          "description": "Creación de las condiciones del aprovechamiento y solicitud de informes vinculantes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Convocatoria",
+          "description": "Publicación en el DOG y la web de la consejería.",
+          "start_date": null,
+          "end_date": "30 días naturales desde la publicación",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Presentación de propuestas",
+          "description": "Entrega de ofertas en dos sobres (capacidad y documentación técnica/económica).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración responsable de capacidad, datos catastrales, registrales y precio."
+        },
+        {
+          "step": 5,
+          "title": "Valoración y adjudicación",
+          "description": "Examen por una mesa de contratación, informe técnico y resolución final.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adquisición de inmuebles mediante licitación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Expediente de adquisición",
+          "description": "Elaboración de memoria con fines, necesidades, zona y presupuesto máximo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado de crédito presupuestario."
+        },
+        {
+          "step": 2,
+          "title": "Convocatoria",
+          "description": "Publicación del anuncio en el DOG y la web de la consejería.",
+          "start_date": null,
+          "end_date": "Máximo 30 días naturales para presentar ofertas",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Mesa de contratación",
+          "description": "Constitución de la mesa y examen de la documentación del primer sobre.",
+          "start_date": "10 días hábiles tras el cierre del plazo",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Apertura y valoración",
+          "description": "Apertura de sobres en acto público y realización de informe técnico de las ofertas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Adjudicación",
+          "description": "Propuesta de la mesa y acuerdo de la autoridad competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adquisición directa de inmuebles",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Estudio de mercado",
+          "description": "Evaluación de la inexistencia de otros inmuebles en condiciones óptimas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Instrucción del expediente",
+          "description": "Incorporación de oferta de venta, tasación y acreditación de titularidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Oferta de venta, informe de tasación, datos catastrales y registrales."
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Acuerdo de compra o desistimiento motivado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adquisición gratuita de bienes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de transmisión",
+          "description": "Presentación de la propuesta con las condiciones impuestas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de personalidad, titularidad, valoración económica y relación de bienes muebles con fotos."
+        },
+        {
+          "step": 2,
+          "title": "Evaluación y trámite",
+          "description": "El órgano directivo evalúa la procedencia según informes de la consejería interesada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de aceptación",
+          "description": "Notificación de la decisión a la persona que transmite.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Venta de bienes inmuebles por subasta pública",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria",
+          "description": "Publicación en el DOG con al menos 15 días de antelación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Celebración del acto",
+          "description": "Subasta al alza, sobre cerrado o electrónica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Garantía (hasta el 25% del tipo de licitación) y acreditación de personalidad."
+        },
+        {
+          "step": 3,
+          "title": "Adjudicación y pago",
+          "description": "Notificación al ganador, quien debe completar el pago en 20 días naturales.",
+          "start_date": null,
+          "end_date": "20 días naturales tras notificación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Venta de bienes inmuebles por concurso",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria y presentación",
+          "description": "Presentación de propuestas en sobre cerrado con criterios de adjudicación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación de solvencia, personalidad y garantía."
+        },
+        {
+          "step": 2,
+          "title": "Análisis de propuestas",
+          "description": "La mesa analiza las ofertas atendiendo a criterios de políticas públicas.",
+          "start_date": null,
+          "end_date": "60 días naturales",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Cesión gratuita de bienes inmuebles a entidades sin ánimo de lucro",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud",
+          "description": "Presentación de petición indicando el fin y acreditando no tener deudas con la Administración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación de personalidad, capacidad y certificado de no tener deudas."
+        },
+        {
+          "step": 2,
+          "title": "Incoación",
+          "description": "Inicio de oficio del procedimiento por el órgano directivo competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Concurso público (si aplica)",
+          "description": "Obligatorio si la cesión supera los 2 años. Publicación en el DOG y plazo de 30 días para peticiones.",
+          "start_date": "30 días naturales desde la publicación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Formalización",
+          "description": "Otorgamiento mediante escritura pública o documento administrativo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reparto del caudal distribuible de la herencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria",
+          "description": "Publicación de la convocatoria para que entidades presenten proyectos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución del reparto",
+          "description": "Plazo máximo para resolver y notificar la adjudicación de fondos.",
+          "start_date": null,
+          "end_date": "4 meses desde la convocatoria",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de investigación de titularidad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Se inicia de oficio, por comunicación o denuncia tras comprobar indicios razonables.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Identificación del bien, pruebas documentales, fotografías o planos."
+        },
+        {
+          "step": 2,
+          "title": "Publicación y exposición pública",
+          "description": "Publicación en el DOG, web y tablón del ayuntamiento para alegaciones.",
+          "start_date": "30 días naturales",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Trámite de audiencia",
+          "description": "Examen del expediente por los interesados para presentar alegaciones.",
+          "start_date": "20 días naturales",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución final",
+          "description": "Declaración de la titularidad autonómica y tasación del bien.",
+          "start_date": "Máximo 2 años desde el inicio",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de deslinde administrativo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de iniciación",
+          "description": "Se identifica la zona y se publica para alegaciones.",
+          "start_date": "30 días naturales",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Trámite de audiencia",
+          "description": "Examen del plano elaborado y alegaciones tras el apeo.",
+          "start_date": "20 días naturales",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución aprobatoria",
+          "description": "Fijación definitiva de los límites del inmueble.",
+          "start_date": "Máximo 18 meses desde el inicio",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de recuperación posesoria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio y requerimiento",
+          "description": "Se solicita al ocupante la devolución del bien o título habilitante.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Trámite de audiencia",
+          "description": "Plazo para que el ocupante presente alegaciones.",
+          "start_date": "10 días naturales",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de recuperación",
+          "description": "Orden de devolución, restitución o indemnización.",
+          "start_date": "Máximo 6 meses desde el inicio",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador patrimonial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Detección de la infracción",
+          "description": "Identificación de daños, uso indebido o incumplimiento de deberes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Reconocimiento de responsabilidad",
+          "description": "El infractor admite la falta para obtener una reducción del 20% en la multa.",
+          "start_date": "Durante el procedimiento",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución y pago voluntario",
+          "description": "Pago de la sanción para obtener reducción adicional por pronto pago.",
+          "start_date": "Plazo otorgado en la fase anterior a la resolución",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reconocimiento de prescripción adquisitiva entre administraciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de reconocimiento",
+          "description": "Una administración solicita reconocer la titularidad de un bien adquirido por prescripción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que justifique la prescripción y la afectación al uso público"
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y Dictamen",
+          "description": "El Consejo Consultivo de Galicia emite dictamen preceptivo y vinculante.",
+          "start_date": "Tras la admisión a trámite",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Resolución de la Consejería (autonómica) o Alcaldía/Presidencia (local).",
+          "start_date": "Desde la entrada en registro electrónico",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 6
+}

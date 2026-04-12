@@ -1,0 +1,174 @@
+{
+  "identifier": "BOE-A-2009-1174",
+  "title": "Ley 6/2008, de 26 de diciembre, de Educación de Cantabria",
+  "visible_title": "Ley de Educación de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "6/2008",
+  "publication_date": "2009-01-24",
+  "enactment_date": "2008-12-30",
+  "last_updated": "2008-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2008/12/26/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley redefine todo el sistema educativo de Cantabria, desde la etapa infantil hasta la formación de adultos. Su objetivo es modernizar la enseñanza mediante la educación plurilingüe, la atención a la diversidad y una mayor conexión con el mundo laboral. Busca garantizar la igualdad de oportunidades mediante la gratuidad de servicios básicos y la digitalización de trámites. Además, introduce mecanismos para que la formación profesional sea más flexible y reconozca la experiencia previa de los trabajadores.",
+  "citizen_impact": "Los ciudadanos se benefician de la gratuidad en el segundo ciclo de Educación Infantil (3-6 años) y del transporte y comedor escolar gratuito si deben desplazarse fuera de su localidad por falta de centros. Los alumnos de ESO que no aprueben tienen una segunda oportunidad mediante pruebas extraordinarias de hasta cinco materias durante dos años. Además, se facilita la digitalización de la matriculación y escolarización.",
+  "professional_impact": "Los centros educativos deben cumplir con la obligación de elaborar proyectos pedagógicos, planes de atención a la diversidad y disponer de bibliotecas escolares. Se abre una nueva vía laboral para profesionales con experiencia externa (mínimo 3 años) para actuar como profesores especialistas. Los docentes que aprueben oposiciones deberán realizar una fase de prácticas tutelares.",
+  "keywords": [
+    "educación Cantabria",
+    "formación profesional",
+    "atención a la diversidad",
+    "educación plurilingüe",
+    "escolarización",
+    "gratuididad escolar"
+  ],
+  "key_points": [
+    "Gratuidad garantizada en el segundo ciclo de Educación Infantil (3 a 6 años).",
+    "Acceso a pruebas extraordinarias de hasta cinco materias para alumnos de ESO que no obtengan el título (plazo de dos años).",
+    "Exención de prácticas en FP para alumnos que acrediten experiencia laboral previa.",
+    "Gratuidad de transporte, comedor, residencia y escuelas-hogar para alumnos de enseñanza básica que deban desplazarse por falta de centros.",
+    "Posibilidad de cursar simultáneamente enseñanzas artísticas profesionales y educación secundaria.",
+    "Equivalencia de estudios de postgrado en centros de enseñanzas artísticas superiores con títulos universitarios.",
+    "Prohibición de usar resultados de evaluaciones de diagnóstico para clasificar o etiquetar centros educativos.",
+    "Contratación de profesores especialistas basados en experiencia profesional externa mínima de 3 años.",
+    "Obligatoriedad de un mínimo de 175 días lectivos en enseñanzas obligatorias.",
+    "Implementación de la administración educativa electrónica para trámites de matriculación y escolarización.",
+    "Creación de zonas educativas para coordinar recursos entre centros cercanos.",
+    "Inclusión obligatoria de contenidos sobre el patrimonio histórico, natural y cultural de Cantabria en el currículo."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 27)",
+    "Ley Orgánica 8/1985, de 3 de julio, reguladora del derecho a la educación",
+    "Estatuto de Auto-nomía para Cantabria (artículo 28.1)",
+    "Real Decreto 2671/1998, de 11 de diciembre",
+    "Decreto 7/1999, de 28 de enero",
+    "Ley de Cantabria 3/1999, de 24 de marzo, de Consejos Escolares de Cantabria",
+    "Ley Orgánica 2/2006, de 3 de mayo, de educación",
+    "Ley 03/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+    "Ley Orgánica 6/2001, de 21 de diciembre, de Universidades",
+    "Ley Orgánica 5/2002, de 19 de junio, de las Cualificaciones y de la Formación Profesional",
+    "Real Decreto 1558/2005, de 23 de diciembre",
+    "Ley 30/2007, de 30 de octubre, de contratos del sector público",
+    "Ley de Cantabria 11/2006, de 17 de julio, de organización y funcionamiento del Servicio Jurídico",
+    "Ley Orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal",
+    "Real Decreto 276/2007, de 23 de febrero"
+  ],
+  "derogatons": [
+    "Todas las normas de igual o inferior rango que se opongan a esta Ley"
+  ],
+  "main_obligations": "Los centros educativos están obligados a elaborar y hacer públicos sus proyectos pedagógicos y planes de atención a la diversidad. Los municipios deben colaborar en la obtención de solares para centros y en la vigilancia de la escolaridad obligatoria.",
+  "effective_date": "2009-01-24",
+  "procedures": [
+    {
+      "name": "Evaluación y promoción de alumnos en ESO",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Finalización de 4º de ESO sin título",
+          "descrption": "El alumno que no obtenga el título de Graduado puede solicitar pruebas extraordinarias.",
+          "start_date": "Inmediatamente tras finalizar el curso",
+          "end_date": "Plazo de 2 años",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Convocatoria de pruebas",
+          "descrption": "Realización de exámenes de un máximo de cinco materias pendientes.",
+          "start_date": "Anual",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Validación de aprendizajes previos en Educación de Personas Adultas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de competencias",
+          "description": "Mecanismo para reconocer conocimientos obtenidos mediante experiencia laboral o actividades sociales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Incorporación de nuevos docentes en centros públicos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Periodo de formación teórico-práctica",
+          "description": "Realización de prácticas en contextos educativos reales para evaluar competencias profesionales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Tutorización de primer curso",
+          "description": "Acompañamiento por parte de profesores experimentados durante el primer año de ejercicio.",
+          "start_date": "Primer curso de ejercicio",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Contratación de profesores especialistas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de experiencia",
+          "description": "Demostrar actividad profesional remunerada ajena a la docencia relacionada con la materia durante al menos 3 años.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la actividad profesional habitual"
+        },
+        {
+          "step": 2,
+          "title": "Proceso de selección",
+          "description": "Concurso público basado en igualdad, mérito, capacidad y publicidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Formalización",
+          "description": "Contrato por escrito detallando materia, horario, duración y régimen económico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acceso a la función pública docente",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Concurso-oposición",
+          "description": "Fase de valoración de méritos (formación, idiomas, TIC) y fase de oposición (conocimientos y aptitud).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Fase de prácticas",
+          "description": "Periodo de incorporación progresiva y tutelada en el centro docente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-1999-12089",
+  "title": "Ley 1/1999, de 12 de marzo, de Ordenación del Turismo de la Comunidad de Madrid",
+  "visible_title": "Ley de Ordenación del Turismo de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "1/1999",
+  "publication_date": "1999-05-29",
+  "enactment_date": "1999-03-12",
+  "last_updated": "2014-07-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1999/03/12/1",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco regulador para todo el sector turístico en la Comunidad de Madrid, desde el alojamiento hasta la restauración y agencias de viajes. Su objetivo es profesionalizar el sector, garantizar la calidad de los servicios y proteger los derechos de los usuarios. Además, introduce herramientas de planificación regional y un régimen sancionador más claro y proporcional para asegurar el cumplimiento de las normas.",
+  "citizen_impact": "Los turistas en Madrid cuentan con derechos específicos, como recibir información veraz, obtener facturas y disponer de mecanismos de reclamación y arbitraje. También se garantiza la accesibilidad en los servicios turísticos y la protección de sus derechos como consumidores.",
+  "professional_impact": "Las empresas turísticas deben operar bajo el principio de unidad de explotación y realizar una declaración responsable para iniciar su actividad. Los profesionales del sector se enfrentan a un régimen de inspección más estricto y a sanciones que pueden llegar a la clausura definitiva en casos de infracciones muy graves.",
+  "keywords": [
+    "turismo",
+    "Comunidad de Madrid",
+    "alojamiento",
+    "restauración",
+    "agencias de viajes",
+    "derechos del consumidor",
+    "inspección turística",
+    "planificación turística"
+  ],
+  "key_points": [
+    "Obligatoriedad de realizar una declaración responsable para iniciar cualquier actividad turística.",
+    "Reconocimiento de los establecimientos de turismo rural como modalidad de alojamiento.",
+    "Creación de un régimen de inspección turística con autoridad para acceder a locales y requerir documentación.",
+    "Establecimiento de un sistema de sanciones graduado en leves, graves y muy graves.",
+    "Introducción del principio de unidad de explotación para empresas de alojamiento.",
+    "Posibilidad de declarar áreas turísticas saturadas donde se prohibirá la instalación de nuevas empresas.",
+    "Habilitación de mecanismos de arbitraje para resolver conflictos entre empresas y usuarios.",
+    "Garantía de accesibilidad y respeto al medio ambiente en la oferta turística."
+  ],
+  "legal_references": [
+    "Ley 8/1995, de 28 de marzo, de Ordenación del Turismo",
+    "Estatuto de Autonomía de la Comunidad de Madrid",
+    "Directiva 2006/123/CE del Parlamento Europeo y del Consejo",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas"
+  ],
+  "derogations": [
+    "Ley 8/1995, de 28 de marzo, de Ordenación del Turismo"
+  ],
+  "main_obligations": "Las empresas deben presentar una declaración responsable antes de operar y garantizar la calidad y seguridad de sus servicios. El incumplimiento de las condiciones declaradas o la falta de información al cliente puede acarrear multas de hasta 300.000 euros o el cierre del negocio.",
+  "effective_date": "1999-05-29",
+  "procedures": [
+    {
+      "name": "Inicio de actividad turística mediante declaración responsable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración responsable",
+          "descrption": "El titular comunica a la Dirección General el inicio de su actividad bajo su responsabilidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento de declaración responsable donde se acredita el cumplimiento de requisitos."
+        },
+        {
+          "step": 2,
+          "title": "Comprobación administrativa",
+          "descrption": "La Administración realiza comprobaciones en cualquier momento para verificar la veracidad de la declaración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del expediente",
+          "descrption": "Se inicia el proceso tras detectar una posible infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de resolución y caducidad",
+          "descrption": "El procedimiento debe resolverse en un plazo máximo; si pasan 6 meses sin resolución, caduca el expediente.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

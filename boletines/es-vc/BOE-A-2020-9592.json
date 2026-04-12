@@ -1,0 +1,82 @@
+{
+  "identifier": "BOE-A-2020-9592",
+  "title": "Decreto-ley 9/2020, de 3 de julio, de medidas urgentes en los ámbitos de seguridad ferroviaria, de puertos de titularidad de la Generalitat y del taxi",
+  "visible_title": "Medidas urgentes de apoyo a puertos, taxi y seguridad ferroviaria",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Generalitat Valenciana",
+  "official_number": "9/2020",
+  "publication_date": "2020-08-13",
+  "enactment_date": "2020-07-03",
+  "last_updated": "2022-04-28",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/dl/2020/07/03/9",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma implementa ayudas económicas y aplazamientos para mitigar los daños económicos causados por la pandemia de COVID-19 en sectores estratégicos de la Comunidad Valenciana. Establece descuentos en tasas portuarias, prorroga plazos para la adaptación de vehículos de taxi y permite la puesta en marcha de la Agencia de Seguridad Ferroviaria mediante la regulación de dietas para su Consejo Rector.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo por la posible mejora en la seguridad del transporte ferroviario y la continuidad de servicios de taxi y transporte marítimo.",
+  "professional_impact": "Los operadores portuarios y empresas de transporte marítimo, náutico o restauración en puertos obtienen descuentos del 50% en tasas y tarifas. Los taxistas disponen de más tiempo para adaptar sus vehículos para personas con movilidad reducida, y los expertos del sector ferroviario podrán participar en el Consejo Rector de la Agencia percibiendo dietas.",
+  "keywords": [
+    "puertos",
+    "tasas portuarias",
+    "taxi",
+    "seguridad ferroviaria",
+    "COVID-19",
+    "ayudas económicas",
+    "Comunitat Valenciana"
+  ],
+  "key_points": [
+    "Descuento del 50% en tasas por uso y ocupación de espacios portuarios por el periodo de estado de alarma.",
+    "Descuento del 50% en tasas portuarias para sectores específicos (transporte de pasajeros, náutica, hostelería) durante cuatro meses tras el estado de alarma.",
+    "Reducción del 50% en las tarifas G-2 (buques) y G-3 (pasajeros y mercancías) para operadores portuarios.",
+    "Moraforia en la emisión y cobro de liquidaciones de tasas portuarias hasta el 31 de diciembre de 2021.",
+    "Ampliación de plazos para la transmisión de autorizaciones de taxi y la conversión de vehículos a modelos adaptados para personas con movilidad reducida.",
+    "Autorización de dietas e indemnizaciones para los miembros del Consejo Rector de la Agencia Valenciana de Seguridad Ferroviaria para facilitar su funcionamiento."
+  ],
+  "legal_references": [
+    "Real decreto 463/2020, de 14 de marzo",
+    "Ley 13/2017, de 8 de noviembre, de la Generalitat, del taxi de la Comunitat Valenciana",
+    "Ley 7/2018, de 26 de marzo, de la Generalitat, de seguridad ferroviaria",
+    "Ley 2/2014, de 13 de junio, de Puertos de la Generalitat",
+    "Ley 1/1999, de 31 de marzo, de tarifas portuarias",
+    "Ley 9/2019, de 23 de diciembre, de la Generalitat"
+  ],
+  "derogations": [
+    "Disposición transitoria única de la Ley 9/2019, de 23 de diciembre, de la Generalitat"
+  ],
+  "main_obligations": null,
+  "effective_date": "2020-07-04",
+  "procedures": [
+    {
+      "name": "Aplicación de deducciones y moratoria portuaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Periodo de deducción por estado de alarma",
+          "description": "Aplicación automática del 50% de deducción en tasas por ocupación de espacios portuarios.",
+          "start_date": "2020-03-14",
+          "end_date": "2020-06-21",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Periodo de deducción post-alarma",
+          "description": "Aplicación del 50% de deducción para sectores específicos (náutica, hostelería, etc.) y tarifas G-2/G-3.",
+          "start_date": "2020-06-22",
+          "end_date": "2020-10-22",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Moraforia de liquidaciones",
+          "description": "Postergación de la emisión y cobro de liquidaciones de tasas portuarias según calendario de la Consejería.",
+          "start_date": "2020-01-01",
+          "end_date": "2021-12-31",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

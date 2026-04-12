@@ -1,0 +1,85 @@
+{
+  "identifier": "BOE-A-2007-16611",
+  "title": "Ley 11/2007, de 27 de julio, gallega para la prevención y el tratamiento integral de la violencia de género",
+  "visible_title": "Ley gallega para la prevención y el tratamiento integral de la violencia de género",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "11/2007",
+  "publication_date": "2007-09-20",
+  "enactment_date": "2007-07-27",
+  "last_updated": "2022-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2007/07/27/11",
+  "official_journal": "Diario Oficial de Galicia",
+  "journal_issue": null,
+  "summary": "Esta ley establece un sistema integral en Galicia para combatir la violencia de género mediante la prevención, la atención y la protección de las víctimas. Implementa medidas que van desde la sensibilización social y la educación hasta la asistencia sanitaria, jurídica y económica. Su objetivo es erradicar la violencia basada en la desigualdad de género y garantizar la autonomía de las mujeres afectadas.",
+  "citizen_impact": "Las mujeres víctimas de violencia en Galicia acceden a derechos específicos como asistencia psicológica y jurídica gratuita, ayudas económicas (prestación periódica) y prioridad en el acceso a viviendas públicas. También se garantiza la escolarización inmediata de menores afectados y la protección de sus derechos económicos sin que los ingresos del agresor les perjudiquen.",
+  "professional_impact": "Obliga a profesionales de sanidad, educación, justicia y seguridad a recibir formación especializada en perspectiva de género. Las empresas deben integrar medidas de apoyo a víctimas en sus planes de igualdad, y los medios de comunicación deben seguir manuales de estilo para evitar la revictimización.",
+  "keywords": [
+    "violencia de género",
+    "Galicia",
+    "prevención",
+    "asistencia integral",
+    "ayudas económicas",
+    "protección de la mujer",
+    "violencia vicaria",
+    "violencia digital"
+  ],
+  "key_points": [
+    "Reconocimiento de la violencia vicaria y la violencia de género digital como formas de agresión.",
+    "Creación de una prestación económica periódica para fomentar la autonomía de las víctimas.",
+    "Garantía de asistencia psicológica y sanitaria gratuita y especializada.",
+    "Procedimiento abreviado para la obtención de la Renta de Integración Social de Galicia (Risga) en un máximo de un mes.",
+    "Prioridad en la adjudicación de viviendas de promoción pública para mujeres en situación de precariedad.",
+    "Exclusión de los ingresos del agresor al calcular las ayudas económicas de la víctima.",
+    "Creación del Centro de Recuperación Integral para Mujeres que Sufren Violencia de Género.",
+    "Implementación de un Servicio de Atención 24 horas para información y asistencia.",
+    "Obligación de confidencialidad laboral para empresas y sindicatos respecto a la situación de la víctima."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley Orgánica 11/2003",
+    "Ley Orgánica 15/2003",
+    "Ley Orgánica 10/1995",
+    "Ley 27/2003",
+    "Ley Orgánica 1/2004",
+    "Estatuto de Autonomía de Galicia",
+    "Ley 7/2004 (Galicia)",
+    "Ley 1/1996",
+    "Ley 3/1997 (Galicia)",
+    "Ley 15/1999",
+    "Ley 4/2001 (Galicia)",
+    "Ley 9/1991 (Galicia)"
+  ],
+  "derogations": [
+    "Artículos 19 y 20 de la Ley 7/2004, de 16 de julio, gallega para la igualdad de mujeres y hombres"
+  ],
+  "main_obligations": "La Administración gallega debe garantizar la formación especializada de profesionales, la atención 24h y la coordinación de recursos. Las empresas y sindicatos están obligados a mantener la confidencialidad de la situación de la mujer trabajadora.",
+  "effective_date": "2007-09-21",
+  "procedures": [
+    {
+      "name": "Solicitud de la Renta de Integración Social de Galicia (Risga) para víctimas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "La mujer víctima presenta la solicitud ante los servicios sociales correspondientes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la situación de violencia de género según el artículo 5."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y abono",
+          "description": "Reconocimiento del derecho y abono efectivo de la prestación.",
+          "start_date": null,
+          "end_date": "1 mes desde la solicitud",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

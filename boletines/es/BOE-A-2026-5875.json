@@ -1,0 +1,214 @@
+{
+  "identifier": "BOE-A-2026-5875",
+  "title": "Real Decreto 189/2026, de 11 de marzo, por el que se regula la inscripción, modificación y cancelación de las indicaciones geográficas para vinos, bebidas espirituosas y productos agrícolas y de las especialidades tradicionales garantizadas, y se dispone normas relativas a su comercialización",
+  "visible_title": "Regulación de la inscripción, modificación y cancelación de indicaciones geográficas y especialidades tradicionales",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de Agricultura, Pesca y Alimentación",
+  "official_number": "189/2026",
+  "publication_date": "2026-03-13",
+  "enactment_date": "2026-03-11",
+  "last_updated": "2026-03-13",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2026/03/11/189",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "64",
+  "summary": "Esta norma moderniza la protección de los productos con denominación de origen, indicaciones geográficas y especialidades tradicionales para alinearlos con las nuevas reglas de la Unión Europea. Su objetivo es garantizar que el nombre de un vino, bebida o producto agrícola esté respaldado por una prueba técnica real de su vínculo con el territorio. Al centralizar y digitalizar estos trámites, se busca dar seguridad jurídica a los productores y evitar que nombres de calidad se pierdan o se usen indebidamente. Además, introduce mecanismos para que los propios productores puedan regular su oferta y proteger sus nombres comerciales de forma más ágil.",
+  "citizen_impact": "El impacto es indirecto pero relevante para el consumidor, ya que garantiza una mayor protección y veracidad en las etiquetas de productos de calidad (vinos, aceites, productos agrícolas) que compra habitualmente, asegurando que su origen y características sean auténticos.",
+  "professional_impact": "Afecta directamente a productores, bodegas y asociaciones agrarias, quienes ahora deben tramitar todo de forma electrónica y presentar estudios técnicos que demuestren la relación entre el producto y su zona. Introduce la obligación de alcanzar acuerdos de 2/3 de la producción para regular la oferta y establece plazos estrictos de resolución administrativa.",
+  "keywords": [
+    "indicaciones geográficas",
+    "denominación de origen",
+    "vinos",
+    "bebidas espirituosas",
+    "productos agrícolas",
+    "especialidades tradicionales",
+    "protección de calidad"
+  ],
+  "key_points": [
+    "Digitalización total: Todos los trámites de inscripción, modificación o cancelación deben realizarse obligatoriamente por vía electrónica.",
+    "Exigencia de rigor técnico: Es imprescindible presentar un estudio que demuestre la relación causa-efecto entre la calidad del producto y su zona geográfica.",
+    "Seguridad en la resolución: La administración tiene un plazo máximo de 6 meses para resolver; si no responde, la solicitud se entiende desestimada (silencio administrativo negativo).",
+    "Protección de nombres: Se permite el uso de nombres bajo 'protección nacional transitoria' mientras la Comisión Europea resuelve el registro.",
+    "Autogestión de la oferta: Los productores pueden regular la cantidad y calidad de su oferta mediante acuerdos que cuenten con el apoyo de 2/3 de la producción.",
+    "Nuevos requisitos de legitimación: Los productores únicos deben demostrar fehacientemente que son los únicos en la zona o que el resto ha rechazado adherirse.",
+    "Gratuidad en publicaciones: Todas las publicaciones necesarias en el BOE para estos trámites serán gratuitas.",
+    "Creación de la Mesa de coordinación de la calidad diferenciada para armonizar criterios entre el Estado y las Comunidades Autónomas."
+  ],
+  "legal_references": [
+    "Ley 6/2015",
+    "Reglamento (UE) 2024/1143",
+    "Reglamento (UE) 1308/2013",
+    "Reglamento (UE) 2019/787",
+    "Ley 39/2015",
+    "Ley 40/2015",
+    "Reglamento (UE) 2017/625",
+    "Real Decreto 1363/2011",
+    "Real Decreto 267/2017",
+    "Reglamento de Ejecución (UE) 2025/26"
+  ],
+  "derogations": [
+    "Real Decreto 1335/2011",
+    "Reglamento (UE) n.º 1151/2012",
+    "Decreto 3711/1974",
+    "Real Decreto 972/1982",
+    "Real Decreto 830/1984",
+    "Real Decreto 2671/1985",
+    "Real Decreto 1297/1987",
+    "Real Decreto 25/1990",
+    "Real Decreto 1254/1990",
+    "Artículo 1.e) y Capítulo VI del Real Decreto 95/2019"
+  ],
+  "main_obligations": "Los interesados deben presentar obligatoriamente un estudio justificativo, un pliego de condiciones y un documento único mediante medios electrónicos. Para regular la oferta de productos, se requiere un acuerdo previo de al menos 2/3 de los productores que representen 2/3 de la producción total.",
+  "effective_date": "2026-03-13",
+  "procedures": [
+    {
+      "name": "Inscripción de Indicación Geográfica (Fase Nacional)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Envío electrónico a la Dirección General de Alimentación con estudio justificativo y pliego de condiciones.",
+          "start_date": "Fecha de entrada en registro",
+          "end_date": null,
+          "required_documentation": "Estudio justificativo, pliego de condiciones, documento único, datos de la agrupación y plano de la zona."
+        },
+        {
+          "step": 2,
+          "title": "Examen y consulta a Comunidades Autónomas",
+          "description": "La Administración examina la solicitud y pide informe a las CCAA afectadas.",
+          "start_date": "Tras la presentación",
+          "end_date": "15 días para el informe de la CA",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Procedimiento de oposición",
+          "description": "Publicación en el BOE para que terceros puedan presentar alegaciones.",
+          "start_date": "Tras el examen favorable",
+          "end_date": "1 mes desde la publicación",
+          "required_documentation": "Pruebas de interés legítimo o marcas anteriores"
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "Decisión final de la Dirección General de Alimentación.",
+          "start_date": "Desde la entrada en registro",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Modificación del Pliego de Condiciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de modificación",
+          "description": "Presentación de cambios en el pliego (normales, temporales o de la Unión).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Versión consolidada y versión con cambios señalados"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de modificación normal/temporal",
+          "description": "Aprobación que surte efecto desde su publicación en el BOE.",
+          "start_date": "Tras resolución favorable",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Cancelación de Indicación Geográfica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de cancelación",
+          "description": "Petición por interés legítimo, autoridad o productores para retirar el nombre.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Demostración de falta de cumplimiento o falta de comercialización (7 años)"
+        },
+        {
+          "step": 2,
+          "title": "Oposición a la cancelación",
+          "description": "Solo admitida si se demuestra uso comercial continuo del nombre.",
+          "start_date": "Tras apertura de procedimiento",
+          "end_date": "1 mes",
+          "required_documentation": "Pruebas de uso comercial continuo"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de cancelación de una especialidad tradicional garantizada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Envío de la solicitud de cancelación a la Dirección General de Alimentación por medios electrónicos.",
+          "start_date": "N/A",
+          "end_date": "N/A",
+          "required_documentation": "Formato Anexo XIV o XV del Reglamento de Ejecución (UE) 2025/26 según el motivo."
+        },
+        {
+          "step": 2,
+          "title": "Apertura del procedimiento de oposición",
+          "description": "Publicación en el BOE del acuerdo para permitir que terceros se opongan.",
+          "start_date": "Tras la solicitud",
+          "end_date": "N/A",
+          "required_documentation": "N/A"
+        },
+        {
+          "step": 3,
+          "title": "Plazo de oposición",
+          "description": "Periodo para que interesados presenten oposición demostrando uso comercial continuo.",
+          "start_date": "Desde la publicación en el BOE",
+          "end_date": "1 mes (según contexto de oposición internacional)",
+          "required_documentation": "Formato Anexo XI del Reglamento de Ejecución (UE) 2025/26"
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "Decisión final sobre la cancelación.",
+          "start_date": "N/A",
+          "end_date": "3 meses",
+          "required_documentation": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "Regulación de la oferta de productos con indicación geográfica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de normas vinculantes",
+          "description": "Presentación de solicitud con acuerdo previo de productores y plan de regulación.",
+          "start_date": "N/A",
+          "end_date": "N/A",
+          "required_documentation": "Acuerdo de 2/3 de productores y Plan de regulación de la oferta con análisis de mercado."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la solicitud",
+          "description": "Decisión de la autoridad competente (Comunidad Autónoma o Ministerio) sobre la aprobación de las normas.",
+          "start_date": "N/A",
+          "end_date": "6 meses",
+          "required_documentation": "N/A"
+        },
+        {
+          "step": 3,
+          "title": "Seguimiento anual",
+          "description": "Presentación de informe sobre la ejecución de las medidas y evolución del mercado.",
+          "start_date": "Anual",
+          "end_date": "N/A",
+          "required_documentation": "Informe anual de ejecución"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

@@ -1,0 +1,82 @@
+{
+  "identifier": "BOE-A-2008-8846",
+  "title": "Ley 1/2008, de 17 de abril, de Garantías de Suministro de Medicamentos",
+  "visible_title": "Ley de Garantías de Suministro de Medicamentos",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "1/2008",
+  "publication_date": "2008-05-22",
+  "enactment_date": "2008-04-17",
+  "last_updated": "2021-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2008/04/17/1",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta ley busca asegurar que los ciudadanos de la Comunidad Valenciana siempre tengan acceso a los medicamentos con receta financiados por el Sistema Nacional de Salud. Para ello, establece mecanismos para detectar la falta de suministro y obliga a distribuidores y farmacias a colaborar con la administración. Además, regula la creación de botiquines en centros sociosanitarios para garantizar la atención de colectivos vulnerables.",
+  "citizen_impact": "Garantiza que el paciente no se quede sin su medicación por falta de stock o problemas de distribución. Evita que los ciudadanos tengan que desplazarse repetidamente a su centro de salud por cambios de tratamiento derivados de la falta de suministro de un fármaco específico.",
+  "professional_impact": "Las farmacias y almacenes mayoristas deben comunicar cualquier falta de suministro en un plazo de 48 horas. Los laboratorios y distribuidores enfrentan sanciones económicas significativas (de hasta 90.000 euros) si incumplen las medidas de suministro o no colaboran con la inspección sanitaria.",
+  "keywords": [
+    "suministro de medicamentos",
+    "servicio farmacéutico",
+    "oficina de farmacia",
+    "almacén mayorista",
+    "centros sociosanitarios",
+    "desabastecimiento",
+    "Comunitat Valenciana"
+  ],
+  "key_points": [
+    "Creación de la situación de 'suministro insuficiente' para actuar preventivamente ante la falta de fármacos.",
+    "Obligación de las farmacias y almacenes de informar incidencias de suministro en un máximo de 48 horas.",
+    "Regulación de botiquines y depósitos de medicamentos en centros sociosanitarios (ancianos, discapacitados, etc.).",
+    "Vinculación obligatoria de los botiquines sociosanitarios a una oficina de farmacia específica.",
+    "Establecimiento de un régimen sancionador con multas que pueden alcanzar los 90.000 euros por infracciones muy graves.",
+    "Obligación de los centros sociosanitarios de garantizar la disponibilidad de medicamentos las 24 horas del día."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunidad Valenciana",
+    "Ley 14/1986, de 25 de mayo, General de Sanidad",
+    "Ley 16/2003, de 18 de mayo, de Cohesión y Calidad del Sistema Sanitario",
+    "Ley 29/2006, de 26 de julio, de Garantías y Uso Racional de los Medicamentos y Productos Sanitarios",
+    "Ley 6/1998, de 22 de junio, de Ordenación Farmacéutica de la Comunidad Valenciana"
+  ],
+  "derogatons": [
+    "Normas de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": "Las farmacias y almacenes deben comunicar cualquier falta de suministro de medicamentos financiados por el SNS en un plazo de 48 horas. Los titulares de medicamentos y distribuidores están obligados a adoptar medidas cautelares cuando la Consejería declare una situación de suministro insuficiente.",
+  "effective_date": "2008-06-12",
+  "procedures": [
+    {
+      "name": "Declaración de situación de suministro insuficiente",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Detección de la incidencia",
+          "descrption": "Comunicación del problema por parte de departamentos de salud, sistemas de información o agentes del sector.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comunicación al laboratorio",
+          "descrption": "La Consejería comunica el problema al laboratorio interesado para obtener su respuesta o justificación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Declaración oficial y medidas cautelares",
+          "descrption": "Tras la falta de respuesta o respuesta insuficiente, se declara la situación y se obliga a los agentes a adoptar medidas cautelares.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

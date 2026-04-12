@@ -1,0 +1,95 @@
+{
+  "identifier": "BOE-A-2016-5943",
+  "title": "Ley 6/2016, de 4 de mayo, de la economía social de Galicia",
+  "visible_title": "Ley de la economía social de Galicia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "6/2016",
+  "publication_date": "2016-06-18",
+  "enactment_date": "2016-05-04",
+  "last_updated": "2016-05-18",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2016/05/04/6",
+  "official_journal": "Diario Oficial de Galicia",
+  "journal_issue": null,
+  "summary": "Esta ley busca dar reconocimiento, visibilidad y un marco jurídico propio a las entidades de economía social en Galicia (cooperativas, mutualidades, fundaciones, etc.). Establece mecanismos de coordinación mediante la creación del Consejo de la Economía Social de Galicia y busca fomentar el autoempleo y el emprendimiento social. Además, adapta la normativa de servicios sociales para agilizar trámites administrativos, pasando de un sistema de autorizaciones estrictas a uno de declaración responsable o comunicación previa en la mayoría de los casos.",
+  "citizen_impact": "Facilita que jóvenes y personas con discapacidad puedan emprender mediante la creación de nuevas 'cooperativas juveniles' con requisitos de capital mucho más bajos. También mejora la calidad y agilidad de los servicios sociales al simplificar la gestión de las entidades que los prestan.",
+  "professional_impact": "Las entidades de economía social cuentan con un nuevo órgano de interlocución (el Consejo) y mayores incentivos para la contratación pública. Los emprendedores del sector disfrutan de una reducción de cargas burocráticas y trámites telemáticos para la constitución y gestión de sus entidades.",
+  "keywords": [
+    "economía social",
+    "cooperativas",
+    "emprendimiento",
+    "Galicia",
+    "servicios sociales",
+    "autoempleo",
+    "cooperativas juveniles"
+  ],
+  "key_points": [
+    "Creación del Consejo de la Economía Social de Galicia como órgano consultivo y de coordinación.",
+    "Introducción de las 'cooperativas juveniles' con un capital social mínimo de solo 300 euros para facilitar el primer empleo.",
+    "Simplificación administrativa en servicios sociales: paso de autorizaciones previas a declaración responsable o comunicación previa.",
+    "Inclusión de las comunidades de montes vecinales en mano común dentro del catálogo de entidades de economía social.",
+    "Fomento de la digitalización y la administración electrónica para los registros de estas entidades.",
+    "Estímulo de la participación de la economía social en la contratación pública mediante cláusulas sociales.",
+    "Creación de un Plan gallego de impulso de las entidades de la economía social."
+  ],
+  "legal_references": [
+    "Ley 5/2011, de 29 de marzo, de economía social",
+    "Ley 13/2008, de 3 de diciembre, de servicios sociales de Galicia",
+    "Ley 20/2013, de 9 de diciembre, de garantía de la unidad de mercado",
+    "Ley 5/1998, de 18 de diciembre, de cooperativas de Galicia",
+    "Directiva 2006/123/CE del Parlamento Europeo y del Consejo"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a la presente ley"
+  ],
+  "main_obligations": "Las entidades de servicios sociales deben presentar declaración responsable o comunicación previa según su tipología. Las cooperativas juveniles deben transformar su modelo a cooperativa ordinaria o disolverse en un plazo máximo de 5 años.",
+  "effective_date": "2016-06-08",
+  "procedures": [
+    {
+      "name": "Tramitación de autorizaciones en servicios sociales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "descrption": "Inicio del procedimiento para la obtención de autorización, declaración responsable o comunicación previa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación según normativa sectorial específica"
+        },
+        {
+          "step": 2,
+          "title": "Resolución administrativa",
+          "descrption": "Plazo máximo para que la administración dicte resolución; si no lo hace, se entiende desestimada por silencio administrativo.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Constitución de cooperativa juvenil",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Constitución y registro",
+          "descrption": "Creación de la entidad con capital mínimo de 300€ y registro correspondiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento privado con firmas legitimadas o autenticadas"
+        },
+        {
+          "step": 2,
+          "title": "Periodo de vida y transformación",
+          "descrption": "Plazo máximo para transformar la entidad en cooperativa ordinaria o proceder a su disolución.",
+          "start_date": null,
+          "end_date": "5 años",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

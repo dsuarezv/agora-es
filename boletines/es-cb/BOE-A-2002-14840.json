@@ -1,0 +1,104 @@
+{
+  "identifier": "BOE-A-2002-14840",
+  "title": "Ley 3/2002, de 28 de junio, de Archivos de Cantabria",
+  "visible_title": "Ley de Archivos de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "3/2002",
+  "publication_date": "2002-07-24",
+  "enactment_date": "2002-06-28",
+  "last_updated": "2002-07-09",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2002/06/28/3",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "journal_issue": null,
+  "summary": "Esta ley organiza y protege el patrimonio documental de Cantabria mediante la creación de un Sistema de Archivos coordinado. Establece cómo deben gestionarse, conservarse y difundirse los documentos generados por la administración autonómica, local y otras entidades. Su objetivo es garantizar que la memoria histórica y administrativa de la región esté disponible para la investigación y el acceso ciudadano.",
+  "citizen_impact": "Garantiza el derecho de los ciudadanos a acceder a la información y documentos de la administración cantabra. Facilita la investigación histórica al asegurar la conservación de documentos antiguos de entidades privadas y públicas.",
+  "professional_impact": "Obliga a los funcionarios y administraciones locales a seguir un ciclo de vida documental estricto (archivo de oficina, central, intermedio e histórico). Los profesionales de archivos y gestores de servicios públicos deben cumplir con normas técnicas de organización y conservación bajo supervisión de la Consejería.",
+  "keywords": [
+    "archivos",
+    "patrimonio documental",
+    "Cantabria",
+    "conservación",
+    "acceso a la información",
+    "gestión documental",
+    "administración pública"
+  ],
+  "key_points": [
+    "Creación del Sistema de Archivos de Cantabria para coordinar todos los centros de documentación.",
+    "Definición de documentos como patrimonio si tienen más de 40 años (entidades privadas) o 100 años (cualquier persona física/jurídica).",
+    "Establecimiento de cuatro fases obligatorias para el tratamiento de documentos administrativos: oficina, central, intermedio e histórico.",
+    "Derecho de acceso garantizado para ciudadanos e investigadores, con límites por privacidad o conservación.",
+    "Prohibición de destruir documentos que formen parte del Patrimonio Documental sin informe previo.",
+    "Los documentos de la administración autonómica son inalienables, imprescriptibles e inembargables.",
+    "Posibilidad de expropiación de edificios o terrenos si es necesario para la instalación de archivos.",
+    "Régimen sancionador para quienes nieguen el acceso o sean negligentes en la conservación de los documentos."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía para Cantabria",
+    "Ley de Cantabria 11/1998, de 13 de octubre, de Patrimonio Cultural de Cantabria",
+    "Ley del Patrimonio Histórico Español"
+  ],
+  "derogations": [
+    "Artículos 99 y 103 de la Ley 11/1998, de 13 de octubre, de Patrimonio Cultural de Cantabria",
+    "Apartados 2, 4 y 5 del artículo 105 de la Ley 11/1998, de 13 de octubre, de Patrimonio Cultural de Cantabria"
+  ],
+  "main_obligations": "Las entidades deben conservar y organizar sus documentos según las fases establecidas. Se prohíbe la destrucción de documentos del patrimonio sin autorización y se obliga a colaborar con la administración en la elaboración del censo y el inventario general.",
+  "effective_date": "2002-08-13",
+  "procedures": [
+    {
+      "name": "Ciclo de vida y transferencia de documentos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Archivo de oficina",
+          "description": "Custodia de documentos en la unidad administrativa que los genera.",
+          "start_date": null,
+          "end_date": "5 años",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Archivo Central",
+          "description": "Transferencia de documentos tras finalizar la tramitación administrativa.",
+          "start_date": "Tras 5 años en oficina",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Archivo Intermedio",
+          "description": "Transferencia de documentos desde el archivo central al archivo de la Comunidad Autónoma.",
+          "start_date": "Tras 10 años en archivo central",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Archivo Histórico",
+          "description": "Tratamiento de documentos con valor permanente.",
+          "start_date": "Tras 15 años en archivo intermedio",
+          "end_date": null,
+          "required_documentation": "Informe previo de la Comisión de Patrimonio Documental"
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de centros de archivo existentes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de adecuación",
+          "description": "Periodo para que los centros existentes cumplan los nuevos requisitos de la ley.",
+          "start_date": "Fecha de entrada en vigor",
+          "end_date": "2 años",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

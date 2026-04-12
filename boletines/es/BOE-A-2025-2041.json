@@ -1,0 +1,99 @@
+{
+  "identifier": "BOE-A-2025-2041",
+  "title": "Orden CNU/104/2025, de 30 de enero, por la que se modifican y suprimen diferentes órganos colegiados de evaluación adscritos al Organismo Autónomo Agencia Nacional de Evaluación de la Calidad y Acreditación",
+  "visible_title": "Modificación y supresión de órganos de evaluación de la ANECA",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio de Ciencia, Innovación y Universidades",
+  "official_number": "CNU/104/2025",
+  "publication_date": "2025-02-05",
+  "enactment_date": "2025-01-30",
+  "last_updated": "2025-02-05",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2025/01/30/cnu104",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "31",
+  "summary": "Esta norma moderniza la estructura de los órganos de evaluación de la ANECA para adaptarlos a la normativa universitaria actual. Busca agilizar la gestión de expedientes mediante la creación de 'paneles' de especialistas y una organización más flexible que responda a los picos de demanda. Además, redefine las funciones de las comisiones de homologación, ayudas y acreditación para garantizar mayor rigor y eficiencia en el uso de recursos públicos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes, salvo para aquellos que realicen trámites de homologación de títulos extranjeros o soliciten ayudas universitarias, quienes podrían experimentar una gestión más ágil y coherente.",
+  "professional_impact": "Afecta directamente a académicos, investigadores y personal universitario, quienes participarán como especialistas o miembros de comisiones bajo nuevas reglas de organización por paneles. También impacta a las universidades en sus procesos de acreditación institucional y certificación de calidad docente.",
+  "keywords": [
+    "ANECA",
+    "evaluación universitaria",
+    "homologación de títulos",
+    "acreditación institucional",
+    "docencia universitaria",
+    "órganos colegiados",
+    "ayudas universitarias"
+  ],
+  "key_points": [
+    "Creación de 'paneles' de especialistas para agilizar la evaluación según el volumen de solicitudes.",
+    "Desdoblamiento de la comisión de programas AUDIT y DOCENTIA para tratar sus particularidades por separado.",
+    "Supresión de la Comisión para la determinación de la equivalencia de nota media de expedientes extranjeros por falta de uso.",
+    "Refuerzo de la representación de profesiones con alto volumen de expedientes en la comisión de homologaciones.",
+    "Implementación de un sistema de especialistas seleccionados de una base de datos pública de la ANECA.",
+    "Obligatoriedad de aceptar el Código ético de la ANECA para ejercer como miembro o especialista.",
+    "Garantía de presencia equilibrada entre mujeres y hombres en la designación de todos los órganos y especialistas."
+  ],
+  "legal_references": [
+    "Orden ECD/1746/2016",
+    "Ley Orgánica 2/2023",
+    "Ley 17/2022",
+    "Real Decreto 889/2022",
+    "Real Decreto 640/2021",
+    "Ley 39/2015",
+    "Ley 50/1997",
+    "Real Decreto 1112/2015",
+    "Real Decreto 829/2023",
+    "Real Decreto 1009/2023",
+    "Real Decreto 472/2024",
+    "Ley 40/2015",
+    "Ley Orgánica 3/2007",
+    "Real Decreto 462/2002"
+  ],
+  "derogations": [
+    "Orden ECD/1746/2016, de 28 de octubre"
+  ],
+  "main_obligations": null,
+  "effective_date": "2025-02-06",
+  "procedures": [
+    {
+      "name": "Evaluación de solicitudes de la ANECA (Homologaciones, Ayudas, Acreditación, DOCENTIA, Complementos)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Selección de especialistas",
+          "description": "La Dirección de la ANECA selecciona especialistas de su base de datos según el perfil y volumen de la solicitud.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Aceptación expresa del Código ético de la ANECA y formación específica si procede."
+        },
+        {
+          "step": 2,
+          "title": "Elaboración de propuesta de informe",
+          "description": "Los especialistas o paneles elaboran una propuesta técnica de informe.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación por la Comisión",
+          "description": "La comisión correspondiente revisa, aprueba o rechaza la propuesta de informe de los especialistas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Traslado del informe final",
+          "description": "La ANECA remite el informe final a la unidad competente (Ministerio o Universidad) para concluir el trámite.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

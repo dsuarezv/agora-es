@@ -1,0 +1,115 @@
+{
+  "identifier": "BOE-A-2022-9438",
+  "title": "Ley 2/2022, de 19 de mayo, de aplicación y desarrollo de la Ley 1/2021, de 11 de febrero, de simplificación administrativa",
+  "visible_title": "Ley de aplicación y desarrollo de la simplificación administrativa en Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "2/2022",
+  "publication_date": "2022-06-09",
+  "enactment_date": "2022-05-19",
+  "last_updated": "2023-05-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2022/05/19/2",
+  "official_journal": "Boletín Oficial de Aragón",
+  "journal_issue": null,
+  "summary": "Esta ley busca eliminar la burocracia excesiva en Aragón mediante la simplificación de trámites y la modernización de la administración. Sustituye licencias previas por declaraciones responsables y activa el silencio administrativo positivo para agilizar la respuesta institucional. Además, reduce drásticamente los plazos de resolución en sectores estratégicos como urbanismo o agricultura. Finalmente, permite una gestión de datos más ágil y obliga a la administración a comunicarse de forma clara y accesible.",
+  "citizen_impact": "Los ciudadanos disfrutarán de trámites más rápidos y menos papeles: podrán usar declaraciones responsables en lugar de esperar licencias en espectáculos o agricultura, y podrán presentar copias de documentos en lugar de originales. Además, se garantiza el derecho a recibir información en lenguaje claro y lectura fácil para personas con discapacidad cognitiva.",
+  "professional_impact": "Las empresas y profesionales de sectores como urbanismo, vivienda, carreteras y agricultura verán reducidos sus tiempos de espera a un máximo de tres meses. Los gestores de asociaciones y fundaciones deberán adaptarse a la digitalización obligatoria de libros y a la nueva gestión de datos personales, mientras que la administración deberá reformular sus procesos para cumplir con los nuevos estándares de accesibilidad y rapidez.",
+  "keywords": [
+    "simplificación administrativa",
+    "Aragón",
+    "declaración responsable",
+    "silencio administrativo positivo",
+    "desburocratización",
+    "lenguaje claro"
+  ],
+  "key_points": [
+    "Sustitución de autorizaciones por declaraciones responsables en espectáculos públicos, hacienda y agricultura.",
+    "Activación del silencio administrativo positivo en procedimientos de violencia de género, servicios sociales y sanidad.",
+    "Reducción del plazo de resolución a un máximo de 3 meses en trámites de urbanismo, vivienda, carreteras y agricultura.",
+    "Permiso para presentar copias de documentos en el Registro de Asociaciones mediante declaración responsable.",
+    "Digitalización obligatoria de la legalización de libros para fundaciones.",
+    "Obligación de la Administración de usar lenguaje claro y lectura fácil para personas con discapacidad cognitiva.",
+    "Autorización para crear textos refundidos en Hacienda, Espectáculos Públicos, Patrimonio y Subvenciones en un año.",
+    "Simplificación de la gestión de datos personales mediante la revisión de ficheros de la administración.",
+    "Facultad para que los departamentos dicten disposiciones de desarrollo para ejecutar la simplificación."
+  ],
+  "legal_references": [
+    "Ley 1/2021, de 11 de febrero, de simplificación administrativa",
+    "Estatuto de Autonomía de Aragón",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Ley 8/2001, de 31 de mayo, de adaptación de procedimientos",
+    "Ley 5/2015, de 25 de marzo, de subvenciones de Aragón",
+    "Ley 2/2014, de 29 de agosto, de Cooperativas de Aragón",
+    "Ley 5/2005, de 25 de marzo, de Ordenación del Sistema Universitario de Aragón",
+    "Decreto 51/2000, de 14 de marzo",
+    "Decreto 111/2014, de 8 de julio",
+    "Decreto 50/2004, de 9 de marzo",
+    "Decreto 73/2016, de 14 de junio",
+    "Orden de 30 de diciembre de 2008",
+    "Decreto Legislativo 1/2000, de 29 de junio (Hacienda)",
+    "Ley 11/2005, de 28 de diciembre (Espectáculos Públicos)",
+    "Decreto Legislativo 4/2013, de 17 de diciembre (Patrimonio)"
+  ],
+  "derogatons": [
+    "Ley 8/2001, de 31 de mayo, de adaptación de procedimientos a la regulación del silencio administrativo y los plazos de resolución y notificación",
+    "Decreto 98/2003, de 29 de abril, de los ficheros de carácter personal",
+    "Decreto 213/1994, de 25 de octubre, de la Diputación General de Aragón (acreditación de laboratorios)",
+    "Diversos decretos de creación de ficheros de datos de carácter personal mencionados en la norma"
+  ],
+  "main_obligations": "La Administración tiene la obligación de adoptar medidas de accesibilidad cognitiva y lenguaje claro. Los plazos de resolución en sectores clave no podrán exceder los tres meses y las sociedades mercantiles públicas deben justificar la idoneidad de sus encargos.",
+  "effective_date": "2022-07-09",
+  "procedures": [
+    {
+      "name": "Trámites de la Administración (General)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "descrption": "El interesado presenta la solicitud, pudiendo aportar copias de documentos mediante declaración responsable.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": "Copia de documentos originales (con declaración de veracidad)"
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "descrption": "La Administración debe resolver en un plazo máximo de 3 meses en los casos señalados por la ley.",
+          "start_date": "Desde la presentación",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Legalización de libros de Fundaciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación electrónica",
+          "descrption": "Las fundaciones deben presentar el libro diario, de actas, de inventarios y cuentas anuales vía sede electrónica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Libros en formato electrónico"
+        }
+      ]
+    },
+    {
+      "name": "Elaboración de Textos Refundidos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de aprobación",
+          "description": "El Gobierno de Aragón debe aprobar los textos refundidos de Hacienda, Espectáculos, Patrimonio y Subvenciones.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

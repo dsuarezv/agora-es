@@ -1,0 +1,85 @@
+{
+  "identifier": "BOE-A-2023-3350",
+  "title": "Ley Foral 37/2022, de 28 de diciembre, del Impuesto sobre las Transacciones Financieras",
+  "visible_title": "Impuesto sobre las Transacciones Financieras",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "37/2022",
+  "publication_date": "2023-02-09",
+  "enactment_date": "2022-12-28",
+  "last_updated": "2023-02-07",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2022/12/28/37",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece un impuesto indirecto en Navarra que grava la compra de acciones de grandes empresas con una capitalización bursátil superior a 1.000 millones de euros. El objetivo es reforzar la equidad del sistema tributario y consolidar las finanzas públicas mediante la captación de ingresos de operaciones financieras de gran volumen. El impuesto se aplica independientemente de dónde se realice la operación o la residencia de los implicados, siempre que la sociedad sea española.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que el impuesto recae sobre grandes transacciones financieras y no sobre el consumo o la renta personal.",
+  "professional_impact": "Afecta principalmente a entidades financieras, empresas de servicios de inversión y grandes inversores. Las entidades financieras actúan como sujetos pasivos (sustitutos) y deben gestionar la autoliquidación, el ingreso y la comunicación de datos a la Administración, lo que implica una carga administrativa de gestión y reporte.",
+  "keywords": [
+    "Impuesto sobre las Transacciones Financieras",
+    "Navarra",
+    "acciones",
+    "capitalización bursátil",
+    "transacciones financieras",
+    "sujeto pasivo",
+    "entidades financieras"
+  ],
+  "key_points": [
+    "Se aplica un tipo impositivo del 0,2% sobre la adquisición onerosa de acciones.",
+    "Solo afecta a sociedades españolas con una capitalización bursátil superior a 1.000 millones de euros.",
+    "Las acciones deben estar admitidas a negociación en un mercado regulado (español o de la UE).",
+    "Las entidades financieras actúan como responsables de la liquidación y el ingreso del impuesto.",
+    "Se excluyen operaciones de mercado primario, reestructuraciones empresariales y movimientos entre empresas de un mismo grupo.",
+    "El impuesto se devenga en el momento de la anotación de los valores en la cuenta del adquiriente.",
+    "Existe un procedimiento ágil para rectificar errores en las autoliquidaciones sin que el resultado sea negativo."
+  ],
+  "legal_references": [
+    "Ley 5/2020, de 15 de octubre, del Impuesto sobre las Transacciones Financieras",
+    "Ley de Sociedades de Capital (Real Decreto Legislativo 1/2010)",
+    "Directiva 2014/65/UE",
+    "Ley Foral 13/2000, de 14 de diciembre, General Tributaria",
+    "Convenio Económico entre el Estado y la Comunidad Foral de Navarra"
+  ],
+  "derogations": [],
+  "main_obligations": "Los sujetos pasivos (entidades financieras) deben presentar la autoliquidación e ingresar el impuesto mensualmente. Deben mantener la documentación de las operaciones a disposición de la Administración y, en ciertos casos, realizar la comunicación de datos para aplicar exenciones.",
+  "effective_date": "2021-01-16",
+  "procedures": [
+    {
+      "name": "Autoliquidación e ingreso del impuesto",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Determinación del periodo de liquidación",
+          "description": "El impuesto se calcula y liquida con periodicidad mensual (mes natural).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación y pago",
+          "description": "El sujeto pasivo presenta la autoliquidación e ingresa la deuda, pudiendo hacerlo a través de un depositario central de valores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Información de las operaciones sujetas al impuesto"
+        }
+      ]
+    },
+    {
+      "name": "Rectificación de autoliquidaciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de rectificación",
+          "description": "El sujeto pasivo puede rectificar errores en la autoliquidación dentro de los 4 años siguientes al ingreso.",
+          "start_date": null,
+          "end_date": "4 años desde la fecha del ingreso",
+          "required_documentation": "Justificantes de la operación rectificada"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

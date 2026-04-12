@@ -1,0 +1,88 @@
+{
+  "identifier": "BOE-A-2003-13618",
+  "title": "Ley 16/2003, de 8 de abril, de Prevención y Protección Integral de las Mujeres contra la Violencia de Género",
+  "visible_title": "Ley de Prevención y Protección Integral de las Mujeres contra la Violencia de Género",
+  "rank": "ley",
+  "country": "es",
+  "department": "Parlamento de Canarias",
+  "official_number": "16/2003",
+  "publication_date": "2003-07-08",
+  "enactment_date": "2003-04-08",
+  "last_updated": "2017-03-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2003/04/08/16",
+  "official_journal": "Boletín Oficial de Canarias",
+  "journal_issue": null,
+  "summary": "Esta ley crea el Sistema Canario de Intervención Integral para combatir la violencia contra las mujeres en todo el territorio de Canarias. Establece un modelo de actuación coordinado entre sanidad, educación, seguridad y servicios sociales para prevenir, detectar y asistir a las víctimas. El objetivo es ofrecer una respuesta unificada que incluya desde la detección temprana hasta el alojamiento y la reinserción social de las mujeres agredidas.",
+  "citizen_impact": "Las mujeres víctimas de violencia de género en Canarias acceden a un sistema de protección que incluye desde asistencia jurídica gratuita hasta recursos de alojamiento (casas de acogida y pisos tutelados). También garantiza prioridad en el acceso a vivienda social y ayudas para la inserción laboral.",
+  "professional_impact": "Personal de centros sanitarios, de servicios sociales y educativos tiene la obligación legal de comunicar situaciones de riesgo o maltrato detectadas. El incumplimiento de esta obligación en el sector público se considera una falta disciplinaria grave. Asimismo, las empresas y sindicatos deben colaborar comunicando casos de acoso sexual o violencia de género.",
+  "keywords": [
+    "violencia de género",
+    "protección a la mujer",
+    "Canarias",
+    "asistencia social",
+    "prevención",
+    "víctimas",
+    "acogida"
+  ],
+  "key_points": [
+    "Creación del Sistema Canario de Intervención Integral contra la Violencia hacia las Mujeres.",
+    "Obligación de comunicación de casos de violencia para profesionales de sanidad, servicios sociales y educación.",
+    "Establecimiento de una red de centros de acogida con distintos niveles: DEMA (emergencia), CAI (inmediata), Casas de Acogida y Pisos Tutelados.",
+    "Derecho a asistencia jurídica gratuita en procedimientos civiles y penales derivados de la violencia de género.",
+    "Prioridad en el acceso a vivienda social para mujeres víctimas.",
+    "Implementación de programas de formación y ayudas para la inserción laboral de las víctimas.",
+    "Creación de un Fondo de Emergencia para ayudas económicas inmediatas gestionadas por municipios.",
+    "Integración de contenidos de igualdad y respeto en los currículos educativos canarios."
+  ],
+  "legal_references": [
+    "Estatuto de Autoformía de Canarias",
+    "Código Penal español"
+  ],
+  "derogations": [
+    "Todas las disposiciones de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": "Los profesionales de sanidad, servicios sociales y educación están obligados a comunicar a la administración las situaciones de riesgo o maltrato detectadas. Las empresas y sindicatos deben comunicar situaciones de violencia o acoso sexual detectadas en el ámbito laboral.",
+  "effective_date": "2003-07-28",
+  "procedures": [
+    {
+      "name": "Sistema de acogida y asistencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Asistencia inmediata (DEMA)",
+          "description": "Atención de emergencia, asesoramiento jurídico y acompañamiento médico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Acogida inmediata (CAI)",
+          "description": "Alojamiento y manutención temporal por un plazo máximo de 15 días.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Casa de Acogida (CA)",
+          "description": "Alojamiento y programas de apoyo para la reintegración social.",
+          "start_date": null,
+          "end_date": "12 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Piso Tutelado (PT)",
+          "description": "Alojamiento tras agotar el plazo en Casa de Acogida o por condiciones específicas.",
+          "start_date": null,
+          "end_date": "12 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

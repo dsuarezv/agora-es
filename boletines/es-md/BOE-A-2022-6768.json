@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-2022-6768",
+  "title": "Ley 1/2022, de 10 de febrero, Maestra de Libertad de Elección Educativa de la Comunidad de Madrid",
+  "visible_title": "Ley de Libertad de Elección Educativa de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "1/2022",
+  "publication_date": "2022-04-27",
+  "enactment_date": "2022-02-10",
+  "last_updated": "2022-02-15",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2022/02/10/1",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley busca blindar y dar estabilidad jurídica al modelo educativo de la Comunidad de Madrid, centrándose en garantizar que las familias puedan elegir el centro escolar de sus hijos sin que su lugar de residencia sea un obstáculo. Además, establece un marco específico para la atención de alumnos con necesidades educativas especiales, priorizando la inclusión en centros ordinarios. La norma también refuerza la transparencia informativa de los centros y la gratuidad de la enseñanza obligatoria.",
+  "citizen_impact": "Las familias en Madrid tienen garantizado el derecho a elegir centro escolar (público o concertado) sin restricciones por zona de residencia. Se mejora la transparencia, ya que los centros deben publicar claramente sus precios de actividades extraescolares y proyectos educativos. Para familias con hijos con necesidades especiales, se asegura un proceso de evaluación y escolarización más estructurado y consensuado.",
+  "professional_impact": "Los centros educativos (públicos y concertados) deben cumplir con mayores estándares de transparencia informativa en sus webs. Los profesionales de la educación, especialmente en el área de necesidades especiales, verán reforzada su labor de apoyo y coordinación. Se establece un nuevo marco para la inspección educativa y la evaluación del sistema.",
+  "keywords": [
+    "libertad de elección",
+    "educación",
+    "Comunidad de Madrid",
+    "necesidades educativas especiales",
+    "centros concertados",
+    "inclusión educativa",
+    "escolarización"
+  ],
+  "key_points": [
+    "Eliminación de la zonificación territorial como límite para la elección de centro escolar.",
+    "Garantía de escolarización en centros ordinarios para alumnos con necesidades especiales, salvo casos muy específicos.",
+    "Obligación de los centros de publicar en su web la oferta educativa, precios de actividades y proyecto educativo antes de la matrícula.",
+    "Creación de modalidades de educación combinada entre centros ordinarios y de educación especial.",
+    "Reconocimiento de la figura de los centros ordinarios de atención preferente para necesidades especiales.",
+    "Derecho de las familias a participar activamente en las decisiones de escolarización y evaluación de sus hijos.",
+    "Garantía de la enseñanza en castellano como lengua vehicular.",
+    "Posibilidad de que la administración convoque concursos para gestionar centros privados en suelo público."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley Orgánica 2/2006, de 3 de mayo, de Educación",
+    "Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación",
+    "Real Decreto 2377/1985, de 18 de diciembre",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales",
+    "Convenio de la UNESCO de 1960 sobre la lucha contra las discriminaciones en la enseñanza"
+  ],
+  "derogations": [
+    "Cualquier disposición de igual o inferior rango que se oponga a esta ley"
+  ],
+  "main_obligations": "Los centros deben facilitar información transparente sobre costes y proyectos educativos. La administración debe garantizar plazas suficientes y la gratuidad de la enseñanza obligatoria. Los centros concertados deben asumir un compromiso social de prestación de servicio público sin fines lucrativos en sus actividades concertadas.",
+  "effective_date": "2022-04-28",
+  "procedures": [
+    {
+      "name": "Proceso de escolarización y admisión",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación de información por el centro",
+          "description": "Los centros deben publicar su oferta, ideario y precios de actividades antes del periodo de matrícula.",
+          "start_date": "Antes del periodo de petición de plaza",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de plaza",
+          "description": "Las familias presentan su solicitud de admisión siguiendo la programación de la Comunidad de Madrid.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Evaluación y escolarización de alumnos con necesidades especiales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Identificación y valoración",
+          "description": "Detección temprana y evaluación inicial de las necesidades del alumno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Elaboración del informe psicopedagógico",
+          "description": "Creación de un documento con la propuesta de necesidades y apoyos, requiriendo autorización familiar.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Autorización de padres o tutores"
+        },
+        {
+          "step": 3,
+          "title": "Dictamen de escolarización",
+          "description": "Emisión del informe técnico que propone la modalidad de escolarización más adecuada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

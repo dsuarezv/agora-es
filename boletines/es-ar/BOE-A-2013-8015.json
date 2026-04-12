@@ -1,0 +1,110 @@
+{
+  "identifier": "BOE-A-2013-8015",
+  "title": "Ley 5/2013, de 20 de junio, de calidad de los Servicios Públicos de la Administración de la Comunidad Autónoma de Aragón",
+  "visible_title": "Ley de calidad de los Servicios Públicos de la Administración de Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "5/2013",
+  "publication_date": "2013-07-23",
+  "enactment_date": "2013-06-20",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2013/06/20/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un marco integral para mejorar la gestión de la Administración de Aragón, poniendo al ciudadano en el centro de sus servicios. Introduce mecanismos de evaluación de políticas públicas y de calidad de servicios para asegurar que los recursos se usen de forma eficiente. Busca fomentar la transparencia y la participación ciudadana mediante herramientas como las Cartas de Servicios y la gestión de quejas y sugerencias.",
+  "citizen_impact": "Los ciudadanos ganan herramientas para conocer de antemano qué esperar de un servicio público (mediante Cartas de Servicios) y tienen canales más formales para presentar quejas o sugerencias. Se garantiza su derecho a participar en la evaluación de las políticas que les afectan y a recibir información clara sobre los estándares de calidad de la Administración.",
+  "professional_impact": "Los empleados públicos deben adaptarse a una cultura de mejora continua, participando en grupos de mejora y procesos de evaluación. Se introducen incentivos como premios a la calidad y la formación específica en gestión de calidad, pero también nuevas responsabilidades en cuanto a la medición de resultados y transparencia.",
+  "keywords": [
+    "calidad de servicios públicos",
+    "administración pública",
+    "Aragón",
+    "evaluación de políticas",
+    "cartas de servicios",
+    "participación ciudadana",
+    "mejora continua",
+    "transparencia"
+  ],
+  "key_points": [
+    "Creación de un Plan General de mejora de la calidad de los servicios públicos de carácter plurianual.",
+    "Obligatoriedad de implementar Cartas de Servicios que detallen compromisos, derechos y estándares de calidad.",
+    "Establecimiento de un sistema formal de quejas y sugerencias con obligación de respuesta en un mes.",
+    "Creación de la Comisión para la evaluación de las políticas públicas y la calidad de los servicios públicos.",
+    "Implementación de grupos de mejora formados por empleados públicos para innovar en la gestión.",
+    "Introducción de premios a la calidad para reconocer tanto a organismos como a iniciativas de empleados públicos.",
+    "Obligación de realizar estudios de satisfacción ciudadana y análisis de demanda de forma sistemática."
+  ],
+  "legal_references": [
+    "Texto Refundido de la Ley de la Administración de la Comunidad Autónoma de Aragón (Decreto Legislativo 2/2001)",
+    "Estatuto de Autonomía de Aragón",
+    "Ley 6/2002 de Salud de Aragón",
+    "Ley 5/2009 de Servicios Sociales de Aragón",
+    "Ley 5/2005 de Ordenación del Sistema Universitario de Aragón",
+    "Decreto 91/2001 del Gobierno de Aragón",
+    "Decreto 115/2012 del Gobierno de Aragón",
+    "Ley Orgánica 5/2007 de reforma del Estatuto de Autonomía de Aragón",
+    "Real Decreto 1259/1999",
+    "Real Decreto 951/2005",
+    "Ley Orgánica 4/2001 del Derecho de Petición"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": "La Administración debe aprobar un Plan General de mejora de la calidad en un plazo de 6 meses tras la entrada en vigor. Los responsables de unidades deben responder a las quejas o sugerencias ciudadanas en un plazo máximo de un mes.",
+  "effective_date": "2013-07-24",
+  "procedures": [
+    {
+      "name": "Tramitación de quejas y sugerencias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación",
+          "description": "El ciudadano presenta su queja o sugerencia por escrito, teléfono o vía electrónica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Formulario de quejas/sugerencias disponible en la sede electrónica o dependencias."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y respuesta",
+          "description": "El responsable de la unidad competente debe dar respuesta incluyendo las medidas adoptadas.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Seguimiento y mejora",
+          "description": "La Dirección General analiza las causas y puede constituir grupos de mejora si se detectan deficiencias.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aprobación del Plan General de mejora de la calidad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración y aprobación",
+          "description": "El Gobierno de Aragón debe aprobar el Plan General con su correspondiente memoria económica.",
+          "start_date": "2013-07-24",
+          "end_date": "6 meses",
+          "required_documentation": "Memoria económica del Plan"
+        },
+        {
+          "step": 2,
+          "title": "Debate en las Cortes",
+          "description": "El Plan es remitido a las Cortes de Aragón para su debate ante el Pleno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

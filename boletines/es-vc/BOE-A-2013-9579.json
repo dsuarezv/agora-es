@@ -1,0 +1,138 @@
+{
+  "identifier": "BOE-A-2013-9579",
+  "title": "Ley 3/2013, de 26 de julio, de los Contratos y otras Relaciones Jurídicas Agrarias",
+  "visible_title": "Ley de Contratos y Relaciones Jurídicas Agrarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "3/2013",
+  "publication_date": "2013-09-16",
+  "enactment_date": "2013-07-26",
+  "last_updated": "2019-02-08",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2013/07/26/3",
+  "official_journal": "Diario Oficial de la Comunitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y da seguridad jurídica al sector agrario de la Comunidad Valenciana, poniendo fin a prácticas tradicionales abusivas como la 'venta a ojo'. Su objetivo principal es proteger al agricultor frente a la incertidumbre de precios y la falta de formalidad contractual. Introduce la obligatoriedad de contratos escritos y establece mecanismos de transparencia mediante un nuevo registro. Además, endurece drásticamente las sanciones para las empresas que intenten aprovecharse de la dependencia económica de los productores.",
+  "citizen_impact": "Los agricultores y productores primarios ganan protección legal al prohibir contratos sin precio cierto y asegurar que el pago en ventas al peso se realice en un máximo de un mes tras la recolección. También tienen derecho a recibir una parte del plusvalor (40-50%) si sus terrenos se transforman urbanísticamente.",
+  "professional_impact": "Las empresas agroindustriales y comercializadoras deben cumplir con protocolos estrictos: formalizar contratos por escrito, registrarlos y respetar los precios del Observatorio de la Generalitat. El incumplimiento puede acarrear multas de hasta un millón de euros y la exposición pública de la sanción.",
+  "keywords": [
+    "contratos agrarios",
+    "agricultura",
+    "Comunitat Valenciana",
+    "seguridad jurídica",
+    "arrendamiento histórico",
+    "protección al productor",
+    "precios agrarios"
+  ],
+  "key_points": [
+    "Obligatoriedad de formalizar por escrito todos los contratos de compraventa agraria.",
+    "Prohibición de cláusulas que fijen precios de forma indeterminada; el precio debe ser cierto.",
+    "Uso obligatorio de los precios del Observatorio de Precios de la Comunidad Valenciana en caso de duda.",
+    "Plazo máximo de pago de un mes para agricultores personas físicas en ventas al peso.",
+    "Creación del Registro de Operadores, Contratos y otras Relaciones Jurídicas Agrarias para garantizar transparencia.",
+    "Regulación del arrendamiento histórico para asegurar la continuidad de la empresa familiar.",
+    "Derecho de los arrendatarios a participar en el plusvalor (40-50%) por transformación urbanística.",
+    "Sanciones económicas severas que oscilan entre 5.000€ y 1.000.000€.",
+    "Posibilidad de sanción de publicidad (exposición pública de empresas infractoras).",
+    "Presunción de responsabilidad para empresas que se aprovechen de la dependencia económica del productor.",
+    "La reincidencia (dos infracciones graves en dos años) se considera infracción muy grave."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunidad Valenciana",
+    "Ley 6/1986, de 15 de diciembre, de la Generalitat, de Arrendamientos Históricos Valencianos",
+    "Código Civil",
+    "Ley 40/2015, de 1 de diciembre, de Régimen Jurídico del Sector Público",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Ley 16/2005, de 30 de diciembre, de la Generalitat, Urbanística Valenciana",
+    "Ley 15/2010, de 5 de julio (Lucha contra la morosidad)",
+    "Ley 15/2007, de 3 de julio (Defensa de la competencia)"
+  ],
+  "derogations": [
+    "Ley 6/1986, de 15 de diciembre, de la Generalitat, de Arrendamientos Históricos Valencianos"
+  ],
+  "main_obligations": "Los contratos agrarios deben formalizarse siempre por escrito y registrarse en el Registro de Operadores. Los agricultores deben conservar la documentación contractual durante al menos 5 años, mientras que los arrendadores deben emitir recibos con todos los datos fiscales.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Derecho de adquisición preferente (Tanteo y Retracto)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de venta",
+          "description": "El arrendador debe notificar fehacientemente al arrendatario su intención de vender la finca con los elementos esenciales del contrato.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento fehaciente de notificación"
+        },
+        {
+          "step": 2,
+          "title": "Ejercicio del derecho",
+          "description": "El arrendatario dispone de un plazo para comunicar si ejercerá su derecho de adquisición.",
+          "start_date": "Desde la recepción de la notificación",
+          "end_date": "60 días hábiles",
+          "required_documentation": "Notificación fehaciente de ejercicio de derecho"
+        }
+      ]
+    },
+    {
+      "name": "Reconocimiento de arrendamientos históricos existentes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de instancia",
+          "description": "Solicitud de reconocimiento ante la consejería competente aportando dictamen pericial histórico-jurídico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Instancia, dictamen pericial de especialista"
+        }
+      ]
+    },
+    {
+      "name": "Comunicación de vigencia de censos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación al Registro de la Propiedad",
+          "description": "Los titulares de censos deben comunicar su vigencia para evitar la extinción.",
+          "start_date": "Desde la entrada en vigor de la ley",
+          "end_date": "5 años",
+          "required_documentation": "Instancia dirigida al Registro, documentos acreditativos del derecho"
+        }
+      ]
+    },
+    {
+      "name": "Imposición de sanciones administrativas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del expediente",
+          "description": "Tramitación de la infracción para determinar la cuantía de la sanción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y sanción",
+          "description": "La competencia de la autoridad depende de la cuantía: Dirección General (<100k€), Secretaría Autonómica (100k-300k€), Conseller/a (300k-600k€) o Pleno del Consell (>600k€).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Publicidad de la sanción",
+          "description": "Como sanción accesoria, se publican los nombres y la naturaleza de la infracción para casos muy graves con resolución firme.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

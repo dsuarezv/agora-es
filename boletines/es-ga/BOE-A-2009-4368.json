@@ -1,0 +1,75 @@
+{
+  "identifier": "BOE-A-2009-4368",
+  "title": "Ley 15/2008, de 19 de diciembre, del impuesto sobre el daño medioambiental causado por determinados usos y aprovechamientos del agua embalsada",
+  "visible_title": "Impuesto sobre el daño medioambiental por usos del agua embalsada",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "15/2008",
+  "publication_date": "2009-03-16",
+  "enactment_date": "2008-12-19",
+  "last_updated": "2019-12-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2008/12/19/15",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma crea un impuesto en Galicia para compensar y reparar el daño que las actividades industriales causan a los ecosistemas fluviales al usar agua almacenada en embalses. El objetivo es que las empresas que alteran el caudal o la velocidad de los ríos asuman los costes ambientales que actualmente paga la sociedad. El impuesto incentiva el uso eficiente de la energía al reducir la carga tributaria si la instalación tiene una alta potencia hidroeléctrica.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, más allá de la mejora indirecta en la protección y restauración de los ríos gallegos mediante la recaudación de este tributo.",
+  "professional_impact": "Afecta directamente a empresas industriales y titulares de concesiones de aprovechamiento de agua en Galicia. Estas entidades deben realizar declaraciones iniciales y autoliquidaciones trimestrales, asumiendo una nueva carga económica basada en el volumen del embalse y el impacto de su actividad.",
+  "keywords": [
+    "impuesto medioambiental",
+    "agua embalsadá",
+    "ecosistemas fluviales",
+    "Galicia",
+    "tributo ecológico",
+    "daño ambiental",
+    "embalses"
+  ],
+  "key_points": [
+    "El impuesto grava actividades industriales que usen embalses con altura superior a 15 metros (o entre 10 y 15 metros con ciertas características de capacidad y vertido).",
+    "La base imponible es la capacidad volumétrica máxima del embalse en hm3.",
+    "El tipo de gravamen es de 800 € por hm3 trimestral, ajustado por coeficientes según el salto bruto y la potencia instalada.",
+    "Se incentiva la eficiencia energética: a mayor potencia instalada, menor es la cuota tributaria (con un límite de reducción del 25%).",
+    "Están exentos el abastecimiento de poblaciones, actividades agrarias, acuicultura, recreación y navegación.",
+    "Los ingresos se destinan específicamente a la prevención, protección y restauración del patrimonio natural fluvial gallego."
+  ],
+  "legal_references": [
+    "Estatuto de autonomía de Galicia",
+    "Constitución española",
+    "Ley 1/1995, de 2 de enero",
+    "Ley 7/1997, de 11 de agosto",
+    "Ley 9/2001, de 21 de agosto",
+    "Ley 8/2002, de 18 de diciembre",
+    "Ley 5/2006, de 30 de junio",
+    "Leyes 8/1993 y 12/1995",
+    "Ley General Tributaria"
+  ],
+  "derogatons": [],
+  "main_obligations": "Los sujetos pasivos deben presentar una declaración inicial de sus datos y realizar autoliquidaciones trimestrales de la cuota resultante. El pago debe efectuarse en los plazos que determine la Consejería de Hacienda de la Xunta de Galicia.",
+  "effective_date": "2009-03-17",
+  "procedures": [
+    {
+      "name": "Gestión del impuesto",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración inicial",
+          "description": "Presentación de los datos básicos de la actividad y el embalse ante la administración.",
+          "start_date": "Según plazos de la orden de la consejería",
+          "end_date": null,
+          "required_documentation": "Modelos aprobados por la consejería competente"
+        },
+        {
+          "step": 2,
+          "title": "Autoliquidación trimestral",
+          "description": "Determinación de la deuda tributaria y pago del impuesto cada trimestre.",
+          "start_date": "Último día del trimestre natural",
+          "end_date": null,
+          "required_documentation": "Modelos de autoliquidación aprobados"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

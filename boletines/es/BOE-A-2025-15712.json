@@ -1,0 +1,134 @@
+{
+  "identifier": "BOE-A-2025-15712",
+  "title": "Instrucción de 23 de julio de 2025, de la Dirección General de Seguridad Jurídica y Fe Pública, sobre la realización del traslado de inscripciones realizadas de conformidad con la Ley de 8 de junio de 1957, del Registro Civil, a registros individuales",
+  "visible_title": "Traslado de inscripciones del Registro Civil tradicional a registros individuales electrónicos",
+  "rank": "instrucción",
+  "country": "es",
+  "department": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes",
+  "official_number": "15712",
+  "publication_date": "2025-07-29",
+  "enactment_date": "2025-07-23",
+  "last_updated": "2025-07-29",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/ins/2025/07/23/(1)",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "181",
+  "summary": "Esta instrucción establece el procedimiento técnico para digitalizar y trasladar los datos de los antiguos libros de registro civil (manuscritos o de hojas móviles) al nuevo sistema electrónico unificado (DICIREG). El objetivo es sustituir progresivamente el modelo de papel por un registro digital individualizado y accesible electrónicamente. Para ello, se definen reglas de validación, firma electrónica y mecanismos de cierre automático de los libros físicos para evitar duplicidades o manipulaciones.",
+  "citizen_impact": "Sin impacto directo inmediato en la vida diaria, salvo que facilita que, en el futuro, la obtención de certificados de estado civil sea más rápida y digital. Los ciudadanos no tienen que realizar ningún trámite adicional por esta norma.",
+  "professional_impact": "Impacto alto para los funcionarios del Registro Civil, quienes deberán seguir nuevos protocolos de validación manual y electrónica de datos. Se les impone la tarea de verificar borradores, firmar digitalmente los traslados y proceder al cierre formal de los libros físicos para garantizar la seguridad jurídica.",
+  "keywords": [
+    "Registro Civil",
+    "DICIREG",
+    "digitalización",
+    "inscripciones",
+    "seguridad jurídica",
+    "traslado de datos",
+    "estado civil"
+  ],
+  "key_points": [
+    "Migración de datos de libros antiguos (Ley de 1957) al nuevo sistema electrónico (Ley 20/2011).",
+    "Creación de un 'asiento de cierre de traslado' que cancela automáticamente la inscripción en el libro físico.",
+    "Uso obligatorio de firma electrónica por parte de los encargados para validar los nuevos asientos.",
+    "Procedimiento diferenciado según si el libro es manuscrito, digitalizado o consular.",
+    "Los libros físicos procesados se cerrarán formalmente para impedir nuevas anotaciones manuales.",
+    "La información histórica se incorporará de forma gradual según disponibilidad técnica y presupuestaria."
+  ],
+  "legal_references": [
+    "Ley 8 de junio de 1957, del Registro Civil",
+    "Ley 20/2011, de 21 de julio, del Registro Civil"
+  ],
+  "derogatations": [],
+  "main_obligations": "Los encargados del Registro Civil deben validar mediante firma electrónica los borradores de los asientos trasladados y asegurar que el asiento de cierre se registre correctamente en DICIREG para cancelar la inscripción original.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Traslado de inscripciones en libros no informatizados (manuscritos)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aportación de soporte",
+          "description": "La oficina que custodia el libro debe aportar una copia electrónica o certificado del folio al expediente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Copia electrónica o certificado del folio"
+        },
+        {
+          "step": 2,
+          "title": "Elaboración de borradores",
+          "description": "La oficina tramitadora elabora manualmente los borradores de los asientos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Validación y firma",
+          "description": "El encargado verifica los borradores y los firma electrónicamente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Cierre automático",
+          "description": "El sistema DICIREG genera el asiento de cierre que cancela la inscripción en el libro físico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Traslado de inscripciones en soporte informático (digitalizadas o hojas móviles)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Gestión de datos",
+          "description": "La oficina tramitadora realiza el traslado aportando el certificado literal por medios informáticos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado literal informático"
+        },
+        {
+          "step": 2,
+          "title": "Verificación de borradores",
+          "description": "Se usan datos automáticos de DICIREG o incorporación manual para crear borradores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Firma y cierre",
+          "description": "Firma del encargado y generación automática del asiento de cierre por el sistema.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Traslado de inscripciones consulares",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Reasignación de expediente",
+          "description": "El expediente se envía a la oficina consular que custodia el libro para que aporte la copia electrónica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Copia electrónica del folio consular"
+        },
+        {
+          "step": 2,
+          "title": "Validación y cierre",
+          "description": "Tras la firma del encargado, el asiento de cierre cancela tanto el libro consular como su duplicado en el Registro Civil Central.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

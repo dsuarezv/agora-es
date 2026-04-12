@@ -1,0 +1,83 @@
+{
+  "identifier": "BORM-s-2025-90237",
+  "title": "Decreto-ley 3/2025, de 2 de octubre, de medidas urgentes en materia de vivienda y ordenación urbanística",
+  "visible_title": "Medidas urgentes en materia de vivienda y ordenación urbanística",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "3/2025",
+  "publication_date": "2025-10-04",
+  "enactment_date": "2025-10-02",
+  "last_updated": "2025-11-14",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2025-90237",
+  "official_journal": "BORM",
+  "journal_issue": "90237",
+  "summary": "Esta norma busca frenar el aumento de precios de la vivienda en Murcia mediante la creación de nuevos modelos de vivienda protegida y la agilización de la oferta de suelo. Introduce figuras como la 'Vivienda Asequible de la Región de Murcia' y modelos de cohousing o coliving. Además, flexibiliza la normativa urbanística para permitir cambios de uso en oficinas y locales comerciales hacia uso residencial protegido.",
+  "citizen_impact": "Busca facilitar el acceso a la vivienda para jóvenes y familias mediante una mayor oferta de alquiler y compra a precios controlados. Los ciudadanos podrían beneficiarse de nuevas modalidades de convivencia (coliving/cohousing) y de una rehabilitación más rápida de edificios abandonados.",
+  "professional_impact": "Promotores y constructoras obtienen incentivos como primas de edificabilidad de hasta el 50% si destinan la obra a vivienda protegida. Los arquitectos y urbanistas se enfrentan a una tramitación más ágil gracias a la creación de una plataforma urbanística digital y la reducción de plazos administrativos a la mitad.",
+  "keywords": [
+    "vivienda protegida",
+    "vivienda asequible",
+    "urbanismo",
+    "rehabilitación",
+    "cambio de uso",
+    "edificabilidad",
+    "Murcia"
+  ],
+  "key_points": [
+    "Creación de la nueva categoría de 'Vivienda Asequible de la Región de Murcia'.",
+    "Permite convertir oficinas y locales comerciales en viviendas protegidas sin modificar el planeamiento.",
+    "Incentivo de hasta un 50% de edificabilidad extra para proyectos de vivienda protegida en parcelas públicas.",
+    "Facilita la rehabilitación de edificios y urbanizaciones que quedaron inconclusos.",
+    "Reducción de los plazos de los trámites administrativos a la mitad para agilizar la ejecución.",
+    "Introducción de modelos de vivienda coliving y cohousing para colectivos específicos.",
+    "Creación de una Plataforma Urbanística Digital para coordinar la gestión del suelo.",
+    "Posibilidad de usar suelo de equipamientos públicos para vivienda protegida (límite del 5%)."
+  ],
+  "legal_references": [
+    "Ley 6/2015, de 24 de marzo, de Vivienda y Lucha contra la Ocupación de la Región de Murcia",
+    "Ley 13/2015, de 30 de marzo, de Ordenación Territorial y Urbanística de la Región de Murcia",
+    "Real Decreto Legislativo 7/2015, de 30 de octubre, por el que se aprueba el Texto Refundido de la Ley del Suelo y Rehabilitación Urbana",
+    "Ley 12/2023, de 24 de mayo, por el derecho a la vivienda",
+    "Constitución Española, artículo 47"
+  ],
+  "derogations": [
+    "Disposiciones de las leyes 6/2015 y 13/2015 modificadas por este decreto-ley"
+  ],
+  "main_obligations": "Los promotores que aprovechen las primas de edificabilidad deben destinar la totalidad del volumen extra a vivienda protegida. Los ayuntamientos tienen un plazo de 2 meses para decidir si aplican o no estas medidas en su término municipal.",
+  "effective_date": "2025-10-05",
+  "procedures": [
+    {
+      "name": "Tramitación de medidas de emergencia en vivienda",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de licencias para rehabilitación o cambio de uso",
+          "description": "Presentación de solicitudes para rehabilitar edificios no terminados o cambiar uso de oficinas/locales.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": "2 años tras el plazo de exclusión municipal",
+          "required_documentation": "Proyecto técnico que cumpla normas de seguridad y habitabilidad"
+        },
+        {
+          "step": 2,
+          "title": "Ejecución de obras",
+          "description": "Plazo máximo para finalizar las obras tras la concesión de la licencia.",
+          "start_date": "Desde el inicio de las obras",
+          "end_date": "3 años",
+          "required_documentation": "Certificado de finalización de obra"
+        },
+        {
+          "step": 3,
+          "title": "Tramitación administrativa urgente",
+          "description": "Reducción de plazos ordinarios de la administración a la mitad.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

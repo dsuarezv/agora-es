@@ -1,0 +1,320 @@
+{
+  "identifier": "BOE-A-2012-2011",
+  "title": "Ley 4/1993, de 24 de junio, de Cooperativas de Euskadi",
+  "visible_title": "Ley de Cooperativas de Euskadi",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "4/1993",
+  "publication_date": "2012-02-10",
+  "enactment_date": "1993-06-24",
+  "last_updated": "2019-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1993/06/24/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza el modelo cooperativo en el País Vasco para hacerlo más competitivo y profesional en el mercado europeo. Establece reglas claras sobre cómo se gestionan, se controlan y se disuelven las cooperativas, permitiendo una administración más técnica y flexible. Introduce mecanismos de control democrático para proteger a los socios y define regímenes específicos para sectores como el de vivienda, trabajo o agricultura. En definitiva, busca equilibrar la gestión empresarial con los valores de ayuda mutua y control social propios del cooperativismo.",
+  "citizen_impact": "Los socios de cooperativas (consumo, vivienda, trabajo, etc.) ganan derechos de control y protección: pueden solicitar asambleas extraordinarias, añadir puntos al orden del día o separarse de la entidad si esta cambia su actividad. Además, en cooperativas de trabajo, se garantiza el derecho a anticipos laborales mínimos equivalentes al SMI anual.",
+  "professional_impact": "Las empresas cooperativas deben cumplir con requisitos de capital mínimo (3.000€) y profesionalizar su gestión, permitiendo incluso que profesionales no socios integren el Consejo Rector. Los administradores asumen una responsabilidad solidaria por actos ilegales y las cooperativas de vivienda deben someterse a auditorías obligatorias. Existe la obligación crítica de adaptar los estatutos sociales en un plazo de dos años para evitar la disolución automática.",
+  "keywords": [
+    "cooperativas",
+    "Euskadi",
+    "sociedades cooperativas",
+    "gobernanza cooperativa",
+    "derechos de socios",
+    "gestión profesional"
+  ],
+  "key_points": [
+    "Se requiere un capital social mínimo de 3.000 euros totalmente desembolsado al constituirse.",
+    "Se permite la incorporación de profesionales no socios al Consejo Rector para mejorar la gestión.",
+    "Los socios con el 20% de votos pueden exigir una Asamblea Extraordinaria (con plazo de 30 días para convocar).",
+    "Los socios con el 10% de votos tienen derecho a añadir puntos al orden del día de las asambleas.",
+    "Se crea la Comisión de Vigilancia para garantizar la transparencia y el control democrático.",
+    "Los administradores responden de forma solidaria por daños causados mediante actos ilegales o contrarios a los estatutos.",
+    "Los socios pueden ejercer su derecho de baja justificada si la cooperativa cambia su objeto social o se fusiona.",
+    "En cooperativas de trabajo, el personal asalariado no puede superar el 25% de las horas totales.",
+    "Las cooperativas de vivienda están obligadas a realizar auditorías de cuentas antes de la aprobación de la Asamblea.",
+    "Se permite la existencia de socios de duración determinada, flexibilizando la vinculación tradicional.",
+    "Las federaciones que agrupen al 40% de las cooperativas registradas deben incluir 'de Euskadi' en su denominación.",
+    "Es obligatorio separar contablemente los excedentes de operaciones con terceros de los de enajenación de activos."
+  ],
+  "legal_references": [
+    "Ley de 11 de febrero de 1982",
+    "Directivas de la CEE",
+    "Ley de Sociedades Anónimas",
+    "Ley de Enjuiciamiento Civil",
+    "Ley de Régimen Jurídico de las Sociedades Anónimas",
+    "Ley de Auditoría de cuentas",
+    "Código de Comercio",
+    "Ley 27/1999, de 16 de junio, de Cooperativas",
+    "Legislación sobre suspensión de pagos y quiebras",
+    "Legislación sobre mercado de valores",
+    "Ley 1/1982, de 11 de febrero, sobre cooperativas",
+    "Ley 27/1999, de 16 de julio, de Cooperativas",
+    "Decreto Legislativo 1/1988, de 17 de mayo, sobre Disposiciones Vigentes en materia de Principios Ordenadores de la Hacienda General del País Vasco"
+  ],
+  "derogations": [
+    "Ley de 11 de febrero de 1982",
+    "Ley 1/1982, de 11 de febrero, sobre cooperativas"
+  ],
+  "main_obligations": "Las cooperativas deben adaptar sus estatutos sociales a esta ley en un plazo máximo de 2 años para evitar la disolución de pleno derecho. Asimismo, deben mantener el capital mínimo fijado y separar contablemente los excedentes de operaciones con no socios.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Constitución de una cooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Asamblea Constituyente",
+          "description": "Los promotores se reúnen para aprobar los estatutos y los acuerdos de fundación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de la Asamblea Constituyente"
+        },
+        {
+          "step": 2,
+          "title": "Calificación previa (opcional)",
+          "description": "Solicitud al Registro de Cooperativas para validar el proyecto de estatutos antes de la escritura.",
+          "start_date": null,
+          "end_date": "30 días desde la solicitud",
+          "required_documentation": "Proyecto de Estatutos"
+        },
+        {
+          "step": 3,
+          "title": "Otorgamiento de escritura pública",
+          "description": "Formalización de la constitución ante notario.",
+          "start_date": "Desde la Asamblea o calificación previa",
+          "end_date": "2 meses",
+          "required_documentation": "Escritura pública"
+        },
+        {
+          "step": 4,
+          "title": "Inscripción en el Registro",
+          "description": "Inscripción en el Registro de Cooperativas de Euskadi para adquirir personalidad jurídica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública y justificantes de impuestos"
+        }
+      ]
+    },
+    {
+      "name": "Admisión de socios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de admisión",
+          "description": "El aspirante presenta su solicitud por escrito a los administradores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud por escrito"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la administración",
+          "description": "Los administradores deben decidir sobre la admisión de forma motivada.",
+          "start_date": null,
+          "end_date": "60 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Recurso en caso de denegación",
+          "description": "El solicitante puede recurrir ante el Comité de Recursos o la Asamblea General.",
+          "start_date": "Desde la notificación de la denegación",
+          "end_date": "20 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Convocatoria de Asamblea General Ordinaria por parte de socios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requerimiento a administradores",
+          "description": "El socio requiere notarialmente o por medio fehaciente a los administradores para convocar la asamblea tras el cierre del ejercicio.",
+          "start_date": "Tras el cierre del ejercicio social",
+          "end_date": "6 meses tras el cierre",
+          "required_documentation": "Requerimiento notarial o fehaciente"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de espera para la convocatoria",
+          "description": "Los administradores tienen un plazo para proceder a la convocatoria tras el requerimiento.",
+          "start_date": "Recepción del requerimiento",
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Solicitud judicial",
+          "description": "Si no se convoca, el socio puede solicitar al Juez de Primera Instancia que la convoque.",
+          "start_date": "Tras el vencimiento de los 15 días",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Impugnación de acuerdos de la Asamblea General",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acción por acuerdos nulos",
+          "description": "Cualquier socio, administrador o Comisión de Vigilancia puede impugnar acuerdos contrarios a la ley.",
+          "start_date": "Desde la adopción del acuerdo",
+          "end_date": "1 año",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Acción por acuerdos anulables",
+          "description": "Solo pueden impugnarlos socios que constaron su oposición en acta, ausentes o privados de voto.",
+          "start_date": "Desde la adopción del acuerdo",
+          "end_date": "40 días",
+          "required_documentation": "Constancia de oposición en el acta"
+        }
+      ]
+    },
+    {
+      "name": "Proceso de Transformación de la Cooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Informe y propuesta",
+          "description": "Formulación de informe escrito justificando la necesidad de la transformación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe escrito justificativo"
+        },
+        {
+          "step": 2,
+          "title": "Acuerdo de la Asamblea",
+          "description": "Aprobación por la Asamblea General con los requisitos de modificación de estatutos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Publicación y Escritura",
+          "description": "Elevación a escritura pública e inscripción en el Registro de Cooperativas y Mercantil.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública y balance cerrado el día anterior al acuerdo"
+        }
+      ]
+    },
+    {
+      "name": "Proceso de Disolución y Liquidación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de disolución",
+          "description": "La Asamblea General debe adoptar el acuerdo de disolución.",
+          "start_date": "Inmediato tras la causa",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Convocatoria de Asamblea",
+          "description": "Los administradores deben convocar la Asamblea General tras la causa de disolución.",
+          "start_date": "2 meses",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Nombramiento de liquidadores",
+          "description": "La Asamblea elige liquidadores; si no se hace en 2 meses, se solicita al Juez.",
+          "start_date": "2 meses tras disolución",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Liquidación y reparto",
+          "description": "Ejecución de operaciones, pago de deudas y adjudicación del haber social.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Inventario y balance inicial"
+        },
+        {
+          "step": 5,
+          "title": "Balance final y cierre",
+          "description": "Aprobación del balance final por la Asamblea e inscripción en el Registro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Balance final y proyecto de distribución"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Expulsión de Socio Trabajador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de expulsión",
+          "description": "Los administradores acuerdan la expulsión del socio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Recurso",
+          "description": "El socio puede recurrir ante el Comité de Recursos o la Asamblea.",
+          "start_date": "15 días desde la notificación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de Estatutos Sociales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de adaptación",
+          "description": "Las cooperativas deben modificar sus estatutos para cumplir con la nueva ley.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "2 años desde la entrada en vigor",
+          "required_documentation": "Estatutos modificados"
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de inscripción",
+          "description": "Presentar la adaptación ante el Registro de Cooperativas para evitar la disolución.",
+          "start_date": "Dentro del plazo de 2 años",
+          "end_date": "2 años desde la entrada en vigor",
+          "required_documentation": "Documentación de modificación estatutaria"
+        },
+        {
+          "step": 3,
+          "title": "Disolución de oficio",
+          "description": "Si no se solicita la inscripción en plazo, la cooperativa se disuelve automáticamente y entra en liquidación.",
+          "start_date": "Al finalizar el plazo de 2 años",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Constitución de Federaciones/Confederaciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Depósito de acta",
+          "description": "Los promotores deben depositar el acta de constitución en el Registro de Cooperativas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de constitución, certificación de acuerdo, composición de órganos, certificaciones de no duplicidad de nombre y estatutos."
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 4
+}

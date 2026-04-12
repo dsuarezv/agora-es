@@ -1,0 +1,101 @@
+{
+  "identifier": "BOE-A-1995-9682",
+  "title": "Ley 2/1994, de 29 de diciembre, del deporte",
+  "visible_title": "Ley del deporte",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "2/1994",
+  "publication_date": "1995-04-20",
+  "enactment_date": "1994-12-29",
+  "last_updated": "2022-07-08",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1994/12/29/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establecía el marco jurídico para la gestión, promoción y organización del deporte en el Principado de Asturias. Regulaba desde la creación de clubes y federaciones hasta la gestión de infraestructuras y la disciplina deportiva. Su objetivo era integrar el deporte con la salud, la educación y la cultura, garantizando el acceso de la ciudadanía a la práctica deportiva.",
+  "citizen_impact": "Aunque la norma ya está derogada, en su momento garantizó el derecho al deporte y la protección de colectivos vulnerables. Establecía la obligación de que las instalaciones deportivas contaran con seguros de responsabilidad civil y fueran accesibles para personas con discapacidad.",
+  "professional_impact": "Afectaba directamente a gestores de centros deportivos, técnicos, clubes y federaciones, quienes debían inscribirse en el Registro de Entidades Deportivas. Obligaba a los profesionales de la enseñanza deportiva a poseer titulaciones oficiales y a las entidades a cumplir con normativas de seguridad y gestión administrativa.",
+  "keywords": [
+    "deporte",
+    "Asturias",
+    "clubes deportivos",
+    "federaciones",
+    "instalaciones deportivas",
+    "disciplina deportiva",
+    "entidades deportivas"
+  ],
+  "key_points": [
+    "Creación del Registro de Entidades Deportivas del Principado de Asturias para controlar clubes y federaciones.",
+    "Clasificación de entidades deportivas en clubes elementales, básicos, sociedades anónimas y agrupaciones de clubes.",
+    "Obligatoriedad de poseer titulaciones técnicas oficiales para la enseñanza y el entrenamiento deportivo.",
+    "Establecimiento de un régimen disciplinario con infracciones leves, graves y muy graves.",
+    "Creación del Comité Asturiano de Disciplina Deportiva como órgano independiente para resolver recursos.",
+    "Exigencia de seguros de responsabilidad civil y accidentes en instalaciones deportivas.",
+    "Regulación del Plan Regional de Instalaciones Deportivas para asegurar el equilibrio territorial.",
+    "Reconocimiento de las federaciones deportivas como entidades que ejercen funciones públicas delegadas."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía para Asturias",
+    "Constitución Española"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a la Ley 2/1994"
+  ],
+  "main_obligations": "Las entidades deportivas deben inscribirse en el Registro oficial para operar y recibir ayudas. Los centros deportivos están obligados a disponer de seguros de responsabilidad civil y garantizar la accesibilidad universal. Los técnicos deben acreditar su titulación oficial para ejercer.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Constitución de un club deportivo básico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Otorgamiento de acta fundacional",
+          "description": "Los promotores deben acudir ante notario para formalizar el acta de constitución.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta fundacional y estatutos provisionales"
+        },
+        {
+          "step": 2,
+          "title": "Inscripción en el Registro",
+          "description": "Presentación de la documentación ante el Registro de Entidades Deportivas del Principado de Asturias.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta fundacional, estatutos, identificación de directivos y domicilio social"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento disciplinario deportivo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción de expediente",
+          "description": "Apertura de un expediente previo para investigar la posible infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Actas de jueces/árbitros o pruebas de la infracción"
+        },
+        {
+          "step": 2,
+          "title": "Resolución y sanción",
+          "description": "Imposición de la sanción correspondiente (amonestación, multa, suspensión de licencia, etc.).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Recurso ante el Comité de Disciplina",
+          "description": "Posibilidad de impugnar la sanción ante el Comité Asturiano de Disciplina Deportiva.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,93 @@
+{
+  "identifier": "BOE-A-2003-4506",
+  "title": "Ley 12/2002, de 18 de diciembre, de los Consejos Sociales de las Universidades Públicas de la Comunidad de Madrid",
+  "visible_title": "Ley de los Consejos Sociales de las Universidades Públicas de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "12/2002",
+  "publication_date": "2003-03-05",
+  "enactment_date": "2002-12-18",
+  "last_updated": "2013-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2002/12/18/12",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley regula la creación y el funcionamiento de los Consejos Sociales en las universidades públicas de la Comunidad de Madrid. Su objetivo es conectar la universidad con la sociedad, permitiendo que empresas, sindicatos y entidades culturales participen en la gestión y supervisión de la institución. Actúa como un puente para mejorar la calidad de la enseñanza y la investigación mediante la colaboración económica y social.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes, salvo que estos deseen participar en la vida universitaria a través de asociaciones o entidades representativas.",
+  "professional_impact": "Afecta a profesionales del sector empresarial, científico y cultural, quienes pueden integrarse en los Consejos para influir en la agenda universitaria. También impacta a gestores universitarios, al establecer nuevas competencias de supervisión económica y aprobación de presupuestos por parte de este órgano.",
+  "keywords": [
+    "Consejo Social",
+    "Universidad Pública",
+    "Comunidad de Madrid",
+    "Gestión Universitaria",
+    "Participación Social",
+    "Presupuesto Universitario"
+  ],
+  "key_points": [
+    "Creación de un órgano de participación social en cada universidad pública madrileña.",
+    "El Consejo Social tiene potestad para aprobar el presupuesto anual de la universidad.",
+    "Supervisión de las actividades económicas y del rendimiento de los servicios universitarios.",
+    "Promoción de la colaboración entre la universidad y el entorno empresarial para la financiación y la investigación.",
+    "Capacidad para proponer la creación, modificación o supresión de facultades y centros.",
+    "Composición mixta que incluye representantes de la comunidad universitaria, empresas, sindicatos y personal de prestigio.",
+    "Creación de la Conferencia de Consejos Sociales para coordinar el sistema universitario de la región."
+  ],
+  "legal_references": [
+    "Ley Orgánica 6/2001, de 21 de diciembre, de Universidades",
+    "Ley 8/1997, de 1 de abril, reguladora del Consejo Social de la Universidad de Madrid",
+    "Estatuto de Autonomía de la Comunidad de Madrid",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas"
+  ],
+  "derogations": [
+    "Ley 8/1997, de 1 de abril, reguladora del Consejo Social de la Universidad de Madrid"
+  ],
+  "main_obligations": "Las universidades deben remitir el presupuesto aprobado al Consejo Social y a la Comunidad de Madrid antes del 31 de enero. El Consejo Social debe elaborar su propio reglamento de régimen interior tras su constitución.",
+  "effective_date": "2003-03-05",
+  "procedures": [
+    {
+      "name": "Constitución de los Consejos Sociales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Constitución de los órganos",
+          "description": "Las universidades públicas deben constituir sus Consejos Sociales.",
+          "start_date": "2003-03-05",
+          "end_date": "3 meses tras la entrada en vigor",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Elaboración del reglamento",
+          "description": "El Consejo Social debe redactar su reglamento de régimen interior.",
+          "start_date": "Tras la constitución",
+          "end_date": "3 meses tras la constitución",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aprobación Presupuestaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de presupuesto",
+          "description": "El Consejo de Gobierno de la Universidad propone el presupuesto anual.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aprobación por el Consejo Social",
+          "description": "El Consejo Social aprueba el presupuesto y lo remite a la Comunidad de Madrid.",
+          "start_date": null,
+          "end_date": "31 de enero",
+          "required_documentation": "Presupuesto con máxima desagregación"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

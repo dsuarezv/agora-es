@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-2007-6610",
+  "title": "Ley 3/2007, de 1 de marzo, de Calidad de los Servicios Sociales",
+  "visible_title": "Ley de Calidad de los Servicios Sociales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "3/2007",
+  "publication_date": "2007-03-29",
+  "enactment_date": "2007-03-01",
+  "last_updated": "2007-03-08",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2007/03/01/3",
+  "official_journal": "Boletín Oficial de La Rioja",
+  "journal_issue": null,
+  "summary": "Esta ley establece un sistema integral para garantizar que los servicios sociales en La Rioja funcionen con altos estándares de calidad. Busca modernizar la gestión pública mediante la evaluación constante, la transparencia y la satisfacción del usuario. Para ello, crea estructuras como la Comisión de Calidad y el Observatorio de la Calidad, además de definir programas específicos de mejora y atención.",
+  "citizen_impact": "Los ciudadanos que utilicen servicios sociales ganan derechos claros, como el acceso sin discriminación, el derecho a un plan de intervención individualizado y la posibilidad de presentar quejas y sugerencias. Además, se les garantiza información transparente sobre los servicios y sus costes, y se les facilita el acceso mediante trámites más sencillos.",
+  "professional_impact": "Los profesionales y centros de servicios sociales deben adaptarse a nuevos estándares de gestión, protocolos de actuación (especialmente en dependencia y menores) y sistemas de evaluación continua. Las entidades privadas que gestionen plazas públicas tendrán la obligación de acreditar su calidad mediante certificaciones externas.",
+  "keywords": [
+    "servicios sociales",
+    "calidad asistencial",
+    "La Rioja",
+    "derechos del usuario",
+    "gestión pública",
+    "evaluación de servicios"
+  ],
+  "key_points": [
+    "Creación de la Comisión de Calidad para supervisar y evaluar los servicios.",
+    "Establecimiento de un decálogo de derechos para las personas usuarias.",
+    "Obligatoriedad de protocolos específicos para centros de dependencia y protección de menores.",
+    "Creación de un Observatorio de la Calidad para medir la percepción ciudadana.",
+    "Exigencia de acreditación de calidad para centros con plazas concertadas o contratos de gestión.",
+    "Implementación de programas de quejas, sugerencias y cartas de compromiso con el ciudadano.",
+    "Fomento de la simplificación administrativa y el uso de nuevas tecnologías."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de La Rioja",
+    "Ley 4/2005 de Funcionamiento y Régimen Jurídico de la Administración de La Rioja",
+    "Ley 1/2002 de Servicios Sociales de La Rioja",
+    "Ley 5/1998 de Derechos y Deberes de las personas usuarias en el ámbito de servicios sociales de La Rioja",
+    "Ley 30/1992 del Régimen Jurídico de las Administraciones Públicas"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a esta Ley"
+  ],
+  "main_obligations": "Los centros deben implementar programas de planificación, evaluación y mejora. Los centros con plazas concertadas deben acreditar su calidad. Los usuarios tienen el deber de cumplir las normas de convivencia y facilitar la información necesaria para su valoración social.",
+  "effective_date": "2007-03-30",
+  "procedures": [
+    {
+      "name": "Acreditación de calidad para centros concertados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de adecuación para centros existentes",
+          "description": "Los centros con plazas concertadas ya existentes tienen un plazo para cumplir con la obligación de acreditar su calidad.",
+          "start_date": "2007-03-30",
+          "end_date": "5 años",
+          "required_documentation": "Certificado de evaluación de calidad emitido por órgano acreditado"
+        },
+        {
+          "step": 2,
+          "title": "Plazo para centros nuevos",
+          "description": "Los nuevos centros que obtengan autorización para concertar plazas deben acreditar su calidad en un plazo reducido.",
+          "start_date": "Fecha de autorización",
+          "end_date": "2 años",
+          "required_documentation": "Certificado de evaluación de calidad emitido por órgano acreditado"
+        }
+      ]
+    },
+    {
+      "name": "Constitución del Observatorio de la Calidad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Creación del Observatorio",
+          "description": "Plazo para la constitución de la plataforma de análisis de la percepción ciudadana.",
+          "start_date": "2007-03-30",
+          "end_date": "2 años",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

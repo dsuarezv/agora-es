@@ -1,0 +1,99 @@
+{
+  "identifier": "BOJA-b-2020-90100",
+  "title": "Decreto-ley 8/2020, de 8 de abril, por el que se establecen medidas extraordinarias y urgentes en el ámbito local y se modifica el Decreto-ley 3/2020, de 16 de marzo, de medidas de apoyo financiero y tributario al sector económico, de agilización de actuaciones administrativas y de medidas de emergencia social, para luchar contra los efectos de la evolución del coronavirus (COVID-19)",
+  "visible_title": "Medidas extraordinarias y urgentes en el ámbito local para la lucha contra el COVID-19",
+  "rank": "real_decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "8/2020",
+  "publication_date": "2020-04-09",
+  "enactment_date": "2020-04-08",
+  "last_updated": "2020-06-19",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOJA-b-2020-90100",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": "b-90100",
+  "summary": "Esta norma crea un programa de ayuda económica de 4 millones de euros destinado específicamente a los municipios andaluces de menos de 1.500 habitantes para afrontar los gastos derivados de la pandemia. Además, unifica y amplía los plazos de pago de deudas tributarias y de derecho público para adaptarlos a la normativa estatal. También introduce flexibilidad en la contratación de emergencia y permite el suministro de alimentos como medida de emergencia social.",
+  "citizen_impact": "Los ciudadanos de municipios pequeños se benefician de la continuidad de servicios esenciales como limpieza, policía local y atención a dependientes. Se facilita el acceso a suministros de primera necesidad para colectivos vulnerables gestionados por sus ayuntamientos.",
+  "professional_impact": "Los ayuntamientos pequeños reciben transferencias directas sin necesidad de cumplir con los requisitos habituales de estar al corriente de pagos con la Seguridad Social o la Hacienda autonómica. Los gestores públicos cuentan con mayor flexibilidad en los procesos de contratación de emergencia y en la gestión de plazos tributarios.",
+  "keywords": [
+    "ayudas locales",
+    "COVID-19",
+    "municipios pequeños",
+    "transferencias financieras",
+    "Andalucía",
+    "servicios esenciales",
+    "emergencia social"
+  ],
+  "key_points": [
+    "Creación de un fondo de 4 millones de euros para municipios de menos de 1.500 habitantes.",
+    "Garantía de un mínimo de 6.000 euros por entidad local beneficiaria.",
+    "Las ayudas no se consideran subvenciones, lo que agiliza su entrega y evita trámites burocráticos estándar.",
+    "No es necesario estar al corriente de pagos con la Seguridad Social o la Hacienda autonómica para recibir los fondos.",
+    "Unificación de plazos de pago para deudas tributarias y de derecho público según la normativa estatal.",
+    "Posibilidad de suministrar alimentos como medida de emergencia social alternativa al ingreso residencial.",
+    "Flexibilidad en la designación de representantes de la Intervención General en actos de recepción de contratos."
+  ],
+  "legal_references": [
+    "Decreto-ley 3/2020, de 16 de marzo",
+    "Real Decreto 463/2020, de 14 de marzo",
+    "Real Decreto 476/2020, de 27 de marzo",
+    "Real Decreto-ley 8/2020, de 17 de marzo",
+    "Real Decreto-ley 11/2020, de 31 de marzo",
+    "Estatuto de Autonomía para Andalucía",
+    "Ley 5/2010, de 11 de junio, de Auto Nomía Local de Andalucía",
+    "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público"
+  ],
+  "derogations": [],
+  "main_obligations": "Los ayuntamientos beneficiarios deben aceptar la financiación electrónicamente en un plazo de 5 días hábiles tras la publicación. Deben presentar la documentación justificativa de los gastos realizados en un plazo de 2 meses tras la resolución de cuantificación.",
+  "effective_date": "2020-04-09",
+  "procedures": [
+    {
+      "name": "Programa de colaboración financiera para municipios < 1.500 hab.",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aceptación de la financiación",
+          "description": "La representación legal del ayuntamiento debe aceptar los fondos vía electrónica.",
+          "start_date": "5 días hábiles tras la publicación del decreto",
+          "end_date": null,
+          "required_documentation": "Modelo de aceptación (Anexo II)"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de cuantificación",
+          "description": "La Dirección General de Administración Local dicta resolución reconociendo la obligación máxima para cada entidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Presentación de documentación de actuaciones",
+          "description": "Presentación telemática de la relación de actuaciones y presupuestos.",
+          "start_date": "2 meses tras la resolución de cuantificación",
+          "end_date": null,
+          "required_documentation": "Relación de actuaciones (Anexos III y IV), Informe justificativo (Anexo V) y Certificación de acuerdo del órgano de gobierno."
+        },
+        {
+          "step": 4,
+          "title": "Validación de actuaciones",
+          "description": "La Delegación Territorial valida que se cumplen los requisitos en un plazo de 10 días hábiles.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Justificación final",
+          "description": "Acreditación del empleo total de los fondos transferidos.",
+          "start_date": null,
+          "end_date": "2020-12-31",
+          "required_documentation": "Certificación justificativa (Anexo VI)"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

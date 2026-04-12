@@ -1,0 +1,84 @@
+{
+  "identifier": "BOE-A-2005-17346",
+  "title": "Ley 9/2005, de 30 de septiembre, reguladora del documento de instrucciones previas en el ámbito de la sanidad",
+  "visible_title": "Ley reguladora del documento de instrucciones previas en el ámbito de la sanidad",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "9/2005",
+  "publication_date": "2005-10-21",
+  "enactment_date": "2005-09-30",
+  "last_updated": "2005-10-06",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2005/09/30/9",
+  "official_journal": "Boletín Oficial de La Rioja",
+  "journal_issue": null,
+  "summary": "Esta ley permite a los ciudadanos de La Rioja dejar por escrito sus deseos sobre qué tratamientos médicos desean recibir o rechazar en el futuro, en caso de que pierdan la capacidad de decidir por sí mismos. Introduce la figura del representante para que alguien interprete su voluntad y crea un registro para dar seguridad jurídica al documento. El objetivo es garantizar la autonomía y la dignidad del paciente en situaciones críticas o de final de vida.",
+  "citizen_impact": "Permite a cualquier persona mayor de 18 años y capaz decidir anticipadamente sobre su salud, incluyendo el rechazo a tratamientos de soporte vital o la donación de órganos. Facilita que el ciudadano elija a una persona de confianza para que actúe en su nombre cuando no pueda hablar por sí mismo.",
+  "professional_impact": "Obliga al personal sanitario y a los centros de salud (públicos y concertados) a informar a los pacientes sobre este derecho y a integrar estas instrucciones en la historia clínica. Los médicos deben respetar estas decisiones, salvo que contravengan la buena práctica clínica, y la administración debe garantizar los recursos para cumplirlas incluso ante objeción de conciencia.",
+  "keywords": [
+    "instrucciones previas",
+    "voluntades anticipadas",
+    "autonomía del paciente",
+    "consentimiento informado",
+    "derechos sanitarios",
+    "La Rioja",
+    "testamento vital"
+  ],
+  "key_points": [
+    "Se puede otorgar el documento ante notario, ante tres testigos o ante personal de la Administración de La Rioja.",
+    "Es posible designar a uno o varios representantes para que actúen como interlocutores con el equipo médico.",
+    "El documento puede incluir decisiones sobre el destino del propio cuerpo y órganos tras el fallecimiento.",
+    "La inscripción en el Registro de Instrucciones Previas es voluntaria pero garantiza la eficacia del documento.",
+    "Las instrucciones no se aplicarán si son contrarias a la ley, a la buena práctica clínica o si no se ajustan a la situación médica real.",
+    "El documento es revocable o modificable en cualquier momento por el interesado.",
+    "Se garantiza el derecho de la mujer a demorar la eficacia del documento si se encuentra embarazada."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de La Rioja",
+    "Ley 14/1986, de 25 de abril, General de Sanidad",
+    "Convenio de Oviedo (1997)",
+    "Ley 2/2002, de 17 de abril, de Salud (La Rioja)",
+    "Ley 41/2002, de 14 de noviembre, reguladora de la Autonomía del Paciente"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a esta Ley",
+    "Artículo 6.5 de la Ley 2/2002, de 17 de abril, de Salud (modificado)"
+  ],
+  "main_obligations": "Los centros sanitarios deben informar a los pacientes sobre su derecho a emitir este documento. El personal sanitario tiene el deber de respetar las instrucciones contenidas en el documento una vez que el paciente no pueda expresarse, integrándolas en su historia clínica.",
+  "effective_date": "2005-10-22",
+  "procedures": [
+    {
+      "name": "Emisión del documento de instrucciones previas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elección de la forma de otorgamiento",
+          "description": "Decidir si se realiza ante notario, ante tres testigos o ante personal de la Administración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Identificación del otorgante"
+        },
+        {
+          "step": 2,
+          "title": "Redacción y firma",
+          "description": "El documento debe constar por escrito, con lugar, fecha, identificación y firma del autor.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento escrito con firma y datos de identificación"
+        },
+        {
+          "step": 3,
+          "title": "Inscripción en el Registro (Opcional)",
+          "description": "Solicitar la inscripción en el Registro de Instrucciones Previas de La Rioja para asegurar su eficacia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento de instrucciones previas"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

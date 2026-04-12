@@ -1,0 +1,82 @@
+{
+  "identifier": "BOE-A-2017-9799",
+  "title": "Ley 14/2017, de 20 de julio, de la renta garantizada de ciudadanía",
+  "visible_title": "Ley de la renta garantizada de ciudadanía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "14/2017",
+  "publication_date": "2017-08-17",
+  "enactment_date": "2017-07-20",
+  "last_updated": "2020-08-14",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2017/07/20/14",
+  "official_journal": "DOGC / BOE",
+  "journal_issue": null,
+  "summary": "Esta ley crea una red de protección social en Cataluña para asegurar ingresos mínimos a personas y familias en situación de pobreza. Establece una prestación económica garantizada y una complementaria vinculada a planes de inserción laboral o social. Su objetivo es combatir la exclusión y promover la autonomía de los ciudadanos mediante un sistema de apoyo integral.",
+  "citizen_impact": "Las personas con bajos ingresos en Cataluña pueden solicitar una ayuda económica mensual para cubrir necesidades básicas. Para recibirla, deben cumplir requisitos de residencia, edad y patrimonio, y comprometerse a seguir planes de inclusión o búsqueda de empleo.",
+  "professional_impact": "Los servicios sociales y de empleo deben gestionar, tramitar y realizar el seguimiento de los planes de inserción de los beneficiarios. Se requiere una coordinación estrecha entre administraciones locales y la Generalitat para la evaluación de la empleabilidad y la gestión de los expedientes.",
+  "keywords": [
+    "renta garantizada de ciudadanía",
+    "ayuda económica",
+    "pobreza",
+    "exclusión social",
+    "Cataluña",
+    "inserción laboral",
+    "servicios sociales"
+  ],
+  "key_points": [
+    "La prestación se divide en una parte garantizada (no condicionada) y una complementaria (vinculada a un plan de inserción).",
+    "Es compatible con rentas de trabajo a tiempo parcial bajo ciertas condiciones.",
+    "Se requiere residencia continua y efectiva en Cataluña durante los 24 meses anteriores a la solicitud.",
+    "La edad mínima es de 23 años, o 18 años en casos de vulnerabilidad específica (víctimas de violencia, huérfanos, etc.).",
+    "La prestación es inembargable y no puede ser cedida.",
+    "Los beneficiarios tienen la obligación de comunicar cualquier cambio en su situación económica o familiar en un plazo de un mes.",
+    "La administración debe resolver la solicitud en un plazo de 4 meses; si no lo hace, se entiende estimada (silencio positivo)."
+  ],
+  "legal_references": [
+    "Estatuto de autonomía de Cataluña",
+    "Ley 12/2007, de 11 de octubre, de servicios sociales",
+    "Ley 13/2006, de 27 de julio, de prestaciones sociales de carácter económico",
+    "Ley 10/1997, de 3 de julio, de la renta mínima de inserción",
+    "Convención de Ginebra de 1951"
+  ],
+  "derogations": [
+    "Ley 10/1997, de 3 de julio, de la renta mínima de inserción"
+  ],
+  "main_obligations": "Los beneficiarios deben mantener su inscripción en el servicio público de empleo, no rechazar ofertas de trabajo adecuadas y cumplir con el plan de inclusión social acordado. Deben comunicar cambios de residencia o ingresos en un plazo máximo de un mes.",
+  "effective_date": "2017-09-15",
+  "procedures": [
+    {
+      "name": "Solicitud de la Renta Garantizada de Ciudadanía",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El titular o representante presenta la solicitud aportando la documentación necesaria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración de la renta, certificados bancarios, certificado de empadronamiento, vida laboral y otros documentos que acrediten la insuficiencia de ingresos."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y resolución",
+          "description": "La administración comprueba los datos de oficio y dicta resolución otorgando o denegando la ayuda.",
+          "start_date": null,
+          "end_date": "4 meses desde la solicitud",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Acuerdo de inclusión social o laboral",
+          "description": "En caso de solicitar la prestación complementaria, se acuerda un plan de inserción personalizado.",
+          "start_date": "3 meses desde la resolución de otorgamiento",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

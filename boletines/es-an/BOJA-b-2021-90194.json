@@ -1,0 +1,84 @@
+{
+  "identifier": "BOJA-b-2021-90194",
+  "title": "Decreto-ley 9/2021, de 18 de mayo, por el que se adoptan, con carácter urgente, medidas para agilizar la tramitación del procedimiento para el reconocimiento de la situación de dependencia y del derecho a las prestaciones del sistema para la autonomía y atención a la dependencia",
+  "visible_title": "Medidas para agilizar el reconocimiento de la situación de dependencia y el acceso a sus prestaciones",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "9/2021",
+  "publication_date": "2021-05-21",
+  "enactment_date": "2021-05-18",
+  "last_updated": "2021-05-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOJA-b-2021-90194",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": "b-2021-90194",
+  "summary": "Esta norma busca reducir drásticamente las listas de espera y los tiempos de respuesta en el sistema de dependencia en Andalucía. Para ello, simplifica el procedimiento administrativo eliminando la fragmentación entre fases y centralizando el inicio del trámite. Además, impulsa la digitalización mediante la Ventanilla Electrónica de Dependencia para facilitar la solicitud telemática.",
+  "citizen_impact": "Las personas en situación de dependencia y sus familias podrán solicitar las ayudas de forma online, evitando desplazamientos. El objetivo principal es que reciban la resolución de su grado de dependencia y su plan de atención mucho más rápido que antes.",
+  "professional_impact": "Los servicios sociales comunitarios y los funcionarios de la administración ven modificada su forma de trabajar para reducir la carga burocrática de 'ida y vuelta' entre administraciones. Se busca que el órgano que realiza la valoración sea el mismo que gestione el inicio del trámite, optimizando la elaboración de los Programas Individuales de Atención.",
+  "keywords": [
+    "dependencia",
+    "autonomía personal",
+    "agilización trámites",
+    "servicios sociales",
+    "Andalucía",
+    "ayudas dependencia",
+    "administración electrónica"
+  ],
+  "key_points": [
+    "Simplificación del procedimiento administrativo para evitar el flujo constante de documentos entre distintas administraciones.",
+    "Creación de la Ventanilla Electrónica de Dependencia para permitir solicitudes por internet.",
+    "Unificación del inicio del procedimiento en el mismo órgano que tramita la valoración para ganar agilidad.",
+    "Reducción de la carga administrativa en los registros de los servicios sociales comunitarios mediante la vía telemática.",
+    "Refuerzo del papel de los servicios sociales comunitarios en la elaboración de los Programas Individuales de Atención."
+  ],
+  "legal_references": [
+    "Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia",
+    "Decreto 168/2007, de 12 de junio",
+    "Estatuto de Autonomía para Andalucía"
+  ],
+  "derogations": [],
+  "main_obligations": null,
+  "effective_date": "2021-06-01",
+  "procedures": [
+    {
+      "name": "Reconocimiento de la situación de dependencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El ciudadano presenta la solicitud de forma presencial o a través de la Ventanilla Electrónica de Dependencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación requerida según la normativa vigente para acreditar la necesidad de dependencia."
+        },
+        {
+          "step": 2,
+          "title": "Valoración de la dependencia",
+          "description": "Evaluación técnica de la situación de la persona para determinar su grado de dependencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Elaboración del Programa Individual de Atención (PIA)",
+          "description": "Diseño del plan de servicios y prestaciones que se adaptan a la necesidad del usuario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución administrativa",
+          "description": "Dictamen final que reconoce el derecho a las prestaciones del sistema.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

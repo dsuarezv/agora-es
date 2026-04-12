@@ -1,0 +1,134 @@
+{
+  "identifier": "BOE-A-2025-5409",
+  "title": "Real Decreto 205/2025, de 18 de marzo, por el que se establecen los criterios para la determinación de los gravámenes, de sus exenciones y reduciones, y su aplicación a los vehículos por la utilización de determinadas infraestructuras integradas en la Red de Carreteras del Estado",
+  "visible_title": "Criterios para la determinación de gravámenes, exenciones y reducciones en el uso de infraestructuras de la Red de Carreteras del Estado",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de Transporte y Movilidad Sostenible",
+  "official_number": "205/2025",
+  "publication_date": "2025-03-19",
+  "enactment_date": "2025-03-18",
+  "last_updated": "2025-03-19",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/03/18/205",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "67",
+  "summary": "Esta norma transforma el sistema de peajes en las autopistas gestionadas por el Estado y concesionarias, introduciendo un modelo basado en el impacto ambiental y el desgaste de la vía. A partir de 2026, el coste de circular no dependerá solo de la distancia, sino de cuánto contamina y cuánto ruido genera el vehículo, así como del daño que causa al pavimento. El objetivo es incentivar el uso de vehículos limpios mediante descuentos masivos y penalizar a los modelos más contaminantes y pesados. Además, se permite ajustar precios según la congestión o el horario para mitigar efectos negativos en la salud y el entorno.",
+  "citizen_impact": "Los conductores de vehículos particulares verán reflejado el impacto ambiental en el precio de los peajes, aunque los vehículos eléctricos y de bajas emisiones disfrutarán de descuentos significativos (hasta el 75%). Los ciudadanos se beneficiarán de una reducción de la contaminación y el ruido en zonas específicas gracias a la posibilidad de aplicar recargos por congestión o ruido.",
+  "professional_impact": "Las empresas de transporte y operadores logísticos deben adaptarse a una estructura de costes variable según la clase de emisiones y el peso del vehículo. Se les obliga a gestionar la declaración electrónica de la clase de emisiones de su flota para no perder los descuentos aplicables. Además, las empresas de gestión de infraestructuras deberán implementar sistemas de cálculo basados en fórmulas científicas de emisiones y ruido.",
+  "keywords": [
+    "peajes",
+    "contaminación",
+    "emisiones",
+    "vehículos pesados",
+    "infraestructuras de carreteras",
+    "descuentos ambientales",
+    "ruido"
+  ],
+  "key_points": [
+    "Implementación de un recargo por contaminación atmosférica y ruido para vehículos pesados a partir de marzo de 2026.",
+    "Descuentos de hasta el 75% en el peaje para vehículos de emisión cero (eléctricos).",
+    "Descuentos de entre el 30% y el 50% para vehículos pesados de baja emisión (clase 4).",
+    "Clasificación de vehículos de la clase 0 a la III según el daño que causan al pavimento, siendo la clase III la más cara.",
+    "Diferenciación de tarifas según el tipo de carretera (suburbana vs. interurbana) y el horario (posibilidad de tarifas nocturnas por ruido).",
+    "Prohibición de cobrar simultáneamente peaje y otras tasas por el mismo tramo de carretera.",
+    "Cálculo de tarifas basado en factores científicos de contaminantes (PM10, PM2.5, NO2, NOx) y niveles de ruido.",
+    "Obligación de revisión de la estructura tarifaria cada dos años por la Administración.",
+    "Los conductores pueden declarar su clase de emisiones electrónicamente para acceder a reducciones."
+  ],
+  "legal_references": [
+    "Directiva 1999/62/CE",
+    "Directiva 2006/38/CE",
+    "Directiva 2011/76/UE",
+    "Directiva (UE) 2022/362",
+    "Real Decreto 713/2009",
+    "Real Decreto 286/2014",
+    "Ley 37/2015 de Carreteras",
+    "Reglamento (UE) 2024/1679",
+    "Real Decreto 892/2024",
+    "Real Decreto 183/2022",
+    "Ley 9/2017 de Contratos del Sector Público",
+    "Directiva 2008/50/CE",
+    "Real Decreto 102/2011",
+    "Real Decreto 818/2018",
+    "Real Decreto 1513/2005",
+    "Ley 37/2003 (Ley del Ruido)",
+    "Reglamento (UE) n.º 540/2014"
+  ],
+  "derogations": [
+    "Real Decreto 286/2014, de 25 de abril"
+  ],
+  "main_obligations": "Los operadores de transporte deben realizar la declaración electrónica de la clase de emisiones de sus vehículos para acceder a descuentos. La Administración tiene la obligación de publicar la estructura tarifaria con antelación y revisar los precios cada dos años.",
+  "effective_date": "2025-03-20",
+  "procedures": [
+    {
+      "name": "Implementación de la tarifación por costes externos y modulaciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Entrada en vigor del Real Decreto",
+          "description": "Inicio de la aplicación de la nueva normativa de criterios de peaje.",
+          "start_date": "2025-03-20",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aplicación de peaje por costes externos (contaminación)",
+          "description": "Inicio del cobro obligatorio por contaminación atmosférica para vehículos pesados.",
+          "start_date": "2026-03-25",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Modulación de peajes para vehículos ligeros",
+          "description": "Inicio de la modulación de peajes para furgonetas y minibuses según comportamiento medioambiental.",
+          "start_date": "2026-01-01",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aplicación de tarifas de peaje por costes externos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Evaluación de tramos exentos",
+          "description": "La Administración evalúa qué tramos no cobrarán peaje por contaminación para evitar efectos adversos en salud o seguridad.",
+          "start_date": "2026-03-25",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Notificación de clasificación y tarifas",
+          "description": "Notificación a la Comisión sobre la clasificación de vehículos, tipos de autopistas (suburbanas/interurbanas) y periodos nocturnos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Publicación de la estructura tarifaria",
+          "description": "Hacer pública la tarifa y todos los datos de cálculo con tiempo suficiente antes de su entrada en vigor.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Ajuste bienal de tarifas",
+          "description": "La Administración ajustará la estructura tarifaria cada dos años según la oferta y demanda de transporte.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

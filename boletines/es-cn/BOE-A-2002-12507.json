@@ -1,0 +1,81 @@
+{
+  "identifier": "BOE-A-2002-12507",
+  "title": "Ley 5/2002, de 3 de junio, del Consejo Consultivo de Canarias",
+  "visible_title": "Ley del Consejo Consultivo de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "5/2002",
+  "publication_date": "2002-06-26",
+  "enactment_date": "2002-06-03",
+  "last_updated": "2024-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2002/06/03/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley reorganiza y refuerza el Consejo Consultivo de Canarias, el máximo órgano de asesoramiento jurídico de la comunidad. Amplía su número de miembros de cinco a siete y extiende sus funciones de control de legalidad sobre las leyes y reglamentos autonómicos. Su objetivo es garantizar que las decisiones del Gobierno y el Parlamento de Canarias respeten la Constitución y el Estatuto de Autonomía.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta a funcionarios y cargos públicos canarios, ya que el Consejo ahora tiene mayor capacidad para revisar la legalidad de sus actos y resoluciones. También impacta a juristas de prestigio, quienes pueden ser nombrados consejeros bajo estrictos requisitos de independencia y dedicación absoluta.",
+  "keywords": [
+    "Consejo Consultivo de Canarias",
+    "asesoramiento jurídico",
+    "legalidad administrativa",
+    "derecho autonómico",
+    "Canarias"
+  ],
+  "key_points": [
+    "El Consejo aumenta su composición de 5 a 7 miembros.",
+    "Se establece un equilibrio de género obligatorio (entre 40% y 60% para cada sexo) en la composición del órgano.",
+    "Se amplía la obligación de dictaminar en todas las iniciativas legislativas, salvo en presupuestos.",
+    "Se crean 'Secciones' para agilizar la resolución de asuntos sin necesidad de acudir siempre al Pleno.",
+    "El plazo general para emitir dictámenes se fija en 30 días, pudiendo reducirse a 15 en casos urgentes.",
+    "Los consejeros deben tener más de 10 años de ejercicio profesional y gozar de independencia funcional.",
+    "Se prohíbe a los consejeros realizar declaraciones públicas sobre temas relacionados con su función sin autorización."
+  ],
+  "legal_references": [
+    "Ley 4/1984, de 6 de julio, del Consejo Consultivo de Canarias",
+    "Ley 13/1995, de 18 de mayo, de Contratos de las Administraciones Públicas",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley 3/1997, de 8 de mayo, de Incompatibilidades de los Miembros del Gobierno y Altos Cargos de la Administración Pública de la Comunidad Autónoma de Canarias",
+    "Ley 13/1986, de 30 de diciembre, de modificación parcial de la Ley 4/1984"
+  ],
+  "derogations": [
+    "Ley 4/1984, de 6 de julio, del Consejo Consultivo de Canarias",
+    "Ley 13/1986, de 30 de diciembre, de modificación parcial de la Ley 4/1984"
+  ],
+  "main_obligations": "Los consejeros deben ejercer su cargo con dedicación absoluta, siendo incompatible con cualquier cargo político, administrativo o actividad profesional liberal. Deben guardar secreto sobre las deliberaciones y los votos, salvo los votos particulares.",
+  "effective_date": "2002-06-27",
+  "procedures": [
+    {
+      "name": "Emisión de dictámenes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de dictamen",
+          "description": "El órgano competente (Parlamento, Gobierno, Cabildos, etc.) remite la consulta junto con todo el expediente necesario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Antecedentes, informes y documentos que constituyan el expediente."
+        },
+        {
+          "step": 2,
+          "title": "Plazo de resolución",
+          "description": "El Consejo debe emitir el dictamen en un plazo general de 30 días, o 15 días si se justifica urgencia.",
+          "start_date": "Desde la recepción en el registro",
+          "end_date": "30 días (o 15 si es urgente)",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Notificación del dictamen",
+          "description": "Se remite el dictamen jurídicamente fundamentado al solicitante.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

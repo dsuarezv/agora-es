@@ -1,0 +1,80 @@
+{
+  "identifier": "BOE-A-2014-3000",
+  "title": "Ley 3/2014, de 19 de febrero, de horarios comerciales y de medidas para determinadas actividades de promoción",
+  "visible_title": "Ley de horarios comerciales y medidas de promoción",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "3/2014",
+  "publication_date": "2014-03-21",
+  "enactment_date": "2014-02-19",
+  "last_updated": "2017-08-03",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2014/02/19/3",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta norma regula los horarios de apertura de los comercios en Cataluña y establece las reglas para las rebajas y la venta de excedentes (outlets). Su objetivo es proteger el comercio de proximidad, garantizar la conciliación laboral de los trabajadores y asegurar la transparencia para los consumidores. Además, define qué establecimientos pueden abrir en horarios especiales o en zonas turísticas.",
+  "citizen_impact": "Los ciudadanos tienen horarios de apertura más predecibles y protección contra engaños en las rebajas o en la venta de productos 'outlet'. También garantiza que ciertos días festivos y domingos el comercio permanezca cerrado para favorecer el descanso.",
+  "professional_impact": "Los comerciantes deben cumplir estrictamente con los cierres obligatorios y los límites de apertura nocturna, bajo riesgo de multas elevadas. Las empresas de 'outlet' tienen reglas estrictas sobre el origen de sus productos y el uso de su denominación, mientras que los ayuntamientos asumen la gestión de inspecciones y sanciones menores.",
+  "keywords": [
+    "horarios comerciales",
+    "rebajas",
+    "outlets",
+    "comercio de proximidad",
+    "Cataluña",
+    "consumidores",
+    "sanciones comerciales"
+  ],
+  "key_points": [
+    "Prohibición general de apertura entre las 22:00 y las 07:00 horas.",
+    "Cierre obligatorio los días 1 y 6 de enero, 1 de mayo, 24 de junio, 11 de septiembre, 25 y 26 de diciembre, y el lunes de Pascua.",
+    "Límite de 8 domingos y festivos de apertura autorizada al año (más 2 adicionales fijados por cada ayuntamiento).",
+    "Regulación de los 'outlets': solo pueden usar este nombre los establecimientos dedicados exclusivamente a excedentes y no pueden vender productos fabricados específicamente para este fin.",
+    "Las rebajas deben ser sobre productos que hayan estado a la venta al menos un mes a precio ordinario.",
+    "Las multas por infracciones pueden llegar hasta los 600.000 euros en casos muy graves.",
+    "Excepciones de horario para tiendas de conveniencia, farmacias, gasolineras y zonas turísticas."
+  ],
+  "legal_references": [
+    "Estatuto de autonomía de Cataluña",
+    "Directiva 2006/123/CE",
+    "Ley 18/2017",
+    "Decreto Legislativo 1/1993",
+    "Decreto-ley 4/2012",
+    "Ley 22/2010 (Código de consumo)",
+    "Ley 1/1983",
+    "Ley 23/1991",
+    "Decreto 118/1995",
+    "Ley 1/1990"
+  ],
+  "derogations": [
+    "Decreto ley 4/2012, de 30 de octubre",
+    "Disposición adicional de la Ley 9/2011, de 29 de diciembre"
+  ],
+  "main_obligations": "Los comercios deben respetar los horarios de cierre nocturno y los días festivos obligatorios. Deben exhibir su horario de forma visible y cumplir con las reglas de transparencia en rebajas y outlets, evitando multas que pueden superar los 20.000 euros en infracciones leves.",
+  "effective_date": "2014-03-22",
+  "procedures": [
+    {
+      "name": "Determinación de municipios turísticos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta del Ayuntamiento",
+          "description": "El pleno del ayuntamiento debe presentar una propuesta motivada para ser considerado municipio turístico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informes de la Cámara de Comercio, entidades patronales, asociaciones de consumidores, sindicatos y Consejo Comercial."
+        },
+        {
+          "step": 2,
+          "title": "Resolución del Departamento",
+          "description": "El departamento de comercio aprueba o deniega la propuesta tras informe del departamento de turismo.",
+          "start_date": null,
+          "end_date": "3 meses desde la presentación",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,94 @@
+{
+  "identifier": "BOE-A-2002-22547",
+  "title": "Ley 8/2002, de 21 de octubre, de Espectáculos Públicos y Actividades Recreativas",
+  "visible_title": "Ley de Espectáculos Públicos y Actividades Recreativas",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "8/2002",
+  "publication_date": "2002-11-20",
+  "enactment_date": "2002-10-21",
+  "last_updated": "2019-03-25",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2002/10/21/8",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para regular todos los espectáculos públicos y actividades de ocio en Asturias. Su objetivo es unificar la normativa dispersa para garantizar la seguridad de los asistentes, la protección de los consumidores y el orden público. Introduce requisitos estrictos de seguridad, seguros de responsabilidad civil obligatorios y un régimen sancionador propio para asegurar el cumplimiento de las normas.",
+  "citizen_impact": "Garantiza que los lugares de ocio (bares, discotecas, cines, etc.) cumplan con estándares de seguridad, higiene y aislamiento acústico. Protege a los consumidores contra la publicidad engañosa y la reventa de entradas, y establece protecciones especiales para menores de 16 años en cuanto a horarios y contenidos.",
+  "professional_impact": "Obliga a los empresarios del sector de ocio y eventos a obtener licencias municipales, contratar seguros de responsabilidad civil y cumplir con planes de emergencia. Introduce cargas administrativas como la inscripción en registros autonómicos y municipales, y establece un régimen de multas que pueden llegar a la clausura definitiva del negocio.",
+  "keywords": [
+    "espectáculos públicos",
+    "actividades recreativas",
+    "seguridad ciudadana",
+    "licencias de apertura",
+    "Asturias",
+    "ocio",
+    "régimen sancionador"
+  ],
+  "key_points": [
+    "Obligatoriedad de contratar un seguro de responsabilidad civil para cubrir daños a los asistentes.",
+    "Necesidad de licencia municipal previa para cualquier establecimiento o instalación de ocio.",
+    "Creación de un catálogo oficial de espectáculos y actividades para clasificar los locales.",
+    "Protección especial a menores de 16 años: prohibición de alcohol, tabaco, máquinas de azar y horarios nocturnos excesivos.",
+    "Derecho de admisión regulado para evitar discriminaciones arbitrarias.",
+    "Prohibición de espectáculos que inciten a la violencia o al maltrato animal (salvo taurinos).",
+    "Facultad de la autoridad para clausurar locales que no cumplan medidas de seguridad o salubridad.",
+    "Creación del Consejo Asesor de Espectáculos Públicos para coordinar la gestión entre ayuntamientos y la autonomía."
+  ],
+  "legal_references": [
+    "Real Decreto 2816/1982",
+    "Ley Orgánica 1/1992",
+    "Estatuto de Autonomía del Principado de Asturias",
+    "Ley 30/1992",
+    "Constitución Española",
+    "Decreto 21/1994"
+  ],
+  "derogations": [
+    "Resolución de la Consejería de Cooperación de 29 de octubre de 1997"
+  ],
+  "main_obligations": "Los titulares deben obtener licencias municipales, disponer de un plan de emergencia y mantener vigente un seguro de responsabilidad civil. Se prohíbe la venta de entradas por encima del aforo y la reventa ambulante. Las infracciones muy graves pueden conllevar multas de hasta 60.101,21 euros y la clausura definitiva.",
+  "effective_date": "2002-12-20",
+  "procedures": [
+    {
+      "name": "Obtención de licencia de establecimiento y locales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación de la solicitud",
+          "descrption": "Presentación de la solicitud de licencia ante la administración municipal.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": "Datos del titular, actividad, denominación, emplazamiento, aforo y medidas correctoras."
+        }
+      ]
+    },
+    {
+      "name": "Obtención de licencia para instalaciones eventuales o desmontables",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación de la solicitud",
+          "descrption": "Procedimiento para instalaciones portátiles o temporales.",
+          "start_date": null,
+          "end_date": "30 días",
+          "required_documentation": "Datos del titular, actividad, denominación, emplazamiento y aforo."
+        }
+      ]
+    },
+    {
+      "name": "Autorización de espectáculos extraordinarios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "descrption": "Trámite para eventos que no se ajusten a la licencia habitual del local.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": "Certificación técnica de seguridad e higiene, seguro de riesgos y disponibilidad de espacio."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

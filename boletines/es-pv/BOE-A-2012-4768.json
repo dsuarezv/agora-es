@@ -1,0 +1,107 @@
+{
+  "identifier": "BOE-A-2012-4768",
+  "title": "Ley 3/1985, de 27 de febrero, por la que se crea y regula la Institución del \"Ararteko\"",
+  "visible_title": "Ley de creación y regulación del Ararteko",
+  "rank": "ley",
+  "country": "es",
+  "department": "Parlamento Vasco",
+  "official_number": "3/1985",
+  "publication_date": "2012-04-07",
+  "enactment_date": "1985-02-27",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1985/02/27/3",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta ley crea al Ararteko, el alto comisariado del Parlamento Vasco encargado de defender los derechos de los ciudadanos frente a posibles abusos de autoridad o negligencias de la Administración Pública Vasca. La norma establece su independencia, sus poderes de investigación y su capacidad para realizar recomendaciones y sugerencias de mejora. Busca garantizar que la Administración actúe con legalidad, objetividad y eficacia en el ámbito de la Comunidad Autónoma.",
+  "citizen_impact": "Ofrece a los ciudadanos un canal gratuito y directo para denunciar malas prácticas, errores o abusos cometidos por la Administración vasca, sus organismos o empresas concesionarias. No requiere intermediarios ni trámites complejos, y permite que la queja se presente incluso de forma oral.",
+  "professional_impact": "Los funcionarios y responsables de servicios públicos (incluyendo empresas concesionarias) tienen la obligación de colaborar con las investigaciones del Ararteko, facilitando toda la documentación necesaria. El entorpecimiento de su labor puede derivar en informes especiales de mala conducta o acciones de responsabilidad.",
+  "keywords": [
+    "Ararteko",
+    "Defensor del Pueblo Vasco",
+    "Derechos ciudadanos",
+    "Administración Pública",
+    "Control parlamentario",
+    "Abuso de autoridad",
+    "Euskadi"
+  ],
+  "key_points": [
+    "Creación de una figura independiente y autónoma para supervisar la Administración Vasca.",
+    "El Ararteko puede investigar tanto a la Administración Común como a la Local, Foral y empresas que prestan servicios públicos por concesión.",
+    "Los ciudadanos pueden presentar quejas de forma gratuita, oral o escrita, siempre que tengan un interés legítimo.",
+    "El Ararteko tiene poder para realizar visitas de inspección y solicitar la comparecencia de funcionarios.",
+    "La institución no puede anular actos administrativos, pero sí emitir recomendaciones y señalar ilegalidades.",
+    "El titular es designado por el Parlamento con una mayoría de tres quintos.",
+    "Se establece un régimen estricto de incompatibilidades para garantizar la neutralidad política del cargo."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía del País Vasco",
+    "Constitución Española",
+    "Ley Orgánica 3/1981, de 6 de abril (Defensor del Pueblo)"
+  ],
+  "derogations": [],
+  "main_obligations": "Los organismos y funcionarios sujetos a control deben aportar datos y documentos solicitados por el Ararteko con carácter preferente y urgente. El incumplimiento o la obstrucción puede ser objeto de informes de mala conducta o acciones de responsabilidad.",
+  "effective_date": "1985-05-27",
+  "procedures": [
+    {
+      "name": "Presentación de quejas ante el Ararteko",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la queja",
+          "description": "El interesado presenta la queja por escrito u oralmente, motivando el caso y aportando documentos.",
+          "start_date": null,
+          "end_date": "1 año desde el conocimiento de los hechos",
+          "required_documentation": "Identificación y domicilio del afectado, documentos que esclarezcan el caso."
+        },
+        {
+          "step": 2,
+          "title": "Valoración de admisibilidad",
+          "description": "El Ararteko realiza un examen preliminar para verificar el interés legítimo y la competencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Investigación",
+          "description": "Si la queja es admitida, se inicia la investigación mediante visitas, inspecciones o solicitudes de información.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución y notificación",
+          "description": "Se comunica el resultado de la investigación tanto al quejoso como a la autoridad afectada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Designación del Ararteko",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de designación",
+          "description": "El Parlamento debe alcanzar una mayoría de tres quintos para el nombramiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Toma de posesión",
+          "description": "El designado presta juramento o promesa ante el Parlamento en Pleno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

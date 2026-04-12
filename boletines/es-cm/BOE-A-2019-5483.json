@@ -1,0 +1,98 @@
+{
+  "identifier": "BOE-A-2019-5483",
+  "title": "Ley 2/2019, de 15 de marzo, de Academias de Castilla-La Manch la",
+  "visible_title": "Ley de Academias de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "2/2019",
+  "publication_date": "2019-04-12",
+  "enactment_date": "2019-03-15",
+  "last_updated": "2025-01-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2019/03/15/2",
+  "official_journal": "Diario Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para la creación, regulación y funcionamiento de las academias científicas, artísticas y literarias en Castilla-La Mancha. Define a estas instituciones como corporaciones de derecho público con autonomía propia que actúan como órganos consultivos para la Administración. El objetivo es fomentar la investigación, la cultura y la difusión del conocimiento mediante un sistema de registro y apoyo institucional.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes.",
+  "professional_impact": "Afecta a profesionales de alto nivel académico y cultural que deseen fundar una academia, exigiéndoles un mínimo de 10 promotores cualificados y medios económicos demostrables. También beneficia a las academias ya existentes, que ahora cuentan con un registro oficial y posibilidad de ayudas regionales.",
+  "keywords": [
+    "academias",
+    "investigación",
+    "cultura",
+    "Castilla-La Mancha",
+    "derecho público",
+    "organismos consultivos"
+  ],
+  "key_points": [
+    "Las academias son corporaciones de derecho público con personalidad jurídica propia.",
+    "Para crear una academia se requiere un mínimo de 10 personas con competencia intelectual o profesional acreditada.",
+    "Se crea el Registro de Academias bajo la tutela de la Consejería de Cultura.",
+    "La creación de una academia debe ser aprobada por el Consejo de Gobierno.",
+    "Las academias pueden actuar como órganos consultivos para la Administración regional.",
+    "Solo pueden usar el nombre de 'academia' aquellas inscritas en el registro oficial.",
+    "Se prohíbe la existencia de más de una academia con el mismo nombre o en el mismo campo del saber."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 44 y 149)",
+    "Estatuto de Autonomía de Castilla-La Mancha",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas"
+  ],
+  "derogations": [],
+  "main_obligations": "Las academias ya constituidas debían inscribirse en el Registro de Academias en un plazo de 6 meses desde la entrada en vigor de la ley para mantener sus derechos y beneficios. Las nuevas academias deben inscribir sus estatutos y cambios de gobierno en el registro.",
+  "effective_date": "2019-04-30",
+  "procedures": [
+    {
+      "name": "Creación de una Academia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Los interesados presentan la solicitud con CV de 10 promotores, memoria, estatutos y medios económicos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "CV de promotores, memoria justificativa, proyecto de estatutos, documentos de medios y recursos."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación de informes",
+          "description": "Se solicitan informes a consejerías competentes, universidades regionales y al órgano de cultura.",
+          "start_date": "Tras la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Información pública y alegaciones",
+          "description": "Se expone el expediente para alegaciones de interesados y trámite de información pública.",
+          "start_date": null,
+          "end_date": "15 días para alegaciones",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "El Consejo de Gobierno dicta el acuerdo de creación o desestimación.",
+          "start_date": null,
+          "end_date": "6 meses desde el inicio",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inscripción en el Registro de Academias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inscripción de oficio o a instancia",
+          "description": "Inscripción de la constitución, estatutos o modificaciones en el registro administrativo.",
+          "start_date": null,
+          "end_date": "3 meses desde el acto",
+          "required_documentation": "Estatutos, documentos de órganos de gobierno o de extinción."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

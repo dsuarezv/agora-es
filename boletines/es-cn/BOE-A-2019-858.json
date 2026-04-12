@@ -1,0 +1,100 @@
+{
+  "identifier": "BOE-A-2019-858",
+  "title": "Ley 5/2018, de 14 de diciembre, de memoria histórica de Canarias y de reconocimiento y reparación moral de las víctimas canarias de la guerra civil y la dictadurá franquista",
+  "visible_title": "Ley de memoria histórica de Canarias y reparación de víctimas de la guerra civil y la dictadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "5/2018",
+  "publication_date": "2019-01-25",
+  "enactment_date": "2018-12-14",
+  "last_updated": "2018-12-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2018/12/14/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca reparar moralmente a las víctimas de la Guerra Civil y la dictadura en Canarias mediante la búsqueda, localización e identificación de desaparecidos. Establece herramientas como un registro de víctimas, un mapa de fosas y un banco de ADN para facilitar la identificación de restos. Además, ordena la retirada de símbolos franquistas y la anulación de honores vinculados a la represión política.",
+  "citizen_impact": "Los descendientes de víctimas de la represión política pueden solicitar certificados de reparación y acceder a procesos de identificación de familiares desaparecidos. También mejora el acceso a la información histórica y la memoria familiar a través de nuevos centros documentales y registros públicos.",
+  "professional_impact": "Las administraciones públicas canarias deben crear y mantener registros, mapas de fosas y un banco de ADN, además de coordinar exhumaciones. Los profesionales de la educación y la cultura deberán integrar estos contenidos en sus currículos y programas de investigación.",
+  "keywords": [
+    "memoria histórica",
+    "Canarias",
+    "víctimas guerra civil",
+    "dictadura franquista",
+    "exhumaciones",
+    "reparación moral",
+    "derechos humanos"
+  ],
+  "key_points": [
+    "Creación de un Registro de víctimas canarias de la Guerra Civil y la dictadura.",
+    "Implementación de un Mapa de fosas de la Comunidad Autónoma de Canarias.",
+    "Establecimiento de un Banco de ADN humano para la identificación de restos.",
+    "Obligación de retirar símbolos, nombres de calles y monumentos que exalten la rebelión militar o la dictadura.",
+    "Anulación de títulos, honores y distinciones institucionales vinculados a la represión.",
+    "Creación de un Centro Virtual Documental de la Memoria Histórica.",
+    "Integración de la memoria histórica en los contenidos educativos de Primaria, Secundaria y Bachillerato.",
+    "Creación de la Comisión Técnica de la Memoria Histórica para asesorar al Gobierno."
+  ],
+  "legal_references": [
+    "Ley 52/2007, de 26 de diciembre",
+    "Estatuto de Autonomía de Canarias",
+    "Ley de Patrimonio Histórico de Canarias"
+  ],
+  "derogations": [],
+  "main_obligations": "Las administraciones públicas canarias deben financiar las labores de localización, exhumación e identificación de restos. Deben también proceder a la retirada de la simbología franquista catalogada y anular honores institucionales en un plazo de dos años.",
+  "effective_date": "2019-01-26",
+  "procedures": [
+    {
+      "name": "Procedimiento de localización, exhumación e identificación de restos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del procedimiento",
+          "description": "Inicio de oficio por la administración o a instancia de entidades locales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe de la Comisión Técnica",
+          "description": "La Comisión Técnica de la Memoria Histórica debe emitir un informe previo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Publicidad y comunicación a familiares",
+          "description": "Se da publicidad a la solicitud y se traslada a los familiares directos si se conocen.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "Resolución de la solicitud. Si no hay respuesta en 3 meses, se entiende estimada.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Anulación de distinciones y honores",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Promoción de procedimientos de invalidación",
+          "description": "Las administraciones deben iniciar los trámites para invalidar títulos y honores vinculados a la represión.",
+          "start_date": "Fecha de entrada en vigor",
+          "end_date": "2 años",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

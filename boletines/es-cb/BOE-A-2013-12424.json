@@ -1,0 +1,371 @@
+{
+  "identifier": "BOE-A-2013-12424",
+  "title": "Ley 6/2013, de 6 de noviembre, de Cooperativas de Cantabria",
+  "visible_title": "Ley de Cooperativas de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "6/2013",
+  "publication_date": "2013-11-27",
+  "enactment_date": "2013-11-06",
+  "last_updated": "2025-04-04",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2013/11/06/6",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "summary": "Esta ley regula la creación, funcionamiento y gestión de todas las cooperativas en Cantabria, dándoles un marco empresarial sólido. Establece las reglas para la toma de decisiones, la gestión de capital y la protección de los socios, diferenciando modelos como los de trabajo, vivienda o agrarios. Además, define cómo deben reinvertirse los beneficios y las sanciones por incumplimiento. Su objetivo es garantizar la seguridad jurídica de estas entidades y su correcta integración en la economía social regional.",
+  "citizen_impact": "Para los socios, garantiza derechos económicos como una remuneración mínima (70% del SMI o media del sector en cooperativas de trabajo) y el derecho a la separación en caso de cambios estructurales. En cooperativas de vivienda, protege el patrimonio de cada promoción para que las deudas de una fase no afecten a otras.",
+  "professional_impact": "Las empresas cooperativas deben cumplir con requisitos de capital (mínimo 3.000€), límites de contratación externa (60% en trabajo) y obligaciones de auditoría y registro. Los administradores asumen responsabilidad solidaria por daños derivados de incumplimientos legales o estatutarios.",
+  "keywords": [
+    "cooperativas",
+    "Cantabria",
+    "economía social",
+    "socio de trabajo",
+    "gestión cooperativa",
+    "capital social",
+    "derechos de socios"
+  ],
+  "key_points": [
+    "Capital social mínimo de 3.000€ con un desembolso inicial obligatorio del 25%.",
+    "Mínimo de 3 socios para cooperativas de primer grado y 2 para las de segundo grado.",
+    "Los socios de trabajo tienen garantizada una compensación mínima del 70% de la retribución media del sector o el SMI.",
+    "Límite de contratación externa: el personal no socio no puede superar el 60% de las horas totales anuales en cooperativas de trabajo.",
+    "Obligación de destinar al menos el 20% de excedentes al fondo de reserva obligatorio y el 5% al de formación.",
+    "El fondo de formación y promoción es inembargable y no es repartible entre socios.",
+    "En cooperativas de vivienda, cada promoción debe tener autonomía de gestión y patrimonio separado.",
+    "Los miembros del consejo rector tienen responsabilidad solidaria por daños causados por incumplimiento de la ley o estatutos.",
+    "Las cooperativas de iniciativa y de integración social tienen prohibido repartir excedentes entre sus socios.",
+    "Las sanciones por infracciones muy graves pueden alcanzar los 35.000 euros o la disolución de la entidad.",
+    "Posibilidad de crear 'secciones' con patrimonio y gestión propia dentro de la misma cooperativa.",
+    "Los socios que voten en contra de una fusión o transformación tienen derecho de separación justificada."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 38 y 129.2)",
+    "Estatuto de Autonomía para Cantabria (art. 24.26)",
+    "Ley 5/2011, de 29 de marzo, de Economía Social",
+    "Norma NIC 32",
+    "Real Decreto Legislativo 1/2010 (Ley de Sociedades de Capital)",
+    "Código de Comercio",
+    "Ley de Auditoría de Cuentas",
+    "Ley 36/2011 de la Jurisdicción Social",
+    "Ley de Cantabria 1/2006 de Defensa de los Consumidores y Usuarios",
+    "Código Civil",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley 42/1997, de 14 de noviembre, Ordenadora de la Inspección de Trabajo y Seguridad Social"
+  ],
+  "derogations": [],
+  "main_obligations": "Las cooperativas deben inscribirse en el Registro de Sociedades Cooperativas de Cantabria para obtener personalidad jurídica y llevar libros de registro obligatorios (socios, capital, actas, etc.). Asimismo, deben inscribir sus acuerdos en el Registro en un plazo de 2 meses cuando sea necesario.",
+  "effective_date": "2013-12-27",
+  "procedures": [
+    {
+      "name": "Constitución de la Sociedad Cooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Asamblea Constituyente o Escritura Directa",
+          "descrption": "Celebración de asamblea para aprobar estatutos y órganos, o directamente ante notario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de la asamblea o proyecto de estatutos"
+        },
+        {
+          "step": 2,
+          "title": "Otorgamiento de Escritura Pública",
+          "descrption": "Formalización de la constitución ante notario.",
+          "start_date": "Máximo 2 meses tras la aprobación de estatutos o calificación previa",
+          "end_date": null,
+          "required_documentation": "Identidad de otorgantes, estatutos, relación de cargos y certificación registral"
+        },
+        {
+          "step": 3,
+          "title": "Inscripción Registral",
+          "descrption": "Solicitud de inscripción en el Registro de Sociedades Cooperativas de Cantabria para obtener personalidad jurídica.",
+          "start_date": "Máximo 2 meses tras la escritura pública",
+          "end_date": null,
+          "required_documentation": "Escritura pública y liquidación del Impuesto de Actos Jurídicos Documentados"
+        }
+      ]
+    },
+    {
+      "name": "Admisión de nuevos socios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de admisión",
+          "descrption": "Presentación de solicitud por escrito al consejo rector.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud por escrito"
+        },
+        {
+          "step": 2,
+          "title": "Resolución del Consejo Rector",
+          "descrption": "Decisión motivada sobre la admisión o denegación.",
+          "start_date": null,
+          "end_date": "Máximo 3 meses desde la recepción",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Recurso por denegación",
+          "descrption": "El aspirante puede recurrir ante el comité de recursos o la asamblea general.",
+          "start_date": "15 días tras la comunicación de la denegación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Baja Voluntaria del Socio",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de baja",
+          "descrption": "Comunicación por escrito al consejo rector.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Comunicación por escrito"
+        },
+        {
+          "step": 2,
+          "title": "Calificación de la baja",
+          "descrption": "El consejo rector formaliza la baja y sus efectos.",
+          "start_date": null,
+          "end_date": "Máximo 3 meses desde la solicitud",
+          "required_documentation": "Resolución motivada por escrito"
+        }
+      ]
+    },
+    {
+      "name": "Convocatoria de Asamblea General Extraordinaria por socios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud fehaciente",
+          "description": "Un número de socios que represente el 20% de los votos debe solicitar la convocatoria.",
+          "start_date": "Desde la solicitud",
+          "end_date": null,
+          "required_documentation": "Solicitud fehaciente"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de atención del Consejo Rector",
+          "description": "El consejo tiene un plazo para atender el requerimiento.",
+          "start_date": "Recepción de la solicitud",
+          "end_date": "30 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Instancia judicial",
+          "description": "Si no se atiende, los socios pueden acudir a la autoridad judicial para la convocatoria.",
+          "start_date": "Tras los 30 días",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Impugnación de acuerdos de la Asamblea General",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Impugnación de acuerdos nulos",
+          "description": "Acción para acuerdos contrarios al ordenamiento jurídico.",
+          "start_date": "Desde la adopción del acuerdo o inscripción",
+          "end_date": "1 año",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Impugnación de acuerdos anulables",
+          "description": "Acción para acuerdos que lesionan intereses o la ley, requiere oposición expresa en acta o en 48h.",
+          "start_date": "Desde la adopción del acuerdo",
+          "end_date": "40 días",
+          "required_documentation": "Constancia en acta o documento fehaciente en 48h"
+        }
+      ]
+    },
+    {
+      "name": "Reembolso de aportaciones por baja del socio",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Liquidación de la aportación",
+          "description": "Cálculo del valor de la aportación según el balance de cierre del ejercicio de la baja.",
+          "start_date": "Aprobación de cuentas del ejercicio de la baja",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Efectivización del pago",
+          "description": "Plazo máximo para que la cooperativa devuelva el dinero al socio.",
+          "start_date": "Fecha de la baja",
+          "end_date": "5 años",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Modificación de Estatutos Sociales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta e Informe",
+          "description": "Formulación de un informe escrito justificativo de la modificación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe escrito justificativo"
+        },
+        {
+          "step": 2,
+          "title": "Convocatoria",
+          "description": "Convocatoria de la Asamblea General detallando los cambios y permitiendo el examen de documentos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Texto íntegro de la modificación y el informe"
+        },
+        {
+          "step": 3,
+          "title": "Acuerdo y Escritura",
+          "description": "Aprobación en Asamblea y elevación a escritura pública para inscripción en el Registro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública y acta del acuerdo"
+        }
+      ]
+    },
+    {
+      "name": "Proceso de Fusión",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Proyecto de Fusión",
+          "description": "Redacción del proyecto de fusión y convenio previo por los consejos rectores.",
+          "start_date": null,
+          "end_date": "6 meses (si no se aprueba, el proyecto queda sin efecto)",
+          "required_documentation": "Proyecto de fusión y convenio previo"
+        },
+        {
+          "step": 2,
+          "title": "Información a Socios",
+          "description": "Puesta a disposición de la documentación (cuentas, balances, informes) en el domicilio social.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Cuentas de 3 ejercicios, balance de fusión e informe del consejo rector"
+        },
+        {
+          "step": 3,
+          "title": "Acuerdo de Fusión",
+          "description": "Aprobación por la Asamblea General con mayoría de dos tercios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Plazo de Oposición de Acreedores",
+          "description": "Periodo de espera para que los acreedores puedan oponerse a la fusión.",
+          "start_date": null,
+          "end_date": "2 meses desde el último anuncio",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Transformación de Cooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de Asamblea",
+          "description": "Decisión de transformar la entidad siguiendo el procedimiento de modificación de estatutos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Publicación y Escritura",
+          "description": "Publicación en BOC y elevación a escritura pública con balance de situación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Balance de situación y relación de socios con derecho de separación"
+        },
+        {
+          "step": 3,
+          "title": "Inscripción de Baja",
+          "description": "Presentación de la escritura en el Registro de Cooperativas para inscribir la baja.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de estatutos sociales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de adaptación",
+          "description": "La cooperativa debe adaptar sus estatutos a la nueva ley mediante Asamblea General.",
+          "start_date": "Desde la entrada en vigor de la ley",
+          "end_date": "2 años",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Bloqueo registral",
+          "description": "El Registro no inscribirá nuevos documentos si no se ha inscrito la adaptación de estatutos.",
+          "start_date": "Tras el plazo de 2 años",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Calificación previa de estatutos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de calificación",
+          "description": "Los promotores solicitan la calificación de los estatutos ante el Registro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado negativo de denominación, proyecto de estatutos y acta de asamblea constituyente"
+        },
+        {
+          "step": 2,
+          "title": "Resolución del Registro",
+          "description": "El órgano competente debe resolver la solicitud.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de descatificación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del expediente",
+          "description": "Se requiere informe de la Inspección de Trabajo y de la organización representativa.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Trámite de audiencia",
+          "description": "Se otorga audiencia a la sociedad mediante la comparecencia del consejo rector o tres socios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 4
+}

@@ -1,0 +1,83 @@
+{
+  "identifier": "BOE-A-2021-2571",
+  "title": "Resolución INT/332/2021, de 8 de febrero, por la que se establecen las restricciones a la circulación durante el año 2021",
+  "visible_title": "Restricciones a la circulación de vehículos en Cataluña durante 2021",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Servicio Catalán de Tráfico",
+  "official_number": "INT/332/2021",
+  "publication_date": "2021-02-19",
+  "enactment_date": "2021-02-08",
+  "last_updated": "2022-04-07",
+  "status": "derogated",
+  "scope": "Autoonómico",
+  "source": "https://www.boe.es/eli/es-ct/res/2021/02/08/int332",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta resolución establece un calendario de restricciones de circulación en la red vial de Cataluña para el año 2021. El objetivo es mejorar la fluidez del tráfico y la seguridad vial, especialmente en periodos de alta demanda o festividades. Regula el tránsito de vehículos pesados, de transporte especial y de mercancías peligrosas en tramos y horarios específicos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo para aquellos que utilicen carriles Bus-VAO específicos o se vean afectados por eventos deportivos y obras en la vía pública.",
+  "professional_impact": "Afecta significativamente al sector del transporte de mercancías y logística, imponiendo restricciones de horario y rutas obligatorias para vehículos de más de 7.500 kg y transporte de mercancías peligrosas (ADR). Las empresas deben planificar sus rutas siguiendo itinerarios específicos (RIMP) y gestionar exenciones para cargas urgentes o perecederas.",
+  "keywords": [
+    "tráfico",
+    "Cataluña",
+    "restricciones de circulación",
+    "transporte de mercancías",
+    "mercancías peligrosas",
+    "vehículos pesados",
+    "seguridad vial"
+  ],
+  "key_points": [
+    "Prohibición de circular para vehículos de mercancías > 7.500 kg en tramos y horarios específicos según el Anexo B.",
+    "Obligatoriedad de usar la red de itinerarios europeos para vehículos de paso sin operación de transporte.",
+    "Restricciones severas para vehículos de transporte especial y mercancías peligrosas (ADR) en domingos, festivos y túneles críticos (Cadí y Vielha).",
+    "Establecimiento de rutas obligatorias (RIMP) para el transporte de mercancías peligrosas.",
+    "Limitaciones de uso de carriles Bus-VAO en la C-58CC y C-31 norte.",
+    "Restricciones de circulación en la Val d'Aran (N-230 y C-28) durante periodos estacionales.",
+    "Regulación de la realización de obras y eventos deportivos para evitar colapsos en la red vial.",
+    "Posibilidad de detención o retirada de vehículos por parte de los Mossos d'Esquadra si incumplen las restricciones y causan riesgo."
+  ],
+  "legal_references": [
+    "Real decreto legislativo 6/2015",
+    "Real decreto 1428/2003",
+    "Ley 14/1997",
+    "Resolución INT/741/2011",
+    "Reglamento (CE) 561/2006",
+    "Decreto legislativo 2/2009"
+  ],
+  "derogations": [
+    "Resolución INT/383/2020",
+    "Resolución INT/551/2020",
+    "Resolución INT/2453/2020"
+  ],
+  "main_obligations": "Los vehículos de transporte de mercancías > 7.500 kg y de mercancías peligrosas deben respetar estrictamente los horarios, días y tramos prohibidos detallados en la norma. El incumplimiento conlleva sanciones según la legislación de tráfico y la posible retirada del vehículo por la policía.",
+  "effective_date": "2021-02-19",
+  "procedures": [
+    {
+      "name": "Solicitud de autorización para transporte urgente o mercancías peligrosas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación vía web",
+          "descrption": "Gestión de autorizaciones excepcionales para desplazamientos que no puedan postergarse.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Justificación de la urgencia o necesidad ineludible"
+        }
+      ]
+    },
+    {
+      "name": "Comunicación previa para transportes especiales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación obligatoria",
+          "descrption": "Los vehículos de transporte especial deben realizar una comunicación previa a través del enlace de transit.gencat.cat.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

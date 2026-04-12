@@ -1,0 +1,83 @@
+{
+  "identifier": "BOE-A-2021-18035",
+  "title": "Ley 4/2021, de 7 de octubre, de metodología de distribución de recursos y de determinación de las aportaciones de las diputaciones forales a la financiación de los presupuestos de la Comunidad Autónoma del País Vasco aplicable al periodo 2022-2026",
+  "visible_title": "Metodología de distribución de recursos y aportaciones de las diputaciones forales al País Vasco (2022-2026)",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "4/2021",
+  "publication_date": "2021-11-05",
+  "enactment_date": "2021-10-07",
+  "last_updated": "2021-10-13",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2021/10/07/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas matemáticas y financieras para repartir el dinero recaudado por las Diputaciones Forales entre las instituciones del País Vasco durante el periodo 2022-2026. Define cuánto dinero debe aportar cada territorio histórico para financiar los presupuestos autonómicos y cómo se compensarán las diferencias de recaudación. Además, garantiza una participación mínima de las entidades locales en los recursos disponibles de cada territorio.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que es una norma de organización financiera interna entre instituciones públicas.",
+  "professional_impact": "Afecta principalmente a funcionarios de las haciendas forales, autonómicas y locales, quienes deben aplicar nuevos coeficientes de reparto y cumplir con estrictos calendarios de certificación de ingresos y liquidación de aportaciones. Las empresas no se ven afectadas directamente, salvo por la estabilidad financiera que garantiza este modelo para la gestión de servicios públicos.",
+  "keywords": [
+    "Concierto Económico",
+    "Diputaciones Forales",
+    "Distribución de recursos",
+    "Financiación autonómica",
+    "País Vasco",
+    "Entidades locales"
+  ],
+  "key_points": [
+    "Establece un coeficiente de distribución vertical del 70,81% para el periodo 2022-2026.",
+    "Crea un Fondo General de Ajuste con un límite máximo del 1,45% para equilibrar las diferencias de recaudación entre territorios.",
+    "Garantiza que las entidades locales reciban, como mínimo, el 39,23% de los recursos disponibles de su respectivo territorio histórico.",
+    "Introduce una nueva estructura para separar claramente los elementos operativos de los modelos de distribución vertical y horizontal.",
+    "Regula cómo se deben gestionar los nuevos traspasos de competencias desde el Estado o la Comunidad Autónoma hacia las Diputaciones o Ayuntamientos."
+  ],
+  "legal_references": [
+    "Ley 27/1983, de 25 de noviembre, de Relaciones entre las Instituciones Comunes de la Comunidad Autónoma y los Órganos Forales de sus Territorios Históricos",
+    "Real Decreto 1441/2010",
+    "Ley 2/2016, de 4 de abril, de instituciones fiscales"
+  ],
+  "derogations": [],
+  "main_obligations": "Las Diputaciones Forales deben remitir al Gobierno Vasco certificaciones de ingresos y estadísticas tributarias dentro de los primeros 15 días de cada mes. Deben realizar seis entregas de aportaciones provisionales durante el ejercicio según los plazos de la Ley 27/1983.",
+  "effective_date": "2022-01-01",
+  "procedures": [
+    {
+      "name": "Ciclo de liquidación de aportaciones y recursos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Entrega de aportaciones provisionales",
+          "description": "Las Diputaciones Forales realizan seis pagos iguales basados en las previsiones de ingresos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Previsiones de recaudación aprobadas por el Consejo Vasco de Finanzas Públicas"
+        },
+        {
+          "step": 2,
+          "title": "Ajuste preliquidatorio",
+          "description": "Realización de un ajuste basado en las previsiones de liquidación de ingresos.",
+          "start_date": "octubre (primera quincena)",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Liquidación de aportaciones",
+          "description": "Cálculo definitivo de las aportaciones basado en la recaudación real del ejercicio anterior.",
+          "start_date": "febrero (primera quincena)",
+          "end_date": null,
+          "required_documentation": "Certificaciones de ingresos emitidas por las Diputaciones Forales"
+        },
+        {
+          "step": 4,
+          "title": "Liquidación de ajustes entre Diputaciones",
+          "description": "Ajuste de la recaudación de IVA e impuestos especiales entre territorios.",
+          "start_date": "enero (primera quincena)",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

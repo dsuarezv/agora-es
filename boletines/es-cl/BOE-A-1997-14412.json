@@ -1,0 +1,95 @@
+{
+  "identifier": "BOE-A-1997-14412",
+  "title": "Ley 5/1997, de 24 de abril, de protección de los animales de compañía",
+  "visible_title": "Ley de protección de los animales de compañía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "5/1997",
+  "publication_date": "1997-07-01",
+  "enactment_date": "1997-04-24",
+  "last_updated": "2017-07-06",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/1997/04/24/5",
+  "official_journal": "Boletín Oficial de Castilla y León",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco de protección para los animales que viven con las personas en Castilla y León. Busca garantizar su bienestar higiénico-sanitario y evitar tratos crueles o abusivos. Regula aspectos como el censo de mascotas, el control de la venta de animales y el régimen de abandono, estableciendo sanciones para quienes incumplan estas normas.",
+  "citizen_impact": "Los dueños de mascotas tienen la obligación de censar a sus perros en el Ayuntamiento y asegurarles condiciones de vida dignas. Se prohíbe el abandono y se imponen multas por no recoger excrementos o por no llevar al animal con correa/collar en espacios públicos. También se regula la entrada de animales en establecimientos y el transporte seguro de los mismos.",
+  "professional_impact": "Los establecimientos de venta, clínicas y centros de recogida (núcleos zoológicos) deben obtener autorizaciones administrativas y cumplir estrictos requisitos sanitarios. Los veterinarios deben mantener fichas clínicas actualizadas. Los infractores pueden enfrentarse a multas de hasta 30.000 euros y al cierre de sus negocios.",
+  "keywords": [
+    "animales de compañía",
+    "bienestar animal",
+    "censos de mascotas",
+    "maltrato animal",
+    "núcleos zoológicos",
+    "Castilla y León"
+  ],
+  "key_points": [
+    "Obligatoriedad de censar a los perros en el municipio de residencia en un plazo de 3 meses.",
+    "Identificación de mascotas mediante microchip o tatuaje.",
+    "Prohibición estricta de espectáculos que impliquen tortura o sufrimiento animal.",
+    "Responsabilidad civil de los dueños por daños causados por sus animales a terceros.",
+    "Obligación de entregar certificados sanitarios al vender animales, con garantía de 14 días.",
+    "Prohibición de vender animales a menores de edad sin autorización.",
+    "Régimen de sanciones que distingue entre infracciones leves, graves y muy graves.",
+    "Posibilidad de confiscación de animales en casos de maltrato o peligro para la salud pública."
+  ],
+  "legal_references": [
+    "Código Civil (artículo 1.905)",
+    "Estatuto de Autonomía de Castilla y León"
+  ],
+  "derogations": [],
+  "main_obligations": "Los propietarios deben censar a sus perros, mantener condiciones higiénico-sanitarias adecuadas y evitar el abandono. El incumplimiento de estas normas o el maltrato puede acarrear multas desde 150€ hasta 30.000€ según la gravedad.",
+  "effective_date": "1997-07-22",
+  "procedures": [
+    {
+      "name": "Censo de animales de compañía",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inscripción en el censo municipal",
+          "descrption": "El propietario debe registrar al animal en el Ayuntamiento donde reside habitualmente.",
+          "start_date": "Desde el nacimiento o adquisición",
+          "end_date": "3 meses después del nacimiento o adquisición",
+          "required_documentation": "Identificación del animal (microchip o tatuaje) y datos del propietario"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de recuperación de animales identificados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación al propietario",
+          "descrption": "Tras la recogida de un animal identificado, se comunica al dueño para su recuperación.",
+          "start_date": null,
+          "end_date": "5 días tras la notificación",
+          "required_documentation": "Abono de gastos de custodia y mantenimiento"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del expediente",
+          "descrption": "Inicio del proceso administrativo por parte de la autoridad competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Medidas cautelares (si procede)",
+          "descrption": "Retirada preventiva de animales o clausura de instalaciones para evitar nuevos daños.",
+          "start_date": "Al inicio del expediente",
+          "end_date": "Hasta la resolución firme",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

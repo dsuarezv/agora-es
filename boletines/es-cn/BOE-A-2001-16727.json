@@ -1,0 +1,112 @@
+{
+  "identifier": "BOE-A-2001-16727",
+  "title": "Ley 7/2001, de 31 de julio, del Diputado del Común",
+  "visible_title": "Ley del Diputado del Común",
+  "rank": "ley",
+  "country": "es",
+  "department": "Parlamento de Canarias",
+  "official_number": "7/2001",
+  "publication_date": "2001-08-29",
+  "enactment_date": "2001-07-31",
+  "last_updated": "2019-04-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2001/07/31/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula la figura del Diputado del Común en Canarias como el defensor de los ciudadanos frente a posibles abusos o negligencias de la Administración. Establece su modo de elección, su independencia y sus facultades para supervisar tanto a la administración pública como a empresas privadas que gestionen servicios públicos. Su objetivo es garantizar que se respeten los derechos fundamentales y las libertades públicas en todo el territorio canario.",
+  "citizen_impact": "Permite a cualquier persona (sin importar nacionalidad o residencia) presentar quejas gratuitas si considera que la Administración canaria ha vulnerado sus derechos. Ofrece un mecanismo de mediación y supervisión para proteger a los colectivos más vulnerables y asegurar que los servicios públicos funcionen correctamente.",
+  "professional_impact": "Los funcionarios y autoridades de la Administración canaria tienen la obligación legal de colaborar con las investigaciones del Diputado del Común, facilitando expedientes y datos. La obstrucción o falta de colaboración puede derivar en la exposición pública de la conducta o incluso en la denuncia ante el Ministerio Fiscal.",
+  "keywords": [
+    "Diputado del Común",
+    "Derechos Fundamentales",
+    "Administración Pública",
+    "Canarias",
+    "Quejas",
+    "Supervisión Administrativa",
+    "Defensa del Ciudadano"
+  ],
+  "key_points": [
+    "El Diputado del Común es elegido por el Parlamento de Canarias para un mandato de 5 años.",
+    "Tiene capacidad de supervisión sobre la Administración autonómica, Cabildos, Ayuntamientos y empresas que gestionen servicios públicos.",
+    "Se crea una Adjuntía especial dedicada específicamente a la igualdad entre mujeres y hombres y la violencia de género.",
+    "Las actuaciones son gratuitas para el ciudadano y no requieren abogado ni procurador.",
+    "El Diputado del Común goza de inviolabilidad por las opiniones y actos realizados en su cargo.",
+    "La Administración está obligada a responder por escrito a las sugerencias o recomendaciones en un plazo máximo de un mes.",
+    "Se garantiza el anonimato del reclamante siempre que sea posible durante la investigación."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Canarias",
+    "Ley Orgánica 10/1982, de 10 de agosto",
+    "Ley Orgánica 4/1996, de 30 de diciembre",
+    "Constitución Española",
+    "Ley del Defensor del Pueblo",
+    "Ley 1/1985, de 12 de febrero"
+  ],
+  "derogations": [
+    "Ley 1/1985, de 12 de febrero, del Diputado del Común"
+  ],
+  "main_obligations": "Las autoridades y personal de la Administración canaria deben auxiliar al Diputado del Común con carácter preferente y urgente. Deben facilitar el acceso a expedientes y documentación, salvo los de carácter secreto. La Administración debe responder por escrito a las recomendaciones en un plazo de un mes.",
+  "effective_date": "2001-08-30",
+  "procedures": [
+    {
+      "name": "Tramitación de quejas ante el Diputado del Común",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la queja",
+          "description": "El interesado presenta un escrito razonado y firmado con sus datos personales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escrito de queja y documentación relacionada"
+        },
+        {
+          "step": 2,
+          "title": "Registro y admisión",
+          "description": "El Diputado del Común registra la queja y decide si la admite a trámite o la rechaza motivadamente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Investigación",
+          "description": "Se realiza una investigación sumaria y se solicita informe a la Administración afectada.",
+          "start_date": null,
+          "end_date": "15 días (ampliable)",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución y comunicación",
+          "description": "Se informa al interesado del resultado y se emiten sugerencias, advertencias o recomendaciones a la Administración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Elección del Diputado del Común",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de candidatos",
+          "description": "La comisión parlamentaria propone candidatos al Pleno por mayoría simple.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Votación en el Pleno",
+          "description": "Se requiere una votación favorable de tres quintas partes de los miembros del Parlamento.",
+          "start_date": "Entre 15 y 30 días tras la propuesta",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

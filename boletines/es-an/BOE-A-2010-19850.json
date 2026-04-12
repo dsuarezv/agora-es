@@ -1,0 +1,98 @@
+{
+  "identifier": "BOE-A-2010-19850",
+  "title": "Ley 11/2010, de 3 de diciembre, de medidas fiscales para la reducción del déficit público y para la sostenibilidad",
+  "visible_title": "Medidas fiscales para la reducción del déficit público y la sostenibilidad",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "11/2010",
+  "publication_date": "2010-12-27",
+  "enactment_date": "2010-12-03",
+  "last_updated": "2019-07-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2010/12/03/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley implementa una serie de ajustes fiscales en Andalucía para reducir el déficit público y asegurar la sostenibilidad de las cuentas autonómicas. Introduce nuevos impuestos como el de depósitos bancarios y el de bolsas de plástico, además de modificar el IRPF para aumentar la progresividad. También ajusta deducciones por vivienda, familia y discapacidad, buscando equilibrar la recaudación con la justicia social.",
+  "citizen_impact": "Los ciudadanos verán cambios en su declaración de la renta, con nuevos tramos para rentas altas y límites en deducciones por vivienda o familia. Además, se introduce un coste extra de 5 céntimos por cada bolsa de plástico de un solo uso en comercios. Los jóvenes menores de 35 años y personas con discapacidad mantienen o acceden a beneficios en la compra de vivienda.",
+  "professional_impact": "Las entidades de crédito deberán afrontar un nuevo impuesto sobre los depósitos de sus clientes en oficinas andaluzas. Los comercios tienen la carga de gestionar y repercutir el impuesto de las bolsas de plástico. Los profesionales del sector del juego y del transporte también ven modificadas sus tasas y obligaciones de liquidación.",
+  "keywords": [
+    "fiscalidad",
+    "déficit público",
+    "IRPF",
+    "impuesto depósitos",
+    "bolsas de plástico",
+    "Andalucía",
+    "sostenibilidad fiscal"
+  ],
+  "key_points": [
+    "Creación de nuevos tramos en el IRPF autonómico para rentas superiores a 80.000 euros.",
+    "Implementación de un impuesto de 5 céntimos por cada bolsa de plástico de un solo uso suministrada en comercios.",
+    "Creación del Impuesto sobre los Depósitos de Clientes en las Entidades de Crédito con oficinas en Andalucía.",
+    "Nuevos límites de renta para acceder a deducciones por vivienda protegida y alquiler.",
+    "Equiparación de parejas de hecho a matrimonios para deducciones por ayuda doméstica.",
+    "Reducción de tipos en el ITP para jóvenes menores de 35 años o personas con discapacidad al comprar vivienda de hasta 130.000 euros.",
+    "Aumento de la tasa por depósito de residuos radiactivos de 7.000 a 10.000 euros por metro cúbico.",
+    "Obligación de autoliquidar y regularizar beneficios fiscales si se dejan de cumplir los requisitos."
+  ],
+  "legal_references": [
+    "Decreto-ley 4/2010, de 6 de julio",
+    "Real Decreto-ley 8/2010, de 20 de mayo",
+    "Decreto Legislativo 1/2009, de 1 de septiembre",
+    "Ley 29/1994, de 29 de diciembre (LAU)",
+    "Ley 58/2003, de 17 de diciembre (Ley General Tributaria)",
+    "Ley 22/2009, de 18 de diciembre",
+    "Ley 4/1988, de 5 de julio",
+    "Ley 9/1996, de 26 de diciembre",
+    "Ley 10/2002, de 21 de diciembre",
+    "Ley 18/2003, de 29 de diciembre",
+    "Ley 2/1986, de 4 de julio",
+    "Ley 5/2002, de 16 de diciembre",
+    "Ley 23/2007, de 18 de diciembre",
+    "Ley 7/2002, de 18 de diciembre",
+    "Ley 4/2007, de 4 de abril"
+  ],
+  "derogations": [
+    "Ley 2/1982, de 21 de diciembre, Reguladora del Consejo Asesor de R.T.V.E. en Andalucía"
+  ],
+  "main_obligations": "Los comercios deben repercutir íntegramente el impuesto de las bolsas de plástico a los consumidores y declararlo trimestralmente. Las entidades de crédito deben realizar un pago a cuenta en julio basado en el 0,001 de su base imponible del año anterior. Los contribuyentes que pierdan requisitos de deducciones deben presentar una declaración de regularización en un mes.",
+  "effective_date": "2011-01-01",
+  "procedures": [
+    {
+      "name": "Liquidación del Impuesto sobre las Bolsas de Plástico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración trimestral",
+          "descrption": "Presentación de la autoliquidación de las bolsas suministradas en el trimestre.",
+          "start_date": "Cada trimestre",
+          "end_date": "20 días naturales tras el fin del trimestre",
+          "required_documentation": "Contabilización de bolsas suministradas"
+        },
+        {
+          "step": 2,
+          "title": "Declaración anual",
+          "descrption": "Presentación de la declaración comprensiva de todo el ejercicio anterior.",
+          "start_date": "Primeros 20 días de enero",
+          "end_date": "20 de enero",
+          "required_documentation": "Resumen anual de suministros"
+        }
+      ]
+    },
+    {
+      "name": "Pago a cuenta del Impuesto sobre Depósitos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Realización del pago",
+          "descrption": "Ingreso del pago a cuenta correspondiente al ejercicio en curso.",
+          "start_date": "Julio",
+          "end_date": "Julio",
+          "required_documentation": "Cálculo basado en el 0,001 de la base imponible del ejercicio anterior"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

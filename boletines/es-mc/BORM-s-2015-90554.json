@@ -1,0 +1,98 @@
+{
+  "identifier": "BORM-s-2015-90554",
+  "title": "Decreto-ley 3/2015, de 7 de octubre, por el que se modifican los requisitos de acceso a la prestación económica de Cuidados en el Entorno Familiar y Apoyo a Cuidadores no profesionales del Sistema de la Dependencia así como la intensidad en su prestación y se regula la acreditación de las Comunidades Hereditarias para reclamar los atrasos devengados y no percibidos por las personas dependientes fallecidas",
+  "visible_title": "Modificación de requisitos y acceso a la prestación de cuidados en el entorno familiar y apoyo a cuidadores no profesionales",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "3/2015",
+  "publication_date": "2015-10-10",
+  "enactment_date": "2015-10-07",
+  "last_updated": "2015-10-10",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2015-90554",
+  "official_journal": "Boletín Oficial de la Región de Murcia",
+  "journal_issue": null,
+  "summary": "Esta norma corrige los perjuicios causados por restricciones previas que dificultaban el acceso a las ayudas por dependencia en Murcia. Permite que los cuidadores puedan tener un trabajo remunerado sin perder la ayuda y facilita el cobro de pagos atrasados. Además, habilita a los herederos para reclamar las prestaciones no percibidas si el beneficiario fallece antes de que se resuelva su expediente.",
+  "citizen_impact": "Los cuidadores familiares ahora pueden trabajar y seguir cobrando la ayuda de dependencia. Las familias de personas dependientes fallecidas pueden reclamar el dinero que su familiar no llegó a cobrar. Se agiliza el reconocimiento de derechos para quienes fueron denegados injustamente por cambios normativos anteriores.",
+  "professional_impact": "Los funcionarios de la administración de dependencia deben revisar expedientes antiguos para revocar denegaciones previas. Se establece un plazo de resolución de seis meses para ayudas y servicios, tras el cual el silencio administrativo se considerará desestimatorio.",
+  "keywords": [
+    "dependencia",
+    "cuidados en el entorno familiar",
+    "ayudas económicas",
+    "cuidadores no profesionales",
+    "atrasos",
+    "comunidades hereditarias",
+    "Región de Murcia"
+  ],
+  "key_points": [
+    "Se permite que el cuidador realice una actividad profesional remunerada sin perder la prestación.",
+    "Se pueden reclamar pagos atrasados de hasta 8 años, pagándose en un solo pago si la deuda es inferior a 1.500 €.",
+    "Los herederos pueden reclamar las prestaciones no cobradas si el dependiente fallece sin resolución de su expediente.",
+    "Se recupera el criterio de intensidad de cuidados anterior a la Ley 6/2013 para jornadas completas, incluso en periodos escolares o de internamiento.",
+    "El silencio administrativo en la resolución de estas ayudas será negativo (desestimatorio) tras 6 meses."
+  ],
+  "legal_references": [
+    "Ley 6/2013, de 8 de julio",
+    "Ley 6/2012, de 29 de junio",
+    "Real Decreto-ley 20/2012, de 13 de julio",
+    "Real Decreto 1051/2013, de 27 de diciembre",
+    "Ley 39/2006, de 14 de diciembre",
+    "Decreto 74/2011, de 20 de mayo",
+    "Decreto 306/2010, de 3 de diciembre",
+    "Ley 1/2002, de 20 de marzo"
+  ],
+  "derogations": [
+    "Ley 6/2012, de 29 de junio (apartado Cuarto del artículo 6)",
+    "Ley 6/2013, de 8 de julio (Disposición transitoria octava)",
+    "Decreto 306/2010, de 3 de diciembre (artículo 31.1)"
+  ],
+  "main_obligations": "La administración debe resolver las solicitudes de prestaciones en un plazo máximo de seis meses. Si no lo hace, el silencio administrativo se entenderá como una denegación.",
+  "effective_date": "2015-10-11",
+  "procedures": [
+    {
+      "name": "Reconocimiento de la prestación económica de cuidados en el entorno familiar",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de la prestación",
+          "description": "Presentación de la solicitud de reconocimiento de la situación de dependencia y derecho a la prestación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la situación de dependencia y la condición de cuidador."
+        },
+        {
+          "step": 2,
+          "title": "Resolución administrativa",
+          "description": "La administración debe dictar una resolución expresa sobre la solicitud.",
+          "start_date": null,
+          "end_date": "6 meses desde la solicitud",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Silencio administrativo",
+          "description": "Si transcurren 6 meses sin resolución, la solicitud se considera desestimada.",
+          "start_date": "6 meses tras la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reclamación de atrasos por comunidades hereditarias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de la condición de heredero y voluntad del fallecido",
+          "description": "Demostrar que el fallecido quería la prestación y que los cuidados fueron prestados adecuadamente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la voluntad del dependiente y la prestación efectiva de los cuidados."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

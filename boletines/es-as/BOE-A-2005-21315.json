@@ -1,0 +1,105 @@
+{
+  "identifier": "BOE-A-2005-21315",
+  "title": "Ley 4/2005, de 28 de octubre, de Salario Social Básicos",
+  "visible_title": "Ley de Salario Social Básico",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "4/2005",
+  "publication_date": "2005-12-28",
+  "enactment_date": "2005-10-28",
+  "last_updated": "2021-07-12",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2005/10/28/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece un sistema de garantía de ingresos mínimos en Asturias para combatir la pobreza grave y la exclusión social. Proporciona una ayuda económica mensual complementaria para cubrir necesidades básicas de las unidades de convivencia que carecen de recursos. Además, vincula la ayuda a programas de inserción social, formación y búsqueda de empleo para fomentar la autonomía de los beneficiarios.",
+  "citizen_impact": "Permite a personas en situación de pobreza extrema en Asturias acceder a una ayuda económica mensual para subsistir. Sin embargo, exige cumplir requisitos estrictos como la residencia de dos años en la región y el compromiso de participar en programas de inserción social.",
+  "professional_impact": "Obliga a los Servicios Sociales municipales a realizar la instrucción de expedientes, diagnósticos de necesidad y el seguimiento personalizado de los programas de inserción. La Administración autonómica asume la gestión de pagos, resolución de recursos y la planificación de los planes de inclusión social.",
+  "keywords": [
+    "salario social básico",
+    "ingresos mínimos",
+    "exclusión social",
+    "ayuda económica",
+    "Asturias",
+    "inserción social",
+    "pobreza"
+  ],
+  "key_points": [
+    "La ayuda se calcula por unidad de convivencia, con un módulo básico de 365 € para una sola persona.",
+    "Es una prestación subsidiaria: se debe reclamar cualquier otro derecho o prestación previa.",
+    "Se exige una residencia efectiva e ininterrumpida en Asturias de al menos dos años.",
+    "Los beneficiarios deben suscribir un Programa Personalizado de Incorporación Social en un plazo de un mes.",
+    "La prestación es intransferible y no puede ser objeto de embargo o cesión.",
+    "El incumplimiento de los compromisos de inserción puede provocar la suspensión o extinción de la ayuda.",
+    "Se establece la escolarización obligatoria de los menores como condición para mantener la ayuda."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía del Principado de Asturias",
+    "Ley del Principado de Asturias 1/2003, de 24 de febrero, de Servicios Sociales",
+    "Ley del Principado de Asturias 6/1991, de 5 de abril, de Ingreso Mínimo de Inserción",
+    "Código Civil (artículo 142)",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas",
+    "Ley del Principado de Asturias 2/1995, de 13 de marzo, sobre Régimen Jurídico de la Administración del Principado de Asturias"
+  ],
+  "derogations": [
+    "Ley del Principado de Asturias 6/1991, de 5 de abril, de Ingreso Mínimo de Inserción",
+    "Decreto 158/1991, de 2 de diciembre"
+  ],
+  "main_obligations": "Los beneficiarios deben destinar la ayuda a fines alimenticios, informar de cualquier cambio en su situación económica o familiar en un mes, y participar activamente en su programa de inserción social.",
+  "effective_date": "2005-12-28",
+  "procedures": [
+    {
+      "name": "Concesión del Salario Social Básico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "description": "Presentación de la solicitud mediante modelo normalizado en centros municipales de servicios sociales o registros públicos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que justifique el cumplimiento de requisitos (residencia, ingresos, composición de unidad de convivencia, etc.)"
+        },
+        {
+          "step": 2,
+          "title": "Instrucción",
+          "description": "El centro municipal de servicios sociales examina los datos y comprueba la composición de la unidad de convivencia.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "La Consejería competente dicta la resolución de concesión o denegación.",
+          "start_date": null,
+          "end_date": "2 meses desde la entrada del expediente",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Suscripción del Programa de Incorporación",
+          "description": "Tras la notificación de concesión, el beneficiario debe acordar su programa de inserción.",
+          "start_date": null,
+          "end_date": "1 mes desde la notificación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Suspensión o Extinción de la prestación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Audiencia del interesado",
+          "description": "Procedimiento preceptivo donde se escucha al interesado antes de dictar la resolución de suspensión o extinción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,76 @@
+{
+  "identifier": "BOE-A-1997-7803",
+  "title": "Ley 1/1997, de 31 de marzo, de Saneamiento de las Haciendas Locales de la Comunidad Autónoma de La Rioja",
+  "visible_title": "Ley de Saneamiento de las Haciendas Locales de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "1/1997",
+  "publication_date": "1997-04-12",
+  "enactment_date": "1997-03-31",
+  "last_updated": "2003-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/1997/03/31/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley permite al Gobierno de La Rioja subvencionar la refinanciación de préstamos de ayuntamientos pequeños para reducir su carga financiera. El objetivo es aprovechar la bajada de tipos de interés para que los municipios con deudas previas puedan pagar menos intereses. Para acceder, los ayuntamientos deben presentar un plan de saneamiento que incluya medidas de ahorro y aumento de ingresos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, más allá de la posible mejora de la estabilidad financiera de sus municipios.",
+  "professional_impact": "Afecta directamente a técnicos municipales y alcaldes de municipios de menos de 20.000 habitantes, quienes deben elaborar planes de saneamiento complejos y gestionar una documentación exhaustiva para obtener la ayuda. También impacta a las entidades financieras que deben suscribir convenios con la Comunidad Autónoma.",
+  "keywords": [
+    "saneamiento financiero",
+    "haciendas locales",
+    "ayuntamientos",
+    "refinanciación de deuda",
+    "subvenciones",
+    "La Rioja",
+    "plan de saneamiento"
+  ],
+  "key_points": [
+    "Subvención de hasta 3 puntos porcentuales para reducir los tipos de interés de préstamos refinanciados.",
+    "Solo pueden solicitarla ayuntamientos con menos de 20.000 habitantes.",
+    "Los préstamos originales deben haber sido concertados antes del 31 de diciembre de 1996.",
+    "Es obligatorio presentar un plan de saneamiento de 4 años con medidas de ahorro de gastos y aumento de ingresos.",
+    "El plazo máximo de amortización es de 10 años, con posibilidad de 2 años de carencia.",
+    "El incumplimiento de las medidas del plan de saneamiento obliga al reintegro de la ayuda recibida."
+  ],
+  "legal_references": [
+    "Ley 39/1988, de 28 de diciembre, reguladora de las Haciendas Locales",
+    "Estatuto de Autonomía de La Rioja"
+  ],
+  "derogatons": [],
+  "main_obligations": "Los ayuntamientos beneficiarios deben cumplir estrictamente con su plan de saneamiento (reducción de gastos corrientes en un 5%, mejora de recaudación, etc.) y reintegrar la ayuda si incumplen las condiciones o los compromisos adquiridos.",
+  "effective_date": "1997-04-13",
+  "procedures": [
+    {
+      "name": "Solicitud de subvención para la refinanciación de préstamos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Entrega de la documentación requerida ante el Gobierno de La Rioja.",
+          "start_date": "1997-01-01",
+          "end_date": "1998-12-31",
+          "required_documentation": "Póliza del préstamo, compromiso de la entidad financiera, presupuestos municipales, liquidación del ejercicio anterior, certificación de carga financiera, certificación de inexistencia de otros préstamos, acuerdo del pleno, autorización de crédito e informe del plan de saneamiento de 4 años."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la ayuda",
+          "description": "El Gobierno de La Rioja resuelve conceder o denegar la ayuda mediante resolución motivada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Formalización del préstamo",
+          "description": "El préstamo subsidiado debe formalizarse tras la notificación de la concesión.",
+          "start_date": null,
+          "end_date": "1 mes tras la notificación",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

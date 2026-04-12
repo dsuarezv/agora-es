@@ -1,0 +1,82 @@
+{
+  "identifier": "BOE-A-1990-9116",
+  "title": "Ley 3/1990, de 22 de febrero, de Patrimonio Documental y Archivos de Canarias",
+  "visible_title": "Ley de Patrimonio Documental y Archivos de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "3/1990",
+  "publication_date": "1990-04-17",
+  "enactment_date": "1990-02-22",
+  "last_updated": "1990-03-02",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/1990/02/22/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea el Sistema Canario de Archivos para proteger, conservar y difundir la memoria documental de las Islas Canarias. Establece un marco de gestión descentralizado entre el Gobierno de Canarias y los Cabildos Insulares para organizar tanto archivos públicos como privados de interés histórico. Además, define qué documentos forman parte del patrimonio canario según su antigüedad y origen, garantizando su acceso a la ciudadanía.",
+  "citizen_impact": "Garantiza el derecho de cualquier ciudadano a consultar de forma libre y gratuita los archivos públicos canarios. Establece límites de privacidad para proteger la intimidad de las personas en documentos históricos, permitiendo el acceso tras 30 años del fallecimiento o 100 años de la fecha del documento.",
+  "professional_impact": "Obliga a instituciones públicas, entidades privadas que gestionan servicios públicos y profesionales (como notarios) a custodiar y organizar su documentación. Los propietarios de archivos privados con documentos históricos deben permitir inspecciones y facilitar el estudio a investigadores. Los comerciantes de libros y documentos históricos deben informar trimestralmente al Gobierno sobre sus ventas.",
+  "keywords": [
+    "patrimonio documental",
+    "archivos",
+    "Canarias",
+    "conservación",
+    "acceso a la información",
+    "historia",
+    "gestión administrativa"
+  ],
+  "key_points": [
+    "Creación del Sistema Canario de Archivos coordinado por el Gobierno y los Cabildos.",
+    "Protección de documentos privados con más de 100 años de antigüedad.",
+    "Protección de documentos de asociaciones y entidades religiosas con más de 45 años.",
+    "Derecho de consulta pública gratuita para los ciudadanos.",
+    "Obligación de reintegrar documentos públicos que se encuentren en archivos privados.",
+    "Prohibición de destruir documentos con valor histórico, científico o cultural sin autorización.",
+    "Derecho de tanteo y retracto de la Administración en la venta de documentos históricos.",
+    "Régimen sancionador con multas que pueden alcanzar los 25 millones de euros según la competencia."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Canarias"
+  ],
+  "derogations": [],
+  "main_obligations": "Los titulares de archivos deben conservar, ordenar e inventariar sus fondos; está prohibido desmembrosarlos sin autorización. Se imponen multas por destrucción, deterioro o dificultar la consulta de documentos protegidos.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Inclusión de documentos en el Patrimonio Documental Canario",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Informe del Consejo Regional de Archivos",
+          "description": "Emisión de informe previo para valorar la inclusión de documentos que no alcancen la antigüedad mínima.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución del Gobierno de Canarias",
+          "description": "Decisión de oficio o a petición de parte sobre la inclusión en el patrimonio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Comercio de documentos históricos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación trimestral",
+          "description": "Los comerciantes deben enviar una relación detallada de documentos en venta y adquiridos al Gobierno de Canarias.",
+          "start_date": "Cada 3 meses",
+          "end_date": null,
+          "required_documentation": "Relación detallada de inventario de ventas y compras"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

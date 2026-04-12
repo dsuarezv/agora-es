@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-2026-3012",
+  "title": "Ley 7/2025, de 16 de diciembre, de protección del arbolao urbano y del arbolao de especial protección de Canarias",
+  "visible_title": "Ley de protección del arbolado urbano y de especial protección de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "7/2025",
+  "publication_date": "2026-02-10",
+  "enactment_date": "2025-12-16",
+  "last_updated": "2025-12-23",
+  "status": "in_force",
+  "scope": "Autoonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2025/12/16/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca frenar la pérdida de masa vegetal en las ciudades canarias y combatir el cambio climático mediante la protección de los árboles. Establece un régimen estricto para las talas y podas, priorizando siempre la conservación del ejemplar mediante el principio 'favor arboris'. Además, obliga a los ayuntamientos a catalogar y registrar todo el arbolado de sus municipios para una gestión sostenible.",
+  "citizen_impact": "Los ciudadanos disfrutarán de entornos urbanos más frescos, con más sombra y mejor calidad de aire. No supone trámites directos, pero protege el paisaje y la salud mental de la población al evitar la eliminación arbitraria de árboles en calles y plazas.",
+  "professional_impact": "Los ayuntamientos deben crear un inventario municipal completo en un plazo de dos años. Los propietarios de fincas privadas con árboles de especial protección necesitarán licencias o autorizaciones específicas para realizar talas o podas drásticas, y los técnicos deberán emitir informes favorables para cualquier eliminación de ejemplares.",
+  "keywords": [
+    "arbolado urbano",
+    "Canarias",
+    "medio ambiente",
+    "cambio climático",
+    "protección de árboles",
+    "gestión municipal",
+    "biodiversidad"
+  ],
+  "key_points": [
+    "Prohibición general de talar árboles protegidos, salvo por riesgo, seguridad o interés general justificado.",
+    "Obligación de compensar cualquier tala mediante la plantación de nuevos árboles en el mismo municipio.",
+    "Prohibición de la poda drástica, salvo casos excepcionales por personal cualificado.",
+    "Los ayuntamientos tienen un plazo máximo de 2 años para elaborar un inventario completo del arbolado.",
+    "Los inventarios municipales deberán actualizarse obligatoriamente cada 10 años.",
+    "Los árboles de especial protección en fincas privadas requieren autorización municipal para talas o podas drásticas.",
+    "Se introduce el principio 'favor arboris', que obliga a priorizar la permanencia del árbol sobre otras opciones en cualquier intervención."
+  ],
+  "legal_references": [
+    "Ley 4/2017, de 13 de julio, del Suelo y de los Espacios Naturales Protegidos de Canarias",
+    "Ley 4/1999, de 15 de marzo, de Patrimonio Histórico de Canarias",
+    "Ley 7/1985, de 2 de diciembre, Reguladora del Régimen Local",
+    "Estatuto de Autonomía de Canarias"
+  ],
+  "derogations": [
+    "Todas las normas de rango legal o inferior que contravengan esta ley"
+  ],
+  "main_obligations": "Los ayuntamientos deben elaborar un inventario municipal de arbolado en 2 años y actualizarlo cada 10 años. Cualquier tala debe ser compensada con nueva plantación y requiere informe técnico favorable.",
+  "effective_date": "2026-02-11",
+  "procedures": [
+    {
+      "name": "Elaboración del Inventario Municipal de Arbolado Urbano",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Creación del inventario",
+          "description": "Los ayuntamientos sin inventario deben elaborar uno completo.",
+          "start_date": "2026-02-11",
+          "end_date": "2 años después de la entrada en vigor",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Actualización periódica",
+          "description": "Revisión y actualización obligatoria de los datos del inventario.",
+          "start_date": "Cada 10 años",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización de tala o poda drástica en arbolado de especial protección",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Trámite para intervenir ejemplares catalogados como de especial protección.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe de técnico competente"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

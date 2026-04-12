@@ -1,0 +1,83 @@
+{
+  "identifier": "BOE-A-2016-7564",
+  "title": "Decreto-ley 3/2016, de 31 de mayo, de medidas urgentes en materia de contratación pública",
+  "visible_title": "Medidas urgentes en materia de contratación pública",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "3/2016",
+  "publication_date": "2016-08-05",
+  "enactment_date": "2016-05-31",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2016/05/31/3",
+  "official_journal": "Diari Oficial de la Generalitat de Catalunya",
+  "journal_issue": null,
+  "summary": "Esta norma surge para adaptar la legislación catalana a las nuevas directivas europeas de contratación tras el retraso en la transposición estatal. Su objetivo es evitar la inseguridad jurídica y garantizar que la administración pueda seguir contratando servicios esenciales sin retrasos excesivos. Además, introduce figuras como el 'concierto social' para permitir que entidades privadas gestionen servicios sociales y de empleo de forma más ágil y estable.",
+  "citizen_impact": "Garantiza la continuidad y calidad de servicios públicos esenciales como la educación, la salud y la vivienda al evitar bloqueos administrativos por falta de normativa. Para las personas vulnerables, mejora la gestión de servicios sociales mediante modelos de colaboración más estables con entidades especializadas.",
+  "professional_impact": "Las empresas que licitan con la Generalidad o entes locales deben adaptarse a nuevos criterios de valoración basados en el ciclo de vida del producto y no solo en el precio. Los gestores de servicios sociales y empleo ahora cuentan con marcos legales específicos (conciertos y gestión delegada) para colaborar con el sector privado sin necesidad de contratos de licitación tradicionales.",
+  "keywords": [
+    "contratación pública",
+    "concesiones",
+    "concierto social",
+    "servicios sociales",
+    "gestión delegada",
+    "directivas europeas",
+    "Cataluña"
+  ],
+  "key_points": [
+    "Se define el riesgo operacional para distinguir claramente entre concesiones y contratos de servicios/obras.",
+    "Se establece un plazo máximo de 5 años para la duración de las concesiones, salvo justificación económica.",
+    "La valoración de ofertas debe incluir el coste del ciclo de vida (mantenimiento, energía, eliminación, etc.).",
+    "Se permite la división de contratos en lotes para fomentar la participación de más empresas.",
+    "Se crean las figuras de 'concierto social' y 'gestión delegada' para la prestación de servicios sociales y de empleo.",
+    "Se autoriza la modificación de contratos hasta un límite del 50% del valor inicial por razones técnicas o económicas.",
+    "Se prioriza a las entidades sin ánimo de lucro en la adjudicación de conciertos sociales."
+  ],
+  "legal_references": [
+    "Directiva 2014/23/UE",
+    "Directiva 2014/24/UE",
+    "Estatuto de Autonomía de Cataluña",
+    "Ley 12/2007 de servicios sociales",
+    "Ley 13/2015 de ordenación de los sistemas de empleo de Cataluña",
+    "Texto Refundido de la Ley de Contratos del Sector Público"
+  ],
+  "derogations": [
+    "Directiva 2004/18/CE (en el ámbito de aplicación de las nuevas directivas)"
+  ],
+  "main_obligations": "Los poderes adjudicadores deben garantizar la transparencia en la división de lotes justificando la no división en el expediente. Las entidades que gestionen servicios sociales mediante conciertos deben estar inscritas en el Registro de entidades, servicios y establecimientos de servicios sociales.",
+  "effective_date": "2016-06-01",
+  "procedures": [
+    {
+      "name": "Tramitación de contratos de concesión y servicios sociales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Justificación de la modalidad",
+          "description": "Definir si el contrato es de concesión (con transferencia de riesgo operacional) o de servicios/obras.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe económico si el plazo de concesión supera los 5 años."
+        },
+        {
+          "step": 2,
+          "title": "Cálculo del valor estimado",
+          "description": "Determinar el valor del contrato incluyendo posibles modificaciones, prórrogas y rentas de usuarios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Método de cálculo incluido en el pliego de cláusulas administrativas."
+        },
+        {
+          "step": 3,
+          "title": "Valoración de propuestas",
+          "description": "Evaluación de ofertas basada en la relación coste-eficacia y el ciclo de vida.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,89 @@
+{
+  "identifier": "BOE-A-2026-5877",
+  "title": "Real Decreto 191/2026, de 11 de marzo, para la conservación de praderas de fanerógamas marinas en aguas marinas del Mediterráneo español",
+  "visible_title": "Conservación de praderas de fanerógamas marinas en el Mediterráneo español",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio para la Transición Ecológica y el Reto Demográfico",
+  "official_number": "191/2026",
+  "publication_date": "2026-03-13",
+  "enactment_date": "2026-03-11",
+  "last_updated": "2026-03-13",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2026/03/11/191",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "64",
+  "summary": "Esta norma establece un marco de protección estricto para las especies de Posidonia oceanica y Cymodocea nodosa en el Mediterráneo español. Su objetivo es frenar la pérdida de estos ecosistemas que son vitales para la biodiversidad, la protección de las costas y la captura de carbono. Para ello, regula y prohíbe actividades que dañan las praderas, como el fondeo libre de embarcaciones o ciertas infraestructuras submarinas, promoviendo además su restauración científica.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo para aquellos que utilicen playas naturales donde la gestión de restos de posidonia estará más regulada para proteger el ecosistema.",
+  "professional_impact": "Afecta directamente al sector náutico-recreativo, pesquero y a empresas de construcción o energía marina, quienes deberán evitar el fondeo sobre praderas y obtener autorizaciones específicas para instalaciones de bajo impacto. Las empresas de limpieza de playas también deberán seguir protocolos técnicos estrictos para la retirada de restos de fanerógamas.",
+  "keywords": [
+    "Posidonia oceanica",
+    "Cymodocea nodosa",
+    "medio marino",
+    "fondéo de embarcaciones",
+    "conservación biodiversidad",
+    "restauración marina",
+    "cambio climático",
+    "Mediterráneo"
+  ],
+  "key_points": [
+    "Prohibición general del fondeo de buques y embarcaciones sobre las praderas de Posidonia y Cymodocea.",
+    "Se permite el uso de sistemas de fondeo de bajo impacto (boyas) bajo autorización administrativa.",
+    "Prohibición de nuevas infraestructuras (cables, tuberías, energía renovable) que causen alteraciones significativas en las praderas.",
+    "Obligación de mantener una cartografía actualizada de las praderas en un plazo de 5 años.",
+    "Regulación estricta de la limpieza de playas para no dañar los restos de posidonia que protegen la costa.",
+    "Establecimiento de una distancia mínima de 800 metros para vertidos y acuicultura respecto a las praderas.",
+    "Fomento de la restauración de zonas degradadas mediante técnicas científicas aprobadas.",
+    "Obligación de realizar evaluaciones ambientales que consideren los impactos acumulativos sobre estos hábitats."
+  ],
+  "legal_references": [
+    "Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y la Biodiversidad",
+    "Real Decreto 139/2011, de 4 de febrero",
+    "Reglamento (UE) 2024/1991",
+    "Directiva 92/43/CEE",
+    "Ley 14/2014, de 24 de julio, de Navegación Marítima",
+    "Ley 5/2023, de 17 de marzo, de Pesca Sostenible e Investigación Pesquera",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común"
+  ],
+  "derogations": [],
+  "main_obligations": "Se prohíbe el fondeo sobre praderas y la realización de obras que causen alteraciones significativas. Las empresas y usuarios deben utilizar sistemas de bajo impacto autorizados y cumplir con las restricciones de distancia para vertidos y actividades industriales.",
+  "effective_date": "2026-03-31",
+  "procedures": [
+    {
+      "name": "Entrada en vigor",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación en el BOE",
+          "descrption": "Publicación oficial de la norma para su conocimiento.",
+          "start_date": "2026-03-13",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Periodo de vacatio legis",
+          "descrption": "Transcurso de 20 días desde la publicación hasta la entrada en vigor.",
+          "start_date": "2026-03-13",
+          "end_date": "2026-03-31",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Actualización Cartográfica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Revisión y actualización global",
+          "descrption": "El Ministerio debe realizar una revisión completa de la cartografía de las praderas.",
+          "start_date": "2031-03-11",
+          "end_date": "2031-03-11",
+          "required_documentation": "Información técnica y científica disponible"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

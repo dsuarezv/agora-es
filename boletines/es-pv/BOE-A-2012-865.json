@@ -1,0 +1,99 @@
+{
+  "identifier": "BOE-A-2012-865",
+  "title": "Ley 2/1996, de 10 de mayo, de Organizaciones Interprofesionales Agroalimentarias del País Vasco",
+  "visible_title": "Ley de Organizaciones Interprofesionales Agroalimentarias del País Vasco",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "2/1996",
+  "publication_date": "2012-01-20",
+  "enactment_date": "1996-05-10",
+  "last_updated": "1996-05-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1996/05/10/2",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta ley crea un marco jurídico para que los productores, transformadores y comercializadores del sector agroalimentario vasco se agrupen en organizaciones privadas con personalidad jurídica. Su objetivo es modernizar el sector, mejorar la competitividad y la transparencia de los mercados frente a la competencia europea. Permite que estas organizaciones gestionen la calidad de los productos y promuevan la investigación y la formación en sus respectivos ámbitos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en la mejora indirecta de la calidad y la información sobre los productos agroalimentarios que consumen.",
+  "professional_impact": "Afecta directamente a agricultores, ganaderos, pescadores y empresas de transformación y comercialización agroalimentaria. Les permite organizarse para defender intereses comunes, pero les impone obligaciones de registro, auditoría anual de cuentas y cumplimiento de acuerdos sectoriales bajo riesgo de sanciones económicas.",
+  "keywords": [
+    "agroalimentario",
+    "organizaciones interprofesionales",
+    "País Vasco",
+    "sector agrario",
+    "competitividad",
+    "calidad alimentaria"
+  ],
+  "key_points": [
+    "Creación de organizaciones privadas sin ánimo de lucro que agrupan a toda la cadena (producción, transformación y comercialización).",
+    "Posibilidad de extender acuerdos de calidad o medio ambiente a todos los operadores del sector, incluso a los no pertenecientes a la organización.",
+    "Los no miembros pueden ser obligados a realizar aportaciones económicas para financiar actuaciones de interés común si se aprueba su extensión.",
+    "Se establece un Registro oficial para controlar estas organizaciones y su actividad.",
+    "Las organizaciones deben presentar anualmente cuentas auditadas y memorias de actividades.",
+    "Se permite la creación de una única organización por sector en toda la Comunidad Autónoma para evitar la fragmentación.",
+    "Las infracciones pueden conllevar multas de hasta 10.000.000 de pesetas (ajustables) o la retirada definitiva del reconocimiento."
+  ],
+  "legal_references": [
+    "Ley 19/1977, de 1 de abril",
+    "Ley de 30 de diciembre de 1994 (estatal)",
+    "Ley 16/1989, de 17 de julio, de Defensa de la Competencia",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común"
+  ],
+  "derogations": [],
+  "main_obligations": "Las organizaciones deben remitir anualmente al Registro su memoria de actividades, balance y liquidación auditados en el plazo de un mes tras su aprobación. Deben cumplir estrictamente con la normativa de defensa de la competencia y los acuerdos adoptados por sus miembros.",
+  "effective_date": "1996-05-11",
+  "procedures": [
+    {
+      "name": "Reconocimiento de Organizaciones Interprofesionales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y consulta",
+          "description": "La organización solicita el reconocimiento y se consulta a sindicatos y Diputaciones Forales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estatutos que cumplan los requisitos de la ley (personalidad jurídica, sin ánimo de lucro, representatividad del 5% o 50% según ámbito)."
+        },
+        {
+          "step": 2,
+          "title": "Inscripción en el Registro",
+          "description": "Tras la resolución favorable, se procede a la inscripción en el Registro de Organizaciones Interprofesionales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Extensión de normas o acuerdos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de extensión",
+          "description": "La organización eleva una propuesta para aplicar sus normas a todo el sector.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe de Diputaciones",
+          "description": "Se requiere informe preceptivo de las Diputaciones Forales afectadas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Audiencia de interesados",
+          "description": "Publicación en el BOPV para que los interesados aleguen en un plazo de 15 días.",
+          "start_date": null,
+          "end_date": "15 días tras la publicación",
+          "required_documentation": "Documentos y justificaciones de los interesados"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

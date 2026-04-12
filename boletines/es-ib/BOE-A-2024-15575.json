@@ -1,0 +1,165 @@
+{
+  "identifier": "BOE-A-2024-15575",
+  "title": "Ley 3/2024, de 3 de mayo, de medidas urgentes en materia de vivienda",
+  "visible_title": "Medidas urgentes en materia de vivienda",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "3/2024",
+  "publication_date": "2024-07-29",
+  "enactment_date": "2024-05-03",
+  "last_updated": "2025-07-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2024/05/03/3",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley busca aliviar la crisis de vivienda en Baleares mediante la creación de nuevas viviendas de precio limitado (VPL) a través de la reconversión de locales y el aumento de edificabilidad. Además, profesionaliza el sector inmobiliario exigiendo un registro oficial y seguros de responsabilidad para los agentes. También introduce ayudas específicas para sanitarios y docentes en zonas tensionadas como Ibiza y Formentera. Finalmente, agiliza la promoción de vivienda asequible en Palma mediante incentivos urbanísticos.",
+  "citizen_impact": "Los ciudadanos tendrán más opciones de vivienda asequible mediante la nueva figura de Vivienda de Precio Limitado (VPL) y la reconversión de locales. Los profesionales de la salud y la enseñanza en Ibiza y Formentera podrán recibir hasta 400€/mes de ayuda para alojamiento y no pagarán la tasa turística. Además, los usuarios de servicios inmobiliarios contarán con mayor seguridad jurídica al tratar solo con agentes registrados y asegurados.",
+  "professional_impact": "Los agentes inmobiliarios deben cumplir con requisitos estrictos de formación (título o 200h), inscribirse en un registro oficial y contratar seguros de responsabilidad civil (mín. 100.000€/siniestro). Las constructoras y promotoras tienen incentivos para destinar un 10% de viviendas libres a precios limitados en Palma. Los colegios profesionales tienen un plazo de 6 meses para gestionar la inscripción colectiva de sus miembros.",
+  "keywords": [
+    "vivienda asequible",
+    "vivienda de precio limitado",
+    "agentes inmobiliarios",
+    "Baleares",
+    "alojamiento temporal",
+    "urbanismo",
+    "ayudas vivienda"
+  ],
+  "key_points": [
+    "Creación de la Vivienda de Precio Limitado (VPL) con superficies de hasta 90m² y precios controlados.",
+    "Permiso para reconvertir locales comerciales y administrativos en viviendas.",
+    "Obligatoriedad de inscripción en el Registro de Agentes Inmobiliarios para ejercer legalmente.",
+    "Exigencia de seguro de responsabilidad civil (mín. 100.000€ por siniestro) y garantía de 60.000€ para inmobiliarias.",
+    "Requisitos para agentes: título universitario, 200 horas de formación o 4 años de experiencia.",
+    "Ayuda de hasta 400€/mes para sanitarios y docentes en alojamientos turísticos de Ibiza y Formentera.",
+    "Exención del impuesto de estancia turística para el personal sanitario y docente en programas de alojamiento.",
+    "Incentivo en Palma: posibilidad de destinar el 10% de viviendas libres a precios limitados para agilizar trámites.",
+    "Introducción de la figura de 'alojamiento con espacios comunes complementarios' (coliving/cohousing).",
+    "Los ayuntamientos pueden decidir no aplicar estas medidas en sus territorios."
+  ],
+  "legal_references": [
+    "Ley 3/2024, de 3 de mayo",
+    "Decreto-ley 3/2020, de 28 de febrero",
+    "Ley 5/2018, de 19 de junio, de la vivienda de las Illes Balears",
+    "Ley 12/2017, de 29 de diciembre, de urbanismo de las Illes Balears",
+    "Ley 8/2012, de 27 de diciembre, de Turismo de las Illes Balears",
+    "Decreto 145/1997, de 21 de diciembre",
+    "Ley 6/2001, de 31 de julio, del patrimonio de la comunidad autónoma de las Illes Balears",
+    "Ley 39/2015, de 30 de octubre, del procedimiento administrativo común",
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales",
+    "Ley 2/2016, de 3 de marzo, del Impuesto sobre Estancias Turísticas"
+  ],
+  "derogations": [
+    "Disposición adicional de la Ley 2/2020, de 15 de octubre",
+    "Artículo 87.a) de la Ley 5/2018",
+    "Decreto ley 6/2023, de 2 de octubre"
+  ],
+  "main_obligations": "Los agentes inmobiliarios deben inscribirse en el registro oficial mediante declaración responsable y acreditar seguro de responsabilidad civil y formación. Los beneficiarios de VPL deben acreditar residencia (5 años) y patrimonio en un plazo de 30 días tras la firma.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Inscripción en el Registro oficial de agentes inmobiliarios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "descrption": "Presentación de declaración responsable con datos de identificación, capacitación, seguro y garantías.",
+          "start_date": "Inmediata",
+          "end_date": null,
+          "required_documentation": "Declaración responsable, póliza de seguro de responsabilidad civil y justificante de la garantía."
+        },
+        {
+          "step": 2,
+          "title": "Plazo de regularización para agentes en actividad",
+          "descrption": "Periodo para que los agentes que ya operan se inscriban en el registro.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "6 meses",
+          "required_documentation": "Póliza de seguro y garantías."
+        }
+      ]
+    },
+    {
+      "name": "Acceso y registro de Vivienda de Precio Limitado (VPL)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Formalización de contrato",
+          "descrption": "Firma de compraventa o alquiler de la vivienda VPL.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Acreditación de requisitos",
+          "descrption": "Presentación de declaración responsable ante la consejería competente.",
+          "start_date": null,
+          "end_date": "30 días desde la formalización",
+          "required_documentation": "Declaración responsable, escritura o contrato, identificación de partes, superficie y precio."
+        },
+        {
+          "step": 3,
+          "title": "Inscripción en el Registro de VPL",
+          "descrption": "Inscripción automática tras la presentación de la documentación.",
+          "start_date": "Desde la presentación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inscripción en el Registro de Agentes Inmobiliarios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud colectiva (Colegios/Asociaciones)",
+          "description": "Presentación de solicitud conjunta mediante declaración responsable con relación de miembros y garantías.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "6 meses",
+          "required_documentation": "Declaración responsable, relación de miembros en ejercicio, datos de establecimientos y póliza de responsabilidad civil."
+        },
+        {
+          "step": 2,
+          "title": "Inscripción inmediata",
+          "description": "La Dirección General inscribe al agente tras la presentación de la declaración responsable.",
+          "start_date": "Tras la solicitud",
+          "end_date": "Inmediata",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Comprobación posterior",
+          "description": "El Registro puede verificar la documentación y seguros aportados en cualquier momento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Programa de alojamiento temporal (Sanitarios y Docentes)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adhesión de empresas",
+          "description": "Empresas de alojamiento turístico o de viviendas suscriben convenios con el Gobierno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de ayuda",
+          "description": "El profesional paga su estancia y solicita la indemnización de hasta 400€ mensuales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Justificante de pago efectivo de la estancia"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

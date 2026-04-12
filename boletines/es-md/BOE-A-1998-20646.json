@@ -1,0 +1,105 @@
+{
+  "identifier": "BOE-A-1998-20646",
+  "title": "Ley 6/1998, de 28 de mayo, de Régimen Jurídico de la Cámara Agraria de la Comunidad de Madrid",
+  "visible_title": "Ley de Régimen Jurídico de la Cámara Agraria de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "6/1998",
+  "publication_date": "1998-08-28",
+  "enactment_date": "1998-05-28",
+  "last_updated": "1998-06-03",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1998/05/28/6",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley crea y regula la Cámara Agraria de la Comunidad de Madrid como una corporación de derecho público para gestionar asuntos de interés general agrario. Sustituye el antiguo modelo de cámaras locales y provinciales por una estructura única de ámbito autonómico. Su objetivo es servir de órgano de consulta para la Administración y prestar servicios eficientes al sector agropecuario.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos que no pertenezcan al sector agrario.",
+  "professional_impact": "Afecta directamente a agricultores, ganaderos y empresas del sector agrario en Madrid, quienes pasan de un sistema de cuotas obligatorias a uno de participación voluntaria. Establece las reglas para que estos profesionales elijan a sus representantes mediante elecciones democráticas y define quiénes pueden votar y ser elegidos.",
+  "keywords": [
+    "Cámara Agraria",
+    "Comunidad de Madrid",
+    "sector agrario",
+    "derecho público",
+    "elecciones agrarias",
+    "agricultura",
+    "ganadería"
+  ],
+  "key_points": [
+    "Creación de una única Cámara Agraria para toda la Comunidad de Madrid, extinguiendo las cámaras locales y la provincial anterior.",
+    "La Cámara actúa como órgano de consulta y colaboración con la Administración autonómica.",
+    "Se establece un sistema de elecciones cada cuatro años mediante sufragio directo y secreto.",
+    "Los miembros de los órganos de gobierno no perciben retribuciones fijas ni periódicas.",
+    "Se garantiza la continuidad de los derechos laborales del personal de las cámaras extinguidas.",
+    "La Cámara tiene autonomía para gestionar sus propios recursos y patrimonio.",
+    "Se prohíbe a la Cámara realizar actividades mercantiles o de representación sindical profesional."
+  ],
+  "legal_references": [
+    "Decreto 1336/1977",
+    "Ley 23/1986",
+    "Leyes 23/1991 y 37/1994",
+    "Ley Orgánica 3/1983",
+    "Ley Orgánica 10/1994",
+    "Real Decreto 322/1996",
+    "Ley 30/1992"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a la presente Ley"
+  ],
+  "main_obligations": "Los miembros de los órganos de gobierno deben cumplir con el régimen de incompatibilidades, no pudiendo ejercer cargos públicos ni ser empleados públicos en servicio activo. La Cámara debe presentar su presupuesto y memoria de actividades anualmente para la tutela de la Consejería.",
+  "effective_date": "1998-05-28",
+  "procedures": [
+    {
+      "name": "Aprobación de Estatutos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación por el Pleno",
+          "description": "El Pleno debe aprobar los estatutos por mayoría absoluta.",
+          "start_date": "Dentro de los 6 meses siguientes a la constitución",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Remisión para informe de tutela",
+          "description": "Envío de los estatutos a la Consejería competente para su revisión.",
+          "start_date": "Máximo 15 días naturales tras la aprobación",
+          "end_date": "1 mes tras la recepción por la Consejería",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Proceso Electoral",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de elecciones",
+          "description": "El Consejo de Gobierno convoca las elecciones mediante Decreto.",
+          "start_date": "Cada 4 años",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de candidaturas",
+          "description": "Presentación de listas cerradas ante la Junta Electoral.",
+          "start_date": null,
+          "end_date": "Según determine la convocatoria",
+          "required_documentation": "Listas cerradas, bloqueadas y completas con 3 suplentes"
+        },
+        {
+          "step": 3,
+          "title": "Constitución del Pleno",
+          "description": "Sesión para la proclamación y elección del Presidente y la Comisión Ejecutiva.",
+          "start_date": "Máximo 15 días hábiles tras el proceso electoral",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

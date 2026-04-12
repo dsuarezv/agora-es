@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-1997-21767",
+  "title": "Ley 2/1997, de 19 de mayo, del Consejo Jurídico de la Región de Murcia",
+  "visible_title": "Ley del Consejo Jurídico de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "2/1997",
+  "publication_date": "1997-10-15",
+  "enactment_date": "1997-05-19",
+  "last_updated": "2018-06-04",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/1997/05/19/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea e institucionaliza el Consejo Jurídico de la Región de Murcia como un órgano consultivo independiente y autónomo. Su objetivo es garantizar que todas las decisiones y proyectos de la Administración regional cumplan estrictamente con la legalidad. Actúa como un control de calidad jurídico para asegurar que las normas y actos administrativos respeten la Constitución y el Estatuto de Autonomía.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta a funcionarios y profesionales del derecho en la Administración regional, estableciendo un órgano de prestigio técnico para validar la legalidad de los actos. Para las empresas que contratan con la administración, garantiza un marco de mayor seguridad jurídica en la resolución de contratos y procedimientos administrativos.",
+  "keywords": [
+    "Consejo Jurídico",
+    "Región de Murcia",
+    "órgano consultivo",
+    "legalidad administrativa",
+    "derecho administrativo",
+    "autonomía regional"
+  ],
+  "key_points": [
+    "Creación de un órgano consultivo independiente, no integrado en las Consejerías de la Administración.",
+    "Composición de 5 Consejeros juristas de prestigio, designados por la Asamblea y el Gobierno.",
+    "Los Consejeros gozan de inamovilidad para garantizar su objetividad.",
+    "Los dictámenes son, por regla general, no vinculantes, salvo que una ley específica lo exija.",
+    "Obligatoriedad de consultar al Consejo en asuntos críticos como reformas del Estatuto o proyectos de ley.",
+    "Establecimiento de plazos de respuesta: un mes para consultas generales y dos meses para proyectos de ley.",
+    "Garantía de paridad de género en la designación de los miembros del Consejo."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Constitución Española",
+    "Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley de Hacienda de la Comunidad Autónoma"
+  ],
+  "derogations": [],
+  "main_obligations": "El Consejo debe emitir dictámenes en un plazo máximo de un mes para consultas generales y de dos meses para anteproyectos de ley. La Administración debe indicar expresamente en sus resoluciones si actúa conforme al dictamen o si se aparta de él.",
+  "effective_date": "1997-11-04",
+  "procedures": [
+    {
+      "name": "Emisión de dictámenes del Consejo Jurídico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recepción del expediente",
+          "description": "El Consejo recibe la documentación para la consulta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Expediente completo de la materia consultada"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de resolución general",
+          "description": "Emisión del dictamen jurídico.",
+          "start_date": "Desde la recepción",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Plazo de resolución para leyes",
+          "description": "Emisión de dictamen sobre anteproyectos de ley o decretos legislativos.",
+          "start_date": "Desde la recepción",
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Plazo de urgencia",
+          "description": "Emisión de dictamen en casos de urgencia manifiesta solicitada por el Gobierno.",
+          "start_date": "Desde la recepción",
+          "end_date": "10 días naturales",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

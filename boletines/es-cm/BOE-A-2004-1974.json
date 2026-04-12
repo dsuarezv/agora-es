@@ -1,0 +1,97 @@
+{
+  "identifier": "BOE-A-2004-1974",
+  "title": "Ley 11/2003, de 25 de septiembre, del Gobierno y del Consejo Consultivo de Castilla-La Manchcha",
+  "visible_title": "Ley del Gobierno y del Consejo Consultivo de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "11/2003",
+  "publication_date": "2004-02-03",
+  "enactment_date": "2003-09-25",
+  "last_updated": "2020-07-03",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2003/09/25/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley organiza la estructura del poder ejecutivo en Castilla-La Mancha, definiendo las funciones del Presidente, el Consejo de Gobierno y el Consejo Consultivo. Busca adaptar la administración regional a sus nuevas competencias en salud, educación y empleo, garantizando la separación entre la gestión política y la ejecución administrativa. Además, refuerza la transparencia mediante un régimen estricto de incompatibilidades y declaraciones de bienes para los altos cargos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que regula la organización interna de las instituciones autonómicas.",
+  "professional_impact": "Afecta directamente a políticos, altos cargos y funcionarios de la Junta de Comunidades, imponiéndoles regímenes de incompatibilidad estrictos y la obligación de declarar públicamente sus bienes, rentas y actividades. También establece las reglas para los órganos de apoyo y directivos de la administración regional.",
+  "keywords": [
+    "Gobierno regional",
+    "Consejo de Gobierno",
+    "Consejo Consultivo",
+    "Incompatibilidades",
+    "Transparencia",
+    "Castilla-La Mancha",
+    "Administración Pública"
+  ],
+  "key_points": [
+    "Define las competencias y facultades del Presidente de la Junta de Comunidades.",
+    "Establece el régimen de incompatibilidades para miembros del Consejo de Gobierno, prohibiendo actividades profesionales o mercantiles privadas.",
+    "Obliga a los miembros del Gobierno a presentar declaraciones anuales de actividades, bienes y rentas para su publicación oficial.",
+    "Crea un régimen de sanciones que incluye desde apercibimientos hasta la inhabilitación de cuatro años por ocultación de datos.",
+    "Regula la composición y funciones del Consejo Consultivo como órgano de asesoramiento jurídico superior.",
+    "Establece la prohibición de que los miembros del Gobierno realicen actividades privadas relacionadas con expedientes en los que hayan intervenido durante dos años tras su cese.",
+    "Define la estructura de los órganos de apoyo (gabinetes) y directivos (directores generales, secretarios generales) de la administración."
+  ],
+  "legal_references": [
+    "Ley Orgánica 9/82",
+    "Ley 2/1984",
+    "Ley 3/1984",
+    "Ley 8/1995",
+    "Ley 7/1997",
+    "Ley Orgánica 3/1997"
+  ],
+  "derogations": [
+    "Ley 2/1984, de 28 de marzo, de Incompatibilidades de Altos Cargos del Ejecutivo Regional",
+    "Ley 7/1997, de 5 de septiembre, del Gobierno y del Consejo Consultivo de Castilla-La Mancha"
+  ],
+  "main_obligations": "Los miembros del Consejo de Gobierno deben presentar su declaración de actividades, bienes y rentas en un mes tras su nombramiento o cese, y anualmente en julio. El incumplimiento de la obligación de declarar o la ocultación de datos conlleva sanciones que pueden llegar al cese inmediato e inhabilitación por cuatro años.",
+  "effective_date": "2003-09-26",
+  "procedures": [
+    {
+      "name": "Declaración de actividades, bienes y rentas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación por nombramiento o cese",
+          "description": "Presentación del modelo oficial de declaración ante la Consejería de Administraciones Públicas.",
+          "start_date": "Al momento del nombramiento o cese",
+          "end_date": "1 mes después",
+          "required_documentation": "Modelo oficial de declaración, copia de la última declaración de IRPF y del Impuesto sobre el Patrimonio."
+        },
+        {
+          "step": 2,
+          "title": "Presentación anual",
+          "description": "Presentación de la declaración anual de rentas y bienes.",
+          "start_date": "1 de julio",
+          "end_date": "31 de julio",
+          "required_documentation": "Modelo oficial de declaración, copia de la última declaración de IRPF y del Impuesto sobre el Patrimonio."
+        }
+      ]
+    },
+    {
+      "name": "Emisión de dictámenes del Consejo Consultivo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recepción del expediente",
+          "description": "El Consejo recibe la documentación necesaria para la consulta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Toda la documentación relacionada con la cuestión planteada."
+        },
+        {
+          "step": 2,
+          "title": "Elaboración del dictamen",
+          "description": "Plazo para que el Consejo emita su informe jurídico.",
+          "start_date": "Desde la recepción del expediente completo",
+          "end_date": "1 mes (o 15 días si se indica urgencia)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

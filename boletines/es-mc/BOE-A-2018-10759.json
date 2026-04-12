@@ -1,0 +1,92 @@
+{
+  "identifier": "BOE-A-2018-10759",
+  "title": "Ley 7/2018, de 3 de julio, de Parejas de Hecho de la Comunidad Autónoma de la Región de Murcia",
+  "visible_title": "Ley de Parejas de Hecho de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "7/2018",
+  "publication_date": "2018-07-30",
+  "enactment_date": "2018-07-03",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2018/07/03/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley reconoce y regula jurídicamente a las parejas de hecho en la Región de Murcia, sin importar su orientación sexual. Su objetivo es equiparar los derechos de estas uniones a los del matrimonio en el ámbito de la administración autonómica. Para ello, crea un Registro de Parejas de Hecho y establece mecanismos para acreditar la convivencia de forma estable y pública.",
+  "citizen_impact": "Las parejas que conviven de forma estable en Murcia ahora pueden acceder a los mismos beneficios que los matrimonios en servicios sociales, fiscalidad autonómica y función pública. Además, permite el acogimiento familiar conjunto de menores y ofrece seguridad jurídica al poder inscribir la unión o su extinción en un registro oficial.",
+  "professional_impact": "Los funcionarios de la Comunidad de Murcia deben tratar a los convivientes de parejas de hecho como si fueran cónyuges para todos los efectos de su régimen laboral. Los profesionales de la administración pública deberán gestionar el nuevo Registro de Parejas de Hecho y tramitar las certificaciones de convivencia solicitadas.",
+  "keywords": [
+    "parejas de hecho",
+    "unión estable",
+    "derechos sociales",
+    "registro de parejas",
+    "Región de Murcia",
+    "igualdad de trato"
+  ],
+  "key_points": [
+    "Creación del Registro de Parejas de Hecho de la Región de Murcia para dar fe de la unión.",
+    "Equiparación de derechos en la función pública autonómica con los de los matrimonios.",
+    "Acceso a los mismos beneficios fiscales y de prestaciones sociales que los cónyuges en el ámbito regional.",
+    "Posibilidad de realizar acogimiento familiar de menores de forma conjunta.",
+    "La inscripción en el registro es voluntaria, pero otorga presunción de convivencia ante la administración.",
+    "Se prohíbe la inscripción a menores no emancipados, personas casadas no separadas o parientes cercanos.",
+    "La extinción de la pareja puede notificarse unilateralmente para su cancelación en el registro."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Ley 3/1995, de la Infancia"
+  ],
+  "derogations": [
+    "Todas las disposiciones de igual o inferior rango que se opongan a lo previsto en esta ley"
+  ],
+  "main_obligations": "Los miembros de la pareja deben expresar su voluntad de constituirse como tales de modo fehaciente. En caso de extinción, si la unión estaba inscrita, se debe solicitar la cancelación en el registro en un plazo de un mes.",
+  "effective_date": "2018-08-01",
+  "procedures": [
+    {
+      "name": "Inscripción en el Registro de Parejas de Hecho",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inscripción",
+          "description": "Presentación de la declaración de voluntad ante el funcionario encargado o mediante documento público.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento de identidad y prueba de empadronamiento en el mismo domicilio."
+        },
+        {
+          "step": 2,
+          "title": "Resolución administrativa",
+          "description": "El órgano competente dicta resolución sobre la inscripción.",
+          "start_date": null,
+          "end_date": "3 meses desde la solicitud",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Extinción de la pareja de hecho",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de la decisión",
+          "description": "Comunicación de la voluntad de disolver la unión a la otra parte.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Cancelación registral",
+          "description": "Solicitud de cancelación de la inscripción en el Registro.",
+          "start_date": null,
+          "end_date": "1 mes desde la extinción",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

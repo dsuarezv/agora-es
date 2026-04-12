@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-2017-15523",
+  "title": "Resolución de 22 de diciembre de 2017, de la Dirección de Tráfico del Departamento de Seguridad, por la que se establecen medidas especiales de regulación de tráfico durante el año 2018 en la Comunidad Autónoma del País Vasco",
+  "visible_title": "Medidas especiales de regulación de tráfico en el País Vasco para 2018",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "BOE-A-2017-15523",
+  "publication_date": "2017-12-27",
+  "enactment_date": "2017-12-22",
+  "last_updated": "2019-02-05",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/res/2017/12/22/(1)",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece restricciones de circulación en el País Vasco durante el año 2018 para mejorar la seguridad y fluidez del tráfico. Regula la prohibición de eventos deportivos en fechas críticas, limita el tránsito de vehículos de transporte de mercancías peligrosas y de vehículos pesados de más de 7.500 kg en días festivos y periodos estivales. El objetivo es evitar la saturación de las carreteras en momentos de alta demanda como vacaciones o festividades.",
+  "citizen_impact": "Afecta principalmente a la movilidad en fechas específicas de festivos y vacaciones, pudiendo generar desvíos o cambios en los tiempos de viaje. No impone trámites directos a los ciudadanos particulares, salvo que participen en la organización de eventos deportivos que ocupen la calzada.",
+  "professional_impact": "Impacto directo para transportistas y empresas de logística: prohíbe la circulación de camiones pesados y vehículos con mercancías peligrosas en horarios y días específicos. Además, obliga a los transportistas de mercancías peligrosas a seguir itinerarios obligatorios (RIMP) y limita la realización de pruebas deportivas que requieran ocupación de vía.",
+  "keywords": [
+    "tráfico",
+    "restricciones de circulación",
+    "mercancías peligrosas",
+    "transporte de carga",
+    "País Vasco",
+    "seguridad vial",
+    "vehículos pesados"
+  ],
+  "key_points": [
+    "Prohibición de eventos deportivos en vías interurbanas en fechas señaladas del calendario.",
+    "Restricción de circulación para vehículos con mercancías peligrosas (ADR) los domingos, festivos y vísperas.",
+    "Obligatoriedad de usar la Red de Itinerarios de Mercancías Peligrosas (RIMP) para ciertos desplazamientos.",
+    "Limitación de circulación para vehículos de más de 7.500 kg de MMA en periodos estivales y fechas específicas.",
+    "Restricciones para vehículos con dimensiones o masas especiales los fines de semana y festivos.",
+    "Obligación de circular por el carril derecho para camiones y autobuses en condiciones meteorológicas adversas.",
+    "Posibilidad de sanciones y retirada de vehículos por parte de la autoridad de tráfico en caso de incumplimiento."
+  ],
+  "legal_references": [
+    "Real Decreto Legislativo 6/2015",
+    "Real Decreto 1428/2003",
+    "Real Decreto 3256/1982",
+    "Decreto 83/2017",
+    "Real Decreto 97/2014",
+    "Real Decreto 2822/1998"
+  ],
+  "derogations": [],
+  "main_obligations": "Los transportistas de mercancías peligrosas y vehículos de más de 7.500 kg deben respetar los horarios y días de prohibición indicados en los anexos. Los vehículos de mercancías peligrosas deben utilizar obligatoriamente los itinerarios de la red RIMP cuando corresponda.",
+  "effective_date": "2017-12-27",
+  "procedures": [
+    {
+      "name": "Autorización de pruebas deportivas y eventos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "descrption": "Los organizadores deben solicitar permiso para eventos que ocupen calzada o arcenes en vías interurbanas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación del evento y detalles de la ocupación de la vía."
+        },
+        {
+          "step": 2,
+          "title": "Evaluación por Tráfico",
+          "descrption": "Los responsables territoriales de tráfico evalúan si la prueba afecta a vías de alta intensidad o si hay agentes disponibles.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización especial de circulación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de excepción",
+          "descrption": "Solicitud para circular en periodos restringidos por servicios indispensables.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Matrícula, características del vehículo, tipo de mercancía y justificación del servicio."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

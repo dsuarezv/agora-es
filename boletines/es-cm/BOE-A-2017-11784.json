@@ -1,0 +1,118 @@
+{
+  "identifier": "BOE-A-2017-11784",
+  "title": "Ley 3/2017, de 1 de septiembre, en materia de gestión y organización de la Administración y otras medidas administrativas",
+  "visible_title": "Ley de gestión y organización de la Administración de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Junta de Comunidades de Castilla-La Mancha",
+  "official_number": "3/2017",
+  "publication_date": "2017-10-16",
+  "enactment_date": "2017-09-01",
+  "last_updated": "2023-03-06",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2017/09/01/3",
+  "official_journal": "Diario Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza la administración de Castilla-La Mancha para adaptarla a la digitalización y mejorar su eficiencia. Introduce la obligatoriedad de las notificaciones electrónicas, establece plazos máximos para resolver expedientes sancionadores y contractuales, y reorganiza empresas públicas como GEACAM. Además, modifica normativas sectoriales en turismo, urbanismo, servicios sociales y gestión presupuestaria para agilizar la gestión pública regional.",
+  "citizen_impact": "Los ciudadanos deberán interactuar con la administración preferentemente de forma electrónica, lo que requiere su alta en la sede electrónica. Por otro lado, se agiliza el reconocimiento de la situación de dependencia y se garantiza la conservación de las grabaciones del 112 por dos años para seguridad jurídica.",
+  "professional_impact": "Las empresas turísticas y de turismo activo deben cumplir con nuevas obligaciones de garantía y seguros. Los profesionales del sector público ven modificadas sus condiciones de acceso a puestos directivos y la estructura de sus procesos selectivos, mientras que las empresas contratistas tienen ahora plazos de resolución contractual más estrictos para evitar la caducidad.",
+  "keywords": [
+    "administración pública",
+    "notificación electrónica",
+    "procedimiento sancionador",
+    "turismo",
+    "servicios sociales",
+    "gestión ambiental",
+    "Castilla-La Mancha",
+    "urbanismo"
+  ],
+  "key_points": [
+    "La notificación electrónica es el medio preferente y obligatorio para sujetos obligados.",
+    "Plazo máximo de 9 meses para resolver procedimientos sancionadores sin plazo específico.",
+    "Plazo máximo de 6 meses para resolver procedimientos de penalidades contractuales, bajo riesgo de caducidad.",
+    "Posibilidad de reducir hasta un 50% las sanciones si hay reconocimiento de responsabilidad y pago voluntario.",
+    "Ampliación de funciones de GEACAM para incluir energías renovables, patrimonio cultural y emergencias.",
+    "Creación de nuevas categorías de empresas turísticas: eco-turismo y turismo activo.",
+    "Agilización del trámite de dependencia mediante el intercambio de datos clínicos con el SESCAM.",
+    "Conservación de grabaciones del 112 durante 2 años para gestión de emergencias o procesos judiciales.",
+    "Modificación de las reglas de acceso a personal directivo profesional en la administración regional."
+  ],
+  "legal_references": [
+    "Ley 39/2015",
+    "Ley 40/2015",
+    "Ley 1/2006",
+    "Ley 4/2015",
+    "Ley 8/1999",
+    "Decreto Legislativo 1/2010",
+    "Ley 14/2010",
+    "Ley 9/2012",
+    "Ley 7/2013",
+    "Ley 3/2016",
+    "Ley de Hacienda de Castilla-La Mancha",
+    "Ley 4/2011"
+  ],
+  "derogations": [
+    "Real Decreto 1398/1993 (en el ámbito de la competencia autonómica)"
+  ],
+  "main_obligations": "Los sujetos obligados deben darse de alta en la plataforma de notificaciones telemáticas de la sede electrónica. Las empresas de turismo activo deben mantener seguros de responsabilidad civil y de asistencia/accidente.",
+  "effective_date": "2017-10-06",
+  "procedures": [
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "descrption": "Acuerdo de inicio del expediente sancionador.",
+          "start_date": "Fecha del acuerdo",
+          "end_date": "9 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Notificación de resolución",
+          "descrption": "Notificación de la resolución expresa de la sanción.",
+          "start_date": "Desde el inicio",
+          "end_date": "9 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimientos de Resolución Contractual y Penalidades",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "descrption": "Acuerdo de inicio de resolución de contrato, penalidades o incautación de garantías.",
+          "start_date": "Fecha del acuerdo",
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y Notificación",
+          "descrption": "Dictar y notificar la resolución expresa para evitar la caducidad.",
+          "start_date": "Desde el inicio",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reconocimiento de Situación de Dependencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Valoración",
+          "descrption": "Valoración de la situación de dependencia y entorno sociofamiliar por servicios sociales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informes clínicos y documentación médica (remitidos por SESCAM)"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

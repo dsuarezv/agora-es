@@ -1,0 +1,98 @@
+{
+  "identifier": "BOE-A-2022-12944",
+  "title": "Ley Foral 24/2022, de 5 de julio, de reconocimiento de las víctimas de abusoos sexuales cometidos en el seno de la Iglesia católica de Navarra",
+  "visible_title": "Reconocimiento de las víctimas de abusos sexuales cometidos en el seno de la Iglesia católica de Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "24/2022",
+  "publication_date": "2022-08-02",
+  "enactment_date": "2022-07-05",
+  "last_updated": "2022-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2022/07/05/24",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea un mecanismo institucional para reconocer oficialmente a las víctimas de abusos sexuales ocurridos en el ámbito de la Iglesia católica en Navarra. Su objetivo es reparar el daño y construir una memoria histórica frente a casos que no pudieron ser judicializados o que prescribieron. Para ello, establece una Comisión de Reconocimiento independiente que evaluará las solicitudes de forma administrativa, sin fines penales.",
+  "citizen_impact": "Permite que personas que sufrieron abusos en entornos eclesiásticos puedan obtener un reconocimiento oficial de su condición de víctimas, incluso si los hechos han prescrito judicialmente. Esto otorga un derecho a la verdad y a la memoria, facilitando el acceso a medidas de asistencia y justicia restaurativa.",
+  "professional_impact": "Crea una nueva carga de trabajo para la Administración de Justicia de Navarra mediante la creación de una Comisión de Reconocimiento y la gestión de expedientes administrativos. Los funcionarios de la Oficina de Asistencia a Víctimas deberán asumir la atención especializada de este colectivo.",
+  "keywords": [
+    "víctimas de abuso sexual",
+    "Iglesia católica",
+    "Navarra",
+    "reconocimiento de víctimas",
+    "derechos humanos",
+    "memoria histórica",
+    "justicia restaurativa"
+  ],
+  "key_points": [
+    "Creación de una Comisión de Reconocimiento independiente con miembros expertos, representantes de víctimas y de la Iglesia.",
+    "El reconocimiento es válido incluso si los delitos han prescrito o no hubo condena penal.",
+    "Se establece un derecho al reconocimiento público, que la víctima puede decidir omitir para proteger su intimidad.",
+    "Las víctimas fallecidas pueden ser reconocidas a través de sus familiares directos (cónyuges, hijos, padres, hermanos, etc.).",
+    "El procedimiento es administrativo y no tiene finalidad punitiva ni sancionadora.",
+    "Se promueve el uso de mecanismos de justicia restaurativa para la recuperación de las víctimas.",
+    "La Comisión tendrá un mandato de 6 años."
+  ],
+  "legal_references": [
+    "Ley Foral 33/2013",
+    "Ley Foral 16/2018",
+    "Ley Foral 24/2003",
+    "Ley Foral 29/2018",
+    "Ley Foral 16/2019",
+    "Convenio Europeo de Derechos Humanos",
+    "Pacto Internacional de Derechos Civiles y Políticos",
+    "Convención de Naciones Unidas contra la Tortura",
+    "Directiva 2012/29/UE",
+    "Ley 4/2015 (Estatuto de la Víctima del Delito)",
+    "Ley Orgánica 8/2021",
+    "Convenio de Lanzarote",
+    "Ley 39/2015",
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Ley Orgánica 3/2018"
+  ],
+  "derogations": [],
+  "main_obligations": "Las personas solicitantes deben admitir la verificación de datos por parte de la Comisión y facilitar la información requerida. El incumplimiento o la falsedad de datos conlleva la pérdida del reconocimiento.",
+  "effective_date": "2022-08-03",
+  "procedures": [
+    {
+      "name": "Procedimiento de reconocimiento de la condición de víctima",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio por solicitud",
+          "description": "Presentación de la solicitud detallando los hechos y aportando documentación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Descripción detallada de los hechos e informes que se consideren oportunos."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y análisis de la Comisión",
+          "description": "La Comisión analiza la solicitud y puede realizar entrevistas o requerir informes.",
+          "start_date": null,
+          "end_date": "9 meses desde la recepción",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Elaboración de informe motivado",
+          "description": "La Comisión propone la declaración de víctima o la denegación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución definitiva",
+          "description": "El titular del departamento de Justicia dicta la resolución final.",
+          "start_date": null,
+          "end_date": "3 meses tras el informe de la Comisión",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

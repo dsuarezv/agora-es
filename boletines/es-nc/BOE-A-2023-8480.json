@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-2023-8480",
+  "title": "Ley Foral 5/2023, de 9 de marzo, de canales cortos de comercialización agroalimentaria",
+  "visible_title": "Ley de canales cortos de comercialización agroalimentaria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "5/2023",
+  "publication_date": "2023-04-04",
+  "enactment_date": "2023-03-09",
+  "last_updated": "2023-03-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2023/03/09/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca revitalizar el sector primario navarro facilitando que pequeños agricultores y ganaderos vendan sus productos directamente al consumidor o con un solo intermediario. Introduce flexibilidad en las normas de higiene para pequeñas cantidades de productos y crea un registro oficial para dar seguridad y visibilidad a este modelo. El objetivo final es mejorar la renta de las explotaciones rurales y fomentar un consumo de proximidad, sostenible y de calidad.",
+  "citizen_impact": "Los consumidores tendrán mayor facilidad para identificar productos locales y de proximidad gracias a un nuevo logotipo oficial. Esto permite comprar alimentos frescos, de temporada y de origen conocido con mayor confianza en la seguridad alimentaria.",
+  "professional_impact": "Los pequeños productores y comerciantes de proximidad deben inscribirse en un nuevo registro oficial para acceder a beneficios y al uso del logotipo. Se les ofrecen guías de buenas prácticas más flexibles en higiene, pero también nuevas obligaciones de comunicación anual de ventas y mantenimiento de trazabilidad durante cuatro años.",
+  "keywords": [
+    "canales cortos",
+    "venta directa",
+    "comercialización agroalimentaria",
+    "Navarra",
+    "proximidad",
+    "sector primario",
+    "seguridad alimentaria",
+    "economía rural"
+  ],
+  "key_points": [
+    "Se diferencia la 'venta directa' (sin intermediarios) de la 'venta de proximidad' (máximo un intermediario).",
+    "Creación de un Registro de Canales Cortos de Comercialización Agroalimentaria de Navarra, de carácter público.",
+    "Implementación de un logotipo oficial para identificar productos y establecimientos que cumplen con este modelo.",
+    "Flexibilización de requisitos higiénico-sanitarios para la comercialización de pequeñas cantidades mediante guías específicas.",
+    "Limitación de la dimensión de las explotaciones para acceder a este régimen (máximo 5 Unidades de Trabajo Agrario, o 10 en agrupaciones prioritarias).",
+    "Obligación de mantener la trazabilidad de las operaciones durante un periodo de cuatro años.",
+    "El ámbito de comercialización debe ser en Navarra o en un radio máximo de 100 km de la explotación (salvo venta online)."
+  ],
+  "legal_references": [
+    "Reglamento (UE) 2021/2115",
+    "Reglamento (CE) n.º 178/2002",
+    "Reglamento (CE) n.º 852/2004",
+    "Reglamento (CE) n.º 853/2004",
+    "Reglamento (UE) 2017/625",
+    "Real Decreto 9/2015",
+    "Real Decreto 1086/2020",
+    "Real Decreto 191/2011",
+    "Ley Foral 8/2010",
+    "Decreto Foral 107/2014",
+    "Ley 39/2015",
+    "Ley Foral 7/2006",
+    "Ley Foral 11/2000",
+    "Ley Foral 17/2011"
+  ],
+  "derogations": [
+    "Ley Foral 8/2010, de 20 de abril, por la que se regula en Navarra la venta directa de productos ligados a la explotación agraria y ganadera",
+    "Decreto Foral 107/2014, de 12 de noviembre"
+  ],
+  "main_obligations": "Los operadores deben inscribirse en el registro oficial y comunicar anualmente un resumen de sus operaciones (productos, cantidades y fechas). Asimismo, están obligados a conservar la documentación de trazabilidad durante cuatro años y cumplir con las guías de buenas prácticas de higiene aprobadas.",
+  "effective_date": "2023-04-05",
+  "procedures": [
+    {
+      "name": "Inscripción en el Registro de Canales Cortos de Comercialización Agroalimentaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "descrption": "Presentar solicitud formal incluyendo declaración de actividad con tipos de productos, cantidades, ubicación de instalaciones y ámbito territorial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración de actividad, número de inscripción en el registro de explotaciones agrarias y detalle de instalaciones/transporte."
+        },
+        {
+          "step": 2,
+          "title": "Notificación de inscripción",
+          "descrption": "La Administración comunica el identificador de inscripción y las actividades autorizadas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Migración desde el antiguo Censo de Operadores",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de migración",
+          "descrption": "Los operadores ya inscritos en el antiguo censo deben presentar una solicitud de voluntad de inscripción.",
+          "start_date": "Fecha de entrada en vigor de la ley",
+          "end_date": null,
+          "required_documentation": "Solicitud de voluntad de inscripción sin documentación complementaria inicial."
+        },
+        {
+          "step": 2,
+          "title": "Formalización de inscripción completa",
+          "descrption": "Para mantener la inscripción, se debe formalizar la solicitud completa según el nuevo procedimiento.",
+          "start_date": "Desde la notificación de la inscripción",
+          "end_date": "6 meses",
+          "required_documentation": "Documentación completa según el artículo 9 de la Ley."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

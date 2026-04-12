@@ -1,0 +1,69 @@
+{
+  "identifier": "BOE-A-2012-13583",
+  "title": "Ley 4/2012, de 15 de octubre, de Creación de la Contribución Especial por el establecimiento, mejora y ampliación de los Servicios de Prevención y Extinción de Incendios y de Salvamento de Cantabria",
+  "visible_title": "Creación de la Contribución Especial para los Servicios de Prevención, Extinción de Incendios y Salvamento de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "4/2012",
+  "publication_date": "2012-11-02",
+  "enactment_date": "2012-10-15",
+  "last_updated": "2022-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2012/10/15/4",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "journal_issue": null,
+  "summary": "Esta ley crea un impuesto especial (contribución especial) destinado exclusivamente a financiar la mejora, ampliación y mantenimiento de los servicios de bomberos y salvamento en Cantabria. El objetivo es garantizar que la administración cuente con recursos suficientes para la prevención y atención de emergencias en todo el territorio. La financiación no sale de los presupuestos generales ordinarios, sino de un cargo específico aplicado al sector asegurador.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que el coste no se aplica al consumidor final, sino a las compañías de seguros.",
+  "professional_impact": "Afecta directamente a las entidades aseguradoras que operan en Cantabria, obligándolas a pagar una cuota basada en las primas de seguros de incendio y multirriesgos. Las empresas deberán gestionar este pago, que puede canalizarse mediante convenios con asociaciones del sector para facilitar la recaudación.",
+  "keywords": [
+    "contribución especial",
+    "seguros de incendio",
+    "prevención de incendios",
+    "salvamento",
+    "Cantabria",
+    "financiación servicios emergencia"
+  ],
+  "key_points": [
+    "Se establece una contribución especial para financiar servicios de bomberos y salvamento.",
+    "El sujeto obligado al pago son las compañías aseguradoras que cubran riesgos de incendio.",
+    "La cuota es del 5% sobre el total de las primas de incendio y el 50% de las primas de seguros multirriesgo.",
+    "El dinero recaudado es un 'ingreso afectado', lo que significa que solo puede usarse para los servicios de prevención y extinción de incendios.",
+    "Se permite que la recaudación se gestione mediante convenios con asociaciones de aseguradoras para simplificar el proceso.",
+    "El reparto de la cuota entre aseguradoras se hace proporcionalmente a las primas que cada una haya cobrado en Cantabria el año anterior."
+  ],
+  "legal_references": [
+    "Ley Orgánica 8/1981, de 30 de diciembre, de Estatuto de Autonomía para Cantabria",
+    "Ley de Cantabria 1/2007, de 1 de marzo, de Protección Civil y Gestión de Emergencias de Cantabria",
+    "Real Decreto Legislativo 6/2004, de 29 de octubre, por el que se aprueba el texto refundido de la Ley de ordenación y supervisión de seguros privados",
+    "Ley 58/2003, de 17 de diciembre, General Tributaria"
+  ],
+  "derogations": [],
+  "main_obligations": "Las entidades aseguradoras deben abonar una cuota calculada sobre sus primas de incendio y multirriesgo en Cantabria. El pago puede exigirse de forma anticipada basándose en los presupuestos previstos para las obras o mejoras de los servicios.",
+  "effective_date": "2012-11-03",
+  "procedures": [
+    {
+      "name": "Liquidación y cobro de la contribución especial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Determinación de la base de reparto",
+          "description": "Cálculo de las primas de incendio y multirriesgo cobradas por cada aseguradora en Cantabria el año anterior.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Liquidación y pago",
+          "description": "Pago de la cuota establecida, que puede realizarse mediante convenio con asociaciones de aseguradoras.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

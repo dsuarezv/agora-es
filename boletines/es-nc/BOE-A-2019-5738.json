@@ -1,0 +1,104 @@
+{
+  "identifier": "BOE-A-2019-5738",
+  "title": "Ley Foral 16/2019, de 26 de marzo, de reconocimiento y reparación de las víctimas por actos de motivación política provocados por grupos de extrema derecha o funcionarios públicos",
+  "visible_title": "Ley de reconocimiento y reparación de víctimas por actos de motivación política de extrema derecha o funcionarios públicos",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "16/2019",
+  "publication_date": "2019-04-16",
+  "enactment_date": "2019-03-26",
+  "last_updated": "2024-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2019/03/26/16",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea un mecanismo para reconocer y reparar a las víctimas de violencia política cometida por grupos de extrema derecha o funcionarios públicos en Navarra. Busca llenar un vacío legal para personas que sufrieron daños físicos, psíquicos o morales desde 1950. El sistema permite obtener tanto el reconocimiento público de la condición de víctima como compensaciones económicas y asistencia sanitaria.",
+  "citizen_impact": "Las personas que sufrieron agresiones por motivos políticos en Navarra pueden solicitar una indemnización económica (que llega hasta los 500.000€ en casos de gran invalidez) y asistencia sanitaria especializada. También otorga el derecho al reconocimiento público de su situación, siempre respetando su intimidad si así lo desean.",
+  "professional_impact": "Crea la 'Comisión de Reconocimiento y Reparación', un órgano independiente con peritos forenses y psicólogos que deberán tramitar y valorar los expedientes. Los funcionarios de la administración navarra tienen la obligación de colaborar activamente facilitando datos y documentos para la investigación de estos hechos.",
+  "keywords": [
+    "víctimas de violencia política",
+    "extrema derecha",
+    "reparación económica",
+    "derechos humanos",
+    "Navarra",
+    "memoria histórica",
+    "indemnización"
+  ],
+  "key_points": [
+    "Cubre daños ocurridos desde el 1 de enero de 1950.",
+    "Indemnización por fallecimiento: 250.000 euros.",
+    "Indemnización por gran invalidez: 500.000 euros.",
+    "Indemnización por incapacidad permanente absoluta: 180.000 euros.",
+    "Derecho a la asistencia sanitaria y psicológica gratuita a través de Osasunbidea.",
+    "Posibilidad de recibir compensación por daños materiales en viviendas o vehículos.",
+    "Creación de una Comisión independiente con miembros elegidos por el Parlamento.",
+    "El reconocimiento es compatible con otras ayudas siempre que la de Navarra sea superior."
+  ],
+  "legal_references": [
+    "Ley 52/2007",
+    "Real Decreto 1803/2008",
+    "Ley 29/2011",
+    "Ley Foral 9/2010",
+    "Ley Foral 33/2013",
+    "Convenio n.º 116 del Consejo de Europa",
+    "Directiva 2004/80/CE",
+    "Resolución 60/147 de la Asamblea General de las Naciones Unidas",
+    "Ley Foral 16/2015",
+    "Ley 13/2007 de la Hacienda Pública de Navarra"
+  ],
+  "derogations": [
+    "Ley Foral 16/2015, de 10 de abril"
+  ],
+  "main_obligations": "Las víctimas deben facilitar toda la información y documentación requerida para verificar sus datos. El incumplimiento o la falsedad en los datos conlleva la pérdida del reconocimiento y la obligación de devolver las cantidades percibidas con intereses.",
+  "effective_date": "2019-04-17",
+  "procedures": [
+    {
+      "name": "Procedimiento de reconocimiento y reparación de víctimas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "La persona afectada o sus causahabientes presentan la solicitud detallando los hechos.",
+          "start_date": "Tras la publicación de la orden foral correspondiente",
+          "end_date": "4 años y 6 meses desde la publicación de la orden",
+          "required_documentation": "Descripción detallada de los hechos e informes que consideren oportunos."
+        },
+        {
+          "step": 2,
+          "title": "Admisión a trámite",
+          "description": "La Comisión debe decidir si admite la solicitud.",
+          "start_date": "Desde la recepción de la solicitud",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Instrucción y pruebas",
+          "description": "La Comisión realiza entrevistas, recaba informes de la administración y solicita informes periciales del Instituto de Medicina Legal.",
+          "start_date": "Tras la admisión",
+          "end_date": null,
+          "required_documentation": "Informes técnicos de al menos dos peritos forenses."
+        },
+        {
+          "step": 4,
+          "title": "Elaboración del informe motivado",
+          "description": "La Comisión elabora un informe con la valoración de causalidad y propone la declaración de víctima.",
+          "start_date": "Tras la instrucción",
+          "end_date": "1 año desde la recepción de la solicitud",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Resolución final",
+          "description": "El responsable del departamento dicta la resolución estimando o denegando la solicitud.",
+          "start_date": "Tras el informe de la Comisión",
+          "end_date": "3 meses tras el informe (máximo 16 meses totales para todo el proceso)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,78 @@
+{
+  "identifier": "BOE-A-2025-4756",
+  "title": "Orden APA/229/2025, de 10 de marzo, por la que se establecen medidas específicas de protección en relación con la lengua azul",
+  "visible_title": "Medidas de protección frente a la lengua azul",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio de Agricultura, Pesca y Alimentación",
+  "official_number": "APA/229/2025",
+  "publication_date": "2025-03-11",
+  "enactment_date": "2025-03-10",
+  "last_updated": "2025-09-20",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2025/03/10/apa229",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "60",
+  "summary": "Esta norma cambia la estrategia nacional contra la lengua azul (fiebre catarral ovina) debido a la aparición de múltiples serotipos y dificultades logísticas de vacunación. En la península, se pasa de un modelo de erradicación restrictivo a uno de protección clínica basado en la vacunación voluntaria. Esto permite que los animales puedan moverse sin la obligación de haber sido vacunados previamente, facilitando el comercio. Por el contrario, en Baleares y Canarias se mantienen estrategias diferenciadas para proteger su estatus sanitario.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Los ganaderos de la península ven reducidas las restricciones de movimiento de sus animales, lo que evita perjuicios económicos en los mercados. Sin embargo, los veterinarios y titulares de explotaciones asumen la responsabilidad de gestionar la vacunación voluntaria y registrar correctamente los datos en las bases de datos oficiales (RIIA) en un plazo de siete días.",
+  "keywords": [
+    "lengua azul",
+    "sanidad animal",
+    "vacunación voluntaria",
+    "ganadería",
+    "serotipos",
+    "movimiento de animales"
+  ],
+  "key_points": [
+    "Cambio de estrategia en la península: de erradicación a protección clínica mediante vacunación voluntaria.",
+    "Eliminación de la obligación de vacunación previa para permitir el movimiento de animales en zonas sin estatus.",
+    "Se permite el movimiento de animales en zonas sin estatus siempre que no presenten síntomas clínicos.",
+    "Las Islas Canarias mantienen su estatus de territorio libre.",
+    "Baleares y Canarias pueden establecer programas de erradicación específicos bajo autorización ministerial.",
+    "Se elimina la mención a serotipos específicos en el texto para permitir una respuesta rápida ante nuevos virus.",
+    "Obligación de registrar la vacunación en el RIIA o libros de registro en un plazo de 7 días."
+  ],
+  "legal_references": [
+    "Reglamento (UE) 2020/689",
+    "Reglamento (UE) 2020/688",
+    "Reglamento (UE) 2020/686",
+    "Real Decreto 779/2023",
+    "Ley 8/2003 de sanidad animal",
+    "Orden APA/1251/2020",
+    "Orden APA/1015/2024",
+    "Orden APA/1043/2024"
+  ],
+  "derogations": [
+    "Orden APA/1251/2020, de 21 de diciembre",
+    "Orden APA/1015/2024, de 24 de septiembre",
+    "Orden APA/1043/2024, de 30 de septiembre"
+  ],
+  "main_obligations": "Los veterinarios o titulares deben registrar los datos de vacunación (tipo, serotipo y fecha) en el RIIA o libro de registro en un plazo máximo de 7 días tras la aplicación. El cumplimiento de las medidas de sanidad animal está sujeto al régimen sancionador de la Ley 8/2003.",
+  "effective_date": "2025-03-12",
+  "procedures": [
+    {
+      "name": "Registro de vacunación de animales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aplicación de la vacuna",
+          "description": "Administración de la vacuna siguiendo el protocolo de la autorización de comercialización.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Notificación y registro",
+          "description": "Comunicación de los datos de vacunación a la autoridad competente por el veterinario o titular.",
+          "start_date": null,
+          "end_date": "7 días desde la aplicación",
+          "required_documentation": "Nombre comercial, serotipo y fecha de aplicación"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

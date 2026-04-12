@@ -1,0 +1,144 @@
+{
+  "identifier": "BOE-A-2012-2861",
+  "title": "Ley 7/1990, de 3 de julio, de Patrimonio Cultural Vasco",
+  "visible_title": "Ley de Patrimonio Cultural Vasco",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "7/1990",
+  "publication_date": "2012-02-29",
+  "enactment_date": "1990-07-03",
+  "last_updated": "2022-07-13",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1990/07/03/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas para proteger, defender y promover el patrimonio cultural en el País Vasco. Clasifica los bienes en 'calificados' (máxima protección) e 'inventariados' para determinar su nivel de tutela. Regula las competencias de las administraciones y otorga a cualquier ciudadano el derecho de actuar legalmente para defender estos bienes. Además, establece mecanismos de compensación por hallazgos arqueológicos y límites estrictos para la intervención en edificios protegidos.",
+  "citizen_impact": "Cualquier ciudadano puede denunciar o actuar judicialmente para proteger el patrimonio. Si encuentras un objeto arqueológico por casualidad, tienes derecho a recibir un premio en metálico (50% del valor junto al propietario). Si eres dueño de un bien cultural, debes informar a la Administración si decides venderlo, ya que ellos tienen preferencia para comprarlo.",
+  "professional_impact": "Empresas constructoras y gestores de obras públicas de más de 50 millones de euros deben destinar obligatoriamente el 1% de su presupuesto a la conservación del patrimonio. Propietarios de bienes culturales deben permitir inspecciones y estudios. Se prohíbe el derribo de bienes sin autorización expresa de la Diputación y el Gobierno Vasco tras declaración de ruina.",
+  "keywords": [
+    "patrimonio cultural",
+    "País Vasco",
+    "protección de bienes",
+    "hallazgos arqueológicos",
+    "derecho de tanteo",
+    "conservación"
+  ],
+  "key_points": [
+    "Los bienes culturales se dividen en dos niveles de protección: 'calificados' e 'inventariados'.",
+    "Cualquier ciudadano está legitimado para actuar judicial o administrativamente en defensa del patrimonio.",
+    "La Administración tiene derecho de tanteo (compra preferente) durante un plazo de 2 meses ante la venta de un bien cultural.",
+    "Se prohíbe el derribo de bienes culturales sin declaración previa de ruina y autorización expresa de la Diputación y el Gobierno Vasco.",
+    "Los hallazgos arqueológicos casuales generan un premio en metálico repartido al 50% entre el descubridor y el propietario.",
+    "Las obras públicas de más de 50 millones de euros deben destinar al menos el 1% de su presupuesto a la conservación del patrimonio.",
+    "El Gobierno Vasco tiene la potestad de actualizar las cuantías de las multas establecidas."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía del País Vasco",
+    "Ley de Territorios Históricos",
+    "Ley 6/2019, de 9 de mayo",
+    "Ley 3/1989, de 30 de mayo",
+    "Artículo 108 de la Ley 7/1990"
+  ],
+  "derogations": [
+    "Decreto 379/1987",
+    "Decreto 382/1987",
+    "Decreto 384/1987",
+    "Decreto 385/1987",
+    "Orden de 17 de diciembre de 1987"
+  ],
+  "main_obligations": "Obligación de conservar y proteger los bienes, notificar cualquier intento de venta a la Administración y permitir inspecciones de investigadores. Se prohíbe la destrucción de bienes muebles calificados o inventariados.",
+  "effective_date": "2012-03-01",
+  "procedures": [
+    {
+      "name": "Calificación de un bien cultural",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del expediente",
+          "descrption": "Inicio del procedimiento por la Administración o a solicitud de cualquier persona física o jurídica.",
+          "start_date": "N/A",
+          "end_date": "N/A",
+          "required_documentation": "N/A"
+        },
+        {
+          "step": 2,
+          "title": "Información pública y audiencia",
+          "descrption": "Se debe dar audiencia a la Diputación, al Ayuntamiento y a los propietarios afectados.",
+          "start_date": "Tras la incoación",
+          "end_date": "N/A",
+          "required_documentation": "N/A"
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "descrption": "La Administración debe resolver el expediente.",
+          "start_date": "Desde la incoación",
+          "end_date": "12 meses",
+          "required_documentation": "N/A"
+        },
+        {
+          "step": 4,
+          "title": "Denuncia de mora (si aplica)",
+          "descrption": "Si no hay resolución tras el plazo, se puede denunciar la demora.",
+          "start_date": "Tras 12 meses",
+          "end_date": "3 meses posteriores",
+          "required_documentation": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de venta de un bien cultural",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de la venta",
+          "descrption": "El propietario debe notificar fehacientemente al Departamento de Cultura el precio, condiciones e identidad del comprador.",
+          "start_date": "Antes de la venta",
+          "end_date": "N/A",
+          "required_documentation": "Identidad del adquiriente y condiciones de venta"
+        },
+        {
+          "step": 2,
+          "title": "Ejercicio del derecho de tanteo",
+          "descrption": "La Administración decide si compra el bien al mismo precio notificado.",
+          "start_date": "Desde la notificación",
+          "end_date": "2 meses",
+          "required_documentation": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "Declaración de estado de ruina para derribo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del expediente",
+          "descrption": "Inicio del proceso para declarar la ruina de un inmueble.",
+          "start_date": "N/A",
+          "end_date": "N/A",
+          "required_documentation": "N/A"
+        },
+        {
+          "step": 2,
+          "title": "Informe de la Diputación",
+          "descrption": "La Diputación Foral emite un informe sobre la situación del inmueble.",
+          "start_date": "Tras la incoación",
+          "end_date": "N/A",
+          "required_documentation": "N/A"
+        },
+        {
+          "step": 3,
+          "title": "Autorización de desafecta y derribo",
+          "descrption": "Se requiere autorización del Gobierno Vasco para desafectar y de la Diputación para el derribo.",
+          "start_date": "Tras informes favorables",
+          "end_date": "N/A",
+          "required_documentation": "Memoria que documente el bien"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

@@ -1,0 +1,90 @@
+{
+  "identifier": "BOE-A-2010-11492",
+  "title": "Ley 6/2010, de 11 de junio, regulaora de la participación de las entidades locales en los tributos de la Comunidad Autónoma de Andalucía",
+  "visible_title": "Ley de participación de las entidades locales en los tributos de Andalucía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "6/2010",
+  "publication_date": "2010-07-19",
+  "enactment_date": "2010-06-11",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autoonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2010/06/11/6",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": "123",
+  "summary": "Esta ley crea y regula el Fondo de Participación para transferir recursos económicos de la Junta de Andalucía a los municipios andaluces. El objetivo es garantizar que los ayuntamientos tengan medios suficientes para cubrir sus competencias mediante una distribución basada en la necesidad de gasto y la capacidad fiscal. El fondo es de carácter incondicionado, lo que permite a los municipios usar el dinero según sus propias prioridades.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que es una norma de financiación interna entre administraciones.",
+  "professional_impact": "Afecta directamente a gestores municipales, alcaldes y técnicos de hacienda local, quienes deben gestionar estos ingresos para financiar servicios públicos. También establece obligaciones de transparencia y envío de información financiera a la Junta para evitar retenciones de fondos.",
+  "keywords": [
+    "financiación local",
+    "municipios",
+    "Andalucía",
+    "Fondo de Participación",
+    "tributos autonómicos",
+    "hacienda local",
+    "capacidad fiscal"
+  ],
+  "key_points": [
+    "Creación de un Fondo de Participación incondiccionado para los municipios andaluces.",
+    "Distribución del dinero basada en cuatro criterios: población, superficie urbana, dispersión y capacidad fiscal (IBI).",
+    "Clasificación de los municipios en cuatro grupos según su población para ajustar la ayuda.",
+    "Garantía de que ningún municipio reciba menos de lo que percibía en 2009 por concepto de Fondo de Nivelación.",
+    "Posibilidad de solicitar anticipos de tesorería a la Junta de Andalucía en situaciones de necesidad.",
+    "Mecanismo de retención de fondos si los ayuntamientos no cumplen con el envío de información financiera obligatoria.",
+    "Opción de aplazamiento y fraccionamiento de deudas públicas con la Junta de Andalucía para municipios con problemas financieros."
+  ],
+  "legal_references": [
+    "Constitución Española (artículos 137 y 142)",
+    "Estatuto de Autonomía para Andalucía (artículos 191 y 192.1)",
+    "Carta Europea de Auto autonomía Local",
+    "Ley Orgánica 2/2012 de Estabilidad Presupuestaria y Sostenibilidad Financiera",
+    "Ley 5/2010 de Auto autonomía Local de Andalucía"
+  ],
+  "derogations": [],
+  "main_obligations": "Los municipios deben remitir la información financiera requerida por la Junta de Andalucía según la normativa de estabilidad presupuestaria; de lo contrario, la Junta podrá retener sus pagos del Fondo. Asimismo, los municipios que soliciten anticipos deben cumplir con los objetivos de estabilidad presupuestaria y deuda pública.",
+  "effective_date": "2010-06-25",
+  "procedures": [
+    {
+      "name": "Solicitud de participación voluntaria en el Fondo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "El alcalde debe presentar un escrito con el acuerdo de mayoría absoluta del pleno.",
+          "start_date": "Antes del 30 de octubre",
+          "end_date": null,
+          "required_documentation": "Escrito de la alcaldía y acuerdo del pleno por mayoría absoluta"
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de anticipos de tesorería",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud de anticipo",
+          "description": "La entidad local solicita a la Consejería de Hacienda un pago anticipado de sus recursos futuros.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite necesidad urgente y cumplimiento de límites de endeudamiento"
+        }
+      ]
+    },
+    {
+      "name": "Aplazamiento y fraccionamiento de deudas públicas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de aplazamiento",
+          "description": "El municipio solicita fraccionar sus deudas con la Hacienda de la Junta de Andalucía.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Relación de la totalidad de deudas de derecho público con la Junta"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

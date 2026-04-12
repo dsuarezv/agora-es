@@ -1,0 +1,102 @@
+{
+  "identifier": "BON-n-1998-90001",
+  "title": "Decreto Foral Legislativo 54/1998, de 16 de febrero, por el que se aprueba el Texto Refundido de las disposiciones de rango legal sobre Financiación Agraria",
+  "visible_title": "Financiación Agraria en Navarra",
+  "rank": "decreto foral legislativo",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "54/1998",
+  "publication_date": "1998-03-11",
+  "enactment_date": "1998-02-16",
+  "last_updated": "2020-03-10",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BON-n-1998-90001",
+  "official_journal": "Boletín Oficial de Navarra",
+  "journal_issue": null,
+  "summary": "Esta norma unifica y ordena todas las leyes dispersas que regulan la ayuda económica al sector agropecuario en Navarra. Su objetivo es modernizar las explotaciones, mejorar los sistemas de regadío y proteger a los productores frente a riesgos climáticos o daños catastróficos. Establece un marco claro para la concesión de subvenciones, préstamos y ayudas para la contratación de seguros agrarios.",
+  "citizen_impact": "Los agricultores y ganaderos de Navarra acceden a un sistema estructurado de ayudas para mejorar sus explotaciones y proteger sus cosechas. Permite reducir el coste de los seguros agrarios y obtener apoyo económico en caso de catástrofes naturales.",
+  "professional_impact": "Los profesionales del sector agrario pueden solicitar subvenciones directas, bonificaciones en intereses de préstamos y ayudas para la gestión de bienes comunales. Los ayuntamientos y concejos también se ven beneficiados con ayudas para la gestión de pastos y terrenos comunales.",
+  "keywords": [
+    "financiación agraria",
+    "ayudas al desarrollo rural",
+    "seguros agrarios",
+    "subvenciones agricultura",
+    "bienes comunales",
+    "regadíos",
+    "Navarra"
+  ],
+  "key_points": [
+    "Unificación de la normativa de financiación agraria que antes estaba dispersa.",
+    "Posibilidad de obtener subvenciones para mejorar la estructura de las explotaciones y sistemas de regadío.",
+    "Ayudas para la contratación de seguros agrarios, cubriendo tanto el Plan Oficial como seguros privados para riesgos no incluidos.",
+    "Apoyo económico para la defensa de bienes comunales (deslinde, adquisición de terrenos y creación de pastos).",
+    "Compensación por daños catastróficos en cultivos y ganado cuando no estén cubiertos por seguros.",
+    "Mecanismos de financiación mediante préstamos con bonificación de intereses de hasta 8 puntos.",
+    "Subvenciones de hasta el 100% para gastos de deslinde de bienes comunales.",
+    "Subvenciones de hasta el 50% para primas de seguros privados en riesgos no cubiertos por el plan oficial."
+  ],
+  "legal_references": [
+    "Ley Foral 21/1997, de 30 de diciembre, de Presupuestos Generales de Navarra para el ejercicio de 1998",
+    "Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra",
+    "Reglamento (CE) núm. 1698/2005",
+    "Ley Foral 1/2002, de 7 de marzo, de Infraestructuras Agrícolas",
+    "Ley Foral 11/2005, de 9 de noviembre, de Subvenciones"
+  ],
+  "derogations": [
+    "Norma de 30 de marzo de 1982, del Parlamento Foral de Navarra, reguladora de las ayudas a primas de seguro en agricultura y ganadería",
+    "Decreto Foral Legislativo 133/1991, de 4 de abril",
+    "Ley Foral 2/1992, de 16 de marzo",
+    "Ley Foral 18/1992, de 28 de diciembre",
+    "Disposición adicional decimotercera de la Ley Foral 13/1993",
+    "Ley Foral 6/1994, de 31 de mayo",
+    "Ley Foral 19/1994, de 9 de diciembre"
+  ],
+  "main_obligations": "Los beneficiarios deben cumplir con las condiciones de las bases reguladoras y la Ley de Subvenciones. El incumplimiento de las condiciones de concesión puede obligar al reintegro de las cantidades percibidas a la Hacienda Foral.",
+  "effective_date": "1998-03-12",
+  "procedures": [
+    {
+      "name": "Concesión de subvención al coste del seguro (Plan de Seguros Agrarios Combinados)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "descrption": "El agricultor o tomador del seguro debe presentar la solicitud tras suscribir la póliza.",
+          "start_date": "Desde la suscripción de la póliza",
+          "end_date": "30 días después de la suscripción",
+          "required_documentation": "Instancia de solicitud y listado de pólizas en soporte magnético."
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "descrption": "El Departamento de Agricultura comunica la resolución de concesión tras comprobaciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Concesión de subvención para seguros privados (Riesgos no incluidos en el Plan Oficial)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "descrption": "Presentación de la solicitud para riesgos cubiertos por entidades privadas.",
+          "start_date": "Desde la suscripción de la póliza",
+          "end_date": "1 mes después de la suscripción",
+          "required_documentation": "Instancia de solicitud y fotocopia de la póliza."
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "descrption": "El Departamento de Agricultura comunica la resolución de concesión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,71 @@
+{
+  "identifier": "BOE-A-2017-7354",
+  "title": "Ley 6/2017, de 9 de mayo, del impuesto sobre los activos no productivos de las personas jurídicas",
+  "visible_title": "Impuesto sobre los activos no productivos de las personas jurídicas",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "6/2017",
+  "publication_date": "2017-06-27",
+  "enactment_date": "2017-05-09",
+  "last_updated": "2021-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2017/05/09/6",
+  "official_journal": "DOGC / BOE",
+  "journal_issue": null,
+  "summary": "Esta norma crea un impuesto en Cataluña para gravar bienes de alto valor (inmuebles, vehículos de lujo, embarcaciones, aeronaves, joyas y arte) que pertenecen a empresas pero no se utilizan para su actividad económica. El objetivo es evitar que las sociedades se usen para ocultar patrimonio personal o para uso privado de los socios sin pagar los impuestos correspondientes. Busca incentivar que las empresas utilicen sus activos de forma productiva y mejorar la redistribución de la riqueza.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes, salvo que se les considere beneficiarios indirectos de una mayor redistribución de la riqueza.",
+  "professional_impact": "Afecta directamente a empresas y sociedades con patrimonios improductivos, obligándoles a declarar y pagar este impuesto si sus activos se usan para fines privados de socios o directivos. También impone nuevas obligaciones de información a galerías de arte, anticuarios y joyerías sobre las compras realizadas por personas jurídicas.",
+  "keywords": [
+    "impuesto activos no productivos",
+    "Cataluña",
+    "personas jurídicas",
+    "patrimonio improductivo",
+    "evasión fiscal",
+    "bienes de lujo"
+  ],
+  "key_points": [
+    "Grava bienes inmuebles, vehículos de más de 200 CV, embarcaciones de ocio, aeronaves, joyas y obras de arte de alto valor.",
+    "Se considera activo no productivo si se cede gratuitamente a socios o directivos para su uso privado.",
+    "Si se cede mediante pago, solo es productivo si el precio es de mercado y el socio acredita capacidad económica.",
+    "Los activos que no estén afectos a la actividad económica de la empresa tributan, salvo que se reincorporen a la actividad en plazos específicos (2 años para otros bienes, 5 años para inmuebles).",
+    "El impuesto se calcula mediante una tarifa progresiva sobre el valor de los activos.",
+    "La autoliquidación debe presentarse telemáticamente entre el 1 y el 30 de junio de cada año.",
+    "Las entidades sin ánimo de lucro están exentas si usan sus inmuebles exclusivamente para sus fines sociales."
+  ],
+  "legal_references": [
+    "Ley del patrimonio histórico",
+    "Impuesto sobre sociedades",
+    "Impuesto sobre la renta de las personas físicas",
+    "Impuesto sobre transmisiones patrimoniales y actos jurídicos documentados",
+    "Impuesto sobre sucesiones y donaciones"
+  ],
+  "derogations": [],
+  "main_obligations": "Las empresas deben presentar la autoliquidación telemática y realizar el ingreso del impuesto entre el 1 y el 30 de junio de cada año. Los vendedores de arte, antigüedades y joyas deben informar a la Agencia Tributaria de Cataluña sobre las compras realizadas por sujetos pasivos.",
+  "effective_date": "2017-06-28",
+  "procedures": [
+    {
+      "name": "Autoliquidación del impuesto",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Determinación del hecho imponible",
+          "description": "Identificación de los activos no productivos poseídos a fecha de 1 de enero.",
+          "start_date": "01-01",
+          "end_date": null,
+          "required_documentation": "Valoración de activos (catastral para inmuebles, mercado para otros)."
+        },
+        {
+          "step": 2,
+          "title": "Presentación y pago",
+          "description": "Presentación telemática de la autoliquidación y pago del importe resultante.",
+          "start_date": "01-06",
+          "end_date": "30-06",
+          "required_documentation": "Modelo de autoliquidación aprobado por la Generalitat."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

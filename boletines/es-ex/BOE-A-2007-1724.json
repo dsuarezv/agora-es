@@ -1,0 +1,81 @@
+{
+  "identifier": "BOE-A-2007-1724",
+  "title": "Ley 8/2006, de 23 diciembre, de Sociedades Cooperativas Especiales de Extremadura",
+  "visible_title": "Ley de Sociedades Cooperativas Especiales de Extremadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "8/2006",
+  "publication_date": "2007-01-27",
+  "enactment_date": "2006-12-23",
+  "last_updated": "2018-11-02",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2006/12/23/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea una nueva figura jurídica en Extremadura: la Sociedad Cooperativa Especial, diseñada para pequeñas y medianas empresas. Su objetivo es simplificar la creación y gestión de proyectos cooperativos, permitiendo estructuras más ágiles y menos burocráticas que el modelo cooperativo tradicional. Facilita la colaboración económica entre empresarios para compartir costes, suministros o comercialización.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes, salvo que formen parte de un proyecto de emprendimiento cooperativo en la región.",
+  "professional_impact": "Beneficia directamente a emprendedores, autónomos y pequeñas empresas extremeñas al permitirles agruparse con menos socios (mínimo 2) y estructuras de gestión más flexibles. Reduce la carga administrativa al permitir la constitución telemática y simplificar la designación de administradores y órganos de control.",
+  "keywords": [
+    "sociedad cooperativa especial",
+    "Extremadura",
+    "emprendimiento",
+    "colaboración empresarial",
+    "gestión simplificada",
+    "cooperativismo"
+  ],
+  "key_points": [
+    "Permite constituir la cooperativa con un mínimo de solo 2 socios (frente a los 3 del régimen común).",
+    "Limita el número de socios a un máximo de 20 para mantener el enfoque en pequeñas y medianas empresas.",
+    "Flexibiliza la administración: permite elegir entre administrador único, varios administradores o consejo rector.",
+    "Introduce el voto plural: el peso del voto en la asamblea es proporcional a la actividad realizada por el socio.",
+    "Agiliza la constitución mediante trámites electrónicos y modelos de estatutos orientativos.",
+    "Permite que la cooperativa funcione como un 'empresario social' para centralizar compras, suministros o marketing.",
+    "Establece un capital social mínimo de 3.000 € y un máximo de 300.000 €.",
+    "Facilita la transformación de otras sociedades no cooperativas en este modelo especial."
+  ],
+  "legal_references": [
+    "Ley 2/1998, de 26 de marzo, de Sociedades Cooperativas de Extremadura",
+    "Constitución Española de 1978",
+    "Ley 22/2003, de 9 de julio, Concursal",
+    "Real Decreto 1784/1996, de 19 de julio"
+  ],
+  "derogations": [
+    "Modifica parcialmente la Ley 2/1998, de 26 de marzo, de Sociedades Cooperativas de Extremadura"
+  ],
+  "main_obligations": "Las sociedades deben incluir obligatoriamente 'Sociedad Cooperativa Especial' o su abreviatura en su nombre. Deben cumplir con los límites de capital y número de socios, y adaptar sus estatutos si se transforman.",
+  "effective_date": "2007-01-16",
+  "procedures": [
+    {
+      "name": "Constitución de Sociedad Cooperativa Especial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Preparación de estatutos",
+          "description": "Elaboración de los estatutos sociales, preferiblemente siguiendo el modelo orientativo de la Consejería.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estatutos sociales"
+        },
+        {
+          "step": 2,
+          "title": "Tramitación registral",
+          "description": "Presentación de documentos ante el Registro de Sociedades Cooperativas de Extremadura, con preferencia de tramitación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentos de constitución"
+        },
+        {
+          "step": 3,
+          "title": "Inscripción rápida",
+          "description": "Si los estatutos se ajustan al modelo orientativo, la inscripción se realizará en un plazo de 2 días tras recibir la documentación.",
+          "start_date": null,
+          "end_date": "2 días tras recepción de documentos",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

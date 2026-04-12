@@ -1,0 +1,235 @@
+{
+  "identifier": "BOE-A-2021-12701",
+  "title": "Ley 5/2021, de 29 de junio, de Organización y Régimen Jurídico del Sector Público Autonómico de Aragón",
+  "visible_title": "Ley de Organización y Régimen Jurídico del Sector Público Autonómico de Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "5/2021",
+  "publication_date": "2021-07-29",
+  "enactment_date": "2021-06-29",
+  "last_updated": "2023-05-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2021/06/29/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza la Administración de Aragón para convertir la gestión digital en la norma y no en la excepción. Su objetivo es simplificar la relación con la ciudadanía mediante la interoperabilidad de datos y la administración proactiva. Establece un marco claro para el funcionamiento de empresas públicas, consorcios y fundaciones, asegurando su control y eficacia. En definitiva, busca una administración más transparente, eficiente y tecnológica que reduzca la carga burocrática.",
+  "citizen_impact": "El ciudadano ya no tendrá que aportar documentos que la Administración ya posee gracias al principio de 'dato único'. Los trámites serán preferentemente electrónicos y más rápidos mediante procesos automatizados. Además, se garantiza mayor transparencia sobre cómo gestionan los organismos públicos sus recursos y servicios.",
+  "professional_impact": "Los funcionarios deben adoptar la administración electrónica y la interoperabilidad como estándares de trabajo. Las empresas públicas y sociedades mercantiles deben someterse a controles de eficacia anuales y procesos de selección de personal mediante convocatoria pública. Las empresas que contraten con sociedades mercantiles deben saber que contratos superiores a 12 millones de euros requieren autorización previa del Gobierno.",
+  "keywords": [
+    "Administración electrónica",
+    "Sector público Aragón",
+    "Interoperabilidad",
+    "Transparencia",
+    "Sociedades mercantiles",
+    "Simplificación administrativa",
+    "Digitalización"
+  ],
+  "key_points": [
+    "La administración electrónica es ahora la actuación habitual y preferente para todos los trámites.",
+    "Implementación del principio de 'dato único': la información se introduce una sola vez y se comparte entre departamentos.",
+    "Derecho a la administración proactiva: la Administración puede ofrecer servicios automáticamente antes de que se soliciten.",
+    "Creación de un Catálogo de Servicios para facilitar la localización de trámites por ciudadanos y empresas.",
+    "Validez legal de reuniones de órganos colegiados mediante videoconferencia.",
+    "Uso obligatorio de sistemas de identificación segura como Cl@ve en la sede electrónica.",
+    "Introducción de la actuación administrativa automatizada mediante algoritmos.",
+    "Control de eficacia anual para organismos públicos para asegurar su necesidad y utilidad.",
+    "Obligación de publicar planes de actuación y resultados en el Portal de Transparencia.",
+    "El personal de sociedades mercantiles debe acceder mediante convocatoria pública y procesos selectivos.",
+    "Los contratos de sociedades mercantiles de más de 12 millones de euros requieren autorización previa del Gobierno.",
+    "Prioridad en la reutilización de aplicaciones tecnológicas existentes antes de comprar o desarrollar nuevas."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Aragón",
+    "Ley 3/1984",
+    "Ley 11/1996",
+    "Ley 11/2000",
+    "Ley 4/1999",
+    "Ley 30/1992",
+    "Decreto Legislativo 2/2001",
+    "Ley 39/2015",
+    "Ley 40/2015",
+    "Sentencia del Tribunal Constitucional 55/2018",
+    "Ley 11/2007",
+    "Ley Orgánica 5/2007",
+    "Ley 1/2021",
+    "Reglamento General de Protección de Datos",
+    "Ley 3/2018, de 5 de diciembre, Orgánica de Protección de Datos Personales y Garantía de los Derechos Digitales",
+    "Esquema Nacional de Seguridad",
+    "Ley de Hacienda de la Comunidad Autónoma de Aragón",
+    "Ley 2/2021 de medidas urgentes por COVID-19",
+    "Ley 1/2011 de Convenios de la Comunidad Autónoma de Aragón",
+    "Ley 3/2012 de Medidas Fiscales y Administrativas de la Comunidad Autónoma de Aragón"
+  ],
+  "derogatons": [
+    "Artículos 6, 7 y 8 del Texto Refundido de la Ley de Hacienda de la Comunidad Autónoma de Aragón",
+    "Decreto Legislativo 2/2001 (Texto Refundido de la Ley de la Administración de la Comunidad Autónoma de Aragón)",
+    "Ley 1/2011 de Convenios de la Comunidad Autónoma de Aragón",
+    "Ley 3/2012 de Medidas Fiscales y Administrativas de la Comunidad Autónoma de Aragón"
+  ],
+  "main_obligations": "Los organismos públicos deben remitir cualquier cambio en su registro en un plazo de 20 días hábiles. Los informes de evaluación de entidades deben entregarse al Gobierno antes del 30 de junio de cada año. Los convenios deben inscribirse en el Registro Electrónico en un mes tras su firma.",
+  "effective_date": "2021-10-29",
+  "procedures": [
+    {
+      "name": "Relación electrónica con la Administración",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acceso a la Sede Electrónica",
+          "descrption": "El interesado accede mediante sistemas de identificación como Cl@ve o certificado electrónico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado electrónico o Cl@ve"
+        },
+        {
+          "step": 2,
+          "title": "Presentación de solicitud",
+          "descrption": "Tramitación de la solicitud preferentemente de forma electrónica para agilizar el proceso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación mínima necesaria (se evitará pedir datos que la Administración ya tenga)"
+        }
+      ]
+    },
+    {
+      "name": "Sesiones de órganos colegiados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria",
+          "descrption": "Envío de la convocatoria con el orden del día y documentación con al menos dos días de antelación.",
+          "start_date": "2 días antes de la sesión",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Celebración de la sesión",
+          "descrption": "Reunión presencial o a distancia (videoconferencia) para deliberar y votar.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación de actas",
+          "descrption": "El acta se remite electrónicamente para su conformidad o aprobación en la siguiente sesión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Revisión de oficio de actos administrativos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Determinación de nulidad o lesividad",
+          "description": "Identificación de actos nulos de pleno derecho o actos anulables que lesionan el interés público.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Dictamen del Consejo Consultivo (si procede)",
+          "description": "Requisito previo para la revisión de actos nulos dictados por el Gobierno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de revisión",
+          "description": "Emisión de la orden o resolución que corrige el acto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Creación de organismos públicos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración de anteproyecto de ley",
+          "description": "Preparación de la propuesta incluyendo estatutos y plan inicial de actuación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Propuesta de estatutos, plan inicial de actuación e informe de hacienda."
+        },
+        {
+          "step": 2,
+          "title": "Informe de Hacienda",
+          "description": "Análisis de las implicaciones presupuestarias, contables y patrimoniales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación por Ley",
+          "description": "La creación de un organismo público debe realizarse obligatoriamente mediante Ley.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de organismos públicos existentes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de adaptación",
+          "description": "Los organismos y entidades existentes deben ajustar su normativa a la nueva ley.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "2 años",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Modificación de relaciones de puestos de trabajo",
+          "description": "El Gobierno de Aragón debe aprobar o modificar las relaciones de puestos de trabajo.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de convenios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del proyecto",
+          "description": "Creación del proyecto acompañado de una memoria justificativa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria con antecedentes, objeto, necesidad, financiación e impacto económico"
+        },
+        {
+          "step": 2,
+          "title": "Autorización",
+          "description": "El Gobierno de Aragón debe autorizar el convenio previo a su firma.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Inscripción y publicación",
+          "description": "Inscripción en el Registro Electrónico y publicación en el BOA.",
+          "start_date": "Firma del convenio",
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

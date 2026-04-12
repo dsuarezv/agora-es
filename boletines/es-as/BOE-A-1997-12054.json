@@ -1,0 +1,110 @@
+{
+  "identifier": "BOE-A-1997-12054",
+  "title": "Ley 1/1997, de 4 de abril, de infracciones y sanciones en materia de seguridad minera",
+  "visible_title": "Ley de infracciones y sanciones en materia de seguridad minera",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "1/1997",
+  "publication_date": "1997-06-05",
+  "enactment_date": "1997-04-04",
+  "last_updated": "1997-04-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1997/04/04/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el régimen de inspección, infracciones y sanciones para las industrias extractivas en Asturias. Su objetivo es endurecer la protección de los trabajadores mineros mediante un sistema de sanciones más ágil y cuantías económicas actualizadas. Introduce la responsabilidad solidaria de subcontratistas y directores facultativos para asegurar que la seguridad no dependa solo del titular de la mina.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo para aquellos que trabajen en el sector minero asturiano, quienes ven reforzada su protección frente a accidentes laborales.",
+  "professional_impact": "Las empresas mineras y sus subcontratistas enfrentan una mayor responsabilidad legal y económica por incumplimientos de seguridad. Los directores facultativos asumen una responsabilidad directa que puede derivar en inhabilitaciones profesionales. Los inspectores de minas cuentan con herramientas para paralizar actividades de forma inmediata ante riesgos graves.",
+  "keywords": [
+    "seguridad minera",
+    "infracciones",
+    "sanciones",
+    "industria extractiva",
+    "Asturias",
+    "riesgos laborales",
+    "inspección de minas"
+  ],
+  "key_points": [
+    "Responsabilidad solidaria: Los subcontratistas y directores facultativos también responden por las infracciones.",
+    "Paralización inmediata: La inspección puede suspender trabajos de forma inmediata si detecta un riesgo laboral grave e inminente.",
+    "Clasificación de sanciones: Las multas se dividen en leves, graves y muy graves, pudiendo llegar a la clausura definitiva de la explotación.",
+    "Presunción de certeza: Los hechos recogidos en las actas de inspección se consideran ciertos salvo prueba en contrario.",
+    "Protección salarial: En caso de suspensión temporal de actividad por sanción, los trabajadores mantienen su derecho a percibir su remuneración completa.",
+    "Prescripción: Las infracciones muy graves prescriben a los 5 años, las graves a los 3 y las leves al año."
+  ],
+  "legal_references": [
+    "Ley 31/1995, de 8 de noviembre, de prevención de riesgos laborales",
+    "Ley 2/1985, de 11 de diciembre, sobre infracciones en materia de seguridad en las explotaciones mineras",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Estatuto de Autonomía para Asturias",
+    "Decreto 21/1994, de 24 de febrero, que aprueba el Reglamento del procedimiento sancionador general en la Administración del Principado"
+  ],
+  "derogations": [
+    "Ley del Principado de Asturias 2/1985, de 11 de diciembre, sobre infracciones en materia de seguridad en las explotaciones mineras"
+  ],
+  "main_obligations": "Las empresas deben cumplir estrictamente las medidas de seguridad minera y los reglamentos técnicos. El incumplimiento de medidas correctoras impuestas por la inspección o la falta de notificación de accidentes graves conlleva multas de hasta 100 millones de pesetas y posibles clausuras.",
+  "effective_date": "1997-07-05",
+  "procedures": [
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Se inicia mediante providencia del órgano competente tras actuaciones de la Inspección de Minas, denuncia o de oficio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de la Inspección de Minas"
+        },
+        {
+          "step": 2,
+          "title": "Alegaciones",
+          "description": "Notificación al responsable para que presente sus argumentos y proponga pruebas.",
+          "start_date": "15 días desde la notificación",
+          "end_date": null,
+          "required_documentation": "Escrito de alegaciones y propuestas de prueba"
+        },
+        {
+          "step": 3,
+          "title": "Nueva audiencia",
+          "description": "Si se practican diligencias que impliquen hechos distintos a los del acta inicial, se abre un nuevo plazo de audiencia.",
+          "start_date": "10 días",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "El órgano competente dicta la decisión final tras valorar lo actuado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Impugnación de paralización de trabajos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de impugnación",
+          "description": "La empresa puede recurrir la orden de paralización inmediata dictada por el inspector.",
+          "start_date": "3 días hábiles",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la impugnación",
+          "description": "La autoridad debe resolver la impugnación de forma urgente.",
+          "start_date": "24 horas",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

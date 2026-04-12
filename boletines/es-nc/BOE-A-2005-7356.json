@@ -1,0 +1,249 @@
+{
+  "identifier": "BOE-A-2005-7356",
+  "title": "Ley Foral 4/2005, de 22 de marzo, de intervención para la protección ambiental",
+  "visible_title": "Ley de intervención para la protección ambiental",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "4/2005",
+  "publication_date": "2005-05-06",
+  "enactment_date": "2005-03-22",
+  "last_updated": "2020-12-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2005/03/22/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un control integral para prevenir la contaminación del aire, agua, suelo y la pérdida de biodiversidad en Navarra. Introduce la Autorización Ambiental Integrada para unificar todos los permisos de una actividad en un solo trámite, simplificando la gestión para las empresas. Además, obliga a realizar evaluaciones de impacto ambiental antes de aprobar proyectos y establece que quien contamine debe reparar el daño causado. La norma también garantiza que los ciudadanos puedan acceder a la información ambiental y participar en la toma de decisiones.",
+  "citizen_impact": "Los ciudadanos ganan derechos de participación activa y acceso directo a la información sobre el estado del medio ambiente. Además, cuentan con mecanismos de acción pública para defender el entorno. En la vida diaria, esto se traduce en una mayor protección de su salud y entorno frente a actividades industriales o agrarias contaminantes.",
+  "professional_impact": "Las empresas deben adaptarse a un sistema de control más estricto y unificado mediante la Autorización Ambiental Integrada (AIA). Los titulares de instalaciones tienen nuevas obligaciones de autocontrol, notificación anual de emisiones y deber de reparar daños. Los funcionarios de medio ambiente adquieren mayores facultades de inspección, incluyendo la entrada sin previo aviso en instalaciones.",
+  "keywords": [
+    "protección ambiental",
+    "Navarra",
+    "autorización ambiental integrada",
+    "evaluación de impacto ambiental",
+    "contaminación",
+    "inspección ambiental",
+    "responsabilidad ambiental"
+  ],
+  "key_points": [
+    "Creación de la Autorización Ambiental Integrada (AIA) para unificar permisos de residuos, vertidos, emisiones y riesgos en un solo trámite.",
+    "Obligatoriedad de realizar Evaluaciones Ambientales Estratégicas para planes y programas antes de su aprobación.",
+    "Aplicación del principio 'quien contamina paga', obligando a reparar o compensar los daños causados al medio ambiente.",
+    "Derecho de la ciudadanía a acceder a la información ambiental y a la acción pública para la defensa del entorno.",
+    "Implementación de un sistema de inspección con potestad para entrar en instalaciones sin previo aviso (salvo domicilio).",
+    "Posibilidad de sustituir multas económicas por prestaciones ambientales de restauración o mejora del entorno.",
+    "Los informes del Departamento de Medio Ambiente son vinculantes para los Ayuntamientos si imponen medidas correctoras o deniegan licencias.",
+    "Prohibición de dividir proyectos artificialmente para evitar los umbrales de evaluación de impacto ambiental.",
+    "Control específico para industrias alimentarias cercanas a zonas residenciales (menos de 500m).",
+    "Evaluación ambiental obligatoria para ganaderías intensivas que superen ciertos umbrales (ej. 2.000 ovejas o 600 vacas).",
+    "Requisitos estrictos para la agricultura en zonas reactivadas tras 10 años (más de 30 ha o 10 ha con pendiente >10%).",
+    "Sujeción a evaluación de parques eólicos con más de 10 aerogeneradores."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 45)",
+    "Ley Foral 16/1989",
+    "Ley Foral 2/1993",
+    "Ley Foral 9/1996",
+    "Ley Foral 10/1988",
+    "Ley Foral 13/1994",
+    "Decreto Foral 6/2002",
+    "Directiva 85/337/CEE",
+    "Directiva 97/11/CE",
+    "Ley 6/2001",
+    "Directiva 96/61/CE",
+    "Ley 16/2002",
+    "Directiva 2001/42/CE",
+    "Ley Foral 35/2002",
+    "Ley Orgánica 13/1982",
+    "Decreto Foral 32/1990",
+    "Decreto Foral 22/1993",
+    "Decreto Foral 580/1995",
+    "Ley Foral 1/2002",
+    "Ley 21/1992 de Industria",
+    "Ley 54/1997 del Sector Eléctrico",
+    "Ley 34/1998 del Sector de los Hidrocarburos",
+    "Ley 22/1973 de Minas",
+    "Ley Orgánica 1/1992 de protección de la seguridad ciudadana",
+    "Decreto Foral 304/2001",
+    "Directiva 79/409/CEE",
+    "Directiva 92/43/CEE",
+    "Convenio de Ramsar",
+    "Ley de Minas",
+    "Ley Orgánica de Reintegración y Mejoramiento del Régimen Foral de Navarra"
+  ],
+  "derogations": [
+    "Reglamento de Actividades Molestas, Insalubres, Nocivas y Peligrosas (Decreto 2414/1961)",
+    "Ley Foral 16/1989",
+    "Decreto Foral 229/1993",
+    "Ley Foral 13/1994",
+    "Decreto Foral 32/1990"
+  ],
+  "main_obligations": "Los titulares de instalaciones deben obtener autorización previa y realizar una notificación anual de emisiones, vertidos y residuos. Asimismo, deben notificar inmediatamente cualquier accidente, cambio de titularidad o cese de actividad.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Autorización Ambiental Integrada (AIA)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de informe de compatibilidad urbanística",
+          "description": "El promotor debe solicitar al Ayuntamiento este informe antes de la solicitud de AIA.",
+          "start_date": null,
+          "end_date": "30 días",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de la solicitud de AIA",
+          "description": "Entrega de documentación al Departamento de Medio Ambiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto básico, informe de compatibilidad urbanística, resumen no técnico y datos confidenciales."
+        },
+        {
+          "step": 3,
+          "title": "Información pública",
+          "description": "Trámite de exposición para alegaciones de la ciudadanía.",
+          "start_date": null,
+          "end_date": "30 días",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Informes de órganos competentes",
+          "description": "Emisión de informes vinculantes (Municipios, Confederaciones Hidrográficas, etc.).",
+          "start_date": null,
+          "end_date": "6 meses (para organismos de cuenca)",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Resolución",
+          "description": "Dictamen final de concesión o denegación.",
+          "start_date": null,
+          "end_date": "10 meses desde la solicitud",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Evaluación de Impacto Ambiental (EIA) de proyectos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de determinación de necesidad",
+          "description": "Presentación de memoria-resumen para decidir si requiere EIA.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria-resumen"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de necesidad",
+          "description": "Decisión motivada sobre si el proyecto requiere evaluación.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Elaboración del Estudio de Impacto Ambiental",
+          "description": "El titular redacta el estudio detallado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudio de impacto ambiental"
+        },
+        {
+          "step": 4,
+          "title": "Declaración de Impacto Ambiental (DIA)",
+          "description": "Emisión de la resolución sobre la conveniencia ambiental.",
+          "start_date": null,
+          "end_date": "6 meses desde la admisión del estudio",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Obtención de Licencia de Actividad Clasificada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y documentación",
+          "description": "Presentación de la solicitud ante el Ayuntamiento con la documentación reglamentaria.",
+          "start_date": "Desde la presentación",
+          "end_date": null,
+          "required_documentation": "Documentación determinada reglamentariamente"
+        },
+        {
+          "step": 2,
+          "title": "Exposición pública",
+          "description": "Sometimiento a exposición pública en el Boletín Oficial de Navarra o tablón municipal para alegaciones.",
+          "start_date": "Tras la solicitud",
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informe del Alcalde y Medio Ambiente",
+          "description": "El Alcalde emite informe razonado y remite al Departamento de Medio Ambiente para informes vinculantes si hay riesgos.",
+          "start_date": "Tras la exposición pública",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "El Alcalde debe resolver y notificar el otorgamiento o denegación.",
+          "start_date": "Desde la presentación de documentación completa",
+          "end_date": "4 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Obtención de Licencia de Apertura",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de apertura",
+          "description": "Presentación de documentación que garantice que la instalación se ajusta al proyecto aprobado.",
+          "start_date": "Desde la presentación",
+          "end_date": null,
+          "required_documentation": "Documentación que garantice el ajuste al proyecto y medidas correctoras"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de apertura",
+          "description": "Notificación de la concesión o denegación de la licencia.",
+          "start_date": "Desde la presentación",
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Determinación de la necesidad de evaluación de impacto ambiental",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Análisis de umbrales y ubicación",
+          "description": "Verificación de si el proyecto alcanza los límites de superficie, capacidad o se ubica en zona protegida.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Decisión motivada del Departamento de Medio Ambiente",
+          "description": "El Departamento decide si exige o no la evaluación basándose en tamaño, recursos, residuos y riesgo de accidentes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

@@ -1,0 +1,119 @@
+{
+  "identifier": "DOGC-f-2019-90507",
+  "title": "Ley 3/2019, de 17 de junio, de los espacios agrarios",
+  "visible_title": "Ley de los espacios agrarios",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "3/2019",
+  "publication_date": "2019-06-19",
+  "enactment_date": "2019-06-17",
+  "last_updated": "2023-03-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=DOGC-f-2019-90507",
+  "official_journal": "Diari Oficial de la Generalitat de Catalunya",
+  "journal_issue": null,
+  "summary": "Esta ley busca proteger y gestionar de forma sostenible el suelo agrícola en Cataluña para garantizar la seguridad alimentaria y frenar la pérdida de tierras productivas. Introduce mecanismos para identificar y proteger zonas de alto valor agrario y regula la actividad en entornos periurbanos. Además, crea un sistema para recuperar tierras en desuso mediante un registro que facilita su alquiler a nuevos explotadores.",
+  "citizen_impact": "Los ciudadanos pueden ver cambios en el uso del suelo cercano a sus núcleos urbanos y una mayor protección de los paisajes agrarios. No impone trámites directos a la población general, salvo para aquellos interesados en alquilar tierras en desuso.",
+  "professional_impact": "Los agricultores y ganaderos obtienen mayor seguridad jurídica y acceso a tierras mediante el nuevo Registro de parcelas en desuso. Los urbanistas y promotores de infraestructuras deben realizar obligatoriamente un 'análisis de afectaciones agrarias' antes de ejecutar proyectos que impacten en el suelo agrícola.",
+  "keywords": [
+    "espacios agrarios",
+    "suelo agrícola",
+    "seguridad alimentaria",
+    "parcelas en desuso",
+    "planificación territorial",
+    "agricultura periurbana",
+    "Cataluña"
+  ],
+  "key_points": [
+    "Creación del Registro de parcelas agrícolas y ganaderas en desuso para facilitar su alquiler.",
+    "Obligatoriedad de realizar un análisis de afectaciones agrarias para proyectos de obras o planes urbanísticos.",
+    "Identificación y protección de los 'espacios de alto valor agrario'.",
+    "Regulación específica para la actividad agraria en zonas periurbanas para evitar la presión urbanística.",
+    "Prioridad de adjudicación de tierras en desuso a jóvenes, mujeres y profesionales formados.",
+    "Posibilidad de expropiación forzosa temporal del derecho de usufruto si una parcela declarada en desuso no se pone en producción tras 3 meses.",
+    "Implementación de un sistema de información y vigilancia del estado de los suelos agrarios."
+  ],
+  "legal_references": [
+    "Ley 23/1983, de 21 de noviembre, de política territorial",
+    "Ley 18/2001, de 31 de diciembre, de orientación agraria",
+    "Ley 3/2007, de 4 de julio, de la obra pública",
+    "Ley 3/2017, de 15 de febrero, del libro sexto del Código civil de Cataluña",
+    "Decreto legislativo 1/2010, de 3 de agosto, Texto refundido de la Ley de urbanismo"
+  ],
+  "derogations": [
+    "Concesiones administrativas otorgadas por el IRYDA según Decreto 118/1973"
+  ],
+  "main_obligations": "Los promotores de infraestructuras y planes urbanísticos deben incluir un análisis de afectaciones agrarias vinculante. Los propietarios de parcelas declaradas en desuso deben permitir su gestión por el Registro si no cumplen la función social de la tierra.",
+  "effective_date": "2019-06-20",
+  "procedures": [
+    {
+      "name": "Declaración de parcela agrícola y ganadera en desuso",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de presunta existencia",
+          "description": "Agricultores, cooperativas o profesionales comunican la existencia de una parcela en desuso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Procedimiento de oficio y contacto",
+          "description": "La administración inicia el proceso y contacta al propietario para conocer las causas del desuso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Audiencia y periodo de información pública",
+          "description": "Se da audiencia al titular y se abre información pública.",
+          "start_date": null,
+          "end_date": "20 días",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución de declaración",
+          "description": "Dictado de la resolución por el Director General basada en informe técnico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Plazo de cumplimiento de función social",
+          "description": "Si tras 3 meses no se cambia la situación, la parcela pasa al Registro de forma definitiva.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adjudicación de parcelas en el Registro de desuso",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria pública",
+          "description": "Se realiza una convocatoria de concurrencia competitiva para el alquiler de las parcelas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Adjudicación de contrato",
+          "description": "Se adjudica la parcela mediante contrato de alquiler entre el propietario y el solicitante.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

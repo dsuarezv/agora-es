@@ -1,0 +1,94 @@
+{
+  "identifier": "BOE-A-1999-8723",
+  "title": "Ley 4/1999, de 31 de marzo, de Colegios Profesionales de La Rioja",
+  "visible_title": "Ley de Colegios Profesionales de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "4/1999",
+  "publication_date": "1999-04-20",
+  "enactment_date": "1999-03-31",
+  "last_updated": "2011-12-28",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/1999/03/31/4",
+  "official_journal": "Boletín Oficial de La Rioja",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para la creación, funcionamiento y regulación de los Colegios Profesionales que operan exclusivamente en La Rioja. Busca dotar a la Comunidad Autónoma de herramientas para supervisar el ejercicio de las profesiones tituladas y asegurar que los colegios cumplan su función de defensa del interés público. Define la naturaleza de estas entidades como corporaciones de derecho público y regula su relación con la Administración regional.",
+  "citizen_impact": "Garantiza que los profesionales que prestan servicios en La Rioja estén sujetos a normas éticas y de control, protegiendo al usuario de posibles malas prácticas. No impone trámites directos a los ciudadanos, salvo que estos requieran servicios específicos de un colegio (como un visado).",
+  "professional_impact": "Los profesionales titulados en La Rioja deben conocer las reglas de sus colegios, que ahora tienen un marco legal claro sobre disciplina, cuotas y funciones. Los colegiados tienen derecho a la libre elección de cargos y a la participación en sus órganos de gobierno, mientras que los profesionales de la UE tienen facilidades para ejercer sin colegiarse localmente si ya lo están en su país.",
+  "keywords": [
+    "Colegios Profesionales",
+    "La Rioja",
+    "Ejercicio profesional",
+    "Derecho Administrativo",
+    "Deontología",
+    "Corporaciones de Derecho Público"
+  ],
+  "key_points": [
+    "Los Colegios Profesionales en La Rioja son corporaciones de derecho público con personalidad jurídica propia.",
+    "Para crear un nuevo colegio se requiere una ley del Parlamento de La Rioja y la petición de la mayoría de los profesionales afectados.",
+    "Solo puede existir un Colegio Profesional por cada profesión en el territorio riojano.",
+    "La Administración puede encomendar a los colegios la gestión de servicios técnicos o materiales mediante convenio.",
+    "Los estatutos de los colegios deben ser calificados de legalidad por la Consejería competente en un plazo máximo de 3 meses.",
+    "Se establece el derecho de los profesionales de la UE a ejercer en La Rioja sin necesidad de colegiación adicional si ya están colegiados en su Estado miembro.",
+    "Los actos administrativos de los colegios pueden ser recurridos ante la jurisdicción contencioso-administrativa."
+  ],
+  "legal_references": [
+    "Ley 2/1974, de 13 de febrero",
+    "Ley 74/1978, de 26 de diciembre",
+    "Ley 7/1997, de 14 de abril",
+    "Ley Orgánica 3/1982, de 9 de junio",
+    "Ley Orgánica 2/1999, de 7 de enero",
+    "Real Decreto 1692/1994, de 22 de julio",
+    "Decreto 52/1994, de 22 de septiembre"
+  ],
+  "derogations": [],
+  "main_obligations": "Los colegios deben inscribir sus estatutos y modificaciones en el Registro de Colegios Profesionales de La Rioja. Los profesionales deben cumplir con las normas deontológicas y colegiales para evitar sanciones disciplinarias.",
+  "effective_date": "1999-05-10",
+  "procedures": [
+    {
+      "name": "Calificación de legalidad de los Estatutos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de Estatutos",
+          "description": "El Colegio comunica sus Estatutos o modificaciones a la Consejería competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Texto de los Estatutos o modificaciones"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de legalidad",
+          "description": "La Consejería debe emitir una resolución favorable o desfavorable (motivada).",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Inscripción y Publicación",
+          "description": "Si es favorable, se inscribe en el Registro y se publica en el Boletín Oficial de La Rioja.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Disciplinario",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción de expediente",
+          "description": "Se debe abrir un expediente contradictorio que garantice la defensa del profesional.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

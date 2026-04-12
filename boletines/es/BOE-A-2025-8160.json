@@ -1,0 +1,100 @@
+{
+  "identifier": "BOE-A-2025-8160",
+  "title": "Real Decreto 346/2025, de 22 de abril, por el que se establecen las bases de desarrollo de la normativa de la Unión Europea de sanidad animal, en lo relativo a las obligaciones de vigilancia del titular de la explotación",
+  "visible_title": "Obligaciones de vigilancia y visitas zoosaniatarias en explotaciones ganaderas",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de Agricultura, Pesca y Alimentación",
+  "official_number": "346/2025",
+  "publication_date": "2025-04-23",
+  "enactment_date": "2025-04-22",
+  "last_updated": "2025-04-23",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/04/22/346",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "98",
+  "summary": "Esta norma moderniza la vigilancia sanitaria en las granjas españolas para alinearse con la prevención de enfermedades y el enfoque 'One Health'. El cambio principal es la transformación de la figura del veterinario de explotación, que deja de ser obligatoria para pasar a ser voluntaria, aunque las visitas de un veterinario profesional siguen siendo exigibles según el riesgo. El objetivo es reducir la carga administrativa de los ganaderos sin perder el control sobre la sanidad, el bienestar animal y el uso de antibióticos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en la garantía indirecta de mayor seguridad alimentaria y control de enfermedades zoonóticas.",
+  "professional_impact": "Los ganaderos experimentan una reducción de cargas al no estar obligados a contratar un veterinario de explotación permanente, aunque deben garantizar las visitas periódicas. Los veterinarios mantienen su papel clave en las visitas zoosaniatarias y en la gestión de planes sanitarios. Se introducen beneficios y posibles incentivos para las explotaciones que decidan mantener la figura voluntaria del veterinario de explotación.",
+  "keywords": [
+    "sanidad animal",
+    "bienestar animal",
+    "explotaciones ganaderas",
+    "visitas zoosaniatarias",
+    "veterinario de explotación",
+    "antibióticos",
+    "bioseguidad"
+  ],
+  "key_points": [
+    "La figura del veterinario de explotación pasa de ser obligatoria a ser voluntaria para los titulares.",
+    "Se mantiene la obligatoriedad de realizar visitas zoosaniatarias periódicas por un veterinario colegiado.",
+    "La frecuencia de las visitas veterinarias se determinará según el nivel de riesgo de cada explotación.",
+    "Se busca reducir el uso de antibióticos mediante una vigilancia más estrecha y el asesoramiento profesional.",
+    "Se establecen beneficios e incentivos para las explotaciones que opten por la figura voluntaria del veterinario de explotación.",
+    "Se actualizan los umbrales y controles para combatir la resistencia antimicrobiana.",
+    "Se amplía el catálogo de especies sujetas a esta normativa, incluyendo acuicultura y especies cinegéticas criadas."
+  ],
+  "legal_references": [
+    "Reglamento (UE) 2016/429",
+    "Ley 44/2003",
+    "Real Decreto 364/2023",
+    "Ley 8/2003",
+    "Sentencia del Tribunal Constitucional 58/2015",
+    "Sentencia del Tribunal Supremo 1.457/2021",
+    "Real Decreto 306/2020",
+    "Ley de Libre Acceso a las Actividades de Servicio y su Ejercicio",
+    "Real Decreto 348/2000",
+    "Real Decreto 209/2002",
+    "Real Decreto 1135/2002",
+    "Real Decreto 1547/2004",
+    "Real Decreto 804/2011",
+    "Real Decreto 159/2023",
+    "Real Decreto 992/2022",
+    "Real Decreto 990/2022",
+    "Ley 39/2015"
+  ],
+  "derogatons": [
+    "Real Decreto 364/2023, de 16 de mayo",
+    "Artículo 2 del Real Decreto de 24 de abril de 1905"
+  ],
+  "main_obligations": "Los titulares deben garantizar la salud animal, el uso responsable de medicamentos y la realización de visitas zoosaniatarias según su nivel de riesgo. Deben comunicar a la autoridad cualquier deficiencia detectada en las visitas y autorizar al veterinario para acceder a la información epidemiológica y de prescripción de antibióticos (PRESVET).",
+  "effective_date": "2025-06-01",
+  "procedures": [
+    {
+      "name": "Designación o cese del profesional veterinario de explotación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación previa",
+          "descrption": "El titular o la entidad asociativa debe comunicar a la autoridad competente la designación o el cese del veterinario mediante el modelo del Anexo IV.",
+          "start_date": null,
+          "end_date": "7 días hábiles tras el cese",
+          "required_documentation": "Modelo de comunicación (Anexo IV) con datos de la explotación, titular y veterinario."
+        }
+      ]
+    },
+    {
+      "name": "Visita zoosaniataria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Realización de la visita",
+          "descrption": "El veterinario realiza una visita presencial para evaluar sanidad, higiene, bienestar y uso de medicamentos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Emisión del informe",
+          "descrption": "El profesional redacta un informe con hallazgos, recomendaciones y deficiencias detectadas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe de visita firmado por el veterinario y el titular."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

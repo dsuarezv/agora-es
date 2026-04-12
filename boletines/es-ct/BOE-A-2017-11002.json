@@ -1,0 +1,77 @@
+{
+  "identifier": "BOE-A-2017-11002",
+  "title": "Decreto-ley 5/2017, de 1 de agosto, de medidas urgentes para la ordenación de los servicios de transporte de viajeros en vehículos hasta nueve plazas",
+  "visible_title": "Medidas urgentes para la ordenación de los servicios de transporte de viajeros en vehículos hasta nueve plazas",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "5/2017",
+  "publication_date": "2017-09-28",
+  "enactment_date": "2017-08-01",
+  "last_updated": "2018-11-01",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2017/08/01/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma regula la actividad de alquiler de vehículos con conductor (VTC) en Cataluña para evitar la especulación con las licencias y garantizar la seguridad jurídica. Introduce la obligación de registrar digitalmente cada servicio para asegurar que se contraten previamente y no mediante captación en la calle. Además, establece la necesidad de un distintivo visual en los vehículos para facilitar el control y la identificación por parte del usuario.",
+  "citizen_impact": "Los usuarios de servicios tipo Uber o Cabify podrán identificar fácilmente los vehículos autorizados mediante un distintivo en el parabrisas. También se garantiza que estos servicios se contraten de antemano, evitando que los vehículos capten pasajeros de forma irregular en calles o estaciones.",
+  "professional_impact": "Las empresas de VTC deben registrar digitalmente cada viaje y portar un distintivo obligatorio en el vehículo. Se prohíbe la venta rápida de licencias (deben poseerlas al menos 2 años) para frenar la especulación. Los taxis también deben comunicar sus servicios cuando operen fuera de su municipio o en zonas específicas como puertos y aeropuertos.",
+  "keywords": [
+    "VTC",
+    "transporte de viajeros",
+    "alquiler de vehículos con conductor",
+    "Cataluña",
+    "transporte privado",
+    "licencias de transporte",
+    "movilidad"
+  ],
+  "key_points": [
+    "Las licencias VTC no pueden venderse si no se han poseído durante al menos dos años.",
+    "Creación de un Registro electrónico obligatorio para comunicar todos los servicios de alquiler con conductor.",
+    "Prohibición de captar pasajeros en la vía pública o en puntos de alta demanda (aeropuertos, estaciones, etc.).",
+    "Obligatoriedad de colocar un distintivo visual en el parabrisas delantero de los vehículos VTC.",
+    "Multa de 4.000 € por prestar servicios fuera del territorio de la comunidad de origen de forma habitual.",
+    "Multa de 2.000 € por no llevar el distintivo de identificación en el vehículo.",
+    "Multa de hasta 1.000 € por no comunicar los servicios al registro electrónico."
+  ],
+  "legal_references": [
+    "Ley 12/1987, de 28 de mayo",
+    "Ley 19/2003, de 4 de julio, del taxi",
+    "Estatuto de Autonomía de Cataluña",
+    "Real Decreto 1211/1990",
+    "Ley 13/2008, de 4 de julio"
+  ],
+  "derogations": [],
+  "main_obligations": "Las empresas VTC deben registrar cada servicio en la plataforma electrónica antes de realizarlo y portar un distintivo visible. Se prohíbe la captación de pasajeros en la calle. El incumplimiento de estas normas conlleva multas de hasta 4.000 € según la gravedad.",
+  "effective_date": "2017-09-29",
+  "procedures": [
+    {
+      "name": "Solicitud de distintivo VTC",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud del distintivo",
+          "descrption": "Las empresas deben solicitar el distintivo a los servicios territoriales de transporte.",
+          "start_date": "2017-09-29",
+          "end_date": "2 meses tras la entrada en vigor",
+          "required_documentation": "Acreditación de titularidad de autorizaciones VTC domiciliadas en Cataluña"
+        }
+      ]
+    },
+    {
+      "name": "Comunicación de servicios en el Registro Electrónico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación previa",
+          "descrption": "Inscripción digital de los datos del contrato y del servicio antes de su realización.",
+          "start_date": "2017-09-29",
+          "end_date": null,
+          "required_documentation": "Datos del contrato/hoja de ruta, DNI/CIF de arrendador y arrendatario, matrícula, fecha, hora y lugares de inicio y fin."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,95 @@
+{
+  "identifier": "BOE-A-2002-14084",
+  "title": "Ley 8/2002, de 23 de mayo, de Coordinación de Policías Locales de Castilla-La Mancha",
+  "visible_title": "Ley de Coordinación de Policías Locales de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "8/2002",
+  "publication_date": "2002-07-16",
+  "enactment_date": "2002-05-23",
+  "last_updated": "2023-03-03",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2002/05/23/8",
+  "official_journal": "Boletín Oficial de la Comunidad de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley establece un marco común para que todos los cuerpos de Policía Local de Castilla-La Mancha trabajen de forma coordinada y profesional. Busca homogeneizar uniformes, medios técnicos, formación y procesos de selección para evitar desigualdades entre municipios. Además, regula la figura de los Vigilantes Municipales y crea la Escuela de Protección Ciudadana para garantizar la capacitación constante de los agentes.",
+  "citizen_impact": "Mejora la seguridad ciudadana al garantizar que los agentes de cualquier municipio de la región tengan una formación y equipamiento estandarizados. Esto asegura una respuesta más profesional y coherente ante emergencias o situaciones de orden público.",
+  "professional_impact": "Los agentes de policía local pasan a un régimen estatutario más claro con nuevas escalas (Técnica, Ejecutiva y Básica). Se introducen figuras como la 'segunda actividad' para agentes que pierden aptitud física o alcanzan la edad de jubilación, y se facilita la movilidad y colaboración entre distintos municipios.",
+  "keywords": [
+    "Policía Local",
+    "Coordinación policial",
+    "Seguridad ciudadana",
+    "Castilla-La Mancha",
+    "Vigilantes Municipales",
+    "Formación policial"
+  ],
+  "key_points": [
+    "Creación de la Escuela de Protección Ciudadana para la formación obligatoria de los agentes.",
+    "Establecimiento de una estructura jerárquica común: Escala Técnica, Ejecutiva y Básica.",
+    "Regulación de la 'segunda actividad' para agentes que, por edad o salud, no puedan seguir en servicio activo ordinario.",
+    "Posibilidad de convenios de colaboración intermunicipal para que agentes de un municipio ayuden a otro en servicios de comisión.",
+    "Homogeneización de uniformes, medios técnicos y sistemas de identificación en toda la región.",
+    "Definición de los Vigilantes Municipales como personal de apoyo en municipios sin cuerpo de policía propio.",
+    "Creación de un Registro de Policías Locales de la Comunidad Autónoma."
+  ],
+  "legal_references": [
+    "Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad",
+    "Ley 2/1987, de 7 de abril, de Coordinación de Policías Locales de Castilla-La Mancha",
+    "Ley 30/1984, de 2 de diciembre, de Medidas para la Reforma de la Función Pública",
+    "Ley 2/2021, de 7 de mayo, de Medidas Económicas, Sociales y Tributarias frente a la Despoblación y para el Desarrollo del Medio Rural de Castilla-La Mancha",
+    "Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia"
+  ],
+  "derogations": [
+    "Ley 2/1987, de 7 de abril, de Coordinación de Policías Locales de Castilla-La Mancha",
+    "Ley 2/1990, de 18 de mayo, de Integración de Auxiliares en los Cuerpos de Policía Local"
+  ],
+  "main_obligations": "Los Ayuntamientos deben garantizar la formación de sus agentes a través de la Escuela de Protección Ciudadana y realizar evaluaciones de riesgos laborales específicas. Los agentes deben portar siempre su identificación y cumplir con los planes de tiro anuales obligatorios.",
+  "effective_date": "2002-07-16",
+  "procedures": [
+    {
+      "name": "Acceso a la categoría de Oficial (Promoción Interna)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requisitos de antigüedad y titulación",
+          "descrption": "Haber permanecido al menos 2 años en la categoría inferior y poseer la titulación exigida.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado de servicios prestados y títulos académicos."
+        },
+        {
+          "step": 2,
+          "title": "Curso selectivo",
+          "descrption": "Superar el curso de formación específico en la Escuela de Protección Ciudadana.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Pase a Segunda Actividad por edad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cumplimiento de edad límite",
+          "descrption": "Alcanzar la edad de 63 (Técnica), 58 (Ejecutiva) o 56 (Básica) años.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de aplazamiento (opcional)",
+          "descrption": "El interesado puede solicitar aplazar el pase con informe favorable del Tribunal Médico.",
+          "start_date": "2 meses antes del cumplimiento de la edad",
+          "end_date": null,
+          "required_documentation": "Informe del Tribunal Médico."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

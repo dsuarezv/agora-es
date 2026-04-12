@@ -1,0 +1,109 @@
+{
+  "identifier": "BOE-A-1989-12695",
+  "title": "Ley 4/1989, de 2 de mayo, de la Audiencia de Cuentas de Canarias",
+  "visible_title": "Ley de la Audiencia de Cuentas de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "4/1989",
+  "publication_date": "1989-06-05",
+  "enactment_date": "1989-05-02",
+  "last_updated": "2021-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/1989/05/02/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea la Audiencia de Cuentas de Canarias como el órgano encargado de fiscalizar externamente la gestión económica y financiera de todo el sector público canario. Su objetivo es garantizar que el dinero público se utilice con legalidad, eficiencia y transparencia, actuando bajo la dependencia del Parlamento de Canarias. La norma establece su estructura, funciones de control y la capacidad de investigar posibles irregularidades en el uso de fondos públicos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, más allá de la garantía indirecta de que los impuestos y fondos públicos de la comunidad sean auditados y gestionados correctamente.",
+  "professional_impact": "Afecta directamente a funcionarios de la administración autonómica y local, así como a directivos de empresas públicas y universidades. Estos profesionales están obligados a colaborar con la Audiencia, facilitando toda la documentación requerida bajo riesgo de sanciones o retenciones de pagos.",
+  "keywords": [
+    "Audiencia de Cuentas",
+    "fiscalización externa",
+    "sector público canario",
+    "control económico",
+    "auditoría",
+    "transparencia financiera",
+    "presupuestos"
+  ],
+  "key_points": [
+    "Creación de la Audiencia de Cuentas como órgano de control externo dependiente del Parlamento de Canarias.",
+    "Competencia para fiscalizar la gestión de la administración autonómica, entidades locales, universidades públicas y cualquier entidad que use fondos públicos canarios.",
+    "Capacidad de inspeccionar la contabilidad y exigir documentación a cualquier persona física o jurídica que reciba ayudas o subvenciones públicas.",
+    "Potestad de informar al Parlamento y al Gobierno ante infracciones graves que perjudiquen el interés público.",
+    "Posibilidad de realizar funciones judiciales por delegación del Tribunal de Cuentas.",
+    "Obligación de colaboración: la falta de respuesta a requerimientos puede derivar en la retención del 2% de los pagos debidos a la entidad infractora.",
+    "Composición del órgano por cinco consejeros auditores elegidos por el Parlamento con mandato de cinco años."
+  ],
+  "legal_references": [
+    "Constitución Española de 1978",
+    "Estatuto de Autonomía de Canarias (Ley Orgánica 10/1982)",
+    "Ley 7/1988, de 5 de abril, de Funcionamiento del Tribunal de Cuentas",
+    "Ley Orgánica 2/1982, de 12 de mayo, reguladora del Tribunal de Cuentas",
+    "Ley 7/1984, de 11 de diciembre, de la Hacienda Pública de la Comunidad Autónoma de Canarias"
+  ],
+  "derogations": [],
+  "main_obligations": "Las entidades del sector público y los beneficiarios de ayudas públicas están obligados a facilitar toda la información y documentación requerida por la Audiencia. En caso de no colaborar con la administración pública tras un requerimiento, se podrá retener el 2% de los pagos que correspondan a la entidad incumplidora.",
+  "effective_date": "1989-06-06",
+  "procedures": [
+    {
+      "name": "Procedimiento de Fiscalización",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación de la actuación",
+          "description": "La Audiencia o el Parlamento deciden iniciar una fiscalización tras un programa previo o petición.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Notificación de inicio",
+          "description": "Se comunica a los responsables de la entidad que será controlada.",
+          "start_date": null,
+          "end_date": "10 días antes del inicio de la actuación",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Examen y comprobación",
+          "description": "Inspección de libros, documentos, contabilidad y acceso a oficinas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación contable, expedientes y libros requeridos"
+        },
+        {
+          "step": 4,
+          "title": "Emisión de informe",
+          "description": "Se redacta el informe final con los resultados, legalidad y propuestas de mejora.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Rendición de Cuentas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la Cuenta General de la Comunidad Autónoma",
+          "description": "La administración debe presentar sus cuentas a la Audiencia.",
+          "start_date": null,
+          "end_date": "30 de junio del año siguiente al ejercicio",
+          "required_documentation": "Cuenta General"
+        },
+        {
+          "step": 2,
+          "title": "Examen de la Cuenta General",
+          "description": "La Audiencia procede al examen de la cuenta presentada.",
+          "start_date": null,
+          "end_date": "3 meses tras la presentación",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

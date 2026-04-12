@@ -1,0 +1,113 @@
+{
+  "identifier": "BOE-A-2022-7004",
+  "title": "Decreto Legislativo 1/2022, de 6 de abril, del Gobierno de Aragón, por el que se aprueba el texto refundido de la Ley del Presidente o Presidenta y del Gobierno de Aragón",
+  "visible_title": "Ley del Presidente o Presidenta y del Gobierno de Aragón",
+  "rank": "decreto legislativo",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "1/2022",
+  "publication_date": "2022-05-02",
+  "enactment_date": "2022-04-06",
+  "last_updated": "2022-04-20",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/dlg/2022/04/06/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma unifica en un solo texto todas las leyes anteriores que regulaban la estructura y funcionamiento del poder ejecutivo en Aragón. Su objetivo es simplificar el ordenamiento jurídico, aportando seguridad jurídica y utilizando un lenguaje inclusivo. Define las competencias del Presidente, los Vicepresidentes, los Consejeros y el funcionamiento del Gobierno.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que regula la organización interna de las instituciones del Gobierno de Aragón.",
+  "professional_impact": "Afecta directamente a los altos cargos, funcionarios y personal de la Administración autonómica, al definir sus atribuciones, regímenes de incompatibilidad y procesos de traspaso de poderes. Establece nuevos estándares de calidad normativa y transparencia que los técnicos deberán seguir al elaborar leyes y reglamentos.",
+  "keywords": [
+    "Gobierno de Aragón",
+    "Presidente de Aragón",
+    "organización institucional",
+    "capacidad normativa",
+    "traspaso de poderes",
+    "gobierno en funciones"
+  ],
+  "key_points": [
+    "Unificación de la normativa previa en un único texto refundido para evitar la dispersión legal.",
+    "Regulación detallada de las limitaciones y prohibiciones del Gobierno cuando se encuentra en funciones.",
+    "Establecimiento de un procedimiento estricto para el traspaso de poderes entre gobiernos tras unas elecciones.",
+    "Obligatoriedad de realizar consultas públicas previas para nuevas normas que afecten a la ciudadanía.",
+    "Introducción de principios de buena regulación (eficacia, proporcionalidad, seguridad jurídica) en la creación de leyes.",
+    "Exigencia de informes de impacto de género y de discapacidad en la elaboración de nuevas normas.",
+    "Implementación de un Plan Anual Normativo para planificar la actividad legislativa del Gobierno."
+  ],
+  "legal_references": [
+    "Ley 2/2009, de 11 de mayo",
+    "Ley 3/2012, de 8 de marzo",
+    "Ley 10/2012, de 27 de diciembre",
+    "Ley 2/2016, de 28 de enero",
+    "Ley 5/2017, de 1 de junio",
+    "Ley 18/2018, de 20 de diciembre",
+    "Ley 4/2021, de 29 de junio",
+    "Estatuto de Autonomía de Aragón"
+  ],
+  "derogations": [
+    "Ley 2/2009, de 11 de mayo, de el Presidente y del Gobierno de Aragón (y sus modificaciones)"
+  ],
+  "main_obligations": "Los departamentos deben justificar la necesidad y oportunidad de sus normas mediante memorias que incluyan análisis de impacto económico, social y de género. El Gobierno debe aprobar anualmente un Plan Normativo y publicar sus acuerdos en el Boletín Oficial de Aragón.",
+  "effective_date": "2022-05-03",
+  "procedures": [
+    {
+      "name": "Elaboración de normas (Procedimiento Ordinario)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Consulta pública previa",
+          "description": "Periodo para recabar opiniones de personas y organizaciones afectadas.",
+          "start_date": "Tras la aprobación de la orden de inicio",
+          "end_date": "Entre 15 y 30 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Elaboración del borrador y memoria",
+          "description": "Redacción del texto incluyendo memoria justificativa, económica y de impacto de género.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria justificativa, memoria económica, informe de impacto de género e informe de impacto por discapacidad"
+        },
+        {
+          "step": 3,
+          "title": "Información pública y audiencia",
+          "description": "Trámite para que los interesados presenten alegaciones.",
+          "start_date": null,
+          "end_date": "Mínimo 15 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación",
+          "description": "Decisión final del Gobierno o remisión a las Cortes para proyectos de ley.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria final"
+        }
+      ]
+    },
+    {
+      "name": "Traspaso de poderes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucciones del Gobierno en funciones",
+          "description": "El gobierno saliente dicta instrucciones para elaborar la documentación de traspaso.",
+          "start_date": "Inmediatamente después de la primera reunión tras el cese",
+          "end_date": null,
+          "required_documentation": "Relación de asuntos pendientes, estado de ejecución presupuestaria, situación de tesorería, obligaciones pendientes, contratos y concesiones"
+        },
+        {
+          "step": 2,
+          "title": "Examen de la documentación",
+          "description": "La comisión de traspaso o la Presidencia de las Cortes examinan la información.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,85 @@
+{
+  "identifier": "BOE-A-2012-13290",
+  "title": "Ley 7/2012, de 4 de octubre, de medidas extraordinas en el sector público de la Comunidad Autónoma de Aragón para garantizar la estabilidad presupuestaria",
+  "visible_title": "Medidas extraordinarias en el sector público de Aragón para la estabilidad presupuestaria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "7/2012",
+  "publication_date": "2012-10-26",
+  "enactment_date": "2012-10-04",
+  "last_updated": "2019-01-18",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2012/10/04/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley implementa recortes de gasto en el sector público de Aragón para cumplir con los objetivos de estabilidad presupuestaria exigidos por el Estado. La medida principal es la supresión de la paga extraordinaria de diciembre de 2012 para casi todo el personal público autonómico. Además, regula la permanencia en servicio activo de los funcionarios y limita ciertas subvenciones y contrataciones por motivos de ahorro económico.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes.",
+  "professional_impact": "Afecta drásticamente a los empleados públicos de Aragón (funcionarios, laborales, eventuales y altos cargos), quienes pierden la paga extraordinaria de diciembre de 2012. También impacta a los sindicatos, que ven suspendidas sus subvenciones para actividades durante el año 2012.",
+  "keywords": [
+    "estabilidad presupuestaria",
+    "recorte salarial",
+    "paga extraordinaria",
+    "sector público Aragón",
+    "funcionarios",
+    "gasto público"
+  ],
+  "key_points": [
+    "Supresión de la paga extraordinaria de diciembre de 2012 para el personal del sector público autonómico.",
+    "Reducción de una doceava parte de las retribuciones anuales para personal que no tiene paga extraordinaria establecida.",
+    "Reducción de un 1/14 de las retribuciones anuales para el Presidente y Consejeros del Gobierno de Aragón.",
+    "Exclusión de la medida para empleados con sueldos anuales inferiores a 1,5 veces el Salario Mínimo Interprofesional.",
+    "Suspensión de acuerdos y convenios colectivos que contradigan esta ley.",
+    "Suspensión de subvenciones para actividades sindicales durante el año 2012.",
+    "Nuevos criterios para solicitar la prolongación de la permanencia en el servicio activo hasta los 70 años.",
+    "Suspensión de la contratación de personal laboral fijo por cambio de categoría por motivos de salud durante 2012."
+  ],
+  "legal_references": [
+    "Real Decreto Ley 20/2012, de 13 de julio",
+    "Ley 2/2012, de 29 de junio, de Presupuestos Generales del Estado para el año 2012",
+    "Ley 5/2012, de 7 de junio, de Estabilidad Presupuestaria de Aragón",
+    "Ley Orgánica 2/2012, de 27 de abril, de estabilidad presupuestaria y sostenibilidad financiera",
+    "Real Decreto 1888/2011, de 30 de diciembre",
+    "Decreto 18/2011, de 8 de febrero",
+    "Ley de Ordenación de la Función Pública de la Comunidad Autónoma de Aragón (Decreto Legislativo 1/1991)",
+    "Ley 1/2012, de 20 de febrero, de Presupuestos de la Comunidad Autónoma de Aragón"
+  ],
+  "derogations": [
+    "Cualquier disposición de igual o inferior rango que se oponga a esta ley."
+  ],
+  "main_obligations": "El sector público de Aragón debe aplicar la reducción salarial en la nómina de diciembre de 2012. La Administración debe resolver de forma motivada en un mes las solicitudes de prolongación de servicio activo.",
+  "effective_date": "2012-10-26",
+  "procedures": [
+    {
+      "name": "Prolongación de la permanencia en el servicio activo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de permanencia",
+          "description": "El funcionario solicita seguir trabajando hasta los 70 años.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Reconocimiento médico que acredite aptitud funcional"
+        },
+        {
+          "step": 2,
+          "title": "Resolución administrativa",
+          "description": "La Administración debe dictar resolución motivada.",
+          "start_date": null,
+          "end_date": "1 mes desde la solicitud",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Revisión anual",
+          "description": "Revisión obligatoria de la concesión de la permanencia.",
+          "start_date": "3 meses tras la entrada en vigor de la ley",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

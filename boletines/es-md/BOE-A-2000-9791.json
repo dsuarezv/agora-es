@@ -1,0 +1,71 @@
+{
+  "identifier": "BOE-A-2000-9791",
+  "title": "Ley 3/2000, de 8 de mayo, de Medidas Urgentes Fiscales y Administrativas sobre los Juegos de Suerte, Envite y Azar y Apuestas en la Comunidad de Madrid",
+  "visible_title": "Medidas Fiscales y Administrativas sobre Juegos de Suerte, Envite, Azar y Apuestas en la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "3/2000",
+  "publication_date": "2000-05-26",
+  "enactment_date": "2000-05-08",
+  "last_updated": "2021-12-28",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2000/05/08/3",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta norma regula el control de los juegos de azar en la Comunidad de Madrid mediante la creación de un impuesto específico por la instalación de máquinas recreativas en hostelería. Su objetivo es evitar la proliferación desordenada de distintos tipos de juego en un mismo local, obligando a los establecimientos a elegir una sola modalidad. Además, busca dar estabilidad económica a los operadores mediante periodos de autorización de cinco años.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en la configuración de la oferta de ocio y juegos en los locales de hostelería de la región.",
+  "professional_impact": "Afecta directamente a empresarios de hostelería y empresas operadoras de máquinas de juego, quienes deben pagar un impuesto de 485€ por máquina cada cinco años. También impone la obligación de especializarse en una sola modalidad de juego por local y gestiona la renovación de autorizaciones cada cinco años.",
+  "keywords": [
+    "juegos de azar",
+    "máquinas recreativas",
+    "hostelería",
+    "impuesto",
+    "Comunidad de Madrid",
+    "apuestas"
+  ],
+  "key_points": [
+    "Creación de un impuesto por la instalación de máquinas recreativas en locales de hostelería.",
+    "La cuota del impuesto es de 485 euros por cada máquina instalada.",
+    "El impuesto se paga una sola vez cada cinco años.",
+    "Las autorizaciones para instalar máquinas tienen una vigencia de cinco años no renovables.",
+    "Prohibición de combinar distintas modalidades de juego en un mismo establecimiento de hostelería.",
+    "Los cambios de dueño en el local no anulan la autorización de las máquinas vigente."
+  ],
+  "legal_references": [
+    "Artículo 26.1.29 del Estatuto de Autonomía de la Comunidad de Madrid",
+    "Ley Orgánica 3/1983, de 25 de febrero",
+    "Ley Orgánica 5/1998, de 7 de julio",
+    "Ley 3/2021, de 22 de diciembre"
+  ],
+  "derogations": [
+    "Ley 3/2000, de 8 de mayo (derogada por la Ley 3/2021)"
+  ],
+  "main_obligations": "Los operadores deben pagar 485€ por máquina cada cinco años mediante declaración-liquidación en el mes siguiente al devengo. Los locales de hostelería deben limitarse a una sola modalidad de juego permitida.",
+  "effective_date": "2000-05-26",
+  "procedures": [
+    {
+      "name": "Liquidación del Impuesto sobre la instalación de máquinas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Devengo del impuesto",
+          "description": "El impuesto se genera al otorgar la autorización de instalación de máquinas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de la declaración-liquidación",
+          "description": "Presentación del modelo de liquidación y pago del impuesto.",
+          "start_date": "1 mes después del devengo",
+          "end_date": null,
+          "required_documentation": "Modelo de declaración-liquidación dictado por la Consejería de Hacienda"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

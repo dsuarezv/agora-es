@@ -1,0 +1,185 @@
+{
+  "identifier": "BOE-A-2003-8225",
+  "title": "Ley 11/2003, de 19 de marzo, de Protección Animal en la Comunidad Autónoma de Aragón",
+  "visible_title": "Ley de Protección Animal en Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "11/2003",
+  "publication_date": "2003-04-22",
+  "enactment_date": "2003-03-19",
+  "last_updated": "2023-04-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2003/03/19/11",
+  "official_journal": "Boletín Oficial de Aragón",
+  "summary": "Esta ley establece un marco de protección integral para animales de compañía, domésticos, de experimentación y fauna silvestre en Aragón. Su objetivo es erradicar el maltrato, el abandono y las peleas de animales mediante un sistema de control y sanciones estrictas. Introduce obligaciones de identificación y censos para dueños de mascotas y regula la actividad de los núcleos zoológicos. Además, impone sanciones económicas severas que pueden alcanzar los 150.253 euros para castigar infracciones muy graves.",
+  "citizen_impact": "Los dueños de mascotas deben cumplir con el censo municipal y la identificación obligatoria de sus perros. Se prohíbe estrictamente el abandono de animales, las peleas y el uso de métodos de sacrificio crueles. Los ciudadanos tienen la obligación de recoger los excrementos de sus animales en la vía pública y asegurarles asistencia veterinaria y condiciones de vida dignas.",
+  "professional_impact": "Los profesionales que manejen o realicen sacrificios de animales deben poseer un carné de cuidador o manipulador específico. Los propietarios de núcleos zoológicos requieren autorización previa para operar. Las empresas o personas que cometan infracciones graves pueden enfrentarse al decomiso de animales y herramientas, así como al cierre de sus instalaciones.",
+  "keywords": [
+    "protección animal",
+    "bienestar animal",
+    "Aragón",
+    "sanciones",
+    "censos de mascotas",
+    "maltrato animal",
+    "núcleos zoológicos"
+  ],
+  "key_points": [
+    "Obligatoriedad de identificación y censo municipal para perros.",
+    "Exigencia de carné de cuidador y manipulador para el manejo y sacrificio de animales.",
+    "Prohibición absoluta de peleas de animales (perros, gallos, etc.) en Aragón.",
+    "Prohibición de abandonar animales; deben entregarse en centros de recogida.",
+    "Regulación estricta de los núcleos zoológicos con necesidad de autorización previa.",
+    "Sistema de multas escalonadas: leves (60€-601€), graves (601€-6.010€) y muy graves (hasta 150.253€).",
+    "Prohibición de métodos de sacrificio crueles como ahogamiento, electrocución o cloroformo.",
+    "Posibilidad de decomiso de animales y herramientas en infracciones graves o muy graves.",
+    "Posibilidad de prohibición de tenencia de animales o cierre de instalaciones como sanción complementaria.",
+    "Fomento de la cría de razas autóctonas aragonesas.",
+    "Creación del Comité Consultivo para la Protección y Bienestar Animal."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Aragón",
+    "Declaración Universal de los Derechos del Animal (UNESCO)",
+    "Convenios de Washington, Berna y Bonn",
+    "Ley 11/2003, de 19 de marzo, de Protección Animal en la Comunidad Autónoma de Aragón",
+    "Código para el ejercicio de la profesión veterinaria",
+    "Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común"
+  ],
+  "derogations": [],
+  "main_obligations": "Los propietarios deben censar a sus perros en un plazo de 3 meses tras su adquisición y comunicar cualquier cambio de domicilio o fallecimiento en un máximo de 10 días. Es obligatorio garantizar condiciones higiénico-sanitarias adecuadas y no mantener animales atados permanentemente sin una longitud mínima de 3 veces su tamaño.",
+  "effective_date": "2003-05-22",
+  "procedures": [
+    {
+      "name": "Censo de perros",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inscripción en el ayuntamiento",
+          "description": "El poseedor debe inscribir al perro en el censo municipal de su residencia.",
+          "start_date": "Desde la adquisición",
+          "end_date": "3 meses",
+          "required_documentation": "Documentación acreditativa de la propiedad o posesión"
+        },
+        {
+          "step": 2,
+          "title": "Comunicación de cambios",
+          "description": "Notificar bajas por muerte, desaparición o cambios de domicilio.",
+          "start_date": "Desde el suceso",
+          "end_date": "10 días hábiles",
+          "required_documentation": "Documentación acreditativa de la inscripción censal"
+        }
+      ]
+    },
+    {
+      "name": "Recuperación de animales abandonados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Periodo de custodia para recuperación",
+          "description": "El animal permanece en el centro para que el dueño lo reclame.",
+          "start_date": "Desde la recogida",
+          "end_date": "3 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Periodo de adopción",
+          "description": "Plazo adicional para que el animal sea objeto de adopción por terceros.",
+          "start_date": "Tras finalizar el paso 1",
+          "end_date": "7 días hábiles",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Obtención del carné de cuidador y manipulador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de cursos",
+          "description": "El Departamento de Agricultura convoca cursos de capacitación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Superación de pruebas",
+          "description": "Realización y aprobación de pruebas para acreditar conocimientos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador Administrativo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Apertura del expediente por la autoridad competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Medidas provisionales (opcional)",
+          "description": "Clausura preventiva o decomiso para asegurar la eficacia de la resolución.",
+          "start_date": "En cualquier momento tras el inicio",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Instrucción y propuesta de resolución",
+          "description": "Elaboración de la propuesta con hechos, calificación legal y sanción.",
+          "start_date": null,
+          "end_date": "6 meses (plazo de caducidad)",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "Dictado de la sanción definitiva o archivo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de Autorización de Núcleo Zoológico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Registro de la solicitud ante el órgano competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución expresa",
+          "description": "La Administración debe notificar la decisión.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Silencio administrativo",
+          "description": "Si no hay respuesta en 6 meses, la solicitud se entiende desestimada.",
+          "start_date": "Tras el vencimiento de los 6 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

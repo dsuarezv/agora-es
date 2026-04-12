@@ -1,0 +1,299 @@
+{
+  "identifier": "BOE-A-2012-877",
+  "title": "Ley 14/2011, de 23 de diciembre, de Sociedades Cooperativas Andaluzas",
+  "visible_title": "Ley de Sociedades Cooperativas Andaluzas",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "14/2011",
+  "publication_date": "2012-01-20",
+  "enactment_date": "2011-12-23",
+  "last_updated": "2018-07-02",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2011/12/23/14",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y simplifica el funcionamiento de las cooperativas en Andalucía para hacerlas más competitivas. Introduce herramientas digitales para la gestión de asambleas y facilita la entrada de capital externo mediante la figura del inversor. Además, flexibiliza la gestión de las cooperativas de trabajo y permite modelos de voto más adaptados a la realidad de sectores como el agrario. En definitiva, busca reducir la burocracia y atraer inversión para fortalecer el modelo cooperativo andaluz.",
+  "citizen_impact": "Los trabajadores de cooperativas de trabajo ganan derechos al poder solicitar su ingreso como socios tras un año de contrato indefinido. Además, los socios de cooperativas de vivienda cuentan con mayores garantías de seguridad para sus adelantos mediante seguros o avales.",
+  "professional_impact": "Las empresas cooperativas deben adaptar sus estatutos a esta nueva normativa para evitar la disolución. Los administradores asumen responsabilidades claras en la gestión de cuentas y la dirección, mientras que los inversores externos ahora pueden participar con límites de voto específicos. Se introduce la posibilidad de digitalizar procesos societarios y de contar con profesionales externos en el Consejo Rector.",
+  "keywords": [
+    "cooperativas andaluzas",
+    "sociedad cooperativa",
+    "inversor",
+    "cooperativa de trabajo",
+    "derecho cooperativo",
+    "Andalucía",
+    "gestión societaria"
+  ],
+  "key_points": [
+    "Constitución simplificada: posibilidad de crear la cooperativa mediante registro telemático sin necesidad de escritura notarial.",
+    "Nueva figura del 'Inversor': permite la entrada de capital externo con un límite de voto del 25% y remuneración específica.",
+    "Digitalización societaria: uso de medios tecnológicos para convocatorias, información y votaciones en asambleas.",
+    "Flexibilidad en la administración: permite Administrador Único o Solidario en cooperativas de hasta 10 socios.",
+    "Reforma de cooperativas de trabajo: permite un periodo de prueba societario de hasta 12 meses y flexibiliza la contratación de personal ajeno.",
+    "Derecho de ingreso: los trabajadores con más de un año de contrato indefinido deben ser admitidos como socios si lo solicitan.",
+    "Voto plural: se permite en cooperativas de servicios (especialmente agrarias) de forma voluntaria por estatutos, pero nunca basado en el capital.",
+    "Gestión del Consejo Rector: puede integrar hasta un tercio de profesionales externos no socios.",
+    "Protección del capital: las aportaciones sociales de los socios son inembargables.",
+    "Límites en vivienda: en cooperativas de vivienda, una persona física no puede poseer más de dos viviendas en el mismo ámbito.",
+    "Régimen sancionador: multas de hasta 30.000 € y posible pérdida de la condición de cooperativa por infracciones muy graves.",
+    "Obligación de adaptación: las cooperativas existentes deben adaptar sus estatutos a esta ley para evitar la disolución."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 129.2)",
+    "Estatuto de Autonomía para Andalucía (art. 58.1.4.º y 172.2)",
+    "Ley 2/1985, de 2 de mayo",
+    "Ley 2/1999, de 31 de marzo",
+    "Ley de Auditoría de Cuentas",
+    "Ley 35/2011, de 4 de diciembre, sobre titularidad compartida de las explotaciones agrarias",
+    "Ley 38/1999, de 15 de junio, de Ordenación de la Edificación",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas",
+    "Ley 6/2006, de 24 de junio, del Gobierno de la Comunidad Autónoma de Andalucía"
+  ],
+  "derogatons": [
+    "Ley 2/1999, de 31 de marzo, de Sociedades Cooperativas Andaluzas",
+    "Decreto 367/1986, de 19 de noviembre, de organización y funcionamiento del Consejo Andaluz de Cooperación",
+    "Orden de la Consejería de Empleo y Desarrollo Tecnológico, de 9 de junio de 2003"
+  ],
+  "main_obligations": "Las cooperativas deben adaptar sus estatutos mediante acuerdo de la Asamblea General. Los administradores deben redactar las cuentas anuales en un plazo de 3 meses tras el cierre del ejercicio y las cooperativas deben inscribir el acta de la Asamblea Constituyente en el Registro en un máximo de 6 meses.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Constitución de la Sociedad Cooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Celebración de la Asamblea Constituyente",
+          "description": "Las personas promotoras se reúnen para aprobar estatutos y levantar acta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de la Asamblea Constituyente con estatutos sociales"
+        },
+        {
+          "step": 2,
+          "title": "Inscripción Registral",
+          "description": "Presentación del acta y documentos en el Registro de Cooperativas Andaluzas.",
+          "start_date": "Desde la celebración de la asamblea",
+          "end_date": "6 meses desde la asamblea",
+          "required_documentation": "Acta de la Asamblea y documentos reglamentarios"
+        },
+        {
+          "step": 3,
+          "title": "Inicio de actividad",
+          "description": "Comienzo de las operaciones sociales de la entidad.",
+          "start_date": "Desde la asamblea (con la mención 'en constitución')",
+          "end_date": "1 año desde la inscripción registral",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Admisión de nuevos socios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de admisión",
+          "description": "Presentación de solicitud por escrito al órgano de administración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud por escrito"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la administración",
+          "description": "El órgano de administración debe resolver, notificar y publicar el acuerdo.",
+          "start_date": null,
+          "end_date": "3 meses desde la presentación",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Formalización de la condición de socio",
+          "description": "Desembolso de aportaciones y pago de cuota de ingreso.",
+          "start_date": "Tras la notificación del acuerdo",
+          "end_date": "1 mes tras la notificación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Impugnación de acuerdos del Consejo Rector",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Manifestación de oposición",
+          "description": "El socio debe hacer constar su oposición al acuerdo en el acta de la sesión para tener legitimación.",
+          "start_date": "Durante la sesión del Consejo",
+          "end_date": null,
+          "required_documentation": "Acta de la sesión"
+        }
+      ]
+    },
+    {
+      "name": "Reembolso de aportaciones por baja del socio",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Liquidación de la aportación",
+          "description": "La cooperativa debe comunicar al socio la liquidación (deducciones e importe a devolver).",
+          "start_date": "Plazo de 1 mes desde la aprobación de cuentas del ejercicio de la baja",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Efectivización del pago",
+          "description": "Plazo máximo para el reembolso según el tipo de baja (1 año para baja justificada, hasta 5 años en exclusión).",
+          "start_date": "Desde la liquidación",
+          "end_date": "1 a 5 años según el caso",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acción de responsabilidad contra administradores",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de la Asamblea",
+          "description": "La Asamblea General debe acordar por mayoría simple iniciar la acción de responsabilidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Inicio de la acción judicial",
+          "description": "Si la Asamblea no actúa, cualquier socio puede ejercer la acción en nombre de la cooperativa.",
+          "start_date": "Tras 3 meses de inacción de la Asamblea",
+          "end_date": "2 meses después de la inacción",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reactivación de una cooperativa disuelta",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de Asamblea General",
+          "description": "La Asamblea General debe aprobar la reactivación con la mayoría prevista en los estatutos.",
+          "start_date": "Cuando desaparezca la causa de disolución",
+          "end_date": null,
+          "required_documentation": "Acta de la Asamblea General"
+        },
+        {
+          "step": 2,
+          "title": "Inscripción registral",
+          "description": "Inscribir el acuerdo en el Registro de Cooperativas.",
+          "start_date": "Tras el acuerdo",
+          "end_date": null,
+          "required_documentation": "Documentación reglamentaria"
+        }
+      ]
+    },
+    {
+      "name": "Liquidación de la sociedad cooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Nombramiento de liquidadores",
+          "description": "La Asamblea General nombra a las personas liquidadoras mediante votación secreta.",
+          "start_date": "En la misma Asamblea que adopta la disolución",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Ejecución de operaciones de liquidación",
+          "description": "Saldar deudas, reintegrar fondos y aportaciones siguiendo el orden legal.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Balance final y distribución del activo",
+          "description": "Elaboración del balance y proyecto de distribución para aprobación de la Asamblea.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Balance final y proyecto de distribución"
+        }
+      ]
+    },
+    {
+      "name": "Periodo de prueba societario",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Contraste de condiciones",
+          "description": "Periodo para evaluar la adecuación empresarial y societaria del aspirante.",
+          "start_date": null,
+          "end_date": "Máximo 12 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de estatutos sociales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de la Asamblea General",
+          "description": "La Asamblea debe aprobar la adaptación de los estatutos por mayoría simple.",
+          "start_date": "Desde la publicación del calendario de adaptación",
+          "end_date": null,
+          "required_documentation": "Acta de la Asamblea General"
+        },
+        {
+          "step": 2,
+          "title": "Inscripción en el Registro de Cooperativas",
+          "description": "Solicitud de inscripción de los nuevos estatutos tras la adaptación.",
+          "start_date": "Dentro de los 18 meses siguientes a la publicación del calendario",
+          "end_date": "18 meses tras la publicación del calendario",
+          "required_documentation": "Estatutos adaptados"
+        },
+        {
+          "step": 3,
+          "title": "Disolución de oficio",
+          "description": "Si no se adaptan los estatutos en plazo, la entidad se disuelve y entra en liquidación.",
+          "start_date": "Al finalizar el plazo de 18 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de descualificación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación del procedimiento",
+          "description": "Inicio del expediente administrativo sancionador por la autoridad competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución de descualificación",
+          "description": "Resolución dictada por la persona titular de la consejería competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Inscripción registral",
+          "description": "Anotación preventiva y posterior inscripción firme en el Registro de Cooperativas.",
+          "start_date": "Una vez la resolución sea firme",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 4
+}

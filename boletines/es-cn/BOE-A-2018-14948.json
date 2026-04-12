@@ -1,0 +1,108 @@
+{
+  "identifier": "BOE-A-2018-14948",
+  "title": "Ley 2/2018, de 28 de septiembre, de régimen jurídico de la Inspección Técnica de Vehículos en Canarias",
+  "visible_title": "Régimen jurídico de la Inspección Técnica de Vehículos en Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "2/2018",
+  "publication_date": "2018-11-01",
+  "enactment_date": "2018-09-28",
+  "last_updated": "2018-10-09",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2018/09/28/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo se gestionan y controlan las estaciones de ITV en Canarias, pasando de un modelo de concesiones a uno de autorización administrativa por libre competencia. Su objetivo es asegurar la continuidad del servicio tras el fin de las antiguas concesiones y garantizar la seguridad vial mediante un control más estricto. Además, establece un régimen sancionador específico para las empresas del sector y protege los derechos laborales de los trabajadores afectados por el cambio de modelo.",
+  "citizen_impact": "Los ciudadanos canarios podrán elegir entre más estaciones de ITV gracias al modelo de libre competencia, lo que busca reducir tiempos de espera y mejorar la calidad. También se garantiza que, incluso en islas con menos competencia, el servicio no se interrumpa y se mantengan estándares de calidad y precios regulados.",
+  "professional_impact": "Las empresas del sector deben operar bajo un régimen de autorización administrativa y cumplir con acreditaciones ISO específicas, bajo riesgo de sanciones elevadas. Los trabajadores de las antiguas concesiones tienen garantizada la subrogación de sus derechos laborales en los nuevos operadores que gestionen las instalaciones.",
+  "keywords": [
+    "ITV",
+    "Canarias",
+    "inspección técnica de vehículos",
+    "autorización administrativa",
+    "seguridad vial",
+    "concesiones",
+    "régimen sancionador"
+  ],
+  "key_points": [
+    "Cambio del modelo de concesión administrativa al de autorización administrativa por libre competencia.",
+    "Garantía de continuidad del servicio en las islas tras la extinción de las concesiones actuales.",
+    "Obligación de subrogación de los derechos laborales de los trabajadores en los nuevos adjudicatarios.",
+    "Las estaciones de ITV deben contar con acreditación UNE-EN ISO/IEC 17.020 para operar.",
+    "Creación de un régimen sancionador con multas que pueden alcanzar los 601.012,10 euros.",
+    "El Gobierno de Canarias tiene la potestad de asumir la gestión directa si no hay operadores privados interesados.",
+    "Se establece un control permanente de la administración sobre la calidad e imparcialidad de las inspecciones.",
+    "Los precios de las inspecciones deben ser regulados por el Gobierno y publicados para facilitar la elección del usuario."
+  ],
+  "legal_references": [
+    "Estatuto de Autoformía de Canarias",
+    "Decreto 94/1986",
+    "Decreto 93/2007",
+    "Real Decreto-ley 7/2000",
+    "Directiva 2014/45/UE",
+    "Directiva 2006/123/CE",
+    "Real Decreto 920/2017",
+    "Ley 6/2006",
+    "Estatuto de los Trabajadores (Real Decreto Legislativo 2/2015)"
+  ],
+  "derogations": [
+    "Decreto 93/2007, de 8 de mayo (en lo que se oponga a esta ley)"
+  ],
+  "main_obligations": "Las estaciones de ITV están obligadas a obtener autorización administrativa y acreditación ISO 17.020. Las empresas deben cumplir con los estándares de seguridad y medio ambiente, bajo riesgo de multas de hasta 601.012,10 euros por infracciones muy graves.",
+  "effective_date": "2018-11-02",
+  "procedures": [
+    {
+      "name": "Extinción de concesiones y reversión de bienes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Finalización de la concesión",
+          "description": "Vencimiento del contrato concesional actual.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Reversión de bienes",
+          "description": "Los terrenos, obras e instalaciones pasan a la Comunidad Autónoma sin derecho a indemnización.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de toma de posesión"
+        },
+        {
+          "step": 3,
+          "title": "Procedimiento patrimonial de adjudicación",
+          "description": "Tramitación para formalizar la gestión de los bienes con nuevos operadores.",
+          "start_date": "Con suficiente antelación a la finalización de la concesión",
+          "end_date": "Al finalizar la vigencia del contrato concesional",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Detección de la infracción y apertura de expediente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "description": "Plazo máximo para dictar y comunicar la sanción.",
+          "start_date": null,
+          "end_date": "1 año desde el inicio",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

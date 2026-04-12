@@ -1,0 +1,174 @@
+{
+  "identifier": "BOE-A-2010-5218",
+  "title": "Ley 1/2010, de 8 de marzo, Reguladora del Derecho a la Vivienda en Andalucía",
+  "visible_title": "Ley Reguladora del Derecho a la Vivienda en Andalucía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "1/2010",
+  "publication_date": "2010-03-30",
+  "enactment_date": "2010-03-08",
+  "last_updated": "2025-12-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2010/03/08/1",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley busca garantizar el acceso a una vivienda digna en Andalucía mediante estándares de calidad, sostenibilidad y accesibilidad. Implementa mecanismos para combatir la desocupación de inmuebles, permitiendo a la Administración detectar viviendas vacías a través de datos de suministros. Además, otorga a la Junta de Andalucía la capacidad de intervenir en la compra de viviendas de ejecuciones hipotecarias para destinarlas al alquiler social. También regula estrictamente la actividad de los agentes inmobiliarios para proteger al consumidor.",
+  "citizen_impact": "Los ciudadanos que busquen vivienda protegida deben estar inscritos en el Registro Público Municipal de Demandantes. Se refuerza la protección ante desahucios mediante un sistema de asesoramiento integral para personas vulnerables. Además, los inquilinos y compradores tienen mayor seguridad jurídica gracias a la regulación de los agentes inmobiliarios y el derecho de tanteo y retracto de la Administración.",
+  "professional_impact": "Las empresas (personas jurídicas) enfrentan sanciones si mantienen viviendas desocupadas, a diferencia de los particulares. Los agentes inmobiliarios deben estar inscritos en un registro, contar con seguro de responsabilidad civil y garantía permanente, y formalizar una 'nota de encargos' antes de publicar cualquier inmueble. Los notarios tienen la obligación de comunicar en un plazo de 10 días hábiles las transmisiones de viviendas sujetas a tanteo y retracto.",
+  "keywords": [
+    "vivienda digna",
+    "vivienda protegida",
+    "vivienda desocupada",
+    "agentes inmobiliarios",
+    "alquiler social",
+    "tanteo y retracto",
+    "Andalucía"
+  ],
+  "key_points": [
+    "Las viviendas deben cumplir estándares de sostenibilidad, eficiencia energética y accesibilidad para ser consideradas dignas.",
+    "Para acceder a vivienda protegida es necesario contar con 3 años de vecindad administrativa en Andalucía (salvo excepción municipal).",
+    "Se crea el Registro Público Municipal de Demandantes de Vivienda Protegida como requisito obligatorio para solicitar ayudas.",
+    "Una vivienda se considera deshabitada si no tiene uso residencial efectivo durante más de 6 meses consecutivos en un año, o si el consumo de agua es < 0,21 m³/mes o de luz < 24 kWh/mes.",
+    "Las entidades financieras y suministradoras de servicios están obligadas a facilitar datos de consumo para detectar viviendas vacías.",
+    "La Administración tiene derecho preferente de tanteo y retracto para comprar viviendas de ejecuciones hipotecarias o daciones en pago para alquiler social.",
+    "Los agentes inmobiliarios deben tener seguro de responsabilidad civil, garantía permanente y suscribir una 'nota de encargos' antes de la publicidad.",
+    "Se establece el Sistema Andaluz de Información y Asesoramiento Integral en Materia de Desahucios para personas vulnerables.",
+    "Las sanciones por infracciones de vivienda pueden ser solidarias entre los responsables.",
+    "Las personas jurídicas que mantengan viviendas deshabitadas pueden ser sancionadas."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 47)",
+    "Estatuto de Autonomía de Andalucía (arts. 25, 37, 56, 58)",
+    "Ley 7/2002, de 17 de diciembre, de Ordenación Urbanística de Andalucía",
+    "Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación",
+    "Real Decreto 314/2006, de 17 de marzo, por el que se aprueba el Código Técnico de la Edificación",
+    "Ley 13/2005, de 11 de mayo, de Medidas para la Vivienda Protegida y el Suelo",
+    "Ley 8/2006, de 24 de junio, del Estatuto de los Andaluces en el mundo",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley 1/2013, de 14 de mayo",
+    "Ley 39/2015, de 1 de octubre",
+    "Ley 1/1994, de 11 de enero (Ordenación del Territorio de Andalucía)",
+    "Decreto 225/2005, de 22 de diciembre",
+    "Decreto 1/2012, de 10 de enero"
+  ],
+  "derogatons": [
+    "Ley 1/2010 (derogada por la Ley 5/2025 con efectos desde el 24 de enero de 2026)",
+    "Plan Concertado de Vivienda y Suelo 2008-2012"
+  ],
+  "main_obligations": "Los ayuntamientos deben mantener el Registro Público Municipal de Demandantes de Vivienda Protegida. Los agentes inmobiliarios deben estar inscritos, tener seguro de RC y garantía. Los notarios deben comunicar las transmisiones de viviendas sujetas a tanteo/retrato en un plazo de 10 días hábiles.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Procedimiento para la declaración de vivienda deshabitada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del procedimiento",
+          "description": "La Consejería emite un acuerdo de inicio tras detectar indicios de no habitación.",
+          "start_date": "N/A",
+          "end_date": "N/A",
+          "required_documentation": "N/A"
+        },
+        {
+          "step": 2,
+          "title": "Trámite de audiencia",
+          "description": "Periodo para que los interesados aleguen y aporten pruebas.",
+          "start_date": "10 días desde la notificación",
+          "end_date": "10 días",
+          "required_documentation": "Alegaciones y pruebas"
+        },
+        {
+          "step": 3,
+          "title": "Ofrecimiento de medidas de fomento",
+          "description": "Se proponen medidas para facilitar el arrendamiento antes de sancionar (solo para personas físicas).",
+          "start_date": "Tras el trámite de audiencia",
+          "end_date": "1 mes para manifestar aceptación",
+          "required_documentation": "N/A"
+        },
+        {
+          "step": 4,
+          "title": "Resolución del procedimiento",
+          "description": "Decisión final que declara la vivienda como deshabitada e inscribe en el registro.",
+          "start_date": "N/A",
+          "end_date": "Máximo 1 año desde la incoación",
+          "required_documentation": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "Ejercicio del derecho de tanteo (Compra preferente)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de la oferta",
+          "description": "El interesado comunica a la Consejería la oferta de compra, precio y condiciones.",
+          "start_date": "Antes de la transmisión",
+          "end_date": null,
+          "required_documentation": "Documento con conformidad del transmitente"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de ejercicio de tanteo",
+          "description": "La Administración decide si compra la vivienda en las mismas condiciones.",
+          "start_date": "Desde el registro de la comunicación",
+          "end_date": "60 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Formalización",
+          "description": "Otorgamiento de escritura pública tras el requerimiento notarial.",
+          "start_date": "Tras el acuerdo de tanteo",
+          "end_date": "60 días naturales tras el requerimiento",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Ejercicio del derecho de retracto (Compra tras ejecución)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de la transmisión",
+          "description": "Se comunica la venta realizada tras un proceso de ejecución hipotecaria.",
+          "start_date": "Tras la transmisión",
+          "end_date": "30 días naturales",
+          "required_documentation": "Copia de la escritura o documento de formalización"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de ejercicio de retracto",
+          "description": "La Administración decide si compra la vivienda al precio pagado por el tercero.",
+          "start_date": "Desde la notificación o conocimiento fehaciente",
+          "end_date": "60 días naturales",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción de diligencias",
+          "description": "Averiguación de identidad, hechos y circunstancias para determinar la infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "El órgano competente dicta resolución de archivo, incoación o medidas.",
+          "start_date": "Desde el inicio del procedimiento",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

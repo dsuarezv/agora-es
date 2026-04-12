@@ -1,0 +1,107 @@
+{
+  "identifier": "BOE-A-2018-16678",
+  "title": "Ley 12/2018, de 15 de noviembre, de servicios a las personas en el ámbito social en la Comunidad Autónoma de las Illes Balears",
+  "visible_title": "Ley de servicios a las personas en el ámbito social de las Illes Balears",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "12/2018",
+  "publication_date": "2018-12-06",
+  "enactment_date": "2018-11-15",
+  "last_updated": "2025-10-25",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2018/11/15/12",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley establece cómo la administración de las Illes Balears puede colaborar con entidades privadas y del tercer sector para prestar servicios sociales. Introduce modelos de 'acción concertada' y reglas especiales de contratación para asegurar que la gestión no sea puramente mercantil, sino que priorice la calidad asistencial. El objetivo es crear una red de servicios públicos gestionada de forma flexible pero bajo control y financiación estatal.",
+  "citizen_impact": "Garantiza que los servicios sociales (como ayuda a domicilio o dependencia) mantengan su carácter público aunque los gestione una entidad privada. Asegura que la calidad de la atención sea la misma, ya sea en un centro público o concertado, y protege la libre elección del usuario y su arraigo en el territorio.",
+  "professional_impact": "Las entidades del Tercer Sector tienen prioridad en la adjudicación de servicios si ofrecen condiciones similares a las empresas con ánimo de lucro. Las empresas que liciten servicios sociales deben cumplir requisitos de solvencia técnica y profesional muy estrictos, y no pueden subcontratar la prestación principal. Los funcionarios responsables de los contratos asumen un rol de supervisión directa y constante de la calidad.",
+  "keywords": [
+    "servicios sociales",
+    "acción concertada",
+    "tercer sector",
+    "contratación pública",
+    "Illes Balears",
+    "dependencia",
+    "gestión de servicios"
+  ],
+  "key_points": [
+    "Prioridad de adjudicación a entidades sin ánimo de lucro (Tercer Sector) en igualdad de condiciones.",
+    "Creación de un régimen de 'acción concertada' para complementar el sistema público.",
+    "Prohibición de subcontratar la prestación principal de los servicios sociales contratados.",
+    "Los criterios de adjudicación deben priorizar la calidad y la experiencia sobre el precio (el precio no puede superar el 20% de la ponderación).",
+    "Establecimiento de una duración estándar de 6 años para los contratos de servicios sociales.",
+    "Obligación de garantizar la continuidad del servicio si la entidad concertada deja de prestarlo.",
+    "Regulación de la participación económica de los usuarios en servicios de dependencia según su capacidad económica.",
+    "Exigencia de solvencia técnica y profesional específica para licitadores."
+  ],
+  "legal_references": [
+    "Ley 4/2009, de 11 de junio, de servicios sociales de las Illes Balears",
+    "Ley 3/2018, de 29 de mayo, del Tercer Sector de Acción Social",
+    "Ley 9/2017, de 8 de noviembre, de contratos del sector público",
+    "Ley 39/2015, de 1 de octubre, del procedimiento administrativo común",
+    "Ley 40/2015, de 1 de octubre, de régimen jurídico de las administraciones públicas",
+    "Ley 39/2006, de 14 de diciembre, de promoción a la autonomía personal y atención a las personas en situación de dependencia",
+    "Directiva 2014/24/UE",
+    "Directiva 2014/23/UE"
+  ],
+  "derogations": [
+    "Todas las normas de igual o inferior rango que se opongan a esta ley."
+  ],
+  "main_obligations": "Las entidades concertadas deben someterse a controles de auditoría, calidad y protección de datos, además de presentar una planificación trienal de recursos humanos. Los contratistas deben garantizar la estabilidad laboral del personal asignado al servicio.",
+  "effective_date": "2018-12-26",
+  "procedures": [
+    {
+      "name": "Procedimiento de Acción Concertada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Planificación anual",
+          "description": "La administración realiza una previsión de servicios y justifica la necesidad de la concertación.",
+          "start_date": "Anualmente",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Convocatoria y selección",
+          "description": "Se inicia el procedimiento de selección de entidades basado en criterios de calidad y arraigo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación administrativa y registro de entidades"
+        },
+        {
+          "step": 3,
+          "title": "Formalización del acuerdo",
+          "description": "Firma del documento administrativo denominado 'acuerdo de acción concertada'.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Contratación Pública de Servicios Sociales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Licitación",
+          "description": "Publicación de pliegos con exigencias de solvencia técnica y profesional específicas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Adjudicación",
+          "description": "Selección basada en la relación calidad/precio, con ponderación de precio máxima del 20%.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

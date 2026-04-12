@@ -1,0 +1,90 @@
+{
+  "identifier": "BOE-A-2017-5627",
+  "title": "Ley 4/2017, de 28 de abril, por la que se regula la Rentas de Ciudadanía de La Rioja",
+  "visible_title": "Ley de la Renta de Ciudadanía de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "4/2017",
+  "publication_date": "2017-05-22",
+  "enactment_date": "2017-04-28",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2017/04/28/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea la Renta de Ciudadanía en La Rioja como una red de protección económica para personas y familias en situación de exclusión social o riesgo de ella. Su objetivo es cubrir necesidades básicas y fomentar la inserción laboral mediante un sistema que complementa otras ayudas y permite la compatibilidad con el trabajo a tiempo parcial. A diferencia de ayudas anteriores, no tiene un límite temporal de percepción mientras se mantengan los requisitos.",
+  "citizen_impact": "Las personas con bajos ingresos en La Rioja pueden solicitar una ayuda económica mensual para subsistir. El sistema es flexible: permite trabajar a tiempo parcial sin perder la ayuda por completo y facilita el acceso a colectivos vulnerables como víctimas de violencia de género o refugiados.",
+  "professional_impact": "Los servicios sociales y de empleo deben colaborar estrechamente para diseñar y supervisar los 'proyectos individuales de inserción'. Los funcionarios de servicios sociales de primer nivel asumen la carga de diagnosticar situaciones y realizar el seguimiento de los beneficiarios.",
+  "keywords": [
+    "renta de ciudadanía",
+    "exclusión social",
+    "ayuda económica",
+    "La Rioja",
+    "inserción laboral",
+    "servicios sociales",
+    "IPREM"
+  ],
+  "key_points": [
+    "Se establece como la última red de protección social, siendo subsidiaria de otras prestaciones.",
+    "Es compatible con trabajos a tiempo parcial y con ciertas pensiones de cuantía reducida.",
+    "La ayuda se mantiene de forma ininterrumpida mientras se cumplan los requisitos, sin plazos máximos de percepción.",
+    "Se introduce un concepto de unidad familiar flexible que permite la independencia en casos de violencia de género o desahucios.",
+    "El acceso está condicionado a la firma y cumplimiento de un proyecto individualizado de inserción social o laboral.",
+    "Las mujeres víctimas de violencia de género tienen un procedimiento de tramitación acelerado (un mes).",
+    "Se flexibilizan los requisitos de residencia para emigrantes retornados y personas refugiadas."
+  ],
+  "legal_references": [
+    "Ley 7/2009, de 22 de diciembre, de Servicios Sociales de La Rioja",
+    "Decreto 31/2011, de 29 de abril",
+    "Decreto 24/2001, de 20 de abril",
+    "Ley 1/2016, de 4 de abril, de impulso y consolidación del diálogo social en La Rioja",
+    "Ley 36/2011, de 10 de octubre, de la Jurisdicción Social"
+  ],
+  "derogations": [
+    "Prestaciones de inserción social reguladas por el Decreto 24/2001, de 20 de abril"
+  ],
+  "main_obligations": "Los beneficiarios deben destinar la ayuda a necesidades básicas, cumplir con las actividades de su proyecto de inserción, no ausentarse de La Rioja más de 30 días al año y comunicar cualquier cambio en su situación económica o familiar en un plazo de 15 días.",
+  "effective_date": "2017-06-26",
+  "procedures": [
+    {
+      "name": "Reconocimiento del derecho a la renta de ciudadanía",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud",
+          "description": "Presentación de la solicitud ante la administración competente aportando la documentación requerida.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación reglamentaria para acreditar residencia, ingresos y composición de la unidad familiar."
+        },
+        {
+          "step": 2,
+          "title": "Resolución estándar",
+          "description": "Plazo máximo para dictar y notificar la resolución.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución para víctimas de violencia de género",
+          "description": "Plazo reducido para la resolución de expedientes de mujeres víctimas de violencia de género.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Reclamación administrativa",
+          "description": "Plazo para interponer reclamación previa a la jurisdicción social en caso de denegación.",
+          "start_date": "Día siguiente a la notificación",
+          "end_date": "30 días",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

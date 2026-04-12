@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-2025-25914",
+  "title": "Circular 1/2025, de 15 de diciembre, del Comisionado para el Mercado de Tabacos, por la que se establecen las especialidades del procedimiento de autorización, modificación o alteración de modelos de máquinas expendedoras de productos de tabaco y se regula el funcionamiento del Registro de Máquinas Expendedoras",
+  "visible_title": "Regulación de la autorización y registro de máquinas expendedoras de tabaco",
+  "rank": "circular",
+  "country": "es",
+  "department": "Ministerio de Hacienda (Comisionado para el Mercado de Tabacos)",
+  "official_number": "1/2025",
+  "publication_date": "2025-12-18",
+  "enactment_date": "2025-12-15",
+  "last_updated": "2025-12-18",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/cir/2025/12/15/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "303",
+  "summary": "Esta norma establece las reglas estrictas para que las máquinas expendedoras de tabaco puedan operar legalmente en España. Define cómo deben solicitarse las autorizaciones de nuevos modelos o cambios en los existentes, y regula el funcionamiento del Registro de Máquinas Expendedoras. El objetivo es reforzar el control sobre la venta automática, garantizar que no se vendan otros productos y asegurar mecanismos que impidan el acceso a menores.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, más allá de reforzar la protección de menores mediante el control de los mecanismos de acceso a estas máquinas.",
+  "professional_impact": "Los fabricantes e importadores de máquinas de tabaco deben cumplir con nuevos trámites obligatorios de forma electrónica. Deberán solicitar autorizaciones previas para cada modelo, realizar comunicaciones trimestrales al Registro mediante archivos Excel y seguir modelos de solicitud específicos para evitar sanciones o la pérdida de la autorización.",
+  "keywords": [
+    "máquinas expendedoras",
+    "tabaco",
+    "autorización de modelos",
+    "Registro de Máquinas Expendedoras",
+    "Comisionado para el Mercado de Tabacos",
+    "control de menores"
+  ],
+  "key_points": [
+    "Obligatoriedad de autorización previa del Comisionado antes de comercializar o instalar cualquier modelo de máquina.",
+    "Prohibición absoluta de que las máquinas vendan cualquier producto que no sea tabaco.",
+    "Exigencia de mecanismos técnicos para impedir el acceso de menores de edad.",
+    "Obligación de incluir advertencias sanitarias visibles en castellano en la parte frontal.",
+    "Prohibición de publicidad o promoción de tabaco en la máquina, salvo la identificación del producto.",
+    "Los trámites de solicitud y comunicación deben realizarse exclusivamente por medios electrónicos.",
+    "Los fabricantes e importadores deben informar trimestralmente de las máquinas destinadas al mercado nacional.",
+    "El silencio administrativo tras tres meses sin respuesta se considerará como autorización concedida."
+  ],
+  "legal_references": [
+    "Ley 13/1998, de 4 de mayo, de Ordenación del Mercado de Tabacos y Normativa Tributaria",
+    "Real Decreto 1199/1999, de 9 de julio",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Ley 28/2005, de 26 de diciembre, de medidas sanitarias frente al tabaquismo",
+    "Real Decreto 2668/1998, de 11 de diciembre",
+    "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+    "Reglamento (UE) 2016/679"
+  ],
+  "derogations": [
+    "Resolución de 20 de septiembre de 2006, del Comisionado para el Mercado de Tabacos, sobre mecanismos técnicos para impedir el acceso de menores."
+  ],
+  "main_obligations": "Los fabricantes e importadores deben obtener autorización previa para cada modelo de máquina y realizar una comunicación trimestral de las unidades destinadas al territorio nacional mediante fichero Excel. Cualquier modificación en un modelo autorizado requiere una nueva solicitud electrónica.",
+  "effective_date": "2026-01-02",
+  "procedures": [
+    {
+      "name": "Autorización de modelos de máquinas expendedoras",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El interesado presenta el modelo de solicitud (Anexo I) por vía electrónica en la sede del Comisionado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Modelo de solicitud Anexo I y, si se requiere, un modelo físico de la máquina."
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "El Comisionado dicta resolución de concesión o denegación.",
+          "start_date": null,
+          "end_date": "3 meses desde la entrada de la solicitud",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Modificación o alteración de modelos autorizados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de modificación",
+          "description": "Presentación electrónica del modelo de solicitud (Anexo II) para cambios en modelos ya autorizados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Modelo de solicitud Anexo II y consentimiento de titulares de derechos de diseño o marca."
+        }
+      ]
+    },
+    {
+      "name": "Inscripción en el Registro de Máquinas Expendedoras",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación trimestral",
+          "description": "Los fabricantes e importadores deben comunicar las máquinas destinadas al territorio nacional.",
+          "start_date": "Trimestralmente",
+          "end_date": null,
+          "required_documentation": "Modelo de comunicación Anexo III en formato Excel (XLSX)."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

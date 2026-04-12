@@ -1,0 +1,97 @@
+{
+  "identifier": "BOE-A-2014-11992",
+  "title": "Ley 13/2014, de 30 de octubre, de accesibilidad",
+  "visible_title": "Ley de accesibilidad",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "13/2014",
+  "publication_date": "2014-11-20",
+  "enactment_date": "2014-10-30",
+  "last_updated": "2020-04-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2014/10/30/13",
+  "official_journal": "DOGC / BOE",
+  "journal_issue": null,
+  "summary": "Esta ley busca eliminar las barreras que impiden a las personas con discapacidad disfrutar de su entorno y servicios en igualdad de condiciones. Establece que todo nuevo edificio, transporte o servicio público debe diseñarse bajo el principio de diseño universal. Además, garantiza derechos fundamentales como la elección de métodos educativos adaptados o el acceso a información en formatos como Braille o lectura fácil. La norma también introduce herramientas de movilidad como la tarjeta de estacionamiento europea y un régimen de sanciones severas para quienes obstaculicen estos derechos.",
+  "citizen_impact": "Garantiza que las personas con discapacidad puedan desplazarse, estudiar y recibir información de forma autónoma. Los ciudadanos podrán beneficiarse de una mayor accesibilidad en edificios nuevos, transporte y servicios públicos. Además, se facilita la movilidad europea mediante la tarjeta de estacionamiento para personas con discapacidad y se protege el derecho a la vivienda mediante reservas en promociones de protección oficial.",
+  "professional_impact": "Arquitectos, constructores y promotores deben aplicar el diseño universal en nuevas obras y rehabilitaciones, sin que los elementos de accesibilidad computen para el límite de ocupación. Las administraciones públicas están obligadas a crear planes de accesibilidad con participación ciudadana y destinar presupuesto anual a la eliminación de barreras. Las empresas de servicios y medios de comunicación deben adaptar sus contenidos y formatos (subtitulado, audiodescripción, Braille).",
+  "keywords": [
+    "accesibilidad",
+    "discapacidad",
+    "diseño universal",
+    "barreras arquitectónicas",
+    "vivienda protegida",
+    "tarjeta de estacionamiento",
+    "derechos fundamentales"
+  ],
+  "key_points": [
+    "Obligatoriedad de diseño universal en toda nueva edificación y espacios públicos.",
+    "Reserva de un porcentaje de viviendas en promociones de protección oficial para personas con discapacidad.",
+    "Exigencia de itinerarios peatonales accesibles en nuevas construcciones y grandes rehabilitaciones.",
+    "Derecho a elegir modalidades educativas adaptadas (oral o lengua de signos) para alumnos con discapacidad auditiva.",
+    "Obligación de ofrecer información en formatos accesibles (Braille, lectura fácil, letra ampliada) en servicios públicos.",
+    "Integración progresiva de audiodescripción y subtitulado en medios audiovisuales.",
+    "Creación de la tarjeta de estacionamiento europea para personas con discapacidad.",
+    "Los ascensores y elementos de accesibilidad no computan para el límite de ocupación o volumen edificable.",
+    "Los municipios deben elaborar planes de accesibilidad con participación ciudadana obligatoria.",
+    "Las comunidades de propietarios pueden exigir servidumbres en elementos privados para instalar accesibilidad.",
+    "Sanciones de hasta 300.000 euros por infracciones muy graves como el acoso o la obstrucción de derechos.",
+    "Obligación de mantener la accesibilidad mediante planes de mantenimiento preventivo y correctivo."
+  ],
+  "legal_references": [
+    "Decreto 100/1984",
+    "Ley 20/1991",
+    "Decreto 135/1995",
+    "Convenio de las Naciones Unidas sobre los derechos de las personas con discapacidad",
+    "Estrategia europea sobre discapacidad 2010-2020",
+    "Ley 51/2003",
+    "Ley 49/2007",
+    "Real decreto legislativo 1/2013",
+    "Ley 12/2007",
+    "Ley 17/2010",
+    "Ley 18/2007",
+    "Ley 19/2009",
+    "Real Decreto legislativo 5/2000"
+  ],
+  "derogations": [
+    "Ley 20/1991, de 25 de noviembre, de promoción de la accesibilidad y de supresión de barreras arquitectónicas",
+    "Decreto legislativo 6/1994, de 13 de julio"
+  ],
+  "main_obligations": "Los edificios plurifamiliares deben realizar obras de adecuación en zonas comunes en un plazo de 1 a 2 años según la magnitud. Los promotores de vivienda de protección oficial deben reservar un porcentaje de unidades para personas con discapacidad y las administraciones deben destinar presupuesto anual a la supresión de barreras.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Adecuación de zonas comunes en edificios plurifamiliares",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de la comunidad",
+          "description": "La comunidad de propietarios debe acordar la realización de las obras de adecuación.",
+          "start_date": "Fecha del acuerdo",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Ejecución de obras menores",
+          "description": "Plazo máximo para completar las obras de adecuación si se consideran menores.",
+          "start_date": "Fecha del acuerdo",
+          "end_date": "1 año",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ejecución de obras mayores",
+          "description": "Plazo máximo para completar las obras de adecuación si se consideran mayores.",
+          "start_date": "Fecha del acuerdo",
+          "end_date": "2 años",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

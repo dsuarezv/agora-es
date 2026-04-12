@@ -1,0 +1,154 @@
+{
+  "identifier": "BOE-A-2016-729",
+  "title": "Ley 10/2015, de 23 de diciembre, de Espectáculos Públicos y Actividades Recreativas",
+  "visible_title": "Ley de Espectáculos Públicos y Actividades Recreativas",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "10/2015",
+  "publication_date": "2016-01-27",
+  "enactment_date": "2015-12-23",
+  "last_updated": "2016-01-07",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2015/12/23/10",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y simplifica la gestión del ocio en el País Vasco, facilitando la apertura de negocios de bajo riesgo mediante comunicaciones previas. Busca un equilibrio entre el dinamismo empresarial y el bienestar vecinal, garantizando la seguridad en eventos y el derecho al descanso. Introduce controles más estrictos para evitar la reventa y asegurar que los locales cumplan con la normativa de ruido y aforo. Además, refuerza la capacidad de inspección de las autoridades para actuar de inmediato ante riesgos de seguridad.",
+  "citizen_impact": "Los ciudadanos ganan derechos claros: devolución de dinero si un espectáculo cambia o se cancela, y derecho a que la administración verifique ruidos si hay molestias. También se protege contra la reventa abusiva de entradas y se garantiza un trato no discriminatorio en el derecho de admisión.",
+  "professional_impact": "Las empresas del sector ven reducida la carga burocrática en actividades de bajo riesgo, pero asumen mayores responsabilidades de seguridad (seguros, planes de autoprotección) y una responsabilidad solidaria por las infracciones de su personal o público. Los inspectores cuentan con mayores poderes para realizar controles sin aviso y clausurar locales ante peligros inminentes.",
+  "keywords": [
+    "espectáculos públicos",
+    "ocio",
+    "actividades recreativas",
+    "seguridad eventos",
+    "derecho de admisión",
+    "inspección ocio",
+    "País Vasco"
+  ],
+  "key_points": [
+    "Simplificación de trámites: sustitución de licencias por comunicación previa para actividades de bajo riesgo.",
+    "Derecho a la devolución del dinero si un espectáculo se modifica sustancialmente o se suspende.",
+    "Derecho de los vecinos a solicitar pruebas técnicas ante denuncias de ruido.",
+    "Obligación de contar con seguro de responsabilidad civil y plan de autoprotección.",
+    "Prohibición de la reventa con recargo y de la venta encubierta de entradas.",
+    "Control estricto de aforo y sistemas de conteo obligatorio para locales con más de 700 personas.",
+    "Inspecciones sin previo aviso, incluyendo ensayos y actos preparatorios.",
+    "Facultad de clausura y precintado inmediato ante peligro inminente sin audiencia previa.",
+    "Posibilidad de decomiso de bienes y dinero en actividades no autorizadas.",
+    "El ejercicio abusivo o discriminatorio del derecho de admisión es una infracción muy grave.",
+    "Responsabilidad solidaria de los organizadores por infracciones de su personal o público.",
+    "Creación de un registro autonómico de sanciones para controlar la reincidencia."
+  ],
+  "legal_references": [
+    "Ley 4/1995, de 10 de noviembre, de Espectáculos Público de la Comunidad Autónoma del País Vasco",
+    "Directiva 2006/123/CE del Parlamento Europeo y del Consejo",
+    "Ley 7/2012, de 23 de diciembre, de modificación de diversas leyes para su adaptación a la Directiva 2006/123/CE",
+    "Ley 3/1998, de 27 de febrero, General de Protección del Medio Ambiente del País Vasco",
+    "Ley 15/2012, de 28 de junio, de Ordenación del Sistema de Seguridad Pública de Euskadi",
+    "Ley 2/1998, de 20 de febrero, de la Potestad Sancionadora de las Administraciones Públicas de la Comunidad Autónoma del País Vasco",
+    "Ley General de Protección del Medio Ambiente del País Vasco (Ley 3/1998)",
+    "Decreto Legislativo 1/2007, de 13 de enero, de aprobación del texto refundido de la Ley de Tasas y Precios Públicos"
+  ],
+  "derogations": [
+    "Ley 4/1995, de 10 de noviembre, de Espectáculos Público de la Comunidad Autónoma del País Vasco"
+  ],
+  "main_obligations": "Los titulares deben mantener locales en perfecto estado, disponer de hojas de reclamaciones, cumplir la normativa de accesibilidad y asegurar la protección de menores. Los organizadores deben contar con seguro de responsabilidad civil, plan de autoprotección e identificar claramente al responsable del evento.",
+  "effective_date": "2016-01-28",
+  "procedures": [
+    {
+      "name": "Apertura de establecimientos públicos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de licencia o comunicación previa",
+          "description": "Presentación de la solicitud ante el ayuntamiento según la naturaleza de la actividad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado de seguro de responsabilidad civil y documentación de autoprotección."
+        },
+        {
+          "step": 2,
+          "title": "Trámite de informe autonómico (si aplica)",
+          "description": "En locales de más de 700 personas o de régimen especial, el ayuntamiento debe consultar al Gobierno Vasco.",
+          "start_date": "15 días desde el inicio del expediente",
+          "end_date": "1 mes desde la recepción de documentos",
+          "required_documentation": "Proyectos técnicos y documentación del expediente."
+        }
+      ]
+    },
+    {
+      "name": "Organización de espectáculos ocasionales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de comunicación previa",
+          "description": "Notificación a la administración para actividades no habituales.",
+          "start_date": "Mínimo 10 días antes del evento",
+          "end_date": null,
+          "required_documentation": "Datos del organizador, tipo de espectáculo, horario, aforo y lugar."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de autorización (si requiere trámite)",
+          "description": "Plazo para resolver solicitudes de autorización en espacios abiertos o eventos especiales.",
+          "start_date": null,
+          "end_date": "3 meses (si no hay regulación específica)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inspección y levantamiento de acta",
+          "description": "Comprobación de condiciones y redacción de acta donde el interesado puede reflejar su disconformidad.",
+          "start_date": "En el momento de la inspección",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comunicación de irregularidades",
+          "description": "El inspector comunica los hallazgos al órgano competente para iniciar el expediente.",
+          "start_date": "Tras la inspección",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución del procedimiento",
+          "description": "El procedimiento debe ser resuelto y notificado en un plazo máximo de un año.",
+          "start_date": "Desde la iniciación",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Medidas Cautelares de Urgencia (por inspectores)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adopción de medida excepcional",
+          "description": "El inspector impone la medida (clausura, decomiso, etc.) sin audiencia previa ante peligro inminente.",
+          "start_date": "En el momento de la constatación del peligro",
+          "end_date": null,
+          "required_documentation": "Acta de inspección con causa y finalidad"
+        },
+        {
+          "step": 2,
+          "title": "Ratificación de la autoridad",
+          "description": "La medida debe ser ratificada por la autoridad competente para no perder vigencia.",
+          "start_date": "Desde la adopción de la medida",
+          "end_date": "48 horas",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

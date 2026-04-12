@@ -1,0 +1,239 @@
+{
+  "identifier": "BOE-A-2003-8799",
+  "title": "Ley 11/2003, de 8 de abril, de Prevención Ambiental de Castilla y León",
+  "visible_title": "Ley de Prevención Ambiental de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "11/2003",
+  "publication_date": "2003-04-30",
+  "enactment_date": "2003-04-08",
+  "last_updated": "2015-11-13",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2003/04/08/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza el control de la contaminación en Castilla y León mediante un sistema de tres niveles según el impacto ambiental de la actividad. Introduce la 'Declaración Responsable' para agilizar el inicio de actividades de bajo impacto y unifica trámites para las grandes industrias mediante la Autorización Ambiental Integrada. Además, establece reglas estrictas sobre modificaciones de proyectos, la responsabilidad de los técnicos que redactan estudios ambientales y el régimen de inspección. El objetivo es simplificar la burocracia para actividades menores mientras se endurece la vigilancia sobre las que presentan mayores riesgos.",
+  "citizen_impact": "Para el ciudadano común, el impacto es indirecto pero relevante en la protección de su entorno, ya que garantiza que las industrias locales operen bajo controles ambientales estrictos. En el ámbito administrativo, la ley facilita que pequeños emprendedores comiencen su actividad más rápido gracias a la declaración responsable.",
+  "professional_impact": "Las empresas deben adaptarse a nuevos protocolos de notificación anual de emisiones y cumplir con requisitos específicos según su nivel de impacto. Los técnicos y redactores de estudios ambientales asumen una responsabilidad directa sobre la veracidad de los datos. Los titulares de instalaciones deben vigilar que cualquier modificación que aumente un 50% sus emisiones sea evaluada previamente para evitar sanciones o clausuras.",
+  "keywords": [
+    "prevención ambiental",
+    "Castilla y León",
+    "autorización ambiental integrada",
+    "declaración responsable",
+    "impacto ambiental",
+    "control de emisiones",
+    "licencia ambiental"
+  ],
+  "key_points": [
+    "Creación de la Autorización Ambiental Integrada para unificar trámites de actividades de alto impacto.",
+    "Implementación de la 'Declaración Responsable' para permitir el inicio inmediato de actividades de bajo impacto tras presentar documentación.",
+    "Descentralización: los Ayuntamientos gestionan licencias ambientales y actividades de bajo impacto.",
+    "Obligación de informar anualmente sobre los datos de emisiones para los titulares de instalaciones.",
+    "Cualquier modificación de proyecto que aumente en más de un 50% emisiones, vertidos o residuos requiere nueva evaluación de impacto.",
+    "Responsabilidad directa de los redactores de estudios ambientales sobre la fiabilidad de los datos.",
+    "El cese temporal de una actividad no puede superar los 4 años sin perder la licencia ambiental.",
+    "Los inspectores pueden acceder a las instalaciones sin previo aviso.",
+    "Responsabilidad solidaria entre el anterior y el nuevo titular en caso de transmisión de actividad sin comunicación.",
+    "Diferenciación entre modificaciones sustanciales (requieren trámite) y no sustanciales (silencio administrativo tras un mes).",
+    "Las actividades sin autorización o licencia pueden ser clausuradas si no son legalizables.",
+    "La Administración puede ejecutar por cuenta del titular las medidas correctoras si estas no se cumplen."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 45 y 149.1.23)",
+    "Directiva 96/61/CE",
+    "Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación",
+    "Estatuto de Auto-nomía de Castilla y León",
+    "Ley 5/1993, de 21 de octubre, de Actividades Clasificadas de Castilla y León",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas",
+    "Ley 10/1998, de 21 de abril, de residuos",
+    "Ley 12/2012, de 26 de diciembre, de medidas urgentes de liberalización del comercio y de determinados servicios"
+  ],
+  "derogations": [
+    "Ley 5/1993, de 21 de octubre, de Actividades Clasificadas de Castilla y León",
+    "Ley 8/1994, de 24 de junio, de Evaluación de Impacto Ambiental y Auditorías Ambientales de Castilla y León",
+    "Reglamento de Actividades Molestas, Insalubres, Nocivas y Peligrosas (Decreto 2414/1961)",
+    "Texto refundido de la Ley de Evaluación de Impacto Ambiental y Auditorías Ambientales de Castilla y León"
+  ],
+  "main_obligations": "Los titulares deben comunicar el inicio de actividad mediante declaración responsable y notificar anualmente sus emisiones. Es obligatorio informar inmediatamente de fallos que causen daños o cierres superiores a 6 meses, así como comunicar cualquier cese temporal o definitivo.",
+  "effective_date": "2003-05-30",
+  "procedures": [
+    {
+      "name": "Autorización Ambiental",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud",
+          "description": "Presentación de solicitud ante la Consejería o Delegación Territorial con proyecto básico y estudio de impacto ambiental si procede.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto básico, estudio de impacto ambiental, justificación de tecnología y fichas de seguridad."
+        },
+        {
+          "step": 2,
+          "title": "Información Pública",
+          "description": "Exposición del expediente para alegaciones de la ciudadanía.",
+          "start_date": "30 días",
+          "end_date": "30 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informes Preceptivos",
+          "description": "Solicitud simultánea de informes a órganos competentes (Ayuntamiento, organismos de cuenca, etc.).",
+          "start_date": "Tras la información pública",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Audiencia",
+          "description": "Trámite de audiencia al solicitante y vecinos colindantes tras las alegaciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Resolución",
+          "description": "Dictado de la resolución final por la autoridad competente.",
+          "start_date": "Plazo máximo de 9 meses",
+          "end_date": "9 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Licencia Ambiental",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud",
+          "description": "Presentación de solicitud ante el Ayuntamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto básico, memoria comprensible y declaración responsable de autorizaciones previas."
+        },
+        {
+          "step": 2,
+          "title": "Información Pública",
+          "description": "Exposición en el Boletín Provincial y tablón de edictos.",
+          "start_date": "10 días",
+          "end_date": "10 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informes y Audiencia",
+          "description": "Solicitud de informes técnicos y trámite de audiencia al solicitante y vecinos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "Dictado de la resolución por el Alcalde.",
+          "start_date": "Plazo máximo de 2 meses",
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inicio de Actividad (Comunicación)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de Declaración Responsable",
+          "description": "Comunicación de puesta en marcha tras obtener la autorización o licencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificación del técnico director y certificación de organismo de control ambiental."
+        },
+        {
+          "step": 2,
+          "title": "Habilitación para el ejercicio",
+          "description": "La actividad queda habilitada para operar desde el día de la presentación.",
+          "start_date": "Inmediato",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Evaluación de Impacto Ambiental (Ordinaria o Simplificada)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inicio",
+          "description": "Presentación del proyecto y el estudio de impacto ambiental.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudio de impacto ambiental o documento ambiental del proyecto."
+        },
+        {
+          "step": 2,
+          "title": "Información pública y consultas",
+          "description": "Trámite de exposición pública y consultas a órganos pertinentes.",
+          "start_date": "Tras la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Emisión de la Declaración de Impacto Ambiental (ordinaria) o Informe de Impacto Ambiental (simplificada).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Comunicación Ambiental",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Finalización de obras",
+          "description": "Las obras deben estar terminadas y contar con permiso urbanístico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de comunicación",
+          "description": "Presentación ante el Ayuntamiento antes del inicio de la actividad.",
+          "start_date": "Tras finalizar obras",
+          "end_date": "Antes del inicio de la actividad",
+          "required_documentation": "Descripción de instalaciones, memoria ambiental con emisiones y medidas correctoras."
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Detección de infracción por inspección o denuncia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "description": "Plazo máximo para resolver y notificar la sanción.",
+          "start_date": "Desde el inicio",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

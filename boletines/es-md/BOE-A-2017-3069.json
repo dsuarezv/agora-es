@@ -1,0 +1,92 @@
+{
+  "identifier": "BOE-A-2017-3069",
+  "title": "Ley 6/2016, de 24 de noviembre, por la que se ordena el ejercicio de las profesiones del deporte en la Comunidad de Madrid",
+  "visible_title": "Ley de ordenación de las profesiones del deporte en la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "6/2016",
+  "publication_date": "2017-03-22",
+  "enactment_date": "2016-11-24",
+  "last_updated": "2023-03-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2016/11/24/6",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley regula y profesionaliza el sector del deporte en la Comunidad de Madrid, definiendo qué titulaciones son necesarias para ejercer distintas funciones. Su objetivo es garantizar la seguridad y salud de los usuarios mediante la exigencia de conocimientos técnicos específicos. Además, establece un marco de derechos para los deportistas y obligaciones estrictas para los profesionales y centros deportivos.",
+  "citizen_impact": "Los usuarios de gimnasios, clubes y actividades deportivas cuentan con mayores garantías de que quienes les dirigen están cualificados. Se asegura que la publicidad de servicios deportivos sea veraz y no prometa beneficios para la salud sin base científica. Además, se refuerza la protección de menores mediante la exigencia de certificados de antecedentes de delitos sexuales a los profesionales.",
+  "professional_impact": "Los profesionales del deporte (monitores, entrenadores, preparadores, etc.) deben acreditar obligatoriamente su titulación y realizar una comunicación previa ante la Administración. Se impone la obligación de contratar un seguro de responsabilidad civil y se prohíbe el uso de denominaciones profesionales sin la formación adecuada. Las empresas del sector deben cumplir con normativas estrictas de publicidad y protocolos de seguridad para menores.",
+  "keywords": [
+    "profesiones del deporte",
+    "Comunidad de Madrid",
+    "titulación deportiva",
+    "monitor deportivo",
+    "entrenador deportivo",
+    "preparador físico",
+    "seguridad deportiva",
+    "derechos del consumidor deportivo"
+  ],
+  "key_points": [
+    "Se definen cinco profesiones reguladas: Monitor, Entrenador, Preparador Físico, Director Deportivo y Profesor de Educación Física.",
+    "Es obligatorio poseer la titulación académica específica para ejercer cada una de estas profesiones.",
+    "Los profesionales deben realizar una comunicación previa ante la Dirección General de Deportes de la Comunidad de Madrid.",
+    "Es preceptivo contar con un seguro de responsabilidad civil para cubrir posibles daños a terceros.",
+    "Se prohíbe la publicidad de servicios deportivos que no tenga respaldo científico o que prometa curas milagrosas.",
+    "Los profesionales que trabajen con menores deben presentar certificación negativa de delitos de naturaleza sexual.",
+    "Se establece un régimen sancionador con multas de hasta 30.001 euros e inhabilitación profesional.",
+    "Se permite el reconocimiento de competencias para profesionales con experiencia previa bajo ciertos requisitos de horas trabajadas."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 44/2003 de ordenación de las profesiones sanitarias",
+    "Ley 10/1990 del Deporte",
+    "Ley 15/1994 del Deporte de la Comunidad de Madrid",
+    "Ley 2/2007 de Sociedades Profesionales",
+    "Ley Orgánica 8/2021 de protección integral a la infancia y la adolescencia",
+    "Real Decreto 1363/2007",
+    "Real Decreto 34/2008"
+  ],
+  "derogations": [
+    "Todas las normas de rango o inferior que se opongan a la presente Ley"
+  ],
+  "main_obligations": "Los profesionales deben acreditar su titulación, realizar la comunicación previa ante la Administración y disponer de un seguro de responsabilidad civil. Se prohíbe el ejercicio sin la formación requerida y el uso de publicidad engañosa sobre la salud.",
+  "effective_date": "2017-09-22",
+  "procedures": [
+    {
+      "name": "Comunicación previa para el ejercicio profesional",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de comunicación previa",
+          "descrption": "El profesional debe presentar sus datos identificativos y acreditar la titulación ante la Dirección General de Deportes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos identificativos y acreditación de la cualificación profesional exigida."
+        },
+        {
+          "step": 2,
+          "title": "Inicio del ejercicio",
+          "descrption": "El ejercicio puede comenzar desde el día de la presentación, sujeto a inspección posterior.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Habilitación por experiencia profesional (Transitorio)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de habilitación",
+          "descrption": "Solicitud para profesionales que ya trabajaban pero no tenían la titulación nueva, acreditando horas de experiencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Contratos laborales o alta de autónomos que acrediten las horas requeridas (600, 1200 o 2400 según el caso)."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,95 @@
+{
+  "identifier": "BOE-A-1995-9729",
+  "title": "Ley 5/1995, de 22 de marzo, de Protección de los Animales",
+  "visible_title": "Ley de Protección de los Animales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "5/1995",
+  "publication_date": "1995-04-21",
+  "enactment_date": "1995-03-22",
+  "last_updated": "2018-11-30",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/1995/03/22/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece el marco jurídico para la defensa y protección de los animales en La Rioja. Regula aspectos fundamentales como la tenencia, el transporte, el comercio y el sacrificio de animales, buscando evitar el sufrimiento innecesario. Además, crea mecanismos para la conservación de la fauna silvestre y la gestión de animales abandonados.",
+  "citizen_impact": "Los dueños de mascotas deben identificar y censar a sus animales, además de cumplir con obligaciones de sanidad y limpieza en espacios públicos. También establece prohibiciones estrictas contra el maltrato, el abandono y la venta de animales a menores de 14 años.",
+  "professional_impact": "Los veterinarios y clínicas deben llevar registros clínicos obligatorios y colaborar en la identificación de animales. Los establecimientos de venta, cría o acogida deben registrarse como núcleos zoológicos y cumplir con estrictas normativas higiénico-sanitarias y de bienestar.",
+  "keywords": [
+    "protección animal",
+    "bienestar animal",
+    "tenencia de mascotas",
+    "fauna silvestre",
+    "núcleos zoológicos",
+    "maltrato animal",
+    "La Rioja"
+  ],
+  "key_points": [
+    "Obligación de identificar y censar perros en el Ayuntamiento de residencia.",
+    "Prohibición de abandonar animales o realizar mutilaciones sin control veterinario.",
+    "Creación del Catálogo Regional de Especies Amenazadas para la fauna silvestre.",
+    "Exigencia de registro como núcleo zoológico para tiendas de animales y centros de acogida.",
+    "Prohibición de espectáculos o peleas que impliquen crueldad o tratos antinaturales.",
+    "Obligación de los propietarios de evitar que sus mascotas ensucien la vía pública.",
+    "Plazos de recuperación de animales: 15 días para abandonados y 8 días para vagabundos."
+  ],
+  "legal_references": [
+    "Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestre",
+    "Código Civil",
+    "Ley 3/1995, de 8 de marzo, de Régimen Jurídico del Gobierno y la Administración Pública de la Comunidad Autónoma de La Rioja",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Real Decreto 1398/1993, de 4 de agosto"
+  ],
+  "derogations": [
+    "Disposiciones que se opongan a la presente Ley"
+  ],
+  "main_obligations": "Los propietarios deben identificar, censar y mantener la sanidad de sus mascotas. Se prohíbe el maltrato, el abandono y la venta de animales a menores de 14 años. Las infracciones pueden acarrear multas de hasta 15.025,30 euros.",
+  "effective_date": "1995-04-22",
+  "procedures": [
+    {
+      "name": "Censo de perros",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Registro de nacimiento o adquisición",
+          "description": "Censar al perro en el Ayuntamiento en un plazo de 3 meses desde su nacimiento o 1 mes desde su adquisición.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la propiedad o nacimiento"
+        },
+        {
+          "step": 2,
+          "title": "Notificación de fallecimiento",
+          "description": "Comunicar la muerte del animal al Ayuntamiento en el plazo de un mes para proceder a la baja.",
+          "start_date": null,
+          "end_date": "1 mes desde la muerte",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Recuperación de animales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo para animales abandonados",
+          "description": "Periodo de tiempo para que el propietario identificado reclame al animal.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo para animales vagabundos",
+          "description": "Periodo de tiempo para la recuperación de animales sin identificación.",
+          "start_date": null,
+          "end_date": "8 días",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

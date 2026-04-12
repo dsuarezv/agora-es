@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-2025-13560",
+  "title": "Ley 3/2025, de 23 de junio, de garantías y derechos de las personas con necesidades paliativas",
+  "visible_title": "Ley de garantías y derechos de las personas con necesidades paliativas",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "3/2025",
+  "publication_date": "2025-07-03",
+  "enactment_date": "2025-06-23",
+  "last_updated": "2025-06-25",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2025/06/23/3",
+  "official_journal": "Boletín Oficial de La Rioja",
+  "journal_issue": null,
+  "summary": "Esta ley establece un marco de derechos para pacientes con enfermedades incurables avanzadas en La Rioja, garantizando el acceso a cuidados paliativos de calidad. Busca asegurar la dignidad, la autonomía y el alivio del sufrimiento físico y psicológico, tanto del paciente como de su entorno familiar. Además, regula la obligación de las instituciones sanitarias de ofrecer una atención humanizada y coordinada, ya sea en hospitales o domicilios.",
+  "citizen_impact": "Los pacientes con enfermedades terminales en La Rioja ganan el derecho legal a elegir dónde recibir cuidados, a rechazar tratamientos y a solicitar la sedación paliativa ante síntomas insoportables. También se garantiza el derecho de los familiares a recibir apoyo psicológico y acompañamiento durante el proceso de duelo.",
+  "professional_impact": "El personal sanitario tiene ahora la obligación legal de respetar la voluntad del paciente (incluyendo instrucciones previas) y de evitar la obstinación terapéutica. Las instituciones sanitarias, públicas y privadas, deben garantizar equipos multidisciplinares y medios adecuados, bajo riesgo de sanciones económicas de hasta 600.000 euros por infracciones muy graves.",
+  "keywords": [
+    "cuidados paliativos",
+    "enfermedad incurable",
+    "derechos del paciente",
+    "sedación paliativa",
+    "autonomía del paciente",
+    "La Rioja",
+    "dignidad humana"
+  ],
+  "key_points": [
+    "Derecho a recibir cuidados paliativos en el lugar preferido por el paciente (domicilio, residencia o centro sanitario).",
+    "Garantía de sedación paliativa para el control de síntomas refractarios (dolor o sufrimiento que no cede con otros medios).",
+    "Reconocimiento del derecho a la planificación anticipada de decisiones (PAD) para decidir sobre el futuro tratamiento cuando se pierda la capacidad.",
+    "Obligación de evitar la obstinación terapéutica (medidas desproporcionadas para evitar la muerte).",
+    "Derecho de los menores de edad a recibir información adaptada a su madurez y a la compañía de sus progenitores.",
+    "Derecho de los familiares a recibir apoyo y asistencia durante todo el proceso y tras el fallecimiento (duelo).",
+    "Protección de la intimidad mediante el derecho a habitaciones individuales en régimen de hospitalización.",
+    "Obligación de las instituciones de asegurar que la falta de personal o material no impida el ejercicio de estos derechos."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de La Rioja",
+    "Ley 14/1986, General de Sanidad",
+    "Convenio del Consejo de Europa relativo a los derechos humanos y la dignidad del ser humano con respecto a las aplicaciones de la Biología y la Medicina",
+    "Ley 16/2003, de cohesión y calidad del Sistema Nacional de Salud",
+    "Real Decreto 1030/2006",
+    "Ley 41/2002, básica reguladora de la autonomía del paciente",
+    "Declaración Universal sobre Bioética de la Unesco",
+    "Ley Orgánica 3/2018, de Protección de Datos Personales",
+    "Ley 2/2002, de Salud, de La Rioja",
+    "Ley 40/2015, de Régimen Jurídico del Sector Público"
+  ],
+  "derogatons": [
+    "Disposiciones de igual o inferior rango que contravengan esta ley"
+  ],
+  "main_obligations": "Las instituciones sanitarias deben garantizar equipos multidisciplinares y medios para la atención integral. El personal sanitario debe respetar el consentimiento informado y las instrucciones previas, evitando la obstinación terapéutica. El incumplimiento de deberes o la obstrucción de derechos puede conllevar multas de hasta 600.000 euros.",
+  "effective_date": "2025-07-04",
+  "procedures": [
+    {
+      "name": "Formalización de instrucciones previas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inscripción en el registro",
+          "description": "La persona mayor de edad formaliza su voluntad sobre cuidados futuros.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento de instrucciones previas"
+        },
+        {
+          "step": 2,
+          "title": "Incorporación a la historia clínica",
+          "description": "El documento se integra automáticamente en la historia clínica del paciente tras su inscripción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Planificación anticipada de decisiones (PAD/PAC)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Proceso de comunicación",
+          "description": "Deliberación voluntaria entre el paciente y el personal sanitario sobre valores y preferencias.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Registro en historia clínica",
+          "description": "El plan resultante se recoge en un apartado específico y visible de la historia clínica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

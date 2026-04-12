@@ -1,0 +1,117 @@
+{
+  "identifier": "BOE-A-2007-11675",
+  "title": "Ley 12/2007, de 24 de abril, de Ordenación del Transporte Marítimo de Canarias",
+  "visible_title": "Ley de Ordenación del Transporte Marítimo de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "12/2007",
+  "publication_date": "2007-06-14",
+  "enactment_date": "2007-04-24",
+  "last_updated": "2009-07-23",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2007/04/24/12",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula todo el transporte marítimo de pasajeros y mercancías que se realice exclusivamente entre las islas de Canarias. Su objetivo es equilibrar la libertad de mercado con la necesidad de garantizar que las islas más remotas no se queden sin conexión. Para ello, permite al Gobierno canario intervenir en líneas esenciales mediante obligaciones de servicio público o contratos de concesión cuando el mercado por sí solo no sea suficiente.",
+  "citizen_impact": "Garantiza a los residentes derechos similares a los del transporte aéreo, como compensaciones económicas por retrasos superiores a dos horas, asistencia con comida o alojamiento en caso de cancelaciones, y el derecho a información detallada. Además, asegura la continuidad de las conexiones básicas entre islas mediante la regulación de servicios públicos.",
+  "professional_impact": "Las empresas navieras deben pasar de un régimen de autorización a uno de comunicación previa para la mayoría de servicios, simplificando trámites. Sin embargo, para las líneas consideradas esenciales, deberán cumplir estrictas obligaciones de frecuencia, capacidad y precio, o participar en licitaciones públicas de contratos de servicio público.",
+  "keywords": [
+    "transporte marítimo",
+    "Canarias",
+    "cabotaje interinsular",
+    "derechos del pasajero",
+    "obligación de servicio público",
+    "navieras",
+    "transporte de pasajeros"
+  ],
+  "key_points": [
+    "Régimen general de libertad de prestación mediante comunicación previa (no requiere resolución expresa).",
+    "El Gobierno puede declarar líneas de transporte como 'necesidades básicas' para imponer horarios y precios.",
+    "Posibilidad de suscribir contratos de obligación de servicio público con compensación económica para asegurar rutas críticas.",
+    "Derecho a compensación económica equivalente al precio del billete por retrasos superiores a dos horas.",
+    "Derecho a asistencia gratuita (comida, bebida, alojamiento) en caso de retrasos o cancelaciones.",
+    "Creación del Registro Canario de Navieros para el control de la actividad.",
+    "Protección del medio ambiente marino como motivo para limitar la libertad de transporte.",
+    "Las empresas deben comunicar cualquier modificación de sus servicios con 10 días de antelación."
+  ],
+  "legal_references": [
+    "Reglamento (CEE) 3.577/1992",
+    "Ley 27/1992, de 24 de noviembre, de Puertos del Estado y de la Marina Mercante",
+    "Estatuto de Autonomía de Canarias",
+    "Sentencia del TJUE de 20 de febrero de 2001 (Caso Analir)",
+    "Sentencia del TJUE de 24 de julio de 2003 (Caso Altmark)"
+  ],
+  "derogations": [
+    "Decreto 113/1998, de 23 de julio (en lo que sea incompatible)"
+  ],
+  "main_obligations": "Las navieras deben comunicar el inicio de actividad con 15 días de antelación y renovar su intención de operar cada 4 años. En líneas de servicio público, deben cumplir estrictamente con las frecuencias, capacidades y tarifas fijadas, bajo riesgo de multas de hasta 300.000 euros o inhabilitación.",
+  "effective_date": "2007-05-01",
+  "procedures": [
+    {
+      "name": "Comunicación previa de inicio de actividad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación fehaciente",
+          "description": "Comunicar a la Administración la intención de iniciar el transporte con antelación mínima.",
+          "start_date": "15 días antes del inicio",
+          "end_date": null,
+          "required_documentation": "Datos de la clase de servicio, itinerario, puntos de escala, puerto base y acreditación de requisitos de seguridad y seguros."
+        },
+        {
+          "step": 2,
+          "title": "Renovación de actividad",
+          "description": "Declaración responsable para mantener la actividad tras el periodo establecido.",
+          "start_date": "Cada 4 años",
+          "end_date": null,
+          "required_documentation": "Declaración responsable del mantenimiento de condiciones."
+        }
+      ]
+    },
+    {
+      "name": "Régimen de autorización previa (Servicios de interés público)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Trámite para líneas que requieren obligaciones de servicio público.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Programa detallado de servicios, garantía de solvencia económica, certificados de no tener deuda con la CA y la SS."
+        },
+        {
+          "step": 2,
+          "title": "Resolución administrativa",
+          "description": "Plazo máximo para que la Administración dicte resolución.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del expediente",
+          "description": "Inicio del procedimiento tras la detección de una infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución del procedimiento",
+          "description": "Plazo máximo para notificar la sanción impuesta.",
+          "start_date": null,
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

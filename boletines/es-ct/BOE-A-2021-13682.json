@@ -1,0 +1,95 @@
+{
+  "identifier": "BOE-A-2021-13682",
+  "title": "Decreto-ley 13/2021, de 22 de junio, por el que se regula la Comisión de Garantía y Evaluación de Cataluña y el Registro de profesionales sanitarios objectores de conciencia, en desarrollo de la Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia",
+  "visible_title": "Regulación de la Comisión de Garantía y Evaluación de Cataluña y el Registro de profesionales sanitarios objetores de conciencia",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "13/2021",
+  "publication_date": "2021-08-10",
+  "enactment_date": "2021-06-22",
+  "last_updated": "2021-06-25",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2021/06/22/13",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma crea la estructura necesaria en Cataluña para que la Ley de Eutanasia sea aplicable. Establece la Comisión de Garantía y Evaluación, que supervisará los procesos de ayuda para morir, y crea un registro confidencial para los profesionales sanitarios que decidan ejercer la objeción de conciencia. Su aprobación urgente busca garantizar que el derecho a la eutanasia pueda ejercerse desde el momento en que la ley estatal entre en vigor.",
+  "citizen_impact": "Garantiza que los ciudadanos catalanes tengan un órgano oficial que controle y asegure la legalidad de los procesos de ayuda para morir. Permite que el derecho a la eutanasia sea efectivo mediante la creación de las instituciones que deben gestionarlo.",
+  "professional_impact": "Los profesionales sanitarios (médicos, enfermeros, psicólogos y farmacéuticos) pueden inscribirse en un registro confidencial para declarar su objeción de conciencia. Además, establece la creación de una Comisión multidisciplinar con funciones de supervisión y consulta, con derechos de asistencia y compensaciones económicas por informes.",
+  "keywords": [
+    "eutanasia",
+    "ayuda para morir",
+    "objeción de conciencia",
+    "comisión de garantía",
+    "Cataluña",
+    "derechos sanitarios",
+    "bioética"
+  ],
+  "key_points": [
+    "Creación de la Comisión de Garantía y Evaluación de Cataluña para supervisar la prestación de ayuda para morir.",
+    "Establecimiento de un Registro de profesionales sanitarios objetores de conciencia bajo estricta confidencialidad.",
+    "La Comisión será multidisciplinar, incluyendo médicos, juristas, enfermeros, psicólogos y trabajadores sociales.",
+    "Los profesionales sanitarios pueden revocar su objeción de conciencia en cualquier momento.",
+    "La objeción de conciencia es individual y no se aplica a decisiones sobre casos concretos, las cuales deben comunicarse al centro sanitario.",
+    "La Comisión tiene plena independencia funcional respecto a la administración."
+  ],
+  "legal_references": [
+    "Ley Orgánica 3/2021, de 24 de marzo, de regulación de la eutanasia",
+    "Estatuto de autonomía de Cataluña",
+    "Ley 40/2015, de 1 de octubre, del régimen jurídico del sector público",
+    "Ley 26/2010, del 3 de agosto, de régimen jurídico y de procedimiento de las administraciones públicas de Cataluña",
+    "Ley 17/2015, del 21 de julio, de igualdad efectiva de mujeres y hombres",
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Ley orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales",
+    "Ley 13/2008, de 5 de noviembre, de la presidencia de la Generalitat y del Gobierno"
+  ],
+  "derogations": [],
+  "main_obligations": "Los profesionales sanitarios que deseen ejercer la objeción de conciencia deben inscribirse telemáticamente en el registro oficial. La Comisión debe cumplir con el deber de secreto y confidencialidad sobre las deliberaciones y datos personales tratados.",
+  "effective_date": "2021-06-22",
+  "procedures": [
+    {
+      "name": "Inscripción en el Registro de profesionales sanitarios objetores de conciencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inscripción",
+          "description": "El profesional sanitario presenta su declaración de objeción de conciencia de forma telemática.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos de identificación, contacto, profesión, especialidad y centro de servicios."
+        },
+        {
+          "step": 2,
+          "title": "Comprobación de datos",
+          "description": "El órgano competente verifica la identidad y los datos declarados mediante acceso a otros registros.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Inscripción y emisión de certificado",
+          "description": "Se procede a la inscripción en el registro y se emite el documento acreditativo descargable.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Revocación de la objeción de conciencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de revocación",
+          "description": "El profesional solicita la retirada de su declaración de objeción mediante el mismo procedimiento que la inscripción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento de revocación con fecha de formulación."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

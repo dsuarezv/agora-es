@@ -1,0 +1,80 @@
+{
+  "identifier": "BOE-A-2022-4209",
+  "title": "Ley 2/2022, de 3 de marzo, del Fondo Complementario de Riesgos de la Generalidad de Cataluña",
+  "visible_title": "Ley del Fondo Complementario de Riesgos de la Generalidad de Cataluña",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "2/2022",
+  "publication_date": "2022-03-17",
+  "enactment_date": "2022-03-03",
+  "last_updated": "2022-07-28",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2022/03/03/2",
+  "official_journal": "DOGC / BOE",
+  "journal_issue": null,
+  "summary": "Esta ley crea un fondo de 10 millones de euros para proteger el patrimonio personal de los empleados públicos de la Generalitat de Cataluña. El objetivo es cubrir riesgos económicos (responsabilidad civil, patrimonial o contable) que no estén cubiertos por los seguros actuales y que surjan de actuaciones en el ejercicio de su cargo. El fondo actúa como una red de seguridad ante reclamaciones judiciales o administrativas que aún no han sido resueltas mediante una sentencia firme.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes.",
+  "professional_impact": "Los funcionarios, altos cargos y miembros del Gobierno de la Generalitat cuentan con una nueva garantía económica para evitar que deban pagar de su propio bolsillo ante posibles reclamaciones por sus funciones. Esto reduce su vulnerabilidad patrimonial mientras se dirimen procesos judiciales o administrativos no concluidos.",
+  "keywords": [
+    "fondo de riesgos",
+    "responsabilidad patrimonial",
+    "empleados públicos",
+    "Generalitat de Catalunya",
+    "indemnidad",
+    "seguro responsabilidad civil"
+  ],
+  "key_points": [
+    "Creación de un fondo con una dotación inicial mínima de 10 millones de euros.",
+    "Cobertura de riesgos no incluidos en las pólizas de seguro actuales de la Generalitat.",
+    "Protección para funcionarios, altos cargos y miembros del Gobierno.",
+    "La cobertura se activa ante procedimientos administrativos o judiciales que no tengan sentencia firme.",
+    "Obligación de devolver el dinero si finalmente hay una sentencia firme que confirme la responsabilidad del empleado.",
+    "Los riesgos cubiertos incluyen daños corporales, materiales y perjuicios económicos puros por acción u omisión.",
+    "Se establece un mecanismo de solicitud mediante declaración responsable."
+  ],
+  "legal_references": [
+    "Estatuto de la Generalitat de Cataluña",
+    "Ley 7/1996, de 5 de julio, de organización de los servicios jurídicos de la Administración de la Generalidad de Cataluña",
+    "Real Decreto Legislativo 5/2015, de 30 de octubre (Estatuto Básico del Empleado Público)",
+    "Decreto ley 46/2020"
+  ],
+  "derogations": [
+    "Decreto ley 15/2021"
+  ],
+  "main_obligations": "Los beneficiarios deben devolver íntegramente los importes garantizados, más intereses y gastos, si existe una sentencia judicial firme que confirme su responsabilidad civil, contable o penal. La solicitud debe incluir una declaración responsable de que no existen sentencias firmes previas ni procesos disciplinarios abiertos por la Generalidad.",
+  "effective_date": "2022-03-18",
+  "procedures": [
+    {
+      "name": "Solicitud de cobertura del Fondo Complementario de Riesgos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El interesado presenta el modelo de solicitud junto con una declaración responsable.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Modelo de solicitud, declaración responsable y acreditación del perjuicio patrimonial (resolución o acto administrativo/judicial no firme)."
+        },
+        {
+          "step": 2,
+          "title": "Verificación de requisitos",
+          "description": "La entidad gestora comunica la solicitud a los órganos de defensa jurídica, seguros y departamentos para verificar que no hay sentencias firmes ni procesos disciplinarios.",
+          "start_date": null,
+          "end_date": "10 días tras la recepción de la comunicación",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Emisión de la garantía",
+          "description": "Si se resuelve favorablemente, la entidad gestora garantiza el aval mediante un depósito a cargo del Fondo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

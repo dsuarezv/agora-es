@@ -1,0 +1,118 @@
+{
+  "identifier": "BOE-A-2020-1654",
+  "title": "Ley 8/2019, de 13 de diciembre, de Participación de Castilla-La Manch la",
+  "visible_title": "Ley de Participación de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "8/2019",
+  "publication_date": "2020-02-05",
+  "enactment_date": "2019-12-13",
+  "last_updated": "2019-12-26",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2019/12/13/8",
+  "official_journal": "Boletín Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley establece un marco legal para que los ciudadanos y entidades de Castilla-La Mancha intervengan directamente en las decisiones de la administración regional. Introduce herramientas digitales como un portal de participación y mecanismos de consulta para el diseño y evaluación de políticas públicas. Además, regula la participación de sindicatos y patronales mediante la creación del Consejo de Diálogo Social.",
+  "citizen_impact": "Otorga a los ciudadanos mayores de 16 años el derecho a proponer procesos de participación y a ser escuchados en la creación de leyes o servicios públicos. Facilita el acceso a la información necesaria para opinar y garantiza que la administración deba motivar sus decisiones si no sigue las propuestas mayoritarias.",
+  "professional_impact": "Obliga a las consejerías de la Junta de Comunidades a crear unidades de participación y a elaborar un Plan Anual de Participación Ciudadana. Los funcionarios deberán formarse en nuevas técnicas de gestión participativa y la administración debe adaptar sus estructuras para permitir la interacción digital y presencial.",
+  "keywords": [
+    "participación ciudadana",
+    "diálogo social",
+    "políticas públicas",
+    "democracia participativa",
+    "Castilla-La Mancha",
+    "derechos ciudadanos",
+    "transparencia"
+  ],
+  "key_points": [
+    "Creación del Portal de Participación Ciudadana de Castilla-La Mancha para la interacción digital.",
+    "Derecho de iniciativa ciudadana para abrir procesos participativos mediante la recogida de al menos 3.000 firmas.",
+    "Establecimiento de un Plan Anual de Participación Ciudadana obligatorio para la Administración.",
+    "Creación del Consejo de Diálogo Social para la negociación entre Gobierno, sindicatos y patronales.",
+    "Garantía de que la administración debe motivar sus decisiones si no acepta los resultados mayoritarios de una consulta.",
+    "Inclusión de la perspectiva de género y la igualdad real en todos los mecanismos de participación.",
+    "Obligación de la administración de responder en un plazo máximo de 3 meses a las solicitudes de apertura de procesos ciudadanos."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Castilla-La Mancha",
+    "Ley Orgánica 11/1985, de libertad sindical",
+    "Real Decreto Legislativo 2/2015 (Estatuto de los Trabajadores)",
+    "Ley 4/2016 de Transparencia y Buen Gobierno de Castilla-La Mancha",
+    "Ley 40/2015 de Régimen Jurídico del Sector Público"
+  ],
+  "derogations": [],
+  "main_obligations": "La Administración debe elaborar y publicar anualmente el Programa Anual de Participación Ciudadana. Asimismo, debe responder a las solicitudes de apertura de procesos participativos en un plazo de 3 meses, justificando siempre sus decisiones.",
+  "effective_date": "2020-08-05",
+  "procedures": [
+    {
+      "name": "Iniciativa Ciudadana de Procedimiento Participativo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recogida de firmas",
+          "description": "Los ciudadanos deben reunir al menos 3.000 firmas acreditadas para proponer un procedimiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escrito de iniciativa con motivos, propuesta completa y designación de representante."
+        },
+        {
+          "step": 2,
+          "title": "Decisión de apertura",
+          "description": "La Administración debe decidir si abre el procedimiento en un plazo máximo de 3 meses.",
+          "start_date": "Desde el registro oficial de la instancia",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Tramitación y debate",
+          "description": "Fases de información, debate, recogida de aportaciones y retorno de resultados.",
+          "start_date": "Tras el acuerdo de inicio",
+          "end_date": "Máximo 1 año",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Informe final y decisión",
+          "description": "Emisión de informe con conclusiones y adopción de la decisión final por la autoridad competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe final suscrito por el órgano responsable."
+        }
+      ]
+    },
+    {
+      "name": "Elaboración del Programa Anual de Participación Ciudadana",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Remisión de información",
+          "description": "Las consejerías envían sus previsiones a la consejería competente.",
+          "start_date": "Primer mes del año",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Se abre un periodo para que la ciudadanía proponga la inclusión de nuevos proyectos.",
+          "start_date": null,
+          "end_date": "20 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación",
+          "description": "La Comisión Interdepartamental formula la propuesta y el Consejo de Gobierno la aprueba.",
+          "start_date": null,
+          "end_date": "Primer trimestre del ejercicio",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

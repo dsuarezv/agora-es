@@ -1,0 +1,114 @@
+{
+  "identifier": "BOE-A-2015-1624",
+  "title": "Ley 5/2014, de 9 de octubre, de Protección Social y Jurídica de la Infancia y la Adolescencia de Castilla-La Manch la",
+  "visible_title": "Protección Social y Jurídica de la Infancia y la Adolescencia de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "5/2014",
+  "publication_date": "2015-02-18",
+  "enactment_date": "2014-10-09",
+  "last_updated": "2023-03-14",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2014/10/09/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley redefine cómo se protege a los menores en Castilla-La Mancha, priorizando que crezcan en entornos familiares antes que en centros residenciales. Introduce nuevas categorías de intervención, como el menor con conducta inadaptada, para actuar preventivamente sin patologizar comportamientos. Además, refuerza los derechos de los niños a ser escuchados y protege su privacidad frente a los medios de comunicación. El objetivo es pasar de un modelo de separación a uno de apoyo familiar y protección integral.",
+  "citizen_impact": "Las familias pueden acceder a programas de apoyo para evitar el desamparo de sus hijos. Los ciudadanos tienen el deber de colaborar con las autoridades en casos de desprotección. Los medios de comunicación y particulares enfrentan sanciones graves si difunden imágenes o datos de menores. Los interesados en adoptar deben cumplir con cursos de formación y procesos de idoneidad estrictos.",
+  "professional_impact": "Los profesionales de la salud y educación tienen la obligación legal de informar sobre cualquier indicio de desprotección infantil. Los técnicos de intervención adquieren la consideración de agentes de la autoridad. Se establecen nuevos registros obligatorios para técnicos, familias y entidades, y se crean Comisiones Provinciales de Tutela para agilizar la gestión administrativa.",
+  "keywords": [
+    "protección de menores",
+    "acogimiento familiar",
+    "adopción",
+    "derechos de la infancia",
+    "Castilla-La Mancha",
+    "conducta inadaptada",
+    "tutela"
+  ],
+  "key_points": [
+    "Prioridad absoluta del acogimiento familiar sobre el residencial para garantizar el entorno de una familia.",
+    "Creación de la figura de 'menor con conducta inadaptada' para intervenir en conflictos conductuales sin necesidad de diagnóstico de enfermedad mental.",
+    "Derecho de los menores a ser escuchados en procesos administrativos según su madurez, incluso si hay conflicto con sus padres.",
+    "Obligatoriedad de centros educativos y sanitarios de comunicar indicios de desprotección infantil.",
+    "La declaración de idoneidad para adoptar caduca a los 3 años si no se ha seleccionado un menor.",
+    "Prohibición estricta de difundir imágenes o datos personales de menores en medios de comunicación (infracción grave).",
+    "Prohibición del uso de móviles en centros escolares, salvo excepciones justificadas en el proyecto educativo.",
+    "Establecimiento de la 'situación de riesgo' como fase de apoyo previo para evitar el desamparo.",
+    "Creación de registros gratuitos para menores, técnicos, familias acogedoras y entidades.",
+    "Los técnicos de intervención con menores tienen consideración de agentes de la autoridad.",
+    "Los centros de acogida deben someterse a inspecciones semestrales obligatorias.",
+    "Los padres deben asumir los gastos de manutención y salud si se les asigna la guarda de un menor."
+  ],
+  "legal_references": [
+    "Constitución Española (Art. 39)",
+    "Ley Orgánica 1/1996 de Protección Jurídica del Menor",
+    "Ley Orgánica 5/2000 de Responsabilidad Penal de los Menores",
+    "Estatuto de Autonomía de Castilla-La Mancha",
+    "Ley 3/1999 del Menor de Castilla-La Mancha",
+    "Convenio de las Naciones Unidas de Derechos del Niño",
+    "Ley 30/1992 de Régimen Jurídico de las Administraciones Públicas",
+    "Código Civil",
+    "Ley de Enjuiciamiento Civil",
+    "Ley 4/1995, de 16 de marzo, de Voluntariado en Castilla-La Mancha"
+  ],
+  "derogations": [
+    "Ley 3/1999, de 31 de marzo, del Menor de Castilla-La Mancha"
+  ],
+  "main_obligations": "Los profesionales de salud y educación deben comunicar obligatoriamente indicios de desprotección. Los adoptantes deben completar un curso de formación previa y los centros de acogida deben permitir inspecciones cada 6 meses.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Proceso de Adopción",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y requisitos previos",
+          "description": "Verificación de ausencia de antecedentes penales, residencia en la región y convivencia previa en adopciones conjuntas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de residencia y curso de formación"
+        },
+        {
+          "step": 2,
+          "title": "Declaración de idoneidad",
+          "description": "Valoración técnica de la capacidad de los solicitantes para ejercer la patria potestad.",
+          "start_date": null,
+          "end_date": "3 años (caducidad de la idoneidad)",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Asignación y propuesta judicial",
+          "description": "La Comisión Regional de Adopción acuerda la asignación de familia y eleva la propuesta al Juzgado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Intervención Familiar por Conducta Inadaptada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Ejecución del proyecto",
+          "description": "Intervención conjunta con el menor y su familia para restablecer la convivencia.",
+          "start_date": null,
+          "end_date": "Duración determinada por el proyecto",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Evaluación y cese o prórroga",
+          "description": "Informe para proponer el cese por cumplimiento o la prórroga si persisten las causas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe de la sección competente"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

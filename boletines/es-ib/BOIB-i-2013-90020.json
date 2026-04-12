@@ -1,0 +1,79 @@
+{
+  "identifier": "BOIB-i-2013-90020",
+  "title": "Decreto-ley 4/2013, de 21 de junio, de regulación provisional de las nuevas edificaciones en núcleos residenciales sin red de saneamiento",
+  "visible_title": "Regulación provisional de nuevas edificaciones en núcleos residenciales sin red de saneamiento",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "4/2013",
+  "publication_date": "2013-06-22",
+  "enactment_date": "2013-06-21",
+  "last_updated": "2014-03-29",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOIB-i-2013-90020",
+  "official_journal": "BOIB",
+  "journal_issue": null,
+  "summary": "Esta norma permite otorgar licencias de obra, finales de obra y cédulas de habitabilidad en zonas urbanas que aún no cuentan con alcantarillado. Se aprueba para evitar la paralización de construcciones debido a la falta de infraestructuras de saneamiento en muchos municipios baleares. La medida es provisional y solo se aplica a viviendas unifamiliares que garanticen un tratamiento de aguas adecuado y la futura conexión a la red.",
+  "citizen_impact": "Permite a propietarios de viviendas unifamiliares en zonas sin alcantarillado poder construir y obtener la cédula de habitabilidad legalmente. Sin embargo, obliga a los propietarios a garantizar por escrito que pagarán y realizarán la conexión a la red de saneamiento cuando el ayuntamiento la instale.",
+  "professional_impact": "Los promotores de viviendas unifamiliares pueden desbloquear proyectos de construcción en núcleos sin saneamiento. Los técnicos municipales y la administración de recursos hídricos deben emitir informes determinantes en un plazo máximo de dos meses para validar los sistemas de tratamiento de aguas propuestos.",
+  "keywords": [
+    "saneamiento",
+    "alcantarillado",
+    "licencia de edificación",
+    "cédula de habitabilidad",
+    "vivienda unifamiliar",
+    "urbanismo",
+    "aguas residuales"
+  ],
+  "key_points": [
+    "Se permite construir viviendas unifamiliares en zonas sin red de alcantarillado.",
+    "Queda prohibida la construcción de edificios plurifamiliares bajo este régimen.",
+    "Es obligatorio contar con un sistema de recogida de aguas residuales homologado.",
+    "El promotor debe garantizar legalmente la futura conexión a la red de saneamiento.",
+    "La administración de aguas tiene un plazo de 2 meses para emitir un informe vinculante.",
+    "Este permiso de construcción solo es válido si la licencia se otorga en un plazo de 3 años desde la entrada en vigor."
+  ],
+  "legal_references": [
+    "Ley 10/2010, de 27 de julio",
+    "Decreto Ley 3/2011, de 29 de julio",
+    "Artículo 49.1 del Estatuto de Auto autonomía de las Illes Balears"
+  ],
+  "derogations": [
+    "Artículo 3 de la Ley 10/2010, de 27 de julio"
+  ],
+  "main_obligations": "Los promotores deben garantizar la ejecución de las obras de conexión a la red de saneamiento cuando esta esté operativa. Además, deben acreditar mediante un informe de la administración de aguas que el sistema de tratamiento de residuos es adecuado.",
+  "effective_date": "2013-06-23",
+  "procedures": [
+    {
+      "name": "Otorgamiento de licencias en zonas sin saneamiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de licencia y acreditación de sistema de aguas",
+          "description": "El interesado solicita la licencia aportando el sistema de tratamiento de aguas residuales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de sistema de recogida de aguas residuales homologado"
+        },
+        {
+          "step": 2,
+          "title": "Informe de la administración de recursos hídricos",
+          "description": "La administración competente debe emitir un informe determinante sobre el tratamiento de aguas.",
+          "start_date": "Desde la solicitud",
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Otorgamiento de la licencia",
+          "description": "Se concede la licencia siempre que se cumplan los requisitos y el informe sea favorable.",
+          "start_date": null,
+          "end_date": "3 años desde la entrada en vigor del decreto",
+          "required_documentation": "Garantía de conexión futura a la red de saneamiento"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

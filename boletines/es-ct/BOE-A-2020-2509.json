@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-2020-2509",
+  "title": "Decreto-ley 17/2019, de 23 de diciembre, de medidas urgentes para mejorar el acceso a la vivienda",
+  "visible_title": "Medidas urgentes para mejorar el acceso a la vivienda",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "17/2019",
+  "publication_date": "2020-02-21",
+  "enactment_date": "2019-12-23",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2019/12/23/17",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta norma busca combatir la escasez de vivienda asequible en Cataluña mediante el refuerzo de la vivienda de protección pública y la regulación del mercado de alquiler. Introduce mecanismos para movilizar viviendas vacías, ampliar el parque de vivienda social y controlar los precios de alquiler de viviendas libres mediante un índice de referencia. El objetivo final es aumentar la oferta de vivienda protegida y facilitar el acceso a colectivos en riesgo de exclusión.",
+  "citizen_impact": "Los ciudadanos con menos recursos tendrán mayor acceso a viviendas de protección pública y alquiler social. Por otro lado, los propietarios de viviendas que permanezcan desocupadas de forma permanente podrían enfrentarse a multas coercitivas o incluso a la expropiación de la vivienda.",
+  "professional_impact": "Los promotores inmobiliarios y grandes tenedores (más de 15 viviendas) enfrentan mayores obligaciones de gestión y posibles restricciones en la fijación de precios. Los ayuntamientos y la administración pública deben implementar nuevos inventarios de patrimonio y coordinar programas de actuación concertada para la gestión de vivienda.",
+  "keywords": [
+    "vivienda protegida",
+    "alquiler social",
+    "vivienda vacía",
+    "emergencia social",
+    "precio del alquiler",
+    "Cataluña",
+    "urbanismo"
+  ],
+  "key_points": [
+    "Creación de un índice de referencia de precios del alquiler para viviendas libres.",
+    "Nuevas facultades para sancionar y expropiar viviendas que permanezcan desocupadas permanentemente.",
+    "Redefinición de 'gran tenedor' como persona física o jurídica con más de 15 viviendas.",
+    "Implementación de un nuevo modelo de vivienda de protección pública con precios de venta y renta regulados.",
+    "Ampliación de los derechos de tanteo y retracto de la Administración para adquirir viviendas.",
+    "Obligación de proponer alquiler social antes de iniciar procesos de desahucio en casos de vulnerabilidad.",
+    "Integración de las viviendas dotacionales en el sistema de equipamientos comunitarios para mayor flexibilidad.",
+    "Establecimiento de reservas de suelo para vivienda protegida de hasta el 50% en nuevas urbanizaciones."
+  ],
+  "legal_references": [
+    "Ley 18/2007, de 28 de diciembre, del derecho a la vivienda",
+    "Decreto-ley 1/2015, de 24 de marzo",
+    "Ley 24/2015, del 29 de julio",
+    "Ley 4/2016, de 23 de diciembre",
+    "Ley 13/1996, de 29 de julio",
+    "Texto refundido de la Ley de urbanismo (Decreto legislativo 1/2010)"
+  ],
+  "derogations": [
+    "Artículo 17.3 de la Ley 18/2007",
+    "Artículos 41.2, 43.1, 49, 50, 51 y 52 del Decreto 75/2014",
+    "Artículos 33.4, 66.1.b, 66.1.c, 66.2, 221.3, 226, 227 y disposición transitoria novena del Reglamento de la Ley de urbanismo"
+  ],
+  "main_obligations": "Los propietarios de viviendas desocupadas permanentemente deben cumplir con la función social de la propiedad para evitar multas o expropiación. Los grandes tenedores deben cumplir con las nuevas definiciones y obligaciones de propuesta de alquiler social. Los municipios deben inscribir su inventario de patrimonio de vivienda en el Registro de Planeamiento Urbanístico en un plazo de un año.",
+  "effective_date": "2019-12-24",
+  "procedures": [
+    {
+      "name": "Actualización de precios de vivienda protegida",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Establecimiento de precios básicos y factores",
+          "description": "El Consejero debe aprobar la orden con el precio de venta básico y el factor de localización por municipio.",
+          "start_date": "6 meses desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inscripción de inventario municipal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Envío de inventario y balance",
+          "description": "Los municipios en áreas de demanda fuerte deben enviar su inventario de bienes y derechos al Registro de Planeamiento Urbanístico.",
+          "start_date": "1 año desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": "Inventario de bienes y derechos y balance de situación"
+        }
+      ]
+    },
+    {
+      "name": "Elaboración del Plan Territorial Sectorial de Vivienda",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación del Plan",
+          "description": "El Gobierno debe aprobar el plan que determinará los estándares de reserva de suelo para vivienda protegida.",
+          "start_date": "1 año desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

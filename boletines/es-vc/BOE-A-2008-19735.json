@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-2008-19735",
+  "title": "Ley 14/2008, de 18 de noviembre, de Asociaciones de la Comunitat Valenciana",
+  "visible_title": "Ley de Asociaciones de la Comunitat Valenciana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "14/2008",
+  "publication_date": "2008-12-06",
+  "enactment_date": "2008-11-18",
+  "last_updated": "2018-12-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2008/11/18/14",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para las asociaciones de ámbito docente, cultural, artístico, benéfico-asistencial y de voluntariado en la Comunidad Valenciana. Su objetivo es modernizar la gestión de estas entidades mediante el uso de tecnologías de la información y fomentar su participación social. Además, crea herramientas de apoyo como el Consejo Valenciano de Asociaciones y la figura de 'interés público de la Comunitat Valenciana'.",
+  "citizen_impact": "Facilita la creación y gestión de grupos de interés o colectivos sociales, permitiendo que las reuniones y convocatorias se realicen por medios digitales. También ofrece la posibilidad de que asociaciones con fines sociales obtengan beneficios fiscales y prioridad en subvenciones si se declaran de interés público.",
+  "professional_impact": "Las asociaciones inscritas quedan exentas de pagar tasas por servicios administrativos de la Generalitat (certificados, compulsas, etc.). Los gestores de estas entidades deben cumplir con nuevas obligaciones de transparencia contable, protección de datos y registro de asociados, pero cuentan con mayor apoyo técnico y asesoramiento.",
+  "keywords": [
+    "asociaciones",
+    "Comunitat Valenciana",
+    "derecho de asociación",
+    "interés público",
+    "voluntariado",
+    "registro de asociaciones",
+    "gestión electrónica"
+  ],
+  "key_points": [
+    "Exención de tasas administrativas para asociaciones inscritas en el Registro de la Generalitat.",
+    "Posibilidad de realizar reuniones y convocatorias de órganos de gobierno mediante medios electrónicos.",
+    "Creación de la figura de 'interés público de la Comunitat Valenciana' para otorgar beneficios fiscales y prioridad en ayudas.",
+    "Creación del Consejo Valenciano de Asociaciones como órgano de consulta y participación.",
+    "Regulación específica para asociaciones infantiles y juveniles, permitiendo su participación con apoyos.",
+    "Obligación de llevar una contabilidad que refleje la imagen fiel del patrimonio y los resultados.",
+    "Garantía de transparencia en la concesión de ayudas públicas al sector asociativo."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunitat Valenciana",
+    "Ley Orgánica 1/2002, de 22 de marzo, Reguladora del Derecho de Asociación",
+    "Ley 11/2007, de 22 de junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos",
+    "STC 48/2003",
+    "STC 173/1998"
+  ],
+  "derogatations": [
+    "Disposiciones de igual o inferior rango que se opongan a la presente ley"
+  ],
+  "main_obligations": "Las asociaciones deben mantener un registro actualizado de asociados y llevar una contabilidad que permita conocer su situación financiera. Asimismo, deben inscribir en el Registro de Asociaciones los cambios en sus estatutos, órganos de representación o procesos de disolución.",
+  "effective_date": "2009-04-06",
+  "procedures": [
+    {
+      "name": "Declaración de interés público de la Comunitat Valenciana",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud",
+          "description": "La asociación debe presentar una solicitud formal ante la consejería competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el cumplimiento de los requisitos de interés general y actividad ininterrumpida de 2 años."
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "La administración debe resolver la solicitud mediante orden de la consejería.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inscripción en el Registro de Asociaciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de actos inscribibles",
+          "description": "Comunicación de constitución, modificación de estatutos, cambios de órganos o disolución.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta fundacional, estatutos, documentos de modificación o disolución según proceda."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y resolución",
+          "description": "El Registro procesa la inscripción siguiendo el procedimiento administrativo común.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

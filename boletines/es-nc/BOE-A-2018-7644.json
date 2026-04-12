@@ -1,0 +1,109 @@
+{
+  "identifier": "BOE-A-2018-7644",
+  "title": "Ley Foral 7/2018, de 17 de mayo, de creación de la Oficina de Buenas Prácticas y Anticorrupción de la Comunidad Foral de Navarra",
+  "visible_title": "Ley de creación de la Oficina de Buenas Prácticas y Anticorrupción de Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "7/2018",
+  "publication_date": "2018-06-08",
+  "enactment_date": "2018-05-17",
+  "last_updated": "2022-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2018/05/17/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea la Oficina de Buenas Prácticas y Anticorrupción en Navarra para prevenir, investigar y combatir la corrupción en el sector público. El organismo actúa de forma independiente para supervisar la gestión de fondos, fomentar la ética en cargos públicos y proteger a los denunciantes. Además, asume funciones de supervisión en la contratación pública y evaluación de la sostenibilidad financiera de concesiones.",
+  "citizen_impact": "Mejora la transparencia y la integridad de la gestión de los recursos públicos navarros. Ofrece un mecanismo de denuncia seguro y con protección de identidad para ciudadanos que detecten irregularidades en la administración.",
+  "professional_impact": "Los funcionarios y cargos políticos de Navarra están sujetos a un nuevo Código Ético y a una supervisión más estricta de sus intereses y patrimonios. Las empresas que contraten con la administración pública enfrentan un control reforzado en materia de contratación y transparencia.",
+  "keywords": [
+    "anticorrupción",
+    "buenas prácticas",
+    "transparencia",
+    "Navarra",
+    "investigación administrativa",
+    "protección de denunciantes",
+    "contratación pública"
+  ],
+  "key_points": [
+    "Creación de una Oficina con independencia orgánica y funcional de la Administración.",
+    "Implementación de un Código Ético y de Conducta para cargos electos y empleados públicos.",
+    "Protección legal y garantía de anonimato para los denunciantes de irregularidades.",
+    "Capacidad de la Oficina para investigar conflictos de intereses y uso indebido de recursos públicos.",
+    "Supervisión directa de la contratación pública y de la sostenibilidad financiera de concesiones.",
+    "Establecimiento de un régimen sancionador con multas de hasta 60.000 euros para infracciones muy graves.",
+    "Obligación de las administraciones de colaborar con la Oficina facilitando toda la información requerida."
+  ],
+  "legal_references": [
+    "Ley Orgánica 13/1982, de 10 de agosto",
+    "Resolución 58/4, de 31 de octubre de 2003, de la Asamblea General de Naciones Unidas",
+    "Tratado de la Unión Europea",
+    "Tratado de Funcionamiento de la Unión Europea",
+    "Convenio Civil sobre la Corrupción (número 174 del Consejo de Europa)",
+    "Convenio Penal sobre la Corrupción (número 173 del Consejo de Europa)",
+    "Ley Foral 2/2018, de 13 de abril, de Contratos Públicos",
+    "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Ley Foral 19/1984, de la Cámara de Cuentas de Navarra",
+    "Ley 40/2015"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": "Los cargos públicos deben declarar sus actividades e intereses y justificar variaciones patrimoniales. Las administraciones están obligadas a suministrar toda la información requerida por la Oficina bajo pena de sanción. Se prohíbe la filtración de datos durante investigaciones y se castiga la falta de colaboración con multas de hasta 20.000€ (graves) o 60.000€ (muy graves).",
+  "effective_date": "2018-09-08",
+  "procedures": [
+    {
+      "name": "Procedimiento de Investigación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "description": "La Oficina inicia la investigación de oficio o por denuncia tras un análisis de veracidad.",
+          "start_date": null,
+          "end_date": "2 meses para decidir si se inicia o se archiva",
+          "required_documentation": "Denuncia por escrito o solicitud razonada"
+        },
+        {
+          "step": 2,
+          "title": "Tramitación e Instrucción",
+          "description": "Realización de entrevistas, inspecciones in situ y examen de documentos y bases de datos.",
+          "start_date": "Desde el acuerdo de inicio",
+          "end_date": "6 meses (prorrogables por otros 6 meses)",
+          "required_documentation": "Documentación administrativa, registros, libros y expedientes"
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Propuesta de archivo, inicio de expediente sancionador, traslado a Fiscalía o recomendaciones.",
+          "start_date": "Tras finalizar la instrucción",
+          "end_date": "10 días para que la dirección resuelva la propuesta",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación del expediente sancionador",
+          "description": "Se inicia tras la resolución de la investigación si se detectan infracciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Tramitación sancionadora",
+          "description": "Instrucción del procedimiento para imponer la sanción correspondiente.",
+          "start_date": null,
+          "end_date": "6 meses (prorrogables por otros 6 meses)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

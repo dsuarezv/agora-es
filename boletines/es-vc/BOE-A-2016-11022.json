@@ -1,0 +1,83 @@
+{
+  "identifier": "BOE-A-2016-11022",
+  "title": "Ley 9/2016, de 28 de octubre, de Regulacion de los Procedimientos de Emergencia Ciudadana en la Administracion de la Comunitat Valenciana",
+  "visible_title": "Ley de Regulacion de los Procedimientos de Emergencia Ciudadana en la Comunitat Valenciana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "9/2016",
+  "publication_date": "2016-11-23",
+  "enactment_date": "2016-10-28",
+  "last_updated": "2025-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2016/10/28/9",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley crea un mecanismo para acelerar trámites administrativos esenciales en la Comunidad Valenciana cuando se trata de servicios vitales o derechos sociales. Permite declarar ciertos procedimientos como de 'emergencia ciudadana' para reducir los plazos de resolución a la mitad. Además, obliga a la administración a garantizar recursos humanos y económicos específicos para que estos trámites no se detengan por falta de medios.",
+  "citizen_impact": "Los ciudadanos en situaciones de vulnerabilidad (mayores, personas con discapacidad, víctimas de violencia de género, etc.) recibirán respuestas de la administración mucho más rápido. Por ejemplo, las ayudas de emergencia social o el asesoramiento a víctimas de violencia de género tendrán una tramitación prioritaria y acelerada.",
+  "professional_impact": "Los funcionarios de la Generalitat y entidades locales deben reorganizar sus tareas para dar prioridad a estos expedientes, con una dotación preferente de personal. Las administraciones tienen prohibido recortar el presupuesto destinado a estos procedimientos de emergencia durante el ejercicio presupuestario.",
+  "keywords": [
+    "emergencia ciudadana",
+    "procedimiento administrativo",
+    "tramitación de urgencia",
+    "ayudas sociales",
+    "Comunitat Valenciana",
+    "derechos sociales",
+    "reducción de plazos"
+  ],
+  "key_points": [
+    "Los plazos de resolución y notificación se reducen automáticamente a la mitad para los trámites de emergencia.",
+    "Si la administración no resuelve una solicitud de emergencia que reconozca un derecho, esta se entenderá estimada por silencio administrativo.",
+    "Se prohíbe realizar modificaciones presupuestarias que reduzcan el dinero destinado a estos procedimientos.",
+    "La administración debe usar lenguaje claro y reducir al mínimo la documentación que el ciudadano debe presentar.",
+    "Los trámites de asesoramiento para víctimas de violencia de género no pueden superar las 24 horas.",
+    "Se establece prioridad en la asignación de puestos de trabajo y recursos para las unidades que gestionen estos expedientes."
+  ],
+  "legal_references": [
+    "Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas",
+    "Estatuto de Autonomía de la Comunidad Valenciana",
+    "Ley 9/2007, de 12 de marzo, de la Generalitat, de renta garantizada de ciudadanía de la Comunidad Valenciana",
+    "Ley 39/2006, de 14 de diciembre, de promoción de la autonomía personal y atención a las personas en situación de dependencia"
+  ],
+  "derogatons": [],
+  "main_obligations": "La administración debe garantizar la dotación de recursos humanos y económicos suficientes para estos trámites. Los órganos competentes tienen la obligación de velar por la aplicación de la tramitación de urgencia y el cumplimiento de los plazos reducidos.",
+  "effective_date": "2016-11-24",
+  "procedures": [
+    {
+      "name": "Procedimientos de Emergencia Ciudadana (General)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación de urgencia",
+          "description": "Reducción de los plazos máximos de resolución y notificación a la mitad del tiempo ordinario.",
+          "start_date": "Desde la presentación de la solicitud",
+          "end_date": "Plazo ordinario dividido por 2",
+          "required_documentation": "Documentación mínima necesaria (según principio de simplificación)"
+        },
+        {
+          "step": 2,
+          "title": "Resolución o Silencio Administrativo",
+          "description": "En procedimientos que reconozcan derechos, si no hay respuesta en el plazo reducido, se entiende estimada la solicitud.",
+          "start_date": null,
+          "end_date": "Al finalizar el plazo reducido",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Asesoramiento a mujeres víctimas de violencia de género",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación urgente",
+          "description": "El plazo para prestar el asesoramiento no puede superar las 24 horas.",
+          "start_date": "Desde la solicitud",
+          "end_date": "24 horas",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

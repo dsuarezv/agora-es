@@ -1,0 +1,77 @@
+{
+  "identifier": "BOE-A-2022-18555",
+  "title": "Ley 3/2022, de 6 de octubre, de información geográfica de Aragón",
+  "visible_title": "Ley de información geográfica de Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "3/2022",
+  "publication_date": "2022-11-12",
+  "enactment_date": "2022-10-06",
+  "last_updated": "2022-10-25",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2022/10/06/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para la gestión, producción y acceso a la información cartográfica y geográfica en Aragón. Su objetivo es unificar y modernizar el sistema de datos espaciales, garantizando que la información territorial sea un servicio público interoperable y accesible. Busca mejorar la toma de decisiones en políticas públicas mediante el uso de tecnologías avanzadas como el Big Data y la inteligencia espacial.",
+  "citizen_impact": "Facilita el acceso de cualquier ciudadano a mapas y datos geográficos precisos de Aragón de forma telemática. Garantiza el derecho a solicitar información territorial sin necesidad de justificar un interés específico y promueve que estos datos sean fáciles de entender y utilizar.",
+  "professional_impact": "Las empresas y profesionales del sector (ingeniería, urbanismo, agricultura, etc.) se benefician de datos oficiales más fiables y estandarizados. Por otro lado, los funcionarios y administraciones locales tienen la obligación de catalogar, mantener y compartir su información geográfica siguiendo estándares comunes para evitar duplicidades.",
+  "keywords": [
+    "información geográfica",
+    "cartografía",
+    "Aragón",
+    "datos espaciales",
+    "Instituto Geográfico de Aragón",
+    "ordenación del territorio",
+    "interoperabilidad"
+  ],
+  "key_points": [
+    "Creación del Sistema de Información Geográfica de Aragón como servicio público.",
+    "Gestión centralizada de la cartografía básica a través del Instituto Geográfico de Aragón.",
+    "Obligatoriedad de usar la cartografía oficial en todos los trámites administrativos de la Comunidad Autónoma.",
+    "Creación de la Infraestructura de Conocimiento Espacial de Aragón (ICEARA_GÓN) para facilitar el uso de datos.",
+    "Establecimiento de la Red Geo-désica Activa de Aragón (ARAGEA) para posicionamiento de alta precisión.",
+    "Derecho de acceso a la información geográfica mediante solicitud, con resolución en un plazo máximo de un mes.",
+    "Obligación de las administraciones de incorporar información geográfica en sus actos administrativos y en el Boletín Oficial de Aragón."
+  ],
+  "legal_references": [
+    "Ley 7/1986, de 24 de enero, de Ordenación de la Cartografía",
+    "Real Decreto 1545/2007, de 23 de noviembre",
+    "Ley 14/2010, de 5 de julio, sobre las infraestructuras y los servicios de información geográfica en España",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Decreto Legislativo 2/2015, de 17 de noviembre, del Gobierno de Aragón (LOTA)",
+    "Decreto 81/2015, de 5 de mayo, del Gobierno de Aragón",
+    "Decreto 82/2015, de 5 de mayo, del Gobierno de Aragón"
+  ],
+  "derogations": [
+    "Artículos 51, 52, 53, 54, 55, 56, 57 y 58 del Texto Refundido de la Ley de Ordenación del Territorio de Aragón (Decreto Legislativo 2/2015)",
+    "Decreto 82/2015, de 5 de mayo, del Gobierno de Aragón"
+  ],
+  "main_obligations": "Las administraciones públicas deben catalogar, mantener y publicar su información geográfica de forma electrónica. Además, deben solicitar informe preceptivo al Instituto Geográfico de Aragón antes de realizar cualquier contrato público de elaboración de cartografía o adquisición de imágenes de satélite.",
+  "effective_date": "2022-11-13",
+  "procedures": [
+    {
+      "name": "Acceso a la información geográfica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de acceso",
+          "description": "Presentación de la solicitud identificando al solicitante, la información requerida y el formato preferido, preferiblemente vía sede electrónica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Identificación del solicitante y descripción de la información geográfica solicitada."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la solicitud",
+          "description": "Notificación de la concesión o denegación de la información. La denegación debe ser motivada.",
+          "start_date": null,
+          "end_date": "1 mes (ampliable a 2 meses en casos complejos)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

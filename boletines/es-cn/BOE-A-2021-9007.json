@@ -1,0 +1,91 @@
+{
+  "identifier": "BOE-A-2021-9007",
+  "title": "Decreto-ley 3/2021, de 18 de marzo, por el que se modifica la Ley 1/2007, de 17 de enero, por la que se regula la Prestación Canaria de Inserción para agilizar la gestión administrativa de las renovaciones de la Prestación Canaria de Inserción, se mejora la financiación de la gestión municipal y se aprueba un suplemento económico en favor de las familias con personas menores de edad a cargo",
+  "visible_title": "Modificación de la Prestación Canaria de Inserción: ayudas para familias con menores y agilización de renovaciones",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "3/2021",
+  "publication_date": "2021-05-31",
+  "enactment_date": "2021-03-18",
+  "last_updated": "2021-03-19",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/dl/2021/03/18/3",
+  "official_journal": "Boletín Oficial de Canarias",
+  "journal_issue": null,
+  "summary": "Esta norma busca evitar que las familias vulnerables pierdan la Prestación Canaria de Inserción (PCI) debido a los retrasos administrativos causados por la pandemia. Introduce un extra de 50 euros mensuales por cada hijo menor de edad para combatir la pobreza infantil. Además, permite que los ayuntamientos renueven la ayuda automáticamente si ven que la familia sigue necesitándola, sin esperar a que el ciudadano pida cita.",
+  "citizen_impact": "Las familias con hijos menores recibirán 50 euros adicionales al mes por cada menor a su cargo. Además, se reduce el riesgo de perder la ayuda por no conseguir cita previa en servicios sociales, ya que la administración podrá renovarla de oficio.",
+  "professional_impact": "Los trabajadores sociales y administrativos municipales cuentan con una nueva vía de financiación para cubrir sus gastos de personal. Se agiliza su trabajo mediante la posibilidad de proponer renovaciones de oficio basadas en informes sociales, evitando la saturación de trámites presenciales.",
+  "keywords": [
+    "Prestación Canaria de Inserción",
+    "PCI",
+    "pobreza infantil",
+    "ayudas sociales",
+    "Canarias",
+    "renovación de oficio",
+    "servicios sociales"
+  ],
+  "key_points": [
+    "Nuevo complemento de 50 euros mensuales por cada persona menor de edad en la unidad de convivencia.",
+    "Posibilidad de renovación de la prestación 'de oficio' mediante informe de servicios sociales, sin necesidad de solicitud previa del ciudadano.",
+    "Extensión del plazo de renovación de oficio hasta dos meses después del vencimiento de la prestación.",
+    "Ampliación de la financiación para ayuntamientos, permitiendo cubrir gastos de personal administrativo y de apoyo a la inserción, no solo de trabajadores sociales.",
+    "Agilización de expedientes de renovación pendientes mediante resolución favorable automática si no hay cambios en la situación familiar o económica."
+  ],
+  "legal_references": [
+    "Ley 1/2007, de 17 de enero, por la que se regula la Prestación Canaria de Inserción",
+    "Decreto-ley 16/2020, de 24 de septiembre",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Decreto 136/2007, de 24 de mayo",
+    "Decreto 153/2017, de 8 de mayo"
+  ],
+  "derogations": [],
+  "main_obligations": null,
+  "effective_date": "2021-03-18",
+  "procedures": [
+    {
+      "name": "Renovación de la Prestación Canaria de Inserción (PCI)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de renovación",
+          "description": "El ciudadano solicita la renovación de la prestación, ya sea de forma presencial o mediante declaración responsable.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Modelo de declaración responsable"
+        },
+        {
+          "step": 2,
+          "title": "Renovación de oficio (vía alternativa)",
+          "description": "Los servicios sociales municipales, mediante informe motivado, proponen la renovación si detectan que persisten las causas de necesidad.",
+          "start_date": "Hasta 2 meses después del vencimiento de la prestación",
+          "end_date": null,
+          "required_documentation": "Informe social motivado"
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "La Dirección General de Derechos Sociales e Inmigración resuelve favorablemente para agilizar el proceso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Implementación del complemento por menores",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Puesta en marcha informática",
+          "description": "Desarrollo y testeo del aplicativo informático para la gestión de la nómina con el nuevo complemento.",
+          "start_date": "2021-03-18",
+          "end_date": "3 meses después de la entrada en vigor",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

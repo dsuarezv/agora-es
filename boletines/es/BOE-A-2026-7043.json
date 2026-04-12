@@ -1,0 +1,112 @@
+{
+  "identifier": "BOE-A-2026-7043",
+  "title": "Circular 1/2026, de 18 de marzo, de la Comisión Nacional de los Mercados y la Competencia, por la que se regula el Registro de Alias",
+  "visible_title": "Regulación del Registro de Alias para combatir la suplantação de identidad en mensajes SMS, MMS y RCS",
+  "rank": "circular",
+  "country": "es",
+  "department": "Comisión Nacional de los Mercados y la Competencia",
+  "official_number": "1/2026",
+  "publication_date": "2026-03-27",
+  "enactment_date": "2026-03-18",
+  "last_updated": "2026-03-27",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/cir/2026/03/18/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "76",
+  "summary": "Esta norma establece las reglas para crear y gestionar un Registro de Alias, diseñado para frenar las estafas mediante la suplantação de identidad en mensajes de texto. Obliga a las empresas y administraciones a inscribir los nombres que aparecen como remitentes (alias) en un registro oficial gestionado por la CNMC. Además, impone a los operadores de telefonía la obligación de bloquear cualquier mensaje que utilice un alias no registrado o que provenga de un proveedor no autorizado.",
+  "citizen_impact": "Aumenta la seguridad de los usuarios al reducir el riesgo de recibir mensajes fraudulentos que se hacen pasar por bancos o instituciones públicas. Los ciudadanos podrán tener mayor certeza de que el nombre que aparece en sus SMS o mensajes RCS es legítimo.",
+  "professional_impact": "Las empresas y administraciones deben inscribir sus alias antes de usarlos, lo que implica un nuevo trámite administrativo y la acreditación de la titularidad de su marca. Los operadores de telefonía y proveedores de mensajería asumen la carga técnica de implementar sistemas de bloqueo y remitir estadísticas anuales a la CNMC.",
+  "keywords": [
+    "Registro de Alias",
+    "suplantación de identidad",
+    "SMS",
+    "RCS",
+    "fraude telefónico",
+    "CNMC",
+    "seguridad cibernética",
+    "operadores de telecomunicaciones"
+  ],
+  "key_points": [
+    "Creación de un Registro de Alias gestionado por la CNMC para identificar remitentes de mensajes.",
+    "Obligación de bloqueo de mensajes con alias no inscritos o enviados por proveedores no habilitados.",
+    "Las empresas extranjeras que envíen mensajes a números españoles también deben registrar sus alias.",
+    "Los operadores deben bloquear mensajes con alias españoles recibidos desde el extranjero si no están registrados.",
+    "Se requiere acreditar la vinculación legítima con el alias mediante marcas, nombres comerciales o dominios.",
+    "Los proveedores de mensajería deben guardar y remitir estadísticas anuales de mensajes bloqueados.",
+    "Existe un periodo de pruebas para que los operadores adapten sus sistemas antes de la obligatoriedad.",
+    "Los alias no registrados o sin uso durante 12 meses serán suspendidos o cancelados."
+  ],
+  "legal_references": [
+    "Orden TDF/149/2025, de 12 de febrero",
+    "Ley 3/2013, de 4 de junio, de creación de la Comisión Nacional de los Mercados y la Competencia (LCNMC)",
+    "Ley 11/2022, de 28 de junio, General de Telecomunicaciones (LGTel)",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales"
+  ],
+  "derogations": [],
+  "main_obligations": "Las empresas deben inscribir sus alias en el Registro de la CNMC antes de su uso. Los proveedores de mensajería están obligados a bloquear mensajes con alias no registrados y a remitir estadísticas anuales de bloqueos antes del 1 de febrero de cada año.",
+  "effective_date": "2026-06-07",
+  "procedures": [
+    {
+      "name": "Inscripción de Alias en el Registro",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inscripción",
+          "description": "Presentación de la solicitud mediante formulario web en la sede electrónica con certificado digital.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos del alias, vinculación con marca/dominio, datos de la empresa, NIF, domicilio y selección de proveedores de origen."
+        },
+        {
+          "step": 2,
+          "title": "Autorización del titular (si actúa un tercero)",
+          "description": "El titular tiene 10 días hábiles para aprobar o rechazar la solicitud presentada por un tercero.",
+          "start_date": "10 días hábiles tras la notificación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Revisión de la CNMC",
+          "description": "La CNMC revisa la solicitud para verificar la vinculación legítima y el cumplimiento de requisitos.",
+          "start_date": "Tras la autorización del titular",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución e inscripción",
+          "description": "Se procede a la inscripción definitiva o se comunica el rechazo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Carga masiva de alias (Periodo transitorio)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de alias en uso por proveedores",
+          "description": "Los proveedores de origen facilitan un fichero con los alias que ya están utilizando.",
+          "start_date": "Desde la entrada en vigor de la circular",
+          "end_date": "1 mes",
+          "required_documentation": "Fichero de carga masiva con alias adecuados al formato"
+        },
+        {
+          "step": 2,
+          "title": "Confirmación del titular",
+          "description": "El titular debe confirmar la vinculación de su alias y su relación con el proveedor.",
+          "start_date": "Tras el procesamiento de la carga",
+          "end_date": "10 días hábiles",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

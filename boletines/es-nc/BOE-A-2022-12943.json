@@ -1,0 +1,109 @@
+{
+  "identifier": "BOE-A-2022-12943",
+  "title": "Ley Foral 23/2022, de 1 de julio, regulaforadora del canon de uso de las carreteras de Navarra",
+  "visible_title": "Canon de uso de las carreteras de Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "23/2022",
+  "publication_date": "2022-08-02",
+  "enactment_date": "2022-07-01",
+  "last_updated": "2022-07-14",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2022/07/01/23",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece un pago obligatorio (canon) para los vehículos pesados que circulen por determinadas autopistas y carreteras de alta capacidad en Navarra. El objetivo es aplicar el principio de 'quien utiliza, paga' para financiar la construcción, mantenimiento y conservación de la red viaria. Además, busca generar recursos para la protección del medio ambiente y mejorar la gestión de las infraestructuras de transporte.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos particulares que no operen vehículos de transporte de mercancías.",
+  "professional_impact": "Afecta directamente a empresas de transporte y autónomos con vehículos de más de 3,5 toneladas. Obliga a la gestión de pagos mediante dispositivos TAG o registros telemáticos y establece sanciones económicas crecientes en caso de impago.",
+  "keywords": [
+    "canon de uso",
+    "carreteras de Navarra",
+    "vehículos pesados",
+    "transporte de mercancías",
+    "tasa de infraestructura",
+    "peaje",
+    "mantenimiento viario"
+  ],
+  "key_points": [
+    "Obligatoriedad de pago para vehículos de transporte de mercancías con masa máxima autorizada superior a 3,5 toneladas.",
+    "Las vías sujetas son las autovías A-1, A-10, A-15, A-68 y la carretera N-121-A (Pamplona-Behobia).",
+    "El pago se realizará mediante sistema de flujo libre (sin detenerse) usando dispositivos TAG o registro web con tarjeta bancaria.",
+    "Los vehículos se dividen en dos categorías para el cálculo de la cuantía: Pesados 1 (3,5 a 12 toneladas) y Pesados 2 (más de 12 toneladas).",
+    "El plazo para abonar el canon es de 60 días naturales tras el uso de la vía.",
+    "Los impagos generan recargos de gestión: 5% el primer mes, 10% hasta el tercer mes y 20% después del tercer mes.",
+    "La recaudación se destinará exclusivamente a la conservación, explotación y construcción de infraestructuras de la Red de Carreteras de Navarra."
+  ],
+  "legal_references": [
+    "Directiva 1999/62/CE",
+    "Ley Foral 5/2007, de 23 de marzo, de Carreteras de Navarra",
+    "Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Mejoramiento del Régimen Foral de Navarra (LORAFNA)",
+    "Ley Foral 13/2000, de 14 de diciembre, General Tributaria",
+    "Reglamento (UE) 2016/679"
+  ],
+  "derogations": [],
+  "main_obligations": "Los titulares de vehículos pesados (>3,5t) deben abonar el canon en un plazo de 60 días naturales. El impago conlleva recargos de hasta el 20% y posibles expedientes sancionadores.",
+  "effective_date": "2022-08-03",
+  "procedures": [
+    {
+      "name": "Pago del canon de uso",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Devengo del canon",
+          "description": "El hecho imponible ocurre en el momento en que el vehículo accede a la vía o tramo sujeto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de abonamiento",
+          "description": "El usuario debe realizar el pago mediante TAG o registro telemático.",
+          "start_date": null,
+          "end_date": "60 días naturales tras el devengo",
+          "required_documentation": "Dispositivo TAG o datos de tarjeta bancaria/registro web"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento por impago",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requerimiento de pago",
+          "description": "Notificación de deuda incrementada con recargo de gestión del 5%.",
+          "start_date": "1 mes tras el vencimiento del plazo de pago",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Segundo recargo",
+          "description": "Si persiste el impago, se aplica un recargo del 10%.",
+          "start_date": "Entre el primer y tercer mes tras el vencimiento",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Tercer recargo",
+          "description": "Si persiste el impago, se aplica un recargo del 20%.",
+          "start_date": "Más de 3 meses tras el vencimiento",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Incoación de expediente sancionador",
+          "description": "Tras dos meses de no haber pagado ni oponido, se inicia el procedimiento sancionador o de apremio.",
+          "start_date": "2 meses tras la notificación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

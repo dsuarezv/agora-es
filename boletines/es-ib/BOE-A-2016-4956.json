@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-2016-4956",
+  "title": "Decreto Legislativo 1/2016, de 6 de mayo, por el que se aprueba el Texto Refundido de la Ley 9/1991, de 27 de noviembre, reguladora del canon de saneamiento de aguas",
+  "visible_title": "Ley Reguladora del Canon de Saneamiento de Aguas",
+  "rank": "decreto legislativo",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "1/2016",
+  "publication_date": "2016-05-25",
+  "enactment_date": "2016-05-06",
+  "last_updated": "2024-12-13",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/dlg/2016/05/06/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma unifica y actualiza la regulación del canon de saneamiento de aguas en las Islas Baleares. Su objetivo es recaudar fondos destinados exclusivamente a la política hidráulica, la depuración de aguas residuales y la mejora de la calidad del agua. El tributo se calcula basándose en el consumo de agua, buscando un equilibrio entre la población residente y la población turística.",
+  "citizen_impact": "Los ciudadanos verán reflejado este canon en su factura del agua. Incluye beneficios como bonificaciones del 75% para familias con bajos ingresos y descuentos para quienes utilicen agua reutilizada o vivan en zonas sin depuradoras.",
+  "professional_impact": "Las empresas suministradoras de agua actúan como sustitutos del contribuyente, con la obligación de recaudar y repercutir el canon en las facturas. Los sectores agrícolas y ganaderos están exentos del pago, siempre que acrediten su actividad.",
+  "keywords": [
+    "canon de saneamiento",
+    "aguas residuales",
+    "depuración de agua",
+    "tributos Baleares",
+    "consumo de agua",
+    "política hidráulica"
+  ],
+  "key_points": [
+    "El canon se calcula según el consumo de agua (metros cúbicos) y una cuota fija.",
+    "Existe una bonificación del 75% en la cuota fija para familias con ingresos inferiores a 1,25 veces el SMI.",
+    "Las explotaciones agrícolas, ganaderas y forestales están exentas del pago.",
+    "Se establece un régimen especial de cuota fija anual para campos de golf según su número de hoyos.",
+    "Los suministradores de agua tienen la obligación de cobrar el canon y trasladar la carga al consumidor final.",
+    "El dinero recaudado debe destinarse íntegramente a la gestión del ciclo del agua y saneamiento."
+  ],
+  "legal_references": [
+    "Ley 9/1991, de 27 de noviembre",
+    "Constitución Española",
+    "Estatuto de Autonomía de las Illes Balears",
+    "Ley 5/2015, de 23 de marzo",
+    "Ley 3/2008, de 13 de abril",
+    "Ley General Tributaria"
+  ],
+  "derogations": [
+    "Ley 9/1991, de 27 de noviembre, reguladora del canon de saneamiento de aguas"
+  ],
+  "main_obligations": "Los suministradores de agua deben incluir el canon de forma separada en la factura y realizar la declaración liquidación anual antes del 28 de febrero. Los consumidores deben acreditar las exenciones (como en el caso de agricultores) para no pagar el tributo.",
+  "effective_date": "2016-05-26",
+  "procedures": [
+    {
+      "name": "Liquidación y pago del canon",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Facturación y repercusión",
+          "description": "El suministrador incluye el canon en la factura del agua del cliente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Declaración resumen anual",
+          "description": "El sustituto del contribuyente presenta la declaración resumen de las cuotas recaudadas.",
+          "start_date": null,
+          "end_date": "28 de febrero del año siguiente",
+          "required_documentation": "Declaración liquidación"
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de bonificación por bajos ingresos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de ingresos",
+          "description": "El contribuyente debe justificar que sus ingresos familiares son inferiores al límite establecido para obtener el 75% de descuento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite ingresos anuales de la unidad familiar"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

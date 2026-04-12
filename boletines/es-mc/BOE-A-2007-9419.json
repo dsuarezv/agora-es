@@ -1,0 +1,92 @@
+{
+  "identifier": "BOE-A-2007-9419",
+  "title": "Ley 10/2006, de 21 de diciembre, de Energías Renovables y Ahorro y Eficiencia Energética de la Región de Murcia",
+  "visible_title": "Ley de Energías Renovables y Ahorro y Eficiencia Energética de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "10/2006",
+  "publication_date": "2007-05-09",
+  "enactment_date": "2006-12-21",
+  "last_updated": "2017-02-16",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2006/12/21/10",
+  "official_journal": "Boletín Oficial de la Región de Murcia",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco para que la Región de Murcia transite hacia un modelo energético sostenible, priorizando las energías renovables y el uso eficiente de la energía. Introduce mecanismos para facilitar la implantación de proyectos renovables, como la 'Autorización de Aprovechamiento' única, y fomenta la investigación tecnológica. Además, obliga a la Administración regional a ser ejemplar mediante la modernización de sus propios edificios y la adopción de tecnologías limpias.",
+  "citizen_impact": "Los ciudadanos pueden beneficiarse de una reducción en sus facturas energéticas gracias al fomento de la eficiencia y el uso de renovables. También se promueven nuevos hábitos de consumo responsable y se incentiva la rehabilitación de viviendas para mejorar su rendimiento energético.",
+  "professional_impact": "Las empresas del sector energético deben cumplir con requisitos de capacitación y registro para instalar o mantener equipos. Se crean nuevas figuras como las 'empresas colaboradoras' y se establecen auditorías obligatorias para grandes consumidores, además de un régimen sancionador con multas de hasta 300.000 euros para infracciones muy graves.",
+  "keywords": [
+    "energías renovables",
+    "eficiencia energética",
+    "ahorro energético",
+    "energía solar",
+    "desalinizacion",
+    "auditoría energética",
+    "Región de Murcia",
+    "sostenibilidad"
+  ],
+  "key_points": [
+    "Creación de la 'Autorización de Aprovechamiento' para simplificar los trámites administrativos de proyectos renovables.",
+    "Prioridad de acceso a la red para instalaciones de energías renovables y plantas de desalación con energía limpia.",
+    "Obligación de la Administración de modernizar sus edificios para ser eficientes en un plazo de 10 años.",
+    "Establecimiento de auditorías energéticas obligatorias para grandes consumidores de energía convencional.",
+    "Creación de un Centro de Innovación en Energías Renovables y Eficiencia Energética.",
+    "Exigencia de certificaciones de calidad y normalización para todos los equipos e instalaciones.",
+    "Régimen sancionador que incluye multas de hasta 300.000 euros por infracciones muy graves.",
+    "Fomento de la investigación y la transferencia de conocimiento mediante una Oficina de Transferencia Tecnológica."
+  ],
+  "legal_references": [
+    "Ley 21/1992, de 16 de julio, de Industria",
+    "Ley 24/2013, de 26 de diciembre, del Sector Eléctrico",
+    "Real Decreto-ley 8/2014, de 4 de julio",
+    "Ley 30/1992, de 26 de diciembre, del Régimen Jurídico de las Administraciones Públicas",
+    "Estatuto de Autonomía de la Región de Murcia"
+  ],
+  "derogations": [],
+  "main_obligations": "Las empresas instaladoras deben estar inscritas en el Registro Integrado Industrial y contar con medios técnicos/humanos mínimos. Los grandes consumidores pueden ser obligados a realizar auditorías energéticas periódicas. Se prohíbe operar instalaciones renovables sin la debida Autorización de Aprovechamiento, bajo riesgo de multas elevadas.",
+  "effective_date": "2007-05-23",
+  "procedures": [
+    {
+      "name": "Autorización de Aprovechamiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación de la autorización",
+          "descrption": "Procedimiento administrativo único que unifica todos los requisitos de industria y energía para la implantación de instalaciones renovables.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación técnica según normativa de industria y energía"
+        }
+      ]
+    },
+    {
+      "name": "Elaboración de Directrices y Planes Sectoriales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio de elaboración",
+          "descrption": "La Administración debe iniciar la creación de las directrices y planes de impulso de energías renovables.",
+          "start_date": "6 meses desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Plan Energético Regional",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación del Plan",
+          "descrption": "El Gobierno Regional debe presentar un nuevo Plan Energético Regional ante la Asamblea Regional.",
+          "start_date": "12 meses desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

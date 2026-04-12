@@ -1,0 +1,89 @@
+{
+  "identifier": "BOE-A-2018-12518",
+  "title": "Ley 19/2018, de 13 de julio, de aceleración de la inversión a proyectos prioritarios (LAIP)",
+  "visible_title": "Ley de aceleración de la inversión a proyectos prioritarios",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat Valenciana",
+  "official_number": "19/2018",
+  "publication_date": "2018-09-14",
+  "enactment_date": "2018-07-13",
+  "last_updated": "2022-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2018/07/13/19",
+  "official_journal": "Diario Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta ley crea el Punto de Aceleración a la Inversión en la Comunidad Valenciana para agilizar la puesta en marcha de proyectos empresariales estratégicos. Su objetivo es reducir la burocracia mediante una interlocución única y la coordinación entre administraciones. Para obtener estos beneficios, los proyectos deben cumplir criterios de innovación, sostenibilidad, creación de empleo o inversión mínima. La norma busca dinamizar la economía regional eliminando barreras administrativas y costes improductivos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo por la posible mejora indirecta en el empleo y la economía regional derivada de las inversiones incentivadas.",
+  "professional_impact": "Las empresas que cumplan los requisitos de inversión o empleo pueden reducir a la mitad los plazos de los trámites administrativos de la Generalitat. Los funcionarios de la administración autonómica y local deberán priorizar y agilizar la tramitación de estos proyectos bajo un modelo de coordinación centralizada a través del IVACE.",
+  "keywords": [
+    "inversión",
+    "proyectos prioritarios",
+    "agilización administrativa",
+    "Comunidad Valenciana",
+    "IVACE",
+    "creación de empleo",
+    "sostenibilidad"
+  ],
+  "key_points": [
+    "Creación del Punto de Aceleración a la Inversión como interlocutor único para empresas.",
+    "Reducción de los plazos de los trámites administrativos a la mitad para proyectos prioritarios.",
+    "Requisito de inversión mínima de 600.000 € en activos fijos o creación de al menos 10 empleos indefinidos a jornada completa.",
+    "Reducción de los requisitos de inversión y empleo a la mitad para proyectos en municipios con riesgo de despoblación.",
+    "Obligatoriedad de cumplir criterios de sostenibilidad, innovación y responsabilidad social para ser considerado proyecto prioritario.",
+    "Creación de una Comisión Permanente de Inversiones para coordinar los diferentes departamentos de la Generalitat.",
+    "Posibilidad de revocar la calificación de proyecto prioritario si no se cumplen los compromisos de inversión o empleo."
+  ],
+  "legal_references": [
+    "Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas",
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunidad Valenciana",
+    "Ley 40/2015, de 1 de octubre, del régimen jurídico del sector público"
+  ],
+  "derogations": [
+    "Todas las disposiciones de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": "Las empresas solicitantes deben presentar un informe detallado y una declaración responsable que justifique el cumplimiento de criterios sociales y ambientales, comprometiéndose a mantenerlos al menos tres años. El IVACE debe resolver la calificación en un plazo máximo de 10 días naturales.",
+  "effective_date": "2018-09-15",
+  "procedures": [
+    {
+      "name": "Calificación de proyectos prioritarios de inversión",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "La empresa presenta la documentación acreditativa de los requisitos ante el IVACE.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el cumplimiento de los criterios del artículo 2 (inversión, empleo, sostenibilidad, etc.)."
+        },
+        {
+          "step": 2,
+          "title": "Revisión y valoración",
+          "description": "El IVACE revisa si el proyecto cumple los requisitos para dictar resolución.",
+          "start_date": "Desde la recepción de la solicitud",
+          "end_date": "10 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Subsanación (si procede)",
+          "description": "Plazo para corregir deficiencias en la documentación si el IVACE lo requiere.",
+          "start_date": "Tras el requerimiento de subsanación",
+          "end_date": "10 días hábiles",
+          "required_documentation": "Documentación necesaria para subsanar deficiencias."
+        },
+        {
+          "step": 4,
+          "title": "Resolución de calificación",
+          "description": "Dictamen final de la Consejería que aprueba o deniega la condición de proyecto prioritario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

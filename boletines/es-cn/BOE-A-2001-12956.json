@@ -1,0 +1,72 @@
+{
+  "identifier": "BOE-A-2001-12956",
+  "title": "Ley 1/2001, de 21 de mayo, sobre construcción de edificios aptos para la utilización de energía solar",
+  "visible_title": "Ley sobre construcción de edificios aptos para la utilización de energía solar",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "1/2001",
+  "publication_date": "2001-07-05",
+  "enactment_date": "2001-05-21",
+  "last_updated": "2001-05-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2001/05/21/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley obliga a que todas las nuevas construcciones y rehabilitaciones integrales en Canarias incluyan la infraestructura necesaria (preinstalación) para instalar sistemas de energía solar térmica. El objetivo es facilitar el aprovechamiento de la energía solar para producir agua caliente sin necesidad de realizar obras adicionales en el futuro. Con esto se busca fomentar la autosuficiencia energética, reducir el consumo de combustibles fósiles y mejorar la sostenibilidad ambiental de las islas.",
+  "citizen_impact": "Los propietarios de viviendas o locales comerciales deberán asegurar que sus edificios tengan la infraestructura solar preparada si realizan obras nuevas o reformas integrales. Esto evita que en el futuro tengan que romper paredes o hacer obras costosas para instalar placas solares, permitiendo una transición más sencilla hacia el autoconsumo.",
+  "professional_impact": "Arquitectos, ingenieros y constructores están obligados a incluir la preinstalación de energía solar térmica en todos los proyectos de edificación o rehabilitación integral que presenten. Los ayuntamientos no podrán conceder licencias de obra ni de uso si el proyecto no cumple con este requisito técnico.",
+  "keywords": [
+    "energía solar térmica",
+    "preinstalación solar",
+    "eficiencia energética",
+    "construcción",
+    "Canarias",
+    "agua caliente sanitaria",
+    "rehabilitación de edificios"
+  ],
+  "key_points": [
+    "Obligatoriedad de preinstalación solar térmica en edificios de vivienda y otros usos (agrícola, hotelero, etc.).",
+    "La preinstalación debe permitir la conexión de equipos solares sin necesidad de obras de fábrica adicionales.",
+    "La norma se aplica también a reformas o rehabilitaciones integrales de edificios existentes.",
+    "Se excluyen edificios con bajo consumo de agua caliente, zonas con poca radiación solar o protegidos por patrimonio histórico.",
+    "La falta de preinstalación impide la obtención de licencias de construcción y de uso de la edificación.",
+    "La obligatoriedad para proyectos presentados a partir del 1 de enero de 2002."
+  ],
+  "legal_references": [
+    "Estatuto de Autoformía de Canarias",
+    "Ley 19/94, de 6 de julio, de Régimen Económico y Fiscal de Canarias",
+    "Ley 82/80, de 30 de diciembre",
+    "Ley 54/1997, de 27 de noviembre, de Regulación del sistema eléctrico",
+    "Ley de Ordenación de la Edificación, de 5 de noviembre de 1999",
+    "Ley 11/1997, de 2 de diciembre, del sector eléctrico canario"
+  ],
+  "derogatons": [],
+  "main_obligations": "Es obligatorio incluir la preinstalación de energía solar térmica en todo proyecto de construcción o rehabilitación integral presentado desde el 01/01/2002. Sin este requisito, las administraciones tienen prohibido conceder licencias de obra o de uso.",
+  "effective_date": "2001-07-06",
+  "procedures": [
+    {
+      "name": "Concesión de licencias de construcción y uso",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación del proyecto arquitectónico/técnico",
+          "descrption": "El interesado debe presentar el proyecto incluyendo obligatoriamente la preinstalación de energía solar térmica.",
+          "start_date": "2002-01-01",
+          "end_date": null,
+          "required_documentation": "Proyecto técnico con previsión de preinstalación solar térmica"
+        },
+        {
+          "step": 2,
+          "title": "Verificación y concesión de licencia",
+          "descrption": "La administración comprueba que el proyecto cumple con la ley para poder otorgar la licencia de obra o de uso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

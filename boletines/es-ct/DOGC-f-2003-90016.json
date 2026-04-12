@@ -1,0 +1,276 @@
+{
+  "identifier": "DOGC-f-2003-90016",
+  "title": "Decreto Legislativo 3/2003, de 4 de noviembre, por el que se aprueba el Texto refundido de la legislación en materia de aguas de Cataluña",
+  "visible_title": "Legislación en materia de aguas de Cataluña",
+  "rank": "decreto legislativo",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "3/2003",
+  "publication_date": "2003-11-21",
+  "enactment_date": "2003-11-04",
+  "last_updated": "2025-10-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=DOGC-f-2003-90016",
+  "official_journal": "DOGC",
+  "journal_issue": null,
+  "summary": "Esta norma unifica y centraliza toda la gestión del agua en Cataluña bajo la autoridad de la Agencia Catalana del Agua. Establece un modelo de gestión integral que abarca desde la captación hasta el saneamiento, buscando la eficiencia y la recuperación de costes. Introduce mecanismos de control estrictos mediante la obligatoriedad de contadores y sistemas de telecontrol para grandes usuarios. Además, regula el uso de recursos en situaciones de sequía y establece incentivos para empresas que demuestren un uso sostenible del agua.",
+  "citizen_impact": "Los ciudadanos pueden beneficiarse de una tarifa social en el canon del agua si se encuentran en situación de vulnerabilidad, paro o son pensionistas. Por otro lado, se limita la capacidad de construir en zonas cercanas a redes de abastecimiento (10m) y saneamiento (3m). En caso de sequía, el suministro podría verse afectado por medidas de emergencia adoptadas por el Gobierno.",
+  "professional_impact": "Las empresas industriales y grandes usuarios (regadíos, ganadería, recreativo) asumen cargas administrativas y técnicas significativas, como la instalación de sistemas de medida de caudal, telecontrol y la presentación de planes de ahorro en sequía. Las empresas suministradoras actúan como recaudadoras del canon y deben realizar auditorías de eficiencia cada dos años si superan los 5.000 abonados. Se ofrecen descuentos de hasta el 10% en el canon para empresas con certificaciones de eficiencia ambiental (ISO 14001/EMAS).",
+  "keywords": [
+    "gestión del agua",
+    "Agencia Catalana del Agua",
+    "canon del agua",
+    "sequía",
+    "saneamiento",
+    "regadíos",
+    "vertidos industriales",
+    "eficiencia hídrica"
+  ],
+  "key_points": [
+    "Creación de la Agencia Catalana del Agua como autoridad única de gestión.",
+    "Obligatoriedad de instalar y mantener sistemas de medida de caudal a cargo del titular.",
+    "Prohibición de edificar en zonas de servidumbre de 10m para abastecimiento y 3m para saneamiento.",
+    "Implementación de un canon del agua basado en el uso real y la contaminación.",
+    "Existencia de una tarifa social para colectivos vulnerables.",
+    "Descuentos de hasta el 10% en el canon para empresas con certificaciones de eficiencia (ISO 14001/EMAS).",
+    "Obligación de presentar planes de ahorro para grandes usuarios en situaciones de sequía.",
+    "Exención del canon de regulación para agricultores en zonas de sequía si reducen su dotación un 25%.",
+    "Obligación de instalar sistemas de telecontrol para captaciones superiores a 10 Hm³/año.",
+    "Las empresas de vertido tributan según su capacidad de captación y el tratamiento de aguas de terceros.",
+    "Permiso para instalar energías renovables (solar/biogás) en saneamiento sin cambiar el planeamiento urbanístico.",
+    "Las suministradoras con más de 5.000 abonados deben realizar auditorías de eficiencia cada dos años."
+  ],
+  "legal_references": [
+    "Estatuto de autonomía de Cataluña",
+    "Constitución Española",
+    "Ley 5/1981",
+    "Real decreto 2646/1985",
+    "Ley 29/1985",
+    "Ley 17/1987",
+    "Ley 4/1990",
+    "Ley 5/1990",
+    "Ley 19/1991",
+    "Ley 25/1998",
+    "Ley 6/1999",
+    "Ley 31/2002",
+    "Ley 21/2001",
+    "Ley 4/1985",
+    "Real decreto legislativo 1/2001",
+    "Ley 9/1993",
+    "Decreto legislativo 2/2003",
+    "Ley de expropiación forzosa",
+    "Ley 26/2010",
+    "Ley 13/2006",
+    "Ley del Estado 30/1992",
+    "Ley General Tributaria",
+    "CCAE 2009",
+    "Ley 58/2003",
+    "AENOR EA0043",
+    "AENOR EA0047",
+    "UNE 166.002",
+    "Ley del Estado 40/2015",
+    "Reglamento de la planificación hidrológica (Decreto 380/2006)",
+    "Ley de 7 de julio de 1911"
+  ],
+  "derogations": [
+    "Ley 6/1999, de 12 de julio, de ordenación, gestión y tributación del agua",
+    "Artículo 15 al 21 de la Ley 25/1998",
+    "Preceptos de la Ley 4/1990 (Abastecimiento área de Barcelona)",
+    "Preceptos de la Ley 5/1990 (Infraestructuras hidráulicas)",
+    "Preceptos de la Ley 19/1991 (Reforma de la Junta de Saneamiento)",
+    "Apartado 5 del artículo 7 del Reglamento de la planificación hidrológica",
+    "Apartado 2 del artículo 8 del Reglamento de la planificación hidrológica",
+    "Ley de 7 de julio de 1911 (en relación con obras de riego promovidas por la Generalidad)"
+  ],
+  "main_obligations": "Los grandes usuarios y titulares de derechos deben instalar sistemas de medida de caudal y telecontrol si superan ciertos umbrales. En sequía, los grandes consumidores están obligados a presentar planes de ahorro. Las empresas suministradoras deben recaudar el canon y realizar auditorías de eficiencia cada dos años si superan los 5.000 abonados.",
+  "effective_date": "2003-11-22",
+  "procedures": [
+    {
+      "name": "Planificación Hidrológica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del Plan de gestión",
+          "description": "La Agencia elabora el plan para alcanzar objetivos de sostenibilidad y calidad del agua.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Trámite de participación para que la ciudadanía y administraciones opinen sobre el plan.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación",
+          "description": "El Gobierno aprueba finalmente el Plan de gestión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de Situaciones de Sequía",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración de escenario de sequía",
+          "description": "Se activan los umbrales de escasez de recursos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de planes de ahorro",
+          "description": "Grandes usuarios deben presentar sus planes de ahorro ante la Agencia para su informe de adecuación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Plan de ahorro específico"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador por daños o vertidos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requerimiento previo",
+          "description": "La administración realiza un requerimiento previo para el cumplimiento de una obligación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Imposición de multa coercitiva",
+          "description": "Si no se cumple el requerimiento, se imponen multas reiteradas en periodos no inferiores a 20 días.",
+          "start_date": "Tras el vencimiento del plazo del requerimiento",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Incoación de expediente sancionador",
+          "description": "Inicio del proceso para determinar la infracción y la sanción económica correspondiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de Tarifa Social del Canon del Agua",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de requisitos",
+          "description": "El interesado debe acreditar su situación (pensionista, vulnerabilidad, etc.) mediante informes de servicios sociales o documentos oficiales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe de servicios sociales o documentos de la Seguridad Social"
+        },
+        {
+          "step": 2,
+          "title": "Solicitud formal",
+          "description": "Presentación de la solicitud ante la Agencia Catalana del Agua o la entidad suministradora.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración y autoliquidación del canon del agua (Usuarios de abastecimiento a terceros)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración de lecturas y autoliquidación",
+          "description": "Presentación de lecturas de aparatos de medida y pago del canon según el volumen.",
+          "start_date": "Trimestralmente",
+          "end_date": "Día 20 del mes siguiente al trimestre",
+          "required_documentation": "Lecturas de aparatos de medida"
+        },
+        {
+          "step": 2,
+          "title": "Relación detallada de facturación",
+          "description": "Presentación de la relación de lo facturado a otras entidades suministradoras.",
+          "start_date": "Anual",
+          "end_date": "30 de enero",
+          "required_documentation": "Documentos equivalentes a facturas"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de aprobación de canon de regulación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Estudio económico",
+          "description": "Realización de estudio con participación de los beneficiarios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Periodo para que los interesados presenten alegaciones.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución y notificación",
+          "description": "Aprobación del valor y notificación a los sujetos que hayan alegado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Cálculo de la base imponible por estimación objetiva",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Estimación de captaciones subterráneas sin contador",
+          "descrption": "Aplicación de la fórmula Q = 37.500 x p/(h + 20) basada en la potencia del elevador y profundidad del acuífero.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Estimación por contratos de aforo",
+          "descrption": "Cálculo mediante la fórmula b = I/P utilizando el importe pagado y el precio medio ponderado de la zona.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adecuación de materias oxidables (MO) en la declaración Duca",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración de valores de MO",
+          "descrption": "Los usuarios deben declarar el valor de materias oxidables siguiendo la relación MO = DQO/2.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración del uso y la contaminación del agua (DUCA)"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 4
+}

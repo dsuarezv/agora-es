@@ -1,0 +1,95 @@
+{
+  "identifier": "BOE-A-1996-25660",
+  "title": "Ley 5/1996, de 30 de julio, de Museos de la Región de Murcia",
+  "visible_title": "Ley de Museos de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "5/1996",
+  "publication_date": "1996-11-19",
+  "enactment_date": "1996-07-30",
+  "last_updated": "1996-08-12",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/1996/07/30/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea un marco legal para organizar, coordinar y proteger el patrimonio museístico de la Región de Murcia. Establece las condiciones para que un centro sea reconocido oficialmente como museo o colección museográfica, asegurando estándares de conservación y gestión. Además, crea el Sistema de Museos de la Región para integrar centros públicos y privados, fomentando la investigación y el turismo cultural.",
+  "citizen_impact": "Garantiza que los ciudadanos tengan acceso a centros culturales con estándares mínimos de calidad, investigación y exhibición. Establece el derecho a la gratuidad de la visita al menos un día a la semana en los museos integrados en el sistema.",
+  "professional_impact": "Los gestores de museos y colecciones deben cumplir con requisitos estrictos de inventario, personal cualificado y mantenimiento para obtener el reconocimiento oficial. Los ayuntamientos y entidades privadas que gestionen fondos arqueológicos o museísticos quedan sujetos a la supervisión, inspección y posibles sanciones de la Administración autonómica.",
+  "keywords": [
+    "museos",
+    "patrimonio cultural",
+    "colecciones museográficas",
+    "gestión cultural",
+    "Región de Murcia",
+    "conservación",
+    "sistema de museos"
+  ],
+  "key_points": [
+    "Creación del Sistema de Museos de la Región de Murcia para coordinar centros públicos y privados.",
+    "Establecimiento de requisitos mínimos para ser reconocido como museo (horario, inventario, personal cualificado, etc.).",
+    "Obligación de ofrecer acceso gratuito al menos un día a la semana.",
+    "Creación del Fondo de Arte de la Región de Murcia y un fondo para la protección de bienes culturales.",
+    "Derecho de tanteo, retracto y adquisición preferente de la Comunidad Autónoma sobre los fondos de los museos integrados.",
+    "Facultad de la Administración para realizar inspecciones mediante agentes de la autoridad.",
+    "Posibilidad de expropiación forzosa de inmuebles para la creación o ampliación de museos de interés social.",
+    "Régimen sancionador con multas que pueden alcanzar las 10.000.000 de pesetas en casos muy graves."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Ley 5/1990, de 11 de abril, de Museos de la Región de Murcia",
+    "Ley de Expropiación Forzosa",
+    "Legislación sobre patrimonio histórico español"
+  ],
+  "derogations": [
+    "Ley 5/1990, de 11 de abril, de Museos de la Región de Murcia"
+  ],
+  "main_obligations": "Los museos deben mantener inventarios actualizados, comunicar cualquier cambio en sus fondos y facilitar el acceso a investigadores. El incumplimiento de estas obligaciones o la puesta en peligro de los fondos puede derivar en multas de hasta 10 millones de pesetas y la expulsión del Sistema de Museos.",
+  "effective_date": "1996-11-20",
+  "procedures": [
+    {
+      "name": "Reconocimiento de museos y colecciones museográficas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y documentación",
+          "description": "El interesado aporta la documentación que acredita el cumplimiento de los requisitos del artículo 15.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación acreditativa de inventario, personal, inmueble y presupuesto."
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y dictamen",
+          "description": "La Consejería estudia la documentación y realiza las comprobaciones e informes técnicos necesarios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Se dicta orden resolutoria por la Consejería reconociendo el museo o la colección.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Creación de museos municipales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización previa",
+          "description": "Los Ayuntamientos deben solicitar autorización a la Consejería para verificar la adecuación a la ley.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

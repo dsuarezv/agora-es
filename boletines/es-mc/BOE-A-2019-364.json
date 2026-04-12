@@ -1,0 +1,93 @@
+{
+  "identifier": "BOE-A-2019-364",
+  "title": "Ley 11/2018, de 15 de noviembre, por la que se establecen Medidas Adiicionales de Protección de la Salud Pública y del Medio Ambiente para la Exploración, Investigación o Explotación de Hidrocarburos utilizando la Técnica de la Fractura Hidráulica en la Comunidad Autónoma de la Región de Murcia",
+  "visible_title": "Medidas de protección de la salud y el medio ambiente ante la fractura hidráulica en la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "11/2018",
+  "publication_date": "2019-01-14",
+  "enactment_date": "2018-11-15",
+  "last_updated": "2018-11-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2018/11/15/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un marco de protección reforzado para prevenir los riesgos ambientales y sanitarios derivados de la técnica de fractura hidráulica (fracking) en Murcia. Introduce la obligatoriedad de crear un Plan Estratégico Regional que determine qué zonas son aptas y cuáles deben quedar excluidas. Además, impone requisitos técnicos y de seguridad mucho más estrictos que la normativa estatal para evitar la contaminación de aguas y suelos. Como medida cautelar, prohíbe conceder nuevas autorizaciones hasta que no se apruebe dicho plan.",
+  "citizen_impact": "Protege la salud pública y los recursos hídricos de la región frente a posibles contaminaciones químicas o sismos inducidos. Los ciudadanos tienen derecho a participar activamente en la elaboración del Plan Estratégico y en los procesos de evaluación ambiental.",
+  "professional_impact": "Las empresas del sector de hidrocarburos enfrentan mayores cargas burocráticas y técnicas, incluyendo la obligación de realizar evaluaciones de riesgo exhaustivas y presentar planes de gestión de residuos y aguas muy detallados. Deben constituir garantías financieras para cubrir posibles daños ambientales y cumplir con prohibiciones estrictas sobre el uso de sustancias químicas peligrosas.",
+  "keywords": [
+    "fractura hidráulica",
+    "fracking",
+    "hidrocarburos",
+    "medio ambiente",
+    "salud pública",
+    "Región de Murcia",
+    "evaluación de impacto ambiental"
+  ],
+  "key_points": [
+    "Prohibición de nuevas autorizaciones de exploración o explotación hasta la aprobación del Plan Estratégico Regional.",
+    "Creación de un Plan Estratégico en un plazo máximo de 18 meses con participación ciudadana obligatoria.",
+    "Zonificación del territorio para establecer áreas de exclusión donde la técnica queda prohibida por riesgo ambiental o sanitario.",
+    "Prohibición absoluta del uso de sustancias químicas cancerígenas, mutágenas, tóxicas para la reproducción o con alteraciones endocrinas.",
+    "Obligación de realizar un registro de la actividad sísmica natural durante un año antes de iniciar cualquier proyecto.",
+    "Exigencia de establecer una garantía financiera para cubrir posibles daños al medio ambiente.",
+    "Obligatoriedad de realizar evaluaciones de riesgo que cubran desde la preparación hasta el post-desmantelamiento del pozo.",
+    "Requisito de que un tercero independiente y cualificado revise la integridad del diseño y construcción del pozo."
+  ],
+  "legal_references": [
+    "Ley 17/2013, de 29 de octubre",
+    "Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos",
+    "Ley 21/2013, de 9 de diciembre, de evaluación ambiental",
+    "Real Decreto 2362/1976, de 27 de junio",
+    "Ley 26/2007, de 23 de octubre, de Responsabilidad Medioambiental",
+    "Reglamento (CE) n.º 1907/2006",
+    "Reglamento (UE) n.º 528/2012",
+    "Reglamento (CE) n.º 1272/2008",
+    "Estatuto de Autonomía de la Región de Murcia"
+  ],
+  "derogations": [],
+  "main_obligations": "Las empresas deben realizar evaluaciones de riesgo completas, garantizar la integridad del pozo mediante auditorías externas y prohibirse el uso de sustancias químicas de alta peligrosidad. Asimismo, están obligadas a constituir una garantía financiera previa al inicio de cualquier operación para responder por daños ambientales.",
+  "effective_date": "2019-01-15",
+  "procedures": [
+    {
+      "name": "Elaboración del Plan Estratégico de la utilización de la fractura hidráulica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración y coordinación interdepartamental",
+          "descrption": "Las consejerías de medio ambiente, salud pública, energía y territorio coordinan el diseño del plan.",
+          "start_date": "A partir de la entrada en vigor de la ley",
+          "end_date": "18 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Participación pública e informe del Consejo Asesor",
+          "descrption": "Trámite de información pública y consulta obligatoria al Consejo Asesor Regional de Medio Ambiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Evaluación ambiental estratégica",
+          "descrption": "Análisis de impactos sobre salud, agua, residuos y emisiones según la Ley 21/2013.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación mediante Decreto",
+          "descrption": "El Consejo de Gobierno aprueba finalmente el plan.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

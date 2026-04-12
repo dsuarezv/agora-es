@@ -1,0 +1,114 @@
+{
+  "identifier": "BOE-A-1990-23936",
+  "title": "Ley 7/1990, de 28 de junio, de Protección de Embalses y Zonas Húmedas de la Comunidad Autónoma de Madrid",
+  "visible_title": "Ley de Protección de Embalses y Zonas Húmedas de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "7/1990",
+  "publication_date": "1990-09-29",
+  "enactment_date": "1990-06-28",
+  "last_updated": "2015-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1990/06/28/7",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": "163",
+  "summary": "Esta ley crea un marco de protección especial para los embalses y zonas húmedas de la Comunidad de Madrid para frenar su degradación. Establece la creación de un Catálogo oficial y obliga a elaborar Planes de Ordenación para regular el uso de estos espacios. Su objetivo es asegurar la calidad del agua para abastecimiento y preservar los ecosistemas y el paisaje frente a la presión urbanística y agrícola.",
+  "citizen_impact": "Limita las actividades recreativas, de acampada o de navegación en zonas protegidas para evitar la contaminación. También restringe la construcción de viviendas o infraestructuras en los terrenos cercanos a estos ecosistemas.",
+  "professional_impact": "Empresas agrícolas y ganaderas deben controlar el uso de pesticidas y fertilizantes para no afectar la calidad del agua. Desarrolladores urbanísticos y propietarios de terrenos en zonas de servidumbre ven sus actividades condicionadas por la necesidad de autorizaciones previas de la Agencia de Medio Ambiente.",
+  "keywords": [
+    "embalses",
+    "zonas húmedas",
+    "medio ambiente",
+    "protección de aguas",
+    "ecosistemas",
+    "Comunidad de Madrid",
+    "conservación"
+  ],
+  "key_points": [
+    "Creación de un Catálogo de Embalses y Humedales con carácter de registro público.",
+    "Clasificación automática de los terrenos en zonas de protección como suelo no urbanizable.",
+    "Obligatoriedad de contar con un Plan de Ordenación para cada embalse catalogado.",
+    "Establecimiento de una zona de protección de 50 metros alrededor de los humedales.",
+    "Necesidad de autorización de la Agencia de Medio Ambiente para cualquier actividad que afecte al estado natural del agua.",
+    "Procedimiento de coordinación obligatoria con la Confederación Hidrográfica del Tajo.",
+    "Calificación de las obras de los Planes de Ordenación como utilidad pública para posibles expropiaciones."
+  ],
+  "legal_references": [
+    "Ley de Aguas",
+    "Estatuto de Autonomía de la Comunidad de Madrid",
+    "Real Decreto 1703/1984",
+    "Ley de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestre",
+    "Ley de Ordenación Territorial",
+    "Reglamento del Dominio Público Hidráulico",
+    "Ley 10/1984 de Ordenación Territorial de la Comunidad de Madrid",
+    "Ley de Gestión del Medio Ambiente de la Comunidad de Madrid"
+  ],
+  "derogatations": [
+    "Disposiciones de igual o menor rango que se opongan a la presente Ley en el ámbito de la Comunidad de Madrid"
+  ],
+  "main_obligations": "Se prohíbe cualquier actividad o vertido que altere la calidad del agua sin autorización. Las infracciones muy graves, como la construcción en suelo no urbanizable o la contaminación deliberada, pueden acarrear multas de hasta 50.000.000 de pesetas (según la escala original de la norma).",
+  "effective_date": "1990-06-28",
+  "procedures": [
+    {
+      "name": "Aprobación del Catálogo de Embalses y Humedales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Redacción del Catálogo",
+          "description": "La Agencia de Medio Ambiente elabora el registro de los espacios protegidos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información Pública",
+          "description": "El catálogo se somete a consulta pública para recibir alegaciones.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación",
+          "description": "El Consejo de Gobierno de la Comunidad de Madrid aprueba y revisa el catálogo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de autorizaciones urbanísticas en zonas protegidas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud ante el Ayuntamiento",
+          "description": "El interesado presenta la documentación ante la administración urbanística local.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación técnica por duplicado"
+        },
+        {
+          "step": 2,
+          "title": "Remisión al Ayuntamiento",
+          "description": "El Ayuntamiento envía el expediente con informe facultativo a la Agencia de Medio Ambiente.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informe de la Agencia de Medio Ambiente",
+          "description": "La Agencia emite un informe vinculante (denegatorio o con condicionantes).",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

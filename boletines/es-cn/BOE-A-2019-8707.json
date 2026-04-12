@@ -1,0 +1,140 @@
+{
+  "identifier": "BOE-A-2019-8707",
+  "title": "Ley 11/2019, de 25 de abril, de Patrimonio Cultural de Canarias",
+  "visible_title": "Ley de Patrimonio Cultural de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "11/2019",
+  "publication_date": "2019-06-12",
+  "enactment_date": "2019-04-25",
+  "last_updated": "2019-05-13",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2019/04/25/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza la protección de la identidad canaria al ampliar el concepto de patrimonio para incluir paisajes, entornos industriales, tradiciones orales y gastronomía. Establece un control mucho más estricto sobre las obras y actividades arqueológicas, obligando a los propietarios a mantener sus bienes y permitiendo sanciones económicas muy elevadas. Además, busca agilizar la administración eliminando trabas burocráticas y facilitando que cualquier ciudadano pueda solicitar la protección de un bien sin coste alguno. En definitiva, busca un equilibrio entre el desarrollo y la preservación de la memoria histórica y cultural de las islas.",
+  "citizen_impact": "Cualquier ciudadano puede solicitar la protección de un bien cultural sin coste. Si encuentras algo arqueológico por casualidad, tienes 24 horas para comunicarlo y podrías recibir el 50% de su valor como recompensa. Por otro lado, si eres dueño de un bien protegido, tienes la obligación de mantenerlo y permitir el acceso a investigadores, bajo riesgo de multas mensuales.",
+  "professional_impact": "Empresas constructoras y promotores deben financiar el estudio de hallazgos arqueológicos y pueden sufrir suspensiones de obra de hasta 6 meses sin indemnización. Los comercios en zonas históricas deberán retirar publicidad exterior tras la aprobación de planes especiales. Los ayuntamientos tienen plazos estrictos para actualizar sus catálogos y planes de protección, bajo riesgo de caducidad de expedientes.",
+  "keywords": [
+    "patrimonio cultural",
+    "canarias",
+    "bien de interés cultural",
+    "arqueología",
+    "paisaje cultural",
+    "protección de bienes"
+  ],
+  "key_points": [
+    "Ampliación del concepto de patrimonio: se incluyen paisajes, sitios industriales, gastronomía y tradiciones orales.",
+    "Nuevas categorías de protección: se crean los Bienes de Interés Cultural de paisaje cultural y sitio industrial.",
+    "Protección inmediata: el inicio de un expediente de declaración ya aplica medidas de protección provisionales.",
+    "Control arqueológico estricto: las obras pueden suspenderse hasta 6 meses ante hallazgos sin derecho a indemnización.",
+    "Recompensa por hallazgos: comunicación en 24h permite recibir el 50% del valor del objeto encontrado.",
+    "Sanciones severas: multas por infracciones muy graves que pueden alcanzar los 600.000 euros.",
+    "Límites de gasto: los propietarios de inmuebles protegidos tienen un tope de gasto en conservación del 50% del coste de una construcción nueva similar.",
+    "Estética urbana: prohibición de cables aéreos, antenas o paneles solares que afecten la imagen de conjuntos históricos.",
+    "Agilidad administrativa: eliminación de la necesidad de denunciar la mora para la caducidad de expedientes.",
+    "Democratización de la información: creación del Sistema de Información del Patrimonio Cultural de Canarias.",
+    "Facilidad de solicitud: cualquier ciudadano puede pedir la declaración de un bien sin barreras económicas.",
+    "Subrogación de competencias: el Gobierno de Canarias puede actuar si los Cabildos no ejercen sus competencias."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Canarias",
+    "Constitución Española",
+    "Ley 4/1999, de 15 de marzo, de Patrimonio Histórico de Canarias",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Ley 10/2015, de 26 de mayo, para la salvaguarda del patrimonio cultural inmaterial",
+    "Ley 4/2017, de 13 de julio, del Suelo y de los Espacios Naturales Protegidos de Canarias",
+    "Decreto 262/2003, de 23 de mayo",
+    "Decreto 111/2004, de 29 de julio"
+  ],
+  "derogations": [
+    "Ley 4/1999, de 15 de marzo, de Patrimonio Histórico de Canarias"
+  ],
+  "main_obligations": "Los propietarios deben conservar y permitir el acceso a los bienes protegidos, comunicando la venta de muebles al Cabildo. Los hallazgos arqueológicos deben comunicarse en un máximo de 24 horas. Los municipios deben adaptar sus catálogos en un plazo de 3 años.",
+  "effective_date": "2019-07-12",
+  "procedures": [
+    {
+      "name": "Comunicación de hallazgo arqueológico casual",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación del hallazgo",
+          "description": "Comunicar el hallazgo a la administración para tener derecho a recompensa.",
+          "start_date": "Inmediato",
+          "end_date": "24 horas tras el hallazgo",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Recompensa económica",
+          "description": "Otorgamiento del 50% del valor del objeto al comunicador.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de Bien de Interés Cultural (BIC)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Apertura del expediente de declaración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Medidas de protección provisional",
+          "description": "Aplicación automática de medidas de protección y limitación de obras.",
+          "start_date": "Desde el inicio del procedimiento",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución y caducidad",
+          "description": "Finalización del expediente por resolución o caducidad automática si no termina en el plazo.",
+          "start_date": null,
+          "end_date": "24 meses desde el inicio",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de Conjuntos Históricos (Municipios)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación del Plan Especial de Protección",
+          "description": "Los ayuntamientos con conjuntos históricos deben tener aprobado su plan.",
+          "start_date": null,
+          "end_date": "18 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Retirada de publicidad exterior",
+          "description": "Retirada obligatoria de rótulos y publicidad en fachadas.",
+          "start_date": "Tras la aprobación del plan especial",
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Soterrado de cables",
+          "descripton": "Acuerdo con suministradoras para el soterrado de cables eléctricos y telefónicos.",
+          "start_date": "Tras el acuerdo con suministradoras",
+          "end_date": "2 años",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 4
+}

@@ -1,0 +1,78 @@
+{
+  "identifier": "DOGV-r-2020-90115",
+  "title": "Decreto-ley 4/2020, de 17 de abril, del Consell, de medidas extraordinas de gestión económico-financiera para hacer frente a la crisis producida por la Covid-19",
+  "visible_title": "Medidas extraordinarias de gestión económico-financiera para hacer frente a la crisis de la Covid-19",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Generalitat Valenciana",
+  "official_number": "4/2020",
+  "publication_date": "2020-04-21",
+  "enactment_date": "2020-04-17",
+  "last_updated": "2020-04-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=DOGV-r-2020-90115",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta norma establece medidas de emergencia para mitigar el impacto económico de la pandemia en la Comunidad Valenciana. Autoriza modificaciones presupuestarias rápidas para apoyar sectores clave como la industria, la agricultura y la ayuda humanitaria. Además, busca garantizar la liquidez de las empresas y la subsistencia de las familias más vulnerables mediante la flexibilización de ayudas y pagos.",
+  "citizen_impact": "Los ciudadanos verán un alivio financiero mediante el aplazamiento sin intereses del pago del Canon de Saneamiento (agua) de los meses de abril, mayo y junio de 2020. Asimismo, se refuerza la protección de las familias en riesgo de exclusión mediante la mejora de la Renta Valenciana de Inclusión.",
+  "professional_impact": "Las empresas y autónomos se benefician de una mayor agilidad en la concesión de ayudas y subvenciones, eliminando trabas burocráticas como la autorización previa de la Comisión Delegada para contratos vinculados a la COVID-19. Los proveedores de la Generalitat cuentan con mecanismos para facilitar la cesión de sus créditos a terceros.",
+  "keywords": [
+    "COVID-19",
+    "gestión económica",
+    "ayudas económicas",
+    "canon de saneamiento",
+    "Renta Valenciana de Inclusión",
+    "modificación presupuestaria",
+    "Comunidad Valenciana"
+  ],
+  "key_points": [
+    "Aplazamiento sin intereses del Canon de Saneamiento por los consumos de abril, mayo y junio de 2020, pagadero en 18 meses.",
+    "Simplificación de la tramitación de ayudas y subvenciones para la COVID-19, eliminando requisitos de pagos anticipados.",
+    "Autorización de modificaciones presupuestarias rápidas para atender la emergencia sanitaria y económica.",
+    "Facilitación de la cesión de créditos de acreedores de la Generalitat a terceros.",
+    "Refuerzo de la Renta Valenciana de Inclusión para colectivos vulnerables.",
+    "Creación de un régimen especial para la recepción y gestión de donaciones destinadas a la crisis sanitaria.",
+    "Agilización de pagos para trabajadores afectados por ERTE y reducción de jornada."
+  ],
+  "legal_references": [
+    "Real Decreto 487/2020",
+    "Real Decreto 463/2020",
+    "Real Decreto 476/2020",
+    "Decreto 105/2019",
+    "Ley 19/2017 de Renta Valenciana de Inclusión",
+    "Decreto Ley 1/2020",
+    "Decreto Ley 3/2020",
+    "Ley 10/2019 de Presupuestos de la Generalitat",
+    "Ley 1/2015 de Hacienda Pública del Sector Público Instrumental",
+    "Real Decreto ley 9/2020",
+    "Ley Orgánica 3/2018 de Protección de Datos"
+  ],
+  "derogations": [],
+  "main_obligations": null,
+  "effective_date": "2020-04-22",
+  "procedures": [
+    {
+      "name": "Aplazamiento del Canon de Saneamiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Consumo de agua",
+          "description": "Periodo de consumo sujeto al aplazamiento.",
+          "start_date": "2020-04-01",
+          "end_date": "2020-06-30",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Cobro fraccionado",
+          "description": "Exigibilidad de las cuotas en 18 meses iguales.",
+          "start_date": "2020-07-01",
+          "end_date": "2022-01-01",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

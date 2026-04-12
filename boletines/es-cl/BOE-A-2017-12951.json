@@ -1,0 +1,111 @@
+{
+  "identifier": "BOE-A-2017-12951",
+  "title": "Ley 6/2017, de 20 de octubre, de medidas de reducción de cargas administrativas para la dinamización empresarial",
+  "visible_title": "Medidas de reducción de cargas administrativas para la dinamización empresarial",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "6/2017",
+  "publication_date": "2017-11-10",
+  "enactment_date": "2017-10-20",
+  "last_updated": "2017-10-25",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2017/10/20/6",
+  "official_journal": "Boletín Oficial de Castilla y León",
+  "journal_issue": null,
+  "summary": "Esta ley busca agilizar la creación y puesta en marcha de empresas en Castilla y León eliminando trabas burocráticas. Sustituye autorizaciones administrativas previas por declaraciones responsables o comunicaciones en sectores clave como la restauración, el juego y los aprovechamientos forestales. El objetivo es reducir costes, plazos y la intervención directa de la Administración para fomentar la inversión y el empleo.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo que sean usuarios de servicios de restauración o espectáculos públicos donde la agilidad administrativa podría mejorar la oferta de ocio.",
+  "professional_impact": "Los empresarios de hostelería, casinos y explotación forestal se benefician de trámites más rápidos y menos complejos. Se sustituyen licencias lentas por declaraciones responsables, permitiendo iniciar actividades con mayor rapidez, aunque se endurecen las sanciones por falsedad en la información aportada.",
+  "keywords": [
+    "simplificación administrativa",
+    "dinamización empresarial",
+    "declaración responsable",
+    "restauración",
+    "juego y apuestas",
+    "aprovechamientos forestales",
+    "Castilla y León"
+  ],
+  "key_points": [
+    "Sustitución de autorizaciones por declaraciones responsables en actividades de restauración y juego complementario.",
+    "Reducción del plazo de expedición de licencias forestales de un mes a quince días.",
+    "Habilitación de la declaración responsable para aprovechamientos forestales de turno corto o menor cuantía.",
+    "Reducción del plazo de resolución de autorizaciones forestales en montes sin ordenación de tres meses a un mes.",
+    "Establecimiento de distancias mínimas para locales de juego: 100 metros de centros de enseñanza y 300 metros entre establecimientos similares.",
+    "Permiso para realizar juegos y apuestas como actividad complementaria en bares, restaurantes y hoteles mediante declaración responsable.",
+    "Introducción de nuevas infracciones por inexactitud o falsedad en declaraciones responsables y comunicaciones."
+  ],
+  "legal_references": [
+    "Ley 7/2006, de 2 de octubre, de Espectáculos Públicos y Actividades Recreativas de la Comunidad de Castilla y León",
+    "Ley 4/1998, de 24 de junio, reguladora del Juego y de las Apuestas de Castilla y León",
+    "Ley 3/2009, de 6 de abril, de Montes de Castilla y León",
+    "Decreto 23/2009, de 26 de marzo, de medidas relativas a la simplificación documental",
+    "Decreto Ley 3/2009, de 23 de diciembre, de Medidas de Impulso de las Actividades de Servicios",
+    "Ley 5/2013, de 19 de junio, de Estímulo a la Creación de Empresas",
+    "Ley 20/2013, de 9 de diciembre, de garantía de unidad de mercado",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Ley 4/2015, de 24 de marzo, del Patrimonio Natural",
+    "Ley 43/2003, de 21 de noviembre, de Montes"
+  ],
+  "derogatations": [],
+  "main_obligations": "Los interesados deben asegurar la veracidad de los datos en las declaraciones responsables, ya que la falsedad constituye una infracción. En el sector forestal, se debe cumplir con los plazos de comunicación previa de 15 días para aprovechamientos con ordenación forestal.",
+  "effective_date": "2017-11-11",
+  "procedures": [
+    {
+      "name": "Obtención de licencia de aprovechamiento forestal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y acreditación",
+          "description": "Presentación de solicitud acreditando el ingreso del fondo de mejoras y gastos facultativos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación determinada por la consejería competente"
+        },
+        {
+          "step": 2,
+          "title": "Resolución administrativa",
+          "description": "Expedición de la licencia por la administración.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aprovechamiento forestal en montes con ordenación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración responsable",
+          "description": "Comunicación del aprovechamiento a la consejería competente.",
+          "start_date": null,
+          "end_date": "15 días antes del inicio",
+          "required_documentation": "Modelo establecido por orden de la consejería"
+        }
+      ]
+    },
+    {
+      "name": "Aprovechamiento forestal en montes sin ordenación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Formalización de la solicitud de autorización administrativa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Modelo y documentación según orden de la consejería"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de autorización",
+          "description": "Plazo máximo para resolver y notificar la autorización.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

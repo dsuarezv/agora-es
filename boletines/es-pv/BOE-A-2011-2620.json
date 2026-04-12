@@ -1,0 +1,105 @@
+{
+  "identifier": "BOE-A-2011-2620",
+  "title": "Ley 6/2010, de 23 de diciembre, de publicidad y comunicación institucional de Euskadi",
+  "visible_title": "Ley de publicidad y comunicación institucional de Euskadi",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "6/2010",
+  "publication_date": "2011-02-11",
+  "enactment_date": "2010-12-23",
+  "last_updated": "2010-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2010/12/23/6",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo las instituciones del País Vasco deben informar y comunicarse con la ciudadanía. Su objetivo es garantizar que la publicidad institucional sea siempre veraz, objetiva y orientada al servicio público, evitando que se use para promocionar logros políticos personales. Establece límites estrictos sobre qué se puede decir y prohíbe mensajes que busquen confundir o que tengan fines partidistas.",
+  "citizen_impact": "Los ciudadanos ganan el derecho a exigir la rectificación o el cese de campañas publicitarias institucionales que sean falsas, engañosas o que incumplan la ley. Además, garantiza que la información pública sea accesible para personas con discapacidad y se difunda en euskera y castellano.",
+  "professional_impact": "Las empresas de publicidad y comunicación que contraten con el sector público vasco deben ajustarse a criterios de transparencia, austeridad y respeto al medio ambiente. Los funcionarios y gestores de comunicación deben planificar sus campañas mediante un Plan Anual y someterse al control de la Comisión Interdepartamental.",
+  "keywords": [
+    "publicidad institucional",
+    "comunicación pública",
+    "País Vasco",
+    "transparencia",
+    "derecho a la información",
+    "rectificación"
+  ],
+  "key_points": [
+    "Prohibición de usar la publicidad institucional para destacar logros de gestión política.",
+    "Obligación de identificar claramente quién es el emisor de cualquier campaña.",
+    "Derecho de los ciudadanos a solicitar la cesación o rectificación de mensajes ilícitos.",
+    "Uso obligatorio de las lenguas euskera y castellano en las campañas.",
+    "Creación de la Comisión Interdepartamental para controlar y evaluar la publicidad.",
+    "Restricción de campañas institucionales durante periodos electorales para evitar ventajas indebidas.",
+    "Preferencia por soportes publicitarios respetuosos con el medio ambiente.",
+    "Obligación de garantizar la accesibilidad para personas con discapacidad."
+  ],
+  "legal_references": [
+    "Ley 29/2005, de 29 de diciembre, de Publicidad y Comunicación Institucional",
+    "Estatuto de Autonomía del País Vasco",
+    "Ley de Principios Ordenadores de la Hacienda General del País Vasco",
+    "Ley 34/1988, de 11 de diciembre, General de Publicidad",
+    "Ley Orgánica 5/1985, del Régimen Electoral General",
+    "Ley Orgánica 2/1980, sobre Regulacion de las Distintas Modalidades de Referéndum",
+    "Ley 5/1990, de Elecciones al Parlamento Vasco"
+  ],
+  "derogatons": [
+    "Cualquier disposición de igual o inferior rango que se oponga a esta ley"
+  ],
+  "main_obligations": "Las administraciones deben asegurar que la publicidad sea veraz, transparente y no partidista. Se prohíbe el uso de mensajes que induzcan a error, que sean sexistas o que pretendan confundirse con símbolos de partidos políticos.",
+  "effective_date": "2011-02-12",
+  "procedures": [
+    {
+      "name": "Solicitud de cesación o rectificación de campañas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Los ciudadanos o entidades afectadas presentan la solicitud ante el órgano competente.",
+          "start_date": "Desde el inicio de la campaña",
+          "end_date": null,
+          "required_documentation": "Acreditación de derecho o interés legítimo"
+        },
+        {
+          "step": 2,
+          "title": "Resolución del órgano",
+          "description": "El órgano debe resolver la solicitud de forma ejecutiva.",
+          "start_date": "Desde la presentación",
+          "end_date": "6 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ejecución de la rectificación",
+          "description": "Si se estima la rectificación, la administración debe cumplirla.",
+          "start_date": "Desde la resolución",
+          "end_date": "7 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Medida cautelar de suspensión",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Petición de suspensión provisional",
+          "description": "Solicitud de parada inmediata de la campaña ante indicios de infracción manifiesta.",
+          "start_date": "Desde la presentación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la medida cautelar",
+          "description": "El órgano decide sobre la suspensión provisional.",
+          "start_date": "Desde la petición",
+          "end_date": "2 días",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

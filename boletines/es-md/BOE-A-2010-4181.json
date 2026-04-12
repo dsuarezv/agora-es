@@ -1,0 +1,104 @@
+{
+  "identifier": "BOE-A-2010-4181",
+  "title": "Ley 8/2009, de 21 de diciembre, de Medidas Liberalizadoras y de Apoyo a la Empresa Madrileña",
+  "visible_title": "Ley de Medidas Liberalizadoras y de Apoyo a la Empresa Madrileña",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "8/2009",
+  "publication_date": "2010-03-13",
+  "enactment_date": "2009-12-21",
+  "last_updated": "2022-12-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2009/12/21/8",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley busca eliminar las trabas burocráticas que frenan la actividad económica en la Comunidad de Madrid, adaptándose a la Directiva Europea de Servicios. Sustituye autorizaciones administrativas previas por sistemas más ágiles como declaraciones responsables y comunicaciones previas. Además, cambia el sentido del silencio administrativo de desestimatorio a estimatorio para favorecer al interesado. El objetivo final es fomentar la competencia, la inversión y la creación de empleo mediante una administración más proactiva.",
+  "citizen_impact": "Los ciudadanos se benefician de una mayor oferta de servicios y una mayor competencia en sectores como el turismo o la sanidad. También mejora la agilidad en la resolución de trámites administrativos gracias al nuevo régimen de silencio administrativo favorable.",
+  "professional_impact": "Las empresas y autónomos ven reducida su carga burocrática al pasar de esperar licencias a utilizar declaraciones responsables. Sectores como el turismo, el comercio, el juego y los servicios sociales experimentan una simplificación de sus regímenes de apertura y gestión. Sin embargo, deben ser extremadamente rigurosos con la veracidad de sus declaraciones para evitar sanciones graves.",
+  "keywords": [
+    "liberalización económica",
+    "declaración responsable",
+    "silencio administrativo estimatorio",
+    "sector servicios",
+    "trámites administrativos",
+    "Comunidad de Madrid",
+    "empresa"
+  ],
+  "key_points": [
+    "Sustitución de autorizaciones previas por declaraciones responsables en turismo y servicios sociales.",
+    "Cambio del silencio administrativo: si la Administración no responde en plazo, se entiende concedido (silencio estimatorio).",
+    "Reducción de los plazos máximos de resolución de los procedimientos administrativos.",
+    "Liberalización del sector de guías de turismo, eliminando exclusividades.",
+    "Simplificación en la apertura de grandes establecimientos comerciales, requiriendo solo licencia municipal.",
+    "Transmisibilidad de los carnés de venta ambulante para asegurar la continuidad del negocio.",
+    "Posibilidad de realizar solicitudes de espectáculos públicos de forma telemática.",
+    "Facilitación de la creación de nuevos colegios profesionales bajo criterios de interés público.",
+    "Eliminación de la necesidad de autorización para cortes de leña en proyectos con impacto ambiental ya evaluados."
+  ],
+  "legal_references": [
+    "Directiva 2006/123/CE",
+    "Ley 1/1999 de Ordenación del Turismo de la Comunidad de Madrid",
+    "Ley 16/1999 de Comercio Interior de la Comunidad de Madrid",
+    "Ley 1/1997 de la Ventas Ambulante de la Comunidad de Madrid",
+    "Ley 6/2001 del Juego en la Comunidad de Madrid",
+    "Ley 11/1998 de Protección de los Consumidores de la Comunidad de Madrid",
+    "Ley 19/1997 de Colegios Profesionales de la Comunidad de Madrid",
+    "Ley 11/2002 de Ordenación de la actividad de los centros y servicios de acción social",
+    "Ley 5/2002 sobre drogodependencias y otros trastornos adictivos",
+    "Ley 16/1995 Forestal y de Protección de la Naturaleza",
+    "Ley 17/1997 de espectáculos y actividades recreativas",
+    "Ley 10/1998 de Patrimonio Histórico de la Comunidad de Madrid"
+  ],
+  "derogations": [
+    "Disposiciones de rango legal u reglamentario que se opongan a la presente ley"
+  ],
+  "main_obligations": "Las empresas deben presentar declaraciones responsables veraces; la falsedad conlleva sanciones graves o muy graves. En servicios sociales, los centros deben contar con un director responsable y cumplir con estándares de calidad y ratios de personal. Las agencias de viajes deben mantener vigentes sus pólizas de seguro y fianzas.",
+  "effective_date": "2010-03-14",
+  "procedures": [
+    {
+      "name": "Declaración responsable de inicio de actividad (Turismo/Servicios Sociales)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración",
+          "descrption": "El interesado comunica el inicio de la actividad bajo su responsabilidad de cumplir los requisitos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el cumplimiento de la normativa vigente."
+        },
+        {
+          "step": 2,
+          "title": "Comprobación administrativa",
+          "descrption": "La Administración realiza la verificación de la actividad en cualquier momento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización administrativa de centros de servicios sociales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "descrption": "Presentación de la documentación para la creación de un nuevo centro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación técnica y declaración responsable de cumplimiento."
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "descrption": "Plazo máximo para que la Administración resuelva y notifique.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

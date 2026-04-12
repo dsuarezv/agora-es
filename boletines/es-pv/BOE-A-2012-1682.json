@@ -1,0 +1,104 @@
+{
+  "identifier": "BOE-A-2012-1682",
+  "title": "Ley 11/1994, de 17 de junio, de Ordenación Farmacéutica de la Comunidad Autónoma del País Vasco",
+  "visible_title": "Ley de Ordenación Farmacéutica del País Vasco",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "11/1994",
+  "publication_date": "2012-02-04",
+  "enactment_date": "1994-06-17",
+  "last_updated": "2012-05-16",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1994/06/17/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley organiza cómo se prestan los servicios de farmacia en el País Vasco para garantizar que todos los ciudadanos tengan acceso rápido y seguro a los medicamentos. Establece las reglas para la apertura, traslado y cierre de farmacias, así como la creación de botiquines en zonas con poca población. Además, regula los servicios de farmacia en hospitales y centros de salud para asegurar un uso racional de los fármacos.",
+  "citizen_impact": "Garantiza que los ciudadanos tengan farmacias distribuidas de forma equilibrada en su territorio, incluso en pueblos pequeños mediante botiquines. Asegura que el servicio de farmacia sea un servicio de interés público con atención profesional y horarios de urgencia garantizados.",
+  "professional_impact": "Los farmacéuticos solo pueden ser propietarios de una única oficina de farmacia y deben cumplir estrictos requisitos de presencia y titulación. Introduce procesos de concurso de méritos para la transmisión de farmacias y establece límites de distancia (250m) y de población para la apertura de nuevos establecimientos.",
+  "keywords": [
+    "ordenación farmacéutica",
+    "oficinas de farmacia",
+    "dispensación de medicamentos",
+    "botiquines",
+    "atención farmacéutica",
+    "País Vasco"
+  ],
+  "key_points": [
+    "Las oficinas de farmacia son servicios de interés público bajo responsabilidad de un farmacéutico.",
+    "Se prohíbe la venta de medicamentos por correo, domicilio o cualquier modalidad de venta ambulante.",
+    "Se crean 'zonas farmacéuticas' para planificar la distribución de farmacias según la población, evitando el exceso de locales en unas zonas y la falta en otras.",
+    "En municipios de menos de 800 habitantes se podrán autorizar botiquines para asegurar el servicio.",
+    "Para abrir una farmacia nueva, debe haber un mínimo de habitantes por oficina (entre 2.500 y 3.200 según la zona).",
+    "Las farmacias deben mantener una distancia mínima de 250 metros entre ellas.",
+    "La propiedad de una farmacia es exclusiva para profesionales farmacéuticos.",
+    "Se establece un régimen de turnos de urgencia y vacaciones para garantizar la continuidad del servicio.",
+    "La transmisión de farmacias a terceros requiere un concurso de méritos si no es a familiares directos.",
+    "Se regulan las incompatibilidades, prohibiendo a los farmacéuticos tener intereses económicos en laboratorios."
+  ],
+  "legal_references": [
+    "Ley 14/1986, de 25 de abril, General de Sanidad",
+    "Ley 25/1990, de 20 de diciembre, del Medicamento",
+    "Estatuto de Autonomía para el País Vasco",
+    "Constitución Española"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a la ley"
+  ],
+  "main_obligations": "Los farmacéuticos deben garantizar la presencia profesional en el horario establecido y cumplir con las normas de conservación y custodia de medicamentos. El incumplimiento de funciones o la falta de presencia del titular puede acarrear multas de hasta 100.000.000 de pesetas (según escala original) y el cierre del establecimiento.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Transmisión de oficinas de farmacia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de carencia",
+          "description": "Deben haber pasado al menos 3 años desde la apertura o última transmisión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comunicación de condiciones",
+          "description": "El transmitente comunica a la Administración el precio y condiciones de la venta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Concurso de méritos",
+          "description": "Si hay varios interesados, se abre un concurso para determinar el orden de preferencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de 3 años de ejercicio profesional en atención farmacéutica"
+        }
+      ]
+    },
+    {
+      "name": "Autorización de nuevas oficinas de farmacia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria",
+          "description": "El Departamento de Sanidad inicia de oficio la convocatoria en el primer semestre del año.",
+          "start_date": "Primer semestre del año",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Solicitud y baremación",
+          "description": "Presentación de solicitudes que se valorarán mediante un baremo de méritos académicos y profesionales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Currículum y méritos profesionales"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,108 @@
+{
+  "identifier": "BOE-A-2013-355",
+  "title": "Ley 13/2012, de 20 de noviembre, de medidas urgentes para la activación económica en materia de industria y energía, nuevas tecnologías, residuos, aguas, otras actividades y medidas tributarias",
+  "visible_title": "Medidas urgentes para la activación económica en materia de industria, energía, nuevas tecnologías, residuos y aguas",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "13/2012",
+  "publication_date": "2013-01-12",
+  "enactment_date": "2012-11-20",
+  "last_updated": "2024-12-13",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2012/11/20/13",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley busca reactivar la economía de las Illes Balears mediante la reducción de trabas administrativas y la simplificación de trámites para empresas. Se centra en facilitar la implantación de energías renovables, mejorar la cobertura de telecomunicaciones y agilizar la gestión de residuos y aguas. El objetivo principal es fomentar el emprendimiento y la creación de empleo en un contexto de crisis económica.",
+  "citizen_impact": "Para el ciudadano común, la norma busca mejorar la conectividad digital y facilitar el acceso a servicios energéticos más sostenibles. También puede influir indirectamente en la gestión de residuos y el uso de aguas en zonas rurales.",
+  "professional_impact": "Las empresas y autónomos se benefician de una mayor agilidad mediante el uso de declaraciones responsables en lugar de licencias para actividades menores. Los sectores de energía, telecomunicaciones y gestión de residuos ven simplificados sus procesos de autorización y gestión de garantías.",
+  "keywords": [
+    "activación económica",
+    "energías renovables",
+    "telecomunicaciones",
+    "gestión de residuos",
+    "simplificación administrativa",
+    "Illes Balears",
+    "emprendimiento"
+  ],
+  "key_points": [
+    "Declaración de utilidad pública para instalaciones de generación, transporte y distribución de energía eléctrica.",
+    "Facilitación de la instalación de redes de telecomunicaciones en suelo rústico mediante la declaración de interés general.",
+    "Sustitución de licencias de actividad por declaraciones responsables para actividades permanentes menores e inocuas.",
+    "Posibilidad de regularizar actividades existentes mediante declaración responsable en un plazo de 18 meses.",
+    "Creación de una fianza única anual para productores de residuos de construcción y demolición.",
+    "Permiso de concesión de aguas subterráneas para uso agrícola y ganadero de hasta 4 hm³ en unidades hidrogeológicas clasificadas.",
+    "Bonificación de hasta el 50% en tasas de residuos para administraciones públicas y entidades del sector público."
+  ],
+  "legal_references": [
+    "Ley 24/2013, de 26 de diciembre, del Sector Eléctrico",
+    "Ley 6/1997, de 8 de julio, del suelo rústico de las Illes Balears",
+    "Ley 39/2015, de 1 de octubre, del procedimiento administrativo común",
+    "Real Decreto Ley 19/2012, de 25 de mayo, de medidas urgentes de liberalización del comercio",
+    "Ley 16/2006, de 17 de octubre, de régimen jurídico de las licencias integradas de actividad de las Illes Balears"
+  ],
+  "derogations": [
+    "Letra b) del grupo 1, letra b) del grupo 2, letras d) y j) del grupo 7 del anexo II de la Ley 11/2006",
+    "Apartado 5 del artículo 20, artículo 26, y capítulos I, III y IV del título IV de la Ley 16/2006",
+    "Capítulo XXII y XXIII del título VIII de la Ley 11/1998"
+  ],
+  "main_obligations": "Los titulares de actividades menores deben presentar una declaración responsable y un proyecto técnico para iniciar su actividad. Los productores de residuos de construcción deben constituir una fianza única antes del 1 de enero de cada año.",
+  "effective_date": "2013-01-13",
+  "procedures": [
+    {
+      "name": "Declaración de utilidad pública o reconocimiento de utilidad pública de instalaciones energéticas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Entrega de la solicitud junto con la documentación técnica requerida.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación técnica establecida por orden del consejero competente."
+        },
+        {
+          "step": 2,
+          "title": "Admisión a trámite y evaluación",
+          "description": "Evaluación de la solicitud por la dirección general competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Información pública",
+          "description": "Publicación en el BOIB para conocimiento general.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Informes de otras administraciones",
+          "description": "Solicitud de informes a consejos insulares y ayuntamientos.",
+          "start_date": null,
+          "end_date": "30 días",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Alegaciones",
+          "description": "Plazo para que los titulares de bienes afectados formulen alegaciones.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Resolución",
+          "description": "Dictamen final del director general competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

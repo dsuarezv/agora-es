@@ -1,0 +1,158 @@
+{
+  "identifier": "BOE-A-2025-18966",
+  "title": "Ley 4/2025, de 11 de julio, de Simplificación, Agilización y Digitalización Administrativa",
+  "visible_title": "Ley de Simplificación, Agilización y Digitalización Administrativa",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "4/2025",
+  "publication_date": "2025-09-25",
+  "enactment_date": "2025-07-11",
+  "last_updated": "2025-07-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2025/07/11/4",
+  "official_journal": "DOCM",
+  "journal_issue": null,
+  "summary": "Esta ley revoluciona la administración de Castilla-La Mancha para eliminar la burocracia mediante la digitalización total y el uso de inteligencia artificial. El cambio fundamental es que ahora el silencio administrativo será, por regla general, positivo, lo que significa que si la Administración no responde, tu solicitud se considera aprobada. Además, se permite que empresas privadas actúen como 'entidades colaboradoras' para agilizar trámites técnicos y se sustituyen las pesadas licencias por declaraciones responsables. El objetivo es que el ciudadano y la empresa no tengan que repetir datos que la Administración ya posee.",
+  "citizen_impact": "Los ciudadanos disfrutarán de una administración más rápida y proactiva a través del nuevo 'Espacio Ciudadano'. El mayor beneficio es la reducción de esperas gracias al silencio administrativo positivo y la eliminación de trámites repetitivos, ya que la Administración usará tus datos automáticamente. Además, tendrás derecho a saber cómo y por qué un algoritmo de IA ha tomado una decisión que te afecte.",
+  "professional_impact": "Las empresas se benefician de la sustitución de licencias por declaraciones responsables y la creación de un 'Canal Empresa' dedicado. Se introduce la figura de las 'Entidades Colaboradoras' privadas para agilizar controles de urbanismo, sanidad o medio ambiente, aunque estas asumen una alta responsabilidad civil. Los funcionarios deberán adaptarse al uso de IA con supervisión humana y a la obligación de resolver en plazos máximos de 3 a 6 meses.",
+  "keywords": [
+    "simplificación administrativa",
+    "digitalización",
+    "inteligencia artificial",
+    "silencio administrativo positivo",
+    "declaración responsable",
+    "Castilla-La Mancha",
+    "entidades colaboradoras"
+  ],
+  "key_points": [
+    "El silencio administrativo positivo es ahora la norma general para solicitudes del interesado.",
+    "Sustitución de licencias y autorizaciones por declaraciones responsables para iniciar actividades de forma inmediata.",
+    "Creación de 'Entidades Colaboradoras' privadas para realizar verificaciones técnicas (urbanismo, sanidad, etc.).",
+    "Implementación de Inteligencia Artificial en la gestión administrativa con derecho a información sobre su lógica.",
+    "Creación del 'Espacio Ciudadano' y el 'Canal Empresa' como puntos de acceso digital único y proactivo.",
+    "Uso de formularios con datos ya cumplimentados por la Administración para evitar la repetición de información.",
+    "Plazos máximos de resolución fijados en 6 meses (o 3 meses si la norma específica no indica otro).",
+    "Obligación de supervisión humana en decisiones de IA que impliquen valoración subjetiva o jurídica.",
+    "Régimen sancionador severo: hasta 300.000 € para particulares y 500.000 € para entidades colaboradoras."
+  ],
+  "legal_references": [
+    "Directiva 2006/123/CE",
+    "Ley 39/2015",
+    "Ley 40/2015",
+    "Ley 17/2009",
+    "Ley 25/2009",
+    "Ley 20/2013",
+    "Ley 3/2017",
+    "Ley 4/2021",
+    "Estatuto de Autonomía de Castilla-La Mancha",
+    "Reglamento (UE) 2024/1689",
+    "Ley 15/2022",
+    "Ley 3/2023",
+    "Ley 4/2013 (Patrimonio Cultural)",
+    "Ley 38/2003 (Subvenciones)",
+    "Ley 7/2013 de declaraciones responsables y comunicaciones",
+    "Decreto 22/2015 de silencio administrativo",
+    "Decreto 69/2012 de calidad de servicios públicos",
+    "Decreto Legislativo 1/2023 de Ordenación del Territorio y Actividad Urbanística"
+  ],
+  "derogations": [
+    "Normativa autonómica previa con contenido contrario a la presente ley",
+    "Ley 7/2013, de 21 de noviembre",
+    "Decreto 22/2015, de 30 de abril",
+    "Decreto 69/2012, de 29 de marzo",
+    "Orden de 26/01/2005 (Medio Ambiente)",
+    "Orden de 30/04/2002 (Agricultura y Medio Ambiente)"
+  ],
+  "main_obligations": "Las consejerías deben revisar sus procedimientos para convertir silencios negativos en positivos en un plazo de 9 meses. Las entidades colaboradoras deben contratar un seguro de responsabilidad civil de al menos 1.000.000 de euros. La Administración tiene la obligación de informar sobre la lógica de los algoritmos de IA utilizados.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Procedimiento de Autorización de Entidades Colaboradoras",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "La persona jurídica presenta la solicitud de autorización ante la consejería competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite acreditación por ENAC, personal técnico, medios materiales, seguro de responsabilidad civil y estar al corriente de obligaciones tributarias/SS."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la Administración",
+          "description": "La consejería debe resolver la solicitud de autorización.",
+          "start_date": "Desde la presentación",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Inscripción en el Registro",
+          "description": "Si hay silencio positivo, la entidad se inscribe de oficio en el Registro General de Entidades Colaboradoras.",
+          "start_date": "Tras el plazo de 3 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Declaración Responsable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración",
+          "description": "El interesado manifiesta bajo su responsabilidad el cumplimiento de los requisitos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el cumplimiento de requisitos (disponible para inspección posterior)."
+        },
+        {
+          "step": 2,
+          "title": "Inicio de actividad/derecho",
+          "description": "Reconocimiento o inicio de la actividad desde el día de la presentación.",
+          "start_date": "Día de la presentación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Revisión de Silencios Administrativos y Autorizaciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación del listado de revisión",
+          "description": "El Consejo de Gobierno aprueba la lista de procedimientos con silencios revisables o autorizaciones convertibles en declaraciones responsables.",
+          "start_date": "2 meses desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Evaluación por Consejerías",
+          "description": "Las consejerías competentes evalúan los procedimientos incluidos en el listado.",
+          "start_date": "9 meses tras la aprobación del listado",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Resolución del expediente",
+          "description": "Plazo máximo para resolver y notificar el procedimiento sancionador.",
+          "start_date": "Desde el inicio del procedimiento",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

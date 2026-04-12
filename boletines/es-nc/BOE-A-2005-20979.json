@@ -1,0 +1,99 @@
+{
+  "identifier": "BOE-A-2005-20979",
+  "title": "Ley Foral 12/2005, de 22 de noviembre, de construcción y explotación de las infraestructuras de interés general de la zona regable del Canal de Navarra",
+  "visible_title": "Ley de construcción y explotación de infraestructuras de la zona regable del Canal de Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "12/2005",
+  "publication_date": "2005-12-21",
+  "enactment_date": "2005-11-22",
+  "last_updated": "2016-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2005/11/22/12",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco para construir y gestionar las infraestructuras de riego de la zona del Canal de Navarra mediante la colaboración público-privada. Permite que la sociedad pública Riegos del Canal de Navarra, S.A. actúe como concesionaria para contratar a empresas privadas que asuman la construcción y el mantenimiento. El objetivo es acelerar la transformación de las tierras agrícolas y asegurar la eficiencia en la gestión del agua mediante contratos de concesión de hasta 30 años.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes, salvo para aquellos que residan en zonas de transformación agraria o tengan intereses económicos vinculados al sector agrícola.",
+  "professional_impact": "Afecta directamente a agricultores, comunidades de regantes y empresas constructoras/gestoras de infraestructuras hidráulicas. Los regantes deberán pagar un canon de explotación al concesionario y las empresas pueden participar en licitaciones de concesión de obras públicas bajo un modelo de riesgo compartido.",
+  "keywords": [
+    "Canal de Navarra",
+    "regadío",
+    "concesión de obras públicas",
+    "infraestructuras agrícolas",
+    "Riegos del Canal de Navarra",
+    "comunidades de regantes",
+    "gestión del agua"
+  ],
+  "key_points": [
+    "Se permite la construcción y explotación de infraestructuras mediante contratos de concesión con empresas privadas.",
+    "El plazo máximo de los contratos de concesión es de 30 años.",
+    "La sociedad pública Riegos del Canal de Navarra, S.A. actúa como la entidad que concede la obra.",
+    "El concesionario asume los riesgos de construcción, demanda de agua y disponibilidad de la infraestructura.",
+    "Los ingresos del concesionario provienen de la sociedad pública y de los cánones pagados por las comunidades de regantes.",
+    "Al finalizar la concesión, las infraestructuras pasan a ser propiedad de la Administración y de las comunidades de regantes.",
+    "Se establece la obligación de que las ordenanzas de los regantes incluyan el pago del canon de explotación."
+  ],
+  "legal_references": [
+    "Ley Foral 18/1994, de 9 de diciembre",
+    "Ley Foral 7/1999, de 16 de marzo",
+    "Ley Foral 1/2002, de 7 de marzo",
+    "Ley 13/2003, de 23 de mayo",
+    "Real Decreto Legislativo 2/2000, de 16 de diciembre",
+    "Ley Foral 10/1998, de 16 de junio",
+    "Ley Foral 8/1988, de 26 de diciembre",
+    "Ley Orgánica 13/1982, de 10 de agosto"
+  ],
+  "derogations": [],
+  "main_obligations": "Las comunidades de regantes están obligadas a incluir en sus ordenanzas el pago de un canon de explotación al concesionario. El concesionario debe garantizar la disponibilidad y calidad de la infraestructura bajo riesgo de reducción de ingresos si no cumple los parámetros.",
+  "effective_date": "2005-12-22",
+  "procedures": [
+    {
+      "name": "Ciclo de vida de la concesión de infraestructuras",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Construcción de obras",
+          "description": "Ejecución de las infraestructuras por parte del concesionario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Acta de comprobación de obra",
+          "description": "Verificación técnica de las obras para dar inicio a la explotación.",
+          "start_date": "Al finalizar la construcción",
+          "end_date": null,
+          "required_documentation": "Acta de comprobación (total o parcial)"
+        },
+        {
+          "step": 3,
+          "title": "Declaración de puesta en riego",
+          "description": "Acto administrativo que habilita el uso de las unidades de riego.",
+          "start_date": "Tras la firma del acta de comprobación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Explotación",
+          "description": "Periodo de mantenimiento, operación y conservación de las obras.",
+          "start_date": "Tras la comprobación de obra",
+          "end_date": "Máximo 30 años después",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Entrega de infraestructuras",
+          "description": "Recepción de las obras por parte de la Administración y entrega a los regantes.",
+          "start_date": "Al término del plazo concesional",
+          "end_date": null,
+          "required_documentation": "Acta de recepción"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

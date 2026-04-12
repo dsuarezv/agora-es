@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-1991-4003",
+  "title": "Ley 8/1990, de 28 de diciembre, de Aguas Minerales y Termales de Castilla-La Manch la",
+  "visible_title": "Ley de Aguas Minerales y Termales de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "8/1990",
+  "publication_date": "1991-02-15",
+  "enactment_date": "1990-12-28",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/1990/12/28/8",
+  "official_journal": "Diario Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo se pueden descubrir, declarar y explotar las aguas minerales y termales en Castilla-La Mancha. Su objetivo es proteger estos recursos como utilidad pública y fomentar su uso tanto para la salud (balnearios) como para la industria y el consumo (agua embotellada). Establece un control estricto sobre quién puede usarlas y bajo qué condiciones para evitar el agotamiento o la contaminación de los acuíferos.",
+  "citizen_impact": "Para el ciudadano común, la norma garantiza la seguridad y calidad de las aguas minerales y termales que consume o utiliza con fines terapéuticos. Asegura que los balnearios operen bajo estándares sanitarios y que los recursos naturales de la región se gestionen de forma sostenible.",
+  "professional_impact": "Las empresas del sector (balnearios, embotelladoras, industrias extractoras) deben obtener concesiones administrativas de hasta 30 años y presentar planes anuales de aprovechamiento. Los titulares enfrentan cargas de control técnico, como estudios hidrogeológicos y perímetros de protección, además de sanciones económicas significativas por mal uso o falta de mantenimiento de los acuíferos.",
+  "keywords": [
+    "aguas minerales",
+    "aguas termales",
+    "balnearios",
+    "concesión de aprovechamiento",
+    "recursos hídricos",
+    "Castilla-La Mancha",
+    "salud pública"
+  ],
+  "key_points": [
+    "Las aguas minerales y termales son de utilidad pública y dominio público.",
+    "Se requiere una declaración previa de la condición de 'mineral' para poder solicitar su aprovechamiento.",
+    "Las concesiones de aprovechamiento tienen una duración de 30 años, renovables por periodos iguales.",
+    "Los balnearios son considerados centros sanitarios y deben cumplir la legislación de sanidad.",
+    "Es obligatorio presentar un estudio hidrogeológico que garantice la protección del acuífero.",
+    "El titular debe iniciar los trabajos en un plazo máximo de 6 meses tras la autorización.",
+    "Se crea un Registro de Aguas Minerales y Termales de carácter público para dar seguridad jurídica.",
+    "Existen sanciones que pueden llegar hasta los 2.000.000 de pesetas o la extinción de la concesión."
+  ],
+  "legal_references": [
+    "Ley Orgánica 9/1982, de 10 de agosto, del Estatuto de Auto-nomía de Castilla-La Mancha",
+    "Ley 22/1973, de 21 de julio, de Minas",
+    "Real Decreto Legislativo 1303/1986, de 28 de junio",
+    "Reglamento del Dominio Público Hidráulico, de 11 de abril de 1986",
+    "Ley 14/1986, de 25 de abril, General de Sanidad"
+  ],
+  "derogations": [],
+  "main_obligations": "Los titulares deben presentar un plan anual de aprovechamiento y respetar el perímetro de protección del acuífero. El incumplimiento de las condiciones de la concesión o el deterioro del acuífero por su culpa puede conllevar multas de hasta 2.000.000 de pesetas o la pérdida del derecho de explotación.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Declaración de la condición de mineral o termal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del expediente",
+          "descrption": "La administración o un particular inicia el trámite para declarar un agua como mineral o termal.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudio hidrogeológico que acredite la procedencia y protección del acuífero."
+        },
+        {
+          "step": 2,
+          "title": "Subrogación de propietarios",
+          "descrption": "El propietario del terreno o titular de derechos puede sumarse al expediente.",
+          "start_date": "4 meses desde la notificación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informes técnicos",
+          "descrption": "Se solicita informe a la Consejería de Sanidad (vinculante para aguas medicinales) y a la de Industria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "descrption": "La Consejería de Industria y Turismo dicta la resolución declarando la condición de mineral.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Concesión de aprovechamiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de concesión",
+          "descrption": "Tras la declaración de mineral, el interesado solicita el derecho de explotación.",
+          "start_date": "6 meses desde la notificación de la declaración",
+          "end_date": null,
+          "required_documentation": "Proyecto general de aprovechamiento, presupuesto de inversiones y estudio económico de financiación, y delimitación del perímetro de protección."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

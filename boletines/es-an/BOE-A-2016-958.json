@@ -1,0 +1,207 @@
+{
+  "identifier": "BOE-A-2016-958",
+  "title": "Ley 3/2015, de 29 de diciembre, de medidas en materia de gestión integrada de calidad ambiental, de aguas, tributaria y de sanidad animal",
+  "visible_title": "Medidas de gestión integrada de calidad ambiental, aguas, tributaria y sanidad animal",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "3/2015",
+  "publication_date": "2016-02-02",
+  "enactment_date": "2015-12-29",
+  "last_updated": "2020-12-02",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2015/12/29/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca modernizar y simplificar la gestión ambiental y sanitaria en Andalucía, eliminando trabas burocráticas para empresas y ayuntamientos. Introduce mecanismos de agilidad como la declaración responsable para actividades de bajo impacto y unifica la evaluación ambiental. Al mismo tiempo, endurece el control sobre el cambio climático y la responsabilidad por infracciones ambientales. También regula nuevos costes de inspección sanitaria y agiliza los informes de aguas para el urbanismo.",
+  "citizen_impact": "El impacto es indirecto pero relevante: mejora la agilidad en la gestión de actividades locales y asegura que los proyectos urbanísticos consideren riesgos de inundación y aguas. Además, refuerza la protección ambiental al obligar a que cualquier proyecto contemple la adaptación al cambio climático.",
+  "professional_impact": "Empresas: mayor agilidad mediante declaraciones responsables, pero con mayor responsabilidad solidaria en sanciones y obligación de incluir medidas climáticas en estudios de impacto. Ayuntamientos: nuevos plazos para informar sobre declaraciones responsables y mayor presión para obtener informes de aguas. Sector alimentario y naval: nuevos costes por inspecciones sanitarias.",
+  "keywords": [
+    "gestión ambiental",
+    "declaración responsable",
+    "evaluación ambiental",
+    "cambio climático",
+    "responsabilidad solidaria",
+    "sanidad animal",
+    "derecho ambiental andaluz"
+  ],
+  "key_points": [
+    "Implementación de la 'declaración responsable de efectos ambientales' para 35 tipos de actividades, sustituyendo la calificación previa.",
+    "Reducción del plazo para obtener la Autorización Ambiental Integrada de 10 a 9 meses.",
+    "Eliminación de la renovación periódica de la Autorización Ambiental Integrada, sujeta ahora a revisiones por mejores técnicas disponibles.",
+    "Obligatoriedad de incluir medidas de adaptación y mitigación del cambio climático en todos los estudios de impacto ambiental.",
+    "Introducción de la responsabilidad solidaria: ante una infracción, todos los implicados pueden responder del total de la sanción si no se determina su grado de participación.",
+    "Nuevos plazos de prescripción de infracciones: 5 años (muy graves), 3 años (graves) y 1 año (leves).",
+    "Obligación de presentar un 'informe base' de suelo y aguas subterráneas al solicitar autorizaciones integradas.",
+    "Los informes de la Consejería de Aguas para urbanismo deben emitirse en máximo 3 meses, bajo riesgo de silencio administrativo desfavorable.",
+    "Establecimiento de nuevas tasas por inspecciones sanitarias en buques factoría (hasta 8.915€) y establecimientos alimentarios.",
+    "Plazo de 4 años para iniciar una actividad tras obtener la autorización, con prórroga de 2 años.",
+    "Capacidad de la Consejería para suministrar vacunas de forma urgente ante riesgos graves en explotaciones ganaderas."
+  ],
+  "legal_references": [
+    "Ley 21/2013, de 9 de diciembre, de evaluación ambiental",
+    "Ley 7/2007, de 9 de julio, de Gestión Integrada de la Calidad Ambiental de Andalucía",
+    "Ley 9/2010, de 30 de julio, de Aguas de Andalucía",
+    "Ley 8/1997, de 23 de diciembre, de medidas en materia tributaria, presupuestaria, de empresas de la Junta de Andalucía y otras entidades",
+    "Ley 3/2014, de 1 de octubre, de medidas normativas para reducir las trabas administrativas para las empresas",
+    "Ley 5/2013, de 11 de junio, que modifica la Ley 16/2002",
+    "Ley 7/2002, de 17 de diciembre, de Ordenación Urbanística de Andalucía",
+    "Decreto-Ley 3/2015, de 3 de marzo",
+    "Ley 8/2003, de 24 de julio, de Sanidad Animal"
+  ],
+  "derogations": [
+    "Disposición transitoria cuarta de la Ley 3/2015"
+  ],
+  "main_obligations": "Los titulares de actividades deben presentar una declaración responsable con fecha de inicio y cumplimiento de condiciones. Los estudios de impacto ambiental deben incluir obligatoriamente medidas de mitigación del cambio climático y emisiones de gases de efecto invernadero.",
+  "effective_date": "2016-02-02",
+  "procedures": [
+    {
+      "name": "Autorización Ambiental Integrada (AAI)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud",
+          "descrption": "Presentación de la solicitud acompañada del estudio de impacto ambiental y valoración de salud.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudio de impacto ambiental, valoración de impacto en salud y solicitud de licencia municipal."
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "descrption": "Trámite de exposición pública para recibir alegaciones.",
+          "start_date": "45 días",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "descrption": "Otorgamiento de la autorización por la Consejería competente.",
+          "start_date": "9 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Evaluación Ambiental Estratégica Ordinaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inicio",
+          "descrption": "Presentación del borrador del plan/programa y documento inicial estratégico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Borrador del plan/programa y documento inicial estratégico."
+        },
+        {
+          "step": 2,
+          "title": "Admisión a trámite",
+          "descrption": "Resolución de la administración sobre la admisión de la solicitud.",
+          "start_date": "20 días hábiles",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Consulta y Documento de Alcance",
+          "descrption": "Consultas a administraciones y elaboración del documento que delimita el estudio.",
+          "start_date": "3 meses",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Elaboración del estudio e información pública",
+          "descrption": "Elaboración del estudio ambiental estratégico y periodo de consulta pública.",
+          "start_date": "15 meses",
+          "end_date": null,
+          "required_documentation": "Estudio ambiental estratégico y resumen no técnico."
+        },
+        {
+          "step": 5,
+          "title": "Declaración Ambiental Estratégica",
+          "descrption": "Emisión del informe determinante por el órgano ambiental.",
+          "start_date": "4 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador Ambiental",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "description": "Competencia de las Delegaciones Territoriales o Direcciones Generales según el alcance de la infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Prescripción",
+          "description": "El procedimiento caduca según la gravedad: 5 años (muy grave), 3 años (grave) o 1 año (leve).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "El órgano resuelve incluyendo medidas no pecuniarias debidamente motivadas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Informe de Aguas para Urbanismo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de informe",
+          "description": "La Administración de urbanismo solicita informe a la Consejería de Aguas.",
+          "start_date": "Tras la aprobación inicial de los instrumentos de planeamiento",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Emisión de informe",
+          "description": "Plazo máximo de 3 meses para emitir informe vinculante; si no se emite, se entiende desfavorable.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Prórroga de Autorización Ambiental Unificada (Energía)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de prórroga",
+          "description": "Solicitud de prórroga extraordinaria de 4 años para instalaciones de biomasa o eólica.",
+          "start_date": "Dentro de los 6 meses siguientes a la entrada en vigor de la Ley",
+          "end_date": "Máximo hasta el 12 de diciembre de 2019",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución de denegación",
+          "description": "El órgano ambiental puede denegar en 3 meses si hay cambios sustanciales en las condiciones ambientales.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

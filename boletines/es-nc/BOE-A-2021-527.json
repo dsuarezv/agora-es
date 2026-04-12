@@ -1,0 +1,83 @@
+{
+  "identifier": "BOE-A-2021-527",
+  "title": "Ley Foral 18/2020, de 16 de diciembre, sobre medidas a favor del arraigo empresarial y contra la deslocalización empresarial",
+  "visible_title": "Medidas a favor del arraigo empresarial y contra la deslocalización empresarial",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "18/2020",
+  "publication_date": "2021-01-14",
+  "enactment_date": "2020-12-16",
+  "last_updated": "2020-12-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2020/12/16/18",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca evitar que las empresas que han recibido ayudas públicas navarras trasladen su actividad productiva al extranjero para reducir costes. Establece mecanismos para penalizar la deslocalización cuando esta supone un cierre o reducción drástica de empleo en Navarra. El objetivo es proteger el tejido industrial local y asegurar que el dinero público contribuya realmente al desarrollo de la región.",
+  "citizen_impact": "Protege la estabilidad laboral de los trabajadores en Navarra al desincentivar que las empresas se marchen al extranjero tras recibir subvenciones. Esto ayuda a mantener el empleo local y la riqueza en la comunidad.",
+  "professional_impact": "Las empresas que reciban ayudas públicas en Navarra deberán comprometerse formalmente a no deslocalizarse. Si se declara una deslocalización, la empresa se enfrenta a la obligación de devolver todas las ayudas recibidas en los últimos 8 años, más intereses y un recargo del 20%.",
+  "keywords": [
+    "deslocalización empresarial",
+    "ayudas públicas",
+    "subvenciones",
+    "empleo",
+    "Navarra",
+    "arraigo empresarial",
+    "reintegro de ayudas"
+  ],
+  "key_points": [
+    "Se considera deslocalización si una empresa reduce su plantilla a menos de la mitad y traslada esa actividad al extranjero (mínimo 25 trabajadores afectados).",
+    "Las empresas deben firmar un compromiso de no deslocalización al recibir ayudas públicas.",
+    "Si se confirma la deslocalización, la empresa debe devolver todas las ayudas recibidas en los últimos 8 años.",
+    "Se aplica un recargo del 20% sobre el importe de las subvenciones a reintegrar.",
+    "El Gobierno de Navarra tiene un plazo de 4 años para declarar formalmente una deslocalización tras detectarse los hechos.",
+    "La norma permite excepciones si la empresa crea nuevos empleos en Navarra compensando los perdidos en otra zona."
+  ],
+  "legal_references": [
+    "Código de Comercio (Artículo 42)"
+  ],
+  "derogations": [],
+  "main_obligations": "Las empresas beneficiarias de ayudas públicas deben cumplir el compromiso de no deslocalizar su actividad. En caso de incumplimiento, están obligadas a reintegrar las subvenciones de los últimos 8 años más intereses y un recargo del 20%.",
+  "effective_date": "2021-01-14",
+  "procedures": [
+    {
+      "name": "Declaración de deslocalización empresarial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Informe del departamento competente",
+          "description": "El departamento de desarrollo económico elabora un informe justificando la deslocalización.",
+          "start_date": "Dentro de los 4 años siguientes a la concurrencia de los hechos",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Notificación y alegaciones",
+          "description": "Se notifica el informe a la empresa para que presente su defensa.",
+          "start_date": null,
+          "end_date": "30 días",
+          "required_documentation": "Alegaciones de la empresa"
+        },
+        {
+          "step": 3,
+          "title": "Propuesta al Gobierno",
+          "description": "El departamento competente eleva la propuesta de declaración al Gobierno de Navarra.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución final",
+          "description": "El Gobierno acuerda la declaración de deslocalización o la suspende.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

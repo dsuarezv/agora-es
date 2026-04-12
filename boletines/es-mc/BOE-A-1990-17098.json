@@ -1,0 +1,84 @@
+{
+  "identifier": "BOE-A-1990-17098",
+  "title": "Ley 7/1990, de 11 de abril, de Bibliotecas y Patrimonio Bibliográfico de la Región de Murcia",
+  "visible_title": "Ley de Bibliotecas y Patrimonio Bibliográfico de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "7/1990",
+  "publication_date": "1990-07-18",
+  "enactment_date": "1990-04-11",
+  "last_updated": "1990-05-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/1990/04/11/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley organiza el sistema de bibliotecas de la Región de Murcia para garantizar el acceso universal a la cultura y la información. Establece la estructura de una red coordinada que incluye bibliotecas públicas, de interés público y privadas integradas. Además, crea un marco de protección para el patrimonio bibliográfico regional, regulando su conservación y difusión.",
+  "citizen_impact": "Garantiza el acceso libre y gratuito a los servicios y fondos de las bibliotecas públicas y de interés público. También asegura que los edificios bibliotecarios cumplan con las normas de accesibilidad para eliminar barreras arquitectónicas.",
+  "professional_impact": "Los gestores de bibliotecas privadas de interés público deben cumplir con estándares técnicos y de personal dictados por la Consejería. Los comerciantes de libros tienen la obligación de informar trimestralmente a la administración sobre sus ventas y existencias de obras protegidas.",
+  "keywords": [
+    "bibliotecas",
+    "patrimonio bibliográfico",
+    "cultura",
+    "Región de Murcia",
+    "acceso a la información",
+    "servicios bibliotecarios"
+  ],
+  "key_points": [
+    "Creación de un sistema de bibliotecas regional coordinado por la Consejería de Cultura, Educación y Turismo.",
+    "Obligatoriedad de bibliotecas públicas en municipios de más de 5.000 habitantes.",
+    "Garantía de acceso gratuito a los fondos y servicios de las bibliotecas públicas.",
+    "Protección legal del patrimonio bibliográfico regional, incluyendo manuscritos y soportes audiovisuales.",
+    "Derecho de tanteo y retracto de la Administración sobre bienes del patrimonio bibliográfico en caso de venta.",
+    "Obligación de las bibliotecas de proporcionar datos estadísticos y conectarse informáticamente al sistema regional."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Ley 22/1987, de 11 de noviembre, de la Propiedad Intelectual",
+    "Ley 16/1985, de Patrimonio Histórico Español",
+    "Ley Reguladora de las Bases de Régimen Local"
+  ],
+  "derogations": [
+    "Cualquier disposición de igual o inferior rango que se oponga a esta Ley"
+  ],
+  "main_obligations": "Los propietarios de bienes del patrimonio bibliográfico deben conservarlos, permitir su inspección y facilitar el estudio por investigadores. Los comerciantes de obras protegidas deben remitir informes trimestrales de ventas a la Consejería.",
+  "effective_date": "1990-07-19",
+  "procedures": [
+    {
+      "name": "Integración de bibliotecas en el sistema regional",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Los titulares de bibliotecas públicas no autonómicas o de interés privado deben solicitar autorización a la Consejería.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que determine la Consejería"
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "La Consejería aprueba la integración mediante orden tras realizar comprobaciones e informes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Ajuste de bibliotecas existentes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de adecuación",
+          "description": "Las bibliotecas públicas ya existentes deben ajustarse al nuevo sistema regional.",
+          "start_date": null,
+          "end_date": "2 años desde la publicación de las disposiciones de desarrollo"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

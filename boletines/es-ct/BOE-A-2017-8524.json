@@ -1,0 +1,75 @@
+{
+  "identifier": "BOE-A-2017-8524",
+  "title": "Ley 9/2017, de 27 de junio, de universalización de la asistencia sanitaria con cargo a fondos públicos mediante el Servicio Catalán de la Salud",
+  "visible_title": "Ley de universalización de la asistencia sanitaria en Cataluña",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "9/2017",
+  "publication_date": "2017-07-21",
+  "enactment_date": "2017-06-27",
+  "last_updated": "2020-04-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2017/06/27/9",
+  "official_journal": "DOGC / BOE",
+  "journal_issue": null,
+  "summary": "Esta ley garantiza el derecho a la asistencia sanitaria pública para todas las personas residentes en Cataluña, independientemente de su situación administrativa o de seguridad social. Busca eliminar las barreras de acceso que surgieron tras la crisis económica, asegurando que la residencia (vía empadronamiento o arraigo) sea el criterio principal de acceso. El objetivo es ofrecer una cobertura integral que incluya desde la medicina preventiva hasta la paliativa para toda la población.",
+  "citizen_impact": "Cualquier persona que resida en Cataluña (aunque no tenga tarjeta sanitaria estatal) puede acceder a la sanidad pública. Esto facilita el acceso a médicos y hospitales a colectivos en riesgo de exclusión social. Además, se garantiza la atención de urgencia para quienes no tengan residencia acreditada y se establece la exención de copago farmacéutico para personas vulnerables.",
+  "professional_impact": "El personal sanitario y administrativo debe recibir formación específica para garantizar el acceso universal y evitar la denegación de servicios. Los centros sanitarios (públicos y concertados) tienen la obligación de informar de forma clara y visible sobre este derecho en varios idiomas. También se impone al Gobierno la obligación de analizar y publicar datos anuales de frecuencia sanitaria con perspectiva de género.",
+  "keywords": [
+    "asistencia sanitaria universal",
+    "Servicio Catalán de la Salud",
+    "derecho a la salud",
+    "residencia",
+    "empadronamiento",
+    "exclusión social",
+    "Cataluña"
+  ],
+  "key_points": [
+    "Acceso universal basado en la residencia en Cataluña, no solo en la cotización a la Seguridad Social.",
+    "El empadronamiento es el criterio principal para acreditar la residencia.",
+    "Se permite el uso de criterios de arraigo para colectivos en riesgo de exclusión social.",
+    "Garantía de atención de urgencia para personas no residentes hasta el alta médica.",
+    "Exención de copago en medicamentos para personas en situación de vulnerabilidad o insuficiencia económica.",
+    "Derecho a la asistencia sanitaria para catalanes residentes en el exterior durante estancias temporales.",
+    "Obligación de los centros de exhibir información clara sobre el derecho al acceso universal.",
+    "Protección del derecho de los trabajadores que residen en Cataluña pero trabajan fuera de la UE/EEE."
+  ],
+  "legal_references": [
+    "Estatuto de autonomía de Cataluña (artículo 23.1)",
+    "Ley 14/1986, de 25 de abril, general de sanidad",
+    "Ley 21/2010, de 7 de julio, de acceso a la asistencia sanitaria de cobertura pública a cargo del Servicio Catalán de la Salud",
+    "Declaración Universal de Derechos Humanos (artículo 25.1)",
+    "Real Decreto 1192/2012, de 3 de agosto"
+  ],
+  "derogations": [
+    "Ley 21/2010, de 7 de julio, de acceso a la asistencia sanitaria de cobertura pública a cargo del Servicio Catalán de la Salud"
+  ],
+  "main_obligations": "Los centros sanitarios deben informar de forma visible y clara sobre el derecho al acceso universal. El Servicio Catalán de la Salud debe formar a su personal para asegurar este derecho y el Gobierno debe publicar anualmente datos de frecuencia sanitaria desagregados por sexo y situación administrativa.",
+  "effective_date": "2017-07-21",
+  "procedures": [
+    {
+      "name": "Reconocimiento del derecho de asistencia sanitaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "descrption": "El interesado presenta la solicitud para el reconocimiento del derecho de asistencia sanitaria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la residencia (empadronamiento o criterios de arraigo)."
+        },
+        {
+          "step": 2,
+          "title": "Resolución por silencio administrativo",
+          "descrption": "Si la administración no resuelve en 3 meses, se entiende estimada la solicitud.",
+          "start_date": "3 meses desde la presentación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

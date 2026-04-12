@@ -1,0 +1,146 @@
+{
+  "identifier": "BOE-A-2018-1548",
+  "title": "Ley 7/2017, de 27 de diciembre, de Participación Ciudadana de Andalucía",
+  "visible_title": "Ley de Participación Ciudadana de Andalucía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "7/2017",
+  "publication_date": "2018-02-06",
+  "enactment_date": "2017-12-27",
+  "last_updated": "2021-12-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2017/12/27/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley transforma la relación entre la ciudadanía y las instituciones andaluzas, permitiendo que las personas influyan directamente en las decisiones públicas. A través de mecanismos como presupuestos participativos y consultas populares, se busca que la opinión ciudadana no sea solo consultiva, sino que tenga un peso real. Para garantizar que nadie quede excluido, se implementa un portal digital único y unidades móviles de apoyo. Además, la Administración tiene la obligación de explicar y justificar por qué toma una decisión si decide ignorar el resultado de un proceso participativo.",
+  "citizen_impact": "Los ciudadanos andaluces (incluidos residentes extranjeros y menores de 16 años en temas de infancia) ganan el derecho de proponer y decidir sobre políticas públicas. Se facilita el acceso mediante herramientas digitales y apoyo presencial en zonas con brecha tecnológica. Si un ciudadano propone algo y la Administración no actúa en 3 meses, se entiende rechazado, y si se ignora un resultado de consulta, la autoridad debe motivarlo en 30 días.",
+  "professional_impact": "Los ayuntamientos de Andalucía tienen la obligación de adaptar sus reglamentos de participación en un plazo de 12 meses. Los funcionarios deben asegurar que la información de los procesos sea gratuita, accesible y comprensible. La Junta de Andalucía debe gestionar un sistema de participación basado en software libre y coordinar la colaboración con municipios para plataformas comunes.",
+  "keywords": [
+    "participación ciudadana",
+    "Andalucía",
+    "presupuestos participativos",
+    "consultas populares",
+    "democracia directa",
+    "gobierno digital"
+  ],
+  "key_points": [
+    "Derecho de participación extendido a residentes extranjeros en Andalucía y menores de 16 años en asuntos de infancia.",
+    "Reconocimiento de movimientos ciudadanos sin personalidad jurídica para participar en procesos oficiales.",
+    "Obligación de la Administración de motivar sus decisiones si no sigue los resultados de un proceso participativo.",
+    "Creación de un portal único de participación digital basado en software libre.",
+    "Despliegue de unidades móviles para garantizar la participación en zonas con dificultades de acceso digital.",
+    "Los procesos de participación están prohibidos durante periodos electorales o de transición de gobierno.",
+    "Obligación de los municipios de actualizar sus reglamentos locales para alinearlos con esta ley en un plazo de 12 meses.",
+    "Existencia de presupuesto específico para la promoción de la participación en la región."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Andalucía",
+    "Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía",
+    "Ley 12/2007, de 26 de noviembre, para la promoción de la igualdad de género en Andalucía",
+    "Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local",
+    "Ley 5/2010, de 11 de junio, de Autonomía Local de Andalucía",
+    "Convenio de los Derechos del Niño de 1989",
+    "Ley 7/2017, de 27 de diciembre, de Participación Ciudadana de Andalucía"
+  ],
+  "derogatons": [
+    "Todas las disposiciones de igual o inferior rango que se opongan a esta Ley"
+  ],
+  "main_obligations": "Los municipios deben adaptar sus reglamentos de participación en un plazo de 12 meses. La Administración debe responder a procesos de iniciativa ciudadana en un máximo de 3 meses o se entenderán rechazados, y debe motivar decisiones contrarias a consultas populares en 30 días.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Iniciativa ciudadana para procesos de deliberación participativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recogida de apoyo",
+          "description": "Obtención de un mínimo de 20.000 firmas para el ámbito autonómico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Firmas de personas con derecho a participación"
+        },
+        {
+          "step": 2,
+          "title": "Presentación de la solicitud",
+          "description": "Envío de la propuesta al órgano competente con descripción del asunto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Descripción del asunto y cauce de comunicación"
+        },
+        {
+          "step": 3,
+          "title": "Resolución de inicio",
+          "description": "Plazo para que la Administración acuerde el inicio del proceso.",
+          "start_date": null,
+          "end_date": "3 meses desde la presentación (si no se acuerda, se entiende rechazada)",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Inicio del proceso",
+          "description": "Comienzo efectivo de la deliberación tras la resolución.",
+          "start_date": "30 días desde la resolución",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Iniciativa ciudadana para proponer políticas públicas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recogida de firmas",
+          "description": "Apoyo de un mínimo de 20.000 firmas en el ámbito autonómico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Consulta pública en elaboración de normas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Periodo de consulta",
+          "description": "Plazo mínimo para que la ciudadanía emita su opinión sobre un proyecto de ley o reglamento.",
+          "start_date": null,
+          "end_date": "mínimo 15 días naturales",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de la normativa local de participación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación o adaptación de reglamentos municipales",
+          "description": "Los municipios deben ajustar sus normas de participación ciudadana a la nueva ley.",
+          "start_date": "Desde la entrada en vigor de la Ley",
+          "end_date": "12 meses tras la entrada en vigor",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Desarrollo reglamentario del sistema digital",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Dictar decreto de desarrollo del sistema digital",
+          "description": "El Consejo de Gobierno debe regular específicamente el sistema digital de participación.",
+          "start_date": "Desde la entrada en vigor de la Ley",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

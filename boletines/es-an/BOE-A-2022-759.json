@@ -1,0 +1,80 @@
+{
+  "identifier": "BOE-A-2022-759",
+  "title": "Ley 11/2021, de 28 de diciembre, por la que se regulan los perros de asistencia a personas con discapacidad en Andalucía",
+  "visible_title": "Ley de regulación de los perros de asistencia a personas con discapacidad en Andalucía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "11/2021",
+  "publication_date": "2022-01-18",
+  "enactment_date": "2021-12-28",
+  "last_updated": "2022-01-03",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2021/12/28/11",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": null,
+  "summary": "Esta ley amplía y garantiza el derecho de acceso al entorno de las personas con discapacidad acompañadas por perros de asistencia en Andalucía, yendo más allá de los perros guía tradicionales. Regula la clasificación de estos animales (servicio, aviso, señalización, etc.), establece un registro oficial y define las condiciones de su adiestramiento y sanidad. Además, crea un marco de protección para los perros jubilados y establece un régimen sancionador para quienes impidan el acceso o incumplan la normativa.",
+  "citizen_impact": "Las personas con discapacidad o condiciones de salud específicas (como diabetes o epilepsia) ahora tienen un derecho legal claro a entrar en cualquier establecimiento público o privado de uso colectivo con su perro de asistencia sin pagar extras. Se garantiza que no puedan ser discriminadas en el trabajo y se facilita el reconocimiento oficial de su perro mediante un carnet y un distintivo.",
+  "professional_impact": "Los dueños de establecimientos (hostelería, comercios, transporte) deben permitir el acceso de estos animales y, si deniegan la entrada, deben hacerlo por escrito y justificado. Los centros de adiestramiento deben estar homologados y registrados, y los profesionales deben cumplir con requisitos de capacitación específicos. Se impone la obligación de tener un seguro de responsabilidad civil con cobertura mínima de 120.000 euros.",
+  "keywords": [
+    "perros de asistencia",
+    "discapacidad",
+    "derecho de acceso",
+    "Andalucía",
+    "perro guía",
+    "inclusión social"
+  ],
+  "key_points": [
+    "Reconocimiento de nuevas categorías de perros: guía, servicio, señalización de sonidos, aviso médico y para personas con TEA.",
+    "Derecho de acceso garantizado a todos los espacios públicos y privados de uso colectivo (bares, tiendas, transporte, etc.).",
+    "Creación del Registro de Perros de Asistencia de Andalucía.",
+    "Obligatoriedad de un seguro de responsabilidad civil con cobertura mínima de 120.000 euros por siniestro.",
+    "Protección especial y programas de acogida para perros de asistencia jubilados.",
+    "Prohibición de cobrar tarifas adicionales por el acompañamiento del perro.",
+    "Los perros de razas potencialmente peligrosas no pueden obtener la condición de perro de asistencia.",
+    "Las denegaciones de acceso deben realizarse siempre por escrito y con justificación."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Andalucía",
+    "Real Decreto Legislativo 1/2013",
+    "Ley 5/1998 de Andalucía",
+    "Decreto 32/2005 de Andalucía",
+    "Ley 4/2017 de Andalucía",
+    "Ley 39/2015",
+    "Ley 40/2015",
+    "Real Decreto 287/2002",
+    "Ley 50/1999"
+  ],
+  "derogations": [
+    "Ley 5/1998, de 23 de noviembre, relativa al uso en Andalucía de perros guía por personas con disfunciones visuales",
+    "Decreto 32/2005, de 8 de febrero, por el que se regula el distintivo de perro guía y el procedimiento para su concesión y se crea el Registro de Perros Guía de la Comunidad Autónoma de Andalucía"
+  ],
+  "main_obligations": "Los usuarios deben disponer de un seguro de responsabilidad civil (mín. 120.000€), llevar el distintivo oficial en el perro y el carnet de la unidad de vinculación. Los establecimientos tienen prohibido impedir el acceso sin causa justificada o cobrar suplementos por la presencia del animal.",
+  "effective_date": "2022-02-07",
+  "procedures": [
+    {
+      "name": "Reconocimiento de la condición de perro de asistencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de reconocimiento",
+          "description": "La persona usuaria solicita el reconocimiento ante la Consejería de Servicios Sociales aportando certificado del centro de adiestramiento y declaración responsable.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado del centro de adiestramiento, acreditación de discapacidad/salud, identificación del perro y póliza de seguro."
+        },
+        {
+          "step": 2,
+          "title": "Resolución del procedimiento",
+          "description": "La administración dicta resolución de reconocimiento, inscripción en el registro y entrega de carnet y distintivo.",
+          "start_date": "Plazo máximo de 3 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

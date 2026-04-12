@@ -1,0 +1,93 @@
+{
+  "identifier": "BOE-A-2018-1751",
+  "title": "Ley 7/2017, de 14 de diciembre, de medidas de la eficiencia energética y garantía de accesibilidad a la energía eléctrica",
+  "visible_title": "Ley de medidas de la eficiencia energética y garantía de accesibilidad a la energía eléctrica",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "7/2017",
+  "publication_date": "2018-02-09",
+  "enactment_date": "2017-12-14",
+  "last_updated": "2023-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2017/12/14/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca reducir la dependencia energética y combatir el cambio climático en Galicia mediante el fomento del ahorro y la eficiencia en todos los sectores. Introduce medidas de protección social para evitar la pobreza energética, garantizando que los hogares más vulnerables no pierdan el suministro eléctrico. Además, establece un marco para la inversión en I+D+i y la creación de planes sectoriales de ahorro energético.",
+  "citizen_impact": "Las familias en situación de vulnerabilidad severa y riesgo de exclusión social en Galicia pueden recibir ayudas directas para cubrir al menos el 50% de su factura eléctrica. Además, se establece la protección de su suministro para que sea considerado esencial e ininterrumpible, evitando cortes por impago.",
+  "professional_impact": "Las empresas comercializadoras de último recurso tienen la obligación de comunicar a la administración los puntos de suministro con trámites de suspensión por impago. El sector industrial y residencial se verá afectado por nuevos planes de ahorro y programas de renovación de equipos de alto rendimiento energético.",
+  "keywords": [
+    "eficiencia energética",
+    "pobreza energética",
+    "consumidor vulnerable",
+    "ahorro energético",
+    "Galicia",
+    "suministro eléctrico",
+    "ayudas sociales"
+  ],
+  "key_points": [
+    "Creación de ayudas directas para cubrir el 50% de la factura eléctrica a consumidores vulnerables severos en riesgo de exclusión.",
+    "Garantía de suministro ininterrumpible para hogares vulnerables, convirtiendo su electricidad en un servicio esencial.",
+    "Implementación de planes de ahorro y eficiencia energética con enfoque sectorial (industrial, residencial, transporte, etc.).",
+    "Fomento de la inversión en I+D+i para desarrollar tecnologías de ahorro energético.",
+    "Obligación de las comercializadoras de informar sobre posibles cortes de suministro para verificar la situación de vulnerabilidad de los usuarios.",
+    "Programas de renovación periódica de equipos por otros de mayor eficiencia energética."
+  ],
+  "legal_references": [
+    "Directiva 2012/27/UE",
+    "Directiva 2009/72/CE",
+    "Ley 24/2013, de 26 de diciembre, del sector eléctrico",
+    "Real Decreto-ley 7/2016, de 23 de diciembre",
+    "Estatuto de Autonomía de Galicia",
+    "Ley 1/1983, de 22 de febrero, de normas reguladoras de la Xunta y de su Presidencia"
+  ],
+  "derogations": [],
+  "main_obligations": "Las comercializadoras eléctricas deben comunicar a la Dirección General de Inclusión Social los suministros con procedimientos de suspensión por impago. La Xunta debe elaborar planes de ahorro energético y campañas de sensibilización periódicas.",
+  "effective_date": "2018-01-01",
+  "procedures": [
+    {
+      "name": "Concesión de ayudas para paliar la pobreza energética",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Verificación de condición de vulnerabilidad",
+          "description": "Comprobación de que el consumidor es beneficiario del bono social de vulnerable severo y percibe la Renta de Inclusión Social, el Ingreso Mínimo Vital o una pensión no contributiva.",
+          "start_date": "31 de diciembre del año anterior",
+          "end_date": null,
+          "required_documentation": "Datos del bono social y de prestaciones sociales (Risga, IMV o PNC)"
+        },
+        {
+          "step": 2,
+          "title": "Gestión y pago de la ayuda",
+          "description": "Tramitación y abono de la cuantía establecida en la Ley de Presupuestos de la Comunidad Autónoma.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de verificación ante suspensión de suministro",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de impagos",
+          "description": "Las comercializadoras envían el listado de puntos de suministro con trámites de suspensión por falta de pago a la Dirección General de Inclusión Social.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Listado de puntos de suministro"
+        },
+        {
+          "step": 2,
+          "title": "Verificación y regularización",
+          "description": "Se comprueba si el consumidor es vulnerable severo para aplicar el abono del 50% o se interviene para paralizar el corte si hay riesgo de exclusión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

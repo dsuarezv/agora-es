@@ -1,0 +1,99 @@
+{
+  "identifier": "BOE-A-2010-15790",
+  "title": "Ley 7/2010, de 29 de septiembre, por la que se aprueban varios convenios de colaboración con otras Comunidades Autónomas para el establecimiento de programas de actuación conjunta en diversas materias",
+  "visible_title": "Convenios de colaboración interautonómica para programas de actuación conjunta",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "7/2010",
+  "publication_date": "2010-10-16",
+  "enactment_date": "2010-09-29",
+  "last_updated": "2010-10-06",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2010/09/29/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley aprueba una serie de convenios entre La Rioja y otras Comunidades Autónomas para coordinar servicios esenciales. Busca mejorar la eficiencia de la administración mediante la cooperación horizontal en áreas críticas. Los acuerdos cubren desde la protección de víctimas de violencia de género hasta la lucha contra incendios forestales y la gestión de la juventud.",
+  "citizen_impact": "Mejora la protección y el acceso a servicios en situaciones críticas, como el traslado de víctimas de violencia de género a otras regiones o la ayuda mutua ante incendios forestales. También facilita que profesionales de sectores como el tatuaje puedan trabajar en distintas comunidades con sus certificados reconocidos.",
+  "professional_impact": "Los profesionales del tatuaje, piercing y micropigmentación obtienen reconocimiento recíproco de su formación en las regiones firmantes. Los funcionarios de sanidad, turismo, juventud y protección civil ven facilitada su labor mediante protocolos de intercambio de información y coordinación de recursos.",
+  "keywords": [
+    "convenios de colaboración",
+    "cooperación interautonómica",
+    "violencia de género",
+    "incendios forestales",
+    "tatuajes y piercings",
+    "turismo",
+    "juventud",
+    "productos sanitarios"
+  ],
+  "key_points": [
+    "Coordinación de redes de acogida para mujeres víctimas de violencia de género entre distintas comunidades.",
+    "Reconocimiento mutuo de certificados de formación para aplicadores de tatuajes, piercings y micropigmentaciones.",
+    "Estrategias comunes para impulsar el sector turístico entre regiones.",
+    "Intercambio de información sobre licencias de fabricantes de productos sanitarios a medida.",
+    "Ejecución de medidas de justicia juvenil (internamiento y medio abierto) en comunidades distintas a la del juzgado.",
+    "Colaboración en la prevención y extinción de incendios forestales, incluyendo zonas de ayuda inmediata de 5 km en límites.",
+    "Coordinación de actividades e instalaciones para la juventud."
+  ],
+  "legal_references": [
+    "Ley Orgánica 3/1982, de 9 de junio",
+    "Constitución Española",
+    "Ley 30/1992, de 26 de noviembre",
+    "Ley Orgánica 5/2000, de 12 de enero",
+    "Ley 14/2005, de 23 de diciembre",
+    "Ley 43/2003, de 21 de noviembre",
+    "Ley 14/1986, de 25 de junio",
+    "Ley 55/1999, de 29 de diciembre",
+    "Real Decreto 437/2002, de 10 de mayo",
+    "Real Decreto 1774/2004, de 30 de julio"
+  ],
+  "derogations": [],
+  "main_obligations": "Las comunidades firmantes se obligan a establecer sistemas de comunicación directa, compartir información sobre plazas disponibles en centros de acogida o juventud, y colaborar en la extinción de incendios mediante la ayuda recíproca de medios humanos y materiales.",
+  "effective_date": "2010-01-01",
+  "procedures": [
+    {
+      "name": "Protocolo de derivación de víctimas de violencia de género",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de disponibilidad",
+          "description": "Sistema de comunicación directa entre organismos para conocer plazas disponibles.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informes y documentación de la solicitante"
+        },
+        {
+          "step": 2,
+          "title": "Resolución en casos de emergencia",
+          "description": "En supuestos de emergencia, la comunidad de acogida debe resolver el ingreso en un plazo máximo.",
+          "start_date": null,
+          "end_date": "24 horas",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de ayuda en incendios forestales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de ayuda",
+          "description": "Petición de asistencia a través del Centro de Coordinación mediante el teléfono 112.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Actuación en zona de ayuda inmediata",
+          "description": "Los efectivos más próximos pueden actuar en la comunidad colindante sin petición previa en un radio de 5km.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

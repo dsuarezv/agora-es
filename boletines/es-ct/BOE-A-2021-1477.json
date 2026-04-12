@@ -1,0 +1,90 @@
+{
+  "identifier": "BOE-A-2021-1477",
+  "title": "Decreto-ley 49/2020, de 1 de diciembre, de medida urgente complementaria en materia de empleo y fomento de la actividad económica para hacer frente a las consecuencias de la mayor afectación en el mercado de trabajo de la COVID-19 en determinados territorios de Cataluña, y de modificación del Decreto-ley 21/2020, de 2 de junio, de medidas urgentes de carácter económico, cultural y social para hacer frente a las consecuencias de la COVID-19",
+  "visible_title": "Medidas de refuerzo para el empleo y la actividad económica en territorios de Cataluña afectados por cierres perimetrales COVID-19",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "49/2020",
+  "publication_date": "2021-02-02",
+  "enactment_date": "2020-12-01",
+  "last_updated": "2020-12-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2020/12/01/49",
+  "official_journal": "Diari Oficial de la Generalitat de Catalunya",
+  "journal_issue": null,
+  "summary": "Esta norma crea una línea de subvenciones urgente para reactivar la economía y el empleo en zonas de Cataluña que sufrieron confinamientos y cierres perimetrales más severos (como La Conca d’Òdena y el Segrià). El objetivo es financiar proyectos integrados que ayuden a mantener puestos de trabajo y a formar a personas desempleadas. La ayuda se canaliza principalmente a través de ayuntamientos y consejos comarcales para que lideren la intervención en sus territorios.",
+  "citizen_impact": "Las personas desempleadas o en situación de precariedad en los municipios afectados pueden acceder a programas de formación, planes de empleo y acompañamiento para reinsertarse en el mercado laboral. No impone nuevos trámites directos al ciudadano, pero abre la puerta a nuevas oportunidades de capacitación y contratación local.",
+  "professional_impact": "Las pequeñas empresas (menos de 50 trabajadores), autónomos y entidades sin ánimo lucro de las zonas afectadas pueden recibir ayudas para contratar personal. Los ayuntamientos y consejos comarcales asumen la responsabilidad de gestionar y liderar estos proyectos, lo que implica una carga de gestión y justificación de fondos ante la Generalitat.",
+  "keywords": [
+    "empleo",
+    "subvenciones",
+    "Cataluña",
+    "COVID-19",
+    "reactivación económica",
+    "formación",
+    "contratación"
+  ],
+  "key_points": [
+    "Creación de una línea de subvenciones de 2,5 millones de euros para zonas con cierres perimetrales.",
+    "Los proyectos deben combinar dos ejes: mejora del empleo y fortalecimiento del tejido productivo.",
+    "Las entidades beneficiarias principales son ayuntamientos y consejos comarcales de zonas específicas.",
+    "Se permite la contratación de personal para planes de empleo con duraciones de 6, 9 o 12 meses.",
+    "Las empresas pueden ser beneficiarias indirectas para el fomento de la contratación si son seleccionadas por la entidad promotora.",
+    "Se establece un anticipo del 80% de la subvención para facilitar la ejecución inmediata.",
+    "Las empresas candidatas a ayudas de contratación deben tener menos de 50 trabajadores y haber visto reducida su facturación por la pandemia."
+  ],
+  "legal_references": [
+    "Decreto-ley 21/2020, de 2 de junio",
+    "Decreto-ley 16/2020, de 5 de mayo",
+    "Ley 13/2015, de 9 de julio",
+    "Ley 38/2003, de 17 de noviembre",
+    "Ley 9/2017, de 8 de noviembre",
+    "Ley 26/2010, de 3 de agosto",
+    "Ley 39/2015, de 1 de octubre"
+  ],
+  "derogations": [],
+  "main_obligations": "Las entidades beneficiarias deben justificar el uso de los fondos en un plazo máximo de dos meses tras la finalización del proyecto. Deben acreditar el cumplimiento de los objetivos mediante cuentas justificativas o módulos económicos según el tipo de actuación.",
+  "effective_date": "2020-12-01",
+  "procedures": [
+    {
+      "name": "Convocatoria de subvenciones para proyectos integrados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación de la resolución de convocatoria",
+          "description": "La Dirección del Servicio Público de Empleo de Cataluña publica las bases y plazos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de solicitudes",
+          "description": "Las entidades promotoras (ayuntamientos/consejos) presentan sus proyectos integrados.",
+          "start_date": "Día siguiente a la publicación de la convocatoria",
+          "end_date": null,
+          "required_documentation": "Proyecto integrado con justificación de necesidades y capacidad técnica"
+        },
+        {
+          "step": 3,
+          "title": "Instrucción y resolución",
+          "description": "La Subdirección General de Políticas Activas de Empleo tramita y resuelve la concesión.",
+          "start_date": "Día siguiente al cierre de solicitudes",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Ejecución del proyecto",
+          "description": "Inicio de las actuaciones de empleo y mejora del tejido productivo.",
+          "start_date": "Día siguiente a la notificación de la resolución",
+          "end_date": "14 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

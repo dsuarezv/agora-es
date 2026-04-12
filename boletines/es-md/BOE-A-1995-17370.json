@@ -1,0 +1,70 @@
+{
+  "identifier": "BOE-A-1995-17370",
+  "title": "Ley 12/1995, de 21 de abril, de Estadística de la Comunidad de Madrid",
+  "visible_title": "Ley de Estadística de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "12/1995",
+  "publication_date": "1995-07-18",
+  "enactment_date": "1995-04-21",
+  "last_updated": "2022-12-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1995/04/21/12",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley crea un marco jurídico propio para que la Comunidad de Madrid pueda recoger, procesar y difundir sus propios datos estadísticos sin depender exclusivamente de los datos estatales. Establece el Sistema Estadístico Regional, coordinado por el Instituto de Estadística de la Comunidad de Madrid, para obtener información precisa sobre la realidad económica, social y demográfica de la región. Su objetivo es dotar a la administración de herramientas fiables para la toma de decisiones políticas y sociales basadas en datos locales.",
+  "citizen_impact": "Para el ciudadano común, la ley garantiza el secreto estadístico, asegurando que los datos personales facilitados para encuestas no se usen con fines fiscales o policiales. Además, permite que la población acceda a información pública y oficial sobre la realidad de su entorno.",
+  "professional_impact": "Las empresas y profesionales que operen en Madrid pueden verse obligados a suministrar información si la operación está incluida en el Plan de Estadística. El incumplimiento de esta obligación o la entrega de datos falsos puede acarrear sanciones económicas significativas.",
+  "keywords": [
+    "estadística pública",
+    "Comunidad de Madrid",
+    "secreto estadístico",
+    "sistema estadístico",
+    "plan de estadística",
+    "datos demográficos",
+    "obligación de suministrar información"
+  ],
+  "key_points": [
+    "Creación del Instituto de Estadística de la Comunidad de Madrid como órgano central.",
+    "Establecimiento del secreto estadístico para proteger la identidad de personas y empresas.",
+    "Obligatoriedad de responder a encuestas que formen parte del Plan de Estadística regional.",
+    "Prohibición estricta de usar datos estadísticos para fines fiscales o policiales.",
+    "Creación de un Consejo de Estadística con participación de sindicatos, empresas y universidades.",
+    "Posibilidad de sancionar con multas por no entregar datos o entregarlos de forma errónea.",
+    "Garantía de transparencia y publicidad de los resultados estadísticos oficiales."
+  ],
+  "legal_references": [
+    "Ley Orgánica 5/1992, de 29 de octubre, reguladora del Tratamiento Automatizado de Datos de Carácter Personal",
+    "Constitución Española (artículo 149.1.31 y 16.2)",
+    "Estatuto de Autonomía de la Comunidad de Madrid"
+  ],
+  "derogatons": [],
+  "main_obligations": "Las personas físicas o jurídicas con domicilio o actividad en Madrid están obligadas a suministrar información de forma veraz y completa cuando la estadística sea de respuesta obligatoria. El incumplimiento puede derivar en multas que, según la gravedad, pueden alcanzar los 5.000.000 de pesetas (ajustables por IPC).",
+  "effective_date": "1995-07-18",
+  "procedures": [
+    {
+      "name": "Procedimiento Sancionador por Incumplimiento de Colaboración",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Formulación de propuesta razonada",
+          "descrption": "El instructor de la infracción elabora una propuesta de resolución justificando la sanción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Alegaciones del interesado",
+          "descrption": "El presunto infractor tiene un plazo para presentar sus alegaciones y defenderse.",
+          "start_date": "7 días tras la propuesta",
+          "end_date": null,
+          "required_documentation": "Documentación de defensa"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

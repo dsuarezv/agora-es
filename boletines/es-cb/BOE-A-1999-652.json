@@ -1,0 +1,297 @@
+{
+  "identifier": "BOE-A-1999-652",
+  "title": "Ley 11/1998, de 13 de octubre, de Patrimonio Cultural de Cantabria",
+  "visible_title": "Ley de Patrimonio Cultural de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "11/1998",
+  "publication_date": "1999-01-12",
+  "enactment_date": "1998-10-13",
+  "last_updated": "2025-04-04",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/1998/10/13/11",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "journal_issue": null,
+  "summary": "Esta ley redefine la protección de la cultura en Cantabria, extendiéndola desde monumentos clásicos hasta paisajes, espacios industriales y patrimonio inmaterial. Establece un sistema de tres niveles de protección (BIC, Bienes de Interés Local e Inventariados) para asegurar la conservación de la identidad regional. La norma otorga a la Administración potestad para intervenir en bienes descuidados y regula estrictamente los hallazgos arqueológicos y la gestión de museos. Además, impone una inversión mínima del 1% de las obras públicas en patrimonio para garantizar su sostenibilidad.",
+  "citizen_impact": "Los ciudadanos pueden participar activamente como 'Voluntarios Culturales'. Si eres propietario de un bien protegido, tienes la obligación de conservarlo, permitir inspecciones y comunicar cualquier cambio técnico o jurídico. En caso de hallar restos arqueológicos por casualidad, tienes derecho a una parte de un premio económico. Además, se protege el entorno de los monumentos para evitar que nuevas construcciones arruinen su valor visual.",
+  "professional_impact": "Empresas constructoras y arqueólogos deben realizar estudios de impacto antes de cualquier obra en zonas de riesgo. Los propietarios de bienes protegidos enfrentan sanciones de hasta 600.000 euros por incumplimientos. Los directores de excavación deben entregar memorias científicas en un año, y los funcionarios deben entregar sus archivos al cesar. Los museos privados deben cumplir estrictos estándares de seguridad, horarios y acceso a investigadores.",
+  "keywords": [
+    "patrimonio cultural",
+    "BIC",
+    "hallazgos arqueológicos",
+    "conservación",
+    "Cantabria",
+    "museos",
+    "paisaje cultural",
+    "sanciones patrimonio"
+  ],
+  "key_points": [
+    "Ampliación de la protección a patrimonio inmaterial, paisajes, espacios industriales y arqueológicos.",
+    "Creación de tres niveles de protección: Bien de Interés Cultural (BIC), Bien de Interés Local (BIL) y Bienes Inventariados.",
+    "Obligatoriedad de realizar estudios de impacto arqueológico en proyectos de obra en zonas de riesgo.",
+    "Derecho de tanteo y retracto de la Administración en la venta de bienes protegidos.",
+    "Protección automática de cuevas y lugares con arte rupestre como BIC.",
+    "Inversión obligatoria del 1% de las obras públicas anuales en investigación y conservación del patrimonio.",
+    "Prohibición de usar detectores de metales fuera de excavaciones autorizadas.",
+    "Régimen sancionador severo con multas de hasta 600.000 euros o el cuádruple del daño.",
+    "Inhabilitación de hasta 10 años para profesionales que causen daños irreparables a bienes culturales.",
+    "Protección del entorno de los bienes para evitar que construcciones colindantes afecten su visibilidad.",
+    "Creación de la figura del Voluntario Cultural para la colaboración ciudadana.",
+    "Obligación de los funcionarios de entregar sus archivos al cesar en su cargo."
+  ],
+  "legal_references": [
+    "Constitución Española (artículos 44, 46, 148.15, 148.16, 148.17 y 149.1.28.a)",
+    "Estatuto de Autonomía para Cantabria (artículo 22)",
+    "Sentencia del Tribunal Constitucional 17/1991",
+    "Ley de Patrimonio Histórico Español de 25 de junio de 1985",
+    "Código Civil (artículo 335)",
+    "Ley de Excavaciones y Antigüedades de 1911",
+    "Ley 16/1985, de 25 de junio",
+    "Orden PRE/2568/2011, de 26 de septiembre",
+    "Ley 52/2007"
+  ],
+  "derogatons": [
+    "Limitaciones de la Ley de Patrimonio Histórico Español de 1985",
+    "Decreto 23/1988, de 20 de abril, sobre el Consejo del Patrimonio Cultural de Cantabria"
+  ],
+  "main_obligations": "Los propietarios deben conservar los bienes, permitir inspecciones y comunicar cualquier acto jurídico o técnico que los afecte. En caso de hallazgos arqueológicos, la comunicación debe realizarse en un máximo de 48 horas.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Declaración de Bien de Interés Cultural (BIC)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación del procedimiento",
+          "descrption": "Se inicia de oficio o a instancia de parte y se notifica a interesados y Ayuntamientos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informes de órganos asesores",
+          "descrption": "Se requiere informe favorable de dos órganos asesores. Si no se emite en 3 meses, se considera favorable.",
+          "start_date": "Desde la iniciación",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Información pública",
+          "descrption": "Periodo de audiencia para interesados y Ayuntamientos.",
+          "start_date": "Tras los informes",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "descrption": "Dictada por el Gobierno de Cantabria. El plazo máximo total es de 12 meses.",
+          "start_date": "Desde el acuerdo de inicio",
+          "end_date": "12 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de Bien de Interés Local (BIL)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación del procedimiento",
+          "descrption": "Inicio de oficio o a instancia de parte con notificación a interesados y Ayuntamientos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informes de órganos asesores",
+          "descrption": "Informe favorable de dos órganos asesores. Si no se emite en 3 meses, se considera favorable.",
+          "start_date": "Desde la iniciación",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Información pública",
+          "descrption": "Periodo de audiencia para interesados y Ayuntamientos.",
+          "start_date": "Tras los informes",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "descrption": "Dictada por la Consejería competente. El plazo máximo es de 12 meses.",
+          "start_date": "Desde el acuerdo de inicio",
+          "end_date": "12 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inclusión en el Inventario General",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación del procedimiento",
+          "descrption": "De oficio o a instancia de parte.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública y audiencia",
+          "descrption": "Audiencia a propietarios y Ayuntamientos y periodo de información pública.",
+          "start_date": null,
+          "end_date": "20 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informe técnico",
+          "descrption": "Informe favorable de un órgano asesor. Si no se emite en 1 mes, se considera favorable.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "descrption": "Dictada por la Dirección General. Plazo máximo de 6 meses.",
+          "start_date": "Desde el inicio",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización de desplazamiento de inmueble BIC o de Interés Local",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Presentación de solicitud ante la Consejería competente alegando fuerza mayor o interés social.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe favorable de al menos dos instituciones consultivas y del Ayuntamiento afectado."
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Plazo para resolver y notificar la decisión.",
+          "start_date": "Desde la solicitud",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Denegación tácita",
+          "description": "Si no hay respuesta en el plazo, la autorización se entiende denegada.",
+          "start_date": "Tras 3 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización de actuaciones arqueológicas de investigación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Entrega de proyecto y documentación técnica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto (objetivos, técnicas, medidas de protección), memoria económica y autorización del propietario del terreno."
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y resolución",
+          "description": "Tramitación por la Dirección General de Patrimonio Cultural.",
+          "start_date": "Desde la solicitud",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Comunicación de hallazgo casual de restos arqueológicos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación urgente",
+          "description": "Comunicar el hallazgo a la Consejería, Guardia Civil o Policía Nacional.",
+          "start_date": "Desde el hallazgo",
+          "end_date": "48 horas",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comprobación administrativa",
+          "description": "La Consejería verifica el interés de los restos.",
+          "start_date": "Desde la comunicación",
+          "end_date": "15 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "description": "Resolución de la Dirección General competente en materia de Patrimonio Cultural.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y Notificación",
+          "description": "El procedimiento debe resolverse y notificarse en un plazo máximo de un año.",
+          "start_date": "Desde la iniciación",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Creación de un Museo de titularidad pública",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Presentación de documentación completa ante la Consejería de Cultura y Deporte.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de personalidad, memoria, proyecto museológico y museográfico, proyecto técnico de instalación, seguridad, conservación, horarios y normas."
+        },
+        {
+          "step": 2,
+          "title": "Informes técnicos",
+          "description": "Emisión de informes favorables de la Consejería y órganos asesores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación",
+          "description": "Aprobación mediante Decreto del Gobierno de Cantabria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

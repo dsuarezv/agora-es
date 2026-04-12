@@ -1,0 +1,143 @@
+{
+  "identifier": "BOE-A-2011-6873",
+  "title": "Ley 1/2011, de 22 de marzo, por la que se aprueba el Estatuto de los consumidores y usuarios de la Comunitat Valenciana",
+  "visible_title": "Estatuto de los consumidores y usuarios de la Comunitat Valenciana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "1/2011",
+  "publication_date": "2011-04-16",
+  "enactment_date": "2011-03-22",
+  "last_updated": "2019-12-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2011/03/22/1",
+  "official_journal": "Diari Oficial de la Comunitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta ley refuerza la protección de los ciudadanos en la Comunidad Valenciana frente a abusos comerciales y riesgos de productos. Establece derechos fundamentales como la transparencia en contratos financieros y el uso de la lengua valenciana en ofertas. Además, otorga potentes herramientas de inspección a la administración para sancionar prácticas engañosas o peligrosas. Su objetivo es equilibrar la relación entre empresas y consumidores, especialmente para los colectivos más vulnerables.",
+  "citizen_impact": "El ciudadano gana mayor control sobre sus finanzas al ser notificado obligatoriamente si su hipoteca cambia de manos. Tiene derecho a presupuestos claros y desglosados, a usar el valenciano en contratos y a recibir protección especial si es menor, mayor o persona con discapacidad. En caso de productos peligrosos, la administración puede actuar de inmediato para retirarlos del mercado.",
+  "professional_impact": "Las empresas deben adoptar protocolos de transparencia estrictos, como informar sobre riesgos de salud y desglosar gastos en presupuestos. Los inspectores de consumo tienen autoridad para entrar en locales sin aviso previo y exigir documentación. Las sanciones por incumplimiento son severas, pudiendo alcanzar los 601.012,10 euros, y las medidas de clausura urgente deben ratificarse en un plazo de 5 días.",
+  "keywords": [
+    "consumidores",
+    "usuarios",
+    "protección al consumidor",
+    "Comunitat Valenciana",
+    "derechos del consumidor",
+    "inspección de consumo",
+    "sanciones comerciales"
+  ],
+  "key_points": [
+    "Protección reforzada para colectivos vulnerables (niños, mayores, personas con discapacidad, inmigrantes y desplazados).",
+    "Obligación de las entidades financieras de notificar la cesión de hipotecas o créditos en un máximo de 10 días hábiles.",
+    "Derecho al uso de la lengua valenciana en toda la documentación contractual y ofertas comerciales.",
+    "Transparencia total en precios: obligación de entregar presupuestos desglosados y facturas claras.",
+    "Garantía de pagos anticipados en vivienda mediante seguros o avales.",
+    "Accesibilidad en gasolineras: asistencia obligatoria en horario de 7:00 a 22:00.",
+    "Facultades de inspección sin previo aviso para acceder a locales y tomar muestras de productos.",
+    "Posibilidad de adoptar medidas urgentes (clausuras o retirada de productos) que deben ratificarse en 5 días.",
+    "Nulidad de cualquier contrato donde el consumidor renuncie a sus derechos legales.",
+    "Responsabilidad de la empresa en los costes de análisis y destrucción de productos peligrosos tras una infracción."
+  ],
+  "legal_references": [
+    "Ley 2/1987, de 9 de abril, de la Generalitat, de Estatuto de los Consumidores y Usuarios de la Comunitat Valenciana",
+    "Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios",
+    "Real Decreto Legislativo 1/2007, de 16 de noviembre",
+    "Ley 25/2009, de 22 de diciembre",
+    "Ley 29/2009, de 30 de diciembre",
+    "Constitución Española (artículo 51.1 y 2)",
+    "Estatuto de Autonomía de la Comunitat Valenciana",
+    "Ley 8/2004, de 20 de octubre, de la Generalitat, de la Vivienda de la Comunitat Valenciana",
+    "Sentencia 88/1986, de 1 de julio del Tribunal Constitucional",
+    "Ley 57/1968, de 27 de julio",
+    "Ley 38/1999, de 5 de noviembre",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas",
+    "Directiva 2006/123/CE",
+    "Ley Orgánica 3/2007, de 27 de marzo, para la igualdad efectiva de mujeres y hombres"
+  ],
+  "derogations": [
+    "Ley 2/1987, de 9 de abril, de la Generalitat, de Estatuto de los Consumidores y Usuarios de la Comunitat Valenciana",
+    "Decreto 188/1987, de 23 de noviembre, del Consell (creación del Consejo Valenciano de Consumo)"
+  ],
+  "main_obligations": "Las entidades financieras deben notificar la cesión de créditos/hipotecas en 10 días hábiles. Las empresas deben facilitar el acceso a inspectores, suministrar facturas claras y, ante productos peligrosos, asumir los costes de análisis y destrucción.",
+  "effective_date": "2011-04-16",
+  "procedures": [
+    {
+      "name": "Notificación de cesión, transmisión o titulización de créditos/hipotecas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de la operación",
+          "description": "La entidad debe informar por escrito al deudor y avalistas sobre la identidad del nuevo acreedor y condiciones de la cesión.",
+          "start_date": "Desde el momento de la operación",
+          "end_date": "Máximo 10 días hábiles",
+          "required_documentation": "Documento que identifique al nuevo acreedor, histórico de transmisiones, código del crédito y precio de la transmisión en euros."
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de información por el deudor",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de respuesta a la solicitud",
+          "description": "Si el deudor solicita información sobre un crédito ya cedido, la entidad debe responder.",
+          "start_date": "Desde la solicitud del interesado",
+          "end_date": "10 días hábiles",
+          "required_documentation": "Documento acreditativo de la solicitud con fecha y datos del solicitante."
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador de Consumo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Actuación de inspección",
+          "description": "Realización de visitas, toma de muestras y recogida de documentación.",
+          "start_date": "Al detectar indicios de irregularidad",
+          "end_date": null,
+          "required_documentation": "Documentación mercantil, industrial o contable"
+        },
+        {
+          "step": 2,
+          "title": "Adopción de medidas provisionales (si hay urgencia)",
+          "description": "Medidas para proteger la salud o intereses económicos que deben ser ratificadas.",
+          "start_date": "En el momento de la inspección",
+          "end_date": "5 días hábiles para la ratificación",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Incoación del expediente",
+          "description": "Inicio formal del procedimiento administrativo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución del procedimiento",
+          "description": "Notificación de la sanción o archivo del expediente.",
+          "start_date": "Desde la iniciación",
+          "end_date": "6 meses (plazo de caducidad)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Mediación/Arbitraje de Consumo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de resolución extrajudicial",
+          "description": "Las partes acuden de forma voluntaria para alcanzar un acuerdo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

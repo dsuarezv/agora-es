@@ -1,0 +1,104 @@
+{
+  "identifier": "BOC-j-2020-90088",
+  "title": "Decreto-ley 4/2020, de 2 de abril, de medidas extraordinarias de carácter económico, financieras, fiscal y administrativas para afrontar la crisis provocada por el COVID-19",
+  "visible_title": "Medidas económicas, fiscales y administrativas para afrontar la crisis por COVID-19 en Canarias",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "4/2020",
+  "publication_date": "2020-04-03",
+  "enactment_date": "2020-04-02",
+  "last_updated": "2020-12-04",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOC-j-2020-90088",
+  "official_journal": "Boletín Oficial de Canarias",
+  "journal_issue": null,
+  "summary": "Esta norma implementa un paquete de choque para mitigar el impacto económico de la pandemia en Canarias. Establece ayudas directas para autónomos, flexibiliza la contratación pública y agiliza la gestión de subvenciones y presupuestos. Además, permite la movilidad de personal público y la celebración de reuniones telemáticas para garantizar la continuidad de los servicios.",
+  "citizen_impact": "Los autónomos residentes en Canarias reciben un apoyo económico para cubrir el 30% de su base mínima de cotización y así percibir el 100% de su prestación. También se facilitan ayudas para la contratación de personal de hogar y la mejora de condiciones en trabajadores con ERTE.",
+  "professional_impact": "Las empresas y autónomos acceden a procesos de subvención más rápidos y con menos trabas burocráticas. Los funcionarios públicos pueden ser desplazados a otras áreas para cubrir necesidades urgentes y las reuniones de órganos colegiados pueden realizarse de forma telemática.",
+  "keywords": [
+    "COVID-19",
+    "Canarias",
+    "ayudas autónomos",
+    "gestión administrativa",
+    "medidas fiscales",
+    "contratación pública",
+    "empleo"
+  ],
+  "key_points": [
+    "Creación de una línea de ayuda de 11 millones de euros para autónomos canarios para cubrir el 30% de su base de cotización.",
+    "Flexibilización de la contratación pública permitiendo procedimientos de urgencia y emergencia.",
+    "Agilización de subvenciones permitiendo el anticipo de pagos y la simplificación de la justificación.",
+    "Autorización de movilidad funcional (voluntaria o forzosa) de empleados públicos para cubrir necesidades de servicio.",
+    "Habilitación de reuniones y negociaciones colectivas mediante medios telemáticos (videoconferencia, etc.).",
+    "Reducción temporal de las cuotas fijas de la tasa fiscal sobre máquinas de juegos de azar.",
+    "Posibilidad de ampliar créditos presupuestarios de forma extraordinaria para sectores sanitario, educativo y social."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020",
+    "Real Decreto ley 8/2020",
+    "Ley 11/2006 de la Hacienda Pública Canaria",
+    "Ley 9/2017 de Contratos del Sector Público",
+    "Ley 38/2003 General de Subvenciones",
+    "Ley 19/2019 de Presupuestos Generales de la Comunidad Autónoma de Canarias"
+  ],
+  "derogations": [
+    "Norma derogada por la Ley 4/2020, de 26 de noviembre"
+  ],
+  "main_obligations": "Los entes del sector público deben suministrar información económica-financiera detallada sobre los gastos derivados de la crisis. Los órganos colegiados deben informar al Gobierno de las decisiones tomadas mediante procedimientos excepcionales en un plazo de un mes.",
+  "effective_date": "2020-04-03",
+  "procedures": [
+    {
+      "name": "Concesión de ayudas para autónomos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de la ayuda",
+          "description": "Presentación de la instancia por parte del autónomo interesado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el cese de actividad y la residencia en Canarias"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de concesión",
+          "description": "Tramitación mediante régimen de concesión directa según Orden reglamentaria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Rendición de cuentas ejercicio 2019",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Límite para entidades con presupuesto limitativo",
+          "description": "Fecha máxima para la rendición de cuentas.",
+          "start_date": null,
+          "end_date": "2020-05-29",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Límite para entidades con presupuesto estimativo",
+          "description": "Fecha límite para formular cuentas anuales.",
+          "start_date": null,
+          "end_date": "2020-05-15",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Presentación de la Cuenta General",
+          "description": "Presentación ante la Audiencia de Cuentas de Canarias.",
+          "start_date": null,
+          "end_date": "2020-07-31",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

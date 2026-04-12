@@ -1,0 +1,101 @@
+{
+  "identifier": "BOE-A-2016-6312",
+  "title": "Ley 10/2016, de 13 de junio, para la recuperación de personas desaparecidas durante la guerra civil y el franquismo",
+  "visible_title": "Ley para la recuperación de personas desaparecidas durante la guerra civil y el franquismo",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "10/2016",
+  "publication_date": "2016-06-30",
+  "enactment_date": "2016-06-13",
+  "last_updated": "2016-06-16",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2016/06/13/10",
+  "official_journal": "Butlletí Oficial de les Illes Balears",
+  "journal_issue": null,
+  "summary": "Esta ley asume la responsabilidad del Gobierno de Baleares en la localización, identificación y recuperación de restos de personas desaparecidas durante la Guerra Civil y el franquismo. Busca acabar con la indefensión de las familias y asociaciones al centralizar la gestión en una Comisión Técnica especializada. El objetivo es garantizar un proceso digno, científico y coordinado que incluya la creación de censos, mapas de fosas y protocolos de exhumación.",
+  "citizen_impact": "Otorga a los familiares de desaparecidos el derecho a participar activamente en la búsqueda y decidir el destino de los restos recuperados. Además, garantiza asistencia psicológica y médica durante los procesos de exhumación y asegura la protección de los datos personales de los interesados.",
+  "professional_impact": "Crea una nueva Comisión Técnica multidisciplinar que obliga a la colaboración de arqueólogos, antropólogos, forenses, historiadores y juristas. Los ayuntamientos y consejos insulares deben colaborar en la protección de las fosas y en la gestión de los terrenos afectados.",
+  "keywords": [
+    "memoria histórica",
+    "desapariciones forzadas",
+    "exhumaciones",
+    "fosas comunes",
+    "Baleares",
+    "derechos humanos",
+    "identificación de restos"
+  ],
+  "key_points": [
+    "Creación de una Comisión Técnica para gestionar el censo de desaparecidos y el mapa de fosas.",
+    "Obligación de elaborar y actualizar anualmente un mapa de fosas en las Islas Baleares.",
+    "Reconocimiento de las fosas como posibles pruebas de crímenes contra la humanidad.",
+    "Garantía de asistencia psicológica para los familiares durante las intervenciones.",
+    "Derecho de los familiares a decidir el destino de los restos identificados.",
+    "Declaración de utilidad pública para la ocupación temporal de terrenos donde se realicen búsquedas.",
+    "Obligación de señalizar y proteger las fosas, incluso si la exhumación no es técnicamente viable.",
+    "Procedimiento de denuncia ante la Fiscalía si se hallan restos con signos de violencia."
+  ],
+  "legal_references": [
+    "Ley 52/2007, de 26 de diciembre",
+    "Ley 12/1998, de 21 de diciembre, del patrimonio histórico de las Illes Balears",
+    "Ley de expropiación forzosa",
+    "Convenios de Ginebra de 1906 y 1929"
+  ],
+  "derogations": [],
+  "main_obligations": "El Gobierno de Baleares debe elaborar un censo de desaparecidos y un mapa de fosas, además de coordinar un plan anual de prospección e intervención. Los consejos insulares deben iniciar expedientes para declarar las fosas como bienes de interés cultural tras los informes técnicos.",
+  "effective_date": "2016-06-30",
+  "procedures": [
+    {
+      "name": "Localización, identificación y recuperación de restos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inscripción en el censo",
+          "descrption": "Los familiares o asociaciones pueden solicitar la inscripción de una persona desaparecida en el censo oficial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos que permitan la localización e identificación"
+        },
+        {
+          "step": 2,
+          "title": "Elaboración de informes de viabilidad",
+          "descrption": "La Comisión Técnica analiza si es técnicamente posible intervenir en una fosa específica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Intervención y exhumación",
+          "descrption": "Ejecución de las tareas de excavación siguiendo el protocolo específico de la comunidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Decisión sobre los restos",
+          "descrption": "Los familiares deciden el destino de los restos; si no hay reclamación, la administración decide su inhumación digna.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Protección de fosas como patrimonio",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio de expediente de protección",
+          "descrption": "Tras la localización o intervención, el Gobierno insta al consejo insular a declarar la fosa como bien de interés cultural.",
+          "start_date": "6 meses tras el informe técnico",
+          "end_date": null,
+          "required_documentation": "Informe de la Comisión técnica"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,78 @@
+{
+  "identifier": "BOE-A-2007-1",
+  "title": "Orden PRE/4008/2006, de 27 de diciembre, por la que se establece la configuración, características, requisitos y procedimientos de acceso al Sistema de Verificación de Datos de Residencia",
+  "visible_title": "Configuración y acceso al Sistema de Verificación de Datos de Residencia",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio de la Presidencia",
+  "official_number": "PRE/4008/2006",
+  "publication_date": "2007-01-01",
+  "enactment_date": "2006-12-27",
+  "last_updated": "2007-01-01",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2006/12/27/pre4008",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "1",
+  "summary": "Esta norma regula el funcionamiento de un sistema electrónico que permite a la Administración General del Estado consultar directamente los datos de residencia de los ciudadanos. Su objetivo es eliminar la obligación de que los ciudadanos tengan que presentar certificados de empadronamiento en sus trámites administrativos. Mediante este sistema, la propia Administración comprueba la información de forma interna y automática tras obtener el consentimiento del interesado.",
+  "citizen_impact": "Simplifica la vida del ciudadano al evitar que tenga que solicitar y aportar físicamente el certificado de empadronamiento en trámites con la Administración General del Estado. Esto reduce el tiempo y el esfuerzo dedicado a la gestión de documentos burocráticos.",
+  "professional_impact": "Los funcionarios y organismos públicos dejan de ser receptores de documentos físicos para convertirse en usuarios de una plataforma de consulta electrónica. Esto requiere que los departamentos designen responsables de acceso y utilicen certificados digitales para garantizar la seguridad y la integridad de las consultas realizadas.",
+  "keywords": [
+    "empadronamiento",
+    "residencia",
+    "administración electrónica",
+    "verificación de datos",
+    "certificado de residencia",
+    "consulta electrónica"
+  ],
+  "key_points": [
+    "Se prohíbe exigir el certificado de empadronamiento en procedimientos de la Administración General del Estado.",
+    "La Administración debe comprobar la residencia de oficio mediante consulta electrónica siempre que sea necesario.",
+    "La consulta electrónica requiere obligatoriamente el consentimiento previo del ciudadano.",
+    "El sistema permite acceder a datos detallados como provincia, municipio, vía, número y planta.",
+    "Todas las consultas y respuestas deben estar firmadas electrónicamente para garantizar su validez.",
+    "El sistema está disponible las 24 horas del día, los 7 días de la semana."
+  ],
+  "legal_references": [
+    "Real Decreto 523/2006, de 28 de abril",
+    "Ley 7/1985, de 2 de abril, reguladora de las Bases de Régimen Local",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal",
+    "Real Decreto 994/1999, de 11 de junio",
+    "Real Decreto 1308/1992, de 23 de octubre"
+  ],
+  "derogations": [],
+  "main_obligations": "Los organismos públicos deben designar un responsable para autorizar accesos al sistema y asegurar que toda consulta se realice con el consentimiento fehaciente del interesado. Además, deben garantizar la seguridad y confidencialidad de los datos consultados mediante el uso de certificados electrónicos.",
+  "effective_date": "2007-01-02",
+  "procedures": [
+    {
+      "name": "Consulta de datos de residencia mediante el Sistema de Verificación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Obtención del consentimiento",
+          "description": "El interesado debe autorizar la consulta de sus datos de residencia en la solicitud del trámite.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Consentimiento expreso en el formulario o comunicación"
+        },
+        {
+          "step": 2,
+          "title": "Acceso y consulta electrónica",
+          "description": "El funcionario accede al sistema mediante certificado electrónico y realiza la consulta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado electrónico del funcionario"
+        },
+        {
+          "step": 3,
+          "title": "Verificación de la información",
+          "description": "El sistema devuelve los datos de residencia (municipio, dirección, etc.) tras validar la identidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

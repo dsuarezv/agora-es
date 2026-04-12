@@ -1,0 +1,99 @@
+{
+  "identifier": "BOE-A-2003-9100",
+  "title": "Ley 5/2003, de 3 de abril, de atención y protección a las personas mayores de Castilla y León",
+  "visible_title": "Ley de atención y protección a las personas mayores de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "5/2003",
+  "publication_date": "2003-05-06",
+  "enactment_date": "2003-04-03",
+  "last_updated": "2014-09-19",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2003/04/03/5",
+  "official_journal": "Boletín Oficial de Castilla y León",
+  "journal_issue": null,
+  "summary": "Esta ley garantiza un sistema integral de derechos y servicios para las personas mayores de 65 años en Castilla y León. Su objetivo es asegurar que los mayores puedan mantener su autonomía y permanecer en su entorno familiar el mayor tiempo posible mediante servicios de ayuda a domicilio y redes residenciales. Además, establece mecanismos de protección urgente ante situaciones de riesgo y un control estricto sobre los centros de atención para evitar abusos. La norma busca prevenir la pérdida de autonomía y proteger el patrimonio de las personas mayores frente a posibles expolios.",
+  "citizen_impact": "Los mayores de 65 años en Castilla y León acceden a un catálogo de servicios que prioriza su permanencia en casa y su autonomía. Tienen derecho a que la administración intervenga si su integridad corre peligro y a recibir protección si su patrimonio es manipulado. Además, el coste de los servicios se ajustará a su capacidad económica real.",
+  "professional_impact": "Los centros de atención a mayores deben cumplir estándares estrictos de personal e instalaciones bajo riesgo de multas de hasta 300.000 €. Los responsables de centros tienen la obligación legal de informar al Ministerio Fiscal si detectan signos de incapacitación en un usuario, y cualquier profesional tiene el deber de denunciar casos de maltrato. Los inspectores cuentan con autoridad policial para realizar inspecciones obligatorias.",
+  "keywords": [
+    "personas mayores",
+    "Castilla y León",
+    "atención integral",
+    "autonomía",
+    "servicios sociales",
+    "protección de mayores",
+    "centros residenciales"
+  ],
+  "key_points": [
+    "Prioridad de permanencia en el entorno familiar y creación de redes residenciales en zonas rurales.",
+    "Derecho a servicios de atención integral, desde ayuda a domicilio hasta centros residenciales y urgencias.",
+    "Protección contra la expoliación patrimonial y obligación de informar al mayor sobre riesgos en sus bienes.",
+    "Reconocimiento de la dependencia como pérdida de autonomía física, psíquica o sensorial.",
+    "Régimen sancionador para centros con multas de hasta 300.000 € y posible cierre definitivo.",
+    "Inhabilitación de 6 años para gestionar centros en caso de cierre por infracción grave.",
+    "Los inspectores tienen autoridad policial y su acceso a los centros es obligatorio.",
+    "Las sanciones económicas se actualizan automáticamente según el IPC.",
+    "Las infracciones prescriben en 1 año (leves), 2 años (graves) o 5 años (muy graves).",
+    "Las actas de inspección tienen valor de documento público para probar infracciones."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Castilla y León",
+    "Ley 18/1988, de 28 de diciembre, de Acción Social y Servicios Sociales",
+    "Decreto 13/1990, de 25 de enero",
+    "Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común"
+  ],
+  "derogations": [
+    "Todas las disposiciones de igual o inferior rango que se opongan a esta Ley"
+  ],
+  "main_obligations": "Los titulares de centros deben permitir el acceso obligatorio de inspectores y el examen de toda su documentación. Los profesionales deben comunicar cualquier indicio de maltrato o signos de incapacitación detectados en los usuarios a las autoridades o al Ministerio Fiscal.",
+  "effective_date": "2003-04-26",
+  "procedures": [
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inspección y levantamiento de acta",
+          "description": "Los inspectores comprueban hechos y redactan un acta con valor de documento público.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación relativa al centro o servicio inspeccionado"
+        },
+        {
+          "step": 2,
+          "title": "Subsanación voluntaria",
+          "description": "El infractor puede corregir la infracción antes de que termine la visita de inspección para atenuar la sanción.",
+          "start_date": "Antes de levantarse el acta de inspección",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Reconocimiento de responsabilidad",
+          "description": "Reconocimiento por escrito para colaborar en la reparación de daños antes de la notificación de la resolución.",
+          "start_date": "Antes de la notificación de la resolución final",
+          "end_date": null,
+          "required_documentation": "Escrito dirigido a la Administración"
+        }
+      ]
+    },
+    {
+      "name": "Adecuación de Registros",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Modificación de asientos de inscripción",
+          "description": "La Administración debe cambiar las denominaciones de los centros en el registro para ajustarlas a la nueva ley.",
+          "start_date": "Entrada en vigor de la Ley",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

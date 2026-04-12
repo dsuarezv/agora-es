@@ -1,0 +1,155 @@
+{
+  "identifier": "BOE-A-2017-5043",
+  "title": "Ley 3/2017, de 5 de abril, de Espéctáculos Públicos y Actividades Recreativas de Cantabria",
+  "visible_title": "Ley de Espectáculos Públicos y Actividades Recreativas de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "3/2017",
+  "publication_date": "2017-05-09",
+  "enactment_date": "2017-04-05",
+  "last_updated": "2023-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2017/04/05/3",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo deben funcionar todos los locales de ocio y eventos en Cantabria, desde cines hasta discotecas. Su objetivo es garantizar que los espectáculos sean seguros, controlados y que cuenten con los seguros necesarios para proteger a los asistentes. Establece reglas estrictas sobre horarios, aforos y la protección de menores para evitar riesgos. Además, otorga a las autoridades la capacidad de cerrar locales de forma inmediata si detectan peligros graves.",
+  "citizen_impact": "Garantiza un entorno de ocio más seguro mediante la exigencia de seguros de responsabilidad civil y controles de aforo. Los consumidores tienen derecho a la venta directa de un 10% de entradas el mismo día del evento y a disponer de hojas de reclamaciones. Asimismo, protege a los menores prohibiendo el consumo de alcohol y tabaco en sus sesiones y regulando su acceso a salas de fiesta.",
+  "professional_impact": "Los empresarios del sector deben cumplir con requisitos técnicos de seguridad, contratar seguros con capitales mínimos según el aforo y respetar estrictamente los horarios y aforos permitidos. Existe una responsabilidad solidaria del titular por las infracciones de sus empleados o clientes. El incumplimiento de horarios o la falta de licencias puede acarrear multas de hasta 600.000 euros y el cierre inmediato del establecimiento.",
+  "keywords": [
+    "espectáculos públicos",
+    "actividades recreativas",
+    "seguridad ocio",
+    "licencias Cantabria",
+    "seguros responsabilidad civil",
+    "control aforo"
+  ],
+  "key_points": [
+    "Obligatoriedad de contratar seguros de responsabilidad civil con capitales mínimos según el aforo.",
+    "Exigencia de personal de vigilancia privada si el aforo supera las 400 personas (o 1.000 en espacios abiertos).",
+    "Los municipios pueden permitir declaraciones responsables en lugar de licencias según su normativa.",
+    "Prohibición absoluta de la reventa de entradas y de vender entradas que excedan el aforo permitido.",
+    "Reserva obligatoria del 10% del aforo para venta directa al público el mismo día del evento.",
+    "Restricciones estrictas para menores: prohibición de alcohol y tabaco en sus sesiones.",
+    "Capacidad de las autoridades para clausurar locales o suspender licencias de forma inmediata ante peligro inminente.",
+    "Responsabilidad solidaria del titular por conductas ilícitas de clientes o empleados.",
+    "Multas por infracciones muy graves que oscilan entre 30.001€ y 600.000€.",
+    "El incumplimiento de horarios por más de 60 minutos se considera una infracción grave.",
+    "Prohibición de acceso a personas con armas o que inciten a la violencia/xenofobia.",
+    "Obligación de desalojar el local en un máximo de 30 minutos tras el cierre."
+  ],
+  "legal_references": [
+    "Estatuto de Auto autonomía para Cantabria",
+    "Real Decreto 1389/1996",
+    "Ley Orgánica 4/2015 de Protección de la Seguridad Ciudadana",
+    "Ley de Cantabria 2/2015 de Régimen Sancionador",
+    "Decreto 72/1997 de Cantabria",
+    "Ley 37/2003, de 17 de noviembre, del Ruido",
+    "Ley de Cantabria 17/2006, de 11 de noviembre, de Control Ambiental Integrado",
+    "Ley de Cantabria 5/1999, de 24 de marzo, de Ordenación del Turismo",
+    "Real Decreto 2816/1982, de 28 de agosto, de policía de espectáculos públicos"
+  ],
+  "derogations": [
+    "Ley Orgánica 1/1992, de 21 de febrero, sobre Protección de la Seguridad Ciudadana",
+    "Ley de Cantabria 2/2015, de 1 de octubre"
+  ],
+  "main_obligations": "Los titulares deben mantener vigentes los seguros de responsabilidad civil, presentar certificados técnicos de seguridad y respetar estrictamente los horarios y aforos. Asimismo, deben facilitar hojas de reclamaciones y garantizar el desalojo del público en 30 minutos tras el cierre.",
+  "effective_date": "2017-05-10",
+  "procedures": [
+    {
+      "name": "Obtención de licencias y autorizaciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud o declaración responsable",
+          "description": "El interesado presenta la documentación para obtener licencia o, si procede, realiza una declaración responsable.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto técnico, acreditación de seguro de responsabilidad civil y cumplimiento de requisitos de seguridad/salubridad."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de actividades deportivas",
+          "description": "Para actividades deportivas que crucen municipios, la administración debe resolver en un plazo máximo.",
+          "start_date": "30 días antes de la actividad",
+          "end_date": "20 días tras la recepción de la solicitud",
+          "required_documentation": "Autorizaciones de la normativa deportiva."
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de desalojo tras cierre",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cierre material y desconexión",
+          "description": "Al cumplirse el horario, se debe cerrar el acceso, dejar de servir consumiciones y desconectar música/audiovisuales.",
+          "start_date": "Hora de cierre establecida",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Desalojo del público",
+          "description": "El desalojo de los clientes debe completarse totalmente.",
+          "start_date": "Inmediatamente tras el cierre",
+          "end_date": "30 minutos después del cierre",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adopción de medidas provisionales",
+          "description": "La autoridad puede suspender licencias o clausurar antes de iniciar el expediente.",
+          "start_date": "Inmediato en caso de urgencia",
+          "end_date": "Debe ratificarse en 15 días tras la incoación",
+          "required_documentation": "Resolución motivada"
+        },
+        {
+          "step": 2,
+          "title": "Audiencia del interesado",
+          "description": "Plazo para que el presunto infractor presente alegaciones.",
+          "start_date": "Tras la medida provisional",
+          "end_date": "10 días (o 2 días si hay urgencia)",
+          "required_documentation": "Alegaciones y pruebas"
+        },
+        {
+          "step": 3,
+          "title": "Resolución del expediente",
+          "description": "Decisión final sobre la sanción o el archivo.",
+          "start_date": "Desde la incoación",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Medidas provisionales inmediatas (Agentes de la autoridad)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Actuación de urgencia",
+          "description": "Los agentes adoptan medidas sin audiencia previa por riesgo inmediato.",
+          "start_date": "En el momento del riesgo",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comunicación y confirmación",
+          "description": "Se comunica al órgano competente para su ratificación o revocación.",
+          "start_date": "Dentro de las 48 horas siguientes",
+          "end_date": "5 días hábiles para confirmar/revocar",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

@@ -1,0 +1,67 @@
+{
+  "identifier": "BOE-A-2020-7442",
+  "title": "Decreto-ley 11/2020, de 29 de mayo, de medidas urgentes complementarias en materia tributaria para responder al impacto económico del COVID-19 en la Comunidad Autónoma de Extremadura y otras medidas adicionales",
+  "visible_title": "Medidas tributarias y de apoyo económico ante el impacto del COVID-19 en Extremadura",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "11/2020",
+  "publication_date": "2020-07-08",
+  "enactment_date": "2020-05-29",
+  "last_updated": "2020-06-02",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/dl/2020/05/29/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece ayudas económicas y alivios fiscales en Extremadura para mitigar los efectos de la crisis sanitaria por COVID-19. Amplía plazos para el pago de impuestos como sucesiones y transmisiones patrimoniales, introduce deducciones en el IRPF por gastos de cuidado de menores y bonifica tasas de máquinas de juego. Además, prorroga la reducción de alquileres en viviendas protegidas y amplía la protección de empleo para autónomos y profesionales con mutualidades.",
+  "citizen_impact": "Los ciudadanos con hijos menores de 14 años pueden desgravarse en su IRPF los gastos de guardería o cuidado por motivos laborales. Además, quienes vivan en viviendas protegidas de la Junta de Extremadura y tengan problemas para pagar el alquiler por la crisis, verán prorrogada automáticamente su reducción de renta durante un año.",
+  "professional_impact": "Los autónomos y profesionales adscritos a mutualidades alternativas al RETA ahora pueden acceder a ayudas para el mantenimiento del empleo. Los empresarios de hostelería con máquinas de juego reciben una bonificación del 50% en la tasa del tercer trimestre de 2020, siempre que mantengan las máquinas registradas.",
+  "keywords": [
+    "COVID-19",
+    "Extremadura",
+    "medidas tributarias",
+    "IRPF",
+    "ayudas autónomos",
+    "vivienda protegida",
+    "impuesto sucesiones",
+    "conciliación familiar"
+  ],
+  "key_points": [
+    "Ampliación de dos meses en los plazos de pago de Impuesto sobre Sucesiones, Transmisiones Patrimoniales y Tributos sobre el Juego.",
+    "Nueva deducción en el IRPF para gastos de cuidado de menores de 14 años (guarderías, ludotecas, etc.).",
+    "Bonificación del 50% en la tasa de máquinas recreativas y de azar para el tercer trimestre de 2020.",
+    "Prórroga automática de un año en la reducción de la renta de alquiler de viviendas protegidas para afectados por la crisis.",
+    "Inclusión de profesionales con mutualidades alternativas al RETA en los programas de ayuda al mantenimiento del empleo.",
+    "Modificación de tasas sanitarias para cumplir con la normativa europea de inspección de animales y productos pesqueros."
+  ],
+  "legal_references": [
+    "Decreto-ley 2/2020, de 25 de marzo",
+    "Real Decreto 463/2020",
+    "Reglamento (UE) 2017/625",
+    "Decreto 115/2006",
+    "Decreto-ley 8/2020, de 24 de abril",
+    "Ley 9/2018 de Sociedades Cooperativas de Extremadura"
+  ],
+  "derogations": [
+    "Artículo 5 del Decreto-ley 2/2020, de 25 de marzo"
+  ],
+  "main_obligations": "Los contribuyentes deben cumplir con los nuevos plazos de autoliquidación de impuestos (Sucesiones, Transmisiones y Juego) que se extienden dos meses tras el vencimiento original. Para la bonificación de máquinas de juego, es obligatorio mantener la máquina de alta en el censo durante los dos trimestres posteriores.",
+  "effective_date": "2020-07-08",
+  "procedures": [
+    {
+      "name": "Prórroga de minoración de renta en viviendas protegidas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Concesión de oficio",
+          "descrption": "La Administración concede automáticamente la prórroga de la reducción de renta sin necesidad de solicitud.",
+          "start_date": "Durante el periodo de aplicación del estado de alarma",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

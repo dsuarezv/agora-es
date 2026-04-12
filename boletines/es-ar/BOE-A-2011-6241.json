@@ -1,0 +1,111 @@
+{
+  "identifier": "BOE-A-2011-6241",
+  "title": "Ley 3/2011, de 24 de febrero, de medidas en materia de Contratos del Sector Público de Aragón",
+  "visible_title": "Ley de medidas en materia de Contratos del Sector Público de Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "3/2011",
+  "publication_date": "2011-04-07",
+  "enactment_date": "2011-02-24",
+  "last_updated": "2023-04-17",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2011/02/24/3",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta norma busca agilizar y transparentar la contratación pública en Aragón, adaptándola a la normativa europea y estatal. Su principal novedad es la creación del Tribunal Administrativo de Contratos Públicos de Aragón para resolver recursos de forma independiente. Además, introduce medidas de simplificación administrativa, como la digitalización de trámites y la reducción de burocracia para licitadores.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en la mejora indirecta de la eficiencia en el uso de los fondos públicos mediante procesos de compra más transparentes.",
+  "professional_impact": "Las empresas y autónomos que contratan con la Administración aragonesa se benefician de una mayor agilidad mediante la declaración responsable única y la notificación electrónica. Los funcionarios ven modificadas sus funciones en las mesas de contratación y se establece un nuevo órgano especializado para la resolución de conflictos.",
+  "keywords": [
+    "contratación pública",
+    "Aragón",
+    "Tribunal Administrativo de Contratos Públicos",
+    "licitación",
+    "administración electrónica",
+    "recursos especiales"
+  ],
+  "key_points": [
+    "Creación del Tribunal Administrativo de Contratos Públicos de Aragón para resolver recursos de forma independiente.",
+    "Implementación de la Declaración Responsable Única para simplificar la acreditación de requisitos.",
+    "Obligatoriedad de consultar al menos a tres empresas en ciertos contratos menores para garantizar transparencia.",
+    "Introducción de reservas sociales para centros especiales de empleo y empresas de inserción.",
+    "Digitalización de procesos mediante el uso de la sede electrónica y notificaciones electrónicas obligatorias en ciertos contratos.",
+    "Permiso para que la Administración recabe directamente certificados tributarios y de la Seguridad Social con la autorización del licitador.",
+    "Establecimiento de criterios de resolución de empates basados en objetivos sociales (igualdad de género, baja temporalidad)."
+  ],
+  "legal_references": [
+    "Ley 30/2007, de 30 de octubre, de Contratos del Sector Público",
+    "Ley 31/2007, de 30 de octubre, sobre procedimientos de contratación en los sectores del agua, la energía, los transportes y los servicios postales",
+    "Ley 11/2007, de 26 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos",
+    "Directiva 2004/18/CE",
+    "Ley 5/2009, de 30 de junio, de Servicios Sociales de Aragón",
+    "Ley 34/2010, de 5 de agosto"
+  ],
+  "derogations": [
+    "Apartado 1 y 2 de la Disposición adicional octava de la Ley 5/2009, de 30 de junio, de Servicios Sociales de Aragón"
+  ],
+  "main_obligations": "Los órganos de contratación deben comprobar conflictos de intereses y los licitadores deben presentar la Declaración Responsable Única. Se establece la obligación de reservar porcentajes de contratos para centros especiales de empleo según la ley de presupuestos anual.",
+  "effective_date": "2011-04-09",
+  "procedures": [
+    {
+      "name": "Procedimiento de licitación y adjudicación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Preparación del contrato",
+          "description": "Definición del objeto y consulta previa a empresas en contratos menores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Pliegos de condiciones"
+        },
+        {
+          "step": 2,
+          "title": "Presentación de ofertas",
+          "description": "Los licitadores presentan sus propuestas incluyendo la Declaración Responsable Única.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración Responsable Única (DRU), ofertas técnicas y económicas"
+        },
+        {
+          "step": 3,
+          "title": "Evaluación por la Mesa de Contratación",
+          "description": "Calificación, admisión y valoración de las ofertas presentadas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Adjudicación y notificación",
+          "description": "Resolución del contrato y notificación electrónica a los licitadores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Recurso Especial en materia de contratación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Interposición del recurso",
+          "description": "Presentación del recurso ante el órgano de contratación o el Tribunal.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución del Tribunal",
+          "description": "El Tribunal Administrativo resuelve la cuestión de nulidad o el recurso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

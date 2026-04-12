@@ -1,0 +1,88 @@
+{
+  "identifier": "BOE-A-2001-12716",
+  "title": "Ley 4/2001, de 31 de mayo, reguladora de la Mediación Familiar",
+  "visible_title": "Ley reguladora de la Mediación Familiar",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "4/2001",
+  "publication_date": "2001-07-02",
+  "enactment_date": "2001-05-31",
+  "last_updated": "2007-08-07",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2001/05/31/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco legal para la mediación familiar en Galicia como una alternativa para resolver conflictos derivados de rupturas de pareja o matrimonio. Busca ofrecer una vía ágil, voluntaria y confidencial para alcanzar acuerdos, especialmente en temas de custodia y alimentos, priorizando el bienestar de los menores. El servicio es gestionado por profesionales especializados inscritos en un registro oficial y puede realizarse antes o durante procesos judiciales.",
+  "citizen_impact": "Permite a las familias en crisis resolver sus diferencias (como la custodia de los hijos) mediante el diálogo con un experto, evitando el desgaste de un juicio largo. Ofrece gratuidad para quienes tengan derecho a asistencia jurídica gratuita y garantiza que, si hay violencia de género, el proceso de mediación se detenga inmediatamente.",
+  "professional_impact": "Crea la profesión regulada de mediador familiar en Galicia, exigiendo formación especializada e inscripción en un registro oficial. Los mediadores están sujetos a un régimen sancionador estricto que incluye desde amonestaciones hasta la baja definitiva por incumplir el deber de confidencialidad o neutralidad.",
+  "keywords": [
+    "mediación familiar",
+    "Galicia",
+    "conflictos familiares",
+    "divorcio",
+    "separación",
+    "custodia de menores",
+    "acuerdos de pareja"
+  ],
+  "key_points": [
+    "La mediación es totalmente voluntaria y las partes pueden abandonar el proceso en cualquier momento.",
+    "El mediador no decide por las partes; solo facilita la comunicación y propone soluciones para que ellas decidan.",
+    "Se prohíbe estrictamente la mediación si existe violencia de género sobre la mujer.",
+    "El proceso tiene una duración máxima de 3 meses, prorrogables por otros 3 meses más.",
+    "Toda la información compartida es confidencial y no puede ser revelada, salvo requerimiento judicial o fiscal.",
+    "El servicio es gratuito para beneficiarios de asistencia jurídica gratuita.",
+    "Los mediadores deben estar inscritos en un Registro oficial de la Xunta de Galicia."
+  ],
+  "legal_references": [
+    "Ley 3/1997, de 9 de junio, gallega de la Familia, la Infancia y la Adolescencia",
+    "Recomendación número R(98)1 del Comité de Ministros del Consejo de Europa",
+    "Ley 1/1996, de 10 de enero, de Asistencia Jurídica Gratuita",
+    "Ley 1/1983, de 23 de febrero, reguladora de la Junta y de su Presidente",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común"
+  ],
+  "derogations": [],
+  "main_obligations": "Los mediadores deben mantener estricta confidencialidad y neutralidad, bajo riesgo de sanciones que incluyen la baja del registro. Las partes deben colaborar y respetar las actuaciones del mediador durante el proceso.",
+  "effective_date": "2001-03-31",
+  "procedures": [
+    {
+      "name": "Procedimiento de Mediación Familiar",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "description": "Solicitud de la mediación por las partes o propuesta del juez.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Primera reunión",
+          "description": "Exposición de motivos por las partes y presentación del programa de actuación por el mediador.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Desarrollo de sesiones",
+          "description": "Sesiones de negociación y propuestas de solución. El proceso no debe exceder los 3 meses (prorrogables a 6).",
+          "start_date": null,
+          "end_date": "6 meses desde la reunión inicial",
+          "required_documentation": "Informes de cada sesión"
+        },
+        {
+          "step": 4,
+          "title": "Terminación",
+          "description": "Cierre por acuerdo alcanzado, aceptación de propuesta del mediador o imposibilidad de consenso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de acuerdo o acta de finalización"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-2011-2210",
+  "title": "Ley 2/2008, de 21 de abril, de carreteras de la Comunidad Autónoma de la Región de Murcia",
+  "visible_title": "Ley de Carreteras de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "2/2008",
+  "publication_date": "2011-02-05",
+  "enactment_date": "2008-04-21",
+  "last_updated": "2022-10-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2008/04/21/2",
+  "official_journal": "Boletín Oficial de la Región de Murcia",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para la planificación, construcción, mantenimiento y uso de las carreteras de titularidad autonómica en la Región de Murcia. Introduce una nueva clasificación técnica y funcional de las vías, regula las zonas de protección (dominio público, servidumbre y afección) y crea planes de seguridad vial. Además, define el régimen de sanciones y los procedimientos para la gestión de las infraestructuras viales regionales.",
+  "citizen_impact": "Afecta a los ciudadanos al regular las zonas donde no se puede construir cerca de las carreteras (límites de edificabilidad) y las normas de uso de las vías. También establece las consecuencias y multas por realizar obras o actividades no autorizadas en las zonas de protección de las carreteras.",
+  "professional_impact": "Impacta directamente en constructoras, ingenieros y propietarios de terrenos colindantes a las carreteras regionales, quienes deben cumplir con estrictos trámites de comunicación previa y autorizaciones. Las empresas de servicios (gasolineras, hoteles) deben someterse a regímenes de concesión y pago de cánones por el uso del dominio público.",
+  "keywords": [
+    "carreteras",
+    "Región de Murcia",
+    "infraestructuras",
+    "seguridad vial",
+    "dominio público",
+    "servidumbre",
+    "planificación vial",
+    "sanciones"
+  ],
+  "key_points": [
+    "Clasificación de carreteras en autopistas, autovías y convencionales.",
+    "Establecimiento de zonas de dominio público, servidumbre y afección con distintas distancias según el tipo de vía.",
+    "Creación de la Junta Regional de Carreteras y Seguridad Vial como órgano consultivo.",
+    "Obligatoriedad de planes de seguridad vial con carácter bienal.",
+    "Definición de la línea límite de edificabilidad (ej. 50 metros en autopistas).",
+    "Régimen de sanciones que pueden llegar hasta los 200.000 euros por infracciones muy graves.",
+    "Procedimiento de comunicación previa para obras en zonas de servidumbre y afección.",
+    "Posibilidad de colaboración de particulares en la financiación de obras mediante convenios."
+  ],
+  "legal_references": [
+    "Ley 9/1990, de 27 de agosto, de Carreteras de la Región de Murcia",
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Real Decreto 1398/1993, de 4 de diciembre",
+    "Ley 7/1985, de 2 de abril, de las Bases del Régimen Local",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas",
+    "Decreto Legislativo 1/2005, de 10 de junio"
+  ],
+  "derogations": [
+    "Ley 9/1990, de 27 de agosto, de Carreteras de la Región de Murcia"
+  ],
+  "main_obligations": "Prohibición de realizar obras o actividades en el dominio público sin autorización previa. Obligación de comunicar con antelación (1 mes para servidumbre, 15 días para afección) cualquier actuación en las zonas de protección. Pago de multas que oscilan entre 200€ y 200.000€ según la gravedad.",
+  "effective_date": "2008-10-21",
+  "procedures": [
+    {
+      "name": "Elaboración del Plan de Carreteras",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de elaboración",
+          "descrption": "El Consejo de Gobierno acuerda la elaboración del plan a propuesta de la Consejería.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública del avance",
+          "descrption": "Exposición pública del avance del plan para recibir alegaciones.",
+          "start_date": "3 meses",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación definitiva",
+          "descrption": "El Consejo de Gobierno aprueba el Plan tras la memoria ambiental.",
+          "start_date": "Máximo 1 año tras la elaboración",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del expediente",
+          "descrption": "Inicio de oficio o por denuncia de particulares.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "descrption": "Notificación de la sanción impuesta.",
+          "start_date": null,
+          "end_date": "12 meses desde el inicio",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

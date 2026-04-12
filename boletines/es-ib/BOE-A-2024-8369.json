@@ -1,0 +1,116 @@
+{
+  "identifier": "BOE-A-2024-8369",
+  "title": "Ley 2/2024, de 11 de abril, de creación del Registro de Transparencia y Control del Patrimonio y de las Actividades de los Cargos Públicos de las Illes Balears",
+  "visible_title": "Ley de creación del Registro de Transparencia y Control del Patrimonio y de las Actividades de los Cargos Públicos de las Illes Balears",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "2/2024",
+  "publication_date": "2024-04-26",
+  "enactment_date": "2024-04-11",
+  "last_updated": "2024-12-13",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2024/04/11/2",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley elimina la Oficina de Prevención y Lucha contra la Corrupción para evitar duplicidades administrativas y crear un nuevo Registro de Transparencia dependiente directamente del Parlamento de las Illes Balears. El objetivo es centralizar el control de los bienes y actividades de los cargos públicos para garantizar la honestidad y la rendición de cuentas. La norma busca una administración más eficiente y menos burocrática al unificar los mecanismos de supervisión patrimonial.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, más allá de una mayor garantía de transparencia y control ético en la gestión de los fondos y decisiones públicas de su comunidad.",
+  "professional_impact": "Los cargos públicos (políticos, directivos y personal eventual) de la administración autonómica, insular y local deben cumplir con nuevas obligaciones de declaración de bienes y actividades. Se eliminan las funciones de la antigua Oficina de Prevención, afectando a su personal y procesos de investigación.",
+  "keywords": [
+    "transparencia",
+    "patrimonio",
+    "cargos públicos",
+    "control de corrupción",
+    "Illes Balears",
+    "rendición de cuentas",
+    "incompatibilidades"
+  ],
+  "key_points": [
+    "Creación de un nuevo Registro de Transparencia dependiente del Parlamento de las Illes Balears.",
+    "Eliminación de la Oficina de Prevención y Lucha contra la Corrupción para evitar duplicidades.",
+    "Obligación de declarar la totalidad de bienes, derechos, obligaciones y actividades al entrar y salir de un cargo público.",
+    "Los cargos públicos deben declarar también las actividades de su núcleo familiar (cónyuge, pareja estable e hijos dependientes) en relación con contratos públicos.",
+    "El Registro tendrá carácter reservado, permitiendo acceso solo a órganos judiciales, la Sindicatura de Cuentas y la propia administración para control de incompatibilidades.",
+    "Se establece un procedimiento confidencial para investigar incrementos patrimoniales injustificados.",
+    "Los datos de las declaraciones se mantendrán en el registro durante 6 años tras el cese del cargo.",
+    "La información pública de los bienes se descolgará de la web tras 2 años del cese del cargo."
+  ],
+  "legal_references": [
+    "Ley 2/1996, de 19 de noviembre",
+    "Ley 25/2006, de 27 de diciembre",
+    "Ley 4/2011, de 31 de marzo",
+    "Ley 16/2016, de 9 de diciembre",
+    "Ley Orgánica 3/2018, de 5 de diciembre",
+    "Ley 4/2004, de 2 de abril",
+    "Ley 1/2019, de 31 de enero",
+    "Ley 2/2023, de 20 de febrero",
+    "Ley 6/2022, de 5 de agosto"
+  ],
+  "derogations": [
+    "Ley 16/2016, de 9 de diciembre, de creación de la Oficina de Prevención y Lucha contra la Corrupción en las Illes Balears"
+  ],
+  "main_obligations": "Los cargos públicos deben presentar su declaración de patrimonio y actividades en un plazo de 3 meses desde la toma de posesión y desde el cese. Asimismo, deben presentar anualmente una copia de su declaración de la renta (IRPF) y del impuesto sobre el patrimonio en el plazo de un mes tras los plazos legales.",
+  "effective_date": "2024-04-27",
+  "procedures": [
+    {
+      "name": "Declaración de Patrimonio y Actividades",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración inicial",
+          "description": "Presentación de la totalidad de bienes, derechos, obligaciones y actividades al tomar posesión del cargo.",
+          "start_date": "Fecha de toma de posesión",
+          "end_date": "3 meses después de la toma de posesión",
+          "required_documentation": "Relación de bienes, derechos, obligaciones, actividades y declaraciones tributarias de los 2 años anteriores."
+        },
+        {
+          "step": 2,
+          "title": "Declaración de actividad compatible",
+          "description": "En caso de actividades profesionales o mercantiles compatibles, se debe informar de los contratos con la administración.",
+          "start_date": "Fecha de inicio de la actividad compatible",
+          "end_date": "1 mes después del inicio",
+          "required_documentation": "Detalle de la actividad y contratos con administraciones públicas."
+        },
+        {
+          "step": 3,
+          "title": "Declaración de cese",
+          "description": "Presentación de la situación patrimonial al finalizar el ejercicio del cargo.",
+          "start_date": "Fecha de cese",
+          "end_date": "3 meses después del cese",
+          "required_documentation": "Relación actualizada de bienes y actividades."
+        },
+        {
+          "step": 4,
+          "title": "Declaración anual",
+          "description": "Presentación de la última declaración tributaria (IRPF/Patrimonio).",
+          "start_date": "Conclusión de los plazos legales de la AEAT",
+          "end_date": "1 mes después de los plazos legales",
+          "required_documentation": "Copia de la declaración de la renta y del impuesto sobre el patrimonio."
+        }
+      ]
+    },
+    {
+      "name": "Examen de situación patrimonial por el Registro",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de informe",
+          "description": "El Registro elabora un informe tras el cese para verificar incrementos patrimoniales o conflictos de interés.",
+          "start_date": "Hasta 6 meses después del cese",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Traslado al interesado",
+          "description": "Se comunica la propuesta de informe al cargo público para que pueda alegar.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": "Alegaciones del interesado"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

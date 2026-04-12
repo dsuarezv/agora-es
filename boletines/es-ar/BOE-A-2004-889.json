@@ -1,0 +1,183 @@
+{
+  "identifier": "BOE-A-2004-889",
+  "title": "Ley 24/2003, de 26 de diciembre, de medidas urgentes de política de vivienda protegida",
+  "visible_title": "Medidas urgentes de política de vivienda protegida",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "24/2003",
+  "publication_date": "2004-01-16",
+  "enactment_date": "2003-12-26",
+  "last_updated": "2022-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2003/12/26/24",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley busca acelerar la creación de vivienda protegida en Aragón para combatir la falta de oferta y la especulación. Establece reglas estrictas para que estas viviendas se usen realmente como residencia habitual y no como inversión. Introduce mecanismos para que la Administración controle los precios y pueda intervenir en la compra de inmuebles. Además, crea un registro obligatorio para gestionar de forma transparente quién puede acceder a estas ayudas.",
+  "citizen_impact": "Si quieres acceder a una vivienda protegida en Aragón, ahora es obligatorio estar inscrito en el Registro de Solicitantes. Tienes derecho a reclamar el dinero si te cobran de más en la renta o el precio de compra. Además, se limita la fianza en alquileres protegidos a un máximo de 4 mensualidades para evitar cargas excesivas.",
+  "professional_impact": "Los promotores deben respetar estrictamente los precios máximos y la calidad técnica, bajo riesgo de multas de hasta 300.000 euros. Los municipios con más de 3.000 habitantes tienen la obligación de reservar suelo para este fin. Las empresas de suministros no pueden dar de alta servicios sin la certificación técnica de fin de obra.",
+  "keywords": [
+    "vivienda protegida",
+    "Aragón",
+    "registro de solicitantes",
+    "precio máximo",
+    "residencia habitual",
+    "sanciones vivienda"
+  ],
+  "key_points": [
+    "Inscripción obligatoria en el Registro de Solicitantes de Vivienda Protegida de Aragón para poder acceder a cualquier vivienda de este tipo.",
+    "Obligación de los municipios de más de 3.000 habitantes de reservar terrenos para vivienda protegida.",
+    "La Administración tiene derecho de tanteo y opción de compra para evitar la especulación con estas viviendas.",
+    "Las viviendas protegidas deben utilizarse exclusivamente como residencia habitual y permanente.",
+    "Se prohíbe transmitir viviendas protegidas sin la autorización previa de la Administración.",
+    "Las multas por incumplimientos graves pueden alcanzar los 300.000 euros.",
+    "Posibilidad de solicitar a la Administración el reintegro de sobreprecios o rentas excesivas cobradas ilegalmente.",
+    "En alquileres protegidos, la garantía adicional no puede superar las 4 mensualidades de renta.",
+    "Los promotores que cumplan requisitos específicos pueden ser declarados 'sociales preferentes'.",
+    "La Administración puede ejecutar el desahucio o la expropiación si no se cumplen las condiciones de la vivienda protegida."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Aragón",
+    "Ley 5/1999, de 25 de marzo, Urbanística",
+    "Ley 15/1999, de 29 de diciembre",
+    "Ley 8/2007, de 28 de mayo, de suelo",
+    "Real Decreto-Ley 31/1978",
+    "Ley 10/1992, de 4 de noviembre (Fianzas de arrendamientos)",
+    "Ley 8/2013, de 28 de mayo (Rehabilitación, regeneración y renovación urbanas)",
+    "Real Decreto Legislativo 2/2008 (Texto Refundido de la Ley de Suelo)"
+  ],
+  "derogations": [
+    "Artículo 93 bis de la Ley 5/1999, de 25 de marzo, Urbanística"
+  ],
+  "main_obligations": "Los ciudadanos deben inscribirse en el Registro de Solicitantes para acceder a la vivienda y mantenerla como residencia habitual. Los propietarios y promotores deben respetar los precios máximos de venta o renta y obtener autorización administrativa para cualquier transmisión.",
+  "effective_date": "2004-01-17",
+  "procedures": [
+    {
+      "name": "Acceso a la vivienda protegida (Adjudicación)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inscripción en el Registro",
+          "description": "El interesado debe inscribirse en el Registro de Solicitantes de Vivienda Protegida de Aragón.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Modelo oficial y certificado de empadronamiento en Aragón."
+        },
+        {
+          "step": 2,
+          "title": "Publicación de lista provisional",
+          "description": "La Administración o promotora publica la lista de posibles adjudicatarios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Plazo de impugnación/reclamación",
+          "description": "Plazo para presentar reclamaciones ante la Comisión de Reclamaciones sobre Vivienda Protegida.",
+          "start_date": "1 mes desde la notificación",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Adjudicación definitiva",
+          "description": "Resolución final que otorga la vivienda al solicitante.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Transmisión de vivienda protegida",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de intención de venta",
+          "description": "El propietario comunica a la Administración su intención de vender, el precio y condiciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Ejercicio de derecho de tanteo/opción",
+          "description": "La Administración decide si compra la vivienda por el precio máximo legal.",
+          "start_date": null,
+          "end_date": "1 mes desde la comunicación",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Autorización o Visa de contrato",
+          "description": "Si la Administración no ejerce el derecho, se solicita la autorización para vender a terceros.",
+          "start_date": null,
+          "end_date": "2 meses (si se tramita junto con el visado)",
+          "required_documentation": "Modelo de contrato aprobado y acreditación de requisitos del comprador."
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador Administrativo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Apertura del expediente tras la detección de una posible infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y resolución",
+          "description": "Plazo máximo para dictar y notificar la resolución final.",
+          "start_date": "Desde el inicio del procedimiento",
+          "end_date": "1 año",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ejecución forzosa",
+          "description": "Apremio sobre el patrimonio o imposición de multas coercitivas si no se cumple la resolución.",
+          "start_date": "Tras el vencimiento del plazo concedido",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reclamación de reintegro de sobreprecio",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Denuncia ante la Administración",
+          "description": "El comprador o arrendatario solicita que se exija el reintegro del beneficio ilegal al responsable.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Tramitación sancionadora",
+          "description": "La Administración tramita el expediente para verificar la infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Reembolso",
+          "description": "El sobreprecio se deposita en la Administración y esta lo entrega al denunciante.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

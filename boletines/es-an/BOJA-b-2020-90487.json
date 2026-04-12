@@ -1,0 +1,87 @@
+{
+  "identifier": "BOJA-b-2020-90487",
+  "title": "Decreto-ley 31/2020, de 1 de diciembre, de medidas extraordinas y urgentes en materia de evaluación ambiental estratégica de determinados instrumentos de planeamiento urbanístico y para impulsar la realización de proyectos de absorción de emisiones en Andalucía, así como de apoyo económico a las entidades prestadoras de los servicios de atención residencial, centro de día y de noche, y centro de día con terapia ocupacional para personas en situación de dependencia, como consecuencia de la situación ocasionada por el coronavirus (COVID-19)",
+  "visible_title": "Medidas urgentes en materia de evaluación ambiental, proyectos de absorción de emisiones y apoyo a centros de atención a la dependencia en Andalucía",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "31/2020",
+  "publication_date": "2020-12-02",
+  "enactment_date": "2020-12-01",
+  "last_updated": "2021-01-12",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOJA-b-2020-90487",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": "b-2020-90487",
+  "summary": "Esta norma responde a la crisis de la COVID-19 mediante tres ejes: corrige la inseguridad jurídica en el urbanismo anulando evaluaciones ambientales defectuosas, flexibiliza la normativa para permitir proyectos privados de absorción de CO2 y otorga una ayuda económica directa a los centros de atención a la dependencia para compensar los gastos sanitarios extraordinarios. Además, permite que directivos sanitarios realicen labores asistenciales para paliar el déficit de personal.",
+  "citizen_impact": "Garantiza la continuidad de los servicios de atención a personas mayores y con discapacidad al dotar económicamente a sus centros. También busca dar seguridad jurídica a los proyectos urbanísticos para evitar anulaciones judiciales futuras que afecten a la vivienda o el desarrollo local.",
+  "professional_impact": "Los ayuntamientos deben reiniciar trámites urbanísticos bajo nuevos estándares ambientales, aunque con tramitación preferente. Los gestores de centros de dependencia deben presentar una declaración responsable en 10 días para recibir ayudas, y los directivos sanitarios pueden realizar guardias asistenciales remuneradas.",
+  "keywords": [
+    "evaluación ambiental",
+    "urbanismo",
+    "absorción de emisiones",
+    "COVID-19",
+    "atención a la dependencia",
+    "cambio climático",
+    "ayudas económicas"
+  ],
+  "key_points": [
+    "Anulación de informes de evaluación ambiental urbanística que no cumplían la normativa europea.",
+    "Obligación de los ayuntamientos de reiniciar trámites urbanísticos afectados con nuevos procedimientos.",
+    "Apertura de proyectos de absorción de CO2 en terrenos privados para incentivar la inversión.",
+    "Ayuda económica directa a centros de dependencia por plazas ocupadas durante el segundo semestre de 2020.",
+    "Permiso para que directivos del sistema sanitario realicen labores asistenciales para cubrir déficits de personal.",
+    "Tramitación preferente para los nuevos expedientes urbanísticos afectados por la norma."
+  ],
+  "legal_references": [
+    "Decreto-ley 3/2015, de 3 de marzo",
+    "Ley 7/2007, de 9 de julio",
+    "Ley 21/2013, de 9 de diciembre",
+    "Ley 8/2018, de 8 de octubre",
+    "Real Decreto 926/2020, de 25 de octubre",
+    "Real Decreto-ley 29/2020, de 29 de septiembre"
+  ],
+  "derogations": [
+    "Disposición adicional tercera de la Ley 3/2015, de 29 de diciembre"
+  ],
+  "main_obligations": "Los centros de dependencia deben presentar una declaración responsable en un plazo de 10 días naturales tras la entrada en vigor para acceder a la ayuda. Las entidades beneficiarias deben acreditar los gastos extraordinarios en un plazo de 6 meses tras recibir el pago.",
+  "effective_date": "2020-12-02",
+  "procedures": [
+    {
+      "name": "Solicitud de apoyo económico para centros de dependencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de declaración responsable",
+          "description": "Presentación telemática de la declaración responsable por centro para solicitar el abono adicional.",
+          "start_date": "2020-12-02",
+          "end_date": "10 días naturales tras la entrada en vigor",
+          "required_documentation": "Declaración responsable según modelo de la ASSDA"
+        },
+        {
+          "step": 2,
+          "title": "Acreditación de gastos",
+          "description": "Presentación de la documentación que justifique los gastos extraordinarios por COVID-19.",
+          "start_date": "Tras la percepción del abono",
+          "end_date": "6 meses posteriores a la percepción",
+          "required_documentation": "Documentación acreditativa de gastos realizada telemáticamente"
+        }
+      ]
+    },
+    {
+      "name": "Reinicio de procedimientos de planeamiento urbanístico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inicio de evaluación ambiental",
+          "description": "Presentación de solicitud de inicio de evaluación ambiental estratégica con el nuevo procedimiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Borrador del plan y documento inicial estratégico"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

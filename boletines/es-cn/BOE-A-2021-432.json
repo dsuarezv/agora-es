@@ -1,0 +1,92 @@
+{
+  "identifier": "BOE-A-2021-432",
+  "title": "Ley 5/2020, de 11 de diciembre, de régimen excepcional del Fondo Canario de Financiación Municipal para 2020 y de fomento de la participación ciudadana",
+  "visible_title": "Régimen excepcional del Fondo Canario de Financiación Municipal y fomento de la participación ciudadana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "5/2020",
+  "publication_date": "2021-01-12",
+  "enactment_date": "2020-12-11",
+  "last_updated": "2020-12-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2020/12/11/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley implementa medidas de emergencia para mitigar el impacto económico de la pandemia de COVID-19 en los ayuntamientos canarios. Permite que los municipios utilicen los fondos de financiación municipal para servicios esenciales como sanidad, educación, servicios sociales y teletrabajo. Además, simplifica radicalmente la participación ciudadana al eliminar la necesidad de inscribirse previamente en registros para participar en procesos de consulta.",
+  "citizen_impact": "Facilita que los ciudadanos participen en procesos de consulta pública sin tener que realizar trámites burocráticos de inscripción previa. También asegura que los servicios públicos locales (sanidad, educación, servicios sociales) mantengan su financiación a pesar de la crisis económica.",
+  "professional_impact": "Los funcionarios municipales disponen de mayor flexibilidad para destinar fondos a la digitalización (teletrabajo) y servicios esenciales. Se eliminan cargas administrativas para las entidades ciudadanas que antes debían inscribirse en registros específicos para colaborar con la Administración.",
+  "keywords": [
+    "financiación municipal",
+    "Canarias",
+    "participación ciudadana",
+    "COVID-19",
+    "ayuntamientos",
+    "fondo canario",
+    "gobierno abierto"
+  ],
+  "key_points": [
+    "Los ayuntamientos pueden usar el Fondo Canario para financiar sanidad, educación, cultura, servicios sociales, empleo y seguridad.",
+    "Se permite el uso de fondos para implementar sistemas de teletrabajo para el personal municipal.",
+    "Se elimina la obligación de inscribirse en el Registro de Participación Ciudadana para participar en procesos de consulta.",
+    "El Registro de Participación Ciudadana pasa de ser un registro de personas a un registro de procesos abiertos.",
+    "Se flexibilizan los indicadores de salud financiera para que los municipios con dificultades puedan usar el fondo para saneamiento.",
+    "Se amplían los plazos para la presentación de documentación de auditorías de gestión de 2019."
+  ],
+  "legal_references": [
+    "Ley 3/1999, de 4 de febrero, del Fondo Canario de Financiación Municipal",
+    "Ley 5/2010, de 21 de junio, Canaria de Fomento a la Participación Ciudadana",
+    "Real Decreto ley 8/2020, de 17 de marzo",
+    "Ley 19/2019, de 30 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Canarias",
+    "Decreto ley 12/2020, de 30 de julio"
+  ],
+  "derogations": [
+    "Artículo 80 de la Ley 19/2019, de 30 de diciembre",
+    "Decreto 94/2014, de 25 de septiembre (Reglamento del Registro de Participación Ciudadana)",
+    "Decreto 95/2014, de 25 de septiembre (Reglamento de consultas a la ciudadanía)",
+    "Decreto ley 12/2020, de 30 de julio"
+  ],
+  "main_obligations": "Los ayuntamientos deben presentar la documentación para las auditorías de gestión de 2019 antes del 31 de marzo de 2021 y el acuerdo del pleno antes del 30 de abril de 2021 para evitar sanciones o reintegros.",
+  "effective_date": "2020-12-11",
+  "procudeures": [
+    {
+      "name": "Gestión del Fondo Canario de Financiación Municipal 2020",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Entrega a cuenta del fondo",
+          "description": "Liberación del 70% del importe del fondo por parte de la Consejería competente.",
+          "start_date": "segundo cuatrimestre de 2020",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de documentación de auditoría",
+          "description": "Plazo para remitir la documentación necesaria para la elaboración de las auditorías de gestión del ejercicio 2019.",
+          "start_date": null,
+          "end_date": "2021-03-31",
+          "required_documentation": "Documentación de auditoría de gestión"
+        },
+        {
+          "step": 3,
+          "title": "Acuerdo de toma en consideración",
+          "description": "Remisión del acuerdo del pleno para la toma en consideración de la auditoría.",
+          "start_date": null,
+          "end_date": "2021-04-30",
+          "required_documentation": "Acuerdo pleno"
+        },
+        {
+          "step": 4,
+          "title": "Liquidación final del fondo",
+          "description": "Liberación del 30% restante y la distribución definitiva del fondo de 2018.",
+          "start_date": "último trimestre de 2020",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

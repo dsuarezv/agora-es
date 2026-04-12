@@ -1,0 +1,121 @@
+{
+  "identifier": "BOE-A-2010-16090",
+  "title": "Ley 4/2009, de 15 de octubre, de Cámaras Oficiales de Comercio e Industria de Castilla-La Mancha",
+  "visible_title": "Ley de Cámaras Oficiales de Comercio e Industria de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "4/2009",
+  "publication_date": "2010-10-22",
+  "enactment_date": "2009-10-15",
+  "last_updated": "2017-12-21",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2009/10/15/4",
+  "official_journal": "Boletín Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta norma establece el marco jurídico para el funcionamiento de las Cámaras de Comercio e Industria en Castilla-La Mancha. Define su naturaleza como corporaciones de derecho público con base privada, regula su organización interna, sus procesos electorales y su relación de tutela con la Junta de Comunidades. Además, crea el Consejo de Cámaras para coordinar la actuación de todas las cámaras regionales.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta directamente a empresarios, autónomos y sectores industriales de la región, quienes participan en la elección de sus representantes. Define las reglas para que las cámaras actúen como agentes de apoyo, formación y promoción para el tejido empresarial.",
+  "keywords": [
+    "Cámaras de Comercio",
+    "Cámaras de Industria",
+    "Castilla-La Mancha",
+    "Derecho Público",
+    "Empresas",
+    "Promoción económica",
+    "Régimen electoral"
+  ],
+  "key_points": [
+    "Las cámaras son corporaciones de derecho público con personalidad jurídica propia.",
+    "Se establece una cámara por cada provincia de la región.",
+    "Se crea el Consejo de Cámaras de Castilla-La Mancha para la coordinación regional.",
+    "El sistema de gobierno incluye un Pleno, un Comité Ejecutivo y una Presidencia.",
+    "La Secretaría General actúa como garante de la legalidad de los acuerdos.",
+    "Los miembros del Pleno tienen un mandato de cuatro años.",
+    "Se regula el régimen de financiación mediante el recurso cameral permanente y otros ingresos.",
+    "La Administración autonómica ejerce la tutela sobre estas instituciones."
+  ],
+  "legal_references": [
+    "Ley 3/1993, de 22 de marzo",
+    "Estatuto de Autonomía de Castilla-La Mancha",
+    "Ley Orgánica 9/1982, de 10 de agosto",
+    "Real Decreto Legislativo 1/1995",
+    "Decreto 4/1997, de 28 de enero"
+  ],
+  "derogations": [
+    "Decreto 4/1997, de 28 de enero (parcialmente)",
+    "Normas opuestas a la presente Ley"
+  ],
+  "main_obligations": "Las cámaras deben elaborar un presupuesto anual ordinario manteniendo el equilibrio presupuestario. Los miembros del pleno deben cumplir con los requisitos de elegibilidad y asistencia para no perder su condición de vocal.",
+  "effective_date": "2010-10-23",
+  "procedures": [
+    {
+      "name": "Proceso Electoral de las Cámaras",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de elecciones",
+          "description": "Publicación de la convocatoria en el Diario Oficial de Castilla-La Mancha por la consejería competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de candidaturas",
+          "description": "Presentación de candidaturas ante la secretaría general, avaladas por el 4% del electorado del grupo.",
+          "start_date": "Desde la publicación de la convocatoria",
+          "end_date": null,
+          "required_documentation": "Avales de firmas de electores"
+        },
+        {
+          "step": 3,
+          "title": "Proclamación de candidatos",
+          "description": "La junta electoral comprueba requisitos y proclama a los candidatos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Toma de posesión",
+          "description": "Los miembros electos toman posesión en la sede de la cámara dentro del mes siguiente a la elección.",
+          "start_date": null,
+          "end_date": "1 mes tras la elección",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aprobación de Presupuestos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del proyecto",
+          "description": "El comité ejecutivo elabora el proyecto de presupuesto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aprobación inicial",
+          "description": "El pleno de la cámara aprueba el proyecto antes del 31 de octubre.",
+          "start_date": null,
+          "end_date": "31 de octubre",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación definitiva",
+          "description": "El órgano tutela debe aprobarlo; si no manifiesta reparos en 2 meses, se entiende aprobado.",
+          "start_date": null,
+          "end_date": "2 meses tras presentación",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,297 @@
+{
+  "identifier": "BOE-A-2012-11415",
+  "title": "Ley 8/2012, de 29 de junio, de vivienda de Galicia",
+  "visible_title": "Ley de vivienda de Galicia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "8/2012",
+  "publication_date": "2012-09-08",
+  "enactment_date": "2012-06-29",
+  "last_updated": "2025-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2012/06/29/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula todo el ecosistema de la vivienda en Galicia, desde la construcción y la compra hasta el alquiler y la vivienda protegida. Su objetivo es garantizar la transparencia en el sector inmobiliario y asegurar que las viviendas de protección pública cumplan su función social sin sobreprecios. Establece reglas estrictas para la gestión de fianzas y la calidad de los edificios, protegiendo tanto al comprador como al inquilino. Además, endurece las sanciones para evitar abusos por parte de promotores y arrendadores.",
+  "citizen_impact": "Los ciudadanos ganan seguridad jurídica: lo que se promete en un anuncio inmobiliario es vinculante y exigible. Los inquilinos están protegidos mediante la obligación de depositar la fianza en el Instituto Gallego de la Vivienda y Suelo, y cuentan con estándares de habitabilidad claros para pisos compartidos. Los compradores de vivienda protegida tienen garantizado que no se les cobrarán sobreprecios ni anexos obligatorios no vinculados a la vivienda.",
+  "professional_impact": "Los promotores y agentes inmobiliarios deben cumplir con estándares de transparencia más altos, incluyendo el registro en el Registro de Promotores y la entrega del 'Libro del Edificio'. Los arrendadores enfrentan sanciones severas (mínimo el doble de la fianza) si no depositan las garantías legalmente. Los ayuntamientos tienen la carga de reservar un 30% de suelo para vivienda protegida y pueden acceder a préstamos sin intereses para este fin.",
+  "keywords": [
+    "vivienda",
+    "Galicia",
+    "vivienda protegida",
+    "alquiler",
+    "fianzas",
+    "promotores",
+    "habitabilidad",
+    "derecho a la vivienda"
+  ],
+  "key_points": [
+    "La publicidad inmobiliaria es vinculante: todo lo prometido en anuncios es exigible aunque no figure en el contrato.",
+    "Obligatoriedad de depositar las fianzas de alquiler en el Instituto Gallego de la Vivienda y Suelo.",
+    "Prohibición absoluta de cobrar sobreprecios o exigir la compra de anexos en viviendas de protección pública.",
+    "Creación del Registro de Promotores de Galicia para garantizar la transparencia en las construcciones.",
+    "Entrega obligatoria del 'Libro del Edificio' para asegurar el correcto mantenimiento de la vivienda.",
+    "Los contratos de reserva de vivienda no pueden superar el 1% del precio máximo de venta estimado.",
+    "Las viviendas de protección autonómica se adjudican mayoritariamente por sorteo mediante el Registro Único de Demandantes.",
+    "La Administración tiene derecho de tanteo y retracto para recuperar viviendas protegidas al precio legal.",
+    "Estándares estrictos de habitabilidad para alojamientos compartidos (zonas de estar, cocina, comedor, dormir y aseo independientes).",
+    "Sanciones graves: multa mínima del doble de la fianza por no ingresarla y hasta 10 años de inhabilitación para promotores infractores.",
+    "Derecho a residencia en viviendas con títulos anulados hasta que se liquide la responsabilidad de la Administración.",
+    "Los ayuntamientos deben reservar un 30% de suelo para vivienda protegida."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 47)",
+    "Estatuto de Autonomía para Galicia (art. 27)",
+    "Ley 29/1994 de Arrendamientos Urbanos",
+    "Directiva 2006/123 del Parlamento Europeo",
+    "Ley 38/1999 de Ordenación de la Edificación",
+    "Ley 9/2002 de Ordenación Urbanística y de Protección del Medio Rural de Galicia",
+    "Decreto Legislativo 1/2011 de Tributos Cedidos",
+    "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "Ley 2/2016, de 10 de febrero, del Suelo de Galicia",
+    "Ley de Expropiación Forzosa",
+    "Ley 30/1992",
+    "Ley 18/2008",
+    "Ley 39/2015",
+    "Real Decreto ley 6/2012",
+    "Ley 12/2023",
+    "Ley 1/2000",
+    "Ley 9/2007"
+  ],
+  "derogations": [
+    "Ley 18/2008, de 29 de junio, de vivienda de Galicia",
+    "Disposiciones de igual o inferior rango que se opongan a la presente Ley",
+    "Apartados 10 y 13 del artículo 47 de la Ley 9/2002",
+    "Apartado 3 del artículo 174 de la Ley 9/2002",
+    "Apartado 6 del artículo 177 de la Ley 9/2002"
+  ],
+  "main_obligations": "Los arrendadores deben depositar obligatoriamente la fianza en el organismo competente. Los promotores deben garantizar la devolución de anticipos y cumplir con la transparencia del Registro de Promotores. Los ayuntamientos deben destinar el 30% de su suelo a vivienda protegida.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Reserva de vivienda de futura construcción",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Formalización del pacto de reserva",
+          "descrption": "Suscripción de un acuerdo por escrito con un anticipo máximo del 1% del precio estimado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Pacto por escrito con características de ubicación, superficie y precio máximo."
+        },
+        {
+          "step": 2,
+          "title": "Ejercicio de la facultad de compra",
+          "descrption": "El reservista decide si celebra o no el contrato de compraventa tras recibir la documentación necesaria.",
+          "start_date": "Tras requerimiento fehaciente del promotor",
+          "end_date": "15 días hábiles",
+          "required_documentation": "Documentación del art. 18 (licencias, descripción técnica, etc.)"
+        }
+      ]
+    },
+    {
+      "name": "Depósito de fianzas de arrendamiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Ingreso de la fianza",
+          "descrption": "El arrendador debe ingresar la fianza en el Instituto Gallego de la Vivienda y Suelo.",
+          "start_date": "En el plazo determinado reglamentariamente",
+          "end_date": null,
+          "required_documentation": "Documento de autoliquidación o mediante régimen de concierto."
+        },
+        {
+          "step": 2,
+          "title": "Entrega de justificante al arrendatario",
+          "descrption": "El arrendador debe entregar copia del justificante de depósito al inquilino.",
+          "start_date": "Desde el ingreso de la fianza",
+          "end_date": "1 mes",
+          "required_documentation": "Copia de la documentación justificativa del depósito."
+        }
+      ]
+    },
+    {
+      "name": "Adjudicación de Vivienda de Protección Autonómica (Ordinario)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inscripción en el Registro",
+          "description": "La persona manifiesta cumplir los requisitos mediante declaración responsable.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración responsable"
+        },
+        {
+          "step": 2,
+          "title": "Sorteo",
+          "description": "Adjudicación mediante sorteo entre las unidades inscritas en el Registro Único.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Ejercicio del Derecho de Tanteo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de venta",
+          "description": "El propietario comunica a la Administración su decisión de vender, precio y condiciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos del comprador y condiciones de venta"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de respuesta",
+          "description": "La Administración dispone de 30 días naturales para decidir si compra la vivienda.",
+          "start_date": "Día siguiente a la notificación",
+          "end_date": "30 días naturales",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Desahucio Administrativo por impago",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requerimiento de pago",
+          "description": "Se requiere al arrendatario o adjudicatario el pago de las cantidades debidas.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Apercibimiento y resolución",
+          "description": "Si no se paga, se dicta resolución de desahucio con apercibimiento de lanzamiento y recargo del 10%.",
+          "start_date": "Tras el plazo de 15 días",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Lanzamiento",
+          "description": "Ejecución de la desocupación de la vivienda.",
+          "start_date": "Tras la resolución",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adjudicación Directa Extraordinaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del expediente",
+          "description": "La Comisión Provincial de la Vivienda inicia el proceso por vulnerabilidad o catástrofe.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe de Servicios Sociales",
+          "description": "Se solicita informe preceptivo de los servicios sociales municipales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe de servicios sociales"
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "La Presidencia del IGVS resuelve sobre la adjudicación directa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación",
+          "description": "Inicio formal del procedimiento administrativo sancionador.",
+          "start_date": "Fecha del acuerdo de incoación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Dictado y notificación de la resolución sancionadora.",
+          "start_date": "Desde la incoación",
+          "end_date": "12 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de Zona de Mercado Residencial Tensionado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Constitución de Mesa Sectorial",
+          "description": "Análisis de la propuesta municipal por parte de la mesa sectorial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Solicitud Municipal",
+          "description": "Presentación de la solicitud con plan específico y estudios de mercado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acuerdo municipal, acta de mesa sectorial, estudios de distribución de población, proyecto de plan específico"
+        },
+        {
+          "step": 3,
+          "title": "Resolución del Instituto Gallego de la Vivienda",
+          "description": "Decisión sobre la declaración de la zona.",
+          "start_date": "Desde la presentación",
+          "end_date": "6 meses (tras los cuales se entiende desestimada por silencio)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Responsabilidad Patrimonial (Viviendas con título anulado)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Apertura de oficio",
+          "description": "Inicio del procedimiento tras la anulación del título.",
+          "start_date": "Tras la anulación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Determinación de indemnización",
+          "description": "Cálculo del alcance de la responsabilidad de la Administración.",
+          "start_date": "Desde la apertura",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Pago o consignación",
+          "description": "Requisito previo para proceder a la ejecución de la demolición.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

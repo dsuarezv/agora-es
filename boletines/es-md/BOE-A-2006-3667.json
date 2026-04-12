@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-2006-3667",
+  "title": "Ley 5/2005, de 20 de diciembre, integral contra la violencia de género de la Comunidad de Madrid",
+  "visible_title": "Ley integral contra la violencia de género de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "5/2005",
+  "publication_date": "2006-03-02",
+  "enactment_date": "2005-12-20",
+  "last_updated": "2018-06-28",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2005/12/20/5",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley establece un marco integral para prevenir, detectar y combatir la violencia de género en la Comunidad de Madrid. Va más allá de la violencia doméstica, incluyendo agresiones sexuales, acoso laboral y explotación sexual. El objetivo es ofrecer una respuesta multidisciplinar que combine la sensibilización social, la protección policial y judicial, y la asistencia social y económica de las víctimas.",
+  "citizen_impact": "Las mujeres víctimas de violencia de género en Madrid acceden a derechos específicos como alojamiento en centros de emergencia, prioridad en vivienda pública y ayudas económicas de emergencia. También se garantiza la protección de sus hijos y dependientes, y se facilita la escolarización inmediata de los menores en caso de cambio de residencia por seguridad.",
+  "professional_impact": "Los profesionales de la sanidad, educación y servicios sociales tienen la obligación de detectar y comunicar situaciones de riesgo mediante protocolos específicos. Los funcionarios de la Comunidad de Madrid víctimas de esta violencia cuentan con beneficios laborales como movilidad geográfica, reducción de jornada o excedencias especiales para garantizar su seguridad.",
+  "keywords": [
+    "violencia de género",
+    "protección de la mujer",
+    "asistencia integral",
+    "igualdad de oportunidades",
+    "Comunidad de Madrid",
+    "víctimas"
+  ],
+  "key_points": [
+    "Ampliación del concepto de violencia de género para incluir agresiones a dependientes de la mujer con ánimo de perjudicarla.",
+    "Creación de un sistema de acogida con tres niveles: centros de emergencia (máx. 2 meses), centros de acogida (máx. 12 meses) y pisos tutelados (máx. 18 meses).",
+    "Derecho de acceso prioritario a la vivienda de protección pública para las víctimas con título habilitante.",
+    "Implementación de un Fondo de Emergencia para atender necesidades económicas inmediatas.",
+    "Establecimiento de un título habilitante para acreditar la condición de víctima, incluso sin denuncia previa, mediante informes técnicos.",
+    "Derechos laborales especiales para funcionarias de la Comunidad de Madrid, incluyendo reserva de puesto y movilidad preferente.",
+    "Obligatoriedad de formación específica para personal sanitario, docente y de servicios sociales en detección de violencia.",
+    "Creación del Observatorio Regional de la Violencia de Género como órgano coordinador."
+  ],
+  "legal_references": [
+    "Ley Orgánica 1/2004",
+    "Constitución Española",
+    "Ley 34/1988 General de Publicidad",
+    "Ley 1/1986 de la Función Pública de la Comunidad de Madrid",
+    "Ley 1996 de Asistencia Jurídica Gratuita",
+    "Ley 6/1995 de Garantía de los Derechos de la Infancia y de la Adolescencia",
+    "Ley 3/1993 de creación del Consejo de la Mujer"
+  ],
+  "derogations": [],
+  "main_obligations": "Los profesionales de sectores clave (sanidad, educación, servicios sociales) deben seguir protocolos de detección y comunicar de forma urgente los indicios de violencia a las autoridades. La Administración debe garantizar la formación de estos profesionales y la creación de programas de investigación y estadísticas.",
+  "effective_date": "2006-03-03",
+  "procedures": [
+    {
+      "name": "Obtención del título habilitante de víctima",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación mediante vía judicial",
+          "description": "Presentación de sentencia, resolución judicial, orden de protección o atestado policial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación judicial o policial pertinente"
+        },
+        {
+          "step": 2,
+          "title": "Acreditación mediante vía administrativa (sin denuncia)",
+          "description": "Emisión de informe técnico por servicios sociales o resolución por acoso sexual/sexista.",
+          "start_date": null,
+          "end_date": "1 mes para la validación por la Dirección General de la Mujer",
+          "required_documentation": "Informe técnico de servicios sociales o resolución administrativa"
+        }
+      ]
+    },
+    {
+      "name": "Creación del Fondo Económico de Emergencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Puesta en marcha del fondo",
+          "description": "Plazo para la creación y gestión del fondo de emergencia para víctimas.",
+          "start_date": "Fecha de entrada en vigor",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

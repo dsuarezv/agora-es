@@ -1,0 +1,93 @@
+{
+  "identifier": "BOE-A-2020-9591",
+  "title": "Decreto-ley 8/2020, de 26 de junio, de medidas excepcionales para facilitar la convocatoria y reunión de los órganos sociales y la eficacia de los acuerdos de las entidades cooperativas valencianas",
+  "visible_title": "Medidas excepcionales para la gestión de entidades cooperativas valencianas",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "8/2020",
+  "publication_date": "2020-08-13",
+  "enactment_date": "2020-06-26",
+  "last_updated": "2020-06-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/dl/2020/06/26/8",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta norma establece un régimen de excepción para las cooperativas de la Comunidad Valenciana debido a las restricciones por la pandemia de COVID-19. Su objetivo es evitar que la imposibilidad de reunirse físicamente paralice la gestión de las entidades. Permite la celebración de asambleas telemáticas, flexibiliza los plazos para la aprobación de cuentas y prorroga los mandatos de los cargos directivos para garantizar la continuidad operativa.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo para aquellos que sean socios de cooperativas valencianas, quienes ven garantizado su derecho a participar en asambleas de forma telemática.",
+  "professional_impact": "Afecta directamente a gestores de cooperativas, consejos rectores y auditores, al ofrecerles flexibilidad en los plazos de formulación de cuentas y legalización de libros. También beneficia a los cargos estatutarios al prorrogar sus mandatos para evitar vacantes legales durante la crisis sanitaria.",
+  "keywords": [
+    "cooperativas",
+    "Comunitat Valenciana",
+    "asambleas telemáticas",
+    "cuentas anuales",
+    "mandatos estatutarios",
+    "COVID-19",
+    "gestión social"
+  ],
+  "key_points": [
+    "Se permite la celebración de asambleas generales mediante medios telemáticos o a distancia.",
+    "Las convocatorias pueden realizarse por correo electrónico o teléfono con solo 5 días de antelación.",
+    "Los consejos rectores tienen hasta el 30 de septiembre de 2020 para formular las cuentas anuales.",
+    "Se permite que un socio represente hasta a cuatro personas ausentes en las asambleas.",
+    "Se prorrogan los mandatos de los miembros del consejo rector y otros cargos sociales hasta el 28 de febrero de 2021.",
+    "Se flexibilizan los plazos para la legalización de libros y el depósito de cuentas anuales.",
+    "No se computarán los periodos de estado de alarma para determinar causas de disolución de la cooperativa."
+  ],
+  "legal_references": [
+    "Ley de cooperativas de la Comunitat Valenciana (Decreto legislativo 2/2015)",
+    "Real decreto ley 8/2020, de 17 de marzo",
+    "Ley 39/2015, de 1 de octubre",
+    "Estatuto de Auto autonomía de la Comunitat Valenciana",
+    "Ley 5/1983, de 30 de diciembre"
+  ],
+  "derogations": [],
+  "main_obligations": "Los consejos rectores deben formular las cuentas anuales antes del 30 de septiembre de 2020 (salvo estatutos que exijan fecha anterior). Las asambleas ordinarias deben celebrarse en un plazo máximo de tres meses tras la formulación de dichas cuentas.",
+  "effective_date": "2020-06-27",
+  "procedures": [
+    {
+      "name": "Gestión de Cuentas Anuales y Asamblea Ordinaria 2020",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Formulación de cuentas anuales",
+          "description": "El consejo rector debe preparar las cuentas del ejercicio.",
+          "start_date": null,
+          "end_date": "2020-09-30",
+          "required_documentation": "Cuentas anuales"
+        },
+        {
+          "step": 2,
+          "title": "Emisión de informe de auditoría",
+          "description": "Plazo para que el auditor emita su informe tras la formulación de cuentas.",
+          "start_date": "tras formulación de cuentas",
+          "end_date": "2 meses tras formulación",
+          "required_documentation": "Informe de auditoría"
+        },
+        {
+          "step": 3,
+          "title": "Celebración de la Asamblea General Ordinaria",
+          "description": "Reunión para deliberar y acordar sobre las cuentas anuales.",
+          "start_date": "tras formulación de cuentas",
+          "end_date": "3 meses tras plazo de formulación",
+          "required_documentation": "Convocatoria y documentación de acceso para socios"
+        }
+      ]
+    },
+    {
+      "name": "Legalización y Depósito",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Legalización de libros y depósito de cuentas",
+          "description": "Plazos según la fecha de cierre del ejercicio.",
+          "start_date": null,
+          "end_date": "2021-01-31",
+          "required_documentation": "Libros legalizados y cuentas anuales"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

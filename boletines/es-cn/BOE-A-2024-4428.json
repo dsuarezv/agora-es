@@ -1,0 +1,92 @@
+{
+  "identifier": "BOE-A-2024-4428",
+  "title": "Decreto-ley 9/2023, de 18 de diciembre, de medidas en materia territorial y urbanística para la recuperación económica y social de la isla de La Palma tras la eruption volcánica de Cumbre Vieja",
+  "visible_title": "Medidas territoriales y urbanísticas para la recuperación de La Palma tras la erupción volcánica",
+  "rank": "real_decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "9/2023",
+  "publication_date": "2024-03-07",
+  "enactment_date": "2023-12-18",
+  "last_updated": "2024-06-12",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/dl/2023/12/18/9",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece las reglas para que los afectados por la erupción de Cumbre Vieja puedan reconstruir o rehabilitar sus viviendas, negocios y explotaciones agrícolas en las zonas cubiertas por la lava. Clasifica el territorio en distintas zonas según el espesor de la colada y la seguridad técnica para permitir la recuperación de la vida social y económica. Busca evitar el despoblamiento del Valle de Ariadne permitiendo que la actividad preexistente regrese a su lugar de origen.",
+  "citizen_impact": "Permite a los propietarios de viviendas y negocios destruidos por la lava volver a construir o rehabilitar en sus parcelas originales, siempre que sea técnicamente seguro. Ofrece la posibilidad de reubicar construcciones en otras parcelas si la zona de origen es demasiado gruesa o peligrosa. Facilita la recuperación de usos turísticos y agrícolas que se perdieron con la erupción.",
+  "professional_impact": "Los arquitectos y técnicos deberán obtener informes científicos-técnicos favorables del Cabildo para obtener licencias de construcción en zonas de lava. Las empresas del sector turístico y agrario tienen ahora un marco legal claro para recuperar sus instalaciones. Los ayuntamientos de El Paso, Los Llanos de Argata y Tazacorte asumen la competencia de otorgar estas licencias especiales.",
+  "keywords": [
+    "La Palma",
+    "erupción volcánica",
+    "recuperación urbanística",
+    "reconstrucción",
+    "Valle de Ariadne",
+    "colada de lava",
+    "derecho de reubicación"
+  ],
+  "key_points": [
+    "Permite la reconstrucción en zonas con menos de 10 metros de espesor de lava tras informe técnico.",
+    "Autoriza la reubicación de edificios en otras parcelas si la zona original es demasiado gruesa (>10m).",
+    "Establece que las nuevas edificaciones son compatibles con la ordenación urbanística actual aunque no se hayan adaptado los planes.",
+    "Crea el Consejo para la Recuperación Económica y Social de La Palma para la participación ciudadana.",
+    "Permite la recuperación de usos turísticos (viviendas vacacionales y turismo rural) y comerciales.",
+    "Exime de evaluación de impacto ambiental a las obras de recuperación por ser situación de emergencia.",
+    "Obliga a los promotores a garantizar la conexión de servicios (agua, luz, saneamiento) por su cuenta hasta la red pública."
+  ],
+  "legal_references": [
+    "Decreto-ley 1/2022",
+    "Decreto-ley 2/2022",
+    "Decreto-ley 12/2021",
+    "Ley 14/2019 de ordenación territorial de la actividad turística de Canarias",
+    "Ley 4/2017 de Suelo y Espacios Naturales Protegidos de Canarias",
+    "Ley 21/2013 de evaluación ambiental",
+    "Ley 42/2007 de Patrimonio Natural y de la Biodiversidad"
+  ],
+  "derogations": [
+    "Disposición derogatoria única de la Ley 2/2024 (con efectos desde el 12 de junio de 2024)"
+  ],
+  "main_obligations": "Los promotores deben asegurar la ejecución de todos los servicios necesarios (depuradoras, energía renovable propia) hasta la conexión con la red pública y prestar una garantía económica para cubrir dichas obras.",
+  "effective_date": "2023-12-18",
+  "procedures": [
+    {
+      "name": "Otorgamiento de licencia de recuperación (construcción, reconstrucción o rehabilitación)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud inicial",
+          "description": "Presentación de solicitud con proyecto básico/ejecución y acreditación de titularidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto técnico, título de propiedad o derecho suficiente."
+        },
+        {
+          "step": 2,
+          "title": "Admisión a trámite y subsanación",
+          "description": "La Alcaldía admite la solicitud; si hay defectos, se concede un plazo de 10 días para subsanar.",
+          "start_date": null,
+          "end_date": "10 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Instrucción e informes",
+          "description": "Emisión de informes técnicos, jurídicos y el informe científico-técnico obligatorio del Cabildo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "La Alcaldía debe dictar resolución en un plazo máximo de 3 meses desde la admisión.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

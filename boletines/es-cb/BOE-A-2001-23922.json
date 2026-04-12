@@ -1,0 +1,116 @@
+{
+  "identifier": "BOE-A-2001-23922",
+  "title": "Ley 5/2001, de 19 de noviembre, de Museos de Cantabria",
+  "visible_title": "Ley de Museos de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "5/2001",
+  "publication_date": "2001-12-18",
+  "enactment_date": "2001-11-19",
+  "last_updated": "2017-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2001/11/19/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para la creación, gestión y protección de los museos y colecciones en Cantabria. Su objetivo es organizar un 'Sistema de Museos' que garantice la calidad de los servicios culturales y la salvaguarda del patrimonio. Regula desde los requisitos para abrir un museo hasta las obligaciones de conservación y los mecanismos de inspección.",
+  "citizen_impact": "Mejora el acceso a la cultura al garantizar que los museos cumplan con estándares de calidad, horarios estables y accesibilidad para personas con discapacidad. Además, asegura que las colecciones que visitan estén correctamente protegidas y catalogadas.",
+  "professional_impact": "Los gestores culturales y propietarios de colecciones deben cumplir con requisitos estrictos de infraestructura, personal cualificado e inventario para poder usar legalmente los términos 'museo' o 'colección'. Introduce la obligación de solicitar autorizaciones para restauraciones, traslados de fondos o ventas de bienes, bajo riesgo de sanciones graves.",
+  "keywords": [
+    "museos",
+    "colecciones",
+    "patrimonio cultural",
+    "Cantabria",
+    "gestión cultural",
+    "sistema de museos",
+    "conservación"
+  ],
+  "key_points": [
+    "Creación del Sistema de Museos de Cantabria para integrar centros públicos y privados.",
+    "Obligatoriedad de obtener autorización previa de la Consejería de Cultura para abrir un museo o exponer una colección.",
+    "Exigencia de personal cualificado y director con titulación adecuada para los centros integrados en el sistema.",
+    "Derecho de tanteo y retracto de la Administración sobre la venta de fondos o inmuebles museísticos.",
+    "Obligación de mantener un inventario actualizado y comunicar las variaciones de los fondos.",
+    "Prohibición de realizar actividades comerciales con bienes culturales para el personal de museos públicos.",
+    "Establecimiento de un Registro de Museos y Colecciones para controlar la actividad cultural.",
+    "Posibilidad de realizar depósitos forzosos de fondos si el museo no garantiza su seguridad."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía para Cantabria",
+    "Ley 11/1998, de 13 de octubre, de Patrimonio Cultural de Cantabria",
+    "Ley del Patrimonio Histórico Español"
+  ],
+  "derogations": [
+    "Capítulo V del Título IV de la Ley 11/1998, de 13 de octubre, de Patrimonio Cultural de Cantabria"
+  ],
+  "main_obligations": "Los titulares deben garantizar la seguridad y conservación de los fondos, mantener inventarios actualizados y comunicar cualquier movimiento de bienes. Las restauraciones y salidas de fondos requieren autorización previa de la Consejería de Cultura.",
+  "effective_date": "2001-12-19",
+  "procedures": [
+    {
+      "name": "Autorización para la creación de un museo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Presentación del proyecto de creación, mantenimiento y gestión ante la Consejería de Cultura.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de instalaciones, dotaciones, gestión, conservación, inventario y presupuesto."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y resolución",
+          "description": "Plazo para que la administración resuelva la solicitud; si no hay respuesta en este tiempo, se entiende concedida.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización para la exposición pública de una colección",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Solicitud previa para exponer públicamente una colección privada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Inventario de fondos, plan de exposición y garantías de conservación."
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Plazo de resolución de la administración.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Restauración de fondos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación y solicitud",
+          "description": "Comunicar la intención de restaurar junto con los datos técnicos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos técnicos de la restauración."
+        },
+        {
+          "step": 2,
+          "title": "Autorización tácita",
+          "description": "Si no hay respuesta de la Consejería en un mes, se entiende concedida la autorización.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

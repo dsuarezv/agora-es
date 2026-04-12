@@ -1,0 +1,85 @@
+{
+  "identifier": "BOE-A-2025-11961",
+  "title": "Decreto-ley 3/2025, de 21 de abril, para la agilización de la tramitación de licencias urbanísticas y el impulso de la construcción de viviendas",
+  "visible_title": "Agilización de licencias urbanísticas e impulso a la construcción de viviendas",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "3/2025",
+  "publication_date": "2025-06-14",
+  "enactment_date": "2025-04-21",
+  "last_updated": "2025-04-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/dl/2025/04/21/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma combate el retraso extremo en la concesión de licencias urbanísticas en Canarias permitiendo que Ayuntamientos y Gerencias contraten a entidades externas o colegios profesionales para realizar los informes técnicos. Además, introduce medidas para acelerar la construcción de vivienda, como la creación de la modalidad de 'vivienda asequible incentivada' y la facilitación del cambio de uso de suelos terciarios a residenciales. El objetivo es desbloquear la actividad económica y responder a la emergencia habitacional de las islas.",
+  "citizen_impact": "Los ciudadanos podrán ver cómo se agilizan los trámites para obtener licencias de obra o construcción al permitir que expertos externos ayuden a la Administración. También se facilita el acceso a nuevas opciones de vivienda, como las viviendas asequibles incentivadas y la rehabilitación de edificios.",
+  "professional_impact": "Los promotores y arquitectos pueden agilizar sus proyectos aportando informes técnicos de entidades colaboradoras o colegios profesionales para evitar años de espera. Las empresas de servicios urbanísticos y colegios profesionales encuentran una nueva oportunidad de negocio mediante la colaboración con la Administración.",
+  "keywords": [
+    "licencias urbanísticas",
+    "vivienda asequible",
+    "Canarias",
+    "informe técnico",
+    "gestión urbanística",
+    "promoción de vivienda",
+    "agilización administrativa"
+  ],
+  "key_points": [
+    "Permite a los Ayuntamientos contratar entidades colaboradoras o colegios profesionales para emitir informes técnicos de conformidad.",
+    "Crea la figura de 'entidades urbanísticas de colaboración' que deben estar acreditadas por ENAC.",
+    "Los ciudadanos pueden presentar su propio informe técnico de un colegio profesional para acelerar la licencia.",
+    "Se introduce la modalidad de 'vivienda asequible incentivada' (entre protegida y libre).",
+    "Se permite cambiar el uso de suelos terciarios a residencial si el 40% es vivienda protegida y el 60% es vivienda asequible incentivada.",
+    "Se facilita la ejecución anticipada de viviendas protegidas sin esperar a terminar toda la urbanización.",
+    "Se amplía un año el plazo para solicitar licencias de rehabilitación de edificaciones y urbanizaciones no terminadas."
+  ],
+  "legal_references": [
+    "Ley 4/2017, de 13 de julio, del Suelo y de los Espacios Naturales Protegidos de Canarias",
+    "Decreto-ley 1/2024, de 19 de febrero, de medidas urgentes en materia de vivienda",
+    "Ley 12/2023, por el derecho a la vivienda",
+    "Ley 5/2021, de 21 de diciembre, de medidas urgentes de impulso de los sectores primario, energético, turístico y territorial del Canarias",
+    "Ley 4/2022, de 31 de octubre, de Sociedades Cooperativas de Canarias"
+  ],
+  "derogations": [
+    "Disposición final decimocuarta de la Ley 5/2021, de 21 de diciembre",
+    "Artículo 24 del Decreto-ley 1/2024, de 19 de febrero",
+    "Disposición adicional tercera del Decreto-ley 1/2024, de 19 de febrero",
+    "Reglamento de Organización y Funcionamiento del Órgano Colegiado de Evaluación Ambiental e Informe Único de Canarias (partes específicas)"
+  ],
+  "main_obligations": "Las entidades colaboradoras deben cumplir con requisitos de acreditación ENAC, seguro de responsabilidad civil de 1.000.000€ y declarar su ausencia de causas de abstención o recusación. Los informes técnicos aportados por el interesado deben identificar inequívocamente el proyecto.",
+  "effective_date": "2025-06-15",
+  "procedures": [
+    {
+      "name": "Tramitación de licencia urbanística mediante colaboración",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de licencia",
+          "description": "Presentación de la solicitud de licencia ante la Administración urbanística.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto técnico y, opcionalmente, informe técnico de conformidad de entidad colaboradora."
+        },
+        {
+          "step": 2,
+          "title": "Emisión de informe técnico de conformidad",
+          "description": "El informe puede ser emitido por la Administración (contratando a terceros) o por el interesado (a petición propia).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "La Administración resuelve la licencia basándose en los informes técnicos aportados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,90 @@
+{
+  "identifier": "BOE-A-2015-13785",
+  "title": "Resolución INT/2882/2015, de 10 de diciembre, por la que se establecen las restricciones a la circulación durante el año 2016",
+  "visible_title": "Restricciones a la circulación de vehículos en Cataluña durante 2016",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "INT/2882/2015",
+  "publication_date": "2015-12-18",
+  "enactment_date": "2015-12-10",
+  "last_updated": "2017-01-02",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/res/2015/12/10/int2882",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta resolución establece las limitaciones de tráfico para vehículos pesados y especiales en la red de carreteras de Cataluña durante todo el año 2016. El objetivo es mejorar la seguridad vial y garantizar la fluidez del tráfico, especialmente en periodos de vacaciones o festivos. Regula restricciones por peso, tipo de carga (incluyendo mercancías peligrosas), características del vehículo y condiciones meteorológicas.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo que se utilicen las vías afectadas por el transporte de mercancías o se vea afectada la movilidad por medidas de seguridad ante mal tiempo.",
+  "professional_impact": "Afecta directamente a transportistas, empresas de logística y conductores de vehículos pesados, especiales o de mercancías peligrosas. Obliga a planificar rutas específicas (RIMP), respetar horarios de prohibición en túneles y carreteras clave, y gestionar exenciones documentales para cargas específicas como productos perecederos o servicios de emergencia.",
+  "keywords": [
+    "tráfico",
+    "restricciones de circulación",
+    "Cataluña",
+    "transporte de mercancías",
+    "mercancías peligrosas",
+    "vehículos especiales",
+    "seguridad vial"
+  ],
+  "key_points": [
+    "Prohibición de circular para vehículos de mercancías con masa superior a 7.500 kg en tramos y horarios específicos.",
+    "Restricciones severas en túneles críticos como el del Cadí y el de Vielha durante fines de semana y festivos.",
+    "Obligatoriedad de seguir la Red de Itinerarios de Mercancías Peligrosas (RIMP) para transporte ADR.",
+    "Limitaciones de circulación para vehículos de obras, servicios y elevación en domingos y festivos.",
+    "Posibilidad de restricciones adicionales por condiciones meteorológicas extremas (nieve, niebla, viento).",
+    "Regulación de carriles bus-VAO en la C-58CC con acceso restringido a ciertos vehículos.",
+    "Exenciones para transporte de ganado vivo, recogida de basura, correo y productos perecederos (ATP).",
+    "Procedimiento de solicitud de exenciones para casos de urgencia o necesidades industriales específicas."
+  ],
+  "legal_references": [
+    "Ley 14/1997, de 24 de diciembre, de creación del Servicio Catalán de Tráfico",
+    "Real Decreto Legislativo 339/1990, de 2 de marzo, Texto articulado de la Ley sobre tráfico, circulación de vehículos a motor y seguridad vial",
+    "Real Decreto 1428/2003, de 21 de noviembre, Reglamento general de circulación",
+    "Real Decreto 97/2014, de 14 de febrero, regulación de operaciones de transporte de mercancías peligrosas",
+    "Decreto 427/2011, de 27 de diciembre, sobre vehículos de bajas emisiones"
+  ],
+  "derogations": [
+    "Resolución INT/3031/2014, de 30 de diciembre",
+    "Resolución IRP/911/2009, de 18 de marzo",
+    "Resolución INT/768/2013, de 8 de abril"
+  ],
+  "main_obligations": "Los vehículos de transporte de mercancías >7.500 kg y vehículos especiales deben respetar los horarios y tramos prohibidos detallados en los anexos. Los transportistas de mercancías peligrosas deben utilizar los itinerarios de la red RIMP y respetar la señalización de túneles restringidos.",
+  "effective_date": "2016-01-01",
+  "procedures": [
+    {
+      "name": "Solicitud de exención de restricciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Presentación formal de la petición de exención ante el Servicio Catalán de Tráfico.",
+          "start_date": "5 días hábiles antes de la fecha de circulación solicitada",
+          "end_date": null,
+          "required_documentation": "Matrícula del vehículo, fecha de circulación, características del vehículo, tipo de mercancía y ruta prevista."
+        },
+        {
+          "step": 2,
+          "title": "Valoración y resolución",
+          "description": "El órgano autorizante valora la necesidad ineludible del desplazamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Consulta de itinerario idóneo (Mercancías Peligrosas)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Consulta web",
+          "description": "Consulta anónima en la web del SCT para obtener una ruta vinculante para la red interurbana.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Origen y destino del transporte."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

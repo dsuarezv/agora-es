@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-2021-2848",
+  "title": "Ley 8/2020, de 16 de octubre, por la que se crea la reserva estratégica de productos sanitarios en Castilla-La Manchcha",
+  "visible_title": "Creación de la reserva estratégica de productos sanitarios en Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "8/2020",
+  "publication_date": "2021-02-24",
+  "enactment_date": "2020-10-16",
+  "last_updated": "2024-03-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2020/10/16/8",
+  "official_journal": "Diario Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley establece un sistema de seguridad para evitar el desabastecimiento de material sanitario en Castilla-La Mancha ante futuras crisis o pandemias. Crea una reserva estratégica de productos esenciales y una entidad pública (Corporación de Reservas Estratégicas) para gestionar su compra y suministro. Además, obliga a los centros sanitarios y sociales a mantener stocks mínimos de seguridad para garantizar la continuidad de la asistencia.",
+  "citizen_impact": "Garantiza que, en caso de crisis sanitaria, los hospitales y centros de salud de la región cuenten con el material necesario para atender a la población. No impone trámites directos al ciudadano común, salvo en el caso de que deba colaborar con registros de control en eventos o locales de ocio durante situaciones de emergencia.",
+  "professional_impact": "Los centros sanitarios, sociosanitarios y sociales (públicos y privados) deben mantener un stock mínimo de 30 días de su consumo anual. Las empresas locales de producción sanitaria reciben incentivos y prioridad en la contratación de emergencia. Los titulares de locales de ocio y eventos deben implementar registros de clientes para facilitar el rastreo epidemiológico.",
+  "keywords": [
+    "reserva estratégica",
+    "material sanitario",
+    "abastecimiento",
+    "Castilla-La Mancha",
+    "emergencia sanitaria",
+    "centros sociosanitarios",
+    "gestión de stocks"
+  ],
+  "key_points": [
+    "Creación de la Corporación de Reservas Estratégicas de Productos Sanitarios para gestionar el suministro.",
+    "Obligación de los centros sanitarios de mantener un stock mínimo de 30 días de su consumo anual.",
+    "La reserva estratégica total de la región debe cubrir al menos 120 días de consumo anual.",
+    "Los productos para cumplir el stock mínimo deben estar almacenados físicamente en Castilla-La Mancha.",
+    "Se establecen sanciones económicas severas por incumplimiento, llegando hasta los 600.000 euros en casos muy graves.",
+    "Habilitación para la contratación de emergencia y pagos anticipados a empresas locales para fomentar la producción regional.",
+    "Obligatoriedad de registro de clientes en locales de ocio y eventos para vigilancia epidemiológica mediante una App."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020",
+    "Ley 39/2015",
+    "Ley 40/2015",
+    "Ley 9/2017",
+    "Reglamento (UE) 2016/679",
+    "Ley Orgánica 3/2018",
+    "Real Decreto-Ley 21/2020"
+  ],
+  "derogatons": [],
+  "main_obligations": "Los centros sanitarios y sociales deben mantener un stock mínimo de 30 días de consumo anual y registrar sus existencias. Deben facilitar información a las autoridades y poner a disposición suministros prioritarios en caso de emergencia. El incumplimiento de estas obligaciones conlleva multas que oscilan entre 100 y 600.000 euros según la gravedad.",
+  "effective_date": "2020-11-05",
+  "procedures": [
+    {
+      "name": "Cálculo de la reserva estratégica anual",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cálculo de composición de la reserva",
+          "descrption": "Los centros deben calcular la composición de su reserva para el año siguiente.",
+          "start_date": "antes del 30 de octubre",
+          "end_date": "31 de diciembre",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador por falta de existencias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio de expediente",
+          "descrption": "Apertura de expediente por parte de las Consejerías de Sanidad o Bienestar Social.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "descrption": "Plazo máximo para resolver y notificar la sanción.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

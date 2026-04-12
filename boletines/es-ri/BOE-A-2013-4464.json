@@ -1,0 +1,95 @@
+{
+  "identifier": "BOE-A-2013-4464",
+  "title": "Ley 5/2013, de 12 de abril, para la defensa de los consumidores en la Comunidad Autónoma de La Rioja",
+  "visible_title": "Ley para la defensa de los consumidores en La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "5/2013",
+  "publication_date": "2013-04-27",
+  "enactment_date": "2013-04-12",
+  "last_updated": "2013-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2013/04/12/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley refuerza la protección de los consumidores en La Rioja, otorgándoles herramientas más eficaces para reclamar y proteger su dinero. Introduce garantías clave como la obligación de asegurar las cantidades entregadas a cuenta en compras de vivienda y facilita la baja de servicios mediante el mismo método de contratación. Además, endurece el control sobre las empresas, permitiendo inspecciones rápidas y sanciones económicas elevadas para asegurar que los productos y servicios sean seguros y honestos.",
+  "citizen_impact": "El ciudadano gana seguridad al comprar vivienda (exigencia de avales para anticipos) y mayor facilidad para cancelar contratos (baja por el mismo canal de contratación). También se garantiza que las reclamaciones no tengan coste y que existan hojas de reclamación oficiales en todos los comercios. En servicios a domicilio, se asegura una garantía mínima de 6 meses y reparaciones gratuitas por defectos.",
+  "professional_impact": "Las empresas deben adaptarse a protocolos de inspección más estrictos, permitiendo el acceso de inspectores a sus locales y facilitando toda la documentación requerida. Deben garantizar la existencia de piezas de repuesto para bienes duraderos, entregar presupuestos previos en servicios a domicilio y disponer de avales o seguros para cobros a cuenta. El incumplimiento de medidas cautelares o la obstrucción a la inspección conlleva sanciones muy graves de hasta 600.000 €.",
+  "keywords": [
+    "defensa del consumidor",
+    "La Rioja",
+    "derechos del consumidor",
+    "protección al consumidor",
+    "inspección de consumo",
+    "sanciones de consumo",
+    "garantías de servicios"
+  ],
+  "key_points": [
+    "Derecho a dar de baja un servicio usando el mismo método empleado para contratarlo.",
+    "Obligatoriedad de avales o seguros para garantizar cantidades entregadas a cuenta en ventas.",
+    "Entrega obligatoria de copia del aval/seguro al comprador de vivienda nueva al firmar.",
+    "Derecho a reclamar sin coste alguno para el consumidor.",
+    "Uso obligatorio de hojas de reclamación de modelo único en todos los comercios.",
+    "Derecho a resguardo de depósito al entregar bienes para reparación.",
+    "Facultad de los inspectores para acceder a locales con o sin previo aviso y tomar muestras.",
+    "Garantía mínima de 6 meses en servicios a domicilio y reparaciones gratuitas por defectos.",
+    "Obligación de entregar presupuestos antes de realizar trabajos en domicilio.",
+    "Garantía de disponibilidad de piezas de repuesto para bienes de uso duradero.",
+    "Sistema de sanciones que escala desde 300 € hasta 600.000 € según la gravedad.",
+    "Posibilidad de medidas cautelares inmediatas como cierre de locales o suspensión de ventas."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Auto-nomía de La Rioja",
+    "Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios",
+    "Real Decreto Legislativo 1/2007, de 16 de diciembre",
+    "Ley Orgánica 3/1982, de 9 de junio",
+    "Ley Orgánica 2/1999, de 7 de enero",
+    "Ley 14/1986, de 25 de abril, General de Sanidad",
+    "Ley 2/2002, de 17 de abril, de Salud, de La Rioja",
+    "Código Civil",
+    "Ley 4/2005, de 1 de junio, de funcionamiento y régimen jurídico de la Administración de la Comunidad Autónoma de La Rioja",
+    "Decreto 24/1996, de 3 de mayo"
+  ],
+  "derogations": [
+    "Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios",
+    "Normas de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": "Las empresas deben exhibir hojas de reclamación, facilitar el acceso a inspecciones y entregar presupuestos previos en servicios a domicilio. Los productores y distribuidores deben conservar datos de lotes y documentación de origen durante 3 años.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Procedimiento de Reclamación mediante Hojas Oficiales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de hojas de reclamación",
+          "description": "El consumidor solicita las hojas en el establecimiento o al prestador del servicio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Formalización de la reclamación",
+          "description": "Se completa el juego unitario de tres folios (original para la Administración, dos copias para las partes).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Hoja de reclamación modelo único"
+        },
+        {
+          "step": 3,
+          "title": "Tramitación y respuesta",
+          "description": "La Administración debe contestar al reclamante mediante escrito motivado sobre las actuaciones realizadas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

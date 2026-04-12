@@ -1,0 +1,89 @@
+{
+  "identifier": "BOE-A-2023-9958",
+  "title": "Ley 1/2023, de 5 de abril, de Reconocimiento, Homenaje, Memoria y Dignidad a las Víctimas del Terrorismo",
+  "visible_title": "Ley de Reconocimiento, Homenaje, Memoria y Dignidad a las Víctimas del Terrorismo",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "1/2023",
+  "publication_date": "2023-04-25",
+  "enactment_date": "2023-04-05",
+  "last_updated": "2026-03-11",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2023/04/05/1",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "journal_issue": null,
+  "summary": "Esta ley establece un sistema integral de reparación y apoyo para las víctimas del terrorismo en Cantabria, complementando las ayudas estatales. Busca no solo la compensación económica por daños personales y materiales, sino también el apoyo psicológico, educativo y laboral. Además, refuerza la memoria histórica mediante la inclusión de contenidos en el currículo escolar y la realización de actos de homenaje.",
+  "citizen_impact": "Las víctimas del terrorismo y sus familiares en Cantabria acceden a ayudas económicas adicionales (un 30% extra sobre lo estatal), asistencia psicológica inmediata y apoyo en educación y vivienda. También se garantiza un trato preferente y respetuoso por parte de la administración en sus trámites.",
+  "professional_impact": "Los funcionarios de la administración cántabra deben recibir formación específica para atender a las víctimas con deferencia y rapidez. Las empresas pueden recibir incentivos para la contratación de víctimas, y las entidades sin ánimo lucro dedicadas a este colectivo podrán acceder a subvenciones específicas.",
+  "keywords": [
+    "víctimas del terrorismo",
+    "reparación",
+    "ayudas económicas",
+    "memoria histórica",
+    "Cantabria",
+    "asistencia psicológica",
+    "indemnizaciones"
+  ],
+  "key_points": [
+    "Complementariedad económica: Se otorga un 30% adicional sobre las indemnizaciones estatales por fallecimiento o daños físicos/psíquicos.",
+    "Retroactividad: Las medidas de apoyo (excepto daños materiales) se aplican a hechos ocurridos desde el 1 de enero de 1960.",
+    "Asistencia inmediata: Garantía de atención psicológica en las 72 horas posteriores a un atentado.",
+    "Apoyo educativo: Ayudas para estudios, exención de tasas y asistencia psicoeducativa para alumnos afectados.",
+    "Protección de la vivienda: Ayudas para reparación de daños en la vivienda habitual o para el cambio de vivienda si esta se pierde.",
+    "Memoria y educación: Inclusión obligatoria de contenidos sobre terrorismo y valores democráticos en la educación primaria, secundaria y bachillerato.",
+    "Ámbito extendido: Protege a personas empadronadas en Cantabria incluso si el atentado ocurrió en otra parte de España o el extranjero.",
+    "Protección de la imagen: Compromiso de instar a medios de comunicación a proteger la intimidad de las víctimas."
+  ],
+  "legal_references": [
+    "Ley 29/2011, de 22 de septiembre, de Reconocimiento y Protección Integral a las Víctimas del Terrorismo",
+    "Constitución Española",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Convenio Europeo sobre indemnizaciones a las víctimas de delitos violentos",
+    "Ley Orgánica de protección de datos de carácter personal y garantía de los derechos digitales"
+  ],
+  "derogations": [],
+  "main_obligations": "La Administración debe tramitar las solicitudes en un plazo máximo de 6 meses. Se prohíbe expresamente la celebración de actos de homenaje a terroristas en Cantabria, bajo riesgo de acciones penales.",
+  "effective_date": "2023-04-26",
+  "procedures": [
+    {
+      "name": "Concesión de ayudas económicas y medidas asistenciales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación de la solicitud",
+          "description": "Presentación de la solicitud por parte del interesado o de oficio por la administración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Identificación personal, descripción de hechos y daños, relación de ayudas solicitadas y datos de seguros."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación",
+          "description": "Instrucción del expediente por la Consejería competente.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución y notificación",
+          "description": "Dictamen final de la autoridad competente sobre la concesión de la ayuda.",
+          "start_date": null,
+          "end_date": "6 meses desde el inicio",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Pago",
+          "description": "Abono de la cuantía económica según la Ley de Finanzas de Cantabria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

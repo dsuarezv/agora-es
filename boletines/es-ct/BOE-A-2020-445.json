@@ -1,0 +1,149 @@
+{
+  "identifier": "BOE-A-2020-445",
+  "title": "Decreto-ley 16/2019, de 26 de noviembre, de medidas urgentes para la emergencia climática y el impulso a las energías renovables",
+  "visible_title": "Medidas urgentes para la emergencia climática y el impulso a las energías renovables",
+  "rank": "real_decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "16/2019",
+  "publication_date": "2020-01-14",
+  "enactment_date": "2019-11-26",
+  "last_updated": "2025-10-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2019/11/26/16",
+  "official_journal": "Diari Oficial de la Generalitat de Catalunya",
+  "journal_issue": null,
+  "summary": "Esta norma acelera la transición hacia energías limpias en Cataluña eliminando obstáculos burocráticos y urbanísticos para la instalación de renovables. Facilita la colocación de paneles solares en edificios y entornos urbanos sin necesidad de cambiar planes urbanísticos previos. Además, busca que la ciudadanía participe directamente en la propiedad de los proyectos energéticos y protege los suelos agrícolas de alta calidad. El objetivo final es reducir la dependencia de combustibles fósiles como el carbón y el coqué, agilizando los trámites mediante una ventanilla única.",
+  "citizen_impact": "Facilita la instalación de paneles solares en viviendas y edificios sin trámites urbanísticos complejos. Permite a los ciudadanos participar en la propiedad o financiación de grandes proyectos eólicos y solares (20% de participación local obligatoria). También permite la creación de comunidades energéticas mediante declaración responsable.",
+  "professional_impact": "Las empresas energéticas deben cumplir con la 'Ventanilla Única Empresarial' para centralizar trámites ambientales, urbanísticos y energéticos. Los promotores de grandes proyectos deben garantizar la participación local y presentar garantías económicas para el desmantelamiento. Se imponen restricciones estrictas para instalar plantas solares en suelos agrícolas de clase I y II, limitándolas a autoconsumo o I+D.",
+  "keywords": [
+    "energías renovables",
+    "emergencia climática",
+    "paneles solares",
+    "autoconsumo",
+    "participación ciudadana",
+    "transición energética",
+    "Cataluña"
+  ],
+  "key_points": [
+    "Instalación de paneles solares en cubiertas y zonas urbanas sin modificar el planeamiento urbanístico.",
+    "Obligación de ofrecer un 20% de participación local (propiedad o financiación) en proyectos eólicos >10MW y solares >5MW.",
+    "Creación de la 'Ventanilla Única Empresarial' para tramitar autorizaciones de forma conjunta (energía, medio ambiente y urbanismo).",
+    "Prohibición de nuevas instalaciones térmicas de coqué o carbón desde enero de 2020.",
+    "Limitación de plantas solares en suelos agrícolas de alta capacidad (clases I y II) solo para autoconsumo, I+D o agrovoltaica.",
+    "Creación del Registro de Comunidades Energéticas mediante declaración responsable.",
+    "Implementación de una guía informativa única para unificar toda la documentación requerida por la administración.",
+    "Prohibición a las administraciones de solicitar documentos que no figuren en la guía oficial.",
+    "Obligación de presentar estudios de impacto ambiental con alternativas y medidas de compensación.",
+    "Exigencia de mapas digitales en formato .shape (QGIS) para proyectos en suelos de alto valor agrícola.",
+    "Posibilidad de tramitar proyectos eólicos/solares asumiendo el riesgo de estudios de fauna incompletos, entregándolos antes de la información pública.",
+    "Obligación de acreditar la disponibilidad de más del 50% de terrenos agrícolas privados en casos específicos."
+  ],
+  "legal_references": [
+    "Ley 16/2017, del 1 de agosto, del cambio climático",
+    "Estatuto de Autonomía de Cataluña",
+    "Decreto legislativo 1/2010, de 3 de agosto (Texto refundido de la Ley de urbanismo)",
+    "Ley 20/2009, de 4 de diciembre, de prevención y control ambiental",
+    "Ley 21/2013, de 9 de diciembre, de evaluación ambiental",
+    "Real Decreto 1955/2000",
+    "Artículo 48 bis del Texto refundido de la Ley de urbanismo",
+    "Artículo 48.1 del Texto refundido de la Ley de urbanismo",
+    "Artículo 57.1 del Reglamento de la Ley de urbanismo",
+    "Artículo 21 del Decreto 343/2006, de 19 de septiembre",
+    "Ley 8/2005, de 8 de junio, de protección, gestión y ordenación del paisaje"
+  ],
+  "derogations": [
+    "Decreto 174/2002, de 16 de junio, regula la implantación de la energía eólica en Cataluña",
+    "Decreto 147/2009, de 22 de septiembre, regula procedimientos para energía eólica y solar",
+    "Artículo 33.3 del Reglamento de la Ley de urbanismo"
+  ],
+  "main_obligations": "Las industrias que usen carbón o coqué deben sustituir estas fuentes en un plazo de 4 años. Los promotores deben presentar estudios de impacto ambiental, garantizar el desmantelamiento mediante aval económico y asegurar la participación local en grandes proyectos.",
+  "effective_date": "2020-01-14",
+  "procedures": [
+    {
+      "name": "Autorización de parques eólicos y plantas solares fotovoltaicas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Entrega de documentación en la Oficina de Gestión Empresarial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación sectorial detallada en los anexos del Decreto-ley"
+        },
+        {
+          "step": 2,
+          "title": "Comprobación de suficiencia e idoneidad",
+          "description": "Los órganos competentes deben validar la documentación aportada.",
+          "start_date": "1 mes desde la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Información pública",
+          "description": "Trámite de exposición pública para recibir alegaciones.",
+          "start_date": "Tras subsanar deficiencias",
+          "end_date": "30 o 60 días (según municipio)",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Evaluación de impacto ambiental",
+          "description": "La Ponencia de Energías Renovables emite la declaración de impacto.",
+          "start_date": "Tras disponer del expediente completo",
+          "end_date": "4 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Aprobación urbanística",
+          "description": "La Comisión Territorial de Urbanismo aprueba el proyecto de actuación específica.",
+          "start_date": "Tras la evaluación ambiental",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Resolución de autorización sustantiva",
+          "description": "Emisión de la resolución final de autorización energética y construcción.",
+          "start_date": "Tras informes ambiental y urbanístico",
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de proyectos de energías renovables (Eólica y Fotovoltaica)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración de la Guía Informativa",
+          "descrption": "El departamento de energía crea la guía con toda la documentación necesaria para evitar duplicidades.",
+          "start_date": "Publicación en el DOGC",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de autorización y construcción",
+          "descrption": "Presentación de la solicitud incluyendo autorización administrativa, declaración de impacto ambiental y proyecto urbanístico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto ejecutivo/técnico, estudios de impacto ambiental, planos (escala 1:25.000 o 1:5.000 según patrimonio), estudios de seguridad y salud, y acreditación de conexión a red."
+        },
+        {
+          "step": 3,
+          "title": "Información pública",
+          "descrption": "Fase de consulta donde se deben haber entregado los resultados de los estudios de fauna si se optó por asumir el riesgo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Resultados de estudios de ciclo anual de fauna (si aplica)."
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

@@ -1,0 +1,90 @@
+{
+  "identifier": "BOE-A-2020-9675",
+  "title": "Decreto-ley Foral 6/2020, de 17 de junio, por el que se aprueban medidas urgentes para responder al impacto generado por la crisis sanitaria del coronavirus (COVID-19)",
+  "visible_title": "Medidas urgentes para responder al impacto de la crisis sanitaria del COVID-19 en Navarra",
+  "rank": "decreto-ley foral",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "6/2020",
+  "publication_date": "2020-08-14",
+  "enactment_date": "2020-06-17",
+  "last_updated": "2020-06-23",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/dlf/2020/06/17/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Este decreto establece un sexto paquete de medidas de emergencia en Navarra para mitigar los efectos económicos y sociales de la pandemia. Incluye compensaciones para empresas de transporte público, ayudas para autónomos y deducciones fiscales para fomentar la digitalización y el cuidado de dependientes. Asimismo, flexibiliza la normativa de carreteras para facilitar la instalación de infraestructuras de telecomunicaciones y energías renovables.",
+  "citizen_impact": "Los ciudadanos se benefician de nuevas deducciones en el IRPF para gastos de cuidado de familiares dependientes y de una mayor conectividad digital en zonas rurales. También se garantiza la continuidad de servicios de transporte y se protegen las prestaciones de los profesionales sanitarios mediante exenciones fiscales.",
+  "professional_impact": "Las empresas de transporte público reciben compensaciones por la caída de demanda, mientras que las PYMES y autónomos cuentan con deducciones por digitalización. Los profesionales sanitarios obtienen exenciones fiscales en seguros colectivos, y los profesionales del deporte disponen de ampliaciones de plazos para cumplir sus obligaciones.",
+  "keywords": [
+    "COVID-19",
+    "Navarra",
+    "medidas urgentes",
+    "ayudas autónomos",
+    "deducciones fiscales",
+    "transporte público",
+    "digitalización",
+    "energías renovables",
+    "servicios sociales"
+  ],
+  "key_points": [
+    "Compensación económica para concesionarios de transporte público por la pérdida de ingresos y costes de desinfección.",
+    "Suspensión temporal del cobro de la renta garantizada para autónomos que reciban ayudas específicas sin perder el derecho a solicitarla después.",
+    "Deducción del 100% en el IRPF por gastos de seguridad social para contratar cuidadores de familiares dependientes en 2020.",
+    "Deducción del 30% para pequeñas empresas y autónomos en gastos de transformación digital y comercio electrónico (límite 5.000€).",
+    "Exención de impuestos (ISD y Renta) para las prestaciones de seguros gratuitos destinados al personal sanitario.",
+    "Facilitación de la instalación de infraestructuras de telecomunicaciones en el dominio público de carreteras para reducir la brecha digital.",
+    "Posibilidad de realizar actuaciones de la Administración tributaria mediante videoconferencias.",
+    "Ampliación de plazos para la presentación de cuentas anuales y documentos de fundaciones ante la Hacienda Foral."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020",
+    "Real Decreto-ley 8/2020",
+    "Real Decreto-ley 11/2020",
+    "Ley Foral 13/2000",
+    "Ley Foral 26/2016",
+    "Ley Foral 5/2007",
+    "Ley Foral 18/2019"
+  ],
+  "derogations": [],
+  "main_obligations": "Las empresas de transporte deben solicitar la compensación en el plazo de un mes desde la entrada en vigor. Los contribuyentes que presenten cuentas anuales provisionales para el Impuesto sobre Sociedades deben rectificar la declaración antes del 30 de noviembre de 2020 si los resultados definitivos varían.",
+  "effective_date": "2020-06-17",
+  "procedures": [
+    {
+      "name": "Tramitación de compensación económica para transporte público",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Las empresas deben presentar una solicitud con memoria justificativa de kilómetros y costes de desinfección.",
+          "start_date": "2020-06-17",
+          "end_date": "un mes desde la entrada en vigor",
+          "required_documentation": "Memoria de kilómetros, relación de flota, facturas de desinfección y declaración responsable."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la Administración",
+          "description": "La Dirección General de Transportes debe resolver la solicitud.",
+          "start_date": "tras el cierre del plazo de solicitud",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Rectificación de Impuesto sobre Sociedades",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de nueva autoliquidación",
+          "description": "Presentar la declaración con las cuentas anuales definitivas si difieren de las provisionales.",
+          "start_date": null,
+          "end_date": "2020-11-30",
+          "required_documentation": "Cuentas anuales aprobadas"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-1984-19765",
+  "title": "Ley 7/1984, de 13 de julio, de Relaciones entre el Consejo de Gobierno y la Junta General del Principado de Asturias",
+  "visible_title": "Ley de Relaciones entre el Consejo de Gobierno y la Junta General del Principado de Asturias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "7/1984",
+  "publication_date": "1984-09-04",
+  "enactment_date": "1984-07-13",
+  "last_updated": "1984-07-23",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1984/07/13/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas de juego para la relación política entre el poder ejecutivo (Consejo de Gobierno) y el poder legislativo (Junta General) de Asturias. Define cómo la Junta puede controlar la gestión del Gobierno, cómo se pueden debatir las políticas generales y qué mecanismos existen para exigir responsabilidades. Regula específicamente los procedimientos de moción de censura y cuestión de confianza para garantizar la estabilidad y el control democrático en la región.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta principalmente a los representantes políticos y altos cargos de la administración asturiana. Establece los protocolos de rendición de cuentas, la obligación de los consejeros de responder ante la Junta y la capacidad de las comisiones para interrogar a funcionarios públicos sobre su gestión.",
+  "keywords": [
+    "Asturias",
+    "Consejo de Gobierno",
+    "Junta General",
+    "moción de censura",
+    "cuestión de confianza",
+    "responsabilidad política",
+    "control parlamentario"
+  ],
+  "key_points": [
+    "La Junta General tiene la potestad de elegir al Presidente y aprobar su programa de Gobierno.",
+    "Se establecen debates anuales obligatorios sobre la orientación política general del Gobierno.",
+    "Para una moción de censura se requiere la propuesta del 15% de los miembros de la Junta y un candidato alternativo.",
+    "La moción de censura debe aprobarse por mayoría absoluta y conlleva la dimisión del Presidente.",
+    "El Presidente puede plantear una cuestión de confianza sobre su programa o política general.",
+    "Si la Junta niega la confianza al Presidente, este debe dimitir.",
+    "La Junta y sus comisiones tienen derecho a exigir información y documentación a la Administración asturiana.",
+    "Los miembros del Consejo de Gobierno están obligados a responder preguntas e interpelaciones parlamentarias."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía para Asturias (artículo 31.2 y 34.2)"
+  ],
+  "derogations": [],
+  "main_obligations": "El Consejo de Gobierno tiene la obligación de responder ante la Junta General mediante interpelaciones y preguntas. Los miembros del Consejo deben someterse a los procedimientos de control parlamentario y rendir cuentas de su gestión.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Procedimiento de Moción de Censura",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la moción",
+          "description": "Propuesta por al menos el 15% de los miembros de la Junta con un candidato alternativo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escrito motivado con candidatura aceptada"
+        },
+        {
+          "step": 2,
+          "title": "Admisión y posibles alternativas",
+          "description": "La Mesa admite la moción y permite presentar alternativas en un plazo de 2 días.",
+          "start_date": null,
+          "end_date": "2 días tras la presentación",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Debate y votación",
+          "description": "Debate público y votación por llamamiento tras al menos 5 días de la presentación.",
+          "start_date": "5 días tras la presentación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Cuestión de Confianza",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación",
+          "description": "El Presidente plantea la cuestión sobre su programa o política general.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escrito motivado y certificación del Consejo de Gobierno"
+        },
+        {
+          "step": 2,
+          "title": "Convocatoria de debate",
+          "description": "La Mesa convoca al Pleno tras un mínimo de 24 horas desde la presentación.",
+          "start_date": "24 horas tras la presentación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Votación",
+          "description": "Votación pública por llamamiento que requiere mayoría simple para ser otorgada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

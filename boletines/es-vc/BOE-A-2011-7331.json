@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-2011-7331",
+  "title": "Ley 7/2011, de 1 de abril, de los Servicios de Prevención, Extinción de Incendios y Salvamento de la Comunitat Valenciana",
+  "visible_title": "Ley de Servicios de Prevención, Extinción de Incendios y Salvamento de la Comunitat Valenciana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "7/2011",
+  "publication_date": "2011-04-25",
+  "enactment_date": "2011-04-01",
+  "last_updated": "2019-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2011/04/01/7",
+  "official_journal": "Diari Oficial de la Comunitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco regulador para todos los servicios de bomberos de la Comunidad Valenciana, unificando su organización y funcionamiento. Busca garantizar que la actuación ante emergencias sea homogénea en todo el territorio, ya sea mediante servicios municipales o consorcios provinciales. Además, regula profesionalmente la carrera de los bomberos, desde su acceso y formación hasta sus condiciones laborales y régimen disciplinario.",
+  "citizen_impact": "Mejora la seguridad ciudadana al garantizar una respuesta de emergencia más coordinada, profesional y eficiente en toda la región. Los ciudadanos cuentan con servicios de salvamento con estándares técnicos y operativos uniformes.",
+  "professional_impact": "Los bomberos (profesionales, voluntarios y de empresa) obtienen un marco jurídico claro que define sus escalas, categorías y derechos. Se establecen requisitos específicos de acceso (como permisos de conducción), formación obligatoria a través del IVA SPE y un régimen de 'segunda actividad' para gestionar la jubilación o incapacidades sin perder la condición de operativo.",
+  "keywords": [
+    "bomberos",
+    "prevención de incendios",
+    "salvamento",
+    "emergencias",
+    "Comunitat Valenciana",
+    "protección civil",
+    "funcionarios"
+  ],
+  "key_points": [
+    "Unificación de la estructura de los servicios de bomberos en toda la Comunidad Valenciana.",
+    "Creación de un Registro de Bomberos y un documento de acreditación profesional con validez de 5 años.",
+    "Reconocimiento de los bomberos como agentes de la autoridad durante su servicio.",
+    "Establecimiento de escalas jerárquicas claras: Inspección, Mando y Básica.",
+    "Obligatoriedad de formación específica impartida por el IVA SPE.",
+    "Implementación de la situación de 'segunda actividad' para personal por edad (desde los 55 años) o enfermedad.",
+    "Uso obligatorio del sistema informático común '1·1·2 Comunitat Valenciana'.",
+    "Regulación de la figura del bombero voluntario y del bombero de empresa.",
+    "Garantía de defensa jurídica y seguros de responsabilidad civil para el personal en ejercicio de sus funciones."
+  ],
+  "legal_references": [
+    "Ley 13/2010, de 23 de noviembre, de la Generalitat, de Protección Civil y Gestión de Emergencias",
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunitat Valenciana",
+    "Ley 10/2010, de 9 de julio, de la Generalitat, de Ordenación y Gestión de la Función Pública Valenciana",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal",
+    "Estatuto Básico del Empleado Público"
+  ],
+  "derogations": [],
+  "main_obligations": "Los servicios de bomberos deben utilizar obligatoriamente el sistema 1·1·2 y la Red de Comunicaciones Digitales de la Generalitat. El personal debe cumplir con los requisitos de formación y mantener la aptitud física necesaria para el servicio.",
+  "effective_date": "2011-04-26",
+  "procedures": [
+    {
+      "name": "Acceso a las escalas de bomberos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Oposición o Concurso-oposición",
+          "descrption": "Superación de pruebas psico-técnicas, físicas, conocimientos técnicos y reconocimiento médico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Titulaciones académicas y permisos de conducción según categoría (B, C o C+E)."
+        },
+        {
+          "step": 2,
+          "title": "Curso selectivo de formación",
+          "descrption": "Formación teórica y práctica impartida por el IVA SPE.",
+          "start_date": "Tras superar la oposición",
+          "end_date": "Mínimo 250 horas para escala básica; 150 horas por fase para mando e inspección",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acceso a la segunda actividad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y valoración médica",
+          "descrption": "Evaluación por un tribunal médico para determinar la aptitud psicofísica.",
+          "start_date": "En cualquier momento (por enfermedad) o desde los 55 años (por edad)",
+          "end_date": null,
+          "required_documentation": "Informe médico"
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "descrption": "Dictamen de 'apto' o 'no apto' por el tribunal médico.",
+          "start_date": null,
+          "end_date": "Máximo 3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

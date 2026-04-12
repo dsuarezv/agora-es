@@ -1,0 +1,113 @@
+{
+  "identifier": "BOE-A-2012-2257",
+  "title": "Ley 3/1992, de 1 de julio, del Derecho Civil Foral del País Vasco",
+  "visible_title": "Derecho Civil Foral del País Vasco",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "3/1992",
+  "publication_date": "2012-02-15",
+  "enactment_date": "1992-07-01",
+  "last_updated": "2015-07-03",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1992/07/01/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley unifica y moderniza las reglas de sucesiones y propiedad familiar en Bizkaia, Álava y Gipuzkoa, adaptando las tradiciones forales a la sociedad actual. Su objetivo es proteger la continuidad de los bienes raíces familiares (caseríos) y otorgar mayor libertad para organizar la herencia. Introduce mecanismos para que la gestión de los bienes sea más flexible y protege específicamente los derechos de cónyuges y descendientes. Además, reconoce la plena validez jurídica de los actos realizados en lengua vasca.",
+  "citizen_impact": "Afecta directamente a las familias vascas en la gestión de sus herencias y propiedades. Permite que los parientes con derecho de preferencia (tronqueros) puedan adquirir bienes familiares antes que terceros. Ofrece mayor seguridad jurídica al cónyuge viudo mediante derechos de usufructo y habitación, y permite a los ciudadanos del Fuero de Ayala decidir con mayor libertad sobre su testamento, pudiendo incluso apartar a herederos forzosos.",
+  "professional_impact": "Los notarios y abogados deben aplicar reglas específicas de 'llamamiento' y 'fianza' para la venta de bienes sujetos a sacas forales. Los comisarios designados en testamentos deben cumplir con la obligación de realizar inventarios en plazos estrictos. Se requiere especial conocimiento de las diferencias territoriales entre los regímenes de Bizkaia, Álava y Gipuzkoa para la gestión de sucesiones.",
+  "keywords": [
+    "Derecho Civil Foral",
+    "Sucesiones",
+    "Troncalidad",
+    "Fuero de Ayala",
+    "Caserío",
+    "Testamento",
+    "Saca Foral",
+    "Derecho Vasco"
+  ],
+  "key_points": [
+    "Derecho de adquisición preferente (sacas forales) para parientes tronqueros sobre bienes raíces familiares.",
+    "En el Fuero de Ayala, es posible apartar a los herederos forzosos (descendientes, ascendientes y cónyuge) mediante testamento.",
+    "Creación del 'usufruto poderoso' en Ayala para disponer de bienes en favor de descendientes.",
+    "El testamento por comisario ('alka-poderoso') permite al cónyuge gestionar la herencia con amplias facultades.",
+    "Inclusión de los hijos adoptivos como parientes tronqueros con plenos derechos sucesorios.",
+    "Derecho de usufructo para el cónyuge viudo: mitad de los bienes si hay descendientes/ascendientes, o dos tercios si solo hay colaterales.",
+    "Derecho de habitación para el cónyuge viudo sobre la vivienda familiar en el régimen de caserío guipuzcoano.",
+    "Uso del 'testamento mancomunado' para que los cónyuges ordenen su sucesión conjuntamente.",
+    "Reconocimiento de plena validez jurídica a los actos y contratos formalizados en lengua vasca.",
+    "Exclusión de fincas en suelo urbano o urbanizable programado del régimen de adquisición preferente.",
+    "Derecho de adquisición preferente para arrendatarios con contratos de más de 40 años de vigencia."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 149.1.8)",
+    "Estatuto de Autonomía del País Vasco (art. 10.5)",
+    "Código Civil de 1888",
+    "Compilación de 1959",
+    "Ley 5/2015, de 25 de junio",
+    "Concordia de 1630",
+    "Ley 6/1988, de 18 de marzo",
+    "Código Civil español",
+    "Ley de 30 de julio de 1959, sobre Compilación del Derecho Civil Foral de Bizkaia y Álava"
+  ],
+  "derogations": [
+    "Compilación de 1959"
+  ],
+  "main_obligations": "Los comisarios deben realizar un inventario de la herencia en un plazo de 6 meses desde que conocen su designación. Los parientes que quieran ejercer el derecho de adquisición preferente deben depositar una fianza del 20% del valor catastral ante Notario.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Procedimiento de Saca Foral (Adquisición Preferente)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Llamamiento Notarial",
+          "description": "El vendedor debe realizar un llamamiento mediante edictos publicados en el Ayuntamiento y, si procede, la parroquia.",
+          "start_date": "Inicio del trámite",
+          "end_date": "15 días de exposición pública",
+          "required_documentation": "Acta notarial con datos de la finca, valor catastral y título de adquisición."
+        },
+        {
+          "step": 2,
+          "title": "Manifestación de interés",
+          "description": "Los parientes tronqueros deben comparecer ante el Notario para ejercer su derecho.",
+          "start_date": "Tras el vencimiento del plazo de publicación",
+          "end_date": "10 días hábiles",
+          "required_documentation": "Depósito de fianza del 20% del valor catastral."
+        },
+        {
+          "step": 3,
+          "title": "Tasación del bien",
+          "description": "Designación de peritos para valorar la finca si no hay acuerdo en el precio.",
+          "start_date": "Tras la manifestación de interés",
+          "end_date": "20 días hábiles",
+          "required_documentation": "Designación de peritos por las partes o por el Notario."
+        },
+        {
+          "step": 4,
+          "title": "Otorgamiento de escritura",
+          "description": "Formalización de la compraventa tras conocer el precio de la tasación.",
+          "start_date": "Tras la notificación del resultado de la tasación",
+          "end_date": "15 días",
+          "required_documentation": "Escritura pública."
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de impugnación por falta de llamamiento (Saca Foral)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Demanda de nulidad",
+          "description": "El pariente con derecho preferente solicita la nulidad de la venta y la adjudicación de la finca.",
+          "start_date": "Desde la inscripción en el Registro de la Propiedad o conocimiento de la venta",
+          "end_date": "3 meses",
+          "required_documentation": "Juicio ordinario ante los tribunales."
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

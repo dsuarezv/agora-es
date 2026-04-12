@@ -1,0 +1,389 @@
+{
+  "identifier": "BOE-A-2010-14628",
+  "title": "Ley 4/2010, de 29 de junio, de Cooperativas",
+  "visible_title": "Ley de Cooperativas",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "4/2010",
+  "publication_date": "2010-09-24",
+  "enactment_date": "2010-06-29",
+  "last_updated": "2021-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2010/06/29/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula el funcionamiento de las cooperativas en el Principado de Asturias, otorgándoles autonomía para decidir su modelo de gestión y estructura financiera. Establece reglas claras sobre la entrada y salida de socios, la toma de decisiones en asambleas (incluyendo modalidades telemáticas) y la protección del capital social. Además, define modelos específicos para sectores como el agrario, de vivienda o de trabajo, garantizando la seguridad de los socios y acreedores ante cambios estructurales como fusiones o disoluciones.",
+  "citizen_impact": "Los ciudadanos que quieran formar una cooperativa en Asturias tienen un marco legal que les permite elegir su forma de administración y proteger su capital. Los socios de cooperativas de vivienda tienen mayor seguridad gracias a la obligación de avales o seguros, y los socios de cooperativas de trabajo tienen garantizada una compensación mínima (SMI) en caso de pérdidas.",
+  "professional_impact": "Las empresas cooperativas deben adaptarse a nuevos estándares contables (NIC 32) para proteger su solvencia y cumplir con obligaciones de registro y transparencia. Los administradores asumen responsabilidades legales estrictas, como la obligación de presentar cuentas anuales en 3 meses y la prohibición de competir con la cooperativa sin permiso. Se imponen sanciones de hasta 30.000 euros por infracciones graves.",
+  "keywords": [
+    "cooperativas",
+    "Asturias",
+    "economía social",
+    "socio de trabajo",
+    "administración de cooperativas",
+    "voto plural",
+    "fusión de cooperativas"
+  ],
+  "key_points": [
+    "Libertad para elegir entre cuatro modelos de administración: consejo rector, administrador único, dos administradores solidarios o dos mancomunados.",
+    "Posibilidad de restringir la baja voluntaria de socios mediante estatutos, permitiendo solo la transmisión de aportaciones.",
+    "Creación de diversas categorías de socios: trabajo, temporales (máx. 3 años), colaboradores e inactivos.",
+    "Permiso para celebrar asambleas de forma presencial, telemática o híbrida.",
+    "Uso de voto plural ponderado en cooperativas de primer grado (límite de 10 votos por socio y tope del 50% del total).",
+    "Protección de socios ante fusiones o transformaciones: derecho de separación en 40 días si votan en contra.",
+    "Regulación específica para cooperativas de vivienda: obligación de separar contablemente cada promoción y garantizar fondos mediante aval o seguro.",
+    "Límite de asalariados en cooperativas de trabajo asociado: no pueden superar el 30% de las horas totales de los socios trabajadores.",
+    "Protección de acreedores en procesos de fusión: pueden oponerse en un plazo de 2 meses exigiendo garantías.",
+    "Establecimiento de un capital social mínimo de 3.000 euros para la constitución.",
+    "Régimen sancionador con multas de hasta 30.000 euros por infracciones muy graves.",
+    "Posibilidad de crear 'secciones' sin personalidad jurídica para actividades con contabilidad diferenciada."
+  ],
+  "legal_references": [
+    "Constitución Española de 1978",
+    "Estatuto de Autoasnomía del Principado de Asturias",
+    "Ley Orgánica 9/1992, de 23 de diciembre",
+    "Real Decreto 2087/1999, de 30 de diciembre",
+    "Normas Internacionales de Contabilidad (NIC 32)",
+    "Ley de Enjuiciamiento Civil",
+    "Ley de Sociedades Anónimas",
+    "Código de Comercio",
+    "Legislación concursal",
+    "Estatuto de los Trabajadores",
+    "Legislación de prevención de riesgos laborales",
+    "Artículo 151.1 de la Ley 4/2010",
+    "Artículo 545 del Código Civil",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas",
+    "Reglamento del procedimiento sancionador general de la Administración del Principado de Asturias"
+  ],
+  "derogations": [],
+  "main_obligations": "Las cooperativas deben inscribirse en el Registro de Cooperativas de Asturias para tener personalidad jurídica. Los administradores deben presentar las cuentas anuales en un plazo de 3 meses tras el cierre y registrar su nombramiento en el Registro en un mes tras su aceptación.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Admisión de nuevos socios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de ingreso",
+          "description": "El interesado presenta solicitud por escrito al órgano de administración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud por escrito"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la administración",
+          "description": "El órgano de administración debe resolver la admisión o denegación motivada.",
+          "start_date": "Desde la recepción de la solicitud",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Recurso contra la denegación",
+          "description": "En caso de negativa, el solicitante puede recurrir ante el comité de recursos o la asamblea general.",
+          "start_date": "20 días desde la notificación",
+          "end_date": "1 mes para el comité / primera reunión para la asamblea",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Baja voluntaria del socio",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "El socio comunica su voluntad de abandonar la cooperativa por escrito.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escrito dirigido al órgano de administración"
+        },
+        {
+          "step": 2,
+          "title": "Cumplimiento de preaviso",
+          "description": "El socio debe respetar el plazo de preaviso estatutario (máximo 6 meses, o 1 año en agrarias).",
+          "start_date": null,
+          "end_date": "Máximo 6 meses (o 1 año en agrarias)",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Calificación de la baja",
+          "description": "La administración determina si la baja es justificada o no en un plazo determinado.",
+          "start_date": "Desde la recepción de la solicitud",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tipificación de la falta",
+          "description": "La infracción debe estar previamente definida en los estatutos como leve, grave o muy grave.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Audiencia del interesado",
+          "description": "Se debe permitir al socio alegar ante la administración antes de sancionar.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Alegaciones por escrito (en faltas graves o muy graves)"
+        },
+        {
+          "step": 3,
+          "title": "Recurso de la sanción",
+          "description": "El socio puede impugnar la sanción ante el comité de recursos o la asamblea.",
+          "start_date": "1 mes desde la notificación",
+          "end_date": "2 meses (comité) / primera reunión (asamblea)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Convocatoria de Asamblea General Ordinaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria por administración",
+          "description": "El órgano de administración debe convocar la reunión dentro de los 6 meses siguientes al cierre del ejercicio.",
+          "start_date": "6 meses tras el cierre del ejercicio",
+          "end_date": null,
+          "required_documentation": "Orden del día y documentación para consulta"
+        },
+        {
+          "step": 2,
+          "title": "Requerimiento de interventores",
+          "description": "Si no se convoca en plazo, los interventores deben instar a la administración a hacerlo.",
+          "start_date": "Tras el vencimiento del plazo de 6 meses",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Acción judicial",
+          "description": "Si la administración no convoca en 15 días tras el requerimiento, se solicita la convocatoria a la jurisdicción competente.",
+          "start_date": "15 días tras el requerimiento",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Impugnación de acuerdos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Impugnación de acuerdos nulos",
+          "description": "Cualquier socio o administrador puede impugnar acuerdos contrarios a la ley.",
+          "start_date": "Desde la adopción del acuerdo",
+          "end_date": "1 año",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Impugnación de acuerdos anulables",
+          "description": "Solo pueden hacerlo socios que consten su oposición en acta o entreguen documento en 4 días, además de ausentes o privados de voto.",
+          "start_date": "Desde la adopción del acuerdo",
+          "end_date": "40 días",
+          "required_documentation": "Constancia en acta o documento fehaciente"
+        }
+      ]
+    },
+    {
+      "name": "Reembolso de aportaciones por baja",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Liquidación de aportaciones",
+          "description": "Se determina el importe según el balance de cierre del ejercicio de la baja, deduciendo pérdidas imputables.",
+          "start_date": "Tras la aprobación de las cuentas del ejercicio de la baja",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comunicación de liquidación",
+          "description": "La administración debe comunicar la liquidación efectuada al socio.",
+          "start_date": "Tras la aprobación de las cuentas",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Pago del reembolso",
+          "description": "El plazo de pago no puede exceder de 5 años (o 1 año en caso de fallecimiento).",
+          "start_date": "Desde la fecha de la baja",
+          "end_date": "5 años",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Proceso de Fusión",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Redacción del proyecto",
+          "description": "Los administradores redactan el proyecto de fusión y se abstienen de realizar actos que comprometan la aprobación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de fusión con menciones mínimas legales"
+        },
+        {
+          "step": 2,
+          "title": "Derecho de información",
+          "description": "Se pone a disposición de los socios el proyecto, informes de administración/auditoría, balances y estatutos.",
+          "start_date": "Antes de la convocatoria de la asamblea",
+          "end_date": null,
+          "required_documentation": "Proyecto de fusión, informes de administradores/auditores, balances, memoria y proyecto de estatutos"
+        },
+        {
+          "step": 3,
+          "title": "Aprobación en Asamblea",
+          "description": "La asamblea general debe aprobar el proyecto sin modificaciones por mayoría de dos tercios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Publicidad y derecho de separación/oposición",
+          "description": "Publicación del acuerdo y apertura de plazos para socios (separación) y acreedores (oposición).",
+          "start_date": "Desde la publicación del anuncio",
+          "end_date": "40 días para socios / 2 meses para acreedores",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Inscripción",
+          "description": "Formalización en escritura pública e inscripción en el Registro de Sociedades Cooperativas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública con balance de fusión"
+        }
+      ]
+    },
+    {
+      "name": "Proceso de Disolución y Liquidación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de Asamblea",
+          "description": "El órgano de administración debe convocar asamblea para adoptar el acuerdo de disolución.",
+          "start_date": "Plazo de 30 días tras la causa de disolución",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Acuerdo de disolución",
+          "description": "Adopción del acuerdo por la asamblea mediante mayoría de más de la mitad de votos presentes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública"
+        },
+        {
+          "step": 3,
+          "title": "Nombramiento de liquidadores",
+          "description": "Los administradores pasan a ser liquidadores salvo pacto en contrario.",
+          "start_date": "Desde la disolución",
+          "end_date": "Máximo 1 mes para elección si no hay designación",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Balance inicial de liquidación",
+          "description": "Presentación del balance inicial y memoria explicativa para aprobación de la asamblea.",
+          "start_date": "Desde la disolución",
+          "end_date": "3 meses",
+          "required_documentation": "Balance inicial y memoria explicativa"
+        },
+        {
+          "step": 5,
+          "title": "Balance final y adjudicación",
+          "description": "Aprobación del balance final, informe de operaciones y proyecto de adjudicación del haber social.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Balance final, informe de operaciones y proyecto de adjudicación"
+        },
+        {
+          "step": 6,
+          "title": "Publicidad y cierre",
+          "description": "Publicación del balance final y espera de plazos de impugnación antes de la extinción.",
+          "start_date": "Tras la aprobación del balance final",
+          "end_date": "40 días para impugnación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de estatutos sociales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de convocatoria",
+          "description": "Cualquier consejero o socio puede solicitar al órgano de administración la convocatoria de la Asamblea General para adaptar estatutos.",
+          "start_date": "Dentro de los 3 años tras la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de inacción",
+          "description": "Si tras 2 meses no se convoca, el interesado puede acudir al Juez competente.",
+          "start_date": "2 meses desde la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Acuerdo en Asamblea",
+          "description": "Se requiere el voto favorable de más de la mitad de los votos presentes y representados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de descualificación de cooperativas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del expediente",
+          "description": "Se requiere informe preceptivo de la Inspección de Trabajo y de la organización representativa.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Trámite de audiencia",
+          "description": "Comparecencia del órgano de administración o de al menos tres socios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "La decisión final corresponde al titular de la Consejería competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 4
+}

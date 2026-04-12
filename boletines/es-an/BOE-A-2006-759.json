@@ -1,0 +1,104 @@
+{
+  "identifier": "BOE-A-2006-759",
+  "title": "Ley 15/2005, de 22 de diciembre, de Artesanía de Andalucía",
+  "visible_title": "Ley de Artesanía de Andalucía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "15/2005",
+  "publication_date": "2006-01-19",
+  "enactment_date": "2005-12-22",
+  "last_updated": "2021-12-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2005/12/22/15",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley organiza y promueve el sector artesanal en Andalucía, buscando modernizarlo y mejorar su competitividad. Establece un marco para identificar qué actividades son realmente artesanales y crea herramientas de reconocimiento como el Registro de Artesanos y la Carta de Maestro Artesano. Además, introduce distintivos de calidad y zonas de interés para proteger el valor cultural y económico de los productos hechos a mano.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en la capacidad de identificar productos auténticos mediante sellos de calidad y zonas de interés artesanal.",
+  "professional_impact": "Los artesanos y empresas del sector deben inscribirse en el Registro de Artesanía para acceder a subvenciones, ferias y distintivos de calidad. Se imponen obligaciones de comunicación de cambios de datos y se establece un régimen de sanciones económicas que pueden llegar hasta los 125.000 euros por infracciones muy graves, como el uso indebido de la condición de artesano.",
+  "keywords": [
+    "artesanía",
+    "Andalucía",
+    "Registro de Artesanos",
+    "Maestro Artesano",
+    "distintivos de calidad",
+    "oficios artesanales",
+    "sector artesano"
+  ],
+  "key_points": [
+    "Creación del Registro de Artesanía de Andalucía para el reconocimiento oficial de los profesionales.",
+    "Emisión de la Carta de Artesano con una vigencia de cuatro años renovables.",
+    "Establecimiento de la distinción de Maestro Artesano para profesionales con más de 15 años de experiencia y méritos extraordinarios.",
+    "Implementación de distintivos de calidad para garantizar la procedencia y autenticidad de los productos.",
+    "Declaración de Zonas y Puntos de Interés Artesanal para potenciar el turismo y la economía local.",
+    "Creación de la Comisión de Artesanía de Andalucía como órgano consultivo.",
+    "Obligatoriedad de inscribirse en el Registro para participar en ayudas y subvenciones públicas.",
+    "Régimen sancionador con multas que oscilan entre 250€ y 125.000€ según la gravedad."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Andalucía",
+    "Ley 1/1991, de 3 de julio, de Patrimonio Histórico de Andalucía",
+    "Ley 18/2003, de 29 de diciembre, de medidas fiscales y administrativas",
+    "Texto Refundido de la Ley del Comercio Interior de Andalucía"
+  ],
+  "derogatons": [
+    "Disposiciones de igual o inferior rango que se opongan a la presente Ley"
+  ],
+  "main_obligations": "Los artesanos deben mantener actualizada su inscripción en el Registro y comunicar cualquier cambio de datos o cese de actividad. Está prohibido usar la Carta de Artesano o Maestro Artesano si ha caducado o ha sido revocada, así como utilizar distintivos de calidad sin cumplir los requisitos.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Inscripción en el Registro de Artesanía de Andalucía",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inscripción",
+          "descrption": "El artesano o empresa solicita su inscripción en el registro público y gratuito.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la condición de artesano según el artículo 5"
+        },
+        {
+          "step": 2,
+          "title": "Expedición de la Carta de Artesano",
+          "descrption": "Una vez inscrito, la administración emite de oficio la carta con vigencia de 4 años.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Concesión de la Carta de Maestro Artesano",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud o propuesta de oficio",
+          "descrption": "Presentación de solicitud por el interesado o propuesta por asociaciones/instituciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Exposición razonada de méritos, antecedentes y cualificaciones"
+        },
+        {
+          "step": 2,
+          "title": "Verificación de requisitos",
+          "descrption": "Comprobación de los 15 años mínimos de ejercicio y méritos extraordinarios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Otorgamiento",
+          "descrption": "Resolución de la Consejería tras oír a la Comisión de Artesanía.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

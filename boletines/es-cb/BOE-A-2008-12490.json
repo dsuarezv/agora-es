@@ -1,0 +1,108 @@
+{
+  "identifier": "BOE-A-2008-12490",
+  "title": "Ley 1/2008, de 2 de julio, regulaforadora de los conflictos de intereses de los Miembros del Gobierno y de los Altos Cargos de la Administración de Cantabria",
+  "visible_title": "Ley reguladora de los conflictos de intereses de los Miembros del Gobierno y de los Altos Cargos de la Administración de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "1/2008",
+  "publication_date": "2008-07-21",
+  "enactment_date": "2008-07-02",
+  "last_updated": "2018-12-28",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2008/07/02/1",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "journal_issue": null,
+  "summary": "Esta norma establece un marco preventivo para evitar que los intereses privados de los altos cargos de Cantabria interfieran con el interés público. Implementa mecanismos de control como registros de bienes y actividades, un régimen estricto de incompatibilidades y deberes de abstención. Su objetivo es garantizar la transparencia, la imparcialidad y la integridad en la toma de decisiones de la Administración autonómica.",
+  "citizen_impact": "Aumenta la transparencia y la confianza ciudadana al permitir el acceso público a las declaraciones de intereses de quienes toman decisiones importantes en la región. Esto ayuda a vigilar que no se utilicen recursos públicos para beneficio privado.",
+  "professional_impact": "Afecta directamente a miembros del Gobierno y altos cargos, quienes deben cumplir con estrictas obligaciones de declaración patrimonial y de actividades. También impone limitaciones a las empresas que contratan con la administración si sus directivos tienen vínculos con altos cargos, y establece restricciones para los profesionales que dejen sus cargos públicos.",
+  "keywords": [
+    "conflictos de intereses",
+    "altos cargos",
+    "transparencia",
+    "Cantabria",
+    "incompatibilidades",
+    "ética pública",
+    "declaración de bienes"
+  ],
+  "key_points": [
+    "Obligación de presentar declaraciones de actividades, intereses y bienes y derechos patrimoniales.",
+    "Creación de dos registros: uno público para actividades e intereses y otro reservado para bienes patrimoniales.",
+    "Prohibición de realizar actividades privadas relacionadas con expedientes en los que se haya intervenido durante los dos años posteriores al cese.",
+    "Limitación de la participación en empresas contratistas: no se pueden administrar participaciones en empresas con contratos con la administración autonómica.",
+    "Los regalos o donaciones superiores a 240 euros deben entregarse a la Comunidad Autónoma.",
+    "Deber de abstención y de inhibición ante asuntos donde existan intereses privados o de familiares hasta el segundo grado.",
+    "Régimen sancionador que incluye la destitución del cargo y la prohibición de ocupar cargos públicos entre 5 y 10 años en casos graves."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Cantabria",
+    "Ley de Cantabria 6/2002",
+    "Ley de Cantabria 5/1984",
+    "Decreto 148/2003"
+  ],
+  "derogatons": [
+    "Ley de Cantabria 5/1984, de 18 de octubre, de incompatibilidades de altos cargos"
+  ],
+  "main_obligations": "Los altos cargos deben declarar sus bienes y actividades en un plazo de 3 meses tras su nombramiento y cada año. Tienen prohibido ejercer actividades privadas incompatibles y deben abstenerse de intervenir en asuntos donde tengan intereses personales o familiares.",
+  "effective_date": "2008-07-22",
+  "procedures": [
+    {
+      "name": "Declaración de actividades e intereses",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración",
+          "description": "El alto cargo debe presentar su declaración de actividades e intereses ante la Inspección General de Servicios.",
+          "start_date": "3 meses tras la toma de posesión",
+          "end_date": null,
+          "required_documentation": "Declaración de actividades profesionales, mercantiles o laborales de los 2 años anteriores y las previstas para el ejercicio del cargo."
+        }
+      ]
+    },
+    {
+      "name": "Declaración de bienes y derechos patrimoniales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración patrimonial",
+          "description": "Presentación de la totalidad de bienes, derechos, obligaciones y activos financieros.",
+          "start_date": "3 meses tras la toma de posesión",
+          "end_date": null,
+          "required_documentation": "Copia de la última declaración del IRPF y del Impuesto sobre el Patrimonio."
+        },
+        {
+          "step": 2,
+          "title": "Declaración de cese",
+          "description": "Presentación de la declaración al abandonar el cargo.",
+          "start_date": "3 meses tras el cese",
+          "end_date": null,
+          "required_documentation": "Declaración de bienes y derechos patrimoniales al momento del cese."
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del expediente",
+          "description": "La Inspección General de Servicios instruye el expediente sancionador.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la sanción",
+          "description": "El órgano competente (Consejo de Gobierno o Consejería) impone la sanción correspondiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,80 @@
+{
+  "identifier": "BOE-A-2020-17017",
+  "title": "Decreto-ley 13/2020, de 23 de noviembre, por el que se establecen medidas urgentes para paliar los efectos de la situación creada por la COVID-19 en el ámbito de los contratos de concesión de servicios de transporte público regular de personas por carretera de uso general",
+  "visible_title": "Medidas urgentes para el reequilibrio económico de las concesiones de transporte público por carretera en las Illes Balears",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "13/2020",
+  "publication_date": "2020-12-26",
+  "enactment_date": "2020-11-23",
+  "last_updated": "2020-11-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/dl/2020/11/23/13",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta norma establece un sistema de compensación económica para las empresas concesionarias de transporte público interurbano en las Islas Baleares que han sufrido pérdidas debido a la pandemia. El objetivo es evitar la quiebra de estas empresas y garantizar la continuidad del servicio ante la caída drástica de la demanda y las restricciones de ocupación. La ayuda se calcula comparando los costes y la actividad de 2018 con los ingresos reales obtenidos en 2020.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, más allá de garantizar que el servicio de autobús interurbano siga funcionando correctamente.",
+  "professional_impact": "Las empresas de transporte que operan bajo régimen de cuenta y riesgo tienen derecho a solicitar ayudas para cubrir su déficit de explotación. Deben presentar una solicitud detallada con memoria justificativa y datos contables auditados de 2018 en plazos muy estrictos para poder recibir la compensación.",
+  "keywords": [
+    "transporte público",
+    "concesiones",
+    "COVID-19",
+    "reequilibrio económico",
+    "Illes Balears",
+    "compensación económica",
+    "transporte por carretera"
+  ],
+  "key_points": [
+    "Compensación económica para concesiones de transporte interurbano que no tengan contrato-programa.",
+    "El cálculo se basa en la diferencia entre los costes totales proyectados (basados en 2018) y los ingresos reales de 2020.",
+    "Se divide la ayuda en dos tramos: uno para el periodo marzo-agosto 2020 y otro para septiembre-diciembre 2020.",
+    "Es requisito indispensable haber presentado la información contable de 2018 según la normativa vigente.",
+    "La norma también autoriza la creación de un texto refundido de la Ley de Consejos Escolares de las Illes Baleares."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020",
+    "Real Decreto Ley 8/2020",
+    "Real Decreto Ley 26/2020",
+    "Real Decreto Ley 22/2020",
+    "Ley 5/2015 de las Illes Balears",
+    "Estatuto de Autonomía de las Illes Balears",
+    "Orden PRE/907/2014"
+  ],
+  "derogations": [],
+  "main_obligations": "Las empresas deben solicitar la compensación en un plazo de un mes para el primer tramo y de tres meses para el segundo. Deben aportar una memoria justificativa con kilómetros de 2018 y 2020, y la declaración de la AEAT sobre el impuesto de hidrocarburos.",
+  "effective_date": "2020-11-23",
+  "procedures": [
+    {
+      "name": "Tramitación de la compensación económica extraordinaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud (Primer Tramo)",
+          "descrption": "Las empresas deben presentar la solicitud dirigida al órgano de contratación con toda la memoria justificativa.",
+          "start_date": "2020-11-23",
+          "end_date": "1 mes desde la entrada en vigor",
+          "required_documentation": "Nombre/NIF, memoria con kilómetros 2018 y 2020, copia de comunicación a AEAT (hidrocarburos) y declaración responsable."
+        },
+        {
+          "step": 2,
+          "title": "Presentación de la solicitud (Segundo Tramo)",
+          "descrption": "Procedimiento idéntico al primer tramo para el segundo periodo de compensación.",
+          "start_date": "2020-11-23",
+          "end_date": "3 meses desde la entrada en vigor",
+          "required_documentation": "Misma que el primer tramo."
+        },
+        {
+          "step": 3,
+          "title": "Resolución del órgano de contratación",
+          "descrption": "Verificación de datos y resolución de la solicitud.",
+          "start_date": "Tras el cierre del plazo de solicitud",
+          "end_date": "3 meses tras el cierre del plazo",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

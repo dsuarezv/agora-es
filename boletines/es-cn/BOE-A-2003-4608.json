@@ -1,0 +1,111 @@
+{
+  "identifier": "BOE-A-2003-4608",
+  "title": "Ley 3/2003, de 12 de febrero, del Estatuto de los Consumidores y Usuarios de la Comunidad Autónoma de Canarias",
+  "visible_title": "Estatuto de los Consumidores y Usuarios de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "3/2003",
+  "publication_date": "2003-03-06",
+  "enactment_date": "2003-02-12",
+  "last_updated": "2012-06-26",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2003/02/12/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para proteger los derechos de los consumidores en Canarias, garantizando su seguridad, salud e intereses económicos. Introduce mecanismos de control preventivo, un modelo único de hojas de reclamación y fomenta la resolución de conflictos mediante la mediación y el arbitraje. Además, refuerza la capacidad de inspección de la administración y regula las sanciones por incumplimiento de las normas de consumo.",
+  "citizen_impact": "Garantiza que cualquier producto o servicio comprado en Canarias sea seguro y cuente con información veraz sobre su precio y características. Facilita el proceso de queja mediante un modelo único de hojas de reclamación y ofrece vías rápidas para resolver disputas sin ir a juicio mediante el sistema de arbitraje.",
+  "professional_impact": "Las empresas y autónomos deben asegurar que sus productos cumplen con la normativa de seguridad y medioambiental, además de exhibir precios de forma clara. Se imponen obligaciones estrictas de información (facturas, garantías, presupuestos) y se establece un régimen sancionador que puede alcanzar los 600.000 euros por infracciones muy graves.",
+  "keywords": [
+    "consumidores",
+    "usuarios",
+    "derechos del consumidor",
+    "Canarias",
+    "protección al consumidor",
+    "hojas de reclamación",
+    "arbitraje de consumo",
+    "inspección de consumo"
+  ],
+  "key_points": [
+    "Implementación de un modelo único de hojas de reclamación para todos los sectores en Canarias.",
+    "Obligación de informar de forma clara y visible sobre el precio total, incluyendo impuestos y cargas.",
+    "Derecho a recibir garantía por escrito en productos duraderos y presupuestos previos en servicios.",
+    "Potestad de la administración para adoptar medidas provisionales (como la suspensión de venta) ante riesgos de salud o seguridad.",
+    "Fomento de la resolución de conflictos mediante la mediación y el Sistema Arbitral de Consumo.",
+    "Establecimiento de sanciones económicas que pueden llegar hasta 600.000 euros.",
+    "Obligación de los comercios de permitir la devolución de productos defectuosos o que no se ajusten al pedido.",
+    "Protección especial para colectivos en situación de vulnerabilidad o indefensión."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 26/1984, General para la Defensa de los Consumidores y Usuarios",
+    "Ley Orgánica 10/1982, del Estatuto de Auto autonomía de Canarias",
+    "Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley 4/1994, de Ordenación de la Actividad Comercial de Canarias"
+  ],
+  "derogations": [],
+  "main_obligations": "Los proveedores deben garantizar productos seguros y ofrecer información veraz sobre precios y características. Se prohíbe la publicidad engañosa y se obliga a la entrega de facturas, garantías y presupuestos. Las sanciones por infracciones leves llegan a 3.000€, graves hasta 15.000€ y muy graves hasta 600.000€.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Detección de la infracción",
+          "description": "Mediante inspección de oficio o denuncia de un consumidor.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de inspección o hoja de reclamación"
+        },
+        {
+          "step": 2,
+          "title": "Medidas provisionales (si procede)",
+          "description": "Suspensión de comercialización o servicios ante riesgo inminente.",
+          "start_date": null,
+          "end_date": "10 días hábiles para ratificación",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución del procedimiento",
+          "description": "Decisión de la autoridad competente sobre la existencia de infracción y sanción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inspección de Consumo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acceso y comprobación",
+          "description": "Entrada en establecimientos y solicitud de documentación mercantil.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentos contables, contratos, facturas"
+        },
+        {
+          "step": 2,
+          "title": "Toma de muestras",
+          "description": "Recogida de productos para análisis en laboratorio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Levantamiento de acta",
+          "description": "Documentación de los hechos observados por el inspector.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de inspección"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,76 @@
+{
+  "identifier": "BOE-A-2023-4379",
+  "title": "Ley 7/2022, de 16 de diciembre, de medidas fiscales para impulsar el turismo sostenible",
+  "visible_title": "Ley de medidas fiscales para impulsar el turismo sostenible",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat Valenciana",
+  "official_number": "7/2022",
+  "publication_date": "2023-02-20",
+  "enactment_date": "2022-12-16",
+  "last_updated": "2023-11-14",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2022/12/16/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma crea el Impuesto Valenciano sobre Estancias Turísticas (IVET) para financiar la sostenibilidad y mejora de los servicios turísticos en la Comunidad Valenciana. El impuesto grava las estancias en hoteles, apartamentos, viviendas de uso turístico, campings y otros alojamientos, así como el atraque de cruceros. Busca que la actividad turística contribuya directamente a la regeneración del medio ambiente, la mejora de infraestructuras y la lucha contra la precariedad laboral en el sector.",
+  "citizen_impact": "Los turistas que se alojen en la Comunidad Valenciana deberán pagar una tasa diaria según la categoría del establecimiento. No obstante, existen exenciones para menores de 16 años, personas con discapacidad (≥66%) y estancias por motivos de salud o causas de fuerza mayor.",
+  "professional_impact": "Los titulares de alojamientos turísticos (hoteles, apartamentos, etc.) actúan como sustitutos del contribuyente, asumiendo la obligación de recaudar, declarar y pagar el impuesto. Esto implica nuevas cargas administrativas de auto liquidación, gestión de exenciones y mantenimiento de registros para evitar sanciones de hasta 2.000 euros.",
+  "keywords": [
+    "turismo sostenible",
+    "impuesto turístico",
+    "IVET",
+    "Comunidad Valenciana",
+    "alojamiento turístico",
+    "tributación",
+    "cruceros"
+  ],
+  "key_points": [
+    "Creación del Impuesto Valenciano sobre Estancias Turísticas (IVET).",
+    "El impuesto es progresivo según la categoría del establecimiento.",
+    "Los ayuntamientos pueden aplicar un recargo voluntario de hasta el 100% sobre la cuota.",
+    "Exención total para menores de 16 años y personas con discapacidad superior al 66%.",
+    "Los ingresos se destinan exclusivamente a la promoción, protección y desarrollo del turismo sostenible.",
+    "Se incluye el fondeo de embarcaciones de cruceros como hecho imponible.",
+    "Los establecimientos deben identificar cada estancia para la gestión tributaria.",
+    "Las plataformas digitales no pueden cobrar el impuesto directamente, debe hacerlo el alojamiento."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunidad Valenciana",
+    "Ley 39/2015, de procedimiento administrativo común",
+    "Real Decreto Legislativo 2/2004, de Ley Reguladora de las Haciendas Locales",
+    "Ley 58/2003, de General Tributaria",
+    "Ley Orgánica 3/2018, de Protección de Datos Personales"
+  ],
+  "derogations": [
+    "Ley 7/2022 derogada por el Decreto-ley 12/2023, de 10 de noviembre"
+  ],
+  "main_obligations": "Los titulares de alojamientos deben presentar declaraciones censales, realizar la auto liquidación del impuesto y expedir justificantes de cobro al cliente. El incumplimiento de la designación de representante (si se reside fuera de España) conlleva una multa de 2.000 euros.",
+  "effective_date": "2023-11-15",
+  "procedures": [
+    {
+      "name": "Gestión y liquidación del IVET",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Auto liquidación",
+          "description": "Presentación de la declaración y pago del impuesto por parte del titular del alojamiento.",
+          "start_date": "Al inicio de cada estancia",
+          "end_date": null,
+          "required_documentation": "Datos de ocupación y registro de la estancia"
+        },
+        {
+          "step": 2,
+          "title": "Aplicación de recargo municipal",
+          "description": "Procedimiento opcional para ayuntamientos que decidan aumentar la tasa mediante ordenanza.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

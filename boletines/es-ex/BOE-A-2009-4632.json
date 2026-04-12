@@ -1,0 +1,90 @@
+{
+  "identifier": "BOE-A-2009-4632",
+  "title": "Ley 2/2009, de 2 de marzo, para la puesta en marcha de un Plan Extraordinario de Apoyo al Empleo Local",
+  "visible_title": "Plan Extraordinario de Apoyo al Empleo Local",
+  "rank": "ley",
+  "country": "es",
+  "department": "Junta de Extremadura",
+  "official_number": "2/2009",
+  "publication_date": "2009-03-19",
+  "enactment_date": "2009-03-02",
+  "last_updated": "2009-03-06",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2009/03/02/2",
+  "official_journal": "Diario Oficial de Extremadura",
+  "journal_issue": null,
+  "summary": "Esta ley crea un fondo de 48 millones de euros para financiar la contratación de desempleados en municipios y entidades locales de Extremadura. El objetivo es cubrir puestos de trabajo en servicios públicos municipales como cultura, turismo, mantenimiento, deporte y administración. La financiación es conjunta entre la Junta de Extremadura y diversas entidades de ahorro y cajas rurales.",
+  "citizen_impact": "Permite a los desempleados inscritos en el Servicio Extremeño Público de Empleo acceder a contratos temporales (de 6 a 12 meses) en servicios de su propio municipio. Se prioriza a personas con cargas familiares, mujeres, personas con discapacidad y quienes no perciban prestaciones actuales.",
+  "professional_impact": "Los ayuntamientos y entidades locales reciben fondos para cubrir costes laborales, pero deben seguir un proceso estricto de selección y justificación de gastos. Las entidades de la economía social también pueden gestionar estos servicios bajo condiciones específicas.",
+  "keywords": [
+    "empleo local",
+    "Extremadura",
+    "contratación municipal",
+    "desempleo",
+    "ayudas públicas",
+    "servicios públicos"
+  ],
+  "key_points": [
+    "Creación de un fondo de 48.000.000 € para la contratación de desempleados.",
+    "Los contratos deben durar entre 6 meses y un máximo de 1 año, sin prórroga.",
+    "Se prioriza a desempleados con cargas familiares, mujeres y personas con discapacidad.",
+    "Las contrataciones deben iniciarse antes de finalizar el primer semestre de 2009.",
+    "Los municipios pueden contratar directamente o a través de entidades de economía social.",
+    "Se permite la participación de Mancomunidades en proyectos generadores de empleo.",
+    "Los ayuntamientos beneficiarios no necesitan estar al corriente de pagos con Hacienda para recibir la ayuda."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Extremadura",
+    "Ley 5/2007, de 19 de abril, General de Hacienda Pública de Extremadura",
+    "Ley 5/2008, de 26 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de Extremadura"
+  ],
+  "derogatons": [],
+  "main_obligations": "Los municipios deben presentar una solicitud única de financiación en el plazo de un mes tras la entrada en vigor. Deben justificar documentalmente el uso de los fondos en un plazo de un mes tras finalizar las actuaciones, detallando cada contrato y trabajador.",
+  "effective_date": "2009-03-20",
+  "procedures": [
+    {
+      "name": "Solicitud de financiación para Municipios y Entidades Locales Menores",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "descrption": "Envío de la solicitud única de financiación mediante el modelo oficial.",
+          "start_date": "2009-03-20",
+          "end_date": "1 mes desde la entrada en vigor",
+          "required_documentation": "Certificación del acuerdo del Pleno o Junta de Gobierno"
+        },
+        {
+          "step": 2,
+          "title": "Comprobación y resolución",
+          "descrption": "La Consejería de Igualdad y Empleo verifica los requisitos y resuelve la solicitud.",
+          "start_date": "Desde la presentación",
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Abono de la ayuda",
+          "descrption": "Pago del fondo en tres tramos según la ejecución y justificación.",
+          "start_date": "15 días tras la resolución",
+          "end_date": "Durante el ejercicio 2010",
+          "required_documentation": "Justificación de gastos para los tramos sucesivos"
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de proyectos para Mancomunidades Integrales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria y solicitud",
+          "descrption": "Presentación de proyectos generadores de empleo tras la publicación de la convocatoria.",
+          "start_date": "Fecha de la convocatoria",
+          "end_date": "1 mes desde la publicación",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

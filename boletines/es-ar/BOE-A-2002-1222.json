@@ -1,0 +1,80 @@
+{
+  "identifier": "BOE-A-2002-1222",
+  "title": "Ley 21/2001, de 21 de diciembre, de Creación de la Comarca de la Ribera Alta del Ebro",
+  "visible_title": "Creación de la Comarca de la Ribera Alta del Ebro",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "21/2001",
+  "publication_date": "2002-01-22",
+  "enactment_date": "2001-12-21",
+  "last_updated": "2001-12-26",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2001/12/21/21",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea formalmente la Comarca de la Ribera Alta del Ebro como una nueva entidad local en Aragón para mejorar la gestión de servicios públicos entre varios municipios. Su objetivo es centralizar y profesionalizar la gestión de áreas como el urbanismo, la sanidad, la acción social y el medio ambiente, aprovechando los vínculos históricos y económicos de la zona. La norma establece su estructura de gobierno, su capitalidad en Alagón y su capacidad para asumir competencias de la Diputación o la Comunidad Autónoma.",
+  "citizen_impact": "Los ciudadanos de los municipios integrados (como Alagón, Gallur o Boquiñeni) verán una gestión más eficiente de servicios comunes como la recogida de basura, el transporte o la promoción turística. Esto busca que los servicios públicos sean de mayor calidad al ser gestionados de forma conjunta y profesional por la comarca.",
+  "professional_impact": "Los ayuntamientos locales pasan a colaborar con una nueva administración supramunicipal, pudiendo delegar funciones o recibir asesoramiento técnico y jurídico. Se crean nuevos puestos de trabajo en la comarca, incluyendo la figura de un Gerente y personal especializado en áreas de gestión técnica y administrativa.",
+  "keywords": [
+    "Comarca de la Ribera Alta del Ebro",
+    "Aragón",
+    "Entidad Local",
+    "Administración Local",
+    "Gestión de servicios públicos",
+    "Organización territorial"
+  ],
+  "key_points": [
+    "Se crea la Comarca de la Ribera Alta del Ebro integrada por 17 municipios.",
+    "Alagón se establece como la capital y sede oficial de los órganos de gobierno.",
+    "Se crea un Consejo Comarca con 25 miembros elegidos por los concejales de los municipios.",
+    "La comarca tiene capacidad para gestionar servicios de urbanismo, sanidad, acción social, medio ambiente y transporte.",
+    "Se establece la figura de un Gerente para la gestión técnica y ejecutiva de los servicios.",
+    "La comarca puede asumir competencias de la Comunidad Autónoma y de la Diputación de Zaragoza mediante comisiones mixtas.",
+    "Los municipios deben realizar aportaciones económicas obligatorias para financiar la comarca, proporcionales a su población y uso de servicios."
+  ],
+  "legal_references": [
+    "Ley 10/1993, de 4 de noviembre, de Comarcalización de Aragón",
+    "Ley 8/1996, de 2 de diciembre, de Delimitación Comarcal de Aragón",
+    "Ley 7/1999, de 9 de abril, de Administración Local de Aragón",
+    "Estatuto de Autonomía de Aragón"
+  ],
+  "derogations": [
+    "Las mancomunidades de intereses coincidentes en el territorio de la nueva comarca serán sucedidas por esta, asumiendo sus funciones y medios."
+  ],
+  "main_obligations": "Los municipios integrantes tienen la obligación de realizar aportaciones económicas anuales a la comarca. En caso de impago superior a un trimestre, el Presidente puede solicitar la retención de las transferencias que la Comunidad Autónoma o la Provincia deban entregar al municipio deudor.",
+  "effective_date": "2002-01-23",
+  "procedures": [
+    {
+      "name": "Constitución de la Comarca",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elección de Consejeros Comarcales",
+          "description": "La Junta Electoral convoca a los concejales para designar a los miembros del Consejo Comarca.",
+          "start_date": "1 mes tras la entrada en vigor de la Ley",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Constitución del Consejo Comarcal",
+          "description": "Sesión pública en la capital para la constitución formal del órgano de gobierno.",
+          "start_date": "1 mes tras la proclamación de electos",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Creación de Comisiones de Transferencia",
+          "description": "Constitución de comisiones paritarias para organizar el traspaso de servicios de la Comunidad Autónoma y la Diputación.",
+          "start_date": "1 mes tras la constitución del Consejo",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

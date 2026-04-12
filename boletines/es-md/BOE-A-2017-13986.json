@@ -1,0 +1,73 @@
+{
+  "identifier": "BOE-A-2017-13986",
+  "title": "Ley 7/2017, de 27 de junio, de Gratuidad de los Libros de Texto y el Material Curricular de la Comunidad de Madrid",
+  "visible_title": "Ley de Gratuidad de los Libros de Texto y el Material Curricular de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "7/2017",
+  "publication_date": "2017-12-01",
+  "enactment_date": "2017-06-27",
+  "last_updated": "2017-11-14",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2017/06/27/7",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley establece un sistema de préstamo gratuito de libros de texto y materiales curriculares para alumnos de Educación Primaria, ESO y FP Básica en centros públicos de la Comunidad de Madrid. El objetivo es garantizar la igualdad de oportunidades y la gratuidad real de la enseñanza básica mediante un modelo de gestión de recursos compartidos. En lugar de ayudas económicas, la Administración financia la compra de materiales que los centros gestionan y prestan al alumnado.",
+  "citizen_impact": "Las familias de alumnos en centros públicos de Madrid dejan de tener que comprar los libros de texto cada año, ya que los recibirán en préstamo de forma gratuita. Para beneficiarse del sistema en cursos sucesivos, los alumnos deberán devolver los libros del curso anterior en buen estado, salvo excepciones como los alumnos de 1º y 2º de Primaria o educación especial.",
+  "professional_impact": "Los centros docentes asumen la gestión directa del sistema de préstamo a través de una Comisión de Gestión dependiente del Consejo Escolar. Los directores y equipos docentes deben organizar el inventario, la recogida y la devolución de los materiales, además de integrar estas normas en su Reglamento de Régimen Interno.",
+  "keywords": [
+    "libros de texto",
+    "gratuidad",
+    "sistema de préstamo",
+    "material curricular",
+    "educación básica",
+    "Comunidad de Madrid"
+  ],
+  "key_points": [
+    "Sustitución de la compra de libros por un sistema de préstamo gratuito gestionado por los centros.",
+    "La propiedad de los libros pertenece a la Administración, no a las familias ni a los centros.",
+    "Los libros elegidos por los centros deben tener una vigencia mínima de cuatro cursos escolares para asegurar la estabilidad.",
+    "El sistema es voluntario para las familias y para los centros concertados.",
+    "Se permite el uso de libros en formato digital, incluyendo el coste de acceso a plataformas.",
+    "Los alumnos tienen la obligación de devolver los libros en buen estado para poder acceder al préstamo el siguiente curso.",
+    "Se crea una Comisión de Seguimiento para garantizar la transparencia y el control del gasto público."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 27.1 y 9.2)",
+    "Ley Orgánica 2/2006, de 3 de mayo, de Educación",
+    "Estatuto de Autonomía de la Comunidad de Madrid",
+    "Ley 3/2001, de 21 de junio, de Patrimonio de la Comunidad de Madrid",
+    "Orden 9726/2012, de 24 de agosto, de la Consejería de Educación y Empleo"
+  ],
+  "derogatations": [
+    "Cualquier disposición de igual o inferior rango que se oponga a esta ley"
+  ],
+  "main_obligations": "Los alumnos deben reintegrar los libros en buen estado al finalizar el curso o al dejar el centro. Las familias deben manifestar expresamente su voluntad de participar en el sistema de préstamo. Los centros deben incluir las normas de uso y conservación de los libros en su Reglamento de Régimen Interno.",
+  "effective_date": "2018-09-01",
+  "procedures": [
+    {
+      "name": "Implantación del sistema de préstamo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Preparación normativa y comunicativa",
+          "description": "Adopción de medidas organizativas y campañas de comunicación para informar a la comunidad educativa.",
+          "start_date": "2017-06-28",
+          "end_date": "2018-06-30",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Inicio de la aplicación efectiva",
+          "description": "Comienzo del funcionamiento del sistema de préstamo en todos los centros del ámbito de aplicación.",
+          "start_date": "2018-09-01",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

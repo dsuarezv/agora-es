@@ -1,0 +1,189 @@
+{
+  "identifier": "BOE-A-1986-6539",
+  "title": "Ley 3/1985, de 26 de diciembre, de Ordenación de la Función Pública de la Administración del Principado de Asturias",
+  "visible_title": "Ordenación de la Función Pública de la Administración del Principado de Asturias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "3/1985",
+  "publication_date": "1986-03-10",
+  "enactment_date": "1985-12-26",
+  "last_updated": "2023-03-24",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1985/12/26/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece las reglas de juego para todo el personal que trabaja en la Administración del Principado de Asturias, incluyendo funcionarios, personal laboral y eventual. Regula desde cómo se accede a un empleo público mediante méritos hasta cómo se progresa en la carrera profesional o se gestionan las bajas y excedencias. Su objetivo es organizar la estructura de la administración autonómica y garantizar derechos específicos como la conciliación y la protección ante denuncias de corrupción. Aunque es la base histórica del régimen estatutario asturiano, ha sido sustituida recientemente por una nueva normativa.",
+  "citizen_impact": "Afecta indirectamente a los ciudadanos al garantizar que la administración asturiana cuente con personal seleccionado por méritos y con un régimen de derechos y deberes claro. Asegura la continuidad de los servicios públicos mediante la regulación de situaciones como las bajas o las huelgas (servicios mínimos).",
+  "professional_impact": "Impacto directo y total para los empleados públicos de Asturias. Define su clasificación, su progresión salarial y profesional, sus derechos de conciliación (maternidad, paternidad, cuidado de hijos), sus protecciones ante la corrupción y sus obligaciones de residencia y servicio. También establece las reglas para la provisión de puestos de trabajo y los regímenes disciplinarios.",
+  "keywords": [
+    "función pública",
+    "Asturias",
+    "funcionarios",
+    "empleo público",
+    "régimen estatutario",
+    "carrera administrativa",
+    "conciliación"
+  ],
+  "key_points": [
+    "Clasificación del personal en cuatro categorías: funcionarios de carrera, interinos, personal laboral y personal eventual.",
+    "Creación de una carrera horizontal para progresar en categorías sin cambiar de puesto de trabajo.",
+    "Reserva de un cupo mínimo del 5% de plazas para personas con discapacidad (igual o superior al 33%).",
+    "Los puestos de trabajo de funcionarios se dividen en 30 niveles de clasificación.",
+    "La promoción interna permite ascender a grupos de titulaciones superiores tras cumplir requisitos y antigüedad.",
+    "Los puestos de libre designación deben ser motivados y contar con convocatoria pública.",
+    "Protección por denuncia: posibilidad de traslado a un puesto similar para funcionarios que denuncien delitos de altos cargos.",
+    "Derecho a la conciliación: excedencia de hasta 3 años por cuidado de hijos con reserva de puesto y cómputo de trienios el primer año.",
+    "Garantía salarial en bajas: cobro del 100% de la retribución en casos de incapacidad temporal.",
+    "Permisos por maternidad/paternidad: 16 semanas por parto (ampliables a 18) y 8 semanas por adopción de menores de 9 meses.",
+    "Régimen de excedencias: la voluntaria puede ser de 2 a 10 años, sin reserva de plaza ni antigüedad.",
+    "Protección frente a la jubilación: posibilidad de prorrogar el servicio activo mediante solicitud con 3-4 meses de antelación."
+  ],
+  "legal_references": [
+    "Ley 3/1985, de 26 de diciembre",
+    "Ley 2/2023, de 15 de marzo",
+    "Ley 4/1991, de 4 de abril",
+    "Ley 30/1984, de 2 de agosto",
+    "Estatuto de Autonomía para Asturias",
+    "Ley Orgánica de Libertad Sindical",
+    "Ley 9/1987",
+    "Ley 7/1990",
+    "Real Decreto-Legislativo 5/2015",
+    "Código Penal (Título XIX)",
+    "Estatuto de los Trabajadores"
+  ],
+  "derogations": [
+    "Ley 3/1985 (derogada por la Ley 2/2023 con efectos desde el 25 de abril de 2023)",
+    "Disposiciones de igual o inferior rango de la Comunidad Autónoma que se opongan a esta Ley"
+  ],
+  "main_obligations": "La Administración debe publicar anualmente la oferta de empleo público y las relaciones de puestos de trabajo. Los concursos de provisión de puestos deben resolverse en un plazo máximo de 12 meses. Los funcionarios deben residir en su término de destino y cumplir servicios mínimos en caso de huelga.",
+  "effective_date": "1986-03-10",
+  "procedures": [
+    {
+      "name": "Acceso a la Función Pública (Selección)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación de la oferta de empleo",
+          "descrption": "Publicación en el Boletín Oficial del Principado de Asturias tras la aprobación de la Ley de Presupuestos.",
+          "start_date": "Primer trimestre de cada año natural",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Convocatoria de pruebas selectivas",
+          "descrption": "Lanzamiento de las bases de la oposición o concurso.",
+          "start_date": "Primer trimestre de cada año",
+          "end_date": "1 de octubre de cada año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Provisión de puestos de trabajo por concurso",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitudes",
+          "descrption": "Plazo para que los funcionarios presenten su candidatura al concurso.",
+          "start_date": "Publicación de la convocatoria",
+          "end_date": "20 días hábiles",
+          "required_documentation": "Documentos que acrediten los méritos (estudios, experiencia, etc.)"
+        },
+        {
+          "step": 2,
+          "title": "Resolución del concurso",
+          "descrption": "Finalización del proceso de adjudicación de puestos.",
+          "start_date": null,
+          "end_date": "12 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reconocimiento de categoría personal (Carrera Horizontal)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de reconocimiento",
+          "descrption": "El interesado solicita a la Consejería competente el reconocimiento de su categoría.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "descrption": "Plazo máximo para que la Administración resuelva la solicitud.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de prolongación de servicios activos (Jubilación)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "El funcionario debe solicitar la prórroga de su permanencia antes de cumplir la edad de jubilación forzosa.",
+          "start_date": "3 meses antes de la edad de jubilación",
+          "end_date": "4 meses antes de la edad de jubilación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de traslado por denuncia de delitos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Denuncia y solicitud",
+          "description": "El empleado denuncia actuaciones de altos cargos y solicita el traslado a un puesto vacante similar.",
+          "start_date": "Desde la denuncia",
+          "end_date": null,
+          "required_documentation": "Denuncia ante Ministerio Fiscal o Juez"
+        }
+      ]
+    },
+    {
+      "name": "Reincorporación tras excedencia voluntaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de reintegro",
+          "description": "El interesado debe solicitar su vuelta al servicio activo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento disciplinario",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del expediente",
+          "description": "Apertura de expediente para determinar responsabilidad administrativa, garantizando la audiencia del interesado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "description": "Dictado de la sanción motivada y comunicación al interesado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

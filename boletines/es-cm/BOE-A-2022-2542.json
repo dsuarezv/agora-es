@@ -1,0 +1,104 @@
+{
+  "identifier": "BOE-A-2022-2542",
+  "title": "Ley 7/2021, de 3 de diciembre, de la Cámara de Cuentas de Castilla-La Manch la",
+  "visible_title": "Ley de la Cámara de Cuenta de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "7/2021",
+  "publication_date": "2022-02-17",
+  "enactment_date": "2021-12-03",
+  "last_updated": "2021-12-13",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2021/12/03/7",
+  "official_journal": "Boletín Oficial de la Comunidad de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley crea la Cámara de Cuentas de Castilla-La Mancha, un nuevo órgano técnico dependiente de las Cortes regionales para fiscalizar el uso del dinero público. Su objetivo es garantizar que la gestión económica de la Junta, los ayuntamientos y otras entidades públicas sea legal, eficiente y transparente. El órgano sustituye la antigua Sindicatura de Cuentas para ofrecer un control más cercano y especializado de los fondos autonómicos y locales.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, más allá de la mejora indirecta en la transparencia y el control de cómo se utilizan sus impuestos.",
+  "professional_impact": "Los gestores de fondos públicos, funcionarios y directivos de entidades locales están sujetos a una fiscalización más rigurosa. Las empresas que reciban subvenciones o tengan contratos con el sector público deben colaborar obligatoriamente con la Cámara, bajo riesgo de sanciones económicas.",
+  "keywords": [
+    "Cámara de Cuentas",
+    "fiscalización externa",
+    "sector público",
+    "Castilla-La Mancha",
+    "control económico",
+    "transparencia",
+    "auditoría"
+  ],
+  "key_points": [
+    "Creación de un órgano de control externo con plena autonomía funcional dependiente de las Cortes regionales.",
+    "Competencia para fiscalizar la actividad económica, financiera y contable de toda la administración autonómica y local.",
+    "Capacidad de inspeccionar a beneficiarios de subvenciones y empresas adjudicatarias de contratos públicos.",
+    "Obligación de colaboración de cualquier persona o entidad que gestione fondos públicos.",
+    "Introducción de multas coercitivas de entre 300 y 6.000 euros por incumplir el deber de colaboración.",
+    "Enfoque especial en la fiscalización de la igualdad de género y la sostenibilidad ambiental en la gestión de recursos.",
+    "El Presidente de la Cámara será elegido por las Cortes con mayoría de tres quintos o absoluta.",
+    "Posibilidad de instruir procedimientos de enjuiciamiento delegados por el Tribunal de Cuentas."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 5/1993, de 27 de diciembre, de la Sindicatura de Cuentas de Castilla-La Mancha",
+    "Ley 39/2015, de 1 de diciembre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Ley 4/2016, de 15 de diciembre, de Transparencia y Buen Gobierno de Castilla-La Mancha",
+    "Sentencia del Tribunal Constitucional 187/1988"
+  ],
+  "derogations": [
+    "Ley 5/1993, de 27 de diciembre, de la Sindicatura de Cuentas de Castilla-La Mancha (implícita por la creación del nuevo órgano)"
+  ],
+  "main_obligations": "Las entidades y personas sujetas a fiscalización deben suministrar toda la información solicitada por la Cámara. El incumplimiento o la falta de respuesta puede acarrear multas coercitivas de entre 300 y 6.000 euros.",
+  "effective_date": "2022-03-09",
+  "procedures": [
+    {
+      "name": "Procedimiento de Fiscalización",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Programación",
+          "description": "La Cámara elabora un programa anual de fiscalización que determina qué se va a controlar.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Instrucción",
+          "description": "Examen de expedientes, documentos y bases de datos para verificar la legalidad y eficiencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Expedientes, documentos contables, informes y aclaraciones."
+        },
+        {
+          "step": 3,
+          "title": "Informe Provisional",
+          "description": "Se comunica el anteproyecto de informe a los responsables para que presenten alegaciones.",
+          "start_date": "Tras la instrucción",
+          "end_date": "30 días (ampliable por justa causa)",
+          "required_documentation": "Alegaciones y documentos justificativos."
+        },
+        {
+          "step": 4,
+          "title": "Informe Definitivo",
+          "description": "Tras valorar las alegaciones, se emite el informe final que se eleva a las Cortes y al Tribunal de Cuentas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Designación de la Presidencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elección",
+          "description": "Elección por el Pleno de las Cortes de Castilla-La Mancha.",
+          "start_date": "Dentro de los 3 meses siguientes a la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

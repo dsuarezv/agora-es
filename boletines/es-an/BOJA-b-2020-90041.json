@@ -1,0 +1,101 @@
+{
+  "identifier": "BOJA-b-2020-90041",
+  "title": "Decreto-ley 1/2020, de 10 de febrero, para el impulso del proceso de justificación, comprobación, adecuación de la información contable y reintegro de los libraimientos con justificación posterior",
+  "visible_title": "Impulso de la justificación, comprobación y reintegro de fondos públicos y subvenciones",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "1/2020",
+  "publication_date": "2020-02-13",
+  "enactment_date": "2020-02-10",
+  "last_updated": "2023-06-20",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOJA-b-2020-90041",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": null,
+  "summary": "Esta norma busca limpiar y regularizar el enorme volumen de dinero público (casi 2.000 millones de euros) que ha sido entregado pero no ha sido justificado correctamente. Establece nuevos mecanismos para que la Administración compruebe más rápido si se ha usado bien el dinero y agiliza el proceso para recuperar esos fondos si se detectan irregularidades. Además, moderniza el sistema contable para que la Junta sepa exactamente en qué fase de revisión se encuentra cada ayuda o pago.",
+  "citizen_impact": "Si eres beneficiario de una subvención, esta norma te obliga a presentar la documentación en los plazos estrictos para evitar que te exijan la devolución del dinero. Por otro lado, introduce la posibilidad de devolver voluntariamente fondos no utilizados para evitar sanciones o intereses de demora.",
+  "professional_impact": "Las empresas y autónomos que gestionan ayudas públicas deben ser mucho más rigurosos con la documentación para evitar procesos de reintegro. Los funcionarios de la administración ahora tienen plazos de 6 meses para revisar la documentación y nuevas herramientas contables para gestionar los impagos y las deudas.",
+  "keywords": [
+    "subvenciones",
+    "justificación de fondos",
+    "reintegro",
+    "Hacienda Pública",
+    "Andalucía",
+    "control de gasto",
+    "devolución voluntaria"
+  ],
+  "key_points": [
+    "Obligación de la Administración de revisar la documentación de las subvenciones en un plazo máximo de 6 meses.",
+    "Creación de la figura de 'devolución voluntaria' para beneficiarios que quieran devolver fondos no usados sin esperar a ser requeridos.",
+    "Posibilidad de solicitar aplazamientos o fraccionamientos de los pagos de reintegro bajo ciertas condiciones económicas.",
+    "La Agencia Tributaria de Andalucía asume la gestión de la recaudación de los reintegros desde el momento de la notificación.",
+    "Se pueden suspender nuevos pagos a un beneficiario si ya tiene procedimientos de reintegro abiertos.",
+    "Se establece un plan de depuración contable para cerrar expedientes antiguos que ya han prescrito o son incobrables.",
+    "Se definen claramente las causas por las que un beneficiario es responsable de no haber justificado una ayuda a tiempo."
+  ],
+  "legal_references": [
+    "Decreto Legislativo 1/2010 (Ley General de la Hacienda Pública de la Junta de Andalucía)",
+    "Ley 38/2003 (Ley General de Subvenciones)",
+    "Decreto 40/2017 (Organización de la Tesorería General de la Junta de Andalucía)",
+    "Ley 39/2015 (Procedimiento Administrativo Común)",
+    "Estatuto de Autonomía de Andalucía"
+  ],
+  "derogations": [],
+  "main_obligations": "Los beneficiarios deben presentar la documentación justificativa en los plazos establecidos; de lo contrario, se les exigirá el reintegro de los fondos. La Administración debe realizar la comprobación formal en un plazo de 6 meses tras la presentación.",
+  "effective_date": "2020-02-13",
+  "procedures": [
+    {
+      "name": "Comprobación formal de la documentación justificativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de documentación",
+          "description": "El beneficiario aporta los justificantes del gasto realizado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación de gasto y justificantes de cumplimiento del objeto de la subvención"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de comprobación formal",
+          "description": "La Administración debe revisar la documentación presentada.",
+          "start_date": "Día siguiente a la presentación",
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de comprobación",
+          "description": "Se aprueba la cuenta o se inicia el procedimiento de reintegro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Proceso de depuración de libramienos pendientes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Clasificación de libramienos",
+          "description": "Los órganos gestores deben clasificar los pagos pendientes según su situación real.",
+          "start_date": "2020-02-13",
+          "end_date": "2021-12-31",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Actuaciones de regularización",
+          "description": "Requerimientos de documentación, inicio de reintegros o declaración de prescripción.",
+          "start_date": null,
+          "end_date": "2021-12-31",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

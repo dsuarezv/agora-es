@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-2014-9903",
+  "title": "Decreto-ley 4/2014, de 26 de agosto, por el que se regula la Rentas Básica Extremeña de Inserción",
+  "visible_title": "Renta Básica Extremeña de Inserción",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "4/2014",
+  "publication_date": "2014-10-01",
+  "enactment_date": "2014-08-26",
+  "last_updated": "2014-10-02",
+  "status": "amended",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/dl/2014/08/26/4",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta norma reforma la ayuda de renta básica en Extremadura para agilizar su concesión y simplificar la burocracia. Su objetivo es garantizar un mínimo de ingresos a personas en riesgo de exclusión social, facilitando el acceso mediante la asistencia de trabajadores sociales y la comprobación automática de datos. Además, amplía la duración de la ayuda de seis a doce meses para dar mayor estabilidad económica.",
+  "citizen_impact": "Las personas en situación de vulnerabilidad en Extremadura pueden recibir una ayuda económica mensual para cubrir necesidades básicas. El proceso se facilita con la ayuda de un trabajador social y se reduce la necesidad de aportar documentos que la Administración ya posee. La ayuda ahora dura un año completo sin necesidad de renovaciones constantes.",
+  "professional_impact": "Los trabajadores sociales asumen un rol clave al asistir en la solicitud y elaborar el 'Proyecto Individualizado de Inserción'. La Administración debe resolver en un plazo máximo de tres meses, y si no lo hace, el pago debe incluir las cantidades acumuladas desde el primer mes legal. Se establece un régimen sancionador para los beneficiarios que incumplan sus compromisos de inserción.",
+  "keywords": [
+    "renta básica",
+    "inserción social",
+    "ayudas económicas",
+    "exclusión social",
+    "Extremadura",
+    "servicios sociales"
+  ],
+  "key_points": [
+    "La ayuda mensual es del 75% del IPREM, con incrementos según el número de miembros de la unidad familiar.",
+    "La duración de la prestación se amplía de 6 a 12 meses.",
+    "Se introduce la figura del trabajador social para ayudar en la solicitud y crear un plan de inserción personalizado.",
+    "La Administración comprueba directamente los datos de Hacienda y Seguridad Social para evitar trámites innecesarios.",
+    "Si la Administración tarda más de 3 meses en resolver, el beneficiario cobrará retroactivamente todo el tiempo acumulado.",
+    "La ayuda es compatible con ciertas pensiones y prestaciones por hijo a cargo, pero incompatible con el desempleo de jornada completa o jubilaciones.",
+    "Se prohíbe la ayuda a quienes hayan dejado su trabajo voluntariamente en los últimos 6 meses o hayan rechazado ofertas de empleo.",
+    "El incumplimiento de los compromisos de inserción puede conllevar desde la pérdida de meses de ayuda hasta la extinción definitiva."
+  ],
+  "legal_references": [
+    "Ley 9/2014, de 1 de octubre",
+    "Ley 3/2013, de 21 de mayo",
+    "Estatuto de Autonomía de Extremadura",
+    "Decreto 66/1990, de 31 de julio",
+    "Ley 44/2007, de 13 de diciembre",
+    "Decreto 125/2005, de 24 de julio",
+    "Ley 30/1992, de 22 de noviembre",
+    "Ley 39/2006, de 14 de diciembre",
+    "Ley 2/2012, de 24 de mayo"
+  ],
+  "derogations": [
+    "Ley 3/2013, de 21 de mayo, de Rentas Básica Extremeña de Inserción"
+  ],
+  "main_obligations": "Los beneficiarios deben cumplir con su Proyecto Individualizado de Inserción, buscar empleo activamente y comunicar cualquier cambio en su situación económica o domicilio en un plazo de 15 días. El uso indebido de la ayuda o la aportación de datos falsos conlleva sanciones graves o la extinción del derecho.",
+  "effective_date": "2014-08-27",
+  "procedures": [
+    {
+      "name": "Concesión de la Renta Básica Extremeña de Inserción",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y asistencia",
+          "description": "Presentación de la solicitud vía web con asistencia obligatoria de un trabajador social.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Libro de familia, certificado de empadronamiento, certificado de convivencia, DNI/NIE, documentación de residencia para extranjeros."
+        },
+        {
+          "step": 2,
+          "title": "Evaluación e Informe Social",
+          "description": "El trabajador social evalúa la situación y elabora el informe social y el Proyecto Individualizado de Inserción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Instrucción y comprobación",
+          "description": "La Administración verifica datos económicos y de seguridad social de forma telemática.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "Dictamen final de concesión o denegación en un plazo máximo de 3 meses.",
+          "start_date": null,
+          "end_date": "3 meses desde la presentación",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Pago",
+          "description": "Abono de la prestación a partir del primer día del mes siguiente a la resolución.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Cuenta corriente designada"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

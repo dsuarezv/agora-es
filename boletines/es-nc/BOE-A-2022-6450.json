@@ -1,0 +1,98 @@
+{
+  "identifier": "BOE-A-2022-6450",
+  "title": "Ley Foral 7/2022, de 22 de marzo, por la que se establece la distribución y reparto del fondo de participación de las entidades locales en los tributos de Navarra por transferencias corrientes",
+  "visible_title": "Distribución y reparto del fondo de participación de las entidades locales en los tributos de Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "7/2022",
+  "publication_date": "2022-04-20",
+  "enactment_date": "2022-03-22",
+  "last_updated": "2022-04-01",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2022/03/22/7",
+  "official_journal": "Boletín Oficial de Navarra",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo se reparte el dinero de los impuestos navarros entre los ayuntamientos y concejos de la Comunidad Foral. Establece un sistema de financiación más estable y justo, garantizando que los fondos crezcan según el IPC más dos puntos. Además, crea fondos específicos para servicios (como colegios o bibliotecas), para cubrir déficits de montepíos y para fomentar el desarrollo de municipios con capacidad de atraer servicios a su entorno.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que es una norma de gestión financiera interna entre la Comunidad Foral y sus municipios.",
+  "professional_impact": "Afecta directamente a gestores municipales y técnicos de hacienda local, quienes deben cumplir con la actualización de valores catastrales y la remisión de cuentas anuales para evitar retenciones de fondos. También impacta en la planificación presupuestaria de los ayuntamientos al asegurar una previsibilidad de ingresos.",
+  "keywords": [
+    "entidades locales",
+    "Navarra",
+    "reparto de fondos",
+    "financiación municipal",
+    "hacienda local",
+    "transferencias corrientes",
+    "municipios"
+  ],
+  "key_points": [
+    "Se define el fondo como un recurso propio, de libre disposición y no condicionado para los municipios.",
+    "Se garantiza un incremento anual de la dotación basado en el IPC de Navarra más dos puntos porcentuales.",
+    "Se crea un nuevo Fondo de Cohesión Territorial para apoyar a municipios que actúan como motores de desarrollo en sus zonas.",
+    "Se establece un Fondo de Financiación de Servicios para cubrir gastos específicos en colegios, educación infantil y bibliotecas.",
+    "Se introduce una penalización del 10% de retención si los municipios no remiten su Cuenta General o liquidación presupuestaria a tiempo.",
+    "Se penaliza con una reducción del 10% a los municipios que no tengan actualizados sus valores catastrales.",
+    "Se incluye a Pamplona/Iruña en el cálculo de la fórmula de reparto general.",
+    "Se crea una compensación económica para cubrir la pérdida de ingresos tras la reforma del Impuesto sobre Actividades Económicas (IAE)."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra",
+    "Carta Europea de Autonomía Local",
+    "Ley Foral 6/1990, de 2 de julio, de la Administración Local de Navarra",
+    "Ley Foral 2/1995, de 10 de marzo, de Haciendas Locales de Navarra",
+    "Ley Foral 22/2020, de 29 de diciembre",
+    "Ley Foral 10/2003, de 5 de marzo"
+  ],
+  "derogations": [
+    "Ley Foral 16/1997, de 2 de diciembre, por la que se establece la «Carta de Capitalidad de la Ciudad de Pamplona»"
+  ],
+  "main_obligations": "Los municipios deben mantener actualizados sus valores catastrales y remitir la Cuenta General o la liquidación presupuestaria del segundo año anterior al reparto para evitar retenciones del 10% en sus fondos. Los ayuntamientos con montepíos propios deben presentar la certificación de sus masas salariales antes de mayo de cada año.",
+  "effective_date": "2022-04-20",
+  "procedures": [
+    {
+      "name": "Abono del Fondo de Transferencias Corrientes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Primer abono",
+          "description": "Pago del 50% de la cantidad total percibida el año anterior (excluyendo el déficit de montepíos).",
+          "start_date": "febrero",
+          "end_date": "febrero",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Segundo abono (Liquidación)",
+          "description": "Cálculo de la asignación definitiva anual y pago del resto tras descontar el primer abono.",
+          "start_date": "agosto",
+          "end_date": "agosto",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Abono de la compensación por reforma del IAE",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Primer abono de compensación",
+          "description": "Pago del 50% de la cuantía del ejercicio anterior.",
+          "start_date": "junio",
+          "end_date": "junio",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Segundo abono de compensación",
+          "description": "Liquidación final de la compensación del ejercicio.",
+          "start_date": "octubre",
+          "end_date": "octubre",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

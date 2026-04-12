@@ -1,0 +1,71 @@
+{
+  "identifier": "BOE-A-2014-889",
+  "title": "Ley Foral 39/2013, de 28 de diciembre, regulaforadora del Impuesto sobre los grandes establecimientos comerciales",
+  "visible_title": "Impuesto sobre los grandes establecimientos comerciales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "39/2013",
+  "publication_date": "2014-01-29",
+  "enactment_date": "2013-12-28",
+  "last_updated": "2015-12-30",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2013/12/28/39",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma crea un impuesto destinado a gravar la capacidad económica de las grandes superficies comerciales en Navarra. El objetivo es compensar los costes sociales y ambientales (externalidades negativas) que estos grandes negocios generan en los núcleos urbanos y el territorio. La ley simplifica el cálculo del impuesto basándose en la superficie útil de venta y aparcamiento, pasando de un sistema de padrón a uno de autoliquidación.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo que la carga fiscal de las grandes superficies pudiera repercutirse indirectamente en los precios de consumo.",
+  "professional_impact": "Afecta directamente a los propietarios de grandes superficies comerciales con más de 2.000 m² de superficie útil. Introduce la obligación de realizar la autoliquidación del impuesto y obliga a un cálculo específico de la superficie de aparcamiento y de venta para determinar la cuota a pagar.",
+  "keywords": [
+    "impuesto",
+    "grandes superficies",
+    "comercio",
+    "Navarra",
+    "superficie útil",
+    "autoliquidación",
+    "externalidades negativas"
+  ],
+  "key_points": [
+    "Se aplica a establecimientos comerciales con una superficie útil de venta y exposición superior a 2.000 m².",
+    "El tipo de gravamen se fija en 12 euros por metro cuadrado.",
+    "Se excluyen del impuesto los negocios dedicados exclusivamente a jardinería, combustibles, vehículos, construcción, maquinaria e industria.",
+    "Se introduce un sistema de autoliquidación para los contribuyentes, sustituyendo el antiguo modelo de padrón anual.",
+    "La base imponible incluye la superficie de venta y la de aparcamiento, pero excluye oficinas, almacenes y zonas de carga.",
+    "Los negocios de mobiliario, bricolaje y saneamiento disfrutan de una reducción del 60% en su base liquidable."
+  ],
+  "legal_references": [
+    "Ley Foral 23/2001, de 27 de noviembre",
+    "Ley Foral 13/2000, de 14 de diciembre, General Tributaria",
+    "Ley Foral 23/2015, de 28 de diciembre"
+  ],
+  "derogations": [
+    "Ley Foral 23/2001, de 27 de noviembre, para la creación de un Impuesto sobre los grandes establecimientos comerciales"
+  ],
+  "main_obligations": "Los sujetos pasivos deben presentar la declaración del impuesto, determinar la deuda tributaria e ingresarla en los plazos y formas que determine el Departamento de Economía, Hacienda, Industria y Empleo de Navarra.",
+  "effective_date": "2014-01-01",
+  "procedures": [
+    {
+      "name": "Liquidación del Impuesto sobre los grandes establecimientos comerciales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Determinación de la base imponible",
+          "description": "Cálculo de la superficie útil de venta y la superficie de aparcamiento según las reglas de la ley.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Planos o memoria descriptiva de la superficie del establecimiento"
+        },
+        {
+          "step": 2,
+          "title": "Autoliquidación e ingreso",
+          "description": "Presentación de la declaración y pago de la cuota resultante.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Modelo de declaración oficial"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,76 @@
+{
+  "identifier": "BOE-A-2011-4951",
+  "title": "Ley 3/2011, de 1 de marzo, de prevención, protección y coordinación institucional en materia de violencia en La Rioja",
+  "visible_title": "Ley de prevención, protección y coordinación institucional en materia de violencia en La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "3/2011",
+  "publication_date": "2011-03-18",
+  "enactment_date": "2011-03-01",
+  "last_updated": "2022-09-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2011/03/01/3",
+  "official_journal": "Boletín Oficial de La Rioja",
+  "journal_issue": null,
+  "summary": "Esta ley establece un sistema integral para combatir la violencia intrafamiliar y escolar en La Rioja. Su objetivo es coordinar a todas las instituciones públicas (sanidad, educación, justicia, policía) para que la atención a las víctimas sea rápida y no sufran una victimización secundaria. Además de proteger a las víctimas, la norma impulsa la prevención mediante la educación y la sensibilización social.",
+  "citizen_impact": "Las víctimas de violencia familiar o escolar en La Rioja cuentan con derechos reforzados, como acceso preferente a ayudas escolares, vivienda de protección pública y flexibilidad laboral para empleados públicos. También se garantiza asistencia psicológica inmediata las 24 horas y servicios de orientación jurídica gratuita.",
+  "professional_impact": "Los profesionales de la sanidad, educación, justicia y seguridad tienen la obligación de seguir protocolos específicos de detección precoz y actuación coordinada. Se establece la necesidad de formación especializada para estos colectivos y la obligación de colaborar en la creación de redes de información segura.",
+  "keywords": [
+    "violencia intrafamiliar",
+    "violencia escolar",
+    "protección de víctimas",
+    "La Rioja",
+    "coordinación institucional",
+    "prevención de la violencia"
+  ],
+  "key_points": [
+    "Creación de una Comisión Institucional para coordinar todos los recursos de atención a víctimas.",
+    "Implementación de protocolos de actuación conjunta entre policía, sanidad, justicia y servicios sociales.",
+    "Derecho a la escolarización inmediata y ayudas económicas para hijos de víctimas de violencia.",
+    "Garantía de asistencia psicológica presencial e inmediata las 24 horas del día.",
+    "Acceso preferente a viviendas de protección pública para víctimas acreditadas.",
+    "Obligación de formación especializada para profesionales de la salud, educación y seguridad.",
+    "Programas de reeducación para hombres condenados por violencia para fomentar el autocontrol.",
+    "Uso de tecnologías (GPS, alarmas) para el seguimiento de órdenes de protección."
+  ],
+  "legal_references": [
+    "Ley Orgánica 1/2004",
+    "Ley Orgánica 11/2003",
+    "Ley 27/2003",
+    "Ley 1/2006 de Protección de Menores de La Rioja",
+    "Ley 35/1995",
+    "Constitución Española",
+    "Estatuto de Autonomía de La Rioja"
+  ],
+  "derogations": [
+    "Normas de igual o inferior rango que se opongan a la presente ley"
+  ],
+  "main_obligations": "Las administraciones públicas deben diseñar y aplicar un Plan sectorial de sensibilización y protección. Los profesionales de servicios de primera línea deben seguir los protocolos de detección precoz y dar cuenta de indicios de violencia a los órganos competentes.",
+  "effective_date": "2011-03-18",
+  "procedures": [
+    {
+      "name": "Acreditación de la condición de víctima",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación mediante resolución judicial",
+          "descrption": "Obtención de sentencia, orden de protección o medidas cautelares vigentes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Resolución judicial o documento acreditativo de la orden de protección"
+        },
+        {
+          "step": 2,
+          "title": "Acreditación excepcional por urgencia",
+          "descrption": "Uso de informes alternativos en situaciones de extrema urgencia hasta que haya resolución judicial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe del Ministerio Fiscal o Certificado de atención especializada de organismo público"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

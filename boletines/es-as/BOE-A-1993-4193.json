@@ -1,0 +1,69 @@
+{
+  "identifier": "BOE-A-1993-4193",
+  "title": "Ley 2/1992, de 30 de diciembre, del Impuesto sobre el Juego del Bingo",
+  "visible_title": "Impuesto sobre el Juego del Bingo",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "2/1992",
+  "publication_date": "1993-02-15",
+  "enactment_date": "1992-12-30",
+  "last_updated": "2014-07-29",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1992/12/30/2",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta norma establece un impuesto específico en Asturias para recaudar fondos destinados a financiar las competencias de la Comunidad Autónoma. El tributo grava directamente el dinero que los jugadores reciben como premio en los locales de bingo autorizados. El objetivo es aprovechar la actividad de juego para generar ingresos propios para la Hacienda asturiana.",
+  "citizen_impact": "Los jugadores de bingo en Asturias veían reducidos sus premios netos, ya que el impuesto se les aplicaba directamente al momento de cobrar. En la práctica, por cada 100 euros de premio, el jugador recibía 90 euros y 10 euros se destinaban al impuesto.",
+  "professional_impact": "Las empresas explotadoras de salas de bingo actuaban como recaudadores para la Administración. Tenían la obligación de retener el 10% del premio, entregarlo al jugador y realizar la autoliquidación y el ingreso de todo lo recaudado ante la Hacienda del Principado.",
+  "keywords": [
+    "bingo",
+    "impuesto",
+    "Asturias",
+    "premios",
+    "juego",
+    "tributo"
+  ],
+  "key_points": [
+    "Creación de un impuesto del 10% sobre el valor de los premios de bingo.",
+    "El impuesto se aplica en el momento exacto de hacer efectivo el pago del premio.",
+    "La carga económica recae sobre el jugador (el sujeto pasivo repercute el impuesto).",
+    "Las salas de bingo son las responsables de gestionar, retener y pagar el impuesto a la Hacienda asturiana.",
+    "El tipo impositivo podía ser modificado anualmente mediante los Presupuestos Generales de la Comunidad."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 156)",
+    "Ley General Tributaria",
+    "Estatuto de Autonomía para Asturias"
+  ],
+  "derogations": [
+    "Decreto Legislativo 1/2014, de 23 de julio"
+  ],
+  "main_obligations": "Los gestores de salas de bingo deben retener el 10% de cada premio entregado y realizar la autoliquidación mediante el modelo que determine la Consejería de Hacienda para ingresar el dinero en la Hacienda del Principado.",
+  "effective_date": "1993-02-16",
+  "procedures": [
+    {
+      "name": "Autoliquidación y pago del Impuesto sobre el Juego del Bingo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Retención del impuesto",
+          "description": "El gestor de la sala retiene el 10% del importe del premio al entregarlo al jugador.",
+          "start_date": "En el momento de la entrega del premio",
+          "end_date": null,
+          "required_documentation": "Comprobante de pago del premio"
+        },
+        {
+          "step": 2,
+          "title": "Presentación de la declaración-liquidación",
+          "description": "El sujeto pasivo presenta la declaración de los premios satisfechos ante la Consejería de Hacienda.",
+          "start_date": null,
+          "end_date": "Según plazos reglamentarios",
+          "required_documentation": "Modelo de declaración aprobado por la Consejería de Hacienda"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

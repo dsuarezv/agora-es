@@ -1,0 +1,82 @@
+{
+  "identifier": "BOE-A-2002-16785",
+  "title": "Ley 6/2002, de 27 de junio, de medidas de apoyo en materia de autopromoción de viviendas, accesibilidad y suelo",
+  "visible_title": "Medidas de apoyo en materia de autopromoción de viviendas, accesibilidad y suelo",
+  "rank": "ley",
+  "country": "es",
+  "department": "Junta de Extremadura",
+  "official_number": "6/2002",
+  "publication_date": "2002-08-22",
+  "enactment_date": "2002-06-27",
+  "last_updated": "2019-04-17",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2002/06/27/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma busca facilitar que las personas físicas construyan su propia vivienda (autopromoción) reduciendo costes y trámites, como la exención del seguro decenal. También actualiza las exigencias de accesibilidad para personas con movilidad reducida y ajusta la normativa de ordenación del suelo en Extremadura. El objetivo final es frenar la subida de precios inmobiliarios y mejorar la habitabilidad y la inclusión.",
+  "citizen_impact": "Permite a familias con recursos limitados construir su propia casa de forma más económica al evitar ciertos seguros obligatorios y costes de promoción profesional. Además, garantiza que las nuevas viviendas sean convertibles para personas con movilidad reducida y mejora el acceso a la información mediante lengua de signos.",
+  "professional_impact": "Los arquitectos, constructores y directores de obra deben inscribirse en un nuevo censo administrativo y cumplir con estándares de calidad específicos. Las empresas suministradoras de materiales también quedan sujetas a controles de calidad y pueden ser sancionadas o inhabilitadas si no cumplen la normativa.",
+  "keywords": [
+    "autopromoción de vivienda",
+    "vivienda protegida",
+    "accesibilidad",
+    "movilidad reducida",
+    "suelo y urbanismo",
+    "Extremadura",
+    "construcción"
+  ],
+  "key_points": [
+    "Creación de la figura de autopromoción para personas físicas que construyen su residencia habitual.",
+    "Exención del seguro decenal para viviendas de autopromoción, sustituyéndolo por controles de calidad de la Junta.",
+    "Prohibición de vender o alquilar la vivienda autopromovida a terceros durante los primeros 10 años.",
+    "Obligación de que toda vivienda nueva sea 'convertible' para personas con movilidad reducida.",
+    "Reconocimiento de la lengua de signos como lenguaje propio en la comunicación de la administración.",
+    "Establecimiento de un censo de agentes de la construcción para controlar la calidad del proceso.",
+    "Modificación de la Ley del Suelo para permitir usos privados en hasta el 50% de terrenos dotacionales públicos bajo ciertas condiciones."
+  ],
+  "legal_references": [
+    "Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación",
+    "Ley 3/1995, de Fomento de la Vivienda",
+    "Ley 15/2001, de Suelo y Ordenación Territorial de Extremadura",
+    "Ley 8/1997, de Promoción de la Accesibilidad en Extremadura",
+    "Sentencia del Tribunal Constitucional 164/2001"
+  ],
+  "derogations": [
+    "Título II de la Ley 3/1995, de Fomento de la Vivienda"
+  ],
+  "main_obligations": "Los autopromotores no pueden transmitir la vivienda a terceros durante 10 años. El incumplimiento de las normas de calidad o de las limitaciones de venta conlleva multas de hasta 150.000 euros e inhabilitación profesional.",
+  "effective_date": "2002-06-28",
+  "procedures": [
+    {
+      "name": "Calificación de vivienda protegida autopromovida",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de calificación provisional",
+          "description": "Permite acceder a líneas de financiación y ayudas antes de terminar la obra.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite los requisitos de la unidad familiar y el proyecto."
+        },
+        {
+          "step": 2,
+          "title": "Inspección y control de calidad",
+          "description": "La Administración verifica el cumplimiento de las normas técnicas y de materiales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Otorgamiento de calificación definitiva",
+          "description": "Resolución administrativa que otorga el estatus de vivienda protegida tras la finalización.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

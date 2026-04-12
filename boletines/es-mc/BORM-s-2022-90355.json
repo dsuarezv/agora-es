@@ -1,0 +1,83 @@
+{
+  "identifier": "BORM-s-2022-90355",
+  "title": "Decreto-ley 6/2022, de 17 de noviembre, de medidas fitosanitarias excepcionales y urgentes para la gestión de los restos vegetales generados en la propia explotación mediante quema controlada \"in situ\" para evitar la proliferación y dispersión de organismos nocivos de la Región de Murcia",
+  "visible_title": "Medidas para la gestión de restos vegetales mediante quema controlada in situ en la Región de Murcia",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "6/2022",
+  "publication_date": "2022-11-18",
+  "enactment_date": "2022-11-17",
+  "last_updated": "2023-04-10",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2022-90355",
+  "official_journal": "Boletín Oficial de la Región de Murcia",
+  "journal_issue": "90355",
+  "summary": "Esta norma permite a los agricultores y silvicultores de Murcia realizar quemas controladas de restos vegetales directamente en sus parcelas cuando sea estrictamente necesario para combatir plagas o enfermedades. Se aprueba como medida excepcional ante la imposibilidad de usar otros métodos (como el triturado) y para frenar la propagación de organismos nocivos agravados por el cambio climático. El objetivo es equilibrar la sanidad vegetal con la protección del medio ambiente y la salud pública.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo por la posible gestión de la calidad del aire y la vigilancia de humos en zonas cercanas a núcleos urbanos.",
+  "professional_impact": "Afecta directamente al sector agrario y forestal, que ahora debe seguir un procedimiento de solicitud de autorización individualizada. Los agricultores deben contratar a un asesor de Gestión Integrada de Plagas (ROPO) para justificar técnicamente la necesidad de la quema y presentar la solicitud con al menos un mes de antelación.",
+  "keywords": [
+    "quema controlada",
+    "restos vegetales",
+    "sanidad vegetal",
+    "plagas",
+    "Región de Murcia",
+    "fitosanitario",
+    "gestión de residuos agrícolas"
+  ],
+  "key_points": [
+    "La quema in situ es una medida excepcional y no la opción preferente.",
+    "Es obligatorio demostrar que no se pueden usar otros métodos como el triturado o la valorización.",
+    "Se requiere un informe técnico de un asesor de Gestión Integrada de Plagas inscrito en el ROPO.",
+    "La solicitud debe presentarse con un mínimo de un mes de antelación.",
+    "Las autorizaciones tienen una vigencia máxima de 2 meses.",
+    "Está prohibido quemar en zonas de influencia forestal entre el 1 de junio y el 30 de septiembre.",
+    "En zonas forestales, la quema debe realizarse a más de 400 metros de la zona de influencia y cumplir estrictos horarios y condiciones de seguridad.",
+    "El silencio administrativo ante una solicitud no resuelta en 20 días se entiende como desestimación."
+  ],
+  "legal_references": [
+    "Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+    "Estatuto de Autonomía de la Región de Murcia"
+  ],
+  "derogations": [
+    "Orden de 19 de octubre de 2017 de la Consejería de Agua, Agricultura, Ganadería y Pesca",
+    "Resolución conjunta de las Direcciones Generales de Medio Ambiente, Salud Pública, Agricultura y Medio Natural de 18 de febrero de 2019"
+  ],
+  "main_obligations": "Los interesados deben obtener autorización previa mediante solicitud justificada con informe técnico. Deben cumplir estrictamente las condiciones de seguridad del Anexo III (vigilancia, horarios, distancias y limpieza de la zona) y respetar las restricciones de los ayuntamientos en materia de calidad atmosférica.",
+  "effective_date": "2022-11-18",
+  "procedures": [
+    {
+      "name": "Autorización individualizada de quema controlada in situ",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Preparación de documentación y solicitud",
+          "description": "El interesado debe preparar la solicitud con informe técnico de un asesor ROPO y declaración responsable.",
+          "start_date": "Mínimo 1 mes antes de la quema",
+          "end_date": null,
+          "required_documentation": "Modelo de solicitud (Anexo II), Informe técnico de asesor ROPO, Declaración responsable."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la administración",
+          "description": "La Dirección General de Sanidad Vegetal debe resolver la solicitud.",
+          "start_date": null,
+          "end_date": "20 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ejecución de la quema",
+          "description": "Realización de la quema cumpliendo las condiciones de seguridad y horarios establecidos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Autorización emitida y documento de identificación."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

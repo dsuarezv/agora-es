@@ -1,0 +1,82 @@
+{
+  "identifier": "BOCT-c-1983-90029",
+  "title": "Ley 6/1983, de 4 de julio, sobre procedimiento para la designación de senador en representación de la Comunidad Autónoma de Cantabria",
+  "visible_title": "Procedimiento para la designación de senador en representación de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "6/1983",
+  "publication_date": "1983-07-04",
+  "enactment_date": "1983-07-04",
+  "last_updated": "1983-07-04",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOCT-c-1983-90029",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "journal_issue": null,
+  "summary": "Esta norma establece las reglas para elegir al senador que representará a Cantabria ante las Cortes Generales. El proceso se realiza mediante votación secreta entre los miembros de la Asamblea Regional. Define los criterios de mayoría para la elección y los mecanismos de desempate en caso de que no se logre un consenso inicial.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta exclusivamente a los diputados de la Asamblea Regional de Cantabria, quienes deben seguir este protocolo específico para ejercer su función de designación. También impacta a los funcionarios de la Asamblea encargados de la certificación y remisión de los nombramientos.",
+  "keywords": [
+    "designación de senador",
+    "Cantabria",
+    "Asamblea Regional",
+    "procedimiento de elección",
+    "Cortes Generales"
+  ],
+  "key_points": [
+    "El senador debe ser obligatoriamente un miembro de la Asamblea Regional de Cantabria.",
+    "La elección se realiza mediante votación secreta por parte de los diputados.",
+    "Se requiere mayoría absoluta en la primera votación para ser elegido.",
+    "En caso de no haber mayoría absoluta, se realiza una segunda votación entre los dos candidatos más votados.",
+    "Si persiste un empate tras cuatro votaciones, el ganador será el candidato de la lista más votada en las últimas elecciones regionales.",
+    "El cargo de senador cesa automáticamente si el designado deja de ser diputado regional."
+  ],
+  "legal_references": [
+    "Artículo 69.5 de la Constitución Española",
+    "Artículo 9.h) del Estatuto de Autoautonomía para Cantabria"
+  ],
+  "derogations": [],
+  "main_obligations": null,
+  "effective_date": "1983-07-04",
+  "procedures": [
+    {
+      "name": "Designación del Senador representante de Cantabria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de candidaturas",
+          "description": "Los distintos Grupos Parlamentarios de la Asamblea presentan a sus candidatos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Votación",
+          "description": "Votación secreta de los diputados mediante papeleta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Papeleta con el nombre del candidato"
+        },
+        {
+          "step": 3,
+          "title": "Proclamación",
+          "description": "El Presidente de la Asamblea proclama al candidato electo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Certificación y notificación",
+          "description": "El Secretario expide certificaciones para el Presidente del Senado y el interesado.",
+          "start_date": null,
+          "end_date": "7 días",
+          "required_documentation": "Certificaciones con el visto bueno del Presidente"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

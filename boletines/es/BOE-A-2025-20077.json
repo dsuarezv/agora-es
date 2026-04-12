@@ -1,0 +1,95 @@
+{
+  "identifier": "BOE-A-2025-20077",
+  "title": "Real Decreto 903/2025, de 7 de octubre, por el que se establecen las condiciones para la elaboración y dispensación de fórmulas magistrales tipificadas de preparados estandarizado de cannabis",
+  "visible_title": "Condiciones para la elaboración y dispensación de fórmulas magistrales de cannabis",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de Sanidad",
+  "official_number": "903/2025",
+  "publication_date": "2025-10-09",
+  "enactment_date": "2025-10-07",
+  "last_updated": "2025-10-09",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/10/07/903",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "243",
+  "summary": "Esta norma regula cómo se pueden fabricar y recetar preparados de cannabis estandarizados (con dosis controladas de THC y CBD) mediante fórmulas magistrales. Su objetivo es ofrecer una alternativa terapéutica segura para pacientes con dolores crónicos o enfermedades como la esclerosis múltiple cuando los medicamentos industriales no son suficientes. Para garantizar la seguridad, establece un registro oficial de estos preparados y exige que su elaboración se realice exclusivamente en farmacias hospitalarias bajo estricto control.",
+  "citizen_impact": "Los pacientes que no responden a tratamientos convencionales para el dolor crónico o la epilepsia ahora tienen una vía legal y segura para acceder a medicamentos basados en cannabis. Esto garantiza que el producto sea de calidad farmacéutica, con dosis exactas y bajo supervisión médica constante.",
+  "professional_impact": "Los médicos especialistas deben justificar la prescripción en la historia clínica y los servicios de farmacia hospitalaria asumen la responsabilidad de su elaboración y seguimiento. Los laboratorios fabricantes deben cumplir con normas de fabricación de la UE y registrar sus preparados en la AEMPS, mientras que los profesionales sanitarios tienen la obligación de notificar cualquier reacción adversa.",
+  "keywords": [
+    "cannabis medicinal",
+    "fórmulas magistrales",
+    "THC",
+    "CBD",
+    "farmacia hospitalaria",
+    "AEMPS",
+    "prescripción médica"
+  ],
+  "key_points": [
+    "Creación de un Registro de preparados estandarizados de cannabis gestionado por la AEMPS.",
+    "La elaboración queda limitada exclusivamente a los servicios de farmacia hospitalaria.",
+    "Los preparados con un contenido de THC igual o superior al 0,2% se consideran psicótropos y están sujetos a fiscalización especial.",
+    "La prescripción solo puede realizarla médicos especialistas en el ámbito hospitalario.",
+    "Se publicarán monografías en el Formulario Nacional para estandarizar las fórmulas y sus usos.",
+    "Obligación de los laboratorios de auditar sus cadenas de suministro para asegurar un origen lícito.",
+    "Obligatoriedad de farmacovigilancia para reportar reacciones adversas."
+  ],
+  "legal_references": [
+    "Real Decreto 2829/1977",
+    "Ley 39/2015",
+    "Ley 14/1986",
+    "Real Decreto Legislativo 1/2015",
+    "Ley 41/2002",
+    "Ley 17/1967",
+    "Real Decreto 294/1995"
+  ],
+  "derogations": [],
+  "main_obligations": "Los laboratorios deben inscribir sus preparados en el registro de la AEMPS y cumplir con las normas de correcta fabricación de la UE. Los médicos deben documentar la justificación clínica de la receta y los sanitarios deben notificar sospechas de reacciones adversas a los centros de farmacovigilancia.",
+  "effective_date": "2025-10-10",
+  "procedures": [
+    {
+      "name": "Inscripción en el Registro de preparados estandarizados de cannabis",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inscripción",
+          "description": "El laboratorio debe remitir la solicitud electrónica a la AEMPS con la documentación técnica requerida.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Información detallada según el Anexo del Real Decreto (datos administrativos, químicos y farmacológicos)."
+        },
+        {
+          "step": 2,
+          "title": "Subsanación de errores",
+          "description": "Si la solicitud es incompleta, se otorga un plazo para corregirla.",
+          "start_date": "10 días",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de la AEMPS",
+          "description": "La Dirección de la AEMPS dicta la resolución de inscripción o denegación.",
+          "start_date": "6 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Publicación de monografías en el Formulario Nacional",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación de estándares",
+          "description": "La AEMPS publica las guías de uso y composición para las fórmulas magistrales.",
+          "start_date": "3 meses tras la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

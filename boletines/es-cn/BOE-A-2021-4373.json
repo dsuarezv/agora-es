@@ -1,0 +1,73 @@
+{
+  "identifier": "BOE-A-2021-4373",
+  "title": "Decreto-ley 20/2020, de 26 de noviembre, por el que se establecen medidas urgentes para paliar los efectos sociales derivados de la COVID-19 mediante el abono de una prestación extraordinaria a las personas titulares de las pensiones no contributivas, del fondo de asistencia social, del subsidio de garantía de ingresos mínimos y de la prestación canaria de inserción, residentes en la Comunidad Autónoma de Canarias",
+  "visible_title": "Prestación extraordinaria para paliar los efectos sociales de la COVID-19 en Canarias",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Gobierno de Canarias",
+  "official_number": "20/2020",
+  "publication_date": "2021-03-20",
+  "enactment_date": "2020-11-26",
+  "last_updated": "2020-11-27",
+  "status": "in_force",
+  "scope": "Autoonómico",
+  "source": "https://www.boe.es/eli/es-cn/dl/2020/11/26/20",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece un pago único de 250 euros para ayudar a los colectivos más vulnerables de Canarias a afrontar los gastos derivados de la pandemia de COVID-19. El objetivo es cubrir necesidades básicas y la compra de material de protección como mascarillas o geles. La ayuda se concede de forma automática sin necesidad de solicitarla.",
+  "citizen_impact": "Los beneficiarios de pensiones no contributivas, el Fondo de Asistencia Social, el Subsidio de Garantía de Ingresos Mínimos y la Prestación Canaria de Inserción recibirán 250 euros directamente en su cuenta bancaria. No requiere realizar ningún trámite ni presentar documentación adicional.",
+  "professional_impact": "La Consejería de Derechos Sociales, Igualdad, Diversidad y Juventud debe gestionar el pago de oficio y publicar la resolución en el BOC. No se imponen nuevas cargas administrativas para el ciudadano, pero sí una gestión de tesorería y notificación masiva por parte de la administración.",
+  "keywords": [
+    "ayuda COVID-19",
+    "Canarias",
+    "prestación extraordinaria",
+    "pensiones no contributivas",
+    "PCI",
+    "vulnerabilidad social"
+  ],
+  "key_points": [
+    "Ayuda económica de 250 euros por persona (o por unidad de convivencia en el caso de la PCI).",
+    "Pago único y de carácter extraordinario (no es una ayuda recurrente).",
+    "El cobro es automático (de oficio) mediante transferencia bancaria.",
+    "No se requiere solicitud previa por parte del ciudadano.",
+    "La ayuda no computa como renta para el cálculo de otras prestaciones sociales.",
+    "Destinada a la compra de material de protección (mascarillas, geles) y necesidades básicas."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Canarias",
+    "Decreto-ley 6/2020, de 17 de abril",
+    "Ley 3/2020, de 27 de octubre",
+    "Real Decreto Legislativo 1/2015",
+    "Real Decreto 2620/1981",
+    "Ley 13/1982",
+    "Ley 1/2007 (PCI)",
+    "Ley 16/2019 de Servicios Sociales de Canarias"
+  ],
+  "derogatons": [],
+  "main_obligations": null,
+  "effective_date": "2020-11-27",
+  "procedures": [
+    {
+      "name": "Abono de la prestación extraordinaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Reconocimiento y pago de oficio",
+          "description": "La administración identifica a los beneficiarios según la nómina a fecha de diciembre de 2020 y realiza la transferencia bancaria automáticamente.",
+          "start_date": "2020-11-27",
+          "end_date": null,
+          "required_documentation": "Ninguna (se realiza de oficio)"
+        },
+        {
+          "step": 2,
+          "title": "Notificación oficial",
+          "description": "Publicación de la resolución de reconocimiento y pago en el Boletín Oficial de Canarias (BOC).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

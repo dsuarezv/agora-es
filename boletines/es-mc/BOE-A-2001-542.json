@@ -1,0 +1,94 @@
+{
+  "identifier": "BOE-A-2001-542",
+  "title": "Ley 3/2000, de 12 de julio, de Saneamiento y Depuración de Aguas Residuales de la Región de Murcia e Implantación del Canon de Saneamiento",
+  "visible_title": "Ley de Saneamiento, Depuración de Aguas Residuales e Implantación del Canon de Saneamiento de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "3/2000",
+  "publication_date": "2001-01-09",
+  "enactment_date": "2000-07-12",
+  "last_updated": "2020-08-01",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2000/07/12/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco para mejorar la calidad del agua en Murcia mediante la creación de infraestructuras de saneamiento y depuración. Crea la Entidad Regional de Saneamiento y Depuración de Aguas Residuales (ESAMUR) para gestionar estas instalaciones y la producción de agua desalada. Además, introduce un canon de saneamiento basado en el principio de 'quien contamina paga' para financiar la conservación y explotación de los sistemas.",
+  "citizen_impact": "Los ciudadanos verán reflejado un nuevo concepto en su factura del agua: el canon de saneamiento, que se cobrará junto con el suministro. Este pago tiene como fin asegurar que las aguas residuales de las viviendas se traten correctamente para proteger el medio ambiente.",
+  "professional_impact": "Las empresas e industrias enfrentan un régimen de costes más estricto, ya que el canon para usos no domésticos varía según la carga contaminante que viertan. Deben declarar sus parámetros de contaminación (como nitrógeno o fósforo) y pueden recibir bonificaciones si implementan sistemas de depuración en origen.",
+  "keywords": [
+    "saneamiento",
+    "depuración",
+    "aguas residuales",
+    "canon de saneamiento",
+    "ESAMUR",
+    "Región de Murcia",
+    "medio ambiente",
+    "vertidos industriales"
+  ],
+  "key_points": [
+    "Creación de la Entidad Regional de Saneamiento y Depuración (ESAMUR) como empresa pública de derecho público.",
+    "Implementación de un canon de saneamiento obligatorio para todo vertido a redes municipales o colectores públicos.",
+    "Diferenciación de tarifas entre usos domésticos y no domésticos (industriales, comerciales, pecuarios).",
+    "Aplicación de coeficientes correctores en la tarifa industrial según la carga contaminante vertida.",
+    "Obligación de las empresas de declarar la calidad de sus vertidos (DQO, sólidos, nitrógeno, fósforo, etc.).",
+    "Posibilidad de bonificación del 50% en el canon para zonas sin sistemas de depuración operativos.",
+    "Declaración de utilidad pública de las obras de saneamiento para facilitar procesos de expropiación.",
+    "Integración de la gestión de la desalinización bajo la nueva entidad regional."
+  ],
+  "legal_references": [
+    "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+    "Ley 29/1985, de 2 de agosto, de Aguas",
+    "Ley 22/1988, de 28 de julio, de Costas",
+    "Directiva 91/271 CEE",
+    "Ley 1/1995 de Protección del Medio Ambiente",
+    "Real Decreto-ley 11/1995, de 28 de diciembre",
+    "Real Decreto 1664/1998, de 24 de julio"
+  ],
+  "derogations": [
+    "Ente Público del Agua de la Región de Murcia (extinto por esta ley)"
+  ],
+  "main_obligations": "Los usuarios deben abonar el canon de saneamiento junto con la factura del agua. Las industrias están obligadas a declarar la carga contaminante de sus vertidos y las entidades suministradoras deben recaudar y entregar este canon a la administración regional.",
+  "effective_date": "2001-01-10",
+  "procedures": [
+    {
+      "name": "Elaboración del Plan General de Saneamiento y Depuración",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración inicial",
+          "description": "La Consejería competente redacta el proyecto del Plan General.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informes preceptivos",
+          "description": "Consulta a los Consejos Asesores Regionales de Medio Ambiente, Ordenación del Territorio y del Agua.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Información pública",
+          "description": "Apertura de plazo para consultas de la sociedad y las Entidades Locales.",
+          "start_date": "Tras anuncio en el BORM",
+          "end_date": "1 mes",
+          "required_documentation": "Alegaciones por escrito"
+        },
+        {
+          "step": 4,
+          "title": "Aprobación definitiva",
+          "description": "El Consejo de Gobierno resuelve las alegaciones y aprueba el Plan mediante Decreto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,88 @@
+{
+  "identifier": "BOE-A-2021-1663",
+  "title": "Ley 19/2020, de 30 de diciembre, de igualdad de trato y no discriminación",
+  "visible_title": "Ley de igualdad de trato y no discriminación",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "19/2020",
+  "publication_date": "2021-02-05",
+  "enactment_date": "2020-12-30",
+  "last_updated": "2021-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2020/12/30/19",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley crea un escudo integral contra la discriminación en Cataluña, protegiendo a las personas frente a prejuicios por pobreza, discapacidad o raza. Introduce nuevas figuras legales para combatir el odio y establece un organismo especializado con poder para investigar y sancionar. Su objetivo es que la igualdad no sea solo un concepto, sino una realidad protegida con multas severas y mecanismos de mediación. Busca transformar la convivencia social prohibiendo prácticas como los perfiles raciales o la segregación escolar.",
+  "citizen_impact": "Los ciudadanos cuentan con mayor protección frente a la discriminación en el acceso a la vivienda, la sanidad y la educación. Se facilita la defensa de sus derechos gracias a la inversión de la carga de la prueba (si hay indicios, la administración debe demostrar que no hubo discriminación) y se prohíben los controles policiales basados en perfiles raciales.",
+  "professional_impact": "Las empresas y proveedores de vivienda deben asegurar procesos no discriminatorios bajo riesgo de multas de hasta 500.000 euros. Los funcionarios públicos tienen la obligación de comunicar sospechas de discriminación y, si la cometen, enfrentarán las sanciones máximas. Los medios de comunicación y centros educativos deben implementar protocolos específicos de atención y sensibilización.",
+  "keywords": [
+    "igualdad de trato",
+    "no discriminación",
+    "aprofobia",
+    "capacitismo",
+    "derechos fundamentales",
+    "sanciones administrativas",
+    "Cataluña"
+  ],
+  "key_points": [
+    "Reconocimiento legal de la aporofobia (odio a la pobreza) y el capacitismo como formas de discriminación.",
+    "Inversión de la carga de la prueba en procedimientos administrativos si la víctima aporta indicios razonables.",
+    "Prohibición de perfiles raciales en tareas de vigilancia policial y controles de identidad.",
+    "Prohibición de rechazar ofertas de vivienda por situación administrativa irregular.",
+    "Creación de un Organismo de Protección y Promoción de la Igualdad de Trato con capacidad de investigar y sancionar.",
+    "Nuevas infracciones por insultos, gestos o símbolos discriminatorios en espacios públicos y redes sociales.",
+    "Sanciones económicas de hasta 500.000 euros para infracciones muy graves.",
+    "Obligación de centros educativos de cumplir criterios de no segregación para recibir financiación.",
+    "Posibilidad de mediación para resolver conflictos sin necesidad de recursos administrativos.",
+    "Posibilidad de sustituir multas leves o graves por tareas de utilidad pública o formación.",
+    "Obligación de las administraciones de crear protocolos de atención a víctimas y de acoso escolar.",
+    "Los funcionarios que cometan infracciones recibirán la sanción en su grado máximo."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Cataluña",
+    "Constitución Española",
+    "Ley 13/2008 de la Presidencia de la Generalidad",
+    "Decreto 114/2020",
+    "Directiva 2000/43/CE",
+    "Directiva 2006/54/CE",
+    "Directiva 2000/78/CE",
+    "Directiva 2004/113/CE",
+    "Directiva 2012/29/UE",
+    "Ley 11/2014",
+    "Ley 12/2009 de Educación",
+    "Ley 39/2015, de 1 de octubre, del procedimiento administrativo común",
+    "Ley 17/2015, de 21 de julio (igualdad efectiva)",
+    "Estatuto de la víctima del delito (Ley 4/2015)",
+    "Carta Municipal de Barcelona (Ley 22/1998)"
+  ],
+  "derogatons": [],
+  "main_obligations": "Las administraciones deben implementar protocolos de atención a víctimas, campañas de sensibilización y recoger datos estadísticos sobre incidentes. Los profesionales de servicios públicos están obligados a comunicar cualquier sospecha de discriminación detectada.",
+  "effective_date": "2021-03-05",
+  "procedures": [
+    {
+      "name": "Procedimiento de instrucción de casos de discriminación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aportación de indicios",
+          "description": "La persona afectada presenta indicios racionales y fundamentados de la discriminación sufrida.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Inversión de la carga de la prueba",
+          "description": "Corresponde a la parte denunciada probar que su comportamiento no fue discriminatorio.",
+          "start_date": "Tras la aportación de indicios",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

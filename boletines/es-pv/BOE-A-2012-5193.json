@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-2012-5193",
+  "title": "Ley 27/1983, de 25 de noviembre, de Relaciones entre las Instituciones Comunes de la Comunidad Autónoma y los Órganos Forales de sus Territorios Históricos",
+  "visible_title": "Ley de Relaciones entre las Instituciones Comunes de la Comunidad Autónoma y los Órganos Forales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "27/1983",
+  "publication_date": "2012-04-17",
+  "enactment_date": "1983-11-25",
+  "last_updated": "2021-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1983/11/25/27",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco de convivencia y reparto de poder entre el Gobierno Vasco y las Diputaciones Forales. Define qué competencias corresponden exclusivamente a los territorios históricos (como urbanismo, carreteras locales o montes) y cuáles a la Comunidad Autónoma. Además, regula cómo se distribuye el dinero entre la Hacienda General y las Haciendas Forales para garantizar el funcionamiento de todo el sector público vasco.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que es una norma de organización interna de la administración pública.",
+  "professional_impact": "Afecta directamente a funcionarios de las administraciones vascas y forales, al definir sus competencias y presupuestos. También impacta a empresas constructoras y de servicios públicos, al establecer quién gestiona las carreteras, obras y licencias en cada territorio.",
+  "keywords": [
+    "País Vasco",
+    "Diputaciones Forales",
+    "Competencias",
+    "Hacienda Foral",
+    "Consejo Vasco de Finanzas Públicas",
+    "Autonomía",
+    "Territorios Históricos"
+  ],
+  "key_points": [
+    "Reparto de competencias exclusivas para las Diputaciones Forales en materias como urbanismo, carreteras, montes y régimen electoral municipal.",
+    "Reconocimiento de la supremacía legislativa del Parlamento Vasco para dictar leyes formales.",
+    "Creación del Consejo Vasco de Finanzas Públicas para coordinar la distribución de recursos económicos.",
+    "Establecimiento de un sistema de aportaciones de las Diputaciones Forales a la Hacienda General del País Vasco.",
+    "Creación del Tribunal Vasco de Cuentas Públicas como órgano máximo de fiscalización económica.",
+    "Posibilidad de que el Gobierno Vasco delegue la gestión de servicios a las Diputaciones Forales mediante convenios.",
+    "Garantía de autonomía financiera tanto para la Comunidad Autónoma como para los Territorios Históricos."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía del País Vasco",
+    "Ley del Concierto Económico",
+    "Constitución Española",
+    "Ley de Gobierno Vasco",
+    "Ley de Aguas del Parlamento Vasco",
+    "Ley de Instituciones Locales de Euaskadi"
+  ],
+  "derogations": [],
+  "main_obligations": "Las Diputaciones Forales deben realizar aportaciones a la Hacienda General del País Vasco en seis plazos anuales (febrero, abril, junio, julio, octubre y noviembre). El Consejo Vasco de Finanzas Públicas debe fijar la metodología de distribución de recursos con una vigencia mínima de tres ejercicios.",
+  "effective_date": "1983-11-25",
+  "procedures": [
+    {
+      "name": "Determinación de aportaciones forales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo del Consejo Vasco de Finanzas Públicas",
+          "description": "El Consejo fija las aportaciones para el siguiente ejercicio.",
+          "start_date": "octubre",
+          "end_date": "15 de octubre",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aprobación parlamentaria",
+          "description": "El Parlamento Vasco aprueba o rechaza el proyecto de ley de artículo único enviado por el Gobierno.",
+          "start_date": "tras el acuerdo del Consejo",
+          "end_date": null,
+          "required_documentation": "Proyecto de Ley de artículo único e informe del Consejo"
+        }
+      ]
+    },
+    {
+      "name": "Transferencia de competencias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Constitución de Comisiones Mixtas",
+          "description": "Se crean comisiones con igual número de representantes del Gobierno y la Diputación para gestionar la transferencia de medios.",
+          "start_date": "dentro del mes siguiente a la entrada en vigor",
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

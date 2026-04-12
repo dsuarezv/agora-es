@@ -1,0 +1,109 @@
+{
+  "identifier": "BOE-A-2012-3545",
+  "title": "Ley 1/1988, de 5 de febrero, del \"Tribunal Vasco de Cuentas Públicas\" / \"Herri-Kontuen Euskal Epaitegia\"",
+  "visible_title": "Ley del Tribunal Vasco de Cuentas Públicas",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "1/1988",
+  "publication_date": "2012-03-13",
+  "enactment_date": "1988-02-05",
+  "last_updated": "2022-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1988/02/05/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea y regula el Tribunal Vasco de Cuentas Públicas como el órgano encargado de fiscalizar las cuentas y la actividad económica del sector público vasco. Su objetivo es garantizar la transparencia, legalidad y eficiencia en el uso de los fondos públicos en la Comunidad Autónoma. El Tribunal tiene capacidad para investigar, auditar y juzgar la responsabilidad contable de quienes gestionan dinero público.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en el derecho a la transparencia, ya que permite consultar informes de fiscalización y cuentas públicas a través del Portal de Transparencia.",
+  "professional_impact": "Afecta directamente a gestores, funcionarios y directivos del sector público vasco, entidades locales y cualquier persona jurídica que reciba subvenciones o ayudas públicas. Estos profesionales están sujetos a la fiscalización del Tribunal y deben colaborar con sus inspecciones, bajo riesgo de sanciones por obstrucción.",
+  "keywords": [
+    "Tribunal Vasco de Cuentas Públicas",
+    "fiscalización",
+    "sector público vasco",
+    "responsabilidad contable",
+    "auditoría",
+    "transparencia",
+    "control económico"
+  ],
+  "key_points": [
+    "Creación del Tribunal como órgano dependiente del Parlamento Vasco para controlar el dinero público.",
+    "El control se extiende a ayuntamientos, diputaciones, entidades locales y cualquier empresa que reciba fondos públicos vascos.",
+    "El Tribunal puede investigar no solo la legalidad, sino también la eficiencia y eficacia del gasto público.",
+    "Se establece la función jurisdiccional para juzgar la responsabilidad contable de los gestores de fondos públicos.",
+    "Los miembros del Tribunal tienen independencia e inamovilidad similar a la de los jueces.",
+    "Cualquier obstáculo a las inspecciones (no entregar documentos o no comparecer) se considera infracción sancionable.",
+    "Los ciudadanos tienen derecho a acceder a las cuentas examinadas y a los informes de fiscalización."
+  ],
+  "legal_references": [
+    "Ley 12/1983, de 22 de junio, de Principios Ordenadores de la Hacienda General del País Vasco",
+    "Ley 27/1983 de Relaciones entre las Instituciones Comunes de la Comunidad Autónoma y los Órganos Forales de sus Territorios Históricos",
+    "Decreto Legislativo 1/1997",
+    "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno",
+    "Ley 1/2014, de 26 de junio, Reguladora del Código de Conducta y de los Conflictos de Intereses de los Cargos Públicos"
+  ],
+  "derogations": [],
+  "main_obligations": "Los entes y personas que gestionen o reciban fondos públicos están obligados a facilitar toda la documentación e información que el Tribunal requiera. El incumplimiento de plazos o la negativa a colaborar se considera obstrucción y puede derivar en sanciones legales.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Procedimiento de fiscalización de la liquidación presupuestaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Remisión de la liquidación",
+          "descrption": "El departamento competente envía la liquidación de los presupuestos al Tribunal.",
+          "start_date": "Al mes siguiente de la confección de la liquidación",
+          "end_date": null,
+          "required_documentation": "Documentación de la liquidación presupuestaria"
+        },
+        {
+          "step": 2,
+          "title": "Elaboración del informe de fiscalización",
+          "descrption": "El Tribunal analiza la legalidad, racionalidad y principios contables del gasto.",
+          "start_date": "Desde la recepción de la liquidación",
+          "end_date": "4 meses después de la recepción",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Traslado al Gobierno para alegaciones",
+          "descrption": "Se envía el informe al Gobierno Vasco para que presente sus argumentos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Emisión del informe definitivo",
+          "descrption": "Tras analizar las alegaciones, el Tribunal emite el informe final que se publica en el BOPV.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de enjuiciamiento de responsabilidad contable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación del procedimiento",
+          "descrption": "Se inicia mediante denuncia o de oficio para investigar el manejo de fondos públicos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Adopción de medidas cautelares",
+          "descrption": "El Tribunal puede tomar medidas para proteger los bienes públicos durante la investigación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,114 @@
+{
+  "identifier": "BOE-A-2019-10102",
+  "title": "Ley 10/2019, de 10 de abril, de Transparencia y de Participación de la Comunidad de Madrid",
+  "visible_title": "Ley de Transparencia y de Participación de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "10/2019",
+  "publication_date": "2019-07-09",
+  "enactment_date": "2019-04-10",
+  "last_updated": "2024-12-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2019/04/10/10",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley transforma la gestión pública en Madrid al obligar a las administraciones, universidades y entidades privadas subvencionadas a ser totalmente transparentes con su información. El objetivo es que cualquier ciudadano pueda consultar sin pedir permiso datos clave como gastos de altos cargos, listas de espera o contratos públicos. Además, introduce herramientas para que la gente no solo vigile, sino que participe activamente en la creación de leyes y políticas. En definitiva, busca reducir la opacidad y prevenir la corrupción mediante el acceso libre y actualizado a la información pública.",
+  "citizen_impact": "El ciudadano gana el derecho a saber en qué se gasta cada euro de sus impuestos, incluyendo dietas y viajes de políticos. Puede consultar semanalmente las listas de espera en sanidad, educación y servicios sociales, y tiene el poder de proponer leyes si reúne 10.000 firmas. Además, garantiza que cualquier solicitud de información sea respondida en un máximo de 20 días de forma gratuita.",
+  "professional_impact": "Los altos cargos deben declarar sus bienes y actividades al entrar y salir de su puesto. Las empresas que reciban más de 60.000€ en subvenciones (o el 30% de sus ingresos) deben cumplir estrictos deberes de publicidad. Los grupos de presión y entidades que influyan en políticas públicas están obligados a inscribirse en un nuevo Registro de Transparencia, declarando su financiación y clientes.",
+  "keywords": [
+    "transparencia",
+    "participación ciudadana",
+    "acceso a la información",
+    "comunidad de madrid",
+    "rendición de cuentas",
+    "registro de transparencia",
+    "suvenciones"
+  ],
+  "key_points": [
+    "Publicación obligatoria de agendas de reuniones de responsables públicos y acuerdos con sindicatos o empresas.",
+    "Actualización semanal de listas de espera en servicios sociales, sanitarios y educativos.",
+    "Control estricto de gastos de representación, dietas y viajes de altos cargos hasta nivel de subdirección general.",
+    "Obligación de las entidades privadas con subvenciones significativas (>60.000€ o >30% ingresos) de publicar su información.",
+    "Derecho de la ciudadanía a proponer iniciativas reglamentarias mediante la recogida de 10.000 firmas.",
+    "Creación de un Registro de Transparencia para personas y entidades que ejerzan influencia en políticas públicas.",
+    "Publicación trimestral de contratos menores detallando adjudicatarios y cuantías.",
+    "Obligación de publicar convenios en el BOCM en un plazo de 20 días tras su firma.",
+    "Transparencia total en obras públicas desde la licitación (presupuestos, adjudicatarios y subcontratistas).",
+    "Declaración obligatoria de bienes, derechos y actividades de los altos cargos al inicio y fin de su gestión.",
+    "Apoyo económico y herramientas web para que los municipios de menos de 5.000 habitantes cumplan con la ley.",
+    "Plazo máximo de 20 días para resolver solicitudes de acceso a la información pública."
+  ],
+  "legal_references": [
+    "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno",
+    "Estatuto de Autonomía de la Comunidad de Madrid",
+    "Ley 14/1995, de 21 de abril, de Incompatibilidades de Altos Cargos de la Comunidad de Madrid",
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+    "Ley 38/2003, de 17 de diciembre, General de Subvenciones",
+    "Ley Orgánica 1/1982, de 5 de mayo, de protección civil del derecho al honor, a la intimidad personal y familiar y al propio derecho a la imagen",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Ley 2/2023, de 20 de febrero, reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción",
+    "Ley 5/2016, de 22 de julio, de modificación de la Regulación del Tribunal Administrativo de Contratación Pública de la Comunidad de Madrid"
+  ],
+  "derogatons": [
+    "Disposiciones de igual o inferior rango que se opongan a la Ley 10/2019"
+  ],
+  "main_obligations": "Las administraciones deben mantener un Portal de Transparencia actualizado y responder a solicitudes de información en 20 días. Las entidades privadas subvencionadas y los grupos de interés deben inscribirse y declarar su actividad/financiación en el Registro de Transparencia.",
+  "effective_date": "2020-01-01",
+  "procedures": [
+    {
+      "name": "Inscripción en el Registro de Transparencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración de datos generales",
+          "description": "Aportar nombre, NIF/Razón social, domicilio y datos de contacto de la entidad y su responsable legal.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos de identificación y contacto"
+        },
+        {
+          "step": 2,
+          "title": "Declaración de actividades y representación",
+          "description": "Identificar las actividades cubiertas, intereses sectoriales y personas autorizadas para contactar con la administración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Relación de actividades y personas autorizadas"
+        },
+        {
+          "step": 3,
+          "title": "Declaración financiera",
+          "description": "Informar sobre costes anuales, fondos públicos recibidos y, si es con ánimo de lucro, volumen de negocio y clientes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Información financiera y desglose de presupuesto"
+        }
+      ]
+    },
+    {
+      "name": "Apoyo a la transparencia municipal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Facilitación de herramientas web",
+          "description": "La Comunidad de Madrid entrega herramientas web a los ayuntamientos que lo soliciten.",
+          "start_date": "6 meses desde la publicación de la Ley",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Convocatoria de necesidades para municipios pequeños",
+          "description": "Convocatoria anual para que municipios de <5.000 hab. soliciten recursos para cumplir la ley.",
+          "start_date": "Anual",
+          "end_date": null,
+          "required_documentation": "Detalle de necesidades materiales y económicas"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

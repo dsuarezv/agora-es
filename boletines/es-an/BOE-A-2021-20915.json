@@ -1,0 +1,93 @@
+{
+  "identifier": "BOE-A-2021-20915",
+  "title": "Ley 6/2021, de 15 de noviembre, de medidas para la renovación y modernización de los establecimientos de alojamiento turístico",
+  "visible_title": "Medidas para la renovación y modernización de los establecimientos de alojamiento turístico",
+  "rank": "ley",
+  "country": "es",
+  "department": "Junta de Andalucía",
+  "official_number": "6/2021",
+  "publication_date": "2021-12-20",
+  "enactment_date": "2021-11-15",
+  "last_updated": "2021-11-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2021/11/15/6",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": null,
+  "summary": "Esta ley busca reactivar el sector turístico andaluz tras la crisis del COVID-19 permitiendo la modernización de hoteles y alojamientos. Facilita la ampliación de edificios mediante la flexibilización de límites urbanísticos de edificabilidad y ocupación. El objetivo es permitir que los establecimientos suban de categoría, mejoren sus instalaciones y se adapten a las nuevas exigencias de salud pública y sostenibilidad.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en la mejora potencial de la calidad y variedad de la oferta de alojamiento turístico en Andalucía.",
+  "professional_impact": "Los empresarios del sector turístico (hoteles, casas rurales, campings) se benefician de un aumento de hasta el 15% o 20% en la edificabilidad y ocupación de sus parcelas. Los ayuntamientos mantienen su potestad de otorgar licencias, pero deben aplicar estos nuevos parámetros excepcionales. Se requiere un informe de la Consejería de Turismo para validar que las obras cumplen los fines de modernización.",
+  "keywords": [
+    "turismo",
+    "alojamiento turístico",
+    "modernización hotelera",
+    "urbanismo",
+    "edificabilidad",
+    "Andalucía",
+    "reforma de hoteles"
+  ],
+  "key_points": [
+    "Permite incrementar la edificabilidad y ocupación de un establecimiento hasta un 15% de forma general.",
+    "El incremento sube hasta el 20% si la obra permite subir de categoría o alcanzar el estatus de 'Gran Lujo'.",
+    "Se permite aumentar la altura del edificio para instalar elementos auxiliares (ascensores, escaleras) o servicios en cubierta (spa, gimnasio, restaurante).",
+    "Las obras pueden redistribuir el número de plazas de alojamiento hasta un 10% adicional.",
+    "La medida es excepcional y transitoria: solo aplica a solicitudes de licencia presentadas en un plazo de 3 años desde la entrada en vigor.",
+    "Incluye soluciones para edificios en situación de 'fuera de ordenación' debido a cambios previos en el planeamiento.",
+    "Las nuevas edificaciones quedan vinculadas permanentemente al uso turístico en el Registro de la Propiedad."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020",
+    "Real Decreto-ley 21/2020",
+    "Decreto-ley 2/2020",
+    "Ley 7/2002 de Ordenación Urbanística de Andalucía",
+    "Decreto-ley 13/2020",
+    "Ley del Suelo y Rehabilitación Urbana (RD Legislativo 1/2015)",
+    "Ley 22/1988 de Costas",
+    "Decreto 143/2014"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a la presente ley"
+  ],
+  "main_obligations": "Los promotores deben obtener licencia municipal de obra y un informe favorable de la Consejería de Turismo. Si el incremento de aprovechamiento supera el 10%, se debe entregar al Ayuntamiento el equivalente económico de ese aprovechamiento y modificar el instrumento de planeamiento.",
+  "effective_date": "2021-12-21",
+  "procedures": [
+    {
+      "name": "Solicitud de licencia de obras para modernización turística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Presentación de la solicitud de licencia de obras o inicio de modificación de planeamiento.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": "Plazo de 3 años",
+          "required_documentation": "Proyecto de obra, declaración responsable de clasificación turística y documentación técnica."
+        },
+        {
+          "step": 2,
+          "title": "Informe de la Consejería de Turismo",
+          "description": "La Delegación Territorial comprueba que el proyecto busca realmente la modernización o subida de categoría.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Tramitación urbanística municipal",
+          "description": "El Ayuntamiento valora la adecuación del proyecto a la nueva norma y al resto de la normativa territorial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Otorgamiento de licencia",
+          "description": "Resolución final del Ayuntamiento para permitir el inicio de las obras.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

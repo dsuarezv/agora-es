@@ -1,0 +1,70 @@
+{
+  "identifier": "BOE-A-2009-20657",
+  "title": "Ley 5/2009, de 25 de noviembre, de medidas urgentes en materia de transporte público regular, permanente y de uso general de viajeros por carretera",
+  "visible_title": "Medidas urgentes en materia de transporte público de viajeros por carretera",
+  "rank": "ley",
+  "country": "es",
+  "department": "Junta de Extremadura",
+  "official_number": "5/2009",
+  "publication_date": "2009-12-22",
+  "enactment_date": "2009-11-25",
+  "last_updated": "2021-06-08",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2009/11/25/5",
+  "official_journal": "Diario Oficial de Extremadura",
+  "journal_issue": null,
+  "summary": "Esta ley busca reorganizar todo el sistema de transporte de viajeros por carretera en Extremadura para que sea más eficiente y se adapte mejor a las necesidades actuales. Para lograrlo, permite al Gobierno autonómico alargar los contratos de transporte actuales hasta el año 2018, permitiendo así diseñar un nuevo mapa de rutas sin tener que cancelar todos los servicios de golpe. Además, introduce mecanismos para que las empresas que ya operan líneas regulares tengan prioridad al contratar servicios especiales en zonas donde sus rutas coincidan.",
+  "citizen_impact": "Busca mejorar la calidad y estabilidad del transporte público en la región, asegurando que las rutas se adapten mejor a los nuevos centros de servicios (hospitales, oficinas públicas). Aunque no crea un derecho directo inmediato, el objetivo final es que el ciudadano tenga un servicio de transporte más fiable y conectado.",
+  "professional_impact": "Las empresas de transporte obtienen la posibilidad de prorrogar sus concesiones hasta 2018 y un derecho de preferencia para contratar servicios de uso especial si sus rutas coinciden en un 75% con las regulares. También se les impone la obligación de mantener el número de empleados y de llevar una contabilidad separada para los servicios especiales.",
+  "keywords": [
+    "transporte público",
+    "autobuses",
+    "concesiones",
+    "Extremadura",
+    "transporte de viajeros",
+    "reestructuración de transporte"
+  ],
+  "key_points": [
+    "Prórroga de contratos de transporte público hasta el año 2018 para permitir una reestructuración del sistema.",
+    "Derecho de preferencia para empresas de transporte regular en la contratación de servicios de uso especial si coinciden en un 75% el itinerario.",
+    "Requisito de ocupación mínima para ejercer el derecho de preferencia: menos de 17 viajeros por vehículo y kilómetro.",
+    "Obligación de las empresas de mantener el mismo número de empleados durante la prórroga de la concesión.",
+    "Exclusión expresa del derecho de preferencia para el transporte escolar.",
+    "Obligación de llevar contabilidades separadas para servicios de uso general y de uso especial."
+  ],
+  "legal_references": [
+    "Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres",
+    "Estatuto de Autonomía de Extremadura",
+    "Ley 1/2008, de 22 de mayo, de Creación de Entidades Públicas de la Junta de Extremadura"
+  ],
+  "derogations": [
+    "Disposición adicional sexta de la Ley 1/2008, de 22 de mayo, de Creación de Entidades Públicas de la Junta de Extremadura"
+  ],
+  "main_obligations": "Las empresas concesionarias deben mantener el mismo número de empleados que tenían al inicio de la prórroga. Asimismo, deben gestionar la contabilidad de los servicios de uso especial de forma totalmente independiente a la de los servicios de uso general.",
+  "effective_date": "2009-12-23",
+  "procedures": [
+    {
+      "name": "Ejercicio del derecho de preferencia en servicios de uso especial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Verificación de requisitos",
+          "description": "La empresa debe cumplir con el índice de ocupación (<17 viajeros/vehículo/km) y la coincidencia de itinerario (75%).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación contable y de rutas"
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de autorización",
+          "description": "Tramitación ante la Consejería competente para obtener el permiso de prestación del servicio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

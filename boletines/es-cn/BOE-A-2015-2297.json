@@ -1,0 +1,90 @@
+{
+  "identifier": "BOE-A-2015-2297",
+  "title": "Ley 3/2015, de 9 de febrero, sobre tramitación preferente de Inversiones Estratégicas para Canarias",
+  "visible_title": "Ley sobre tramitación preferente de Inversiones Estratégicas para Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "3/2015",
+  "publication_date": "2015-03-04",
+  "enactment_date": "2015-02-09",
+  "last_updated": "2017-07-19",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2015/02/09/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma busca acelerar la llegada de capital y proyectos de gran relevancia económica a Canarias mediante un sistema de 'vía rápida' administrativa. Permite al Gobierno canario declarar ciertas inversiones como de 'interés estratégico' para eliminar trabas burocráticas. El objetivo principal es reducir los tiempos de espera de la administración para fomentar la creación de empleo y la competitividad de las islas.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo por la posible mejora indirecta en la economía y el empleo derivada de la agilización de grandes proyectos.",
+  "professional_impact": "Las empresas que realicen proyectos de gran impacto pueden reducir a la mitad los plazos de resolución de sus trámites administrativos. Los funcionarios de las administraciones canarias deben dar prioridad y urgencia a estos expedientes y reducir sus tiempos de respuesta.",
+  "keywords": [
+    "inversión estratégica",
+    "tramitación preferente",
+    "Canarias",
+    "simplificación administrativa",
+    "desarrollo económico",
+    "agilización de trámites"
+  ],
+  "key_points": [
+    "Creación de la figura de 'Inversión de Interés Estratégico' para proyectos clave.",
+    "Reducción a la mitad de los plazos de resolución de trámites administrativos para estas inversiones.",
+    "Reducción a la mitad de los plazos en materia de urbanismo y licencias relacionadas.",
+    "Reducción a la mitad de los plazos en procedimientos medioambientales (si la ley estatal lo permite).",
+    "El Comité de Inversiones y Proyectos Estratégicos supervisa y elimina obstáculos administrativos.",
+    "Plazo máximo de 3 meses para que el Gobierno decida si una inversión es estratégica; si no responde, se entiende denegada."
+  ],
+  "legal_references": [
+    "Ley 6/2009, de 6 de mayo",
+    "Ley 14/2009, de 30 de diciembre",
+    "Ley 7/1995, de 6 abril",
+    "Ley 7/2011, de 5 de abril",
+    "Ley 2/2013, de 29 de mayo",
+    "Decreto 86/2012, de 11 de octubre",
+    "Estatuto de Autonomía de Canarias"
+  ],
+  "derogations": [
+    "Ley 3/2015 derogada por la Ley 4/2017, de 13 de julio"
+  ],
+  "main_obligations": "Los promotores deben presentar una memoria justificativa detallada que demuestre la viabilidad jurídica, económica y financiera del proyecto. Las administraciones deben responder a los informes solicitados por el Comité en un plazo de 10 días.",
+  "effective_date": "2015-03-05",
+  "procedures": [
+    {
+      "name": "Declaración de interés estratégico de una inversión",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la propuesta",
+          "description": "El promotor (público o privado) presenta solicitud con memoria justificativa al Comité de Inversiones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria con características técnicas, económicas, localización y justificación de impacto económico/social."
+        },
+        {
+          "step": 2,
+          "title": "Valoración del Comité",
+          "description": "El Comité de Inversiones valora la propuesta y solicita informes a las administraciones competentes.",
+          "start_date": null,
+          "end_date": "10 días para emitir informes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Acuerdo del Consejo de Gobierno",
+          "description": "El Consejo de Gobierno dicta el acuerdo de declaración tras la valoración del Comité.",
+          "start_date": null,
+          "end_date": "Máximo 3 meses desde la entrada en registro",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Publicación",
+          "description": "El acuerdo se publica en el Boletín Oficial de Canarias para su entrada en vigor.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,84 @@
+{
+  "identifier": "BOE-A-2021-11475",
+  "title": "Ley Foral 10/2021, de 18 de junio, por la que se regula el derecho al cribado neonatal amplio en Navarra",
+  "visible_title": "Derecho al cribado neonatal amplio en Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "10/2021",
+  "publication_date": "2021-07-10",
+  "enactment_date": "2021-06-18",
+  "last_updated": "2021-06-25",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2021/06/18/10",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el derecho de todos los recién nacidos en Navarra a recibir un programa de cribado neonatal ampliado para detectar enfermedades metabólicas, endocrinas, hemopatías e inmunodeficiencias. El objetivo es prevenir discapacidades y muertes evitables mediante un diagnóstico precoz que permita iniciar tratamientos inmediatos. La norma crea un Comité de Expertos para actualizar constantemente la lista de enfermedades a detectar según la evidencia científica.",
+  "citizen_impact": "Los recién nacidos en Navarra pasan a tener derecho garantizado a una 'prueba del talón' mucho más completa que la mínima estatal. Esto permite detectar decenas de enfermedades raras antes de que presenten síntomas, asegurando un tratamiento temprano que mejora drásticamente la calidad de vida y evita secuelas graves.",
+  "professional_impact": "El personal sanitario (pediatras, genetistas, inmunólogos, etc.) deberá integrarse en un nuevo Comité de Expertos y en una Unidad de Enfermedades Raras específica. Además, se establece la obligación de realizar estudios genómicos en casos positivos y de mantener un sistema de información de datos anonimizados para investigación.",
+  "keywords": [
+    "cribado neonatal",
+    "prueba del talón",
+    "enfermedades raras",
+    "salud infantil",
+    "Navarra",
+    "diagnóstico precoz",
+    "metabolopatías"
+  ],
+  "key_points": [
+    "Garantiza el derecho al cribado neonatal ampliado para todos los niños nacidos en Navarra.",
+    "Amplía la detección de enfermedades de 9 a más de 30 patologías de forma progresiva.",
+    "Crea un Comité de Expertos Multidisciplinar que emitirá recomendaciones vinculantes para incluir nuevas enfermedades.",
+    "Establece la creación de una Unidad de Enfermedades Raras en el Complejo Hospitalario de Navarra.",
+    "Incluye la realización de estudios genéticos y genómicos ante resultados positivos en el cribado.",
+    "Obliga a realizar una evaluación anual del programa y presentarla al Parlamento de Navarra.",
+    "Implementación obligatoria de las nuevas patologías listadas para enero de 2022."
+  ],
+  "legal_references": [
+    "Ley Orgánica 13/1982, de Reintegración y Mejoramiento del Régimen Foral de Navarra",
+    "Ley 14/1986, de 25 de abril, General de Sanidad",
+    "Ley Foral 10/1990, de 23 de noviembre, de Salud",
+    "Ley Foral 17/2010, de 8 de noviembre, de derechos y deberes de las personas en materia de salud",
+    "Ley Foral 11/2019, de 11 de marzo, de la Administración de la Comunidad Foral de Navarra",
+    "Orden SSI/2065/2014, de 31 de octubre",
+    "Real Decreto 1030/2006, de 15 de septiembre"
+  ],
+  "derogations": [
+    "Disposiciones legales o reglamentarias que se opongan a lo establecido en esta ley foral"
+  ],
+  "main_obligations": "El Gobierno debe constituir el Comité de Expertos en un plazo de 6 meses y asegurar la inclusión de las patologías del artículo 2.2.a antes de enero de 2022. El Departamento de Salud debe adoptar las recomendaciones del Comité mediante orden foral.",
+  "effective_date": "2021-07-11",
+  "procedures": [
+    {
+      "name": "Implementación del programa de cribado neonatal ampliado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Constitución del Comité de Expertos Multidisciplinar",
+          "descrption": "Creación del órgano de expertos mediante decreto foral para evaluar la evidencia científica.",
+          "start_date": "6 meses desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Inclusión de patologías iniciales (Art. 2.2.a)",
+          "descrption": "Incorporación obligatoria de la primera lista de enfermedades al programa.",
+          "start_date": "2022-01-01",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Evaluación anual del programa",
+          "descrption": "Presentación de resultados y efectividad ante el Parlamento de Navarra.",
+          "start_date": "Enero de cada año",
+          "end_date": null,
+          "required_documentation": "Memoria anual del Instituto de Salud Pública y Laboral de Navarra"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

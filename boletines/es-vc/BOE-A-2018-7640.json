@@ -1,0 +1,103 @@
+{
+  "identifier": "BOE-A-2018-7640",
+  "title": "Ley 10/2018, de 18 de mayo, de creación del Consell del Audiovisual de la Comunitat Valenciana (CACV)",
+  "visible_title": "Creación del Consell del Audiovisual de la Comunitat Valenciana (CACV)",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "10/2018",
+  "publication_date": "2018-06-08",
+  "enactment_date": "2018-05-18",
+  "last_updated": "2018-12-28",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2018/05/18/10",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un nuevo modelo de regulación audiovisual en la Comunidad Valenciana mediante la creación del Consell del Audiovisual (CACV), un organismo independiente de los partidos políticos. Su función es supervisar, regular y sancionar tanto a medios públicos como privados de la región. Además, refuerza el control sobre la gestión económica de la corporación audiovisual pública y garantiza que el acceso a sus puestos de trabajo sea mediante procesos de mérito y capacidad. En definitiva, busca asegurar la independencia de los medios, la transparencia financiera y la protección de los derechos de los espectadores.",
+  "citizen_impact": "El ciudadano gana un defensor ante los medios de comunicación a través de la nueva Oficina de defensa de la audiencia, donde podrá presentar quejas sobre programación o publicidad. Asimismo, se garantiza una mayor calidad y representatividad de los contenidos al exigir la presencia del valenciano y la igualdad de género en la programación.",
+  "professional_impact": "Los operadores audiovisuales (públicos y privados) quedan bajo la supervisión y potestad sancionadora del CACV, debiendo facilitar toda la información necesaria para inspecciones. Los trabajadores de la corporación audiovisual pública deberán acceder a sus puestos mediante concurso-oposición en un plazo de tres años, y la dirección debe someterse a un control económico más estricto por parte de la Intervención General.",
+  "keywords": [
+    "audiovisual",
+    "CACV",
+    "regulación",
+    "Comunitat Valenciana",
+    "medios de comunicación",
+    "concurso-oposición",
+    "defensa de la audiencia"
+  ],
+  "key_points": [
+    "Creación del CACV como autoridad independiente para regular y sancionar medios públicos y privados.",
+    "Capacidad del organismo para otorgar, renovar o revocar licencias de comunicación audiovisual.",
+    "Implementación de una Oficina de defensa de la audiencia para gestionar quejas ciudadanas.",
+    "Obligatoriedad de garantizar la presencia del valenciano y la igualdad de género en contenidos y publicidad.",
+    "Control estricto de la Intervención General sobre la gestión económica de la corporación audiovisual.",
+    "Obligación de cubrir todos los puestos de la corporación mediante concurso-oposición en un plazo de tres años.",
+    "Valoración de la experiencia previa en la RTVV o Corporación Valenciana como mérito, sin excluir a otros candidatos."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunitat Valenciana",
+    "Ley 1/2006, del sector audiovisual de la Generalitat Valenciana",
+    "Ley 6/2016, del servicio público de radiodifusión y televisión de ámbito autonómico",
+    "Directiva 2010/13/UE del Parlamento Europeo y del Consejo",
+    "Ley 7/2010, de 31 de marzo, General de la Comunicación Audiovisual",
+    "Ley 3/2013, de creación de la Comisión Nacional de Mercados y la Competencia",
+    "Ley 39/2015, de 1 de octubre, del procedimiento administrativo común",
+    "Ley 1/2015, de 6 de febrero, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones",
+    "Ley 60/2003, de 23 de diciembre, de arbitraje",
+    "Directiva 2020/13/EU de la Comisión Europea",
+    "Convenio Europeo de Derechos Humanos",
+    "Ley 4/1983, de 23 de mayo, del uso y enseñanza del valenciano",
+    "Ley 40/2015, de 1 de octubre, de régimen jurídico del sector público"
+  ],
+  "derogatons": [],
+  "main_obligations": "Los operadores deben facilitar la información requerida para las inspecciones del CACV. La dirección general de la corporación debe proponer un calendario para la provisión de puestos por concurso-oposición en un plazo máximo de tres años.",
+  "effective_date": "2018-06-08",
+  "procedures": [
+    {
+      "name": "Constitución del Consell de l’Audiovisual",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de constitución del Pleno",
+          "descrption": "El Pleno del Consell debe quedar constituido para empezar a operar.",
+          "start_date": "Desde la entrada en vigor de la ley",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación del Reglamento Orgánico",
+          "descrption": "El Consell debe presentar su proyecto de reglamento para su funcionamiento interno.",
+          "start_date": "Desde la constitución del Pleno",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Provisión definitiva de puestos de trabajo en la corporación audiovisual",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de calendario y condiciones",
+          "description": "La dirección general propone al Consejo Rector el plan para cubrir las vacantes mediante concurso-oposición.",
+          "start_date": "Desde la aprobación de la disposición",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Celebración de concurso-oposición",
+          "description": "Realización de los procesos selectivos incluyendo la valoración de la experiencia previa en entidades audiovisuales públicas anteriores.",
+          "start_date": "Desde la aprobación de la disposición",
+          "end_date": "3 años desde la aprobación de la disposición",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

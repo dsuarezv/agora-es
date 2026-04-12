@@ -1,0 +1,143 @@
+{
+  "identifier": "BOE-A-2026-7295",
+  "title": "Real Decreto 238/2026, de 25 de marzo, por el que se desarrolla el sistema de facturación electrónica obligatoria entre empresarios y profesionales y por el que se modifica el Reglamento por el que se regulan las obligaciones de facturación, aprobado por el Real Decreto 1619/2012, de 30 de noviembre",
+  "visible_title": "Sistema de facturación electrónica obligatoria entre empresarios y profesionales",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes",
+  "official_number": "238/2026",
+  "publication_date": "2026-03-31",
+  "enactment_date": "2026-03-25",
+  "last_updated": "2026-03-31",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2026/03/25/238",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "79",
+  "summary": "Esta norma impone el uso obligatorio de la factura electrónica en todas las transacciones comerciales entre empresas y autónomos (B2B) en España. El objetivo es digitalizar la economía y reducir la morosidad mediante un sistema que combina plataformas privadas interconectadas con una solución gratuita de la AEAT. El cambio no es inmediato, sino que se aplicará de forma escalonada según el tamaño de la empresa. Además, se obliga a informar sobre la aceptación de facturas y la fecha real de pago para mejorar la transparencia financiera.",
+  "citizen_impact": "Sin impacto directo en ciudadanos, salvo que actúen como autónomos o empresarios.",
+  "professional_impact": "Las empresas y autónomos deberán adaptar sus sistemas de gestión para emitir y recibir facturas exclusivamente en formatos electrónicos estándar. Se introduce la obligación de comunicar el pago efectivo a la AEAT en un plazo de 4 días y de informar sobre la aceptación o rechazo de las facturas. Las grandes empresas tendrán que cumplir con la normativa con mayor rapidez que las pequeñas.",
+  "keywords": [
+    "factura electrónica",
+    "B2B",
+    "AEAT",
+    "digitalización empresarial",
+    "interoperabilidad",
+    "morosidad"
+  ],
+  "key_points": [
+    "Obligatoriedad total de la factura electrónica en todas las operaciones comerciales B2B en España.",
+    "Creación de una plataforma pública gratuita gestionada por la AEAT para todos los usuarios.",
+    "Uso obligatorio de formatos estándar como UBl, Facturae, EDIFACT o CII para asegurar la comunicación entre sistemas.",
+    "Las plataformas privadas deben interconectarse entre sí en un máximo de un mes tras la solicitud del cliente.",
+    "Obligación de informar sobre la aceptación/rechazo de la factura y la fecha de pago efectivo.",
+    "Implementación escalonada: 12 meses para empresas con facturación >8M€ y 24 meses para el resto.",
+    "Las plataformas privadas deben enviar una copia fiel a la AEAT si no utilizan la solución pública.",
+    "Las grandes empresas tienen un plazo de adaptación más corto tras la publicación de las órdenes técnicas.",
+    "Las plataformas privadas tienen 12 meses para cumplir con la interconexión y envío de copias tras la orden ministerial."
+  ],
+  "legal_references": [
+    "Real Decreto 238/2026",
+    "Real Decreto 1619/2012",
+    "Ley 18/2022",
+    "Ley 56/2007",
+    "Ley 3/2004",
+    "Ley 11/2021",
+    "Ley 7/2024",
+    "Ley 38/1999",
+    "Directiva (UE) 2016/1164",
+    "Directiva 2014/55/UE",
+    "Directiva 2011/7/UE",
+    "Directiva 2025/516/UE",
+    "Ley 37/1992"
+  ],
+  "derogations": [],
+  "main_obligations": "Emisión y recepción obligatoria de facturas en formato electrónico según el volumen de negocio. Se debe comunicar el pago efectivo a la AEAT en un plazo de 4 días naturales y cumplir con los plazos de adaptación tras la publicación de las órdenes técnicas.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Implementación del sistema de facturación electrónica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación de la orden ministerial",
+          "description": "Publicación de la orden que desarrolla y gestiona la solución pública de la AEAT. Este es el hito que activa los plazos.",
+          "start_date": "Pendiente de publicación de orden ministerial",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Fase de aplicación para grandes empresas",
+          "description": "Entrada en vigor de la obligación para empresarios con volumen de operaciones superior a 8 millones de euros.",
+          "start_date": "12 meses tras la orden ministerial",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Fase de aplicación para PYMES y profesionales",
+          "description": "Entrada en vigor de la obligación para el resto de empresarios y profesionales.",
+          "start_date": "24 meses tras la orden ministerial",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Publicación de la Orden Ministerial de desarrollo",
+          "descrption": "El Ministerio de Hacienda define los requisitos técnicos, formas de acceso y comunicación.",
+          "start_date": "Fecha de la orden ministerial",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Obligatoriedad para grandes empresas",
+          "descrption": "Empresas con volumen de operaciones >8M€ deben implementar el sistema.",
+          "start_date": "12 meses después de la orden ministerial",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Obligatoriedad para el resto de profesionales y empresas",
+          "descrption": "Pymes y otros profesionales deben implementar el sistema.",
+          "start_date": "24 meses después de la orden ministerial",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 7,
+          "title": "Cumplimiento de plataformas privadas",
+          "descrption": "Las plataformas de intercambio deben cumplir requisitos de interconexión y envío de copias.",
+          "start_date": "12 meses después de la orden ministerial",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Interconexión entre plataformas privadas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de interconexión",
+          "description": "El cliente solicita a su plataforma que se conecte con la plataforma del destinatario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de operatividad",
+          "description": "La plataforma receptora debe tener la interconexión operativa.",
+          "start_date": "Desde la recepción de la solicitud",
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

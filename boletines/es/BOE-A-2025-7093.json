@@ -1,0 +1,88 @@
+{
+  "identifier": "BOE-A-2025-7093",
+  "title": "Real Decreto-ley 4/2025, de 8 de abril, de medidas urgentes de respuesta a la amenaza arancelaria y de relanzamiento comercial",
+  "visible_title": "Medidas de respuesta a la amenaza arancelaria y relanzamiento comercial",
+  "rank": "real_decreto_ley",
+  "country": "es",
+  "department": "Jefatura del Estado",
+  "official_number": "4/2025",
+  "publication_date": "2025-04-09",
+  "enactment_date": "2025-04-08",
+  "last_updated": "2025-04-09",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rdl/2025/04/08/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "86",
+  "summary": "El Gobierno lanza un plan de 14.100 millones de euros para proteger a las empresas españolas ante el aumento de aranceles anunciado por Estados Unidos. La medida busca evitar crisis de liquidez mediante avales estatales, reforzar la internacionalización a través del FIEM y la CESCE, y ayudar a las empresas a diversificar sus mercados. Además, se flexibilizan las normas de solvencia para evitar la disolución de sociedades afectadas por pérdidas acumuladas.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo por la protección indirecta del empleo en sectores exportadores clave.",
+  "professional_impact": "Las empresas exportadoras e importadoras con exposición al mercado estadounidense acceden a una línea de avales de 5.000 millones de euros y mayor cobertura de riesgo (CESCE). Los administradores de sociedades con pérdidas acumuladas por la crisis post-COVID tienen un respiro legal para no disolver la empresa. Se introducen nuevos mecanismos de financiación y apoyo a la internacionalización mediante el FIEM.",
+  "keywords": [
+    "aranceles",
+    "Estados Unidos",
+    "comercio exterior",
+    "avales estatales",
+    "FIEM",
+    "CESCE",
+    "liquidez empresarial",
+    "internacionalización"
+  ],
+  "key_points": [
+    "Creación de una línea de avales de hasta 5.000 millones de euros para empresas con exposición al mercado de EE. UU.",
+    "Ampliación del límite de cobertura de riesgos de la CESCE de 9.000 a 15.000 millones de euros.",
+    "Incremento de la capacidad operativa del FIEM hasta 700 millones de euros para apoyar la internacionalización.",
+    "Suspensión de la obligación de disolver sociedades por pérdidas acumuladas en 2020 y 2021 hasta 2025.",
+    "Permiso para reformular cuentas anuales del ejercicio 2024 en el plazo de un mes para reflejar la nueva situación financiera.",
+    "Garantía de reparto de ayudas respetando el equilibrio territorial según la capacidad exportadora de cada comunidad autónoma.",
+    "Estabilización del sistema CARI mediante financiación a través de deuda pública para compensar riesgos de tipos de interés."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 86)",
+    "Ley 11/2010, de 28 de junio",
+    "Ley 16/2022, de 5 de septiembre",
+    "Ley 31/2022, de 23 de diciembre",
+    "Ley 14/2013, de 27 de septiembre",
+    "Ley de Sociedades de Capital (Real Decreto Legislativo 1/2010)",
+    "Ley 39/2015, de 1 de octubre"
+  ],
+  "derogations": [],
+  "main_obligations": "Las empresas que soliciten avales deberán cumplir con la normativa de ayudas de Estado de la UE. El Ministro de Economía debe rendir cuentas trimestralmente ante el Congreso sobre la ejecución del plan.",
+  "effective_date": "2025-04-09",
+  "procedures": [
+    {
+      "name": "Gestión de avales para empresas afectadas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de avales",
+          "description": "Las empresas con exposición al mercado de EE. UU. pueden solicitar avales para liquidez o reconversión.",
+          "start_date": "2025-04-09",
+          "end_date": "2026-06-30",
+          "required_documentation": "Según se defina en el Acuerdo de Consejo de Ministros"
+        }
+      ]
+    },
+    {
+      "name": "Reformulación de cuentas anuales 2024",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de reformulación",
+          "description": "Los administradores pueden reformular las cuentas del ejercicio 2024 para incluir los efectos de la norma.",
+          "start_date": "2025-04-09",
+          "end_date": "1 mes desde la entrada en vigor",
+          "required_documentation": "Cuentas anuales, informe de gestión y propuesta de aplicación del resultado"
+        },
+        {
+          "step": 2,
+          "title": "Celebración de la Junta",
+          "description": "Reunión de la junta general para aprobar las nuevas cuentas reformuladas.",
+          "start_date": "Tras la nueva formulación",
+          "end_date": "3 meses tras la nueva formulación",
+          "required_documentation": "Orden del día y convocatoria"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-2023-7504",
+  "title": "Ley 3/2023, de 7 de marzo, de familias monoparentales en La Rioja",
+  "visible_title": "Ley de familias monoparentales en La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "3/2023",
+  "publication_date": "2023-03-23",
+  "enactment_date": "2023-03-07",
+  "last_updated": "2023-03-09",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2023/03/07/3",
+  "official_journal": "Boletín Oficial de La Rioja",
+  "journal_issue": null,
+  "summary": "Esta ley reconoce jurídicamente a las familias monoparentales en La Rioja para combatir su vulnerabilidad económica y social. Establece un marco de protección integral que incluye beneficios fiscales, educativos, de transporte y vivienda. Además, define criterios claros para la obtención del título oficial y clasifica a estas familias según su nivel de necesidad.",
+  "citizen_impact": "Los ciudadanos que formen parte de una familia monoparental pueden solicitar un título oficial para acceder a beneficios como reducciones en el transporte, ayudas en educación y prioridad en viviendas sociales. El trámite es gratuito y permite equiparar ciertos derechos a los de las familias numerosas.",
+  "professional_impact": "Los funcionarios de la administración autonómica y local deberán aplicar nuevos baremos en adjudicaciones de vivienda, becas y servicios sociales. Las empresas y la administración deberán promover medidas de conciliación y cláusulas de responsabilidad familiar en la negociación colectiva.",
+  "keywords": [
+    "familia monoparental",
+    "La Rioja",
+    "protección social",
+    "conciliación",
+    "ayudas fiscales",
+    "vivienda social",
+    "igualdad"
+  ],
+  "key_points": [
+    "Reconocimiento oficial de la condición de familia monoparental mediante un título.",
+    "Equiparación de beneficios de las familias monoparentales con los de las familias numerosas en diversas áreas.",
+    "Creación de dos categorías: familias monoparentales 'especiales' (mayor vulnerabilidad) y 'generales'.",
+    "Acceso a beneficios en transporte, educación (no universitaria y universitaria), vivienda y servicios sociales.",
+    "El procedimiento de reconocimiento tiene un plazo máximo de resolución de 3 meses con silencio administrativo positivo.",
+    "La vigencia general del título es de 5 años, con variaciones según la causa de la condición (ej. ingresos o discapacidad).",
+    "Exención de residencia de 6 meses para personas con protección internacional o refugiados.",
+    "Gratuidad en la expedición y renovación del título."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de La Rioja",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Directiva (UE) 2019/1158",
+    "Ley 11/2022, de 20 de septiembre, contra la Violencia de Género en La Rioja",
+    "Código Penal (Artículo 226)",
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Ley Orgánica 3/2018, de Protección de Datos Personales"
+  ],
+  "derogations": [
+    "Todas las disposiciones que se opongan a lo establecido en la presente ley"
+  ],
+  "main_obligations": "Los titulares deben comunicar cualquier cambio en su situación familiar que afecte a su condición en un plazo de 3 meses. El uso indebido, la ocultación de requisitos o la cesión del título a terceros conlleva sanciones que pueden incluir la suspensión de derechos hasta por 48 meses o la pérdida definitiva de la condición.",
+  "effective_date": "2023-04-23",
+  "procedures": [
+    {
+      "name": "Reconocimiento y renovación del título de familia monoparental",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Inicio del trámite por parte de un integrante de la unidad familiar.",
+          "start_date": "A partir de la entrada en vigor de la ley",
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la condición de única persona responsable y la dependencia económica de los miembros."
+        },
+        {
+          "step": 2,
+          "title": "Subsanación de errores",
+          "description": "Si la documentación es insuficiente, se requiere al interesado para corregirlo.",
+          "start_date": "Tras la revisión inicial",
+          "end_date": "10 días",
+          "required_documentation": "Documentos requeridos por la administración"
+        },
+        {
+          "step": 3,
+          "title": "Resolución administrativa",
+          "description": "Dictamen de la Dirección General competente para otorgar, denegar o archivar.",
+          "start_date": "Desde la entrada en registro",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

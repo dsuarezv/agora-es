@@ -1,0 +1,112 @@
+{
+  "identifier": "BOE-A-2003-8797",
+  "title": "Ley 9/2003, de 8 de abril, de Coordinación de Policías Locales de Castilla y León",
+  "visible_title": "Ley de Coordinación de Policías Locales de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "9/2003",
+  "publication_date": "2003-04-30",
+  "enactment_date": "2003-04-08",
+  "last_updated": "2024-05-14",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2003/04/08/9",
+  "official_journal": "Boletín Oficial de Castilla y León",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco de actuación y coordinación para todos los cuerpos de Policía Local de los municipios de Castilla y León. Busca profesionalizar el servicio mediante la unificación de criterios de formación, selección y uniformidad, además de regular el estatuto jurídico de sus agentes. Su objetivo es que la policía municipal sea más eficiente y homogénea en toda la comunidad, respetando siempre la autonomía de cada ayuntamiento.",
+  "citizen_impact": "Mejora la seguridad ciudadana al garantizar que los agentes locales tengan una formación estandarizada y medios técnicos adecuados. Los ciudadanos se benefician de una policía más profesional, cercana y con protocolos de actuación coordinados en toda la región.",
+  "professional_impact": "Los agentes de policía local ven regulado su estatuto personal, incluyendo sus escalas (Superior, Técnica y Ejecutiva), procesos de promoción, movilidad y situaciones de segunda actividad. También se establecen requisitos estrictos para la creación de cuerpos municipales y la gestión de sus plantillas.",
+  "keywords": [
+    "Policía Local",
+    "Coordinación policial",
+    "Seguridad ciudadana",
+    "Castilla y León",
+    "Estatuto personal",
+    "Formación policial"
+  ],
+  "key_points": [
+    "Unificación de criterios para la formación profesional a través de la Escuela Regional de Policía Local.",
+    "Establecimiento de tres escalas jerárquicas: Superior, Técnica y Ejecutiva.",
+    "Obligatoriedad de uniformidad homogénea que incluya el emblema de la Comunidad y el municipio.",
+    "Regulación de la 'segunda actividad' para agentes que por edad o salud no puedan realizar funciones operativas.",
+    "Requisito de plantilla mínima (Subinspector, Oficial y 5 Agentes) para municipios con 7 o más efectivos.",
+    "Creación de la Comisión Regional de Coordinación para mediar en conflictos y asesorar a municipios.",
+    "Posibilidad de convenios entre municipios para actuaciones extramunicipales.",
+    "Obligación de realizar prácticas anuales de tiro para garantizar la eficacia del armamento."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Castilla y León",
+    "Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad",
+    "Ley 12/1990, de 28 de noviembre, de Coordinación de Policías Locales de Castilla y León",
+    "Real Decreto Legislativo 5/2015",
+    "Ley 30/1992"
+  ],
+  "derogations": [
+    "Ley 12/1990, de 28 de noviembre, de Coordinación de Policías Locales de Castilla y León"
+  ],
+  "main_obligations": "Los ayuntamientos con cuerpos de 7 o más agentes deben cubrir el servicio de forma permanente y contar con una estructura mínima de mando. Los agentes deben portar siempre su identificación y uniforme reglamentario, y los municipios deben garantizar prácticas de tiro anuales.",
+  "effective_date": "2003-05-20",
+  "procedures": [
+    {
+      "name": "Acceso al Cuerpo de Policía Local",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria",
+          "description": "Publicación de la oferta de empleo en el BOCyL por parte del Ayuntamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Instancia de solicitud"
+        },
+        {
+          "step": 2,
+          "title": "Fase de Oposición",
+          "description": "Superación de pruebas médicas, psicotécnicas, físicas y teóricas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Curso Selectivo",
+          "description": "Formación obligatoria en la Escuela Regional de Policía Local con duración mínima de 9 meses.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Periodo de Prácticas",
+          "description": "Realización de prácticas en el municipio correspondiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Pase a Segunda Actividad por Edad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud",
+          "description": "El funcionario debe presentar la solicitud con antelación.",
+          "start_date": "9 meses antes de la fecha deseada",
+          "end_date": null,
+          "required_documentation": "Solicitud formal"
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "El Alcalde debe resolver la solicitud tras informe del Jefe del Cuerpo.",
+          "start_date": null,
+          "end_date": "3 meses desde la recepción",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,100 @@
+{
+  "identifier": "BOE-A-2019-5824",
+  "title": "Ley 3/2019, de 6 de marzo, Reguladora de los Puntos de Encuentro Familiar en la Comunidad de Madrid",
+  "visible_title": "Ley Reguladora de los Puntos de Encuentro Familiar en la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "3/2019",
+  "publication_date": "2019-04-17",
+  "enactment_date": "2019-03-06",
+  "last_updated": "2019-03-13",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2019/03/06/3",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley regula los Puntos de Encuentro Familiar (PEF) en la Comunidad de Madrid para facilitar que los menores mantengan relaciones con sus familiares tras una ruptura o separación. El objetivo es ofrecer un espacio neutral y profesional que garantice la seguridad de los niños, especialmente en casos de conflicto o riesgo. La norma busca evitar que las visitas se conviertan en focos de conflicto o violencia, proporcionando un entorno especializado y temporal.",
+  "citizen_impact": "Las familias en proceso de separación o con hijos en acogimiento pueden acceder a un servicio gratuito para gestionar las visitas de forma segura y supervisada. Los menores cuentan con mecanismos de protección reforzados, como buzones de quejas directos a la Fiscalía para garantizar su seguridad.",
+  "professional_impact": "Los profesionales de servicios sociales y psicología deben contar con formación específica en perspectiva de género y derechos humanos. Los centros que gestionen estos servicios deben cumplir con requisitos estrictos de personal multidisciplinar (abogados, psicólogos, trabajadores sociales) y protocolos de seguridad coordinados con la policía.",
+  "keywords": [
+    "Puntos de Encuentro Familiar",
+    "menores",
+    "derecho de visitas",
+    "violencia de género",
+    "Comunidad de Madrid",
+    "interés superior del menor",
+    "servicios sociales"
+  ],
+  "key_points": [
+    "El servicio es gratuito en los supuestos establecidos por la ley.",
+    "Se garantiza la especialización del personal en derecho de familia, menores y violencia de género.",
+    "Los menores tienen derecho a buzones de quejas confidenciales dirigidos a la Fiscalía.",
+    "La intervención en los puntos de encuentro es de carácter temporal y debe revisarse al año.",
+    "Se prohíbe la mediación en casos donde exista violencia de género.",
+    "Los centros deben contar con un equipo multidisciplinar mínimo (abogado, psicólogo, trabajador social/educador y administrativo).",
+    "Se establece la obligatoriedad de formación en perspectiva de género para todos los profesionales del centro.",
+    "Los centros deben operar con horarios flexibles que permitan la conciliación escolar y laboral."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 26/2015 de modificación del sistema de protección a la infancia y a la adolescencia",
+    "Código Civil español",
+    "Ley Orgánica 1/2004 de medidas de protección integral contra la violencia de género",
+    "Ley 11/2003 de Servicios Sociales de la Comunidad de Madrid",
+    "Ley Orgánica 15/1999 de Protección de Datos de Carácter Personal",
+    "Ley 39/2015 del Procedimiento Administrativo Común",
+    "Ley 40/2015 del Régimen Jurídico del Sector Público"
+  ],
+  "derogations": [],
+  "main_obligations": "Los centros deben garantizar la confidencialidad y la seguridad de los menores, aplicando protocolos de vigilancia en casos de violencia de género. Los usuarios deben respetar las normas de convivencia y acudir puntualmente a las citas, comunicando cualquier falta con 48 horas de antelación.",
+  "effective_date": "2019-04-18",
+  "procedures": [
+    {
+      "name": "Intervención en el Punto de Encuentro Familiar",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Derivación",
+          "description": "El acceso se produce mediante resolución judicial o administrativa de entidades de protección de menores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Resolución judicial o administrativa de derivación"
+        },
+        {
+          "step": 2,
+          "title": "Entrevista previa",
+          "description": "Entrevistas individuales con los progenitores o familiares con derecho a visita.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Elaboración del Plan de Intervención Individualizada",
+          "description": "El equipo técnico propone un plan de actuación tras la valoración.",
+          "start_date": "Tras la entrevista",
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Alegaciones al Plan",
+          "description": "Los progenitores pueden presentar alegaciones motivadas sobre la propuesta del plan.",
+          "start_date": "Tras la notificación del plan",
+          "end_date": "10 días",
+          "required_documentation": "Alegaciones por escrito"
+        },
+        {
+          "step": 5,
+          "title": "Inicio de la intervención",
+          "description": "Comienzo de las visitas o servicios según el plan aprobado.",
+          "start_date": "Tras la aprobación del plan",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

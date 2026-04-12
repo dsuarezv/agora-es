@@ -1,0 +1,103 @@
+{
+  "identifier": "BOE-A-2008-15147",
+  "title": "Ley 1/2008, de 26 de junio, de Modernización del Comercio de la Comunidad de Madrid",
+  "visible_title": "Ley de Modernización del Comercio de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "1/2008",
+  "publication_date": "2008-09-18",
+  "enactment_date": "2008-06-26",
+  "last_updated": "2008-07-11",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2008/06/26/1",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley busca dinamizar el sector comercial de Madrid eliminando trabas administrativas y simplificando trámites. Introduce la libertad de horarios para los comerciantes y sustituye autorizaciones previas por sistemas de comunicación más ágiles. Además, moderniza la organización de ferias y reduce la duplicidad de registros comerciales para fomentar la competitividad.",
+  "citizen_impact": "Los ciudadanos verán una mayor flexibilidad en los horarios de apertura y cierre de sus tiendas habituales. También se beneficia de una oferta comercial más moderna y diversificada gracias a la reducción de obstáculos para la creación de nuevos negocios.",
+  "professional_impact": "Los empresarios y autónomos del sector comercial disfrutan de mayor libertad para gestionar sus horarios y de una reducción drástica de la burocracia, al eliminar registros innecesarios y simplificar la apertura de establecimientos. Los organizadores de ferias pasan de un modelo de autorización a uno de comunicación previa, agilizando su actividad.",
+  "keywords": [
+    "comercio",
+    "modernización",
+    "horarios comerciales",
+    "actividades feriares",
+    "libertad de empresa",
+    "Comunidad de Madrid",
+    "establecimientos comerciales"
+  ],
+  "key_points": [
+    "Libertad total para que cada comerciante determine sus horarios de apertura y cierre en días laborables y festivos.",
+    "Sustitución de la autorización administrativa por un régimen de comunicación previa para la organización de ferias.",
+    "Eliminación de registros comerciales redundantes como el de Franquiciadores y el de Empresas de Venta a Distancia.",
+    "Simplificación de trámites para la apertura de comercios, manteniendo la autorización previa solo para grandes superficies de más de 2.500 m².",
+    "Introducción del silencio administrativo positivo en los procedimientos de autorización de grandes establecimientos tras 4 meses.",
+    "Reducción de la carga administrativa para la ampliación de locales comerciales (hasta un 30% de superficie sin nueva autorización)."
+  ],
+  "legal_references": [
+    "Ley 16/1999, de 29 de abril, de Comercio Interior de la Comunidad de Madrid",
+    "Ley 1/2004, de 21 de diciembre, de Horarios Comerciales",
+    "Ley 15/1997, de 25 de junio, de Actividades Feriares de la Comunidad de Madrid",
+    "Ley 5/2002, de 27 de junio, sobre Drogodependencias y Otros Trastornos Adictivos",
+    "Ley 7/1996, de 15 de enero"
+  ],
+  "derogations": [
+    "Artículos 3, 5, 6, 10, 11, 12, 15, 22, 23, 24, 25, 33.2.e), 39.4, 40.1, 41, 46.14, 47.1 de la Ley 16/1999",
+    "Artículos 4, 17, 18.c), 18.d), 18.g), 26.a), 26.b), 27, 34 de la Ley 15/1997"
+  ],
+  "main_obligations": "Los organizadores de ferias deben realizar una comunicación previa a la Comunidad de Madrid con al menos dos meses de antelación. Los grandes establecimientos deben obtener autorización previa antes de solicitar la licencia municipal.",
+  "effective_date": "2008-09-19",
+  "procedures": [
+    {
+      "name": "Comunicación previa de actividades feriares",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la comunicación",
+          "descrption": "Envío de la información sobre la feria a la Comunidad de Madrid.",
+          "start_date": "mínimo 2 meses antes de la fecha de la actividad",
+          "end_date": null,
+          "required_documentation": "Datos de la entidad organizadora, nombre de la feria, fechas, sector comercial, lugar y si hay venta directa."
+        },
+        {
+          "step": 2,
+          "title": "Inscripción en el Registro",
+          "descrption": "La Comunidad de Madrid inscribe de oficio la actividad en el Registro Oficial de Actividades Feriares.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización de grandes establecimientos comerciales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "descrption": "Presentación de la solicitud por parte del promotor o empresa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto técnico y documentación según normativa"
+        },
+        {
+          "step": 2,
+          "title": "Tramitación e informes",
+          "descrption": "Solicitud de informes a órganos competentes (ej. Tribunal de Defensa de la Competencia).",
+          "start_date": null,
+          "end_date": "2 meses para recibir informes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "descrption": "Resolución de la Consejería competente. Si no hay respuesta en 4 meses, se entiende estimada.",
+          "start_date": null,
+          "end_date": "4 meses desde la entrada en registro",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,95 @@
+{
+  "identifier": "BOE-A-2006-3155",
+  "title": "Ley 11/2005, de 15 de diciembre, del Estatuto del Consumidor",
+  "visible_title": "Estatuto del Consumidor",
+  "rank": "ley",
+  "country": "es",
+  "department": "Junta de Comunidades de Castilla-La Mancha",
+  "official_number": "11/2005",
+  "publication_date": "2006-02-23",
+  "enactment_date": "2005-12-15",
+  "last_updated": "2019-04-01",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2005/12/15/11",
+  "official_journal": "Boletín Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta norma establece el marco de protección para los consumidores y usuarios en Castilla-La Mancha, garantizando sus derechos económicos, de salud y seguridad. Define las competencias de las administraciones autonómicas y locales para vigilar el mercado, realizar inspecciones y sancionar infracciones. Su objetivo principal es ofrecer herramientas eficaces para la defensa de los intereses de los ciudadanos frente a prácticas comerciales desleales o productos peligrosos.",
+  "citizen_impact": "Aunque la norma está derogada, en su momento reforzó la capacidad de los ciudadanos para reclamar mediante hojas de reclamaciones y el acceso a oficinas municipales de información. Garantizó derechos fundamentales como la información transparente sobre precios, garantías de productos duraderos y la protección de colectivos vulnerables.",
+  "professional_impact": "Las empresas y autónomos de la región debían cumplir con estrictos deberes de información, seguridad de productos y transparencia de precios. La ley otorgaba potentes facultades de inspección a los agentes de la autoridad y establecía un régimen sancionador con multas que podían alcanzar los 900.000 euros para infracciones muy graves.",
+  "keywords": [
+    "consumidor",
+    "derechos del consumidor",
+    "protección al consumidor",
+    "inspección de consumo",
+    "sanciones",
+    "Castilla-La Mancha",
+    "seguridad de productos"
+  ],
+  "key_points": [
+    "Reconocimiento de derechos básicos: salud, seguridad, intereses económicos, información y representación.",
+    "Obligación de los productores de retirar productos del mercado si presentan riesgos para la salud.",
+    "Derecho a la información veraz y completa sobre características esenciales, precios y garantías.",
+    "Creación de Oficinas Municipales de Información al Consumidor para mediación y orientación.",
+    "Establecimiento de un régimen sancionador con multas graduadas según la gravedad (leves, graves y muy graves).",
+    "Facultad de los inspectores para realizar visitas, tomar muestras y exigir documentación comercial.",
+    "Protección especial para colectivos en situación de vulnerabilidad como niños, ancianos o personas con discapacidad.",
+    "Derecho a la reparación o indemnización por daños y perjuicios derivados del consumo."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 51)",
+    "Ley 3/1995, de 9 de marzo, del Estatuto del Consumidor",
+    "Ley 34/2002, de 11 de julio, de los servicios de la sociedad de la información y de comercio electrónico",
+    "Ley 3/2019, de 22 de marzo"
+  ],
+  "derogations": [
+    "Ley 3/1995, de 9 de marzo, del Estatuto del Consumidor"
+  ],
+  "main_obligations": "Las empresas deben garantizar la seguridad de sus productos y suministrar información transparente sobre precios y características. Se prohíbe la renuncia previa a los derechos reconocidos y se imponen multas de hasta 900.000 euros por infracciones muy graves.",
+  "effective_date": "2006-03-01",
+  "procedures": [
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inspección y detección de infracción",
+          "description": "Actuación de los inspectores para comprobar el cumplimiento de la normativa y levantamiento de acta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación industrial, mercantil y contable"
+        },
+        {
+          "step": 2,
+          "title": "Iniciación del procedimiento",
+          "description": "Notificación al presunto infractor del inicio del expediente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución y sanción",
+          "description": "Imposición de la sanción (multa, cierre o decomiso) según la gravedad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Prescripción de infracciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazos de prescripción",
+          "description": "Las infracciones muy graves prescriben a los 5 años, las graves a los 2 años y las leves al año.",
+          "start_date": "Desde la comisión de la infracción",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

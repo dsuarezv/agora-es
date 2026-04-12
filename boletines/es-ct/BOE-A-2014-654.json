@@ -1,0 +1,68 @@
+{
+  "identifier": "BOE-A-2014-654",
+  "title": "Resolución INT/2836/2013, de 20 de diciembre, por la que se establecen las restricciones a la circulación durante el año 2014 y se deja sin efecto la Resolución INT/2010/2012, de 26 de septiembre",
+  "visible_title": "Restricciones a la circulación de vehículos en Cataluña durante 2014",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "INT/2836/2013",
+  "publication_date": "2014-01-23",
+  "enactment_date": "2013-12-20",
+  "last_updated": "2014-01-15",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/res/2013/12/20/int2836",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta norma regula las limitaciones de tráfico en las carreteras de Cataluña para el año 2014. Su objetivo es mejorar la fluidez de la red vial y la seguridad durante periodos de alta demanda o festividades. Establece restricciones específicas para vehículos de transporte de mercancías, transporte especial, vehículos de obras y transporte de mercancías peligrosas.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo que se utilicen las vías afectadas por las restricciones de transporte pesado o mercancías peligrosas.",
+  "professional_impact": "Afecta directamente a empresas de transporte, conductores de vehículos pesados y operadores de mercancías peligrosas. Les impone restricciones de horario, fechas y rutas obligatorias (red RIMP), además de requerir trámites de solicitud de exenciones para casos específicos.",
+  "keywords": [
+    "tráfico",
+    "restricciones de circulación",
+    "transporte de mercancías",
+    "mercancías peligrosas",
+    "Cataluña",
+    "seguridad vial",
+    "transporte especial"
+  ],
+  "key_points": [
+    "Prohibición de circular para vehículos de mercancías de más de 7.500 kg en fechas y tramos específicos.",
+    "Restricciones severas para vehículos de transporte especial y de obras en fines de semana y festivos.",
+    "Obligatoriedad de seguir la red de itinerarios RIMP para el transporte de mercancías peligrosas.",
+    "Limitaciones de circulación en túneles específicos (como el de Cadí o Vielha) durante periodos vacacionales.",
+    "Exenciones para transporte de productos perecederos, ganado vivo y servicios de emergencia.",
+    "Regulación del uso de los carriles BUS VAO en la C-58CC.",
+    "Posibilidad de retirar la circulación de vehículos por condiciones meteorológicas extremas (nieve, niebla, viento)."
+  ],
+  "legal_references": [
+    "Ley 14/1997, de 24 de diciembre, de creación del Servicio Catalán de Tráfico",
+    "Real Decreto Legislativo 339/1990, de 2 de marzo (Ley sobre tráfico, circulación de vehículos a motor y seguridad vial)",
+    "Reglamento general de circulación (Real Decreto 1428/2003)",
+    "Decreto 320/2011, de 19 de abril",
+    "Resolución INT/741/2011, de 17 de marzo",
+    "Ley 25/2009, de 22 de diciembre",
+    "Real Decreto 551/2006, de 5 de mayo"
+  ],
+  "derogations": [
+    "Resolución INT/2010/2012, de 26 de septiembre"
+  ],
+  "main_obligations": "Los vehículos de transporte de mercancías >7.500 kg, transporte especial y mercancías peligrosas deben respetar los horarios, tramos y rutas obligatorias detallados en los anexos. El incumplimiento será sancionado según la legislación vigente de tráfico.",
+  "effective_date": "2014-01-31",
+  "procedures": [
+    {
+      "name": "Solicitud de exenciones a las restricciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud anticipada",
+          "descrption": "El interesado debe solicitar la exención justificando la necesidad ineludible del desplazamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Matrícula, características del vehículo, tipo de mercancía, vías afectadas y justificación de la urgencia o necesidad."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

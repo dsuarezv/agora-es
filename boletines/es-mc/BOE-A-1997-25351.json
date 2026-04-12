@@ -1,0 +1,134 @@
+{
+  "identifier": "BOE-A-1997-25351",
+  "title": "Ley 4/1997, de 24 de julio, de Construcción y Explotación de Infraestructuras de la Región de Murcia",
+  "visible_title": "Ley de Construcción y Explotación de Infraestructuras de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "4/1997",
+  "publication_date": "1997-11-28",
+  "enactment_date": "1997-07-24",
+  "last_updated": "2000-03-01",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/1997/07/24/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para que la Región de Murcia pueda planificar, construir y gestionar infraestructuras públicas (carreteras, puertos, aeropuertos, redes de agua, etc.). Su objetivo principal es permitir la colaboración con el sector privado mediante modelos de concesión y gestión indirecta para financiar grandes proyectos. Además, busca coordinar estas obras con el planeamiento urbanístico y asegurar la viabilidad económica de las inversiones a largo plazo.",
+  "citizen_impact": "El impacto es indirecto, ya que afecta principalmente a la gestión de servicios públicos como carreteras o suministro de agua. Los ciudadanos pueden verse afectados por el cobro de peajes o tarifas en infraestructuras gestionadas por privados, aunque la ley busca que la Administración garantice el equilibrio financiero y la calidad del servicio.",
+  "professional_impact": "Afecta directamente a empresas constructoras, concesionarias y gestoras de infraestructuras, ofreciéndoles oportunidades de inversión mediante concesiones de obra pública o demaniales. También impacta a ayuntamientos, que deben coordinar sus planes urbanísticos con los proyectos regionales, y a propietarios de terrenos que podrían ser objeto de expropiación o contribuciones especiales.",
+  "keywords": [
+    "infraestructuras",
+    "concesiones de obra pública",
+    "concesión demanial",
+    "gestión indirecta",
+    "Región de Murcia",
+    "planificación territorial",
+    "financiación de infraestructuras"
+  ],
+  "key_points": [
+    "Permite la gestión indirecta de infraestructuras mediante la participación de la iniciativa privada.",
+    "Introduce la figura de la concesión de obras públicas con un plazo máximo de 50 años.",
+    "Faculta la cesión obligatoria de al menos un 30% de la ejecución de la obra a terceros para fomentar la participación de PYMES.",
+    "Establece el 'canon de demanda' como mecanismo para vincular la rentabilidad privada al flujo de usuarios sin necesariamente subir peajes.",
+    "Crea el 'Fondo de Atención y Conservación de las Infraestructuras Construidas' para garantizar los pagos de la Administración a los concesionarios.",
+    "Obliga a realizar estudios de viabilidad técnica, económica y social antes de cualquier construcción.",
+    "Permite la imposición de contribuciones especiales a propietarios beneficiados por la creación de una infraestructura.",
+    "Faculta la expropiación forzosa de terrenos para la ejecución de las obras declaradas de utilidad pública."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Ley 9/1990, de 27 de agosto, de Carreteras de la Región de Murcia",
+    "Ley 13/1996, de 30 de diciembre, de Medidas Fiscales, Administrativas y de Orden Social",
+    "Ley 3/1992, de 30 de julio, de Patrimonio de la Comunidad Autónoma de la Región de Murcia",
+    "Ley de 16 de diciembre de 1954 (Expropiación Forzosa)",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas"
+  ],
+  "derogations": [
+    "Normas que se opongan o contradigan la presente Ley"
+  ],
+  "main_obligations": "Las empresas concesionarias deben garantizar la conservación de las obras en perfecto estado y permitir el uso público según las tarifas establecidas. La Administración debe asegurar la disponibilidad presupuestaria para cumplir con las obligaciones financieras asumidas en los contratos de concesión.",
+  "effective_date": "1997-11-29",
+  "procedures": [
+    {
+      "name": "Integración en el planeamiento urbanístico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Remisión de proyecto a municipios",
+          "description": "La Consejería envía el proyecto a los municipios afectados para su examen.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": "Proyecto o estudio informativo"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de disconformidad",
+          "description": "Si el municipio no está de acuerdo, el expediente se eleva al Consejo de Gobierno para decidir la modificación del planeamiento.",
+          "start_date": null,
+          "end_date": "1 año",
+          "required_documentation": "Motivación de la disconformidad"
+        }
+      ]
+    },
+    {
+      "name": "Aprobación de proyecto de construcción",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Estudio de viabilidad",
+          "description": "Realización de estudios de rentabilidad social, técnica y económica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudio de demanda, riesgos, impacto ambiental y viabilidad técnica"
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Exposición del proyecto para recibir alegaciones de ciudadanos y entidades.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación definitiva",
+          "description": "El Consejero competente acuerda la aprobación tras valorar el expediente y el impacto ambiental.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración de impacto ambiental"
+        }
+      ]
+    },
+    {
+      "name": "Otorgamiento de concesión demanial por iniciativa particular",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud del particular",
+          "description": "El interesado presenta su propuesta de infraestructura.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudio de viabilidad, anteproyecto y estudio económico-financiero"
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "La Administración somete la propuesta a consulta pública.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Concurso público",
+          "description": "La Consejería convoca concurso para la adjudicación de la concesión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

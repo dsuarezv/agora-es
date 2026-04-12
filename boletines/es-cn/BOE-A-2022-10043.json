@@ -1,0 +1,109 @@
+{
+  "identifier": "BOE-A-2022-10043",
+  "title": "Ley 1/2022, de 11 de mayo, de Elecciones al Parlamento de Canarias",
+  "visible_title": "Ley de Elecciones al Parlamento de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "1/2022",
+  "publication_date": "2022-06-17",
+  "enactment_date": "2022-05-11",
+  "last_updated": "2022-05-23",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2022/05/11/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula el sistema para elegir a los representantes del Parlamento de Canarias, adaptándose a la reforma del Estatuto de Autonomía. Introduce una novedad histórica: la creación de una circunscripción autonómica que se suma a las siete circunscripciones insulares. El sistema combina la elección por isla con una lista única para toda la comunidad, utilizando un modelo de doble papeleta y doble urna para garantizar la representación de ambos ámbitos.",
+  "citizen_impact": "Los ciudadanos canarios votarán de una forma nueva: recibirán y usarán dos papeletas distintas (una para su isla y otra para la circunscripción autonómica) en urnas separadas. Esto permite que el voto de la persona influya tanto en el representante de su isla como en el de toda la comunidad.",
+  "professional_impact": "Los partidos políticos y agrupaciones de electores deben adaptarse a un sistema de doble representación y cumplir con nuevos requisitos de financiación y límites de gasto. Los administradores electorales de las candidaturas asumen la responsabilidad legal de la contabilidad y la gestión de las subvenciones públicas.",
+  "keywords": [
+    "elecciones canarias",
+    "parlamento de canarias",
+    "sistema electoral",
+    "circunscripción autonómica",
+    "circunscripción insular",
+    "representación proporcional"
+  ],
+  "key_points": [
+    "Creación de una circunscripción autonómica que aporta 9 escaños al Parlamento.",
+    "Mantenimiento de las 7 circunscripciones insulares para un total de 70 diputados.",
+    "Implementación del sistema de doble papeleta y doble urna para el ejercicio del voto.",
+    "Barrera electoral del 15% en circunscripciones insulares o del 4% en la autonómica para acceder al reparto de escaños.",
+    "Regulación detallada de la administración electoral a través de la Junta Electoral de Canarias.",
+    "Establecimiento de límites de gasto electoral basados en la población de derecho de cada circunscripción.",
+    "Sistema de subvenciones públicas para partidos según escaños y votos obtenidos."
+  ],
+  "legal_references": [
+    "Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias",
+    "Ley 7/2003, de 20 de marzo, de Elecciones al Parlamento de Canarias",
+    "Ley Orgánica del Régimen Electoral General",
+    "Estatuto de Autonomía de Canarias"
+  ],
+  "derogations": [
+    "Ley 7/2003, de 20 de marzo, de Elecciones al Parlamento de Canarias"
+  ],
+  "main_obligations": "Los partidos deben designar un administrador general y comunicar la apertura de cuentas bancarias en un plazo de 24 horas. Las candidaturas deben presentar su documentación completa y cumplir con los límites de gasto fijados por la Consejería de Hacienda.",
+  "effective_date": "2022-05-12",
+  "procedures": [
+    {
+      "name": "Proceso de Presentación de Candidaturas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de candidaturas",
+          "description": "Entrega de escritos y documentación ante la Junta Electoral correspondiente.",
+          "start_date": "Desde la convocatoria de elecciones",
+          "end_date": null,
+          "required_documentation": "DNI de candidatos, declaración jurada de no inhabilitación, lista de suplentes y acreditación de firmas si es agrupación de electores."
+        },
+        {
+          "step": 2,
+          "title": "Publicación de candidaturas",
+          "description": "Exposición de las listas presentadas en el BOC.",
+          "start_date": "22 días después de la convocatoria",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Subsanación de irregularidades",
+          "description": "Plazo para corregir errores en las candidaturas presentadas.",
+          "start_date": "2 días después de la publicación",
+          "end_date": "48 horas después de la notificación",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Proclamación de candidaturas",
+          "description": "Anuncio oficial de las candidaturas que cumplen los requisitos.",
+          "start_date": "27 días después de la convocatoria",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Escrutinio y Proclamación de Electos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Escrutinio general",
+          "description": "Recuento de votos realizado por la Junta Electoral de Canarias.",
+          "start_date": "8 días después de la votación",
+          "end_date": "11 días después de la votación",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Publicación de resultados",
+          "description": "Publicación de la lista de diputados electos en el BOC.",
+          "start_date": "Máximo 40 días tras el escrutinio",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,100 @@
+{
+  "identifier": "BOE-A-2011-20659",
+  "title": "Ley 16/1998, de 25 de junio, de Cofradías de Pescadores",
+  "visible_title": "Ley de Cofradías de Pescadores",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "16/1998",
+  "publication_date": "2011-12-31",
+  "enactment_date": "1998-06-25",
+  "last_updated": "1998-07-10",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1998/06/25/16",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta ley regula la naturaleza, organización y funcionamiento de las cofradías de pescadores en el País Vasco. Establece que estas entidades son corporaciones de derecho público que colaboran con la Administración en la defensa de los intereses del sector pesquero, el marisqueo y la acuicultura. Busca modernizar su estructura para que puedan competir en mercados abiertos y participar activamente en la comercialización de productos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes.",
+  "professional_impact": "Afecta directamente a armadores y personal laboral del sector pesquero, quienes pasan a formar parte de corporaciones de derecho público con reglas de gestión y representación específicas. Introduce la necesidad de adaptar estatutos, participar en procesos electorales internos y cumplir con requisitos de antigüedad para cargos directivos.",
+  "keywords": [
+    "pesca",
+    "cofradías de pescadores",
+    "País Vasco",
+    "marisqueo",
+    "acuicultura",
+    "sector pesquero",
+    "armadores"
+  ],
+  "key_points": [
+    "Las cofradías son corporaciones de Derecho Público con personalidad jurídica propia.",
+    "La gestión de los intereses y recursos es autónoma, pero bajo la tutela del Gobierno Vasco.",
+    "La Asamblea General es el órgano superior, con representación paritaria entre armadores y personal laboral.",
+    "Los cargos de la Junta Directiva se eligen por un periodo de cuatro años.",
+    "Para ser miembro de la Junta Directiva se requiere una antigüedad mínima de dos años.",
+    "Se permite la creación de federaciones de cofradías a nivel territorial (Bizkaia y Gipuzkoa) y una Federación Vasca.",
+    "Los estatutos de las cofradías deben ser ratificados por la Administración para tener validez jurídica.",
+    "La pérdida de la condición de miembro conlleva la pérdida de derechos económicos y patrimoniales."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía del País Vasco",
+    "Ley 10/1982, de 24 de junio, Básica de Normalización del Uso del Euskera",
+    "Real Decreto 670/1978, de 11 de marzo"
+  ],
+  "derogations": [],
+  "main_obligations": "Las cofradías deben inscribir sus estatutos y acuerdos de órganos rectores en el Registro oficial. Deben presentar anualmente el cierre presupuestario y el presupuesto de ingresos y gastos ante el Departamento de Pesca en un plazo de dos meses tras su aprobación.",
+  "effective_date": "1998-07-15",
+  "procedures": [
+    {
+      "name": "Proceso de Elección de la Asamblea General",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Exposición de listas provisionales",
+          "description": "Publicación de las listas de miembros en el tablón de anuncios.",
+          "start_date": "1 mes antes de la finalización del mandato",
+          "end_date": "8 días para reclamaciones",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Publicación de listas definitivas",
+          "description": "Tras resolver reclamaciones, se publican las listas finales.",
+          "start_date": null,
+          "end_date": "15 días para presentación de candidatos",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Elección de candidatos",
+          "description": "Se fija fecha, hora y lugar para la votación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Elección de la Junta Directiva, Presidente y Vicepresidente",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de candidaturas",
+          "description": "Presentación de listas con el apoyo de al menos el 20% de la Asamblea.",
+          "start_date": "Tras la toma de posesión de la Asamblea",
+          "end_date": null,
+          "required_documentation": "Firmas del 20% de los miembros de la Asamblea"
+        },
+        {
+          "step": 2,
+          "title": "Votación",
+          "description": "Votación directa y secreta de los candidatos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

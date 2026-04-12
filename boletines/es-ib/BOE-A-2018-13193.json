@@ -1,0 +1,104 @@
+{
+  "identifier": "BOE-A-2018-13193",
+  "title": "Ley 8/2018, de 31 de julio, de apoyo a las familias",
+  "visible_title": "Ley de apoyo a las familias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "8/2018",
+  "publication_date": "2018-09-29",
+  "enactment_date": "2018-07-31",
+  "last_updated": "2023-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2018/07/31/8",
+  "official_journal": "Butlletí Oficial de les Illes Balears",
+  "journal_issue": null,
+  "summary": "Esta ley crea un marco integral de protección para las familias en las Illes Balears, reconociendo la diversidad de modelos familiares actuales. Su objetivo es unificar las ayudas dispersas en un solo cuerpo legal, priorizando a colectivos vulnerables como familias monoparentales o con personas dependientes. Busca fomentar la corresponsabilidad de género y mejorar la conciliación entre la vida laboral y familiar mediante medidas fiscales, sociales y educativas.",
+  "citizen_impact": "Los ciudadanos residentes en Baleares acceden a un reconocimiento formal de la familia monoparental, lo que les permite equipararse a las familias numerosas en ayudas y exenciones. Además, se garantiza mayor apoyo en servicios de comedor, transporte escolar, ayudas por parto múltiple y adaptaciones de vivienda para personas con discapacidad.",
+  "professional_impact": "Las administraciones públicas deben implementar informes de impacto familiar en toda nueva legislación y presupuestos. Las empresas privadas se ven incentivadas a adoptar medidas de conciliación para ser consideradas 'familiarmente responsables' en licitaciones públicas, y los profesionales de servicios sociales deberán gestionar nuevos procedimientos de acreditación de monoparentalidad.",
+  "keywords": [
+    "familia",
+    "monoparentalidad",
+    "conciliación",
+    "ayudas familiares",
+    "Baleares",
+    "corresponsabilidad",
+    "vulnerabilidad social"
+  ],
+  "key_points": [
+    "Reconocimiento oficial de la familia monoparental con derechos similares a las familias numerosas.",
+    "Obligatoriedad de realizar informes de impacto familiar en todas las nuevas leyes y presupuestos autonómicos.",
+    "Prioridad de atención a familias en riesgo social, víctimas de violencia machista o con personas dependientes.",
+    "Implementación de medidas de conciliación en el sector público y fomento de la responsabilidad familiar en empresas privadas.",
+    "Nuevas ayudas económicas para partos múltiples, adopciones y adaptación de viviendas para personas con discapacidad.",
+    "Garantía de servicios de comedor y transporte escolar para familias con menores ingresos.",
+    "Creación de un Consejo de la Infancia y Familia para supervisar el cumplimiento de la ley."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de las Illes Balears",
+    "Ley 14/2010 de mediación familiar de las Illes Balears",
+    "Ley 11/2016 de igualdad de mujeres y hombres",
+    "Ley 8/2016 de derechos de LGTBI",
+    "Ley 39/2015 del Procedimiento Administrativo Común"
+  ],
+  "derogations": [
+    "Todas las disposiciones de rango igual o inferior que se opongan a esta ley"
+  ],
+  "main_obligations": "Las familias monoparentales deben comunicar cualquier cambio en su composición en un plazo de 3 meses y presentar una declaración anual de ingresos durante el primer trimestre. El incumplimiento de estas obligaciones o la falsedad en los datos puede conllevar sanciones que van desde amonestaciones hasta la pérdida del título y derechos asociados.",
+  "effective_date": "2018-09-30",
+  "procedures": [
+    {
+      "name": "Acreditación de la condición de familia monoparental",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de acreditación",
+          "description": "Gestión del procedimiento ante los consejos insulares para obtener el título oficial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la convivencia, la dependencia económica y la unidad familiar."
+        },
+        {
+          "step": 2,
+          "title": "Comunicación de variaciones",
+          "description": "Obligación de informar sobre cambios en la unidad familiar que afecten al título.",
+          "start_date": "3 meses desde la variación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Declaración anual de ingresos",
+          "description": "Presentación de la declaración de ingresos obtenidos el año anterior.",
+          "start_date": "Primer trimestre de cada año",
+          "end_date": null,
+          "required_documentation": "Declaración expresa de ingresos anuales."
+        }
+      ]
+    },
+    {
+      "name": "Implementación de medidas de servicios sociales y conciliación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de implantación general",
+          "description": "Plazo para que las administraciones implementen las medidas de servicios sociales y conciliación.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "12 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de implantación socio-sanitaria",
+          "description": "Plazo extendido para la implementación de la colaboración socio-sanitaria debido a su complejidad.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "18 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,88 @@
+{
+  "identifier": "BOE-A-2012-7257",
+  "title": "Ley 4/2012, de 26 de abril, de medidas urgentes de racionalización del sector público empresarial",
+  "visible_title": "Medidas de racionalización del sector público empresarial de Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Gobierno de Aragón",
+  "official_number": "4/2012",
+  "publication_date": "2012-06-01",
+  "enactment_date": "2012-04-26",
+  "last_updated": "2017-02-16",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2012/04/26/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca sanear y optimizar las empresas públicas de la Comunidad Autónoma de Aragón debido a la crisis económica. Implementa medidas de control financiero estricto, obliga a la creación de planes de saneamiento para empresas con pérdidas y centraliza la gestión de la deuda y los avales. Además, busca reducir el gasto público mediante la fusión o extinción de sociedades que no sean eficientes.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta directamente a directivos y gestores de empresas públicas aragonesas, quienes ahora están sujetos a controles de incompatibilidad, declaración de bienes y su sueldo queda vinculado al cumplimiento de objetivos financieros. Las empresas proveedoras del sector público también ven cambios en los procesos de contratación y exigencias de justificación.",
+  "keywords": [
+    "sector público empresarial",
+    "racionalización",
+    "estabilidad presupuestaria",
+    "saneamiento financiero",
+    "Aragón",
+    "gestión pública",
+    "control de deuda"
+  ],
+  "key_points": [
+    "Obligación de presentar planes de saneamiento en un plazo de 3 años si la empresa tiene desequilibrios financieros.",
+    "Centralización del control de deuda y avales a través de la Corporación Empresarial Pública de Aragón.",
+    "Exigencia de autorización previa del Gobierno de Aragón para contratos superiores a 12 millones de euros.",
+    "Vinculación de la retribución de directivos al cumplimiento de objetivos económicos y planes de saneamiento.",
+    "Prohibición de indemnizaciones por cese para directivos y obligación de declarar bienes e incompatibilidades.",
+    "Implementación de una comisión de auditoría y control con expertos independientes en las empresas del grupo.",
+    "Posibilidad de cesar a los órganos de gobierno si no se cumplen los planes de saneamiento o pago a proveedores."
+  ],
+  "legal_references": [
+    "Ley 5/2011, de 10 de marzo, del Patrimonio de Aragón",
+    "Decreto ley 1/2011, de 29 de noviembre, del Gobierno de Aragón",
+    "Estatuto de Autonomía de Aragón",
+    "Ley de Contratos del Sector Público",
+    "Ley de Hacienda de la Comunidad Autónoma de Aragón"
+  ],
+  "derogations": [
+    "Artículos 146 y 147 de la Ley 5/2011, de 10 de marzo, del Patrimonio de Aragón (modificados)",
+    "Disposiciones de la Ley 5/2011 en lo que afecte a la regulación de directivos y contratación según lo indicado en las disposiciones transitorias"
+  ],
+  "main_obligations": "Las empresas públicas con déficit deben presentar un informe de causas y un plan de saneamiento en el primer semestre del ejercicio siguiente al de las pérdidas. Los directivos deben cumplir con el régimen de incompatibilidades y declaración de bienes, y los contratos de gran cuantía requieren memoria justificativa previa.",
+  "effective_date": "2012-06-01",
+  "procedures": [
+    {
+      "name": "Plan de saneamiento para empresas deficitarias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración de informe y plan",
+          "description": "La sociedad debe presentar un informe de causas del desequilibrio y un plan de saneamiento económico-financiero.",
+          "start_date": "Primer semestre del ejercicio en que se presentan las cuentas",
+          "end_date": null,
+          "required_documentation": "Informe de gestión y plan económico-financiero de saneamiento"
+        },
+        {
+          "step": 2,
+          "title": "Ejecución del plan",
+          "description": "Implementación de medidas para alcanzar el reequilibrio financiero.",
+          "start_date": "Año siguiente al del desequilibrio",
+          "end_date": "Máximo 3 años",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Plan de pagos a proveedores",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del plan de pagos",
+          "description": "Obligatorio para sociedades con niveles excesivos de déficit de capital circulante.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Plan de pagos a proveedores aprobado por la Corporación Empresarial Pública de Aragón"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

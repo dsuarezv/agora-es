@@ -1,0 +1,110 @@
+{
+  "identifier": "BOPV-p-1998-90002",
+  "title": "Decreto Legislativo 1/1997, de 11 de noviembre, por el que se aprueba el Texto Refundido de la Ley de Principios Ordenadores de la Hacienda General del País Vasco",
+  "visible_title": "Ley de Principios Ordenadores de la Hacienda General del País Vasco",
+  "rank": "decreto legislativo",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "1/1997",
+  "publication_date": "1998-01-19",
+  "enactment_date": "1997-11-11",
+  "last_updated": "2023-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOPV-p-1998-90002",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta norma unifica y organiza todas las reglas que rigen la economía y las finanzas de la Comunidad Autónoma del País Vasco. Establece cómo se gestionan los presupuestos, los ingresos (tributos y transferencias), los gastos, la deuda y el patrimonio público. Su objetivo es dar seguridad jurídica y coherencia a la gestión de los recursos económicos vascos, creando un marco común para la administración y sus organismos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que es una norma de organización interna de la administración pública.",
+  "professional_impact": "Afecta directamente a funcionarios de la administración vasca, gestores de entidades públicas y empresas que contraten con el sector público. Define las reglas de juego para la gestión de fondos, la responsabilidad de los cargos públicos y la estructura de los presupuestos que afectan a la inversión pública.",
+  "keywords": [
+    "Hacienda General",
+    "País Vasco",
+    "Presupuestos",
+    "Tesorería",
+    "Tributos",
+    "Gestión Pública",
+    "Derecho Financiero"
+  ],
+  "key_points": [
+    "Unificación de la normativa financiera vasca en un solo texto refundido.",
+    "Definición de los Presupuestos Generales como instrumento de política económica y no solo contable.",
+    "Establecimiento de la distinción entre derechos de naturaleza pública y privada.",
+    "Regulación de la responsabilidad de los funcionarios por daños a la Hacienda General.",
+    "Definición de la estructura de la Administración General e Institucional vasca.",
+    "Establecimiento de mecanismos de aseguramiento de derechos (garantías) ante riesgos de impago."
+  ],
+  "legal_references": [
+    "Ley 7/1981, de 30 de junio, de Gobierno",
+    "Ley 7/1997, de 19 de junio",
+    "Ley 3/1990, de 31 de mayo, de Tasas y Precios Públicos",
+    "Ley 1/1992, de 28 de enero, de Presupuestos Generales",
+    "Ley 14/1994, de 30 de junio, de Control Económico y Contabilidad",
+    "Ley 6/1995, de 29 de diciembre, de Presupuestos Generales",
+    "Ley 8/1996, de 8 de noviembre, de Finanzas"
+  ],
+  "derogations": [
+    "Decreto Legislativo 1/1988, de 17 de mayo",
+    "Disposición final cuarta de la Ley 3/1990",
+    "Disposición adicional cuarta de la Ley 1/1992",
+    "Disposición final primera de la Ley 14/1994",
+    "Disposición final primera de la Ley 6/1995",
+    "Disposición final segunda de la Ley 8/1996",
+    "Ley 7/1997 (salvo excepciones específicas)"
+  ],
+  "main_obligations": "Los funcionarios y autoridades deben indemnizar a la Hacienda General por daños causados por dolo, culpa o negligencia grave. Los deudores de la administración pueden enfrentar recargos de hasta el 20% en el periodo ejecutivo por impago de deudas públicas.",
+  "effective_date": "1998-01-20",
+  "procedures": [
+    {
+      "name": "Aseguramiento de derechos (Garantías)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Fase de aseguramiento provisional",
+          "descrption": "Adopción de medidas para mitigar riesgos de pérdida de derechos económicos.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Fase de aseguramiento definitivo",
+          "descrption": "Notificación, práctica de pruebas, audiencia y emisión de informe jurídico para consolidar la garantía.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Recaudación de deudas (Periodo Ejecutivo)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recargo ejecutivo",
+          "descrption": "Aplicación de un recargo del 5% si se paga antes de la providencia de apremio.",
+          "start_date": "Inicio del periodo ejecutivo",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Recargo de apremio reducido",
+          "descrption": "Aplicación de un recargo del 10% si se paga en plazos específicos tras la notificación.",
+          "start_date": "Notificación de la providencia",
+          "end_date": "15 días o fin de mes según notificación",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Recargo de apremio ordinario",
+          "descrption": "Aplicación de un recargo del 20% si no se cumplen los plazos anteriores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

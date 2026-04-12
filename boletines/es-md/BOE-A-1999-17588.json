@@ -1,0 +1,88 @@
+{
+  "identifier": "BOE-A-1999-17588",
+  "title": "Ley 15/1999, de 29 de abril, de las academias de ámbito de la Comunidad de Madrid",
+  "visible_title": "Ley de las academias de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "15/1999",
+  "publication_date": "1999-08-16",
+  "enactment_date": "1999-04-29",
+  "last_updated": "1999-06-04",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1999/04/29/15",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para las academias de investigación científica, artística, literaria y humanística con sede en la Comunidad de Madrid. Define a estas entidades como corporaciones de derecho público sin ánimo de lucro y regula su creación, reconocimiento y funcionamiento. El objetivo es fomentar la cultura y la investigación mediante un control administrativo que garantice su autonomía y libertad intelectual.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta a expertos y académicos que deseen constituir o gestionar academias en Madrid, quienes deberán seguir un proceso de reconocimiento mediante Decreto del Gobierno. Además, establece la obligación de inscribirse en un nuevo Registro de academias para poder utilizar legalmente el nombre de 'academia'.",
+  "keywords": [
+    "academias",
+    "investigación",
+    "Comunidad de Madrid",
+    "derecho público",
+    "cultura",
+    "estatuto jurídico"
+  ],
+  "key_points": [
+    "Las academias son corporaciones de derecho público sin fines de lucro.",
+    "Para ser llamada 'academia', la entidad debe estar inscrita en el Registro de academias de la Comunidad de Madrid.",
+    "La creación o reconocimiento de una academia requiere un Decreto del Gobierno.",
+    "Se prohíbe la existencia de más de una academia con el mismo nombre o en el mismo campo del saber.",
+    "Las academias pueden actuar como órganos asesores para la Comunidad de Madrid y ayuntamientos.",
+    "Las Real Academia integradas en el Instituto de España quedan excluidas de esta ley."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 44.2)",
+    "Estatuto de Autonomía de la Comunidad de Madrid (artículo 61.20)"
+  ],
+  "derogations": [],
+  "main_obligations": "Las academias ya constituidas deben solicitar su inscripción en el Registro de academias en un plazo de seis meses desde la entrada en vigor de la ley. Solo las inscritas pueden usar la denominación de 'academia'.",
+  "effective_date": "1999-08-17",
+  "procedures": [
+    {
+      "name": "Creación o reconocimiento de academias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación de Estatutos",
+          "description": "Redacción y aprobación de las normas internas de la academia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estatutos que incluyan denominación, domicilio, finalidad, medios económicos y organización."
+        },
+        {
+          "step": 2,
+          "title": "Dictamen del Instituto de España",
+          "description": "Trámite preceptivo favorable si la academia trata materias relacionadas con las Reales Academias.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Decreto de creación",
+          "description": "El Gobierno dicta el decreto de creación o reconocimiento y lo publica en el BOCM.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inscripción en el Registro de academias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inscripción",
+          "description": "Trámite para academias ya constituidas para regularizar su situación.",
+          "start_date": "1999-08-17",
+          "end_date": "6 meses después de la entrada en vigor",
+          "required_documentation": "Documentación de constitución y estatutos"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

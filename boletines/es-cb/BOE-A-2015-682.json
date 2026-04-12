@@ -1,0 +1,117 @@
+{
+  "identifier": "BOE-A-2015-682",
+  "title": "Ley 4/2014, de 22 de diciembre, del Paisaje",
+  "visible_title": "Ley del Paisaje de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "4/2014",
+  "publication_date": "2015-01-27",
+  "enactment_date": "2014-12-22",
+  "last_updated": "2014-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2014/12/22/4",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "journal_issue": null,
+  "summary": "Esta ley otorga reconocimiento jurídico al paisaje de Cantabria para protegerlo y gestionarlo como un activo estratégico y de identidad. Establece herramientas para que cualquier proyecto o política (urbanística, ambiental, turística, etc.) deba considerar su impacto visual y ambiental. Busca no solo conservar los paisajes naturales, sino también mejorar los entornos urbanos degradados y restaurar los paisajes dañados por la actividad humana.",
+  "citizen_impact": "Mejora la calidad de vida al proteger el entorno visual y natural de los habitantes. Aunque no impone trámites directos a la ciudadanía, garantiza que el desarrollo de infraestructuras o cambios en el entorno respeten la identidad y la estética del lugar donde viven.",
+  "professional_impact": "Afecta directamente a arquitectos, ingenieros, urbanistas y promotores, quienes deberán realizar 'Análisis de Impacto e Integración Paisajística' en proyectos de suelo rústico o cambios de uso. Las empresas responsables de degradar paisajes pueden ser obligadas a financiar y ejecutar proyectos de restauración.",
+  "keywords": [
+    "paisaje",
+    "Cantabria",
+    "ordenación del territorio",
+    "impacto paisajístico",
+    "protección ambiental",
+    "gestión del territorio",
+    "urbanismo"
+  ],
+  "key_points": [
+    "Creación de un Catálogo de Paisajes Relevantes para identificar zonas de especial valor.",
+    "Obligatoriedad de integrar la visión del paisaje en todas las políticas sectoriales (turismo, industria, agricultura, etc.).",
+    "Introducción de los 'Análisis de Impacto e Integración Paisajística' para evaluar cómo una obra afecta al entorno.",
+    "Posibilidad de que la Administración obligue a las empresas que degradan el paisaje a restaurarlo.",
+    "Establecimiento de 'Directrices' y 'Estudios de Paisaje' como herramientas de planificación obligatorias.",
+    "Reconocimiento de la participación pública como elemento clave para definir la calidad de un paisaje.",
+    "División del territorio en ámbitos y unidades de paisaje para una gestión técnica más precisa."
+  ],
+  "legal_references": [
+    "Ley 2/2001, de 25 de junio, de Ordenación Territorial y Régimen Urbanístico del Suelo de Cantabria",
+    "Ley 4/2006, de 19 de mayo, de Conservación de la Naturaleza de Cantabria",
+    "Ley 11/1998, de 13 de octubre, de Patrimonio Cultural de Cantabria",
+    "Convenio Europeo del Paisaje (Florencia, 2000)",
+    "Ley 17/2006, de Control Ambiental Integrado"
+  ],
+  "derogations": [],
+  "main_obligations": "Las administraciones deben integrar el paisaje en sus planes; los promotores de obras en suelo rústico pueden estar obligados a presentar análisis de impacto paisajístico; y los responsables de degradación ambiental pueden ser obligados a ejecutar proyectos de restauración.",
+  "effective_date": "2015-02-26",
+  "procedures": [
+    {
+      "name": "Aprobación de Directrices y Estudios de Paisaje",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Formulación",
+          "description": "Redacción del instrumento por la Consejería competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Exposición pública",
+          "description": "Periodo de consulta para la ciudadanía y agentes afectados.",
+          "start_date": "2 meses",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación provisional",
+          "description": "Decisión de la Comisión Regional de Ordenación del Territorio y Urbanismo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación definitiva",
+          "description": "Mediante Decreto del Consejo de Gobierno y publicación en el BOC.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aprobación de Proyectos de Actuación Paisajística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Información pública",
+          "description": "Anuncio en el Boletín Oficial de Cantabria para recibir alegaciones.",
+          "start_date": "1 mes",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe de la Consejería",
+          "description": "Evaluación vinculante sobre la adecuación a las directrices de paisaje.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Aprobación por el Consejero o el Ayuntamiento promotor.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

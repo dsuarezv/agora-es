@@ -1,0 +1,101 @@
+{
+  "identifier": "BOE-A-2006-8720",
+  "title": "Ley 2/2005, de 11 de marzo, de Academias de la Región de Murcia",
+  "visible_title": "Ley de Academias de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "2/2005",
+  "publication_date": "2006-05-18",
+  "enactment_date": "2005-03-11",
+  "last_updated": "2005-04-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2005/03/11/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para la creación, funcionamiento y coordinación de las academias de derecho público en la Región de Murcia. Su objetivo es fomentar la cultura, la ciencia y la investigación mediante la regulación de estas corporaciones de prestigio intelectual. Además, crea un Registro de Academias y un Consejo de Academias para asesorar a la Administración regional.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta a profesionales de alto prestigio intelectual, científico o artístico que deseen fundar o formar parte de una academia pública. Estos profesionales deberán seguir un procedimiento administrativo específico para la creación de la entidad y cumplir con requisitos de inscripción y estatutos regulados por la Consejería de Educación y Cultura.",
+  "keywords": [
+    "academia",
+    "cultura",
+    "investigación",
+    "derecho público",
+    "Región de Murcia",
+    "conocimiento",
+    "corporaciones del saber"
+  ],
+  "key_points": [
+    "Las academias son corporaciones de derecho público sin ánimo de lucro con personalidad jurídica propia.",
+    "La creación de una academia requiere un decreto del Consejo de Gobierno.",
+    "Se prohíbe crear más de una academia por cada ámbito del saber, salvo justificación.",
+    "Se crea el Registro de Academias de la Región de Murcia para controlar su existencia y cambios.",
+    "Se crea el Consejo de Academias como órgano consultivo de la Administración.",
+    "El cargo de académico es gratuito, aunque se pueden permitir gastos de representación.",
+    "La Real Academia Alfonso X el Sabio se transforma en una corporación de derecho público bajo esta ley."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 44 y 148.1.17.ª)",
+    "Estatuto de Autonomía de la Región de Murcia (Ley Orgánica 4/1982)",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común"
+  ],
+  "derogatons": [
+    "Real Academia Alfonso X el Sabio (en su forma anterior de fundación pública local)"
+  ],
+  "main_obligations": "Las academias deben inscribirse en el Registro de Academias y sus estatutos deben ser aprobados por decreto del Consejo de Gobierno. Deben rendir cuentas a la Administración sobre las subvenciones recibidas y elaborar un presupuesto anual equilibrado.",
+  "effective_date": "2005-05-19",
+  "procedures": [
+    {
+      "name": "Creación de una academia a instancia de particulares",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "descrption": "Envío de solicitud a la Consejería de Educación y Cultura con acta de constitución de la Comisión Gestora (mínimo 10 personas), CV de los miembros, proyecto de estatutos y memoria justificativa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de constitución, CV de miembros, proyecto de estatutos, memoria justificativa."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación de informes",
+          "descrption": "La Consejería solicita informes preceptivos al Consejo de Academias, universidades, colegios profesionales y, si procede, al Instituto de España.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación por el Consejo de Gobierno",
+          "descrption": "Elevación de la propuesta al Consejo de Gobierno para la aprobación mediante decreto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de academias preexistentes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adecuación de estatutos",
+          "descrption": "Las academias ya constituidas deben adaptar sus estatutos a la nueva ley.",
+          "start_date": "6 meses desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": "Estatutos reformados y certificación del Secretario."
+        },
+        {
+          "step": 2,
+          "title": "Inscripción en el Registro",
+          "descrption": "Solicitud de inscripción en el Registro de Academias tras la adaptación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

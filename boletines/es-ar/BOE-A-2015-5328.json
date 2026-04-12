@@ -1,0 +1,133 @@
+{
+  "identifier": "BOE-A-2015-5328",
+  "title": "Ley 4/2015, de 25 de marzo, de Comercio de Aragón",
+  "visible_title": "Ley de Comercio de Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "4/2015",
+  "publication_date": "2015-05-14",
+  "enactment_date": "2015-03-25",
+  "last_updated": "2017-07-13",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2015/03/25/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y simplifica las reglas del comercio en Aragón para proteger tanto al pequeño comerciante como al consumidor. Introduce un registro obligatorio para todos los negocios y establece reglas claras para la venta en outlets y productos de segunda mano. Además, endurece el control sobre las grandes superficies y las prácticas de venta a pérdida. El objetivo es reducir la burocracia innecesaria pero aumentar la transparencia y la seguridad jurídica en el sector comercial.",
+  "citizen_impact": "El consumidor gana transparencia: en las rebajas tipo 'outlet' tiene derecho a ver el precio anterior para verificar el descuento, y en la compra de segunda mano debe ser informado claramente sobre el estado y antigüedad del producto. También se protege su economía al prohibir la venta a pérdida.",
+  "professional_impact": "Las empresas deben adaptarse a nuevos deberes de información y registro. Los comerciantes deben inscribirse en el Registro de Actividades Comerciales (con plazos específicos según el tipo de negocio) y las grandes superficies (más de 2.500 m²) deben tramitar una licencia comercial autonómica adicional. Existe una responsabilidad empresarial directa por las infracciones de sus empleados y riesgo de sanciones económicas muy elevadas (hasta 600.000€) o cierres de locales.",
+  "keywords": [
+    "comercio Aragón",
+    "registro de actividades comerciales",
+    "grandes superficies",
+    "venta outlet",
+    "segunda mano",
+    "régimen sancionador comercial",
+    "licencia comercial"
+  ],
+  "key_points": [
+    "Obligatoriedad de inscribirse en el Registro de Actividades Comerciales de Aragón para cualquier actividad comercial.",
+    "Las grandes superficies (superiores a 2.500 m²) requieren una licencia comercial autonómica específica, además de la municipal.",
+    "En ventas tipo 'outlet', es obligatorio mostrar el precio anterior junto al precio actual.",
+    "La venta de productos de segunda mano exige informar claramente sobre su antigüedad y posibles defectos.",
+    "Prohibición general de la venta a pérdida, salvo excepciones legales.",
+    "Sistema de sanciones graduado: multas desde 3.000€ hasta 600.000€ según la gravedad.",
+    "Posibilidad de cierre temporal del local (hasta un año) o clausura definitiva por infracciones muy graves o reincidencia.",
+    "Las empresas responden por las infracciones cometidas por su personal.",
+    "La Administración puede decomisar mercancías de forma cautelar si sospecha fraude o riesgo para la salud.",
+    "Las multas pueden duplicarse si el beneficio obtenido por la infracción es superior al importe de la sanción."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Aragón",
+    "Directiva 2006/123/CE",
+    "Real Decreto-ley 20/2012",
+    "Ley 7/1996",
+    "Ley 1/2004",
+    "Ley 3/2014",
+    "Real Decreto Legislativo 1/2007",
+    "Real Decreto-ley 8/2014",
+    "Ley 9/1989",
+    "Ley 4/2006",
+    "Decreto-ley 1/2010",
+    "Ley 3/2012",
+    "Decreto-ley 1/2013"
+  ],
+  "derogations": [
+    "Ley 9/1989, de 5 de octubre, de Ordenación de la Actividad Comercial",
+    "Ley 4/2006, de 22 de junio",
+    "Artículo 5 y disposiciones transitorias cuarta, quinta y sexta del Decreto-ley 1/2010",
+    "Artículo 35 de la Ley 3/2012",
+    "Artículo primero del Decreto-ley 1/2013"
+  ],
+  "main_obligations": "Todos los comerciantes deben comunicar su actividad al Registro de Actividades Comerciales: en un plazo de 3 meses para establecimientos permanentes y de forma previa al inicio para negocios no permanentes o sin local. Los grandes superficies deben obtener la licencia comercial autonómica obligatoriamente.",
+  "effective_date": "2015-05-15",
+  "procedures": [
+    {
+      "name": "Comunicación al Registro de Actividades Comerciales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio de actividad",
+          "description": "El empresario debe comunicar su actividad al Registro.",
+          "start_date": "Desde el inicio de la actividad",
+          "end_date": "3 meses para establecimientos permanentes; previo inicio para no permanentes",
+          "required_documentation": "Datos identificativos, actividad, ubicación, nombre comercial y duración."
+        }
+      ]
+    },
+    {
+      "name": "Obtención de Licencia Comercial para Grandes Superficies",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Obtención de licencias municipales",
+          "description": "El interesado debe obtener primero la licencia urbanística y la ambiental del Ayuntamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación técnica municipal"
+        },
+        {
+          "step": 2,
+          "title": "Remisión de documentación al Departamento de Comercio",
+          "description": "El Ayuntamiento envía la documentación al Departamento competente de la Comunidad Autónoma.",
+          "start_date": "Tras otorgar licencias municipales",
+          "end_date": null,
+          "required_documentation": "Memoria explicativa, planos y licencias urbanísticas/ambientales"
+        },
+        {
+          "step": 3,
+          "title": "Tramitación y resolución",
+          "description": "El Departamento resuelve la solicitud de licencia comercial.",
+          "start_date": "Desde la recepción de documentos",
+          "end_date": "3 meses (establecimientos individuales) o 4 meses (colectivos)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Comunicación de Venta en Liquidación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación al Departamento",
+          "description": "Se comunica la decisión de liquidación precisando causa y duración.",
+          "start_date": null,
+          "end_date": "20 días (plazo de silencio)",
+          "required_documentation": "Causa de la liquidación y duración máxima"
+        },
+        {
+          "step": 2,
+          "title": "Inicio de la liquidación",
+          "description": "Si no hay oposición, se puede iniciar la venta.",
+          "start_date": "Tras 20 días sin resolución contraria",
+          "end_date": null,
+          "required_documentation": "Copia sellada de la comunicación en lugar visible"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

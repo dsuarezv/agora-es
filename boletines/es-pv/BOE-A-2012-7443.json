@@ -1,0 +1,92 @@
+{
+  "identifier": "BOE-A-2012-7443",
+  "title": "Ley 8/2012, de 17 de mayo, del Consejo Económico y Social Vasco/Euskadiko Ekonomi eta Gizarte Arazoetarako Batzordea",
+  "visible_title": "Ley del Consejo Económico y Social Vasco",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "8/2012",
+  "publication_date": "2012-06-05",
+  "enactment_date": "2012-05-17",
+  "last_updated": "2012-05-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2012/05/17/8",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta ley reorganiza el Consejo Económico y Social Vasco para fortalecer su papel como órgano consultivo del Gobierno y el Parlamento. Introduce cambios en su composición para incluir al tercer sector social, delimita sus competencias para no solaparse con el Consejo de Relaciones Laborales y profesionaliza su estructura mediante la creación de una Secretaría General obligatoria. El objetivo es garantizar una participación más efectiva de sindicatos, empresarios y expertos en la política socioeconómica vasca.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta a organizaciones sindicales, patronales, entidades del tercer sector y expertos universitarios, quienes ven regulados sus procesos de designación y participación. Las instituciones y asociaciones representadas tienen ahora un marco más claro para integrar sus intereses en la planificación económica de la Comunidad Autónoma.",
+  "keywords": [
+    "Consejo Económico y Social Vasco",
+    "participación institucional",
+    "política socioeconómica",
+    "Euskadi",
+    "órgano consultivo",
+    "tercer sector"
+  ],
+  "key_points": [
+    "Inclusión obligatoria de representantes del tercer sector de acción social en el Consejo.",
+    "Creación de una Secretaría General con carácter preceptivo y dedicación exclusiva.",
+    "Delimitación de competencias para evitar duplicidades con el Consejo de Relaciones Laborales.",
+    "Posibilidad de designar expertos externos para colaborar en las comisiones de trabajo.",
+    "Establecimiento de un sistema de elección de la Presidencia que busca el consenso entre los grupos con voto.",
+    "Los expertos universitarios mantienen voz pero no voto en el Consejo.",
+    "El Gobierno Vasco tiene la obligación de informar al Consejo semestralmente sobre la situación económica."
+  ],
+  "legal_references": [
+    "Ley 9/1997, de 27 de junio, del Consejo Económico y Social Vasco/Euskadiko Ekonomi eta Gizarte Arazoetarako Batzordea",
+    "Ley 14/1994, de 30 de junio, de Control económico y contabilidad de la Comunidad Autónoma del País Vasco",
+    "Decreto Legislativo 2/2007, de 6 de noviembre, de aprobación del Texto Refundido de la Ley de Patrimonio de Euskadi"
+  ],
+  "derogations": [
+    "Ley 9/1997, de 27 de junio, del Consejo Económico y Social Vasco/Euskadiko Ekonomi eta Gizarte Arazoetarako Batzordea"
+  ],
+  "main_obligations": null,
+  "effective_date": "2012-06-06",
+  "procedures": [
+    {
+      "name": "Designación de miembros del Consejo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de designación",
+          "descrption": "Las organizaciones deben designar a sus representantes tras la renovación del órgano.",
+          "start_date": "Desde la renovación del Consejo",
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Nombramiento oficial",
+          "descrption": "El Lehendakari realiza el nombramiento formal de las personas designadas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Elección de la Presidencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Primera votación",
+          "descrption": "Elección por los miembros con derecho a voto requiriendo mayoría de dos tercios y voto de cada grupo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Designación por el Lehendakari",
+          "descrption": "En caso de no alcanzar el consenso, el Lehendakari designa al presidente tras audiencia del Consejo.",
+          "start_date": "Tras fallo de la primera votación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

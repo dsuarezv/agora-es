@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-1997-11538",
+  "title": "Ley 3/1997, de 8 de mayo, de Incompatibilidades de los Miembros del Gobierno y Altos Cargos de la Administración Pública de la Comunidad Autónoma de Canarias",
+  "visible_title": "Ley de Incompatibilidades de los Miembros del Gobierno y Altos Cargos de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "3/1997",
+  "publication_date": "1997-05-30",
+  "enactment_date": "1997-05-08",
+  "last_updated": "2015-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/1997/05/08/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece un régimen estricto de dedicación exclusiva para los altos cargos y miembros del Gobierno de Canarias. Su objetivo es evitar conflictos de intereses y garantizar la imparcialidad en la gestión pública. Para ello, regula qué actividades privadas pueden realizar, obliga a declarar su patrimonio y crea un registro de transparencia para supervisar sus intereses económicos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, más allá de fortalecer la confianza en la transparencia y la ética de las autoridades regionales.",
+  "professional_impact": "Afecta directamente a políticos y directivos de la administración canaria, quienes deben someterse a la obligación de declarar sus bienes y actividades. Además, les prohíbe participar en empresas con contratos públicos si superan ciertos porcentajes de capital y les impone sanciones de inhabilitación si incumplen sus deberes.",
+  "keywords": [
+    "incompatibilidades",
+    "altos cargos",
+    "Canarias",
+    "transparencia",
+    "conflicto de intereses",
+    "declaración de bienes",
+    "ética pública"
+  ],
+  "key_points": [
+    "Obligación de dedicación absoluta al cargo para altos cargos y miembros del Gobierno.",
+    "Prohibición de participar en más del 10% del capital de empresas que tengan contratos con el sector público canario.",
+    "Obligación de desprenderse de participaciones accionariales excesivas en un plazo de 3 meses tras el nombramiento.",
+    "Creación del Registro de Intereses de Altos Cargos para la publicidad de sus actividades y bienes.",
+    "Prohibición de realizar actividades profesionales liberales o mercantiles de forma habitual.",
+    "Deber de abstención en asuntos donde el cargo o sus familiares tengan intereses económicos.",
+    "Posibilidad de compatibilizar el cargo con la docencia universitaria bajo autorización previa.",
+    "Sanciones que incluyen la inhabilitación para ocupar altos cargos entre 3 y 10 años en casos muy graves.",
+    "Obligación de gestionar activos financieros a través de entidades registradas en la CNMV para cargos con poder regulador."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Canarias",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley Orgánica 5/1992, de 22 de noviembre, de Regulación del Tratamiento Automatizado de los Datos de Carácter Personal",
+    "Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias"
+  ],
+  "derogations": [
+    "Artículos 4 y 17 de la Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias"
+  ],
+  "main_obligations": "Los altos cargos deben declarar sus actividades y bienes en un plazo de 3 meses tras la toma de posesión. Deben abstenerse de intervenir en asuntos de interés privado y, en caso de infracciones graves o muy graves, pueden ser inhabilitados para cargos públicos hasta por 10 años.",
+  "effective_date": "1997-06-01",
+  "procedures": [
+    {
+      "name": "Declaración de actividades y bienes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación inicial",
+          "description": "Formulación de la declaración de actividades y de bienes y derechos patrimoniales.",
+          "start_date": "3 meses desde la toma de posesión",
+          "end_date": null,
+          "required_documentation": "Relación de actividades económicas y listado de bienes, derechos y obligaciones."
+        },
+        {
+          "step": 2,
+          "title": "Actualización por nueva actividad",
+          "description": "Comunicación de nuevas actividades que generen ingresos.",
+          "start_date": "Al comenzar la nueva actividad",
+          "end_date": null,
+          "required_documentation": "Documentación de la nueva actividad económica."
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación y audiencia",
+          "description": "Inicio del expediente y derecho del interesado a alegar.",
+          "start_date": null,
+          "end_date": "Plazo de 10 a 15 días para alegaciones",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Imposición de la sanción (amonestación, publicación en BOC o inhabilitación).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,98 @@
+{
+  "identifier": "BOE-A-2010-10714",
+  "title": "Ley 4/2010, de 16 de junio, de medidas urgentes para el impulso de la inversión en las Illes Balears",
+  "visible_title": "Medidas urgentes para el impulso de la inversión en las Illes Balears",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "4/2010",
+  "publication_date": "2010-07-06",
+  "enactment_date": "2010-06-16",
+  "last_updated": "2025-12-06",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2010/06/16/4",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley surge como respuesta a la crisis económica para reactivar la economía de las Baleares mediante la agilización de la inversión pública y privada. Introduce mecanismos para simplificar trámites administrativos, facilitar la apertura de empresas mediante declaraciones responsables y regularizar la situación de las plazas turísticas. Además, ofrece incentivos para la modernización de establecimientos turísticos y medidas de apoyo al sector agropecuario.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo por la posible mejora de la calidad de los servicios turísticos y la infraestructura local derivada de las inversiones incentivadas.",
+  "professional_impact": "Empresarios turísticos y profesionales pueden beneficiarse de la regularización de plazas y de la simplificación de licencias mediante declaraciones responsables. Los inversores en proyectos de interés autonómico disfrutan de plazos administrativos reducidos a la mitad. Sin embargo, los hoteles que se acojan a las excepciones urbanísticas deberán cumplir con planes de calidad y responsabilidad social.",
+  "keywords": [
+    "inversión",
+    "turismo",
+    "agilización administrativa",
+    "declaración responsable",
+    "regularización de plazas",
+    "Baleares",
+    "crisis económica"
+  ],
+  "key_points": [
+    "Reducción a la mitad de los plazos administrativos para inversiones declaradas de interés autonómico.",
+    "Introducción del sistema de declaración responsable para iniciar actividades económicas sin licencia previa (excepto obras).",
+    "Procedimiento extraordinario de dos años para la regularización de plazas turísticas.",
+    "Posibilidad de modernizar hoteles con excepciones temporales a parámetros urbanísticos (máximo 10% de incremento de edificabilidad).",
+    "Creación de la figura de 'inversión de interés autonómico' para dar prioridad y rapidez a proyectos clave.",
+    "Sustitución de la doble autorización (previa y apertura) por una autorización sectorial turística única.",
+    "Medidas de apoyo a la agricultura mediante declaración responsable para infraestructuras de regadío e invernaderos."
+  ],
+  "legal_references": [
+    "Ley 30/2007, de 30 de octubre, de contratos del sector público",
+    "Ley 31/2007, de 30 de octubre, sobre procedimientos de contratación en los sectores del agua, la energía, los transportes y los servicios postales",
+    "Ley 2/1999, de 24 de marzo, general turística de las Illes Balears",
+    "Ley 14/2000, de 21 de diciembre, de ordenación territorial",
+    "Ley 4/2008, de 14 de mayo, de medidas urgentes para el desarrollo territorial sostenible de las Illes Balears",
+    "Ley 8/1988, de 1 de julio, de edificios fuera de ordenación",
+    "Ley 16/2006, de 16 de junio, de régimen jurídico de las licencias integradas de actividad de las Illes Balears"
+  ],
+  "derogations": [
+    "Decreto Ley 1/2009, de 30 de enero, de medidas urgentes para el impulso de la inversión en las Illes Balears",
+    "Ley 8/1988, de 1 de julio, de edificios fuera de ordenación (parcialmente, en relación a la modernización turística)"
+  ],
+  "main_obligations": "Los titulares de establecimientos que se acojan a la regularización de plazas deben presentar su solicitud en un plazo de dos años. Los hoteles que utilicen las excepciones urbanísticas para modernizarse están obligados a implementar un plan de responsabilidad social y adherirse a un sistema de calidad turística.",
+  "effective_date": "2010-07-07",
+  "procedures": [
+    {
+      "name": "Regularización sectorial de plazas turísticas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "descrption": "Los titulares deben presentar la solicitud de autorización de plazas junto con una declaración responsable y memoria descriptiva.",
+          "start_date": "Desde la entrada en vigor de la ley",
+          "end_date": "2 años tras la entrada en vigor",
+          "required_documentation": "Modelo de solicitud (Anexo I), Declaración responsable (Anexo II) y memoria descriptiva."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y resolución",
+          "descrption": "La administración comprueba requisitos y clasificaciones. El plazo para resolver es de 6 meses.",
+          "start_date": "Desde la presentación",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inicio de actividad mediante declaración responsable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Suscripción de declaración",
+          "descrption": "El titular presenta la declaración responsable cumpliendo los requisitos legales para iniciar la actividad sin licencia previa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración responsable y, si se requiere, documentación técnica o aval."
+        },
+        {
+          "step": 2,
+          "title": "Comprobación posterior",
+          "descrption": "La administración realiza inspecciones para verificar la veracidad de los datos declarados.",
+          "start_date": "Tras la presentación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

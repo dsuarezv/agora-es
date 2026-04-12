@@ -1,0 +1,99 @@
+{
+  "identifier": "BOE-A-1991-1267",
+  "title": "Ley 4/1990, de 23 de marzo, sobre concentración parcelaria, conservación de obras, unidades mínimas de cultivo y fomento de explotaciones rentables",
+  "visible_title": "Ley sobre concentración parcelaria, conservación de obras y unidades mínimas de cultivo",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "4/1990",
+  "publication_date": "1991-01-17",
+  "enactment_date": "1990-03-23",
+  "last_updated": "2000-11-20",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/1990/03/23/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca modernizar el sector agrario en Cantabria mediante la reorganización de las fincas para evitar la excesiva fragmentación de la tierra. Establece mecanismos para agrupar parcelas pequeñas en explotaciones más grandes y rentables, regula la protección de las obras de riego y mejora la gestión de la propiedad rural. Además, busca incentivar la creación de explotaciones que sean económicamente viables y socialmente justas.",
+  "citizen_impact": "Los agricultores y propietarios de tierras en Cantabria ven modificada su gestión de la propiedad, ya que pueden ser sujetos a procesos de concentración de parcelas. Esto implica la obligación de colaborar con la administración y cuidar las tierras para evitar sanciones por deterioro de la unidad agraria.",
+  "professional_impact": "Los profesionales del sector agrario y técnicos de la administración deben seguir nuevos protocolos de investigación, clasificación y valoración de tierras. Se crean Comisiones Locales con funciones específicas de asesoramiento y gestión, y se establecen procedimientos notariales para la nueva titularidad de las fincas tras la concentración.",
+  "keywords": [
+    "concentración parcelaria",
+    "explotaciones agrarias",
+    "Cantabria",
+    "unidades mínimas de cultivo",
+    "obras agrarias",
+    "rentabilidad agrícola"
+  ],
+  "key_points": [
+    "Creación de Comisiones Locales para gestionar y asesorar los procesos de concentración de tierras.",
+    "Posibilidad de iniciar la concentración por oficio de la Administración o a petición de ayuntamientos, cámaras agrarias o mayoría de propietarios.",
+    "Obligación de los propietarios de mantener las parcelas en buen estado y no destruir obras durante el proceso.",
+    "Protocolización ante notario de las nuevas reparticiones de tierras para que sirvan como título de propiedad.",
+    "Establecimiento de sanciones económicas por mal uso de obras o por incumplimiento de deberes durante la concentración.",
+    "Fomento de la creación de explotaciones que garanticen una remuneración justa y viabilidad económica."
+  ],
+  "legal_references": [
+    "Ley de Reforma y Desarrollo Agrario de 12 de enero de 1973",
+    "Orden del Ministerio de Agricultura de 27 de mayo de 1958",
+    "Decreto 118/1973, de 12 de enero"
+  ],
+  "derogations": [
+    "Ley de 15 de julio de 1954, sobre fijación de unidades mínimas de cultivo por la de reforma y desarrollo agrario, aprobada por Decreto 118/1973"
+  ],
+  "main_obligations": "Los propietarios deben cuidar las parcelas con la diligencia de un buen padre de familia y no realizar actos que disminuyan su valor. El incumplimiento de deberes de colaboración o el daño a obras puede acarrear multas de entre 5.000 y 100.000 pesetas (según la época de la norma).",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Procedimiento de concentración parcelaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "description": "La Administración inicia el proceso de oficio o mediante solicitud de ayuntamientos, cámaras agrarias o mayoría de propietarios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Constitución de la Comisión Local",
+          "description": "Se crea un órgano colegiado con representantes de la administración, ayuntamientos y agricultores para investigar y clasificar.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación de bases",
+          "description": "La Comisión aprueba las bases provisionales y propone las definitivas a la Consejería.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Protocolización y Registro",
+          "description": "El acta de reorganización se eleva a público ante Notario y se procede a la inscripción en el Registro de la Propiedad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Plano autorizado de la zona concentrada"
+        }
+      ]
+    },
+    {
+      "name": "Recurso gubernativo con reconocimiento pericial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Depósito de garantía",
+          "description": "Para que el recurso sea admitido, el interesado debe depositar la cantidad estimada para sufragar los costes del perito.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Depósito de cuantía económica"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

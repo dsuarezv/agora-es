@@ -1,0 +1,350 @@
+{
+  "identifier": "DOGV-r-2015-90416",
+  "title": "Decreto Legislativo 2/2015, de 15 de mayo, del Consell, por el que aprueba el texto refundido de la Ley de Cooperativas de la Comunitat Valenciana",
+  "visible_title": "Ley de Cooperativas de la Comunitat Valenciana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "2/2015",
+  "publication_date": "2015-05-20",
+  "enactment_date": "2015-05-15",
+  "last_updated": "2025-05-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=DOGV-r-2015-90416",
+  "official_journal": "DOGV",
+  "journal_issue": null,
+  "summary": "Esta norma unifica y moderniza toda la regulación de las cooperativas en la Comunidad Valenciana en un solo texto legal. Su objetivo es ofrecer seguridad jurídica tanto a los socios como a los gestores, definiendo claramente cómo se crean, se gobiernan y se disuelven estas entidades. Además, introduce figuras nuevas como las cooperativas de iniciativa social para fomentar el impacto comunitario y facilita la transformación de asociaciones en cooperativas. En definitiva, establece las reglas de juego para el modelo cooperativo valenciano, equilibrando la libertad de gestión con la protección de los socios y terceros.",
+  "citizen_impact": "Los ciudadanos que quieran asociarse para emprender proyectos comunes (vivienda, trabajo, consumo) tienen reglas claras sobre su responsabilidad (limitada al capital aportado) y sus derechos (acceso gratuito a cuentas y posibilidad de separarse si la cooperativa cambia su actividad). También protege a los socios frente a decisiones abusivas de las mayorías mediante el derecho de impugnación.",
+  "professional_impact": "Para empresarios y gestores, la norma impone obligaciones de transparencia y registro, como la inscripción de la constitución en dos meses o el depósito de cuentas anuales. Las cooperativas de gran tamaño (facturación >3M€) deben contratar gestión permanente, y los administradores asumen responsabilidad solidaria por daños causados por dolo o culpa. También ofrece ventajas competitivas, como la reducción del 75% en garantías para licitar contratos públicos si solo concurren cooperativas.",
+  "keywords": [
+    "cooperativas",
+    "Comunitat Valenciana",
+    "derecho cooperativo",
+    "gestión de cooperativas",
+    "socio cooperativista",
+    "trabajo asociado",
+    "iniciativa social"
+  ],
+  "key_points": [
+    "Responsabilidad limitada: Los socios solo responden con sus aportaciones, salvo que los estatutos digan lo contrario.",
+    "Nuevos modelos: Creación de cooperativas de iniciativa social con acceso preferente a créditos y derechos de superficie.",
+    "Facilidad de creación: Se permite crear cooperativas de trabajo asociado con solo dos socios.",
+    "Protección del socio: Derecho a impugnar acuerdos abusivos y derecho de separación ante cambios en el objeto social.",
+    "Digitalización: Uso de la página web como sede electrónica para convocatorias y comunicación de información.",
+    "Transformación sencilla: Las asociaciones pueden convertirse en cooperativas manteniendo su patrimonio y beneficios fiscales.",
+    "Ventajas en contratación pública: Reducción del 75% en la garantía necesaria para licitar si la concurrencia es solo de cooperativas.",
+    "Control de gestión: Las cooperativas con más de 3 millones de euros de facturación deben tener un gestor de dedicación permanente.",
+    "Límites en cooperativas no lucrativas: Los salarios no pueden superar el 175% del salario medio del sector.",
+    "Régimen sancionador: Inhabilitación de administradores hasta por 10 años en caso de infracciones muy graves.",
+    "Derecho de retracto: En cooperativas de vivienda, la entidad puede recuperar la vivienda si se vende a un tercero sin aviso.",
+    "Límite de actividad externa: Las cooperativas agroalimentarias pueden realizar actividades no socias hasta un 25% de su volumen."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 129.2)",
+    "Estatuto d'Autonomia de la Comunitat Valenciana",
+    "Ley Orgánica 5/1982",
+    "Ley 11/1985",
+    "Ley 3/1995",
+    "Decreto Legislativo 1/1998",
+    "Ley 8/2003",
+    "Ley 4/2014",
+    "Ley 5/1983",
+    "Ley de Auditoría de Cuentas",
+    "Ley de Enjuiciamiento Civil",
+    "Ley 39/1975 de designación de letrados asesores",
+    "Ley del Mercado de Valores",
+    "Estatuto de Consumidores y Usuarios de la Comunitat Valenciana",
+    "Legislación estatal de seguros",
+    "Legislación estatal de entidades de crédito",
+    "Normativa autonómica valenciana de vivienda colaborativa",
+    "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+    "Ley de Asociaciones de la Comunitat Valenciana"
+  ],
+  "derogations": [
+    "Ley 8/2003 de la Generalitat",
+    "Modificaciones posteriores de la Ley 8/2003",
+    "Ley 4/2014 de la Generalitat",
+    "Artículo 99 bis"
+  ],
+  "main_obligations": "Los administradores deben inscribir la escritura de constitución en el Registro en un plazo de dos meses. Las cooperativas deben depositar sus cuentas anuales en el Registro el mes siguiente a su aprobación y remitir datos estadísticos anuales a la Consejería.",
+  "effective_date": "2015-05-21",
+  "procedures": [
+    {
+      "name": "Constitución de una cooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Otorgamiento de escritura pública",
+          "description": "Formalización ante notario de la voluntad de constituir la cooperativa y sus estatutos.",
+          "start_date": "Día de la firma",
+          "end_date": null,
+          "required_documentation": "Estatutos sociales, certificación de depósito de capital, designación de consejo rector."
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de inscripción registral",
+          "description": "Presentación de la escritura ante el Registro de Cooperativas.",
+          "start_date": "Máximo 2 meses desde la escritura",
+          "end_date": "2 meses para subsanar defectos",
+          "required_documentation": "Escritura de constitución"
+        },
+        {
+          "step": 3,
+          "title": "Calificación e inscripción",
+          "description": "El Registro procede a la inscripción o deniega la solicitud.",
+          "start_date": "1 mes desde la presentación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de baja de un socio",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de baja",
+          "description": "El socio comunica por escrito su voluntad de abandonar la cooperativa al consejo rector.",
+          "start_date": "Fecha de notificación",
+          "end_date": null,
+          "required_documentation": "Comunicación por escrito"
+        },
+        {
+          "step": 2,
+          "title": "Calificación de la baja",
+          "description": "El consejo rector determina si la baja es justificada o no y sus efectos.",
+          "start_date": "Desde la recepción de la notificación",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Impugnación de acuerdos sociales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Agotamiento de la vía interna",
+          "description": "Es obligatorio intentar resolver el conflicto mediante los mecanismos internos de la cooperativa antes de ir a juicio.",
+          "start_date": "Antes de la demanda",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Interposición de la demanda",
+          "description": "Presentación de la acción judicial contra la cooperativa.",
+          "start_date": "Desde la adopción del acuerdo (o inscripción)",
+          "end_date": "1 año (salvo orden público)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reembolso de aportaciones por baja",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de la baja",
+          "description": "El socio comunica su salida de la cooperativa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Liquidación y comunicación",
+          "description": "El Consejo Rector comunica el importe a reembolsar y las deducciones aplicadas.",
+          "start_date": "Plazo de 2 meses desde la aprobación de cuentas del ejercicio de la baja",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Efectivización del pago",
+          "description": "Pago del importe, pudiendo aplazarse según estatutos (1 a 5 años según el tipo de baja).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Modificación de estatutos sociales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de la Asamblea General",
+          "description": "Aprobación de la modificación por la asamblea según requisitos legales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Formalización y Publicación",
+          "description": "Otorgamiento de escritura pública e inscripción en el Registro de Cooperativas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública"
+        },
+        {
+          "step": 3,
+          "title": "Derecho de separación",
+          "description": "Plazo para que socios disconformes soliciten la baja justificada.",
+          "start_date": "Desde la inscripción en el Registro",
+          "end_date": "40 días",
+          "required_documentation": "Comunicación escrita al consejo rector"
+        }
+      ]
+    },
+    {
+      "name": "Fusión de cooperativas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación del proyecto",
+          "description": "La asamblea general aprueba el proyecto de fusión y convenio previo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de fusión, memoria del consejo rector e informe de auditores"
+        },
+        {
+          "step": 2,
+          "title": "Publicación del acuerdo",
+          "description": "Anuncio del acuerdo de fusión en el DOGV.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Periodo de oposición de acreedores",
+          "description": "Plazo para que acreedores no garantizados se opongan a la fusión.",
+          "start_date": "Desde la publicación del anuncio",
+          "end_date": "1 mes",
+          "required_documentation": "Oposición por escrito"
+        },
+        {
+          "step": 4,
+          "title": "Formalización de la fusión",
+          "description": "Otorgamiento de la escritura pública única de fusión.",
+          "start_date": "Tras finalizar el plazo de oposición",
+          "end_date": null,
+          "required_documentation": "Escritura pública"
+        }
+      ]
+    },
+    {
+      "name": "Disolución y Liquidación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de Asamblea",
+          "description": "Los administradores deben convocar la asamblea tras apreciar la causa de disolución.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Acuerdo de disolución e inscripción",
+          "description": "Inscripción del acuerdo en el Registro y publicación en el DOGV.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Comparecencia de acreedores",
+          "description": "Plazo para que acreedores defiendan sus derechos.",
+          "start_date": "Desde la última publicación del acuerdo",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Procedimiento de liquidación",
+          "description": "Realización de bienes, pago de deudas y distribución del haber social.",
+          "start_date": null,
+          "end_date": "2 años (si no se termina, se consignan créditos judicialmente)",
+          "required_documentation": "Inventario y balance inicial"
+        }
+      ]
+    },
+    {
+      "name": "Calificación de cooperativa no lucrativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de calificación",
+          "description": "Presentación de la solicitud acreditando la función social y modificación de estatutos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estatutos sociales actualizados"
+        },
+        {
+          "step": 2,
+          "title": "Resolución administrativa",
+          "description": "La administración debe resolver en un plazo máximo de 3 meses; si no lo hace, se entiende estimada.",
+          "start_date": "Desde la presentación",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de descualificación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requerimiento de subsanación",
+          "description": "Ante inactividad de órganos o de objeto social, se requiere corregir la situación.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Instrucción de expediente",
+          "description": "Se abre expediente con audiencia a la entidad e informe de la Confederación.",
+          "start_date": "Tras el vencimiento del plazo de subsanación",
+          "end_date": null,
+          "required_documentation": "Informe de la Confederación de Cooperativas"
+        },
+        {
+          "step": 3,
+          "title": "Resolución y disolución",
+          "description": "Si la descualificación es firme, la cooperativa debe disolverse o transformarse.",
+          "start_date": "Desde la firmeza de la resolución",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Transformación de asociación en cooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de transformación",
+          "description": "La asamblea de la asociación acuerda la transformación y se eleva a escritura pública.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Balance de situación cerrado el día anterior al acuerdo"
+        },
+        {
+          "step": 2,
+          "title": "Inscripción registral",
+          "description": "Presentación en el Registro de Cooperativas para formalizar la nueva personalidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública y balance verificado"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 4
+}

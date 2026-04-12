@@ -1,0 +1,113 @@
+{
+  "identifier": "BOE-A-2003-9510",
+  "title": "Ley 3/2003, de 24 de marzo, de la Sindicatura de Cuentas",
+  "visible_title": "Ley de la Sindicatura de Cuentas",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "3/2003",
+  "publication_date": "2003-05-10",
+  "enactment_date": "2003-03-24",
+  "last_updated": "2015-04-08",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2003/03/24/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea y regula la Sindicatura de Cuentas del Principado de Asturias, un órgano independiente encargado de fiscalizar externamente la gestión económica y financiera del sector público asturiano. Su objetivo es garantizar que el dinero público se gestione con legalidad, eficacia y eficiencia. Además de controlar las cuentas, actúa como asesor especializado para la Junta General en materias presupuestarias y contables.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta a gestores, directivos y funcionarios del sector público asturiano (Administración, ayuntamientos y universidades), quienes quedan sujetos a la supervisión de este órgano. Las empresas que reciban subvenciones o ayudas públicas también deben estar preparadas para rendir cuentas y ser auditadas por la Sindicatura.",
+  "keywords": [
+    "Sindicatura de Cuentas",
+    "fiscalización",
+    "sector público",
+    "Asturias",
+    "control externo",
+    "gestión económica",
+    "auditoría"
+  ],
+  "key_points": [
+    "Creación de la Sindicatura de Cuentas como órgano independiente de la Junta General de Asturias.",
+    "Competencia para fiscalizar la legalidad, eficacia y eficiencia del gasto público autonómico.",
+    "Capacidad de inspeccionar documentos, libros y bienes de cualquier entidad del sector público asturiano.",
+    "Facultad para imponer multas coercitivas de entre 150 y 3.000 euros por obstrucción a la fiscalización.",
+    "Obligación de fiscalizar contratos públicos, subvenciones, ayudas y la Cuenta General del Principado.",
+    "Creación del Cuerpo de Auditores de la Sindicatura de Cuentas (Grupo A).",
+    "Función de asesoramiento no vinculante a la Junta General y entidades locales en materia presupuestaria."
+  ],
+  "legal_references": [
+    "Ley Orgánica 1/1999, de 5 de enero",
+    "Ley Orgánica 7/1981, de 30 de diciembre",
+    "Constitución Española de 1978",
+    "Ley Orgánica 8/1980, de 22 de septiembre",
+    "Ley Orgánica 2/1982, de 12 de mayo",
+    "Ley 4/1995, de 6 de abril",
+    "Ley 7/1988, de 5 de abril",
+    "Ley 30/1992, de 26 de noviembre",
+    "Ley 2/1995, de 13 de marzo"
+  ],
+  "derogations": [],
+  "main_obligations": "Los sujetos del sector público y beneficiarios de ayudas deben rendir cuentas y proporcionar toda la documentación requerida. La obstrucción o falta de colaboración puede acarrear multas coercitivas de 150 a 3.000 euros.",
+  "effective_date": "2003-04-30",
+  "procedures": [
+    {
+      "name": "Procedimiento de Fiscalización",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciativa de fiscalización",
+          "description": "La Sindicatura inicia el proceso mediante un programa de fiscalizaciones o por interés de la Junta General.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe provisional y audiencia",
+          "description": "Se elabora un borrador y se da traslado a los responsables para que presenten alegaciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Alegaciones y documentos de descargo"
+        },
+        {
+          "step": 3,
+          "title": "Informe definitivo",
+          "description": "Se redacta el informe final incluyendo las alegaciones y se somete a aprobación del Consejo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Debate parlamentario y publicación",
+          "description": "El informe se remite a la Comisión de la Junta General para su resolución y posterior publicación.",
+          "start_date": null,
+          "end_date": "15 días tras la resolución parlamentaria",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Asesoramiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de dictamen",
+          "description": "La Junta General o el Consejo de Gobierno solicitan un informe técnico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Emisión del informe",
+          "description": "La Sindicatura debe emitir el dictamen en un plazo determinado.",
+          "start_date": null,
+          "end_date": "30 días (prorrogables por otros 30)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

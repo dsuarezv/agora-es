@@ -1,0 +1,163 @@
+{
+  "identifier": "BOE-A-2007-10026",
+  "title": "Ley 7/2007, de 15 de marzo, de Caliidad Agroalimentaria de Castilla-La Mancha",
+  "visible_title": "Ley de Calidad Agroalimentaria de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "7/2007",
+  "publication_date": "2007-05-18",
+  "enactment_date": "2007-03-15",
+  "last_updated": "2009-12-23",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2007/03/15/7",
+  "official_journal": "Diario Oficial de Castilla-La Manchcha",
+  "journal_issue": null,
+  "summary": "Esta ley protege la autenticidad de los productos agroalimentarios de Castilla-La Manchcha, asegurando que lo que el consumidor compra sea realmente lo que dice la etiqueta. Establece reglas estrictas de trazabilidad y control para productores y comercializadores para evitar fraudes con denominaciones protegidas. Además, endurece las consecuencias para quienes engañen al consumidor, permitiendo sanciones económicas muy elevadas y el cierre de negocios. En definitiva, busca blindar la reputación de la producción local frente a imitaciones.",
+  "citizen_impact": "Garantiza que el consumidor reciba productos con la calidad y el origen geográfico que paga, protegiéndolo contra el fraude alimentario y las etiquetas engañosas.",
+  "professional_impact": "Obliga a empresas del sector agroalimentario a implementar sistemas de trazabilidad rigurosos, mantener registros detallados durante 5 años y permitir inspecciones exhaustivas de su contabilidad y procesos. El incumplimiento conlleva riesgos financieros graves (multas de hasta 1,2 millones de euros) y la posible responsabilidad personal de directivos.",
+  "keywords": [
+    "calidad agroalimentaria",
+    "trazabilidad",
+    "Castilla-La Manchcha",
+    "fraude alimentario",
+    "denominación de origen",
+    "sanciones agroalimentarias",
+    "seguridad alimentaria"
+  ],
+  "key_points": [
+    "Creación de la 'Marca de Calidad Agroalimentaria de Castilla-La Manchcha' para productos certificados.",
+    "Prohibición absoluta de usar nombres geográficos protegidos (DOP, IGP) en productos que no cumplan los pliegos, incluso usando términos como 'tipo' o 'estilo'.",
+    "Obligatoriedad de mantener registros de trazabilidad y documentos de acompañamiento durante un mínimo de 5 años.",
+    "Exigencia de sistemas que permitan identificar proveedores y receptores en cada etapa de la cadena.",
+    "Los inspectores tienen poder para acceder directamente a la documentación contable, mercantil e industrial de las empresas.",
+    "Los productos no conformes deben etiquetarse específicamente y almacenarse por separado para evitar confusiones.",
+    "Las sanciones económicas pueden alcanzar hasta 1.200.000 euros o 10 veces el valor de la mercancía.",
+    "El incumplimiento grave puede suponer el cierre de la empresa hasta por 5 años.",
+    "La responsabilidad de las infracciones puede ser solidaria entre participantes y recaer personalmente sobre directivos y técnicos.",
+    "Las entidades de control pueden perder su autorización si se demuestra falta de independencia o veracidad."
+  ],
+  "legal_references": [
+    "Reglamento (CE) 510/2006",
+    "Reglamento (CE) 509/2006",
+    "Reglamento (CE) 1493/1999",
+    "Reglamento (CE) 1576/1989",
+    "Reglamento (CEE) 2092/1991",
+    "Real Decreto 1201/2002",
+    "Ley 17/2001 de Marcas",
+    "Ley 11/2005 del Estatuto del Consumidor",
+    "Norma UNE-EN ISO/IEC-17020:2004",
+    "Norma UNE-EN 45011:1998",
+    "Ley 8/2003 de la Viña y el Vino de Castilla-La Manchcha",
+    "Artículo 50 de la Ley 8/2003",
+    "Disposición Adicional Sexta de la Ley 8/2003"
+  ],
+  "derogations": [
+    "Artículo 50 de la Ley 8/2003, de 20 de marzo, de la Viña y el Vino de Castilla-La Manchcha",
+    "Disposición Adicional Sexta de la Ley 8/2003, de 20 de marzo, de la Viña y el Vino de Castilla-La Manchcha"
+  ],
+  "main_obligations": "Los operadores deben garantizar la trazabilidad total de sus productos, conservar todos los registros comerciales y de movimientos de mercancía durante al menos 5 años, y permitir el acceso irrestricto de los inspectores a sus instalaciones y documentación.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Reconocimiento de Denominaciones de Origen (DOP) e Indicaciones Geográficas Protegidas (IGP)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Las agrupaciones de productores o personas jurídicas presentan la solicitud ante la Dirección General competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Pliego de condiciones que incluya descripción, zona geográfica, método de obtención y vínculo con el medio."
+        }
+      ]
+    },
+    {
+      "name": "Adopción de medidas cautelares por inspección",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adopción de la medida",
+          "description": "El inspector adopta medidas urgentes (inmovilización, retirada, etc.) ante indicios de infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de inspección con la motivación de la medida."
+        },
+        {
+          "step": 2,
+          "title": "Audiencia del interesado",
+          "description": "Plazo para que el afectado se pronuncie sobre la medida cautelar adoptada.",
+          "start_date": "3 días hábiles tras la notificación",
+          "end_date": "3 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Confirmación o levantamiento",
+          "description": "La medida debe ser confirmada, modificada o levantada en el acuerdo de iniciación del procedimiento.",
+          "start_date": "Tras la adopción",
+          "end_date": "15 días tras la adopción",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de productos no conformes tras inmovilización",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de confirmación",
+          "description": "Se comunica al responsable la confirmación de la inmovilización tras iniciar el procedimiento sancionador.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Elección de destino",
+          "description": "El titular dispone de un plazo para elegir entre regularizar, destinar a otro sector, devolver al origen o destruir.",
+          "start_date": "Tras la notificación de confirmación",
+          "end_date": "15 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador general",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "La Dirección General competente acuerda el inicio y designa al instructor.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y resolución",
+          "description": "Plazo máximo para notificar la resolución final.",
+          "start_date": null,
+          "end_date": "18 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador simplificado (Infracciones leves)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación rápida",
+          "description": "Se aplica si los hechos constan en acta o documentos de inspección.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": "Acta de inspección o documentos recogidos"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

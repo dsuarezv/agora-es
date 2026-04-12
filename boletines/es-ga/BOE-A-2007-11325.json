@@ -1,0 +1,98 @@
+{
+  "identifier": "BOE-A-2007-11325",
+  "title": "Ley 6/2007, de 11 de mayo, de Medidas urgentes en materia de ordenación del territorio y del litoral de Galicia",
+  "visible_title": "Ley de medidas urgentes en materia de ordenación del territorio y del litoral de Galicia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "6/2007",
+  "publication_date": "2007-06-08",
+  "enactment_date": "2007-05-11",
+  "last_updated": "2021-01-14",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2007/05/11/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma surge para frenar el crecimiento urbano descontrolado y la ocupación indiscriminada del litoral gallego. Establece una suspensión inmediata de nuevos desarrollos urbanísticos en la franja de 500 metros desde la costa para evitar la degradación ambiental. Además, crea el Instituto de Estudios del Territorio para asesorar técnicamente a los municipios y busca integrar la evaluación ambiental en todos los planes de ordenación.",
+  "citizen_impact": "Los ciudadanos ven frenados los proyectos de construcción y urbanización en zonas costeras durante el periodo de suspensión. Esto busca proteger el paisaje y los recursos naturales para su uso futuro, aunque puede retrasar la aprobación de nuevos desarrollos residenciales o turísticos en municipios costeros.",
+  "professional_impact": "Promotores inmobiliarios y constructores enfrentan una paralización de trámites para planes de reforma interior o sectorización en el litoral. Los ayuntamientos costeros deben adaptar su planeamiento a la nueva normativa ambiental y cuentan con el apoyo técnico del nuevo Instituto de Estudios del Territorio.",
+  "keywords": [
+    "ordenación del territorio",
+    "litoral",
+    "urbanismo",
+    "Galicia",
+    "sostenibilidad",
+    "evaluación ambiental",
+    "protección de costas"
+  ],
+  "key_points": [
+    "Suspensión de la tramitación de planes urbanísticos en terrenos a menos de 500 metros de la costa.",
+    "Creación del Instituto de Estudios del Territorio como organismo autónomo de asesoramiento.",
+    "Obligatoriedad de integrar la evaluación ambiental estratégica en los planes de ordenación.",
+    "Prioridad de la protección del litoral sobre el planeamiento municipal obsoleto.",
+    "Fomento de la creación de suelo para viviendas protegidas mediante proyectos sectoriales.",
+    "Nulidad de licencias urbanísticas otorgadas sin el planeamiento de ordenación detallada previo en suelo urbano no consolidado."
+  ],
+  "legal_references": [
+    "Ley 10/1995, de 23 de noviembre, de Ordenación del territorio de Galicia",
+    "Ley 9/2002, de 30 de diciembre, de Ordenación urbanística y protección del medio rural de Galicia",
+    "Directiva europea 42/2001/CE",
+    "Ley 9/2006, de 28 de abril, sobre Evaluación de los efectos de determinados planes y programas en el medio ambiente",
+    "Decreto autonómico 72/2004, de 2 de julio",
+    "Decreto 110/2004, de 27 de marzo"
+  ],
+  "derogations": [
+    "Preceptos de la Ley 9/2002: letra c) del número 61; número 4 del artículo 61; párrafo segundo del número 3 del artículo 85; párrafo segundo de la letra b) del número 1 del artículo 86."
+  ],
+  "main_obligations": "Se prohíbe la aprobación de nuevos instrumentos de transformación urbanística en la franja de 500 metros desde el litoral hasta que se apruebe el Plan de ordenación del litoral o se adapte el planeamiento municipal. Los promotores de planes deben integrar obligatoriamente la evaluación ambiental estratégica en sus procedimientos.",
+  "effective_date": "2007-06-09",
+  "procedures": [
+    {
+      "name": "Evaluación ambiental estratégica de instrumentos de ordenación y planeamiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de inicio",
+          "description": "El promotor comunica al órgano ambiental el inicio de la tramitación del plan.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento de inicio con aspectos recogidos en el art. 18 de la Ley 9/2006"
+        },
+        {
+          "step": 2,
+          "title": "Elaboración del documento de referencia",
+          "description": "El órgano ambiental traslada el documento de referencia al promotor.",
+          "start_date": "3 meses desde la recepción de documentación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informe de sostenibilidad ambiental",
+          "description": "El promotor elabora el informe siguiendo los criterios del documento de referencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Consulta e información pública",
+          "description": "Se somete el plan y el informe de sostenibilidad a consulta pública.",
+          "start_date": null,
+          "end_date": "mínimo 2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Elaboración de la memoria ambiental",
+          "description": "El órgano ambiental elabora la memoria ambiental de carácter vinculante.",
+          "start_date": "3 meses desde la recepción de documentación completa",
+          "end_date": null,
+          "required_documentation": "Propuesta de memoria ambiental, informe de sostenibilidad, alegaciones e informes sectoriales"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

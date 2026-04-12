@@ -1,0 +1,95 @@
+{
+  "identifier": "BOE-A-2012-4379",
+  "title": "Ley 8/1986, de 26 de junio, de Iniciativa Legislativa Popular",
+  "visible_title": "Ley de Iniciativa Legislativa Popular",
+  "rank": "ley",
+  "country": "es",
+  "department": "Parlamento Vasco",
+  "official_number": "8/1986",
+  "publication_date": "2012-03-30",
+  "enactment_date": "1986-06-26",
+  "last_updated": "2016-07-07",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1986/06/26/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma regulaba el mecanismo mediante el cual los ciudadanos vascos podían proponer leyes directamente al Parlamento Vasco. Establecía los requisitos de firmas, las materias prohibidas y el procedimiento de validación. Su objetivo era fomentar la participación democrática directa más allá del voto electoral.",
+  "citizen_impact": "Permitía a los ciudadanos con condición política de vascos proponer leyes si conseguían al menos 30.000 firmas. No imponía obligaciones, sino que otorgaba un derecho de participación política directa.",
+  "professional_impact": "Afectaba a los promotores de iniciativas, quienes debían constituir una Comisión Promotora y gestionar la recogida de firmas bajo supervisión de la Junta Electoral. También implicaba trabajo administrativo para la Mesa del Parlamento y las Juntas Electorales para la validación de documentos.",
+  "keywords": [
+    "iniciativa legislativa popular",
+    "participación ciudadana",
+    "Parlamento Vasco",
+    "derecho de petición",
+    "recogida de firmas"
+  ],
+  "key_points": [
+    "Requisito mínimo de 30.000 firmas de ciudadanos vascos inscritos en el censo.",
+    "Prohibición de proponer leyes sobre impuestos, reforma del Estatuto o régimen electoral.",
+    "Plazo de 4 meses para recoger las firmas tras la admisión de la propuesta.",
+    "Posibilidad de prórroga de 2 meses por fuerza mayor.",
+    "Las firmas deben ser autenticadas por notarios, secretarios judiciales o fedatarios especiales.",
+    "Reembolso de gastos de difusión y recogida de firmas si se alcanza la publicación en el Boletín del Parlamento.",
+    "La iniciativa no caduca si se disuelve el Parlamento durante su tramitación."
+  ],
+  "legal_references": [
+    "Artículo 27.4 del Estatuto de Autonomía del País Vasco",
+    "Artículo 9.2.e) del Estatuto Vasco",
+    "Artículo 10 del Estatuto del País Vasco de 1936",
+    "Artículo 105 del Reglamento de la Cámara"
+  ],
+  "derogations": [
+    "Ley 10/2016, de 30 de junio"
+  ],
+  "main_obligations": "Los promotores deben presentar un texto articulado con exposición de motivos y una Comisión Promotora. Las firmas deben incluir nombre, apellidos, DNI y municipio, y ser autenticadas legalmente.",
+  "effective_date": "1986-06-26",
+  "procedures": [
+    {
+      "name": "Tramitación de la Iniciativa Legislativa Popular",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la propuesta",
+          "description": "Entrega ante la Mesa del Parlamento del texto de la ley, motivos y datos de la Comisión Promotora.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Texto articulado, exposición de motivos y relación de miembros de la Comisión Promotora."
+        },
+        {
+          "step": 2,
+          "title": "Examen de admisibilidad",
+          "description": "La Mesa del Parlamento decide si la propuesta cumple los requisitos legales.",
+          "start_date": "Desde la presentación",
+          "end_date": "30 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Recogida de firmas",
+          "description": "Tras la admisión, se procede a la recogida de las 30.000 firmas necesarias.",
+          "start_date": "Tras notificación de admisión",
+          "end_date": "4 meses (prorrogable 2 meses más)",
+          "required_documentation": "Pliegos sellados por la Junta Electoral con el texto de la proposición."
+        },
+        {
+          "step": 4,
+          "title": "Comprobación y recuento",
+          "description": "Las Juntas Electorales verifican la validez de las firmas y las remiten a la Junta Electoral de la Comunidad Autónoma.",
+          "start_date": "Tras entrega de firmas",
+          "end_date": "30 días para el envío inicial",
+          "required_documentation": "Pliegos de firmas y certificados de inscripción en el censo."
+        },
+        {
+          "step": 5,
+          "title": "Tramitación parlamentaria",
+          "description": "Una vez certificadas las firmas, la propuesta sigue el proceso legislativo ordinario.",
+          "start_date": "Tras certificación de firmas",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

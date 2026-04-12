@@ -1,0 +1,65 @@
+{
+  "identifier": "BOE-A-2023-3351",
+  "title": "Ley Foral 38/2022, de 28 de diciembre, del Impuesto sobre Determinados Servicios Digitales",
+  "visible_title": "Impuesto sobre Determinados Servicios Digitales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "38/2022",
+  "publication_date": "2023-02-09",
+  "enactment_date": "2022-12-30",
+  "last_updated": "2022-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2022/12/28/38",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece un impuesto provisional para gravar los beneficios de grandes empresas tecnológicas que generan valor mediante la interacción de los usuarios en entornos digitales. Busca corregir la falta de tributación en la economía digital antes de que se implemente un acuerdo fiscal internacional definitivo. El impuesto se aplica específicamente a servicios de publicidad online, intermediación de plataformas y transmisión de datos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que el impuesto recae sobre grandes corporaciones tecnológicas y no sobre el consumo individual.",
+  "professional_impact": "Afecta exclusivamente a grandes empresas tecnológicas con una facturación global superior a 750 millones de euros y más de 3 millones de ingresos por servicios digitales en España. Estas empresas deben implementar sistemas de geolocalización de dispositivos y llevar registros detallados de sus operaciones para cumplir con la administración.",
+  "keywords": [
+    "economía digital",
+    "servicios digitales",
+    "publicidad online",
+    "intermediación online",
+    "transmisión de datos",
+    "fiscalidad tecnológica",
+    "Navarra"
+  ],
+  "key_points": [
+    "Grava tres tipos de servicios: publicidad en línea, intermediación de plataformas y transmisión de datos de usuarios.",
+    "El tipo impositivo aplicado es del 3% sobre la base imponible.",
+    "Solo afecta a empresas que superen 750 millones de euros de cifra de negocios global y 3 millones de ingresos por servicios digitales en España.",
+    "El impuesto tiene carácter provisional hasta que se alcance un consenso fiscal internacional (OCDE).",
+    "Las empresas deben ser capaces de localizar mediante tecnología (como la dirección IP) dónde se encuentran los dispositivos de los usuarios.",
+    "La liquidación del impuesto es de carácter trimestral."
+  ],
+  "legal_references": [
+    "Ley 4/2020, de 15 de octubre",
+    "Ley Foral 13/2000, de 14 de diciembre General Tributaria",
+    "Ley 28/1990, de 26 de diciembre (Convenio Económico)",
+    "Ley 11/2022, de 28 de junio, General de Telecomunicaciones",
+    "Directiva (UE) 2016/881",
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Ley Orgánica 3/2018, de 5 de diciembre"
+  ],
+  "derogations": [],
+  "main_obligations": "Las empresas sujetas deben presentar declaraciones trimestrales, llevar registros detallados de ingresos y usuarios por tipo de servicio, y mantener sistemas de geolocalización de dispositivos. El incumplimiento de la obligación de establecer mecanismos de localización de dispositivos se considera infracción grave, con multas de entre 15.000 y 400.000 euros.",
+  "effective_date": "2021-01-16",
+  "procedures": [
+    {
+      "name": "Liquidación y pago del impuesto",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Determinación de la base y autoliquidación",
+          "description": "Cálculo de los ingresos por servicios digitales realizados en territorio español mediante métodos de estimación directa.",
+          "start_date": "Trimestral",
+          "end_date": null,
+          "required_documentation": "Registros diferenciados por tipo de servicio y memoria descriptiva de algoritmos y tecnologías de localización."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

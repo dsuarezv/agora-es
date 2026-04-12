@@ -1,0 +1,78 @@
+{
+  "identifier": "BOE-A-2025-21729",
+  "title": "Real Decreto 969/2025, de 28 de octubre, por el que se establecen los criterios que definen los procesos irreversibles y de alta complejidad de cuidados que conforman el ámbito de aplicación de la Ley 3/2024, de 30 de octubre, para mejorar la calidad de vida de personas con Escleroosis Lateral Amiotrófica y otras enfermedades o procesos de alta complejidad y curso irreversible",
+  "visible_title": "Criterios para el reconocimiento de enfermedades de alta complejidad y curso irreversible",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de Sanidad",
+  "official_number": "969/2025",
+  "publication_date": "2025-10-29",
+  "enactment_date": "2025-10-28",
+  "last_updated": "2025-10-29",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/10/28/969",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "260",
+  "summary": "Este Real Decreto establece las reglas para identificar qué enfermedades, además de la ELA, tienen derecho a la atención rápida y especial de la Ley 3/2024. Define criterios clínicos específicos como la irreversibilidad, la falta de respuesta a tratamientos y la necesidad de cuidados domiciliarios complejos. El objetivo es evitar que la lentitud administrativa deje desprotegidas a personas con patologías de progresión rápida.",
+  "citizen_impact": "Permite que personas con enfermedades graves y degenerativas (no solo ELA) accedan a trámites de discapacidad y dependencia mucho más rápidos. Esto ayuda a obtener ayudas y cuidados médicos en casa antes de que la situación clínica se vuelva crítica.",
+  "professional_impact": "Los médicos responsables del seguimiento de la enfermedad deberán realizar una evaluación mediante un cuestionario específico en un plazo máximo de un mes. Las administraciones autonómicas tienen un plazo de tres meses para resolver la solicitud de reconocimiento.",
+  "keywords": [
+    "ELA",
+    "enfermedades neurodegenerativas",
+    "alta complejidad",
+    "dependencia",
+    "discapacidad",
+    "cuidados domiciliarios",
+    "atención sanitaria"
+  ],
+  "key_points": [
+    "Se aplica a enfermedades neurodegenerativas o no, siempre que sean irreversibles y de alta complejidad.",
+    "Los criterios incluyen la falta de respuesta a tratamientos y la necesidad de soporte vital (ventilación, gastrostomía, etc.).",
+    "Se establece un listado indicativo de enfermedades (como Atrofia Muscular Espinal o Encefalopatías Espongiformes) pero no es cerrado.",
+    "El médico tratante debe emitir un informe de evaluación en un plazo máximo de un mes.",
+    "La administración tiene un plazo máximo de tres meses para dictar la resolución definitiva.",
+    "El reconocimiento tiene validez en todo el territorio nacional."
+  ],
+  "legal_references": [
+    "Ley 3/2024, de 30 de octubre",
+    "Ley 39/2006, de 14 de diciembre",
+    "Ley 39/2015, de 1 de octubre",
+    "Constitución Española"
+  ],
+  "derogations": [],
+  "main_obligations": "El profesional médico debe realizar la evaluación clínica usando el cuestionario del Anexo II en un plazo de un mes tras la solicitud. La administración debe resolver la solicitud en un máximo de tres meses.",
+  "effective_date": "2025-11-18",
+  "procedures": [
+    {
+      "name": "Reconocimiento del cumplimiento de criterios de alta complejidad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de reconocimiento",
+          "description": "La persona afectada o su representante presenta el modelo de solicitud (Anexo III).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Modelo de solicitud del Anexo III"
+        },
+        {
+          "step": 2,
+          "title": "Evaluación médica",
+          "description": "El médico responsable realiza la valoración clínica mediante el cuestionario de verificación (Anexo II).",
+          "start_date": "Desde la solicitud",
+          "end_date": "1 mes natural",
+          "required_documentation": "Cuestionario de verificación (Anexo II)"
+        },
+        {
+          "step": 3,
+          "title": "Resolución administrativa",
+          "description": "La administración autonómica dicta la resolución que determina los servicios y prestaciones aplicables.",
+          "start_date": "Desde el informe médico",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

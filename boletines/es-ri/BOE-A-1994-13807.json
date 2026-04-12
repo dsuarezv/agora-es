@@ -1,0 +1,78 @@
+{
+  "identifier": "BOE-A-1994-13807",
+  "title": "Ley 4/1994, de 24 de mayo, de Archivos y Patrimonio Documental de La Rioja",
+  "visible_title": "Ley de Archivos y Patrimonio Documental de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "4/1994",
+  "publication_date": "1994-06-17",
+  "enactment_date": "1994-05-24",
+  "last_updated": "2024-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/1994/05/24/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "147",
+  "summary": "Esta ley establece el marco jurídico para proteger, conservar y organizar todo el patrimonio documental de La Rioja. Crea un Sistema de Archivos coordinado por un Consejo Asesor y un Órgano Gestor para asegurar que la memoria histórica y administrativa de la región esté disponible. Define qué documentos son patrimonio público y regula su acceso, gestión y protección frente a la destrucción o pérdida.",
+  "citizen_impact": "Garantiza el derecho de los ciudadanos a acceder de forma libre y gratuita a la documentación histórica y administrativa de la región. Protege la privacidad de los datos personales, limitando el acceso a documentos sensibles hasta que transcurran 25 años tras la muerte del interesado o 50 años desde la creación del documento.",
+  "professional_impact": "Obliga a funcionarios y administraciones públicas a seguir fases estrictas de gestión documental (gestión, intermedio e histórico) y a asignar presupuesto para su conservación. Los profesionales de la archivística y coleccionistas de documentos deben cumplir con obligaciones de comunicación y colaboración con el censo regional.",
+  "keywords": [
+    "patrimonio documental",
+    "archivos",
+    "La Rioja",
+    "conservación",
+    "acceso a la información",
+    "gestión administrativa",
+    "historia"
+  ],
+  "key_points": [
+    "Creación del Sistema de Archivos de La Rioja para coordinar la conservación y difusión documental.",
+    "Definición de documentos como patrimonio según su antigüedad (40 años para entidades privadas/religiosas y 100 años para particulares).",
+    "Establecimiento de tres fases de archivo: gestión, intermedio e histórico.",
+    "Garantía de acceso libre y gratuito a la documentación del patrimonio documental.",
+    "Prohibición de destrucción de documentos sin los procedimientos reglamentarios establecidos.",
+    "Obligación de las administraciones de incluir partidas presupuestarias para la organización de sus documentos.",
+    "Derecho de tanteo y retracto de la Administración sobre la venta de documentos de interés cultural."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de La Rioja",
+    "Real Decreto 3023/1983"
+  ],
+  "derogations": [],
+  "main_obligations": "Los titulares de archivos deben conservar y organizar los documentos para su consulta. Se prohíbe la destrucción de documentos sin autorización y se obliga a comunicar la venta o salida del territorio nacional de documentos de interés cultural. El incumplimiento puede derivar en multas administrativas significativas.",
+  "effective_date": "1994-07-07",
+  "procedures": [
+    {
+      "name": "Gestión de transferencia de documentos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Fase de archivo de gestión",
+          "description": "Conservación de documentos en la unidad administrativa para consulta habitual.",
+          "start_date": null,
+          "end_date": "máximo 5 años desde la finalización de la tramitación",
+          "required_documentation": "Documentación administrativa generada"
+        },
+        {
+          "step": 2,
+          "title": "Fase de archivo intermedio",
+          "description": "Tratamiento de documentos transferidos al Archivo General de La Rioja.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Fase de archivo histórico",
+          "description": "Tratamiento de documentos con valor histórico tras cumplir 30 años de antigüedad.",
+          "start_date": "30 años desde la génesis del documento",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

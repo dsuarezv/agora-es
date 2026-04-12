@@ -1,0 +1,81 @@
+{
+  "identifier": "BOE-A-2026-3579",
+  "title": "Resolución de 5 de febrero de 2026, del Organismo Autónomo Mutualidad General Judicial, por la que se regula el procedimiento de reintegro de gastos de farmacia en supuestos excepcionales",
+  "visible_title": "Regulación del procedimiento de reintegro de gastos de farmacia en supuestos excepcionales de la Mutualidad General Judicial",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes",
+  "official_number": "3579",
+  "publication_date": "2026-02-16",
+  "enactment_date": "2026-02-05",
+  "last_updated": "2026-02-16",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/res/2026/02/05/(2)",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "41",
+  "summary": "Esta resolución establece cómo los mutualistas de la MUGEJU pueden recuperar el dinero pagado por medicamentos, productos sanitarios o dietéticos en situaciones especiales. Cubre casos como medicamentos extranjeros no comercializados, errores en la receta, patologías específicas (VIH, fibrosis quística, etc.) o accidentes en acto de servicio. El objetivo es garantizar la eficiencia en el reembolso de gastos que no pueden gestionarse mediante la receta oficial estándar.",
+  "citizen_impact": "Los mutualistas de la MUGEJU ahora tienen un procedimiento claro para solicitar el reembolso de gastos farmacéuticos en situaciones excepcionales. Esto les permite acceder a tratamientos específicos o extranjeros pagando solo su aportación correspondiente, pero les exige gestionar trámites administrativos y aportar informes médicos y facturas.",
+  "professional_impact": "Los médicos adscritos a entidades médicas de la MUGEJU deben emitir informes médicos justificativos específicos para que el mutualista pueda tramitar el reintegro. Además, los profesionales deben asegurar que la prescripción cumpla con los requisitos de diagnóstico para patologías concretas mencionadas en la norma.",
+  "keywords": [
+    "MUGEJU",
+    "reintegro de farmacia",
+    "mutualismo judicial",
+    "medicamentos",
+    "gastos farmacéuticos",
+    "reembolso"
+  ],
+  "key_points": [
+    "Se permite el reintegro de medicamentos extranjeros no comercializados en España bajo informe médico.",
+    "Es posible recuperar gastos si se usó un modelo de receta distinto al oficial por causas justificadas.",
+    "Pacientes con VIH, fibrosis quística o enfermedad de Paget tienen vías específicas de reintegro mediante informe médico.",
+    "En accidentes en acto de servicio o enfermedad profesional, la MUGEJU reembolsa el 100% de lo abonado.",
+    "Los productos cosméticos, homeopáticos o de publicidad dirigida no son objeto de reintegro.",
+    "El plazo máximo para que la administración resuelva la solicitud es de tres meses.",
+    "El silencio administrativo tras tres meses sin resolución se entenderá como estimación de la solicitud."
+  ],
+  "legal_references": [
+    "Real Decreto 1026/2011",
+    "Real Decreto 1030/2006",
+    "Real Decreto 1348/2003",
+    "Orden JUS/1052/2022",
+    "Ley 39/2015"
+  ],
+  "derogations": [
+    "Resolución de 18 de marzo de 2014 de la Mutualidad General Judicial"
+  ],
+  "main_obligations": "El interesado debe presentar una solicitud mediante impreso normalizado aportando obligatoriamente informe médico justificativo y factura legal que acredite el pago. En casos de error de receta o urgencia, debe incluir una declaración escrita justificando la circunstancia.",
+  "effective_date": "2026-02-17",
+  "procedures": [
+    {
+      "name": "Solicitud de reintegro de gastos de farmacia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El interesado presenta el impreso normalizado por sede electrónica, medios de la Ley 39/2015 o presencialmente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Impreso normalizado, informe médico justificativo, factura legal y, si procede, declaración escrita o reconocimiento de accidente en acto de servicio."
+        },
+        {
+          "step": 2,
+          "title": "Subsanación de deficiencias",
+          "description": "Si hay errores o falta documentación, se requiere al interesado para que lo corrija.",
+          "start_date": null,
+          "end_date": "10 días",
+          "required_documentation": "Documentación faltante o corregida"
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "La administración dicta una resolución expresa notificando la decisión.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

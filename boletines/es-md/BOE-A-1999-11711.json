@@ -1,0 +1,81 @@
+{
+  "identifier": "BOE-A-1999-11711",
+  "title": "Ley 20/1998, de 27 de noviembre, de Ordenación y Coordinación de los Transportes Urbanos de la Comunidad de Madrid",
+  "visible_title": "Ley de Ordenación y Coordinación de los Transportes Urbanos de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "20/1998",
+  "publication_date": "1999-05-25",
+  "enactment_date": "1998-11-27",
+  "last_updated": "2024-12-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1998/11/27/20",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula y coordina el servicio de transporte urbano de viajeros en la Comunidad de Madrid para evitar vacíos legales tras sentencias del Tribunal Constitucional. Establece las competencias de los ayuntamientos y la Comunidad de Madrid, define las distintas modalidades de transporte (regular, discrecional, auto-taxi y arrendamiento con conductor) y crea un marco de coordinación con el transporte interurbano. Su objetivo es garantizar la seguridad jurídica de las empresas y la continuidad de los servicios de movilidad en la región.",
+  "citizen_impact": "Garantiza que los servicios de transporte urbano (autobuses, taxis y vehículos con conductor) estén debidamente regulados y coordinados, lo que aporta mayor seguridad y previsibilidad en los trayectos. También establece mecanismos para que los usuarios puedan presentar reclamaciones y asegura que los vehículos cumplan con estándares de seguridad y calidad.",
+  "professional_impact": "Las empresas de transporte y autónomos (taxis, VTC/arrendamiento) deben cumplir con títulos habilitantes específicos y normativas de gestión municipal o autonómica. Introduce un régimen sancionador estricto con multas de hasta 6.000 euros y la posibilidad de inmovilización inmediata del vehículo en caso de infracciones graves.",
+  "keywords": [
+    "transporte urbano",
+    "Comunidad de Madrid",
+    "auto-taxi",
+    "arrendamiento de vehículos con conductor",
+    "transporte público",
+    "movilidad",
+    "competencias municipales"
+  ],
+  "key_points": [
+    "Los municipios gestionan el transporte urbano en su término, salvo el arrendamiento de vehículos con conductor, que es competencia autonómica.",
+    "Se crea la categoría de 'auto-taxi' para vehículos de turismo con licencia municipal.",
+    "El arrendamiento de vehículos con conductor se considera transporte público discrecional y no tiene tarifas administrativas fijas.",
+    "Se establece un límite de proporción: no puede haber más de una autorización de arrendamiento con conductor por cada 30 licencias de auto-taxi.",
+    "Las infracciones muy graves pueden conllevar multas de hasta 6.000 euros y la suspensión de la licencia hasta un año.",
+    "Se permite la inmovilización inmediata del vehículo si no se abona el depósito de la sanción en el momento de la denuncia.",
+    "Se fomenta la eficiencia energética y la reducción de emisiones en la renovación de flotas de autobuses y taxis.",
+    "Los usuarios tienen derecho a exigir el uso de lectores de tarjetas de crédito en los vehículos."
+  ],
+  "legal_references": [
+    "Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres",
+    "Ley 5/1985, de 16 de mayo, de Creación del Consorcio Regional de Transportes Públicos Regulares de Madrid",
+    "Real Decreto 1211/1990, de 28 de septiembre",
+    "Ley 13/2021, de 1 de octubre",
+    "Estatuto de Autonomía de la Comunidad de Madrid"
+  ],
+  "derogations": [],
+  "main_obligations": "Los operadores deben poseer títulos habilitantes (licencias o autorizaciones) para prestar el servicio. Se prohíbe la manipulación de taxímetros, el uso de licencias ajenas y la prestación de servicios sin la documentación preceptiva, bajo riesgo de multas de hasta 6.000 euros e inmovilización del vehículo.",
+  "effective_date": "1999-05-26",
+  "procedures": [
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Detección de infracción y denuncia",
+          "description": "La autoridad o agente formula la denuncia y, si procede, fija una cuantía provisional para depósito.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación del vehículo y del conductor"
+        },
+        {
+          "step": 2,
+          "title": "Inmovilización (si aplica)",
+          "description": "El vehículo es trasladado a un lugar determinado hasta que se abone el depósito de la sanción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Tramitación y resolución",
+          "description": "Se tramita el expediente según la Ley 16/1987 hasta dictar resolución definitiva.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

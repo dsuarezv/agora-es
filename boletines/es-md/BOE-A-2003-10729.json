@@ -1,0 +1,81 @@
+{
+  "identifier": "BOE-A-2003-10729",
+  "title": "Ley 9/2003, de 26 de marzo, del régimen sancionador en materia de viviendas protegidas de la Comunidad de Madrid",
+  "visible_title": "Régimen sancionador en materia de viviendas protegidas de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "9/2003",
+  "publication_date": "2003-05-29",
+  "enactment_date": "2003-03-26",
+  "last_updated": "2005-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2003/03/26/9",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco de castigos y sanciones para quienes incumplan las normas de vivienda protegida en la Comunidad de Madrid. Su objetivo es evitar que se manipulen los precios de venta o alquiler y asegurar que las viviendas cumplan su función social. Regula desde errores administrativos leves hasta fraudes graves como la venta de suelo por encima del precio permitido o la cesión de viviendas a personas sin requisitos.",
+  "citizen_impact": "Protege a los compradores y arrendatarios de viviendas protegidas frente a cobros indebidos o estafas de precios. Si un promotor te cobra de más, la ley le obliga a devolverte el dinero y puede imponerle multas de hasta 60.000 euros.",
+  "professional_impact": "Afecta directamente a promotores, constructores y agentes inmobiliarios, imponiéndoles una responsabilidad estricta sobre el cumplimiento de precios y requisitos de acceso. Los incumplimientos pueden suponer multas elevadas, la inhabilitación para futuras promociones o la obligación de reintegrar beneficios ilícitos.",
+  "keywords": [
+    "vivienda protegida",
+    "régimen sancionador",
+    "Comunidad de Madrid",
+    "infracciones administrativas",
+    "precios de vivienda",
+    "promotores"
+  ],
+  "key_points": [
+    "Multas por infracciones leves de 150 a 1.500 euros, graves de 1.501 a 6.000 euros y muy graves de hasta 60.000 euros.",
+    "Obligación de devolver al comprador cualquier cantidad cobrada por encima del precio legal establecido.",
+    "La venta de suelo por un precio superior al coeficiente máximo permitido se considera una infracción muy grave.",
+    "Se prohíbe vender o alquilar viviendas protegidas a personas que no cumplan los requisitos de acceso.",
+    "Posibilidad de que la Administración ejerza el derecho de retracto para recuperar la vivienda en caso de infracción.",
+    "Los promotores pueden ser inhabilitados de 3 a 5 años para obtener nuevas calificaciones de vivienda protegida.",
+    "Las infracciones prescriben en plazos de 9 meses (leves), 2 años (graves) y 3 años (muy graves)."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación",
+    "Ley 2/1999, de 17 de marzo, de Medidas para la calidad de la edificación",
+    "Ley 9/2001, de 17 de julio, del Suelo de la Comunidad de Madrid",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común"
+  ],
+  "derogatations": [
+    "Normas de igual o inferior rango que se opongan a lo previsto en esta Ley"
+  ],
+  "main_obligations": "Los promotores deben comunicar el inicio/fin de obras y entregar escrituras en plazo; los usuarios deben mantener la vivienda como domicilio habitual. Se prohíbe cobrar cantidades no permitidas y se imponen multas que deben superar, como mínimo, el beneficio ilícito obtenido.",
+  "effective_date": "2003-06-29",
+  "procedures": [
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación del expediente",
+          "description": "Inicio y desarrollo del expediente siguiendo las normas generales de la Comunidad de Madrid.",
+          "start_date": null,
+          "end_date": "9 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "description": "Dictado de la resolución final y notificación al interesado.",
+          "start_date": null,
+          "end_date": "9 meses desde el inicio",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Condonación parcial",
+          "description": "Posibilidad de reducir la sanción principal hasta un 25% si se cumplen las obligaciones impuestas.",
+          "start_date": "Tras la resolución",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

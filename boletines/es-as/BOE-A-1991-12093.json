@@ -1,0 +1,127 @@
+{
+  "identifier": "BOE-A-1991-12093",
+  "title": "Ley 5/1991, de 5 de abril, de Protección de los Espacios Naturales",
+  "visible_title": "Ley de Protección de los Espacios Naturales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "5/1991",
+  "publication_date": "1991-05-21",
+  "enactment_date": "1991-04-05",
+  "last_updated": "2021-12-03",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1991/04/05/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para proteger, conservar y gestionar la riqueza natural del Principado de Asturias. Crea una red regional de espacios protegidos clasificados en parques naturales, reservas naturales, monumentos naturales y paisajes protegidos. Además, regula la elaboración de planes de ordenación de recursos naturales para garantizar un uso sostenible del territorio y la biodiversidad.",
+  "citizen_impact": "Los ciudadanos pueden ver limitadas ciertas actividades en zonas protegidas, como la acampada, la generación de ruidos o la instalación de publicidad. También otorga el derecho de participar en la información pública de los planes de gestión y declaración de nuevos espacios.",
+  "professional_impact": "Empresas de sectores como el turismo, la agricultura, la ganadería o la construcción deben cumplir con normativas de uso específicas y evaluaciones de impacto ambiental en estas zonas. Los propietarios de terrenos en espacios protegidos están sujetos a derechos de tanteo y retracto por parte de la Administración y a servidumbres de señalización.",
+  "keywords": [
+    "espacios naturales",
+    "protección ambiental",
+    "Asturias",
+    "biodiversidad",
+    "parques naturales",
+    "gestión de recursos",
+    "conservación"
+  ],
+  "key_points": [
+    "Creación de una red regional de espacios protegidos con distintas categorías (Parques, Reservas, Monumentos y Paisajes).",
+    "Obligatoriedad de los Planes de Ordenación de los Recursos Naturales como límite para otros instrumentos de ordenación territorial.",
+    "Establecimiento de zonas periféricas de protección para evitar impactos externos en los espacios protegidos.",
+    "La declaración de un espacio protegido conlleva la utilidad pública para fines expropiatorios.",
+    "Derecho de tanteo y retracto de la Administración sobre la compraventa de terrenos en estos espacios.",
+    "Clasificación de infracciones ambientales con multas que pueden alcanzar los 600.000 € en casos muy graves.",
+    "Obligación de reparar el daño causado al medio ambiente tras una infracción."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 45)",
+    "Ley 1/1987, de 30 de marzo, de Coordinación y Ordenación del Territorio",
+    "Ley 2/1988, de 10 de junio, de Declaración del Parque Natural de Somiedo",
+    "Ley 3/1988, de 10 de junio, de Sanciones de Pesca",
+    "Ley 4/1989, de 27 de marzo, de Caza",
+    "Real Decreto Legislativo 1302/1986, de 28 de junio (Evaluación de impacto ambiental)",
+    "Ley de Expropiación Forzosa"
+  ],
+  "derogations": [],
+  "main_obligations": "Prohibición de vertidos, quemas o alteraciones de la biodiversidad en zonas protegidas. Obligación de reparar el daño ambiental causado. Cumplimiento de las restricciones de uso (acampada, ruidos, obras) establecidas en los planes de gestión.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Elaboración del Plan de Ordenación de los Recursos Naturales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "description": "Acuerdo del Consejo de Gobierno para comenzar los trabajos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Exposición del plan para recibir alegaciones de la ciudadanía y entidades.",
+          "start_date": "30 días hábiles",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informes de Ayuntamientos y asociaciones",
+          "description": "Consulta simultánea a los ayuntamientos afectados y asociaciones ambientales.",
+          "start_date": "30 días hábiles",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación",
+          "description": "Elaboración de propuesta definitiva y aprobación por el Consejo de Gobierno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de Espacios Naturales Protegidos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación",
+          "description": "Resolución motivada de la Consejería para iniciar el proceso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria justificativa, delimitación territorial, descripción de características y propuesta de normas."
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Plazo para que entidades y particulares formulen alegaciones.",
+          "start_date": "1 mes",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informe de Corporaciones Locales",
+          "description": "Consulta a los Ayuntamientos afectados.",
+          "start_date": "1 mes",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación definitiva",
+          "description": "Aprobación por el Consejo de Gobierno mediante Ley o Decreto según la categoría.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

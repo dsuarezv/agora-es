@@ -1,0 +1,69 @@
+{
+  "identifier": "BOE-A-2015-8274",
+  "title": "Ley 6/2015, de 30 de junio, de medidas adicionales de protección medioambiental para la extracción de hidrocarburos no convencionales y la fractura hidráulica o \"fracking\"",
+  "visible_title": "Medidas de protección medioambiental para la extracción de hidrocarburos no convencionales y el fracking",
+  "rank": "ley",
+  "country": "es",
+  "department": "Parlamento Vasco",
+  "official_number": "6/2015",
+  "publication_date": "2015-07-24",
+  "enactment_date": "2015-06-30",
+  "last_updated": "2018-02-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2015/06/30/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece restricciones severas para proteger el medio ambiente en el País Vasco frente a la extracción de combustibles fósiles no convencionales. Su objetivo principal es frenar el uso de la técnica de fractura hidráulica (fracking) debido a sus riesgos para la salud y los ecosistemas. La norma aplica el principio de precaución para evitar la contaminación de acuíferos y la emisión de gases de efecto invernadero.",
+  "citizen_impact": "Protege la salud pública y la calidad del agua de los ciudadanos vascos al prohibir prácticas extractivas peligrosas en zonas vulnerables. Esto garantiza un entorno más seguro y reduce el riesgo de contaminación de las reservas de agua potable.",
+  "professional_impact": "Las empresas energéticas enfrentan una prohibición directa de operar mediante fracking en acuíferos con riesgo de vulnerabilidad media, alta o muy alta. Además, cualquier plan o estrategia energética que incluya estas técnicas debe someterse obligatoriamente a una evaluación medioambiental estratégica antes de recibir permisos de perforación.",
+  "keywords": [
+    "fracking",
+    "fractura hidráulica",
+    "hidrocarburos no convencionales",
+    "protección medioambiental",
+    "acuíferos",
+    "País Vasco",
+    "evaluación medioambiental"
+  ],
+  "key_points": [
+    "Prohibición total del fracking en zonas con riesgo de vulnerabilidad de acuíferos media, alta o muy alta.",
+    "Obligatoriedad de realizar una evaluación medioambiental estratégica para cualquier plan o estrategia que contemple el fracking.",
+    "Suspensión de permisos de perforación o sondeo hasta que se complete la evaluación medioambiental correspondiente.",
+    "Definición legal de recursos no convencionales, incluyendo hidrocarburos en roca-madre de baja permeabilidad e hidratas de metano marinos.",
+    "Facultad de la Administración para paralizar actividades que incumplan la ley y exigir la restauración del entorno."
+  ],
+  "legal_references": [
+    "Ley 1/2006, de Aguas",
+    "Tratado de Funcionamiento de la Unión Europea (TFUE)"
+  ],
+  "derogations": [
+    "Disposiciones normativas de igual o inferior rango que se opongan o sean incompatibles con esta Ley"
+  ],
+  "main_obligations": "Se prohíbe el uso de la fractura hidráulica en acuíferos vulnerables y se obliga a que cualquier estrategia energética que la incluya pase por una evaluación medioambiental estratégica previa a la concesión de permisos.",
+  "effective_date": "2015-07-25",
+  "procedures": [
+    {
+      "name": "Evaluación Medioambiental Estratégica para planes de hidrocarburos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación de la evaluación",
+          "description": "Realización de la evaluación medioambiental obligatoria para cualquier plan, programa o estrategia que contemple la fractura hidráulica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Concesión de permisos",
+          "description": "Emisión de permisos para perforaciones o sondeos exploratorios, condicionado a la conclusión de la evaluación previa.",
+          "start_date": "Tras la conclusión de la evaluación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

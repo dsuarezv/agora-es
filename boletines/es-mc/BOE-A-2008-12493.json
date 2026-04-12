@@ -1,0 +1,105 @@
+{
+  "identifier": "BOE-A-2008-12493",
+  "title": "Ley 3/2007, de 16 de marzo, de Renta Básica de Inserción de la Comunidad Autónoma de la Región de Murcia",
+  "visible_title": "Ley de Rentas Básicas de Inserción de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "3/2007",
+  "publication_date": "2008-07-21",
+  "enactment_date": "2007-03-16",
+  "last_updated": "2013-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2007/03/16/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un sistema de protección social en la Región de Murcia para personas en situación de exclusión. Garantiza un doble derecho: una ayuda económica mensual para cubrir necesidades básicas y un acompañamiento personalizado para facilitar la vuelta al trabajo o la integración social. Funciona como un complemento de otras prestaciones estatales y busca evitar que la falta de recursos se convierta en una exclusión crónica.",
+  "citizen_impact": "Las personas con escasos recursos en Murcia pueden solicitar una ayuda económica mensual y programas de formación o empleo. Para recibirla, deben cumplir requisitos de edad, residencia y carencia de ingresos, además de comprometerse a participar en un plan de inserción diseñado para ellos.",
+  "professional_impact": "Los servicios sociales y el Instituto Murciano de Acción Social asumen la gestión, instrucción y seguimiento de los expedientes. Los ayuntamientos adquieren la responsabilidad de tramitar las solicitudes y realizar el seguimiento de los proyectos de inserción de los ciudadanos.",
+  "keywords": [
+    "renta básica de inserción",
+    "exclusión social",
+    "ayuda económica",
+    "inserción laboral",
+    "servicios sociales",
+    "Región de Murcia"
+  ],
+  "key_points": [
+    "Derecho a una prestación económica mensual para cubrir necesidades básicas.",
+    "Derecho a recibir apoyo personalizado mediante proyectos de inserción social y laboral.",
+    "La ayuda es subsidiaria: primero se deben agotar otras prestaciones como el desempleo o pensiones.",
+    "La cuantía mínima para el titular es el 75% del IPREM.",
+    "La duración máxima de la prestación es de 12 meses, con posibilidad de prórroga en casos específicos.",
+    "Es obligatorio participar en los proyectos de inserción y escolarizar a los menores a cargo.",
+    "Se establecen sanciones que pueden ir desde un apercibimiento hasta la pérdida del derecho a la ayuda por fraude o incumplimiento de obligaciones."
+  ],
+  "legal_references": [
+    "Código Civil (artículo 142)",
+    "Ley 30/1992 de Régimen Jurídico de las Administraciones Públicas",
+    "Ley 3/2003 del Sistema de Servicios Sociales de la Región de Murcia",
+    "Ley 7/2005 de Subvenciones de la Comunidad Autónoma de la Región de Murcia",
+    "Estatuto de Autonomía de la Región de Murcia"
+  ],
+  "derogatons": [
+    "Decreto 65/1998 de la Región de Murcia",
+    "Decreto 84/2006 de la Región de Murcia",
+    "Orden de 16 de septiembre de 1994",
+    "Orden de la Consejería de Trabajo y Política Social de 15 de junio de 2006"
+  ],
+  "main_obligations": "Los beneficiarios deben destinar la ayuda a necesidades básicas, informar de cualquier cambio en su situación económica o familiar, participar activamente en su proyecto de inserción y asegurar la escolarización de los menores.",
+  "effective_date": "2008-10-21",
+  "procedures": [
+    {
+      "name": "Reconocimiento de la Rentas Básica de Inserción",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "descrption": "El interesado presenta la solicitud en el Centro de Servicios Sociales de su domicilio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite residencia, edad, unidad de convivencia y carencia de recursos."
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y comprobación",
+          "descrption": "El Centro de Servicios Sociales verifica los datos y elabora un informe social.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Valoración y resolución",
+          "descrption": "El Instituto Murciano de Acción Social estudia el expediente y dicta resolución.",
+          "start_date": null,
+          "end_date": "2 meses desde la recepción en el Instituto",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación e instrucción",
+          "descrption": "Se inicia ante indicios de infracción (ocultación de datos, incumplimiento de proyectos, etc.).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "descrption": "El Instituto Murciano de Acción Social impone la sanción (apercibimiento, suspensión o extinción).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

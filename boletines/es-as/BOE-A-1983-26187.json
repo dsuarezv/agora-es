@@ -1,0 +1,91 @@
+{
+  "identifier": "BOE-A-1983-26187",
+  "title": "Ley 4/1983, de 4 de agosto, regulaora del procedimiento de designación de Senadores por el Principado de Asturias",
+  "visible_title": "Regulación de la designación de Senadores por el Principado de Asturias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "4/1983",
+  "publication_date": "1983-09-30",
+  "enactment_date": "1983-08-04",
+  "last_updated": "1991-01-09",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1983/08/04/4",
+  "official_journal": "Boletín Oficial del Principado de Asturias y de la Provincia",
+  "journal_issue": null,
+  "summary": "Esta norma establece las reglas para que la Junta General de Asturias elija a sus representantes en el Senado. Define quiénes pueden ser candidatos, cómo se reparten los escaños entre los grupos parlamentarios y el proceso de verificación de requisitos. Asegura que la representación sea proporcional a la fuerza de los partidos en la cámara regional.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta exclusivamente a los diputados de la Junta General de Asturias y a los candidatos que aspiren a ser senadores por designación autonómica. Estos deben cumplir requisitos de residencia/condición política asturiana y gestionar posibles incompatibilidades con otros cargos.",
+  "keywords": [
+    "designación de senadores",
+    "Asturias",
+    "Junta General",
+    "procedimiento electoral",
+    "representación proporcional",
+    "sistema D'Hondt"
+  ],
+  "key_points": [
+    "Los candidatos deben tener la condición política de asturianos y aceptar formalmente el cargo.",
+    "La repartición de senadores entre grupos parlamentarios se hace mediante el sistema de media o D'Hondt.",
+    "En caso de empate en el último escaño, prevalece el grupo con más votos en las elecciones regionales.",
+    "Si surge una vacante, el proceso de sustitución debe iniciarse en un plazo de 15 días.",
+    "Los senadores designados mantienen su cargo hasta que se designen los nuevos en la siguiente legislatura."
+  ],
+  "legal_references": [
+    "Constitución Española de 27 de diciembre de 1978 (artículo 69.5)",
+    "Estatuto de Autonomía para Asturias (Ley Orgánica 7/1981)",
+    "Reglamento de la Junta General del Principado"
+  ],
+  "derogations": [],
+  "main_obligations": "Los candidatos deben declarar formalmente su aceptación del cargo y cumplir con las leyes de incompatibilidad; de lo contrario, deberán renunciar al cargo incompatible para mantener el escaño.",
+  "effective_date": "1983-09-30",
+  "procedures": [
+    {
+      "name": "Procedimiento de designación de Senadores",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Fijación de número y plazos",
+          "description": "La Mesa de la Cámara y la Junta de Portavoces determinan cuántos senadores corresponden a cada grupo y el plazo para proponer candidatos.",
+          "start_date": "Dentro de los 15 días siguientes al plazo del Reglamento de la Junta",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de candidatos",
+          "description": "Los Grupos Parlamentarios presentan sus propuestas de candidatos.",
+          "start_date": null,
+          "end_date": "Plazo fijado por la Mesa",
+          "required_documentation": "Documentación requerida por los Grupos Parlamentarios"
+        },
+        {
+          "step": 3,
+          "title": "Verificación de requisitos",
+          "description": "La Comisión de Reglamento comprueba que los candidatos cumplen los requisitos legales y emite un dictamen.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación complementaria si la Comisión lo requiere"
+        },
+        {
+          "step": 4,
+          "title": "Pronunciamiento del Pleno",
+          "description": "El Pleno de la Junta verifica incompatibilidades y procede a la designación definitiva.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Proclamación y entrega de credenciales",
+          "description": "El Presidente de la Junta proclama a los senadores y la Mesa les entrega las credenciales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

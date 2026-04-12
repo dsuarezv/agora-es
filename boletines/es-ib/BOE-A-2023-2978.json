@@ -1,0 +1,116 @@
+{
+  "identifier": "BOE-A-2023-2978",
+  "title": "Ley 9/2022, de 23 de noviembre, de régimen jurídico y de procedimiento de las actividades sujetas a autorización ambiental integrada",
+  "visible_title": "Ley de régimen jurídico y procedimiento de las actividades sujetas a autorización ambiental integrada",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "9/2022",
+  "publication_date": "2023-02-06",
+  "enactment_date": "2022-11-23",
+  "last_updated": "2025-07-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2022/11/23/9",
+  "official_journal": "BOIB",
+  "journal_issue": "165",
+  "summary": "Esta ley regula cómo las industrias más contaminantes en Baleares deben obtener y mantener sus permisos ambientales para proteger el aire, agua y suelo. Introduce un procedimiento simplificado para cambios no sustanciales en las instalaciones y separa claramente la autorización ambiental de la licencia urbanística municipal. Además, reorganiza la Comisión de Medio Ambiente de las Illes Balears para que sus procesos de inspección y control sean más ágiles y eficientes.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, más allá de una mayor protección ambiental y control de emisiones industriales en el territorio.",
+  "professional_impact": "Las empresas industriales se benefician de un procedimiento más rápido para modificaciones no sustanciales de sus permisos. Los técnicos de la administración y los ayuntamientos tienen ahora reglas más claras sobre quién controla la legalidad urbanística y quién la ambiental, evitando duplicidades o vacíos legales.",
+  "keywords": [
+    "autorización ambiental integrada",
+    "prevención de la contaminación",
+    "emisiones industriales",
+    "medio ambiente",
+    "Baleares",
+    "inspección ambiental",
+    "procedimiento administrativo"
+  ],
+  "key_points": [
+    "Creación de un procedimiento simplificado para modificaciones no sustanciales de las autorizaciones ambientales.",
+    "Clarificación de que la autorización ambiental es independiente y previa a la licencia urbanística municipal.",
+    "Separación de funciones entre el órgano ambiental y el órgano sustantivo para evitar conflictos de intereses.",
+    "Establecimiento de un Registro público de actividades sujetas a autorización ambiental integrada.",
+    "Nueva estructura de la Comisión de Medio Ambiente de las Illes Balears (CMAIB) para mayor agilidad.",
+    "Obligatoriedad de presentar un informe anual de actividad para las instalaciones sujetas a este régimen.",
+    "Implementación de un Plan de inspección ambiental integrado y programas anuales de inspección."
+  ],
+  "legal_references": [
+    "Directiva 2010/75/UE",
+    "Real decreto legislativo 1/2016",
+    "Ley 7/2013",
+    "Decreto legislativo 1/2020",
+    "Ley 39/2015",
+    "Ley 21/2013"
+  ],
+  "derogations": [
+    "Título VII de la Ley 7/2013, de 26 de noviembre",
+    "Primer párrafo del artículo 35.2 del texto refundido de la Ley de evaluación ambiental de las Illes Balears",
+    "Disposición final decimocuarta de la Ley 2/2020, de 15 de octubre",
+    "Disposición adicional séptima de la Ley 6/1999, de 3 de abril",
+    "Disposición transitoria novena de la Ley 6/1999, de 3 de abril"
+  ],
+  "main_obligations": "Las industrias deben obtener la autorización ambiental integrada antes de iniciar obras o actividad y mantener una garantía financiera por responsabilidad ambiental. Deben presentar una declaración responsable para iniciar el ejercicio de la actividad y cumplir con los planes de inspección y los informes anuales de actividad.",
+  "effective_date": "2022-12-13",
+  "procedures": [
+    {
+      "name": "Otorgamiento de la autorización ambiental integrada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud",
+          "description": "Presentación de la solicitud con proyecto básico, informe urbanístico y documentación técnica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto básico, informe urbanístico municipal, documentación de aguas/costas, estudio de impacto ambiental y resumen no técnico."
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y análisis",
+          "description": "Análisis de la documentación y solicitud de informes a administraciones afectadas.",
+          "start_date": null,
+          "end_date": "10 días hábiles para informes de administraciones",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Información pública",
+          "description": "Apertura de periodo de consulta pública.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "Dictado y notificación de la resolución de otorgamiento.",
+          "start_date": null,
+          "end_date": "6 meses desde la solicitud completa",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Modificación no sustancial de la autorización ambiental integrada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación",
+          "description": "Presentación de memoria justificativa y documentación de la modificación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria justificativa, documentación del objeto de la modificación y justificante de pago de tributos."
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Dictado de la resolución de la modificación.",
+          "start_date": null,
+          "end_date": "1 mes desde la presentación",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,183 @@
+{
+  "identifier": "BOE-A-2011-7405",
+  "title": "Ley 2/2011, de 25 de marzo, de la Caliidad Agroalimentaria y Pesquera de Andalucía",
+  "visible_title": "Ley de la Calidad Agroalimentaria y Pesquera de Andalucía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "2/2011",
+  "publication_date": "2011-04-26",
+  "enactment_date": "2011-03-25",
+  "last_updated": "2021-12-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2011/03/25/2",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": null,
+  "summary": "Esta ley garantiza que los productos del sector agroalimentario y pesquero en Andalucía cumplan con los estándares de calidad y origen prometidos. Establece un sistema de control estricto para evitar fraudes en el etiquetado y asegurar la trazabilidad desde el origen hasta el consumidor. Para ello, dota de personalidad jurídica propia a los Consejos Reguladores y endurece las inspecciones y sanciones. Su objetivo es proteger la reputación de los productos andaluces y dar seguridad jurídica tanto a productores como a consumidores.",
+  "citizen_impact": "Aporta mayor seguridad al consumidor al garantizar que lo que lee en la etiqueta (como una Denominación de Origen) es real y veraz. Protege la economía de los productores locales al combatir el fraude alimentario y asegurar que los productos de calidad no compitan deslealmente con imitaciones.",
+  "professional_impact": "Los operadores agroalimentarios deben implementar sistemas de trazabilidad rigurosos, conservar documentación de acompañamiento durante 5 años y comunicar cualquier fraude detectado. Las empresas se enfrentan a sanciones económicas muy elevadas (hasta 3 millones de euros) y a medidas cautelares inmediatas como la retirada de productos o la suspensión de marcas ante irregularidades.",
+  "keywords": [
+    "calidad agroalimentaria",
+    "trazabilidad",
+    "denominaciones de origen",
+    "inspecciones alimentarias",
+    "fraude alimentario",
+    "Andalucía",
+    "seguridad alimentaria"
+  ],
+  "key_points": [
+    "Los Consejos Reguladores (DOP, IGP, IGBE) pasan a ser entidades de derecho público con personalidad jurídica propia.",
+    "Obligatoriedad de mantener un sistema de gestión de calidad que incluya trazabilidad y control de lotes.",
+    "Los documentos de acompañamiento de los productos deben conservarse obligatoriamente durante 5 años.",
+    "Prohibición de usar el término 'certificado' de forma genérica; solo para productos con verificación de conformidad.",
+    "Obligación de comunicar inmediatamente a la Administración cualquier fraude o producto no conforme comercializado.",
+    "La Administración puede realizar inspecciones sin previo aviso para verificar el etiquetado.",
+    "Los operadores de producción ecológica y ETG deben ser controlados por organismos independientes acreditados.",
+    "Posibilidad de medidas cautelares inmediatas: retirada de productos, paralización de vehículos o suspensión de marcas.",
+    "Régimen sancionador escalonado: leves (hasta 4.000€), graves (hasta 150.000€ o 5% ventas) y muy graves (hasta 3.000.000€ o 10% ventas).",
+    "Responsabilidad solidaria entre empresas o personas que participen en una misma infracción.",
+    "Los productos retenidos pueden ser destinados a uso industrial/benéfico, devueltos al origen o destruidos."
+  ],
+  "legal_references": [
+    "Reglamento (CE) n.º 510/2006",
+    "Reglamento (CE) n.º 882/2004",
+    "Ley 10/2007, de 26 de noviembre, de Protección del Origen y la Calidad de los Vinos de Andalucía",
+    "Reglamento (UE) n.º 1151/2012",
+    "Reglamento (CE) n.º 110/2008",
+    "Reglamento (CE) n.º 251/2014",
+    "Reglamento (CE) n.º 1308/2013",
+    "Reglamento (UE) 2017/625",
+    "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+    "Real Decreto 1945/1983",
+    "Norma UNE-EN ISO/IEC 17065",
+    "Ley 30/1992",
+    "Reglamento (CE) 852/2004",
+    "Ley 24/2003 (Viña y el Vino)"
+  ],
+  "derogations": [
+    "Disposiciones de la Ley 10/2007 de Protección del Origen y la Calidad de los Vinos de Andalucía (art. 44.1 m, disposición adicional primera y disposición transitoria segunda)"
+  ],
+  "main_obligations": "Los operadores deben implementar sistemas de trazabilidad, conservar la documentación de los productos durante 5 años y comunicar cualquier fraude detectado. Asimismo, deben permitir el acceso de inspectores a sus instalaciones y sistemas informáticos sin previo aviso.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Reconocimiento y registro de denominaciones de calidad (DOP, IGP, IGBE y ETG)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Las agrupaciones de productores o transformadores presentan la solicitud ante la Consejería competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Propuesta de reglamento específico de regulación del Consejo Regulador"
+        },
+        {
+          "step": 2,
+          "title": "Tramitación ante la Comisión Europea",
+          "description": "La Consejería remite la solicitud al Ministerio competente para su traslado a la Comisión Europea.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Reconocimiento provisional",
+          "description": "Una vez presentada la solicitud en la Comisión, la Comunidad Autónoma puede conceder el reconocimiento y protección provisional.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización, suspensión y revocación de Consejos Reguladores",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Autorización previa",
+          "description": "El Consejo Regulador debe ser autorizado por la Consejería antes de iniciar su actividad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Suspensión de actividad",
+          "description": "En caso de incumplimiento, la Consejería puede suspender al Consejo por un periodo máximo de 6 meses.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Disolución o Revocación",
+          "description": "Si tras la suspensión persisten las causas, se procede a la disolución de los órganos o a la revocación de la autorización.",
+          "start_date": "1 mes después de finalizar la suspensión",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador de Calidad Agroalimentaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Actuaciones previas",
+          "description": "El inspector realiza comprobaciones preliminares para determinar si hay base para iniciar el expediente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Adopción de medidas cautelares",
+          "description": "Se pueden inmovilizar productos o suspender actividades para asegurar la eficacia de la resolución.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Confirmación de medidas cautelares",
+          "description": "El acuerdo de iniciación debe confirmar, modificar o levantar las medidas adoptadas.",
+          "start_date": "Dentro de los 15 días siguientes a la adopción de la medida",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución del procedimiento",
+          "description": "Plazo máximo para dictar la resolución definitiva y notificarla.",
+          "start_date": "Desde la incoación",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de productos inmovilizados cautelarmente",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de opciones",
+          "description": "El órgano competente comunica al responsable las opciones para los productos (regularizar, desviar a uso industrial, donar, devolver o destruir).",
+          "start_date": "En el acuerdo de incoación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Elección del destino",
+          "description": "El responsable debe optar por una de las alternativas propuestas.",
+          "start_date": "Desde la comunicación",
+          "end_date": "15 días",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

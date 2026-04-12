@@ -1,0 +1,91 @@
+{
+  "identifier": "BOE-A-2003-7683",
+  "title": "Ley 5/2003, de 6 de marzo, para la regulación de las parejas de hecho en la Comunidad Autónoma de Canarias",
+  "visible_title": "Regulación de las parejas de hecho en Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "5/2003",
+  "publication_date": "2003-04-14",
+  "enactment_date": "2003-03-06",
+  "last_updated": "2012-06-26",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2003/03/06/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley reconoce y regula jurídicamente a las parejas de hecho en Canarias, independientemente de su orientación sexual. Su objetivo es dotar de seguridad jurídica a las uniones estables que no son matrimonios, permitiendo su inscripción en un registro oficial. La norma busca garantizar la igualdad de trato y proteger a estas unidades familiares frente a la administración pública.",
+  "citizen_impact": "Las parejas que convivan de forma estable (mínimo 12 meses o con hijos en común) pueden formalizar su unión para acceder a beneficios similares al matrimonio en la administración canaria. Esto incluye derechos en función pública, sucesiones, donaciones y otros impuestos autonómicos. También permite redactar pactos de convivencia para regular sus gastos y derechos médicos.",
+  "professional_impact": "Los funcionarios y personal laboral de la Administración de Canarias deben aplicar los mismos beneficios que a los cónyuges a las parejas de hecho inscritas. Los profesionales del derecho y la administración local deben gestionar el nuevo Registro de Parejas de Hecho y tramitar las certificaciones correspondientes.",
+  "keywords": [
+    "parejas de hecho",
+    "Canarias",
+    "unión estable",
+    "registro de parejas de hecho",
+    "derechos de convivencia",
+    "familia"
+  ],
+  "key_points": [
+    "Requisito de convivencia mínima de 12 meses ininterrumpidos o tener descendencia común.",
+    "Creación del Registro de Parejas de Hecho de Canarias con carácter administrativo.",
+    "La inscripción en el registro es voluntaria y requiere el consentimiento de ambos miembros.",
+    "Posibilidad de realizar pactos de convivencia para regular aspectos económicos y personales.",
+    "Equiparación de derechos en la función pública canaria y en impuestos autonómicos (Sucesiones, ITP, IRPF autonómico).",
+    "Prohibición de inscripción a menores no emancipados, personas casadas, con otras uniones simultáneas o parientes cercanos.",
+    "La extinción puede darse por mutuo acuerdo, decisión unilateral, muerte, separación de más de 6 meses o matrimonio."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Canarias"
+  ],
+  "derogations": [
+    "Todas las disposiciones de igual o inferior rango que se opongan a lo previsto en esta Ley"
+  ],
+  "main_obligations": "Los miembros de la pareja deben cumplir con los requisitos de residencia y empadronamiento en Canarias. En caso de pactos de convivencia, estos deben constar en escritura pública o documento con autenticidad para ser plenamente efectivos.",
+  "effective_date": "2003-04-15",
+  "procedures": [
+    {
+      "name": "Inscripción en el Registro de Parejas de Hecho",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inscripción",
+          "description": "Presentación conjunta de la solicitud por ambos miembros cumpliendo los requisitos de edad, residencia y ausencia de impedimentos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación acreditativa de residencia (empadronamiento) y de la convivencia (si no hay hijos en común)."
+        },
+        {
+          "step": 2,
+          "title": "Resolución y registro",
+          "description": "La administración procede a la inscripción con efectos declarativos sobre la constitución de la pareja.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Extinción de la pareja de hecho",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de la extinción",
+          "description": "Comunicación de la decisión unilateral o mutuo acuerdo para finalizar la unión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Inscripción registral de la extinción",
+          "description": "Comunicación al Registro para que conste la pérdida de la condición de pareja de hecho.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

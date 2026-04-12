@@ -1,0 +1,88 @@
+{
+  "identifier": "BOE-A-2015-1456",
+  "title": "Resolución INT/3031/2014, de 30 de diciembre, por la que se establecen las restricciones a la circulación durante el año 2015 y se dejan sin efectos las resoluciones IRP/911/2009, de 18 de marzo y INT/768/2013, de 8 de abril",
+  "visible_title": "Restricciones a la circulación de vehículos en Cataluña durante 2015",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña (Servicio Catalán de Tráfico)",
+  "official_number": "INT/3031/2014",
+  "publication_date": "2015-02-14",
+  "enactment_date": "2014-12-30",
+  "last_updated": "2015-12-18",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/res/2014/12/30/int3031",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta resolución establece las limitaciones de circulación para diversos tipos de vehículos pesados y especiales en la red de carreteras de Cataluña durante el año 2015. El objetivo es mejorar la fluidez del tráfico, la seguridad vial y la movilidad, especialmente en periodos de alta demanda o festivos. La norma regula horarios, tramos específicos y excepciones para transporte de mercancías, transporte especial y mercancías peligrosas.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo por posibles alteraciones en la fluidez del tráfico o cambios en los tiempos de viaje debido a las restricciones impuestas a vehículos pesados.",
+  "professional_impact": "Afecta directamente a empresas de transporte de mercancías, transportistas de productos peligrosos (ADR) y operadores de vehículos especiales. Deben planificar sus rutas y horarios evitando los tramos y momentos prohibidos, y en el caso de mercancías peligrosas, seguir estrictamente la Red de Itinerarios de Mercancías Peligrosas (RIMP).",
+  "keywords": [
+    "tráfico",
+    "restricciones de circulación",
+    "transporte de mercancías",
+    "Cataluña",
+    "vehículos especiales",
+    "mercancías peligrosas",
+    "seguridad vial"
+  ],
+  "key_points": [
+    "Prohibición de circular para vehículos de mercancías con MMA/MMC superior a 7.500 kg en tramos y horarios específicos.",
+    "Restricciones severas para vehículos de transporte especial en fines de semana y festivos, especialmente en túneles como el del Cadí y Vielha.",
+    "Obligatoriedad de seguir la Red de Itinerarios de Mercancías Peligrosas (RIMP) para vehículos con panel naranja.",
+    "Limitaciones de horario para transporte de mercancías peligrosas en domingos y festivos.",
+    "Restricciones específicas en la C-58CC (bus-VAO) limitando el acceso a vehículos con más de un ocupante, transporte de viajeros o vehículos ECO-VIA-T.",
+    "Exenciones para el transporte de productos perecederos, ganado vivo, servicios de emergencia y recogida de basura.",
+    "Posibilidad de que la policía retire vehículos de la vía en condiciones meteorológicas extremas (nieve, niebla, hielo o viento)."
+  ],
+  "legal_references": [
+    "Ley sobre tráfico, circulación de vehículos a motor y seguridad vial (Real Decreto Legislativo 339/1990)",
+    "Reglamento General de Circulación (Real Decreto 1428/2003)",
+    "Ley 14/1997 de creación del Servicio Catalán de Tráfico",
+    "Decreto 320/2011 de reestructuración del Departamento de Interior",
+    "Real Decreto 97/2014 sobre transporte de mercancías peligrosas"
+  ],
+  "derogations": [
+    "Resolución IRP/911/2009, de 18 de marzo",
+    "Resolución INT/768/2013, de 8 de abril"
+  ],
+  "main_obligations": "Los vehículos de transporte de mercancías >7.500 kg y vehículos especiales deben respetar los horarios y tramos prohibidos detallados en los anexos. Los vehículos ADR deben utilizar los itinerarios de la red RIMP y cumplir con las restricciones de calendario en domingos y festivos.",
+  "effective_date": "2015-02-22",
+  "procedures": [
+    {
+      "name": "Solicitud de exención a las restricciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud anticipada",
+          "descrption": "El interesado debe solicitar la exención justificando la necesidad ineludible del desplazamiento por razones excepcionales o de urgencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la matrícula, características del vehículo, tipo de mercancía y justificación de la necesidad."
+        },
+        {
+          "step": 2,
+          "title": "Resolución del Servicio Catalán de Tráfico",
+          "descrption": "El órgano competente valora la petición y decide sobre la concesión de la exención.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Consulta de itinerarios vinculantes para mercancías peligrosas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Consulta vía web",
+          "descrption": "El transportista consulta en la web del SCT una propuesta de itinerario para su origen y destino.",
+          "start_date": "2015-06-01",
+          "end_date": null,
+          "required_documentation": "Origen y destino del transporte."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

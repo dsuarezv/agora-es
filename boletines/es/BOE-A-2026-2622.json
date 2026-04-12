@@ -1,0 +1,94 @@
+{
+  "identifier": "BOE-A-2026-2622",
+  "title": "Real Decreto 68/2026, de 4 de febrero, por el que se regula la inspección educativa",
+  "visible_title": "Regulación de la inspección educativa",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de Educación, Formación Profesional y Deportes",
+  "official_number": "68/2026",
+  "publication_date": "2026-02-05",
+  "enactment_date": "2026-02-04",
+  "last_updated": "2026-02-05",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2026/02/04/68",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "32",
+  "summary": "Esta norma moderniza y unifica el marco jurídico que regula el Cuerpo de Inspectores de Educación en España. Establece las funciones, atribuciones y principios de actuación de la inspección, además de definir cómo se accede a este cuerpo mediante concurso-oposición. También regula la formación continua, el desarrollo profesional y los sistemas de evaluación de los inspectores para garantizar la calidad del sistema educativo.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, aunque indirectamente mejora la calidad educativa al asegurar una supervisión más profesional y actualizada de los centros escolares.",
+  "professional_impact": "Afecta directamente a los docentes, quienes ahora tienen un camino regulado para acceder a la inspección (requiriendo 8 años de experiencia y título de máster o superior). También establece nuevas reglas para los inspectores en cuanto a su formación, carrera profesional, movilidad y evaluación de desempeño.",
+  "keywords": [
+    "inspección educativa",
+    "cuerpo de inspectores",
+    "función docente",
+    "concurso-oposición",
+    "calidad educativa",
+    "desarrollo profesional"
+  ],
+  "key_points": [
+    "Se establece el concurso-oposición como sistema de acceso, incluyendo una fase de prácticas de entre 6 meses y 1 año.",
+    "Para ser inspector se requiere una antigüedad mínima de 8 años en la función pública docente y un título de nivel 7 (Máster) o superior.",
+    "Los inspectores tienen la consideración de autoridad pública y sus informes gozan de presunción de veracidad.",
+    "Se regula la figura del inspector accidental para cubrir necesidades temporales de forma comisionada.",
+    "Se garantiza el derecho y deber de formación continua, incluyendo la tutoría para los nuevos inspectores durante su primer año.",
+    "Se introducen medidas de movilidad específicas para funcionarias víctimas de violencia de género o sexual.",
+    "Los inspectores podrán ejercer funciones a distancia mediante tecnologías de la información cuando la naturaleza de la tarea lo permita."
+  ],
+  "legal_references": [
+    "Ley Orgánica 2/2006, de 3 de mayo, de Educación",
+    "Ley Orgánica 3/2020, de 29 de diciembre",
+    "Real Decreto 2193/1995, de 28 de diciembre",
+    "Real Decreto 334/2004, de 27 de febreru",
+    "Real Decreto 276/2007, de 23 de febreru",
+    "Ley 39/2015, de 1 de octubre",
+    "Real Decreto Legislativo 5/2015, de 30 de octubre",
+    "Ley Orgánica 8/2021, de 4 de junio",
+    "Ley 40/2015, de 1 de octubre"
+  ],
+  "derogations": [
+    "Real Decreto 2193/1995, de 28 de diciembre",
+    "Capítulo III del título IV y el anexo III del Reglamento de ingreso, acceso y adquisición de nuevas especialidades de los cuerpos docentes aprobado por el Real Decreto 276/2007"
+  ],
+  "main_obligations": "Los inspectores deben cumplir con el código de conducta del Estatuto Básico del Empleado Público y actuar bajo principios de profesionalidad, independencia y transparencia. Los centros educativos y responsables deben colaborar y facilitar la información requerida por la autoridad inspectora.",
+  "effective_date": "2026-02-25",
+  "procedures": [
+    {
+      "name": "Acceso al Cuerpo de Inspectores de Educación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria pública",
+          "description": "Publicación de las bases del concurso-oposición en el BOE o diarios oficiales autonómicos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite nacionalidad, antigüedad docente (8 años), titulación académica y certificado de antecedentes penales (delitos sexuales)."
+        },
+        {
+          "step": 2,
+          "title": "Fase de oposición",
+          "description": "Realización de tres pruebas eliminatorias: cuestionario escrito, prueba práctica (análisis de supuestos/informe) y exposición oral.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Fase de concurso",
+          "description": "Valoración de la trayectoria profesional y méritos según los baremos establecidos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificaciones de experiencia docente, cargos directivos, formación y otros méritos."
+        },
+        {
+          "step": 4,
+          "title": "Fase de prácticas",
+          "description": "Periodo de ejercicio efectivo bajo la tutela de un inspector de carrera para evaluar la aptitud.",
+          "start_date": null,
+          "end_date": "máximo 1 año",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

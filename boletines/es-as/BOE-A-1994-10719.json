@@ -1,0 +1,99 @@
+{
+  "identifier": "BOE-A-1994-10719",
+  "title": "Ley 1/1994, de 21 de febrero, sobre Abaesteicmiento y Saneamiento de Aguas en el Principado de Asturias",
+  "visible_title": "Ley sobre Abastecimiento y Saneamiento de Aguas en el Principado de Asturias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "1/1994",
+  "publication_date": "1994-05-12",
+  "enactment_date": "1994-02-21",
+  "last_updated": "2023-03-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1994/02/21/1",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta ley organiza cómo se gestiona el agua potable y el tratamiento de aguas residuales en Asturias, coordinando la actuación entre el Principado y los ayuntamientos. Establece la planificación de infraestructuras mediante planes directores para asegurar el suministro, especialmente en la zona central. Además, crea un impuesto específico para financiar la construcción y el mantenimiento de las depuradoras.",
+  "citizen_impact": "Los ciudadanos verán reflejado el coste del saneamiento en sus facturas de agua a través de un canon específico. El objetivo es asegurar que el agua que llega a sus hogares sea de calidad y que los vertidos se traten adecuadamente para proteger el medio ambiente.",
+  "professional_impact": "Las empresas industriales y agrícolas deben cumplir con normativas estrictas de vertido y pueden estar sujetas a un canon basado en la carga contaminante de sus residuos. Los ayuntamientos y empresas suministradoras asumen la responsabilidad de gestionar los servicios y recaudar el canon, con obligaciones de información técnica y económica ante la Junta de Saneamiento.",
+  "keywords": [
+    "abastecimiento de agua",
+    "saneamiento",
+    "aguas residuales",
+    "canon de saneamiento",
+    "depuración",
+    "Asturias",
+    "planificación hidráulica"
+  ],
+  "key_points": [
+    "Creación de un canon de saneamiento para financiar obras y mantenimiento de depuradoras.",
+    "Establecimiento de planes directores de obras y de gestión para coordinar el ciclo del agua.",
+    "Creación de la Junta de Saneamiento como organismo autónomo para gestionar los fondos y objetivos de calidad.",
+    "Implementación de un sistema de tributación basado en el volumen de agua consumida o en la carga contaminante vertida.",
+    "Declaración de interés regional para los sistemas de agua y depuración en la zona central de Asturias.",
+    "Obligación de los ayuntamientos de prestar servicios de distribución y alcantarillado bajo la planificación regional."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía para Asturias",
+    "Ley Reguladora de las Bases del Régimen Local",
+    "Ley Orgánica 9/1992",
+    "Ley Orgánica 8/1980",
+    "Ley 7/1985",
+    "Ley 29/1985",
+    "Ley 6/2002",
+    "Ley 58/2003",
+    "Directiva 91/271/CEE"
+  ],
+  "derogations": [
+    "Artículos 10 a 21 del Título II (Derogados)"
+  ],
+  "main_obligations": "Los usuarios deben pagar el canon de saneamiento incluido en su factura de agua. Las industrias con vertidos específicos deben instalar dispositivos de medición de caudal y carga contaminante. La falta de instalación de estos dispositivos puede conllevar multas de entre 300 y 1.800 euros.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Aprobación de Planes Directores",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración y consulta",
+          "description": "Redacción de los planes garantizando la participación de los entes locales y un periodo de información pública.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aprobación",
+          "description": "El Consejo de Gobierno del Principado aprueba formalmente los planes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Determinación de la base imponible por carga contaminante",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud",
+          "description": "El sujeto pasivo solicita la determinación de la base según la contaminación vertida.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación técnica de la actividad"
+        },
+        {
+          "step": 2,
+          "title": "Medición y análisis",
+          "description": "Toma de muestras y análisis de parámetros (DQO, Nitrógeno, Fósforo, etc.) para calcular la cuota.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Resultados de análisis de laboratorio"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

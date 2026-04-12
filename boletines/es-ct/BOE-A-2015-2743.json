@@ -1,0 +1,130 @@
+{
+  "identifier": "BOE-A-2015-2743",
+  "title": "Ley 10/2014, de 26 de septiembre, de consultas populares no referendarias y otras formas de participación ciudadana",
+  "visible_title": "Ley de consultas populares no referendarias y participación ciudadana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "10/2014",
+  "publication_date": "2015-03-16",
+  "enactment_date": "2014-09-26",
+  "last_updated": "2022-03-15",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2014/09/26/10",
+  "official_journal": "Diari Oficial de la Generalitat de Catalunya",
+  "journal_issue": null,
+  "summary": "Esta norma establece el marco legal para que la Generalitat y los ayuntamientos catalanes puedan convocar consultas populares no vinculantes y otros mecanismos de participación. Busca que la ciudadanía pueda opinar sobre decisiones públicas mediante votaciones, encuestas, audiencias o foros. Regula desde quién puede proponer una consulta hasta cómo se deben garantizar la transparencia y la neutralidad del proceso.",
+  "citizen_impact": "Permite a los ciudadanos (incluyendo residentes extranjeros bajo ciertos requisitos) participar activamente en la toma de decisiones políticas mediante el voto o la propuesta de iniciativas. No otorga un derecho de decisión final, ya que los resultados no son vinculantes, pero obliga a las instituciones a responder sobre lo decidido por la gente.",
+  "professional_impact": "Los funcionarios de la Generalitat y entidades locales deben gestionar nuevos registros de participación y organizar procesos complejos con garantías de neutralidad. Las organizaciones sociales y partidos políticos pueden participar en la supervisión de las consultas a través de comisiones de seguimiento y mesas de consulta.",
+  "keywords": [
+    "participación ciudadana",
+    "consulta popular",
+    "democracia participativa",
+    "Cataluña",
+    "votación",
+    "iniciativa ciudadana"
+  ],
+  "key_points": [
+    "Las consultas populares no tienen carácter vinculante para la administración.",
+    "Se permite la participación de mayores de 16 años con condición política de catalanes o residentes (UE o terceros países con plazos específicos).",
+    "Los ciudadanos pueden promover consultas mediante la recogida de firmas (75.000 para ámbito autonómico).",
+    "Se crean órganos de garantía como la Comisión de Control para asegurar la neutralidad y transparencia.",
+    "Se admite el uso de medios electrónicos para la votación y la recogida de firmas.",
+    "Las instituciones deben responder a los resultados de las consultas en un plazo de dos meses.",
+    "Se establecen límites de frecuencia: máximo 3 consultas nacionales y 3 locales por año natural."
+  ],
+  "legal_references": [
+    "Estatuto de autonomía de Cataluña",
+    "Constitución Española",
+    "Ley 1/2006, de 16 de febrero"
+  ],
+  "derogations": [],
+  "main_obligations": "Las instituciones que convoquen una consulta deben pronunciarse sobre su incidencia en la actuación pública en un plazo máximo de dos meses tras la celebración. Los promotores de iniciativas ciudadanas deben garantizar la confidencialidad y autenticidad de las firmas recogidas.",
+  "effective_date": "2014-09-26",
+  "procedures": [
+    {
+      "name": "Procedimiento de Iniciativa Ciudadana para Consulta Popular",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "La comisión promotora presenta la propuesta, el texto de la consulta y la memoria explicativa ante la Generalitat o el Ayuntamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Texto de la consulta, lista de legitimados, modelo de hoja de firmas, memoria explicativa y datos de la comisión promotora."
+        },
+        {
+          "step": 2,
+          "title": "Admisión a trámite y validación",
+          "description": "El órgano competente comunica la admisión y valida la documentación presentada.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Recogida de firmas",
+          "description": "Periodo para que los ciudadanos firmen las hojas de apoyo a la iniciativa.",
+          "start_date": "Desde la notificación de admisión",
+          "end_date": "90 días (autonómico) o 60 días (local)",
+          "required_documentation": "Hojas de recogida de firmas conforme al modelo aprobado."
+        },
+        {
+          "step": 4,
+          "title": "Recuento y validación de firmas",
+          "description": "Comprobación de la inscripción de los firmantes en los registros oficiales.",
+          "start_date": "Tras la entrega de hojas",
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Convocatoria de la consulta",
+          "description": "Si se alcanza el mínimo de firmas, se debe emitir el decreto de convocatoria.",
+          "start_date": "Tras la validación de firmas",
+          "end_date": "90 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Consulta Popular No Referendaria (Institucional)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Emisión del Decreto de Convocatoria",
+          "description": "La autoridad competente dicta el decreto que establece las reglas de la consulta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Decreto con pregunta, legitimados, fechas, modalidades y memoria económica."
+        },
+        {
+          "step": 2,
+          "title": "Periodo de difusión y campaña",
+          "description": "Fase de información y debate público para que la ciudadanía conozca el objeto de la consulta.",
+          "start_date": "Día siguiente a la publicación del decreto",
+          "end_date": "Hasta las 00:00 del día de la votación",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Celebración de la votación",
+          "description": "Ejecución de la votación presencial, anticipada o electrónica.",
+          "start_date": "Entre 30 y 60 días tras la publicación del decreto",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Recuento y declaración de resultados",
+          "description": "Las mesas de consulta realizan el recuento y la Comisión de Control declara el resultado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

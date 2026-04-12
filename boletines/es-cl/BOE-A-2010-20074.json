@@ -1,0 +1,93 @@
+{
+  "identifier": "BOE-A-2010-20074",
+  "title": "Ley 15/2010, de 10 de diciembre, de prevención de la contaminación lumínica y del fomento del ahorro y eficiencia energéticos derivados de instalaciones de iluminación",
+  "visible_title": "Ley de prevención de la contaminación lumínica y eficiencia energética en iluminación",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "15/2010",
+  "publication_date": "2010-12-30",
+  "enactment_date": "2010-12-10",
+  "last_updated": "2017-07-06",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2010/12/10/15",
+  "official_journal": "Boletín Oficial de Castilla y León",
+  "journal_issue": null,
+  "summary": "Esta ley regula el uso de la iluminación exterior en Castilla y León para combatir la contaminación lumínica y reducir el consumo energético. Establece una zonificación del territorio según su vulnerabilidad ambiental y astronómica para limitar la intensidad y dirección de la luz. Busca proteger la biodiversidad, la salud humana y el cielo nocturno, promoviendo al mismo tiempo el ahorro de energía en el alumbrado público y privado.",
+  "citizen_impact": "Los ciudadanos verán cambios en la iluminación de calles y fachadas, con horarios de apagado o reducción de intensidad más estrictos. También se protege su derecho a un entorno nocturno natural y se reduce la intrusión de luz en sus hogares.",
+  "professional_impact": "Empresas de iluminación, instaladores y comercios deben cumplir con estrictas normativas técnicas y horarios de funcionamiento para rótulos y luces decorativas. Los ayuntamientos asumen la responsabilidad de gestionar la zonificación, el control de las instalaciones y la aplicación de sanciones.",
+  "keywords": [
+    "contaminación lumínica",
+    "eficiencia energética",
+    "alumbrado exterior",
+    "Castilla y León",
+    "medio ambiente",
+    "zonificación lumínica",
+    "ahorro energético"
+  ],
+  "key_points": [
+    "Creación de cuatro zonas lumínicas (E1 a E4) según la sensibilidad del entorno (desde parques naturales hasta centros urbanos).",
+    "Prohibición de luminarias que emitan luz excesiva hacia el cielo (más del 3% del flujo nominal) y de publicidad aérea nocturna.",
+    "Obligación de ajustar los horarios de iluminación comercial y ornamental entre la puesta de sol y las 23:00 horas.",
+    "Exigencia de utilizar tecnologías de alta eficiencia para sustituir lámparas de vapor de mercurio.",
+    "Los ayuntamientos tienen potestad para endurecer los niveles de protección mediante ordenanzas municipales.",
+    "Implementación de un régimen sancionador con multas que pueden alcanzar los 3.000 euros para infracciones muy graves.",
+    "Obligación de presentar una declaración responsable para la instalación de iluminación artística o comercial."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Castilla y León",
+    "Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera",
+    "Real Decreto 1890/2008, de 14 de noviembre",
+    "Reglamento (CE) n.º 245/2009"
+  ],
+  "derogations": [],
+  "main_obligations": "Los titulares de instalaciones deben respetar la zonificación y los horarios establecidos; las infracciones leves se multan de 150€ a 300€, las graves de 301€ a 1.000€ y las muy graves de 1.001€ a 3.000€, pudiendo incluir el precinto de la instalación.",
+  "effective_date": "2010-12-20",
+  "procedures": [
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requerimiento de corrección",
+          "description": "La Administración solicita al interesado que corrija deficiencias detectadas antes de abrir expediente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Medidas provisionales",
+          "description": "En caso de desatención, se pueden adoptar medidas como la desconexión y precinto del alumbrado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Incoación y resolución",
+          "description": "Inicio del expediente sancionador con un plazo máximo de resolución de un año.",
+          "start_date": null,
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración Responsable para Iluminación Comercial/Artística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de declaración",
+          "description": "El promotor manifiesta ante el municipio que la instalación cumple con la ley y la documentación técnica.",
+          "start_date": "Antes de la puesta en marcha",
+          "end_date": null,
+          "required_documentation": "Memoria técnica que acredite el cumplimiento de la ley"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

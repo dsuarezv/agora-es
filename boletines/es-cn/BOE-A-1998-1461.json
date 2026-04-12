@@ -1,0 +1,104 @@
+{
+  "identifier": "BOE-A-1998-1461",
+  "title": "Ley 11/1997, de 2 de diciembre, de regulación del sector eléctrico canario",
+  "visible_title": "Regulación del sector eléctrico canario",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "11/1997",
+  "publication_date": "1998-01-24",
+  "enactment_date": "1997-12-02",
+  "last_updated": "2024-06-25",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/1997/12/02/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para el suministro de electricidad en Canarias, adaptándose a la singularidad de su sistema de generación aislada por islas. Busca fomentar la competencia en el mercado eléctrico regional mientras garantiza la seguridad y calidad del suministro. Además, regula la planificación, las autorizaciones y la intervención de la Administración autonómica para evitar abusos de posición dominante en el sector.",
+  "citizen_impact": "Garantiza que el suministro eléctrico sea estable y de calidad, protegiendo al consumidor frente a posibles abusos de monopolios naturales. También busca que los precios de la energía en las islas se mantengan equiparables a los del resto de España mediante sistemas de compensación.",
+  "professional_impact": "Las empresas del sector eléctrico deben obtener autorizaciones administrativas de la Consejería de Industria para operar. Los productores deben mantener un stock estratégico de combustibles de al menos 45 días, y las empresas de distribución deben cumplir con estrictos estándares de calidad y mantenimiento de redes.",
+  "keywords": [
+    "sector eléctrico",
+    "Canarias",
+    "suministro eléctrico",
+    "generación eléctrica",
+    "transporte y distribución",
+    "mercado eléctrico",
+    "energías alternativas"
+  ],
+  "key_points": [
+    "Reconocimiento de la competencia exclusiva de Canarias en instalaciones de producción, distribución y transporte de energía.",
+    "Obligación de las eléctricas de mantener un stock estratégico de combustibles para 45 días de consumo.",
+    "Posibilidad de licitación pública para nuevas instalaciones si existen riesgos de monopolio u oligopolio.",
+    "Declaración de utilidad pública de las instalaciones eléctricas para facilitar expropiaciones y servidumbres.",
+    "Procedimiento de interés general para agilizar obras de modernización eléctrica, reduciendo trámites urbanísticos.",
+    "Fomento de la producción mediante energías alternativas y centrales de ciclo combinado.",
+    "Garantía de calidad técnica con una desviación de tensión máxima del ± 7% en el punto de consumo."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Canarias",
+    "Ley 19/1994 de Modificación del Régimen Económico y Fiscal de Canarias",
+    "Directiva 96/92/CEE",
+    "Ley de Expropiación Forzosa",
+    "Ley 4/2017 de Suelo y de los Espacios Naturales Protegidos de Canarias",
+    "Real Decreto Legislativo 2/2004 de Haciendas Locales",
+    "Real Decreto 842/2002 (Reglamento electrotécnico para baja tensión)",
+    "Ley 39/2015 del Procedimiento Administrativo Común"
+  ],
+  "derogations": [],
+  "main_obligations": "Las compañías de generación deben disponer de un stock de combustibles para 45 días de consumo anual. Las empresas distribuidoras deben garantizar la calidad del servicio y mantener las redes en condiciones óptimas. Las nuevas instalaciones requieren autorización administrativa previa de la Consejería de Industria.",
+  "effective_date": "1998-01-25",
+  "procedures": [
+    {
+      "name": "Autorización de nuevas instalaciones de generación, transmisión o distribución",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Presentación del proyecto ante la Consejería competente en materia de industria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto técnico y documentación que acredite capacidad técnica y económica."
+        },
+        {
+          "step": 2,
+          "title": "Consulta a corporaciones locales",
+          "description": "Se remite el proyecto a Ayuntamientos y Cabildos para informe de compatibilidad urbanística.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Emisión de la autorización sustantiva por la Administración autonómica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento excepcional para obras de interés general",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración de interés general",
+          "description": "La Consejería declara la urgencia o interés excepcional de la obra.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe de conformidad territorial",
+          "description": "Consulta conjunta a Ayuntamientos y Cabildos sobre el planeamiento.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

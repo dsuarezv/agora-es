@@ -1,0 +1,183 @@
+{
+  "identifier": "BOE-A-2015-8273",
+  "title": "Ley 5/2015, de 25 de junio, de Derecho Civil Vasco",
+  "visible_title": "Derecho Civil Vasco",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "5/2015",
+  "publication_date": "2015-07-24",
+  "enactment_date": "2015-06-25",
+  "last_updated": "2015-07-03",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2015/06/25/5",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley unifica las reglas de derecho civil para todos los residentes del País Vasco mediante la creación de la 'vecindad civil vasca'. Simplifica las herencias al establecer una legítima única de un tercio y otorga igualdad de derechos sucesorios a las parejas de hecho frente a los matrimonios. Además, permite pactar la transmisión de bienes en vida o tras la muerte y regula la gestión de los bienes comunes en las parejas. Su objetivo es modernizar y dar seguridad jurídica a las relaciones familiares y patrimoniales en el territorio.",
+  "citizen_impact": "Los residentes del País Vasco ahora tienen un marco legal común que facilita la planificación de sus herencias y protege el patrimonio familiar. Las parejas de hecho inscritas ganan derechos casi idénticos a los matrimonios en sucesiones. Además, se protege la vivienda y los bienes tradicionales (como los caseríos o bienes troncales) mediante derechos de adquisición preferente y reglas de venta específicas.",
+  "professional_impact": "Los notarios deben certificar obligatoriamente la vecindad civil y el régimen de bienes en sus documentos. Los propietarios de bienes troncales deben realizar un llamamiento notarial previo antes de vender. Los profesionales del derecho deben considerar la posibilidad de realizar pactos sucesorios con transmisión en vida o post mortem, respetando los derechos inalienables de los herederos.",
+  "keywords": [
+    "Derecho Civil Vasco",
+    "vecindad civil",
+    "sucesiones",
+    "legítima",
+    "parejas de hecho",
+    "pactos sucesorios",
+    "bienes comunes",
+    "troncidad",
+    "caseríos"
+  ],
+  "key_points": [
+    "Creación de una vecindad civil vasca común aplicable a todos los residentes de la Comunidad Autónoma.",
+    "Establecimiento de una legítima única para descendientes equivalente a un tercio del patrimonio.",
+    "Igualdad de derechos sucesorios entre el cónyuge viudo y el miembro superviviente de una pareja de hecho.",
+    "Posibilidad de realizar pactos sucesorios con transmisión de bienes en vida o tras la muerte (con derechos inalienables e inembargables para el heredero).",
+    "Derecho de revocación de pactos sucesorios por causas como indignidad, mala convivencia o ruptura de la pareja.",
+    "Implementación del régimen de 'comunicación foral', donde los bienes son comunes al 50% salvo pacto contrario.",
+    "Protección de deudas: las deudas de un cónyuge sin consentimiento solo afectan a su mitad de bienes comunes.",
+    "Modificación de la nulidad de la troncidad en Bizkaia, pasando de ser absoluta a relativa con un plazo de caducidad de 4 años.",
+    "Derecho de adquisición preferente para arrendatarios de caseríos con contratos de más de 40 años.",
+    "Reconocimiento de la libertad de testar y el usufruto poderoso en el Valle de Ayala (Álava).",
+    "Las parejas de hecho inscritas pueden regular su patrimonio mediante pactos privados o públicos.",
+    "En sucesión sin testamento, el cónyuge o pareja de hecho tiene preferencia sobre ascendientes y colaterales."
+  ],
+  "legal_references": [
+    "Ley 3/1992, de 1 de julio",
+    "Ley 3/1999, de 26 de noviembre",
+    "Constitución Española (art. 149.1.8)",
+    "Estatuto de Autonomía del País Vasco",
+    "Código Civil español",
+    "Reglamento (UE) 650/2012",
+    "Fuero de Bizkaia",
+    "Fuero de Ayala",
+    "Fuero de Gipuzkoa",
+    "Ley 2/2003, de 7 de mayo, de parejas de hecho"
+  ],
+  "derogations": [
+    "Ley 3/1992, de 1 de julio",
+    "Ley 3/1999, de 26 de noviembre"
+  ],
+  "main_obligations": "Los notarios deben hacer constar la vecindad civil y el régimen de bienes en instrumentos públicos. Los propietarios de bienes troncales deben realizar un llamamiento notarial previo antes de vender a terceros. Las modificaciones del régimen económico matrimonial deben inscribirse en el Registro Civil y, si procede, en el Registro de la Propiedad o Mercantil para ser eficaces frente a terceros.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Ejercicio del derecho de adquisición preferente (Saca Foral/Troncalidad)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Llamamiento notarial",
+          "description": "El vendedor debe realizar un llamamiento a los parientes tronqueros mediante edictos o notificación directa.",
+          "start_date": "Antes de la enajenación",
+          "end_date": null,
+          "required_documentation": "Edicto con datos de la finca, valor catastral y datos registrales"
+        },
+        {
+          "step": 2,
+          "title": "Comparecencia y depósito de fianza",
+          "description": "El tronquero interesado debe comparecer ante el notario y depositar el 20% del valor catastral.",
+          "start_date": "1 mes desde la notificación",
+          "end_date": "10 días hábiles tras la publicación del edicto",
+          "required_documentation": "Fianza del 20% del valor catastral"
+        },
+        {
+          "step": 3,
+          "title": "Valoración del bien",
+          "description": "Designación de perito para tasar la finca si no hay acuerdo entre las partes.",
+          "start_date": "20 días tras el vencimiento del plazo de comparecencia",
+          "end_date": "20 días para la tasación",
+          "required_documentation": "Informe pericial"
+        },
+        {
+          "step": 4,
+          "title": "Otorgamiento de escritura",
+          "description": "Formalización de la compraventa tras la notificación del precio peritado.",
+          "start_date": "15 días tras la notificación del resultado de la tasación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Impugnación de actos de disposición de bienes troncales (Saca Foral)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Demanda judicial",
+          "description": "El pariente tronquero debe promover un juicio declarativo contra el enajenante y el adquiriente.",
+          "start_date": "3 meses desde el conocimiento de la enajenación o inscripción registral",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Ejecución de sentencia",
+          "description": "El demandante debe consignar el precio fijado en juicio para ejecutar la adjudicación.",
+          "start_date": "Tras la firmeza de la sentencia",
+          "end_date": "3 meses tras la firmeza",
+          "required_documentation": "Consignación del precio judicial"
+        }
+      ]
+    },
+    {
+      "name": "Gestión de deudas en régimen de comunicación foral",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de embargo",
+          "description": "El acreedor debe notificar el embargo al cónyuge no deudor.",
+          "start_date": "Momento del embargo",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Oposición al embargo",
+          "description": "El cónyuge no deudor puede oponerse al embargo de bienes gananciales que excedan su mitad.",
+          "start_date": "Desde la notificación",
+          "end_date": "15 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Solicitud de disolución de la comunicación",
+          "description": "El cónyuge puede solicitar la disolución del régimen para pasar a separación de bienes.",
+          "start_date": "Dentro del plazo de oposición",
+          "end_date": "15 días naturales",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aceptación de herencia por el cónyuge viudo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instar judicialmente a los sucesores",
+          "description": "El cónyuge viudo puede pedir al juez que obligue a los herederos a aceptar o repudiar la herencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de manifestación",
+          "description": "Los sucesores deben manifestar su voluntad de aceptar o repudiar.",
+          "start_date": "Desde la resolución judicial",
+          "end_date": "30 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aceptación a beneficio de inventario",
+          "description": "Si no hay respuesta o repudian, el cónyuge viudo puede aceptar la herencia a beneficio de inventario.",
+          "start_date": "Tras el vencimiento del plazo",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

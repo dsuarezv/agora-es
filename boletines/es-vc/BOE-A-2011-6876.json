@@ -1,0 +1,93 @@
+{
+  "identifier": "BOE-A-2011-6876",
+  "title": "Ley 4/2011, de 23 de marzo, de bibliotecas de la Comunitat Valencia",
+  "visible_title": "Ley de bibliotecas de la Comunidad Valenciana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat Valenciana",
+  "official_number": "4/2011",
+  "publication_date": "2011-04-16",
+  "enactment_date": "2011-03-23",
+  "last_updated": "2018-12-03",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2011/03/23/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley organiza y moderniza el Sistema Bibliotecario Valenciano para adaptarlo a la sociedad de la información y los formatos digitales. Establece una estructura coordinada que incluye la Biblioteca Valenciana, la Red de Bibliotecas Públicas y la Red de Bibliotecas Especializadas. Su objetivo es garantizar el acceso igualitario a la cultura, la lectura y la información mediante una gestión eficiente de los recursos y la infraestructura.",
+  "citizen_impact": "Garantiza el derecho de los ciudadanos al acceso gratuito a la información y la cultura a través de una red de bibliotecas mejor coordinada. Mejora la oferta de servicios digitales y asegura que las bibliotecas municipales cumplan con estándares mínimos de personal, horario y accesibilidad.",
+  "professional_impact": "Los profesionales de la información (bibliotecarios) se ven sujetos a una mayor coordinación técnica y planes de formación continua. Los ayuntamientos tienen la obligación de cumplir requisitos mínimos de personal técnico, superficie y horarios para que sus bibliotecas se integren en la red autonómica.",
+  "keywords": [
+    "bibliotecas",
+    "sistema bibliotecario",
+    "cultura",
+    "lectura",
+    "patrimonio bibliográfico",
+    "Comunitat Valenciana",
+    "servicios digitales"
+  ],
+  "key_points": [
+    "Creación del Sistema Bibliotecario Valenciano bajo la dirección de la Generalitat.",
+    "La Biblioteca Valenciana actúa como centro superior y depósito bibliográfico básico.",
+    "Obligatoriedad de servicios mínimos para municipios: bibliotecas en municipios de >5.000 hab. y agencias de lectura en <5.000 hab.",
+    "Establecimiento de requisitos mínimos de personal, superficie y horarios para centros municipales.",
+    "Impulso de la Biblioteca Valenciana Digital para la preservación y difusión de contenidos.",
+    "Creación de un Consejo Asesor de Bibliotecas para asesorar a la administración.",
+    "Implementación de un régimen sancionador por daños al patrimonio o impidimento de acceso a la información.",
+    "Obligación de los ayuntamientos de mantener locales accesibles y personal cualificado."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatut d'Autonomia de la Comunitat Valenciana",
+    "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+    "Ley 10/1986, de 30 de diciembre, de la Generalitat, de Organización Biblioteca de la Comunitat Valenciana",
+    "Ley 4/1998, de 11 de junio, de la Generalitat, del Patrimonio Cultural Valenciano",
+    "Decreto 5/1985, de 8 de enero, del Consell",
+    "Decreto 119/2005, de 24 de junio, del Consell",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas"
+  ],
+  "derogations": [
+    "Ley 10/1986, de 30 de diciembre, de la Generalitat, de Organización Biblioteca de la Comunitat Valenciana",
+    "Decreto 5/1985, de 8 de enero, del Consell, que creó la Biblioteca Valenciana",
+    "Decreto 33/2010, de 12 de febrero, del Consell"
+  ],
+  "main_obligations": "Los responsables de bibliotecas deben suministrar datos estadísticos a la Generalitat y permitir inspecciones. Se prohíbe el daño al patrimonio bibliográfico y el impedimento del acceso a la información, con multas que pueden alcanzar los 150.000 euros en casos graves.",
+  "effective_date": "2011-04-17",
+  "procedures": [
+    {
+      "name": "Integración de centros de lectura pública municipal en la Red de Bibliotecas Públicas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de integración",
+          "descrption": "Los ayuntamientos deben solicitar la integración mediante resolución de la consejería competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el cumplimiento de requisitos mínimos (personal, superficie, horario, etc.)"
+        },
+        {
+          "step": 2,
+          "title": "Verificación de requisitos",
+          "descrption": "La consejería verifica que el centro cumple con los estándares de la ley.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Régimen Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación de expediente",
+          "descrption": "Inicio del procedimiento sancionador tras la detección de una infracción.",
+          "start_date": null,
+          "end_date": "6 meses para resolver",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

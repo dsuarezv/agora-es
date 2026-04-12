@@ -1,0 +1,117 @@
+{
+  "identifier": "BOE-A-2025-24838",
+  "title": "Real Decreto 1082/2025, de 3 de diciembre, por el que se regula el procedimiento para determinar las denominaciones comerciales nacionales y las denominaciones de alimentos en conserva o preparados admitidas en España aplicables a los productos de la pesca y de la acuicultura",
+  "visible_title": "Regulación de denominaciones comerciales y de alimentos en conserva de productos de la pesca y la acuicultura",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes",
+  "official_number": "1082/2025",
+  "publication_date": "2025-12-06",
+  "enactment_date": "2025-12-03",
+  "last_updated": "2025-12-06",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/12/03/1082",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "293",
+  "summary": "Esta norma moderniza y unifica el sistema de nombres permitidos para los productos de la pesca y la acuicultura en España. Establece un procedimiento ágil para que las empresas soliciten nuevos nombres comerciales o de conservas, evitando el uso de términos engañosos. El objetivo es garantizar que el consumidor sepa exactamente qué está comprando mediante listados oficiales actualizados anualmente.",
+  "citizen_impact": "Mejora la transparencia en el supermercado, asegurando que los nombres de los pescados y sus conservas sean claros, científicos y no induzcan a error sobre su origen o tipo. Esto permite tomar decisiones de compra más informadas y seguras.",
+  "professional_impact": "Las empresas del sector pesquero y conservero deben ajustar su etiquetado a los nuevos listados oficiales. Se introduce un procedimiento de solicitud de nuevas denominaciones con un plazo de resolución de hasta 6 meses, y se permite la actualización anual de los listados para adaptarse a la innovación tecnológica y comercial.",
+  "keywords": [
+    "pesca",
+    "acuicultura",
+    "conservas",
+    "denominaciones comerciales",
+    "etiquetado",
+    "consumo",
+    "seguridad alimentaria"
+  ],
+  "key_points": [
+    "Creación de dos listados oficiales: uno para especies de pesca/acuicultura y otro para sus conservas o preparados.",
+    "Obligatoriedad de usar las denominaciones admitidas en los listados para la venta al consumidor.",
+    "Actualización anual de los listados mediante resolución de la Secretaría General de Pesca durante el primer trimestre.",
+    "Procedimiento para que las empresas soliciten la inclusión de nuevas denominaciones.",
+    "Las comunidades autónomas pueden añadir nombres complementarios, pero nunca sustituir a los nacionales.",
+    "Plazo de un año para comercializar productos con envases ya rotulados antes de la nueva normativa.",
+    "Plazo de seis meses para que las empresas se adapten a cambios en las denominaciones ya existentes.",
+    "Uso obligatorio de la base de datos ASFIS (FAO) para los nombres científicos."
+  ],
+  "legal_references": [
+    "Tratado de Funcionamiento de la Unión Europea (TFUE)",
+    "Reglamento (CE) n.º 178/2002",
+    "Reglamento (UE) n.º 1380/2013",
+    "Reglamento (UE) n.º 1379/2013",
+    "Reglamento (UE) n.º 1169/2011",
+    "Real Decreto 1521/1984",
+    "Ley 3/2001 de Pesca Marítima del Estado",
+    "Ley 39/2015 del Procedimiento Administrativo Común"
+  ],
+  "derogations": [
+    "Anexo IV del Real Decreto 1521/1984",
+    "Artículo 2 de la Orden de 15 de octubre de 1985 (Mejillón, Almaja y Berberecho)",
+    "Artículo 2 de la Orden de 15 de octubre de 1985 (Mejillones Cocidos y Congelados)"
+  ],
+  "main_obligations": "Los operadores deben utilizar exclusivamente las denominaciones comerciales o de alimentos en conserva incluidas en los listados oficiales para la venta al consumidor. Las empresas que deseen usar un nombre no listado deben solicitar su inclusión previamente ante la Secretaría General de Pesca.",
+  "effective_date": "2026-01-02",
+  "procedures": [
+    {
+      "name": "Determinación de denominaciones comerciales y de alimentos en conserva a instancia de los operadores",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Los interesados presentan la solicitud de inclusión, modificación o eliminación de una denominación vía sede electrónica.",
+          "start_date": "En cualquier momento",
+          "end_date": null,
+          "required_documentation": "Datos del solicitante, nombre científico, código 3 alfa FAO, denominación pretendida y motivación."
+        },
+        {
+          "step": 2,
+          "title": "Subsanación de errores",
+          "description": "Si la solicitud es incompleta, se requiere subsanar en un plazo determinado.",
+          "start_date": "Tras la detección de falta",
+          "end_date": "10 días hábiles",
+          "required_documentation": "Documentación complementaria requerida"
+        },
+        {
+          "step": 3,
+          "title": "Asesoramiento científico",
+          "description": "La Secretaría puede solicitar informes a organismos científicos o entidades representativas.",
+          "start_date": null,
+          "end_date": "10 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "La Secretaría General de Pesca dicta la resolución definitiva y la publica en su portal.",
+          "start_date": "Desde la entrada de la solicitud",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Actualización anual de los listados oficiales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Compilación de actualizaciones",
+          "description": "La Secretaría compila las solicitudes aprobadas y de oficio durante el año anterior.",
+          "start_date": "Durante el año precedente",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Publicación de la resolución anual",
+          "description": "Se publica la versión actualizada de los listados en el BOE.",
+          "start_date": "Primer trimestre de cada año",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,99 @@
+{
+  "identifier": "BOE-A-2007-3699",
+  "title": "Ley 9/2006, de 11 de diciembre, Tributaria de la Comunidad Autónoma de Canarias",
+  "visible_title": "Ley Tributaria de la Comunidad Autónoma de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "9/2006",
+  "publication_date": "2007-02-22",
+  "enactment_date": "2006-12-11",
+  "last_updated": "2022-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2006/12/11/9",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece el marco jurídico integral del sistema tributario de Canarias, unificando las reglas para los tributos propios, los derivados del Régimen Económico y Fiscal (REF) y los tributos estatales cedidos. Define cómo actúa la Administración Tributaria Canaria, regula los derechos de los contribuyentes y organiza los procedimientos de gestión, recaudación y reclamación. Su objetivo es dotar a la región de un cuerpo normativo coherente e independiente de la normativa estatal general.",
+  "citizen_impact": "Facilita la relación con Hacienda mediante el deber de información y asistencia, permitiendo solicitar valores de referencia para inmuebles antes de comprar o heredar. Además, garantiza que los sábados no cuenten como días hábiles para presentar impuestos o realizar pagos, evitando recargos por días no laborables.",
+  "professional_impact": "Impone obligaciones de información y colaboración a notarios y registradores de la propiedad, quienes deben remitir datos de forma telemática. Para empresas y autónomos, regula la obligatoriedad de las declaraciones censales y la posibilidad de realizar trámites exclusivamente por vía electrónica.",
+  "keywords": [
+    "tributos canarios",
+    "hacienda canaria",
+    "régimen económico y fiscal",
+    "reclamaciones económico-administrativas",
+    "gestión tributaria",
+    "impuesto sobre sucesiones",
+    "impuesto sobre transmisiones patrimoniales"
+  ],
+  "key_points": [
+    "Creación de un sistema tributario propio y coherente para Canarias.",
+    "Derecho a solicitar información vinculante sobre el valor fiscal de inmuebles antes de una compra o transmisión.",
+    "Los sábados se consideran días inhábiles para el cómputo de plazos tributarios.",
+    "Implementación de la notificación electrónica para personas jurídicas y personas físicas con capacidad técnica.",
+    "Establecimiento de la Junta Económico-Administrativa de Canarias para resolver reclamaciones.",
+    "Obligación de los registradores y notarios de colaborar con la administración mediante información telemática.",
+    "Posibilidad de compensación de oficio de deudas entre distintas administraciones públicas.",
+    "Uso de valores de referencia para la comprobación de valores en impuestos de transmisiones y sucesiones."
+  ],
+  "legal_references": [
+    "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "Estatuto de Autonomía de Canarias",
+    "Ley 7/1984, de 11 de diciembre, de la Hacienda Pública de la Comunidad Autónoma de Canarias",
+    "Ley 11/2007, de 22 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos",
+    "Ley 29/1987, de 12 de diciembre, del Impuesto sobre Sucesiones y Donaciones",
+    "Ley Hipotecaria"
+  ],
+  "derogations": [
+    "Artículos 22, 23, 24, 25, 26, 27, 28, 54-bis, 54-ter y disposición transitoria decimotercera de la Ley 7/1984",
+    "Artículo 54 de la Ley 14/1999",
+    "Artículos 3.Primero.1, 17, 10, 11, 13, 62, etc. del Decreto Legislativo 1/1994"
+  ],
+  "main_obligations": "Los empresarios y profesionales deben presentar declaraciones censales para comunicar el inicio, modificación o cese de su actividad. Notarios y registradores están obligados a remitir información telemática sobre actos con trascendencia tributaria en los plazos que determine la Consejería.",
+  "effective_date": "2007-05-24",
+  "procedures": [
+    {
+      "name": "Información previa sobre valor de inmuebles",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de información",
+          "descrption": "El interesado solicita por escrito o vía electrónica el valor fiscal de un inmueble.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos del inmueble y datos del solicitante"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la Administración",
+          "descrption": "La Administración emite la información sobre el valor.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reclamación económico-administrativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Interposición de la reclamación",
+          "descrption": "El interesado presenta su reclamación ante la Junta Económico-Administrativa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la Junta",
+          "descrption": "La Junta resuelve la cuestión de hecho o de derecho.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

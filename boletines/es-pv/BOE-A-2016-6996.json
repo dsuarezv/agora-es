@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-2016-6996",
+  "title": "Ley 10/2016, de 30 de junio, reguladora de la Iniciativa Legislativa Popular",
+  "visible_title": "Ley reguladora de la Iniciativa Legislativa Popular",
+  "rank": "ley",
+  "country": "es",
+  "department": "Parlamento Vasco",
+  "official_number": "10/2016",
+  "publication_date": "2016-07-21",
+  "enactment_date": "2016-06-30",
+  "last_updated": "2016-07-07",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2016/06/30/10",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y facilita la participación directa de los ciudadanos en la creación de leyes en el País Vasco. Sustituye una norma obsoleta para reducir las trabas burocráticas, bajar el número de firmas necesarias y ampliar los temas que pueden proponerse. Además, otorga voz a los promotores durante los debates parlamentarios para que defiendan sus propuestas.",
+  "citizen_impact": "Permite que cualquier persona con derecho de sufragio en el País Vasco, incluidos residentes legales y ciudadanos de la UE, proponga leyes. Facilita el proceso al requerir solo 10.000 firmas y permite que los promotores participen activamente en el Parlamento.",
+  "professional_impact": "Los promotores de iniciativas deben cumplir con estrictas obligaciones de transparencia en la financiación y protección de datos personales. También establece la posibilidad de recibir una compensación de hasta 18.000 euros por gastos de difusión y recogida de firmas si la propuesta es admitida.",
+  "keywords": [
+    "Iniciativa Legislativa Popular",
+    "Participación ciudadana",
+    "Parlamento Vasco",
+    "Democracia directa",
+    "Derecho de petición"
+  ],
+  "key_points": [
+    "Se reduce el número de firmas necesarias a 10.000 para presentar una propuesta.",
+    "Se amplía la legitimación para incluir a ciudadanos de la UE y residentes legales en el País Vasco.",
+    "Los promotores tienen derecho a intervenir y defender su propuesta ante el Parlamento.",
+    "Se permite la recogida de firmas tanto en formato papel como electrónico.",
+    "Existe una compensación económica de hasta 18.000 € para cubrir gastos de la campaña si la ley se tramita.",
+    "Las iniciativas no pierden vigencia si el Parlamento se disuelve durante su tramitación.",
+    "Se prohíbe el uso de la ILP para temas tributarios, reforma del Estatuto o régimen electoral."
+  ],
+  "legal_references": [
+    "Artículo 27.4 del Estatuto de Autoautonomía del País Vasco",
+    "Ley 8/1986, de 26 de junio, de Iniciativa Legislativa Popular del País Vasco",
+    "Reglamento 22/2011 del Parlamento Europeo y del Consejo"
+  ],
+  "derogatons": [
+    "Ley 8/1986, de 26 de junio, de Iniciativa Legislativa Popular del País Vasco"
+  ],
+  "main_obligations": "Los promotores deben garantizar la transparencia de la financiación y el uso correcto de los datos personales recogidos. Deben presentar la propuesta con un texto articulado, exposición de motivos y estudios técnicos si los hubiera.",
+  "effective_date": "2016-07-22",
+  "procedures": [
+    {
+      "name": "Procedimiento de Iniciativa Legislativa Popular",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la propuesta",
+          "description": "Entrega ante la Mesa del Parlamento de la propuesta de ley con sus motivos y datos de la comisión promotora.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Texto de la iniciativa, exposición de motivos, estudios técnicos y datos de la comisión promotora."
+        },
+        {
+          "step": 2,
+          "title": "Trámite de admisión",
+          "description": "La Mesa del Parlamento examina la documentación y decide si la iniciativa es admisible.",
+          "start_date": null,
+          "end_date": "30 días desde el registro",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Recogida de firmas",
+          "description": "Tras la admisión, se inicia el plazo para recoger las 10.000 firmas necesarias.",
+          "start_date": "Desde la notificación de admisión por la Junta Electoral",
+          "end_date": "4 meses (prorrogable 2 meses más por fuerza mayor)",
+          "required_documentation": "Plegos oficiales sellados por la Junta Electoral."
+        },
+        {
+          "step": 4,
+          "title": "Acreditación de inscripciones",
+          "description": "Plazo para presentar los certificados que acrediten la inscripción en el censo o padrón de los firmantes.",
+          "start_date": "Tras finalizar el plazo de recogida de firmas",
+          "end_date": "15 días hábiles",
+          "required_documentation": "Certificados de inscripción en el censo electoral o padrón municipal."
+        },
+        {
+          "step": 5,
+          "title": "Comprobación y recuento",
+          "description": "La Junta Electoral verifica la validez de las firmas y certifica el número de apoyos válidos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Tramitación parlamentaria",
+          "description": "Si se alcanzan las firmas, la propuesta sigue el proceso legislativo ordinario con participación de los promotores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,95 @@
+{
+  "identifier": "BOE-A-1999-17642",
+  "title": "Ley 20/1999, de 3 de mayo, del Parque Regional del Curso Medio del río Guadarrama y su entorno",
+  "visible_title": "Ley del Parque Regional del Curso Medio del río Guadarrama y su entorno",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "20/1999",
+  "publication_date": "1999-08-17",
+  "enactment_date": "1999-05-03",
+  "last_updated": "2022-12-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1999/05/03/20",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea y regula el Parque Regional del Curso Medio del río Guadarrama para frenar el deterioro ambiental causado por la urbanización y la contaminación. Establece un régimen de protección especial para conservar la biodiversidad, el agua y el paisaje de la zona. Además, define las reglas de uso del suelo y las actividades permitidas para asegurar la recuperación de los ecosistemas degradados.",
+  "citizen_impact": "Los residentes en los municipios afectados verán limitadas sus posibilidades de construir nuevas viviendas o realizar obras que transformen el entorno natural. También se restringe la publicidad comercial exterior y ciertas actividades que puedan dañar el ecosistema del parque.",
+  "professional_impact": "Empresas constructoras y urbanistas enfrentan restricciones severas, ya que el suelo del parque se clasifica como no urbanizable de especial protección. Propietarios de terrenos pueden verse afectados por los derechos de tanteo y retracto de la Comunidad de Madrid en caso de venta, y los sectores agrícola y forestal deben ajustar sus actividades a las limitaciones del Plan de Ordenación.",
+  "keywords": [
+    "Parque Regional",
+    "río Guadarrama",
+    "medio ambiente",
+    "protección natural",
+    "suelo no urbanizable",
+    "Comunidad de Madrid",
+    "conservación"
+  ],
+  "key_points": [
+    "Declaración oficial de la zona como Parque Regional de 22.116 hectáreas.",
+    "Clasificación de todo el territorio como suelo no urbanizable de especial protección.",
+    "La Comunidad de Madrid tiene derecho de tanteo y retracto en la compraventa de terrenos dentro del parque.",
+    "Prohibición de nuevas construcciones o modificaciones de las existentes, salvo excepciones muy específicas.",
+    "Prohibición de la publicidad comercial exterior en el ámbito del parque.",
+    "Establecimiento de un régimen de utilidad pública que facilita procesos de expropiación para fines de conservación.",
+    "Obligatoriedad de que cualquier nueva infraestructura sea compatible con la permeabilidad de la fauna.",
+    "Los usos turísticos y deportivos están permitidos pero estrictamente limitados por la planificación."
+  ],
+  "legal_references": [
+    "Ley 4/1989, de 27 de marzo, de Conservación de la Fauna y la Flora Silvestre",
+    "Decreto 44/1992, de 11 de junio",
+    "Constitución Española (Artículos 45, 148 y 149)",
+    "Estatuto de Autonomía de la Comunidad de Madrid"
+  ],
+  "derogations": [
+    "Normas de igual o inferior rango que se opongan a la presente Ley"
+  ],
+  "main_obligations": "Se prohíbe la transformación del destino del suelo y la construcción de nuevas edificaciones sin autorización. Los propietarios deben notificar fehacientemente a la Consejería de Medio Ambiente cualquier transmisión de terrenos para permitir el ejercicio de los derechos de tanteo y retracto.",
+  "effective_date": "1999-08-17",
+  "procedures": [
+    {
+      "name": "Transmisión de terrenos en el ámbito del Parque",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de la transmisión",
+          "description": "El vendedor debe comunicar fehacientemente a la Consejería las condiciones de la venta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Copia de la escritura pública o condiciones esenciales de la transmisión"
+        },
+        {
+          "step": 2,
+          "title": "Ejercicio del derecho de tanteo",
+          "description": "Plazo para que la Comunidad de Madrid adquiera el terreno en las mismas condiciones.",
+          "start_date": "Desde la notificación",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ejercicio del derecho de retracto",
+          "description": "Plazo para que la Comunidad de Madrid anule la venta y compre el terreno directamente.",
+          "start_date": "Desde la notificación",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de nuevo Plan de Ordenación (Transitoria)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración y aprobación del nuevo Plan de Ordenación de Recursos Naturales",
+          "description": "Proceso para ordenar los territorios no incluidos en el plan anterior.",
+          "start_date": "Desde la entrada en vigor de la Ley",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

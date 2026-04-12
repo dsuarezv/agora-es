@@ -1,0 +1,110 @@
+{
+  "identifier": "BOE-A-2006-3669",
+  "title": "Ley 8/2005, de 26 de diciembre, de protección y fomento del arbolado urbano de la Comunidad de Madrid",
+  "visible_title": "Ley de protección y fomento del arbolado urbano de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "8/2005",
+  "publication_date": "2006-03-02",
+  "enactment_date": "2005-12-26",
+  "last_updated": "2024-12-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2005/12/26/8",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley establece un marco de protección para los árboles en entornos urbanos de la Comunidad de Madrid, considerándolos parte del patrimonio natural. Regula la prohibición de talas sin autorización, obliga a la reposición de ejemplares eliminados y exige a los ayuntamientos crear inventarios y planes de conservación. Su objetivo es garantizar el equilibrio ecológico y la calidad de vida mediante un urbanismo vegetal gestionado.",
+  "citizen_impact": "Los ciudadanos tienen derecho a un paisaje urbano protegido, pero también asumen la obligación de mantener los árboles en sus propiedades privadas. Además, se limita la capacidad de realizar podas drásticas o talas en entornos urbanos para preservar el entorno natural.",
+  "professional_impact": "Empresas constructoras y promotores deben obtener autorizaciones previas para cualquier intervención que afecte al arbolado y están obligados a realizar compensaciones o trasplantes. Los propietarios de fincas deben mantener sus árboles y los técnicos municipales deben realizar inspecciones periódicas y elaborar inventarios detallados.",
+  "keywords": [
+    "arbolado urbano",
+    "protección medioambiental",
+    "tala de árboles",
+    "paisaje urbano",
+    "Comunidad de Madrid",
+    "compensación forestal",
+    "urbanismo vegetal"
+  ],
+  "key_points": [
+    "Protección obligatoria para árboles con más de 10 años o 20 cm de diámetro de tronco.",
+    "Prohibición de talar árboles sin autorización previa de la Administración.",
+    "Obligación de plantar un ejemplar adulto por cada año de edad del árbol talado como compensación.",
+    "Prohibición de podas drásticas, indiscriminadas o fuera de época.",
+    "Los ayuntamientos deben elaborar un inventario del arbolado en un plazo de un año.",
+    "Obligación de los propietarios privados de mantener y conservar el arbolado de sus fincas.",
+    "Creación de fondos municipales para la compensación económica por talas.",
+    "Multas muy graves por talas no autorizadas que pueden alcanzar los 500.000 euros."
+  ],
+  "legal_references": [
+    "Constitución española",
+    "Estatuto de Autonomía de la Comunidad de Madrid",
+    "Decreto 18/1992, de 26 de marzo",
+    "Ley 10/1998, de 9 de julio, de Patrimonio Histórico de la Comunidad de Madrid",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Real Decreto Legislativo 2/2000, de 16 de junio, de Ley de Contratos de las Administraciones Públicas"
+  ],
+  "derogatons": [
+    "Todas las disposiciones que contra vengan o se opongan a esta Ley"
+  ],
+  "main_obligations": "Prohibición de talar o podar drásticamente árboles protegidos sin permiso. Los propietarios deben mantener el estado vegetativo de sus árboles. Las infracciones muy graves conllevan multas de hasta 500.000 euros y la obligación de reparar el daño.",
+  "effective_date": "2006-03-03",
+  "procedures": [
+    {
+      "name": "Elaboración de Inventario Municipal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Creación del inventario",
+          "description": "Los municipios deben elaborar un inventario completo del arbolado urbano.",
+          "start_date": "Fecha de entrada en vigor de la ley",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Plan de Conservación Municipal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación del plan",
+          "description": "Los ayuntamientos deben aprobar planes de conservación para su arbolado.",
+          "start_date": "Fecha de entrada en vigor de la ley",
+          "end_date": "2 años",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Revisión del plan",
+          "description": "Los planes de conservación deben revisarse periódicamente.",
+          "start_date": null,
+          "end_date": "Cada 5 años",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Tala y Compensación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Trámite previo para poder proceder a la tala de un ejemplar protegido.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe técnico que justifique la necesidad de la tala"
+        },
+        {
+          "step": 2,
+          "title": "Ejecución de la compensación",
+          "description": "Plantación de ejemplares adultos o ingreso en el fondo municipal según el caso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,97 @@
+{
+  "identifier": "BOE-A-2018-16344",
+  "title": "Ley 8/2018, de 23 de octubre, del comercio ambulante de Extremadura",
+  "visible_title": "Ley del comercio ambulante de Extremadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "8/2018",
+  "publication_date": "2018-11-30",
+  "enactment_date": "2018-10-23",
+  "last_updated": "2022-11-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2018/10/23/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca unificar y modernizar la regulación del comercio ambulante en Extremadura para evitar la inseguridad jurídica causada por la disparidad de ordenanzas municipales. Establece criterios comunes para la concesión de licencias, garantizando la estabilidad del sector mediante plazos de duración más largos. Además, busca proteger tanto a los comerciantes como a los consumidores, asegurando la calidad de los productos y la transparencia en la actividad.",
+  "citizen_impact": "Los ciudadanos que compran en mercadillos o puestos ambulantes cuentan con mayores garantías de protección al consumidor, como la obligación de los vendedores de mostrar precios claros y disponer de hojas de reclamaciones. También mejora la seguridad y salubridad de los productos vendidos en la vía pública.",
+  "professional_impact": "Los comerciantes ambulantes obtienen una mayor estabilidad laboral y económica gracias a que sus autorizaciones ahora duran 7 años (prorrogables por otros 7). Los ayuntamientos deben adaptar sus ordenanzas y gestionar procedimientos de adjudicación más transparentes y competitivos, siguiendo criterios objetivos de selección.",
+  "keywords": [
+    "comercio ambulante",
+    "venta no sedentaria",
+    "Extremadura",
+    "licencias comerciales",
+    "mercadillos",
+    "autorización administrativa"
+  ],
+  "key_points": [
+    "Las autorizaciones municipales de venta ambulante tendrán una duración de 7 años, con una única prórroga posible por otros 7 años.",
+    "Se establece la obligatoriedad de exhibir una tarjeta identificativa con los datos del titular y la dirección para reclamaciones.",
+    "Los ayuntamientos pueden reservar hasta un 15% de los puestos para personas en riesgo de exclusión social o entidades sin ánimo de lucro.",
+    "Se prohíbe la venta ambulante en calles peatonales comerciales o lugares que perjudiquen directamente al comercio establecido.",
+    "Ningún comerciante puede ser titular de más del 5% de los puestos en un mismo mercadillo.",
+    "Las autorizaciones son personales e intransferibles, salvo por fallecimiento, jubilación o incapacidad a familiares de primer o segundo grado.",
+    "Se introducen sanciones económicas que van desde los 500 euros por infracciones leves hasta los 10.000 euros por infracciones muy graves."
+  ],
+  "legal_references": [
+    "Directiva 2006/123/CE",
+    "Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista",
+    "Ley 1/2010, de 1 de marzo",
+    "Real Decreto 199/2010, de 26 de febrero",
+    "Estatuto de Autonomía de Extremadura",
+    "Ley 3/2002, de 9 de mayo, de Comercio de la Comunidad Autónoma de Extremadura",
+    "Decreto 144/2006, de 25 de julio (Hojas de reclamaciones)",
+    "Ley 40/2015, de 1 de diciembre, del Régimen Jurídico del Sector Público"
+  ],
+  "derogations": [
+    "Artículo 14 de la Ley 3/2002, de 9 de mayo, de Comercio de la Comunidad Autónoma de Extremadura"
+  ],
+  "main_obligations": "Los comerciantes deben estar dados de alta en el IAE y la Seguridad Social, exhibir precios finales, disponer de facturas de compra para acreditar origen de mercancía y contar con hojas de reclamaciones. El impago de tasas municipales durante tres meses consecutivos puede provocar la revocación de la licencia.",
+  "effective_date": "2018-12-01",
+  "procedures": [
+    {
+      "name": "Concesión de autorizaciones de venta ambulante",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "descrption": "El interesado solicita la autorización para un emplazamiento y modalidad concreta ante el ayuntamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos personales/sociales, identificación, datos de la actividad y medios de transporte si aplica."
+        },
+        {
+          "step": 2,
+          "title": "Procedimiento de adjudicación/concurrencia",
+          "descrption": "El ayuntamiento gestiona la solicitud siguiendo principios de publicidad, igualdad y concurrencia competitiva.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificados de experiencia, formación, distintivos de calidad o documentos que acrediten vulnerabilidad social."
+        },
+        {
+          "step": 3,
+          "title": "Resolución y expedición",
+          "descrption": "El ayuntamiento otorga la autorización por un periodo de 7 años si cumple los requisitos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Transmisión de autorizaciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de causa",
+          "descrption": "Comunicar fallecimiento, jubilación o incapacidad para permitir la transmisión a familiares de 1er o 2º grado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el parentesco y la causa de la transmisión."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

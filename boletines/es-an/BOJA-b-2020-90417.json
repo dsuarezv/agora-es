@@ -1,0 +1,81 @@
+{
+  "identifier": "BOJA-b-2020-90417",
+  "title": "Decreto-ley 27/2020, de 22 de octubre, por el que, con carácter extraordinario y urgente, se adoptan diversas medidas como consecuencia de la situación generaada por el coronavirus (COVID-19)",
+  "visible_title": "Medidas extraordinarias por la situación del COVID-19 en Andalucía",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "27/2020",
+  "publication_date": "2020-10-22",
+  "enactment_date": "2020-10-22",
+  "last_updated": "2020-10-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOJA-b-2020-90417",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": null,
+  "summary": "Esta norma implementa medidas urgentes para mitigar los efectos económicos y sociales de la pandemia en Andalucía. Obliga a la gestión electrónica en procesos de empleo público para evitar contagios y agilizar la administración. Además, aumenta las ayudas para autónomos, amplía el uso del Bono Turístico para agencias online y extiende la vigencia del distintivo 'Andalucía Segura'.",
+  "citizen_impact": "Los ciudadanos que aspiren a empleos públicos en la Junta de Andalucía deberán realizar todos sus trámites obligatoriamente por internet. Por otro lado, los turistas y residentes se benefician de una mayor flexibilidad en el uso del Bono Turístico y la extensión de las garantías de seguridad del sello 'Andalucía Segura'.",
+  "professional_impact": "Los autónomos reciben un incremento significativo en las subvenciones de sostenimiento (de 900€ a 1.200€ para la línea general y de 1.200€ a 4.000€ para hostelería/ocio). Las agencias de viajes online ahora pueden actuar como mediadoras para el Bono Turístico, y los funcionarios o aspirantes deben adaptarse al uso exclusivo de medios electrónicos en sus procesos de selección.",
+  "keywords": [
+    "COVID-19",
+    "Andalucía",
+    "empleo público",
+    "administración electrónica",
+    "autónomos",
+    "subvenciones",
+    "turismo",
+    "Bono Turístico",
+    "Andalucía Segura"
+  ],
+  "key_points": [
+    "Obligatoriedad de relación electrónica en procesos de acceso, provisión y bolsas de trabajo de la Junta de Andalucía.",
+    "Aumento de la ayuda para autónomos de la línea 1 de 900€ a 1.200€.",
+    "Aumento drástico de la ayuda para autónomos de hostelería y ocio (línea 2) de 1.200€ a 4.000€.",
+    "Inclusión de agencias de viajes online como mediadoras para el Bono Turístico de Andalucía.",
+    "Extensión de la vigencia del distintivo 'Andalucía Segura' hasta el 9 de diciembre de 2021.",
+    "Aplicación retroactiva de las nuevas cuantías de ayudas para solicitudes ya presentadas en 2020."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020",
+    "Ley 39/2015",
+    "Decreto 622/2019",
+    "Ley 11/2007",
+    "Decreto-ley 15/2020",
+    "Decreto-ley 25/2020",
+    "Decreto-ley 24/2020",
+    "Decreto-ley 3/2020"
+  ],
+  "derogations": [],
+  "main_obligations": "Quienes participen en procesos selectivos de la Junta de Andalucía deben realizar todos los trámites (solicitudes, alegaciones, documentación) exclusivamente por medios electrónicos. Los procesos ya iniciados antes de esta norma no se ven afectados por la obligatoriedad electrónica.",
+  "effective_date": "2020-10-22",
+  "procedures": [
+    {
+      "name": "Procesos selectivos de acceso y provisión de empleo público",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Relación electrónica obligatoria",
+          "description": "Presentación de solicitudes, alegaciones y aportación de documentación mediante medios electrónicos.",
+          "start_date": "2020-10-22",
+          "end_date": null,
+          "required_documentation": "Documentación exigida en cada convocatoria específica"
+        }
+      ]
+    },
+    {
+      "name": "Subvenciones para autónomos (Decreto-ley 24/2020)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de ayudas incrementadas",
+          "description": "Presentación de solicitudes para las líneas 1 y 2 con las nuevas cuantías.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación según convocatoria de la línea 1 o 2"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

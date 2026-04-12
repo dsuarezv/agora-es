@@ -1,0 +1,105 @@
+{
+  "identifier": "BOE-A-1991-12095",
+  "title": "Ley 7/1991, de 5 de abril de asistencia y protección al anciano",
+  "visible_title": "Ley de asistencia y protección al anciano",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "7/1991",
+  "publication_date": "1991-05-21",
+  "enactment_date": "1991-04-05",
+  "last_updated": "2014-07-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1991/04/05/7",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco de derechos y protección para las personas mayores en Asturias, regulando tanto el acceso como la gestión de los centros residenciales. Crea un organismo autónomo especializado para gestionar las residencias públicas y una figura de defensa específica para los ancianos. Su objetivo es garantizar estándares de calidad, higiene y seguridad, evitando abusos o lucro desmedido en la atención a este colectivo.",
+  "citizen_impact": "Garantiza a las personas mayores derechos específicos de alojamiento, participación y respeto a sus convicciones en centros residenciales. Introduce la figura del Letrado Defensor del Anciano para proteger sus intereses y permite que los residentes presenten quejas mediante buzones específicos en los centros.",
+  "professional_impact": "Obliga a todos los centros residenciales (públicos y privados) a inscribirse en un registro oficial, tener un reglamento de régimen interior visado y cumplir estrictas normas higiénico-sanitarias. Los gestores de centros privados deben informar anualmente sus precios a la Administración y los inspectores tienen potestad para entrar en los centros sin previo aviso.",
+  "keywords": [
+    "ancianos",
+    "asistencia social",
+    "residencias",
+    "Asturias",
+    "protección derechos",
+    "Letrado Defensor del Anciano",
+    "servicios sociales"
+  ],
+  "key_points": [
+    "Creación del Letrado Defensor del Anciano para la defensa legal de los mayores.",
+    "Obligatoriedad de registro y autorización para cualquier centro residencial en Asturias.",
+    "Creación de un Organismo Autónomo para la gestión de residencias públicas.",
+    "Derecho de los residentes a participar en la gestión de centros públicos y proponer mejoras.",
+    "Obligación de los centros privados de publicar y comunicar sus precios anualmente.",
+    "Instalación obligatoria de buzones de quejas en todos los centros residenciales.",
+    "Potestad de inspección inmediata y sin previo aviso para las autoridades sanitarias y sociales.",
+    "Régimen de sanciones que incluye multas elevadas y el cierre de centros en caso de infracciones graves."
+  ],
+  "legal_references": [
+    "Ley 5/1987, de 11 de abril, de servicios sociales",
+    "Decreto 62/1988, de 12 de mayo",
+    "Decreto 111/1989, de 16 de noviembre",
+    "Estatuto de Autonomía para Asturias",
+    "Ley 30/1992, de 26 de diciembre",
+    "Ley 2/1995, de 13 de marzo"
+  ],
+  "derogations": [
+    "Decretos de regulación de condiciones higiénico-sanitarias y acceso (en proceso de armonización según disposición final primera)"
+  ],
+  "main_obligations": "Los centros residenciales deben contar con autorización, registro y reglamento visado. Deben informar de sus precios anualmente y garantizar la instalación de buzones de quejas. El incumplimiento de normas de seguridad o higiene puede derivar en el cierre inmediato del centro.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Autorización y registro de establecimientos residenciales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "descrption": "Trámite ante la Administración de servicios sociales para obtener permiso de funcionamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de reglamento de régimen interior"
+        },
+        {
+          "step": 2,
+          "title": "Inscripción en el Registro",
+          "descrption": "Inscripción obligatoria en el Registro de Establecimientos Residenciales para Ancianos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Visado del reglamento",
+          "descrption": "La Administración debe visar el reglamento de régimen interior. Si no responde en 3 meses, se entiende conforme.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": "Reglamento de régimen interior"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del expediente",
+          "descrption": "Apertura de expediente previo a la imposición de sanciones administrativas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Prescripción de infracciones",
+          "descrption": "Plazo para perseguir las infracciones según su gravedad.",
+          "start_date": null,
+          "end_date": "2 años (leves), 3 años (graves), 5 años (muy graves)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

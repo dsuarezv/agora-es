@@ -1,0 +1,101 @@
+{
+  "identifier": "BOE-A-2004-12396",
+  "title": "Ley 4/2004, de 18 de mayo, de la Explotación Agraria y del Desarrollo Rural en Castilla-La Mancha",
+  "visible_title": "Ley de Explotación Agraria y Desarrollo Rural de Castilla-La Manch la",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Manch a",
+  "official_number": "4/2004",
+  "publication_date": "2004-07-02",
+  "enactment_date": "2004-05-18",
+  "last_updated": "2023-04-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2004/05/18/4",
+  "official_journal": "Boletín Oficial de la Comunidad de Castilla-La Manch a",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco para modernizar el sector agrario y fomentar el desarrollo rural en Castilla-La Manch a. Clasifica las explotaciones (prioritarias, preferentes y singulares) para darles prioridad en la obtención de ayudas públicas y beneficios fiscales. Además, regula la creación de un Registro General de Explotaciones y establece directrices para obras de regadío, unidades mínimas de cultivo y el apoyo a la diversidad económica en el medio rural.",
+  "citizen_impact": "Los agricultores y ganaderos de la región ven alterada su gestión al tener que inscribirse obligatoriamente en el nuevo Registro General de Explotaciones para acceder a ayudas. También se introducen medidas para facilitar el acceso a la propiedad de tierras a los arrendatarios y se busca potenciar el papel de las mujeres y jóvenes en el sector.",
+  "professional_impact": "Los profesionales del sector agrario cuentan con nuevas categorías de explotación que les otorgan preferencia en la adjudicación de regadíos, subvenciones y beneficios fiscales. Los funcionarios de la Consejería de Agricultura asumen la gestión de un nuevo registro y la supervisión de planes de obras y transformaciones de regadío.",
+  "keywords": [
+    "agricultura",
+    "desarrollo rural",
+    "explotación agraria",
+    "regadíos",
+    "ayudas agrarias",
+    "Castilla-La Manch a",
+    "registro de explotaciones"
+  ],
+  "key_points": [
+    "Creación del Registro General de Explotaciones Agrarias, de inscripción obligatoria para recibir ayudas.",
+    "Clasificación de explotaciones en prioritarias, preferentes y singulares para priorizar su acceso a fondos públicos.",
+    "Establecimiento de beneficios fiscales para la transmisión de explotaciones calificadas.",
+    "Regulación de las unidades mínimas de cultivo para evitar el excesivo fraccionamiento de la tierra.",
+    "Fomento de la incorporación de mujeres y jóvenes al sector agrario mediante mecanismos de apoyo.",
+    "Nuevas reglas para la transformación, mejora y modernización de sistemas de regadío.",
+    "Definición de la multifuncionalidad de la agricultura para justificar apoyos más allá de la producción.",
+    "Creación de Grupos de Desarrollo Rural como entidades para gestionar ayudas y fomentar la cooperación local."
+  ],
+  "legal_references": [
+    "Ley 10/2003, de 20 de marzo, de Modulación de las ayudas agrarias en Castilla-La Manch a",
+    "Decreto 95/2000, de 18 de abril",
+    "Reglamento (CE) 1257/1999",
+    "Real Decreto 613/2001, de 8 de junio",
+    "Decreto 215/2001, de 18 de diciembre",
+    "Ley 19/1995, de 4 de julio, de Modernización de las Explotaciones Agrarias",
+    "Ley Orgánica 15/1999, de 13 de diciembre",
+    "Ley 30/1992, de 26 de diciembre",
+    "Ley 7/1985, de 2 de abril",
+    "Ley de Reforma y Desarrollo Agrario (Decreto 118/1973)"
+  ],
+  "derogations": [
+    "Ley de Reforma y Desarrollo Agrario (en lo no previsto por esta ley)"
+  ],
+  "main_obligations": "Es obligatorio inscribir las explotaciones agrarias y sus titulares en el Registro General de Explotaciones Agrarias para poder acceder a cualquier ayuda o beneficio de la Administración Regional. Asimismo, las explotaciones deben cumplir con la normativa de registro de plantaciones y concesiones de aguas para no perder su calificación de prioridad.",
+  "effective_date": "2004-07-02",
+  "procedures": [
+    {
+      "name": "Inscripción en el Registro General de Explotaciones Agrarias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inscripción",
+          "description": "El titular debe presentar la documentación de la explotación y sus características.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos de la explotación y del titular"
+        },
+        {
+          "step": 2,
+          "title": "Certificación de inscripción",
+          "description": "La Consejería emite un certificado acreditativo de la inscripción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Renovación de la calificación de explotación (prioritaria, singular o preferente)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de renovación",
+          "description": "El titular debe solicitar la renovación de su título de calificación.",
+          "start_date": null,
+          "end_date": "Cada 5 años",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Verificación de requisitos",
+          "description": "La Administración comprueba que se siguen cumpliendo las condiciones para la calificación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

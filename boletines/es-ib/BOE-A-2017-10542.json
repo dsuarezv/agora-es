@@ -1,0 +1,77 @@
+{
+  "identifier": "BOE-A-2017-10542",
+  "title": "Ley 9/2017, de 3 de agosto, de regulación de las corridas de toros y de protección de los animales en las Illes Balears",
+  "visible_title": "Regulación de las corridas de toros y protección de los animales en las Illes Balears",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "9/2017",
+  "publication_date": "2017-09-15",
+  "enactment_date": "2017-08-03",
+  "last_updated": "2024-11-16",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2017/08/03/9",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas estrictas para la celebración de espectáculos taurinos en las Islas Baleares, limitándolos exclusivamente a plazas de toros permanentes construidas antes de 1992. Busca equilibrar la tradición con la protección del bienestar animal y la seguridad ciudadana, introduciendo controles veterinarios, sanitarios y de seguridad muy rigurosos. Además, prohíbe nuevas fiestas populares con animales y regula las condiciones de transporte y asistencia médica en los eventos.",
+  "citizen_impact": "Los ciudadanos verán restringido el acceso a espectáculos taurinos, prohibiendo la entrada a menores de 16 años sin acompañamiento. También se les obliga a recibir avisos claros sobre la sensibilidad del espectáculo y se prohíbe el consumo de alcohol en las plazas.",
+  "professional_impact": "Las empresas promotoras deben presentar una declaración responsable ante el ayuntamiento y contratar seguros de responsabilidad civil con cuantías mínimas específicas. Los profesionales taurinos y veterinarios están sujetos a controles antidopaje y protocolos de bienestar animal estrictos, bajo riesgo de sanciones económicas muy elevadas.",
+  "keywords": [
+    "toros",
+    "bienestar animal",
+    "espectáculos taurinos",
+    "Illes Balears",
+    "protección animal",
+    "seguridad espectáculos"
+  ],
+  "key_points": [
+    "Solo se permiten corridas en plazas de toros permanentes construidas antes de la Ley 1/1992.",
+    "Prohibición total de la venta y consumo de bebidas alcohólicas en las plazas.",
+    "Obligatoriedad de instalar carteles de advertencia sobre la sensibilidad del espectáculo.",
+    "Prohibición de entrada a menores de 16 años sin adultos acompañantes.",
+    "Exigencia de controles antidopaje para profesionales y animales.",
+    "Prohibición de nuevas fiestas populares con animales a partir de la entrada en vigor de la ley.",
+    "Obligación de contar con una ambulancia por cada 1.000 espectadores.",
+    "Requisito de seguros de responsabilidad civil con coberturas mínimas de hasta 300.000 euros.",
+    "Los toros deben provenir de ganaderías más cercanas a la plaza para minimizar el tiempo de viaje."
+  ],
+  "legal_references": [
+    "Ley 10/1991, de 4 de abril",
+    "Real Decreto 145/1996",
+    "Ley 18/2013, de 12 de noviembre",
+    "Ley 10/2015, de 26 de mayo",
+    "Ley 1/1992, de 8 de abril",
+    "Ley 7/2013, de 26 de noviembre",
+    "Estatuto de Autonomía de las Illes Baleares"
+  ],
+  "derogations": [
+    "Disposiciones que se opongan a esta ley o sean incompatibles"
+  ],
+  "main_obligations": "Los promotores deben presentar una declaración responsable y seguros específicos. Se prohíbe el alcohol y se exige el cumplimiento de protocolos veterinarios y de seguridad sanitaria. Las multas por infracciones muy graves pueden alcanzar los 100.000 euros.",
+  "effective_date": "2017-09-16",
+  "procedures": [
+    {
+      "name": "Ejercicio de la actividad de espectáculos taurinos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de declaración responsable",
+          "description": "La empresa promotora debe presentar una declaración ante el ayuntamiento indicando que cumple todos los requisitos legales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración responsable, seguro de responsabilidad civil y acreditación de requisitos sectoriales."
+        },
+        {
+          "step": 2,
+          "title": "Reconocimiento veterinario y control de bienestar",
+          "description": "Control del estado físico, peso, edad y posible manipulación de los cuernos de los toros antes de la corrida.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de reconocimiento veterinario."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

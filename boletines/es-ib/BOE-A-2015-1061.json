@@ -1,0 +1,114 @@
+{
+  "identifier": "BOE-A-2015-1061",
+  "title": "Decreto-ley 2/2014, de 21 de noviembre, de medidas urgentes para la aplicación en las Illes Balears de la Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local",
+  "visible_title": "Medidas urgentes para la aplicación de la Ley de racionalización y sostenibilidad de la Administración Local en las Illes Balears",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "2/2014",
+  "publication_date": "2015-02-05",
+  "enactment_date": "2014-11-21",
+  "last_updated": "2015-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/dl/2014/11/21/2",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta norma busca evitar el vacío legal y la inseguridad jurídica provocados por la aplicación de la Ley estatal de racionalización local en Baleares. Su objetivo es garantizar que los ayuntamientos no dejen de prestar servicios esenciales (como servicios sociales o educación) por dudas sobre sus competencias. Establece criterios claros para que los municipios sigan ejerciendo funciones propias, delegadas o adicionales sin duplicar servicios ni arriesgar su estabilidad financiera.",
+  "citizen_impact": "Garantiza la continuidad de servicios públicos básicos como la atención primaria de salud, servicios sociales y educación en los municipios, evitando que se suspendan por conflictos de competencias. El ciudadano no experimentará cambios en la prestación, sino una mayor seguridad de que los servicios locales seguirán funcionando.",
+  "professional_impact": "Los funcionarios y gestores locales deben cumplir con nuevos requisitos de informes vinculantes (inexistencia de duplicidades y sostenibilidad financiera) antes de asumir nuevas competencias. Además, obliga a los técnicos a tramitar adendas en convenios de financiación para incluir cláusulas de garantía de pago mediante retenciones estatales.",
+  "keywords": [
+    "administración local",
+    "competencias municipales",
+    "Illes Balears",
+    "sostenibilidad financiera",
+    "servicios públicos",
+    "duplicidad de servicios"
+  ],
+  "key_points": [
+    "Los municipios mantienen sus competencias anteriores a la Ley 27/2013 mientras no sean asumidas por la Comunidad Autónoma.",
+    "Para ejercer competencias que no sean propias, los ayuntamientos deben obtener dos informes vinculantes: uno de inexistencia de duplicidades y otro de sostenibilidad financiera.",
+    "Se establece un procedimiento administrativo para solicitar informes de duplicidad con un plazo máximo de un mes para su resolución.",
+    "Los convenios de financiación de competencias delegadas o adicionales deben incluir una cláusula que permita al Estado retener transferencias si no se cumplen los pagos.",
+    "Se blindan las competencias en salud, servicios sociales y enseñanza para evitar su paralización."
+  ],
+  "legal_references": [
+    "Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local",
+    "Ley 7/1985, de 2 de abril, reguladora de las bases del régimen local",
+    "Estatuto de autonomía de las Illes Balears"
+  ],
+  "derogations": [
+    "Disposición transitoria única (derogada)"
+  ],
+  "main_obligations": "Los entes locales están obligados a obtener informes favorables de la administración autonómica y financiera antes de asumir nuevas competencias. Asimismo, deben formalizar adendas en sus convenios de colaboración para incluir garantías de pago.",
+  "effective_date": "2015-02-06",
+  "procedures": [
+    {
+      "name": "Emisión de informe de inexistencia de duplicidades",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El presidente del ayuntamiento presenta la solicitud con una memoria justificativa detallada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria con interés público, características del servicio, prestaciones a la ciudadanía, incidencia positiva y objetivos de subvenciones si aplica."
+        },
+        {
+          "step": 2,
+          "title": "Examen y subsanación",
+          "description": "La Dirección General examina la solicitud y puede requerir subsanación en 10 días.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Tramitación por la consejería competente",
+          "description": "Se remite a la consejería de la materia para que emita el informe.",
+          "start_date": "Desde que la solicitud es completa",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución y notificación",
+          "description": "Notificación del informe motivado a la entidad local.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de convenios mediante adenda",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de adenda",
+          "description": "La entidad local o la administración propone la modificación del convenio para incluir cláusulas de garantía.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe de la Dirección General del Tesoro",
+          "description": "Emisión de informe sobre la cláusula de garantía y plazos de pago.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación de la adenda",
+          "description": "Formalización de la nueva cláusula de garantía de cumplimiento financiero.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

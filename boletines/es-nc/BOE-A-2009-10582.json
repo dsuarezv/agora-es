@@ -1,0 +1,75 @@
+{
+  "identifier": "BOE-A-2009-10582",
+  "title": "Ley Foral 7/2009, de 5 de junio, por la que se regula la asignación tributaria del 0,7 por 100 que los contribuyentes de la Comunidad Foral destinan a otros fines de interés social",
+  "visible_title": "Regulación de la asignación tributaria del 0,7 por 100 para fines de interés social en Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "7/2009",
+  "publication_date": "2009-06-27",
+  "enactment_date": "2009-06-05",
+  "last_updated": "2021-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2009/06/05/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea un fondo específico en Navarra para gestionar el dinero que los ciudadanos destinan voluntariamente en su declaración de la renta a 'otros fines de interés social'. El objetivo es evitar que ese dinero se pierda en fondos nacionales y asegurar que se quede en la Comunidad Foral para apoyar a las ONG navarras. El fondo se reparte entre solidaridad social, cooperación internacional, atención a desempleados, autonomía personal y medio ambiente.",
+  "citizen_impact": "Permite que los contribuyentes navarros tengan la certeza de que el 0,7% que eligen donar en su IRPF se queda en Navarra para financiar proyectos locales de ayuda social y medioambiental. No impone trámites nuevos, pero garantiza mayor transparencia sobre el destino de su elección voluntaria.",
+  "professional_impact": "Las ONG y entidades sin ánimo lucro de Navarra acceden a un mecanismo de subvenciones específico y previsible mediante convocatorias anuales. El Gobierno de Navarra debe gestionar este fondo y publicar las convocatorias en plazos estrictos tras la campaña de la renta.",
+  "keywords": [
+    "0,7 por 100",
+    "IRPF",
+    "ONG",
+    "Navarra",
+    "interés social",
+    "subvenciones",
+    "solidaridad"
+  ],
+  "key_points": [
+    "Creación del 'Fondo 0,7 por 100 de otros fines de interés social' con partida presupuestaria propia.",
+    "Los fondos se destinan exclusivamente a asociaciones y ONG navarras.",
+    "Distribución obligatoria por grupos: 35% solidaridad social, 30% cooperación internacional, 15% desempleados, 15% autonomía personal y 5% medio ambiente.",
+    "Las convocatorias de subvenciones deben aprobarse en un plazo de tres meses tras finalizar la campaña de la renta.",
+    "El Gobierno debe informar a los ciudadanos sobre estas opciones antes y después de la campaña de la renta.",
+    "Los grupos de atención al desempleo y autonomía personal tienen una vigencia inicial de cinco años."
+  ],
+  "legal_references": [
+    "Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra"
+  ],
+  "derogations": [],
+  "main_obligations": "El Gobierno de Navarra debe publicar las convocatorias de subvenciones en un plazo máximo de 30 días desde la aprobación de los Presupuestos Generales y asegurar que las ayudas se resuelvan antes de que termine el año natural.",
+  "effective_date": "2009-06-28",
+  "procedures": [
+    {
+      "name": "Gestión del Fondo 0,7 por 100",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Finalización de la campaña de la renta",
+          "description": "Cierre del periodo de declaración de impuestos para determinar la cuantía del fondo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aprobación de convocatorias de subvenciones",
+          "description": "El Gobierno debe aprobar las convocatorias para las entidades sociales.",
+          "start_date": "3 meses después de finalizar la campaña de la renta",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de subvenciones",
+          "description": "Las convocatorias deben estar resueltas para que las entidades puedan ejecutar los fondos.",
+          "start_date": null,
+          "end_date": "Antes de la finalización del año en curso",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

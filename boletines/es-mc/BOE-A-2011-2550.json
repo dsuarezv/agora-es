@@ -1,0 +1,95 @@
+{
+  "identifier": "BOE-A-2011-2550",
+  "title": "Ley 7/2009, de 2 de noviembre, de ayuda a las víctimas del terrorismo de la Comunidad Autónoma de la Región de Murcia",
+  "visible_title": "Ley de ayuda a las víctimas del terrorismo de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "7/2009",
+  "publication_date": "2011-02-10",
+  "enactment_date": "2009-11-02",
+  "last_updated": "2009-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2009/11/02/7",
+  "official_journal": "Boletín Oficial de la Región de Murcia",
+  "journal_issue": null,
+  "summary": "Esta ley establece un sistema integral de protección y reparación para las víctimas de actos terroristas en la Región de Murcia. Su objetivo es complementar las ayudas estatales mediante prestaciones económicas, asistencia sanitaria, psicológica, educativa y laboral. Además, busca evitar la 'doble victimización' proporcionando un marco de apoyo social y reconocimiento institucional.",
+  "citizen_impact": "Las víctimas y sus familiares directos (hasta segundo grado) acceden a indemnizaciones por daños físicos, psíquicos o materiales, y a ayudas para estudios o vivienda. También se garantiza asistencia sanitaria y psicológica gratuita y prioritaria, así como beneficios en el acceso a la función pública y vivienda de promoción pública.",
+  "professional_impact": "Las entidades sin ánimo lucro dedicadas a la defensa de las víctimas pueden recibir subvenciones para sus programas de apoyo. Los funcionarios públicos víctimas tienen derecho a adaptaciones en su puesto de trabajo, y las empresas pueden acceder a líneas de crédito con intereses reducidos para mantener la actividad tras un atentado.",
+  "keywords": [
+    "terrorismo",
+    "víctimas",
+    "ayudas económicas",
+    "asistencia psicológica",
+    "indemnizaciones",
+    "Región de Murcia",
+    "reparación de daños"
+  ],
+  "key_points": [
+    "Las ayudas de la Comunidad Autónoma incrementan en un 30% las cantidades concedidas por el Estado.",
+    "Existe un límite máximo de 60.000 euros por beneficiario en concepto de daños materiales y físicos.",
+    "Se reconoce la condición de 'afectado' a familiares hasta el segundo grado de consanguinidad o afinidad.",
+    "Se garantiza alojamiento provisional si la vivienda habitual queda inutilizable por los daños.",
+    "Se establecen cupos de reserva en la función pública y en viviendas de promoción pública para las víctimas.",
+    "La ley es retroactiva para actos terroristas ocurridos desde el 1 de enero de 1968.",
+    "Se crea un Fondo de Solidaridad para cubrir necesidades inmediatas antes de recibir las indemnizaciones."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Ley 13/1996, de 30 de diciembre",
+    "Ley 32/1999, de 8 de octubre",
+    "Ley 7/1985, de 8 de noviembre",
+    "Decreto 25/1990, de 3 de mayo",
+    "Ley 30/1992"
+  ],
+  "derogations": [],
+  "main_obligations": "Los interesados deben presentar denuncia previa y certificación de la Delegación del Gobierno. Deben comunicar cualquier otra ayuda recibida de otras administraciones para evitar duplicidades.",
+  "effective_date": "2009-11-22",
+  "procedures": [
+    {
+      "name": "Concesión de ayudas, indemnizaciones y prestaciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El interesado debe presentar un escrito con sus datos, descripción de los hechos, daños sufridos y ayuda solicitada ante la Consejería de Presidencia.",
+          "start_date": "Desde la fecha del hecho hasta un año después de la resolución estatal o determinación de secuelas.",
+          "end_date": null,
+          "required_documentation": "Documentos justificativos, denuncia, certificación de la Delegación del Gobierno y datos de la aseguradora."
+        },
+        {
+          "step": 2,
+          "title": "Instrucción del expediente",
+          "description": "La Consejería competente tramita la solicitud siguiendo principios de celeridad y trato favorable.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "El Consejero competente dicta la resolución. Si supera los 30.000€, requiere autorización del Consejo de Gobierno.",
+          "start_date": null,
+          "end_date": "Plazo máximo de 3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Ayudas extraordinarias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de ayuda extraordinaria",
+          "description": "Solicitud para situaciones de necesidad personal o familiar no cubiertas por las ayudas ordinarias.",
+          "start_date": "Desde la fecha del hecho",
+          "end_date": "6 meses a partir del hecho o resolución que lo motiva",
+          "required_documentation": "Documentación que acredite la necesidad económica o personal."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

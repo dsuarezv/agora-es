@@ -1,0 +1,114 @@
+{
+  "identifier": "BOE-A-2001-11814",
+  "title": "Ley 2/2001, de 31 de mayo, de Turismo de La Rioja",
+  "visible_title": "Ley de Turismo de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "2/2001",
+  "publication_date": "2001-06-20",
+  "enactment_date": "2001-05-31",
+  "last_updated": "2024-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2001/05/31/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para organizar, promover y planificar la actividad turística en La Rioja. Busca garantizar la calidad de los servicios, proteger los derechos de los turistas y asegurar un desarrollo sostenible que respete el patrimonio cultural y natural de la región. Además, regula la clasificación de establecimientos, la inspección y el régimen de sanciones para asegurar el cumplimiento de la normativa.",
+  "citizen_impact": "Los turistas en La Rioja ganan derechos específicos, como recibir información veraz, obtener facturas y disponer de mecanismos de queja. También se les obliga a respetar las normas de los establecimientos y el entorno natural.",
+  "professional_impact": "Las empresas turísticas deben realizar una comunicación previa de inicio de actividad y registrarse obligatoriamente. Se imponen requisitos de clasificación para hoteles, apartamentos y otros servicios, además de la obligación de contratar seguros de responsabilidad civil en actividades de riesgo.",
+  "keywords": [
+    "turismo",
+    "La Rioja",
+    "alojamiento",
+    "restauración",
+    "agencias de viajes",
+    "inspección turística",
+    "desarrollo sostenible",
+    "derechos del consumidor"
+  ],
+  "key_points": [
+    "Obligatoriedad de comunicar el inicio de actividad turística a la Consejería competente.",
+    "Creación de un Registro de Proveedores de Servicios Turísticos de carácter público y gratuito.",
+    "Clasificación obligatoria de establecimientos (hoteles, hostales, pensiones, apartamentos, etc.).",
+    "Derecho de los turistas a recibir información precisa y documentos que acrediten su contratación.",
+    "Obligación de los proveedores de contar con seguros de responsabilidad civil en actividades de riesgo.",
+    "Establecimiento de un Plan General de Turismo de La Rioja para la planificación regional.",
+    "Régimen sancionador con multas que pueden alcanzar los 150.000 euros en infracciones muy graves.",
+    "Facultad de la Inspección de Turismo para acceder a establecimientos en cualquier momento."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de La Rioja",
+    "Ley 5/1990, de 29 de junio, de Inspección, Infracciones y Sanciones en materia de Turismo",
+    "Ley 7/1985, de 2 de junio, Reguladora de las Bases de Régimen Local",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas"
+  ],
+  "derogations": [
+    "Ley 5/1990, de 29 de junio, de Inspección, Infracciones y Sanciones en materia de Turismo",
+    "Decreto 11/1994, de 24 de febrero, sobre regulación y ordenación de los alojamientos turísticos en posadas en la Comunidad Autónoma de La Rioja"
+  ],
+  "main_obligations": "Los proveedores deben comunicar el inicio de actividad, inscribirse en el registro y cumplir con la clasificación asignada. Se prohíbe la publicidad de alojamientos sin clasificación y se exige el pago de servicios y el respeto al medio ambiente.",
+  "effective_date": "2001-07-10",
+  "procedures": [
+    {
+      "name": "Comunicación previa de inicio de actividad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de documentación",
+          "description": "El proveedor debe comunicar el inicio de su actividad a la Consejería aportando la documentación reglamentaria y urbanística.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación exigida reglamentariamente y acreditación de cumplimiento de normas sectoriales y urbanísticas."
+        },
+        {
+          "step": 2,
+          "title": "Inspección y clasificación",
+          "description": "La Administración realiza una inspección para verificar el cumplimiento y determinar la clasificación del establecimiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Inscripción en el Registro",
+          "description": "Una vez concedida la clasificación, se procede a la inscripción en el Registro de Proveedores de Servicios Turísticos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Detección de infracción",
+          "description": "A través de la inspección o denuncia, se identifica un posible incumplimiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de inspección."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y subsanación",
+          "description": "Se inicia el expediente. En infracciones leves o graves, el responsable puede subsanar para archivar el proceso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "La autoridad competente dicta la sanción (multa, cierre, etc.) o el archivo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

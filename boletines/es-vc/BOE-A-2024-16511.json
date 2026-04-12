@@ -1,0 +1,91 @@
+{
+  "identifier": "BOE-A-2024-16511",
+  "title": "Ley 1/2024, de 27 de junio, por la que se regula la libertad educativa",
+  "visible_title": "Ley de libertad educativa",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "1/2024",
+  "publication_date": "2024-08-09",
+  "enactment_date": "2024-06-27",
+  "last_updated": "2024-06-28",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2024/06/27/1",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta ley sustituye el modelo de programa lingüístico único (PEPLI) por uno que permite a las familias elegir la lengua base (valenciano o castellano) de la enseñanza. El objetivo es devolver la capacidad de decisión a los padres y adaptar la educación a la realidad sociolingüística de cada zona, diferenciando entre territorios de predominio valenciano y castellano. Además, regula el derecho a realizar exámenes en la lengua elegida y garantiza la comunicación bilingüe en los centros.",
+  "citizen_impact": "Las familias en la Comunidad Valenciana ahora pueden elegir si quieren que la enseñanza de sus hijos tenga como lengua principal el castellano o el valenciano. También otorga el derecho a que los alumnos realicen sus exámenes en la lengua que prefieran (valenciano o castellano), evitando penalizaciones por el idioma vehicular.",
+  "professional_impact": "El profesorado debe acreditar un nivel C1 de valenciano para vehicular materias no lingüísticas y un B2 en lenguas extranjeras. Los centros educativos deberán cambiar sus planes de normalización por 'planes de uso de las lenguas' que garanticen la comunicación bilingüe y la documentación en ambos idiomas.",
+  "keywords": [
+    "libertad educativa",
+    "modelo lingüístico",
+    "valenciano",
+    "castellano",
+    "elección de lengua",
+    "educación plurilingüe",
+    "Comunitat Valenciana"
+  ],
+  "key_points": [
+    "Derecho de las familias a elegir la lengua base (valenciano o castellano) para la educación de sus hijos.",
+    "Diferenciación de modelos según la zona: predominio castellano o predominio valenciano.",
+    "En zonas de predominio castellano, la lectoescritura se iniciará en castellano.",
+    "Derecho de los alumnos a realizar exámenes y pruebas de evaluación en castellano o valenciano a su elección.",
+    "Obligación de los centros de ofrecer documentación y comunicaciones en formato bilingüe.",
+    "Requisito de nivel C1 de valenciano para docentes que vehiculen materias en dicho idioma.",
+    "Posibilidad de solicitar la exención de la evaluación y calificación de la asignatura de valenciano bajo ciertos supuestos.",
+    "Reconocimiento oficial de niveles de valenciano (A2 a C1) según los estudios realizados."
+  ],
+  "legal_references": [
+    "Ley Orgánica 5/1982, de 1 de julio, de Estatuto de Autonomía de la Comunitat Valenciana",
+    "Constitución Española",
+    "Ley Orgánica 2/2006, de 3 de mayo, de educación",
+    "Ley 4/1983, de 23 de noviembre, de uso y enseñanza del valenciano",
+    "Decreto 9/2017, de 27 de enero, del Consell",
+    "Ley 4/2018, de 21 de febrero, de la Generalitat"
+  ],
+  "derogations": [
+    "Ley 4/2018, de 21 de febrero, de la Generalitat, que regula el plurilingüismo",
+    "Artículos 12.1, 18.2, 25 y 27.1 del Decreto 61/2017",
+    "Orden 90/2013, de 6 de noviembre, de la Consejería de Educación, Cultura y Deporte"
+  ],
+  "main_obligations": "Los centros deben elaborar un 'plan de uso de las lenguas' que garantice el formato bilingüe en documentos y comunicaciones. Los docentes deben acreditar niveles lingüísticos específicos (C1 para valenciano en materias no lingüísticas) para vehicular la enseñanza.",
+  "effective_date": "2024-06-27",
+  "procedures": [
+    {
+      "name": "Elección de la lengua base",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de elección",
+          "descrption": "Los representantes legales presentan su preferencia de lengua base durante el proceso de admisión o mediante consulta específica.",
+          "start_date": "Anualmente al inicio de la escolarización",
+          "end_date": null,
+          "required_documentation": "Solicitud de admisión o formulario de consulta de preferencia lingüística"
+        },
+        {
+          "step": 2,
+          "title": "Determinación de unidades",
+          "descrption": "El centro calcula el número de aulas que funcionarán con cada lengua base según el porcentaje de solicitudes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Exención de evaluación de valenciano",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de exención",
+          "descrption": "Los padres o tutores solicitan la exención de calificación para alumnos en zonas de predominio castellano o por incorporación tardía.",
+          "start_date": "Al formalizar la inscripción o al producirse la incorporación",
+          "end_date": null,
+          "required_documentation": "Documentación que acredite residencia o incorporación al sistema"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

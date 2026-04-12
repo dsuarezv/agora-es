@@ -1,0 +1,123 @@
+{
+  "identifier": "BOE-A-2001-428",
+  "title": "Ley 7/2000, de 23 de noviembre, de Ordenación del Aprovechamiento de Pastos, Hierbas y Rastrojeras",
+  "visible_title": "Ley de Ordenación del Aprovechamiento de Pastos, Hierbas y Rastrojeras",
+  "rank": "ley",
+  "country": "es",
+  "department": "Junta de Comunidades de Castilla-La Mancha",
+  "official_number": "7/2000",
+  "publication_date": "2001-01-05",
+  "enactment_date": "2000-11-23",
+  "last_updated": "2020-07-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2000/11/23/7",
+  "official_journal": "Diario Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza la gestión de los recursos de pastos en Castilla-La Mancha, sustituyendo normativas obsoletas de la era franquista. Su objetivo es dar el control de la gestión de los pastos directamente a los usuarios mediante la creación de Comisiones Locales y Provinciales. Busca garantizar la rentabilidad de la ganadería extensiva y la protección del medio natural mediante una participación activa de agricultores y ganaderos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes.",
+  "professional_impact": "Los ganaderos y propietarios de tierras adquieren un papel decisivo al participar en la gestión de los pastos a través de comisiones paritarias. Esto les permite decidir sobre la fijación de precios, la delimitación de polígonos y la redacción de ordenanzas locales. No obstante, implica la obligación de cumplir estrictamente con la normativa de sanidad, identificación y registro animal para poder acceder a estos aprovechamientos.",
+  "keywords": [
+    "pastos",
+    "ganadería extensiva",
+    "Castilla-La Mancha",
+    "aprovechamiento de hierbas",
+    "Comisión Local de Pastos",
+    "ordenanzas de pastos",
+    "gestión agraria"
+  ],
+  "key_points": [
+    "Creación de Comisiones Locales de Pastos en todos los municipios para que propietarios y ganaderos gestionen sus propios recursos.",
+    "Las Comisiones Locales tienen potestad para redactar ordenanzas, fijar precios por hectárea y realizar subastas.",
+    "Se establece un orden de preferencia para la adjudicación de pastos: primero ganaderos del municipio, luego de municipios limítrofes y finalmente de otros municipios.",
+    "Es obligatorio cumplir con la normativa de identificación y sanidad animal para poder ser adjudicatario de pastos.",
+    "Se permite la agrupación de fincas para excluirlas del régimen común de aprovechamiento bajo ciertas condiciones.",
+    "Se crea la figura de la Comisión Provincial de Pastos para armonizar criterios y evitar diferencias excesivas entre municipios vecinos.",
+    "Las infracciones se clasifican en leves, graves y muy graves, con multas que pueden alcanzar los 6.010,12 euros.",
+    "El impago de los pastos conlleva la pérdida de la adjudicación y la prohibición de participar en las adjudicaciones del año siguiente."
+  ],
+  "legal_references": [
+    "Ley 9/1982, de 10 de agosto (Estatuto de Autonomía de Castilla-La Mancha)",
+    "Ley Orgánica 3/1997, de 3 de julio",
+    "Ley de 7 de octubre de 1938",
+    "Decreto 1256/1969, de 6 de junio (Reglamento de Pastos, Hierbas y Rastrojeras)",
+    "Ley 30/1992, de 26 de diciembre",
+    "Ley 9/1985, de 18 de diciembre (Tasas de la Comunidad Autónoma de Castilla-La Mancha)",
+    "Ley 230/1963, de 28 de diciembre (General Tributaria)",
+    "Real Decreto 1684/1990, de 20 de diciembre"
+  ],
+  "derogations": [
+    "Capítulo I del título III de la Ley 9/1985, de 18 de diciembre, de Tasas de la Comunidad Autónoma de Castilla-La Mancha"
+  ],
+  "main_obligations": "Los ganaderos deben mantener la identificación y registro animal actualizado y cumplir con las cuotas y pagos fijados por la Comisión Local. Se prohíbe el pastoreo en superficies no adjudicadas o excluidas, así como el uso de animales enfermos o sin identificación.",
+  "effective_date": "2001-01-25",
+  "procedures": [
+    {
+      "name": "Elaboración y aprobación de Ordenanzas de Pastos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de Ordenanza",
+          "descrption": "La Comisión Local de Pastos elabora la propuesta de la ordenanza.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Exposición pública",
+          "descrption": "La propuesta se expone en el tablón de anuncios del Ayuntamiento para alegaciones.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de alegaciones",
+          "descrption": "Se resuelven las alegaciones presentadas durante la exposición.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Informe de la Comisión Provincial",
+          "descrption": "La propuesta se eleva a la Comisión Provincial para su informe.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Aprobación definitiva",
+          "descrption": "El Delegado provincial aprueba la ordenanza mediante resolución.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Segregación de fincas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de segregación",
+          "descrption": "El interesado presenta la solicitud especificando los motivos.",
+          "start_date": null,
+          "end_date": "3 meses antes de la fecha deseada",
+          "required_documentation": "Especificación de razones de la segregación"
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "descrption": "La Delegación Provincial resuelve la petición.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

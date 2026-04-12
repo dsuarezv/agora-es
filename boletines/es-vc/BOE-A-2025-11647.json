@@ -1,0 +1,200 @@
+{
+  "identifier": "BOE-A-2025-11647",
+  "title": "Ley 3/2025, de 22 de mayo, de protección y ordenación de la costa valenciana",
+  "visible_title": "Ley de protección y ordenación de la costa valenciana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "3/2025",
+  "publication_date": "2025-06-10",
+  "enactment_date": "2025-05-22",
+  "last_updated": "2025-05-26",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2025/05/22/3",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley otorga a la Generalitat Valenciana el control total sobre la gestión de su litoral, dividiéndolo en zonas según su valor ambiental o urbanístico. El objetivo es frenar la degradación de la costa y adaptarse al cambio climático mediante una planificación más estricta. La norma introduce controles rigurosos sobre nuevas construcciones, protege los núcleos costeros tradicionales y endurece drásticamente las sanciones por daños al ecosistema. En definitiva, busca un equilibrio entre el uso turístico/urbano y la preservación de la naturaleza.",
+  "citizen_impact": "Los ciudadanos verán un litoral más protegido pero con mayores restricciones en la construcción de nuevas viviendas o negocios cerca de la costa. Se protegen los pueblos costeros tradicionales de la desaparición y se garantiza un mejor entorno natural. Los propietarios de negocios en zonas de protección deberán comunicar sus actividades en un plazo de 60 días.",
+  "professional_impact": "Empresas constructoras y promotores enfrentan mayores cargas: deben realizar estudios de impacto económico/social y de sombreado para evitar 'pantallas' arquitectónicas. Existe una responsabilidad solidaria entre constructores, promotores y directores de obra ante infracciones. Las suministradoras de servicios ahora tienen la obligación de verificar que cualquier construcción sea legal antes de dar el alta al servicio.",
+  "keywords": [
+    "costa valenciana",
+    "protección litoral",
+    "ordenación del territorio",
+    "medio ambiente",
+    "urbanismo costero",
+    "sanciones ambientales",
+    "Posidonia oceánica"
+  ],
+  "key_points": [
+    "Zonificación del litoral en tres áreas: Protección Ambiental, Mejora Ambiental/Paisajística y Reordenación.",
+    "Creación de un Catálogo de playas clasificadas por su naturaleza (naturales o urbanas) y categoría.",
+    "Protección especial para núcleos urbanos de valor etnológico para evitar su desaparición.",
+    "Obligatoriedad de estudios de impacto económico, social y de sombreado para nuevos proyectos.",
+    "Derechos de tanteo y retracto para la Administración en zonas de protección y mejora.",
+    "Multas de hasta 500.000 € por daños graves al ecosistema o la resiliencia costera.",
+    "Posibilidad de reducir la multa hasta un 95% si se restaura la zona antes de la resolución.",
+    "Prohibición estricta de fondear embarcaciones sobre praderas de Posidonia oceánica.",
+    "Responsabilidad solidaria de constructores, promotores y directores de obra en infracciones.",
+    "Obligación de los ayuntamientos de identificar terrenos urbanizables a menos de 200m de la ribera en 3 años."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 132.2)",
+    "Estatuto de Auto autonomía de la Comunitat Valenciana (art. 148.1.3.ª, art. 45, art. 49.1.9.ª)",
+    "Ley 22/1988, de 28 de julio, de Costas",
+    "Sentencia del Tribunal Constitucional 149/1991",
+    "Sentencia del Tribunal Constitucional 18/2022",
+    "Sentencia del Tribunal Constitucional 68/2024",
+    "Sentencia del Tribunal Constitucional 36/1994",
+    "Sentencia del Tribunal Constitucional 31/2010",
+    "Decreto 58/2018, de 4 de mayo, del Consell (PATIVEL)",
+    "Ley 1/2022, de 13 de abril, de Transparencia y Buen Gobierno de la Comunitat Valenciana",
+    "Decreto legislativo 1/2021, de 20 de mayo (LOTUP)",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Ley de Costas estatal",
+    "Ley 40/2015, de 10 de julio, de régimen jurídico del sector público",
+    "Ley 42/2007, de 8 de diciembre, del Patrimonio Natural y de la Biodiversidad",
+    "Decreto legislativo 1/2021, de 28 de junio, del Consell (LOTRUP)",
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Ley 4/1998, de 15 de mayo, del Patrimonio cultural valenciano"
+  ],
+  "derogations": [
+    "Normativa relativa a la ordenación del litoral vigente hasta la fecha (regulada anteriormente por normas reglamentarias como el PATIVEL)",
+    "Normas de igual o inferior rango que se opongan a la presente Ley"
+  ],
+  "main_obligations": "Los promotores deben presentar estudios de impacto económico/social y de sombreado según corresponda. Los negocios en zonas de tanteo/retrato deben comunicarse en 60 días naturales. Los ayuntamientos tienen 3 años para identificar terrenos urbanizables a menos de 200m de la ribera.",
+  "effective_date": "2025-06-10",
+  "procedures": [
+    {
+      "name": "Otorgamiento de autorizaciones y concesiones en el dominio público marítimo-terrestre",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y tramitación",
+          "description": "Presentación de la solicitud para el uso del dominio público.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto y evaluación ambiental según proceda"
+        },
+        {
+          "step": 2,
+          "title": "Resolución administrativa",
+          "description": "Plazo máximo para resolver y notificar la autorización.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Silencio administrativo",
+          "description": "Si no hay resolución en el plazo, se entenderá desestimada (silencio negativo).",
+          "start_date": "6 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Ejercicio del derecho de tanteo y retracto",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación del negocio",
+          "description": "El transmitente o adquiriente debe comunicar la transmisión onerosa.",
+          "start_date": "Desde la escritura pública",
+          "end_date": "60 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Ejercicio del derecho de tanteo",
+          "description": "Plazo para que la Generalitat ejerza su derecho de compra preferente.",
+          "start_date": "Desde la comunicación",
+          "end_date": "60 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ejercicio del derecho de retracto",
+          "description": "Plazo para que la Generalitat intervenga en la compra ya realizada.",
+          "start_date": "Desde la comunicación",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador de Costas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inspección y documentación",
+          "description": "El personal de inspección constata hechos y levanta acta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Actas de inspección e informes"
+        },
+        {
+          "step": 2,
+          "title": "Notificación de resolución",
+          "description": "Plazo máximo para comunicar la decisión final del expediente.",
+          "start_date": null,
+          "end_date": "12 meses desde la incoación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Identificación de terrenos urbanos (Ayuntamientos)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Identificación de terrenos",
+          "description": "Los ayuntamientos deben identificar terrenos a <200m de la ribera que cumplieran requisitos de urbanización en 1988.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "3 años",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comunicación a la Consejería",
+          "description": "Envío de la relación de terrenos identificados a la autoridad competente.",
+          "start_date": "Tras la identificación",
+          "end_date": "Sin demora",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inventario de terrenos degradados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del inventario",
+          "description": "Creación de un inventario de terrenos que han perdido características naturales.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "18 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Sometimiento del inventario a consulta ciudadana.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Actualización periódica",
+          "description": "Obligación de revisar el inventario.",
+          "start_date": null,
+          "end_date": "Cada 6 años",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

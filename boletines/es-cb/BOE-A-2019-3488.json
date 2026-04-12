@@ -1,0 +1,114 @@
+{
+  "identifier": "BOE-A-2019-3488",
+  "title": "Ley 1/2019, de 14 de febrero, de creación del Consejo de la Juventud de Cantabria",
+  "visible_title": "Ley de creación del Consejo de la Juventud de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "1/2019",
+  "publication_date": "2019-03-12",
+  "enactment_date": "2019-02-14",
+  "last_updated": "2023-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2019/02/14/1",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "journal_issue": null,
+  "summary": "Esta ley restablece el Consejo de la Juventud de Cantabria, un organismo que había sido suprimido en 2012. Su objetivo es crear un canal oficial de participación para que las asociaciones juveniles puedan influir directamente en las políticas públicas de la región. El Consejo actúa como interlocutor entre la juventud organizada y el Gobierno de Cantabria en temas de empleo, educación y cultura.",
+  "citizen_impact": "No tiene un impacto directo en la vida cotidiana de los ciudadanos que no formen parte del movimiento asociativo. Sin embargo, mejora la calidad de las políticas juveniles al asegurar que las demandas de los jóvenes sean escuchadas por la administración.",
+  "professional_impact": "Afecta principalmente a directivos de asociaciones juveniles y entidades prestadoras de servicios, quienes ahora tienen un marco legal para integrarse en este órgano de representación. También impacta a funcionarios de la Consejería de Juventud, que deberán coordinarse con este nuevo ente público.",
+  "keywords": [
+    "juventud",
+    "participación ciudadana",
+    "asociacionismo juvenil",
+    "Cantabria",
+    "políticas públicas",
+    "consejo de juventud"
+  ],
+  "key_points": [
+    "Se recupera el Consejo de la Juventud de Cantabria como entidad de derecho público con personalidad propia.",
+    "Las asociaciones juveniles con al menos 30 socios (o 15 en zonas rurales) pueden ser miembros de pleno derecho.",
+    "Se establece un sistema de representación proporcional en la Asamblea General según el número de socios o servicios prestados.",
+    "El Consejo tiene capacidad para solicitar información a la Administración y ser consultado antes de aprobar normas que afecten a la juventud.",
+    "Se permite la creación de Consejos Territoriales de Juventud en municipios o comarcas.",
+    "El Consejo cuenta con autonomía para gestionar su propio presupuesto y personal bajo derecho privado."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 48)",
+    "Estatuto de Autonomía para Cantabria (artículo 24.22)",
+    "Ley de Cantabria 2/2012",
+    "Ley de Cantabria 3/1985",
+    "Ley de Cantabria 4/2001",
+    "Real Decreto 2416/1982",
+    "Ley 40/2015 de Régimen Jurídico del Sector Público",
+    "Ley 9/2017 de Contratos del Sector Público",
+    "Ley 38/2003 General de Subvenciones",
+    "Ley de Cantabria 1/2018 de Transparencia"
+  ],
+  "derogations": [
+    "Disposición adicional decimoséxta de la Ley de Cantabria 2/2012"
+  ],
+  "main_obligations": "Las entidades que quieran ser miembros deben estar inscritas en el Registro de Asociaciones Juveniles de Cantabria y cumplir con requisitos de número de socios y solvencia tributaria/seguridad social. El Consejo debe informar anualmente a la Dirección General competente sobre su presupuesto y cuentas.",
+  "effective_date": "2019-03-13",
+  "procedures": [
+    {
+      "name": "Constitución de la Comisión Gestora (Transitoriedad)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inscripción de entidades para la Comisión Gestora",
+          "description": "Plazo para que las asociaciones interesadas se inscriban para formar la comisión provisional.",
+          "start_date": "Tras la publicación del anuncio en el BOC",
+          "end_date": "15 días hábiles",
+          "required_documentation": "Acreditación de requisitos del art. 4.1 y estar al corriente con Hacienda y Seguridad Social"
+        },
+        {
+          "step": 2,
+          "title": "Selección de la Comisión Gestora",
+          "description": "La Consejería selecciona 5 entidades con mayor representatividad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acceso como miembro de pleno derecho (Primera Asamblea)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de inscripción de miembros",
+          "description": "Plazo para que las entidades soliciten su incorporación al Consejo.",
+          "start_date": "Tras la publicación del anuncio en el BOC",
+          "end_date": "45 días hábiles",
+          "required_documentation": "Certificados de socios, sedes, declaración de obligaciones tributarias, memoria de actividades y certificado de registro"
+        },
+        {
+          "step": 2,
+          "title": "Comprobación y lista provisional",
+          "description": "La Comisión Gestora verifica requisitos y publica lista de admitidos/excluidos.",
+          "start_date": "Tras el fin del plazo de inscripción",
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Alegaciones",
+          "description": "Plazo para que las entidades presenten alegaciones contra la lista.",
+          "start_date": "Tras la publicación de la lista provisional",
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Lista definitiva y convocatoria de Asamblea",
+          "description": "Publicación de la lista final y fecha de la primera Asamblea General.",
+          "start_date": "Tras resolver alegaciones",
+          "end_date": "La Asamblea se celebra al menos 2 meses después de la lista definitiva",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

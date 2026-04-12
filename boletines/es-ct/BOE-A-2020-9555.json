@@ -1,0 +1,72 @@
+{
+  "identifier": "BOE-A-2020-9555",
+  "title": "Decreto-ley 27/2020, de 13 de julio, de modificación de la Ley 18/2009, de 22 de octubre, de Salud Pública y de adopción de medidas urgentes para hacer frente al riesgo de brotes de la COVID-19",
+  "visible_title": "Modificación de la Ley de Salud Pública para la gestión de brotes de COVID-19",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "27/2020",
+  "publication_date": "2020-08-12",
+  "enactment_date": "2020-07-13",
+  "last_updated": "2022-05-18",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2020/07/13/27",
+  "official_journal": "DOGC (implícito por contexto de Generalitat, aunque el metadato dice BOE)",
+  "journal_issue": null,
+  "summary": "Esta norma modifica la Ley de Salud Pública de Cataluña para dotar a las autoridades sanitarias de herramientas legales rápidas ante una pandemia. Establece un sistema de niveles de alerta basado en indicadores epidemiológicos para justificar medidas de control. Su objetivo es permitir la adopción de restricciones de derechos sin necesidad de declarar un estado de alarma, siempre que se basen en criterios técnicos y objetivos.",
+  "citizen_impact": "Permite que la administración limite derechos como la circulación o la reunión mediante restricciones de aforo, horarios o confinamientos según el nivel de riesgo. Define qué desplazamientos se consideran 'esenciales' (como ir al súper, trabajar o cuidar dependientes) para evitar la arbitrariedad.",
+  "professional_impact": "Las empresas y comercios deben adaptarse a nuevas reglas de aforo, higiene y registro de asistentes según la situación epidemiológica. Los profesionales de la salud y servicios esenciales (seguridad, banca, suministros) quedan blindados como actividades imprescindibles para garantizar la continuidad de la vida social.",
+  "keywords": [
+    "COVID-19",
+    "Salud Pública",
+    "Medidas sanitarias",
+    "Cataluña",
+    "Restricciones de circulación",
+    "Niveles de alerta",
+    "Epidemia"
+  ],
+  "key_points": [
+    "Creación de un sistema de niveles de alerta basado en indicadores de salud y asistencia sanitaria.",
+    "Facultad para que la Consejería de Salud actualice medidas mediante resolución según la evolución del virus.",
+    "Definición de servicios esenciales para garantizar la actividad económica y social mínima.",
+    "Posibilidad de imponer restricciones de movilidad y reuniones basadas en criterios técnicos objetivos.",
+    "Obligación de registro de asistentes en reuniones y espacios públicos bajo ciertas condiciones.",
+    "Regulación específica de actividades como la restauración, el deporte y el comercio."
+  ],
+  "legal_references": [
+    "Ley 18/2009, de 22 de octubre, de Salud Pública",
+    "Constitución Española (art. 15, 17, 19, 21, 35, 38, 43, 116)",
+    "Ley Orgánica 4/1981, de 1 de junio, de los estados de alarma, excepción y asedio",
+    "Ley Orgánica 3/1986, de 14 de abril, de Medidas Especiales en Materia de Salud Pública",
+    "Ley 13/2008, de 5 de noviembre, de la presidencia de la Generalitat y del Gobierno",
+    "Estatuto de Autonomía de Cataluña"
+  ],
+  "derogations": [],
+  "main_obligations": "Los ciudadanos deben cumplir con las medidas de aislamiento, cuarentena y restricciones de movilidad dictadas. Los establecimientos deben implementar protocolos de higiene, control de aforo y registro de asistentes cuando la normativa lo requiera.",
+  "effective_date": "2020-07-13",
+  "procedures": [
+    {
+      "name": "Actualización de medidas sanitarias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Evaluación de indicadores",
+          "description": "Seguimiento de la situación epidemiológica y de asistencia sanitaria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informes de indicadores de situación epidemiológica y salud pública"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la Consejería",
+          "description": "Emisión de resolución para modificar o actualizar medidas según la evolución de la pandemia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

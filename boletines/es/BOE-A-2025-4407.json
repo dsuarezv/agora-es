@@ -1,0 +1,82 @@
+{
+  "identifier": "BOE-A-2025-4407",
+  "title": "Orden INT/209/2025, de 27 de febrero, por la que se regula la duración, el contenido y los requisitos de los cursos de conducción segura y eficiente cuya realización conlleve la recuperación o bonificación de puntos, así como los mecanismos de control y certificación",
+  "visible_title": "Regulación de los cursos de conducción segura y eficiente para la recuperación de puntos del permiso de conducir",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio del Interior",
+  "official_number": "INT/209/2025",
+  "publication_date": "2025-03-06",
+  "enactment_date": "2025-02-27",
+  "last_updated": "2025-03-06",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2025/02/27/int209",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "56",
+  "summary": "Esta norma establece las reglas para que los cursos de conducción segura y eficiente permitan recuperar o sumar puntos en el permiso de conducir. Define la duración mínima de seis horas (teoría y práctica), los contenidos obligatorios y los requisitos de seguridad para los vehículos y centros de formación. El objetivo es mejorar la seguridad vial y reducir el consumo de combustible mediante la formación continua de conductores de turismos y motocicletas.",
+  "citizen_impact": "Los conductores que tengan saldo positivo de puntos pueden realizar estos cursos para obtener 2 puntos adicionales (hasta un máximo de 15). Esto permite a los ciudadanos mejorar su historial de conducción y prevenir la pérdida del permiso de forma proactiva.",
+  "professional_impact": "Las escuelas de conducción y entidades certificadoras deben cumplir con requisitos estrictos de acreditación (ENAAC) y protocolos de comunicación con la DGT. Se imponen obligaciones de control de asistencia, uso de intercomunicadores en motos y estándares de seguridad en los circuitos de formación.",
+  "keywords": [
+    "permiso de conducir por puntos",
+    "conducción segura",
+    "conducción eficiente",
+    "seguridad vial",
+    "recuperación de puntos",
+    "formación de conductores",
+    "DGT"
+  ],
+  "key_points": [
+    "Bonificación de 2 puntos por curso superado, con un límite máximo de 15 puntos.",
+    "Frecuencia máxima de un curso de cada tipo (turismo o moto) cada dos años.",
+    "Duración mínima obligatoria de 6 horas: 1h 45min de teoría y 4h 15min de práctica.",
+    "Los cursos para turismos y motocicletas tienen contenidos y maniobras específicas reguladas.",
+    "Es obligatorio realizar la formación práctica en circuitos cerrados vallados para garantizar la seguridad.",
+    "En cursos de motocicleta en vía abierta, es obligatorio el uso de intercomunicadores y chalecos reflectantes identificativos.",
+    "Los centros de formación deben estar certificados por un organismo acreditado por la ENAC."
+  ],
+  "legal_references": [
+    "Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial (Real Decreto Legislativo 6/2015)",
+    "Ley 18/2021, de 20 de diciembre",
+    "Ley 39/2015, de 1 de octubre",
+    "Ley Orgánica 3/1980, de 22 de abril",
+    "Reglamento General de Conductores"
+  ],
+  "derogations": [
+    "Cualquier disposición de igual o inferior rango que se oponga a la presente orden."
+  ],
+  "main_obligations": "Los responsables de los cursos deben comunicar a la DGT la lista de alumnos que han superado la formación en un plazo máximo de 24 horas. Los centros deben asegurar que los vehículos tengan la ITV y seguro en vigor, y que los alumnos cumplan con el equipo de protección reglamentario.",
+  "effective_date": "2025-03-26",
+  "procedures": [
+    {
+      "name": "Alta de cursos en la DGT",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Obtención de certificación",
+          "description": "El centro debe obtener una certificación de un organismo acreditado por la ENAC según la norma UNE-EN/ISO/IEC 17065.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificación emitida por organismo acreditado"
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de alta",
+          "description": "Remisión electrónica de la solicitud de alta del curso certificado a la DGT.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud electrónica y certificación"
+        },
+        {
+          "step": 3,
+          "title": "Comunicación de ediciones",
+          "description": "Comunicar las fechas y horarios de cada edición con al menos 15 días de antelación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos de organización y reparto de alumnado"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

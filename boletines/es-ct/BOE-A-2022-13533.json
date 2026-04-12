@@ -1,0 +1,76 @@
+{
+  "identifier": "BOE-A-2022-13533",
+  "title": "Decreto-ley 9/2022, de 5 de julio, de medidas urgentes en materia de alquiler de vehículos con conductor",
+  "visible_title": "Medidas urgentes en materia de alquiler de vehículos con conductor",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "9/2022",
+  "publication_date": "2022-08-11",
+  "enactment_date": "2022-07-05",
+  "last_updated": "2023-03-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2022/07/05/9",
+  "official_journal": "DOGC / BOE",
+  "journal_issue": null,
+  "summary": "Esta norma regula la actividad de alquiler de vehículos con conductor (VTC) en Cataluña para evitar un vacío legal tras la expiración de los plazos de transición estatales. Crea una nueva modalidad de autorización de ámbito estrictamente urbano gestionada por ayuntamientos y establece condiciones estrictas para su obtención. Busca garantizar la continuidad del servicio urbano asegurando que los vehículos cumplan con estándares ambientales y de profesionalidad.",
+  "citizen_impact": "Los usuarios de servicios tipo Uber o Cabify en entornos urbanos de Cataluña verán garantizada la continuidad del servicio. Se establece que los viajes deben ser siempre precontratados, con un tiempo mínimo de 15 minutos entre la solicitud y el inicio del viaje, para evitar la captación de clientes en la calle.",
+  "professional_impact": "Las empresas de VTC deben adaptarse a nuevos requisitos: poseer una autorización estatal previa, haber realizado más de 100 servicios el último año y utilizar vehículos con etiqueta 0 o ECO. Los conductores deben tener al menos dos años de antigüedad con el permiso B. Además, se prohíbe el uso de geolocalización para mostrar vehículos disponibles antes de la contratación.",
+  "keywords": [
+    "VTC",
+    "alquiler de vehículos con conductor",
+    "transporte urbano",
+    "Cataluña",
+    "transporte de viajeros",
+    "precontratación"
+  ],
+  "key_points": [
+    "Creación de la autorización VTC de ámbito estrictamente urbano gestionada por ayuntamientos.",
+    "Obligación de precontratación de servicios con un intervalo mínimo de 15 minutos.",
+    "Prohibición de circular por la vía pública buscando clientes o usando geolocalización para captación previa.",
+    "Exigencia de vehículos con etiqueta ambiental 0 o ECO (salvo excepciones de antigüedad).",
+    "Requisito de haber realizado más de 100 servicios en el último año para obtener la licencia urbana.",
+    "Las autorizaciones urbanas tendrán una vigencia inicial de 2 años, prorrogables por otros 2.",
+    "Prohibición de la captación de pasajeros mediante la visualización de vehículos disponibles en apps antes de contratar.",
+    "Los vehículos deben permanecer estacionados en garajes o parkings cuando no estén precontratados."
+  ],
+  "legal_references": [
+    "Estatuto de autonomía de Cataluña",
+    "Real Decreto-ley 13/2018",
+    "Ley 16/1987 de ordenación de los transportes terrestres",
+    "Decreto ley 5/2017",
+    "Decreto ley 4/2019",
+    "Ley 12/1987 de regulación del transporte de viajeros por carretera"
+  ],
+  "derogations": [
+    "Artículos 1, 4 y 5 del Decreto ley 4/2019, de 29 de enero",
+    "Disposiciones adicional primera y segunda del Decreto ley 4/2019, de 29 de enero"
+  ],
+  "main_obligations": "Los titulares deben precontratarlos servicios con 15 minutos de antelación y no pueden circular buscando clientes. Se exige el uso de vehículos con etiqueta 0 o ECO y la comunicación electrónica de cada servicio realizado a la Administración.",
+  "effective_date": "2022-08-12",
+  "procedures": [
+    {
+      "name": "Solicitud de autorizaciones de alquiler de vehículos con conductor de carácter urbano",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "descrption": "Los titulares de autorizaciones VTC estatales deben solicitar la autorización urbana ante la administración local.",
+          "start_date": "2022-09-01",
+          "end_date": "2022-09-30",
+          "required_documentation": "Documentación que acredite titularidad VTC estatal, antigüedad de vehículo, número de servicios realizados y etiqueta ambiental."
+        },
+        {
+          "step": 2,
+          "title": "Resolución administrativa",
+          "descrption": "La administración local debe resolver la solicitud.",
+          "start_date": "2022-10-01",
+          "end_date": "3 meses después de la solicitud",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

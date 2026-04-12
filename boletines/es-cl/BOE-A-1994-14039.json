@@ -1,0 +1,110 @@
+{
+  "identifier": "BOE-A-1994-14039",
+  "title": "Ley 6/1994, de 19 de mayo, de Sanidad Animal de Castilla y León",
+  "visible_title": "Ley de Sanidad Animal de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "6/1994",
+  "publication_date": "1994-06-18",
+  "enactment_date": "1994-05-19",
+  "last_updated": "2024-06-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/1994/05/19/6",
+  "official_journal": "BOCL",
+  "journal_issue": "105",
+  "summary": "Esta ley moderniza el marco jurídico de la sanidad animal en Castilla y León para garantizar la competitividad del sector ganadero y la seguridad alimentaria. Establece las bases para prevenir, controlar y erradicar enfermedades en animales de renta, compañía y fauna silvestre. Además, regula la protección de la salud humana y el medio ambiente frente a los riesgos derivados de la actividad pecuaria.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en lo relativo a la seguridad alimentaria y la protección de la salud pública derivada del consumo de productos animales.",
+  "professional_impact": "Afecta directamente a ganaderos, veterinarios y empresas del sector agroalimentario. Impone obligaciones de notificación de enfermedades, registro de explotaciones, control de movimientos de ganado y cumplimiento de medidas de aislamiento o sacrificio obligatorio en caso de brotes.",
+  "keywords": [
+    "sanidad animal",
+    "ganadería",
+    "epizootias",
+    "veterinaria",
+    "Castilla y León",
+    "control epidemiológico",
+    "sacrificio obligatorio"
+  ],
+  "key_points": [
+    "Extensión de la ley a animales de renta, de compañía y fauna silvestre.",
+    "Obligatoriedad de notificar cualquier sospecha de enfermedad infectocontagiosa o parasitaria.",
+    "Creación del Registro de Explotaciones Ganaderas.",
+    "Posibilidad de ordenar el sacrificio obligatorio de animales y la indemnización correspondiente.",
+    "Regulación de la movilidad de animales mediante documentación sanitaria obligatoria.",
+    "Establecimiento de campañas de saneamiento ganadero y programas especiales de acción sanitaria.",
+    "Control de la gestión de cadáveres animales para evitar riesgos medioambientales.",
+    "Habilitación de veterinarios y agentes certificadores para funciones de inspección y control."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Castilla y León",
+    "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público"
+  ],
+  "derogations": [
+    "Disposiciones de igual o menor rango que se opongan al contenido de esta Ley"
+  ],
+  "main_obligations": "Los titulares de explotaciones deben vigilar la salud de sus animales, inscribirse en el Registro de Explotaciones Ganaderas y notificar de inmediato cualquier enfermedad sospechosa. El transporte de animales fuera del término municipal requiere documentación sanitaria que acredite su sanidad.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Notificación y actuación ante enfermedades",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación obligatoria",
+          "description": "El dueño o cualquier ciudadano con conocimiento de una enfermedad debe comunicarlo a los Servicios Veterinarios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Medios más rápidos a disposición del interesado"
+        },
+        {
+          "step": 2,
+          "title": "Inspección y diagnóstico",
+          "description": "Los servicios competentes realizan visitas para diagnosticar la enfermedad y determinar el foco.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Medidas de control (Inmovilización/Aislamiento)",
+          "description": "Se aplican periodos de cuarentena o aislamiento a animales y explotaciones según el proceso patológico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Declaración oficial",
+          "description": "El Consejero declara oficialmente la existencia de la enfermedad en el BOCL.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Sacrificio obligatorio",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Orden de sacrificio",
+          "description": "La autoridad competente ordena el sacrificio de animales afectados o sospechosos para erradicar la enfermedad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Ejecución y compensación",
+          "description": "Se realiza el sacrificio y se tramita la indemnización si el propietario cumple con sus obligaciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

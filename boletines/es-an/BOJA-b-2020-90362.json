@@ -1,0 +1,104 @@
+{
+  "identifier": "BOJA-b-2020-90362",
+  "title": "Decreto-ley 21/2020, de 4 de agosto, por el que se establece el régimen sancionador por el incumplimiento de las medidas de prevención y contención aplicables en Andalucía ante el COVID-19",
+  "visible_title": "Régimen sancionador por incumplimiento de medidas de prevención y contención ante el COVID-19 en Andalucía",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "21/2020",
+  "publication_date": "2020-08-04",
+  "enactment_date": "2020-08-04",
+  "last_updated": "2021-03-25",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOJA-b-2020-90362",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": "b-2020-90362",
+  "summary": "Esta norma crea un sistema de multas y sanciones específico para castigar a quienes incumplan las medidas sanitarias contra la COVID-19 en Andalucía. Su objetivo es dotar a la Administración de herramientas rápidas para sancionar conductas que pongan en riesgo la salud pública, como el no uso de mascarillas o el exceso de aforo. Busca garantizar que las restricciones impuestas sean efectivas mediante la capacidad de imponer sanciones económicas y cierres de locales.",
+  "citizen_impact": "Los ciudadanos pueden enfrentarse a multas económicas si no cumplen con el uso de mascarillas, el distanciamiento social o las restricciones de aforo. Existe la posibilidad de obtener descuentos significativos en las multas si se realiza el pago voluntario de forma rápida.",
+  "professional_impact": "Los dueños de negocios y organizadores de eventos son responsables de que sus clientes y empleados cumplan las normas, pudiendo enfrentar cierres de locales de hasta cinco años. Los inspectores de sanidad y agentes de la autoridad tienen nuevas facultades para vigilar y levantar actas de infracción directamente.",
+  "keywords": [
+    "COVID-19",
+    "Andalucía",
+    "sanciones sanitarias",
+    "multas",
+    "salud pública",
+    "medidas de prevención",
+    "uso de mascarilla",
+    "aforos"
+  ],
+  "key_points": [
+    "Las multas por no usar mascarilla son fijas en 100 euros.",
+    "Las sanciones se dividen en leves (hasta 3.000€), graves (hasta 60.000€) y muy graves (hasta 600.000€).",
+    "Se permite un descuento del 50% en multas leves si se paga en los primeros 15 días hábiles.",
+    "El incumplimiento de medidas que afecten a más de 100 personas se considera una infracción muy grave.",
+    "Los establecimientos pueden ser clausurados temporalmente hasta por cinco años en casos muy graves.",
+    "Los responsables de locales son solidarios en las sanciones si no previenen los incumplimientos de sus clientes o empleados.",
+    "Se establece un procedimiento abreviado para agilizar el cobro de multas leves mediante pago voluntario."
+  ],
+  "legal_references": [
+    "Real Decreto-ley 21/2020, de 9 de junio",
+    "Ley 33/2011, de 4 de octubre, General de Salud Pública",
+    "Estatuto de Autonomía para Andalucía",
+    "Ley 2/1998, de 15 de junio, de Salud de Andalucía",
+    "Ley 16/2011, de 23 de diciembre, de Salud Pública de Andalucía",
+    "Ley 40/2015, de 1 de julio, de Régimen Jurídico del Sector Público",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas"
+  ],
+  "derogations": [],
+  "main_obligations": "Obligación de usar mascarillas, respetar aforos, cumplir horarios de apertura y mantener medidas de higiene. Las multas varían desde 100€ por mascarilla hasta 600.000€ por infracciones muy graves que pongan en riesgo la salud de más de 100 personas.",
+  "effective_date": "2020-08-05",
+  "procedures": [
+    {
+      "name": "Procedimiento sancionador ordinario",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Levantamiento de acta o denuncia",
+          "description": "Los agentes de la autoridad registran la infracción en un documento oficial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de inspección o documento oficial"
+        },
+        {
+          "step": 2,
+          "title": "Acuerdo de inicio",
+          "description": "Se notifica al interesado el inicio del expediente sancionador.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "La autoridad competente dicta la sanción o el archivo del expediente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento abreviado especial (Pago voluntario)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de denuncia y oferta de pago",
+          "description": "Se comunica la infracción leve y la posibilidad de reducción del 50%.",
+          "start_date": null,
+          "end_date": "15 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Pago voluntario",
+          "description": "El denunciado paga la multa para finalizar el procedimiento sin alegaciones.",
+          "start_date": "Desde la notificación",
+          "end_date": "15 días hábiles",
+          "required_documentation": "Comprobante de pago"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

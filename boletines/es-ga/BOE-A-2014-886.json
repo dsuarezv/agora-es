@@ -1,0 +1,116 @@
+{
+  "identifier": "BOE-A-2014-886",
+  "title": "Ley 12/2013, de 9 de diciembre, de garantías de prestaciones sanitarias",
+  "visible_title": "Ley de garantías de prestaciones sanitarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "12/2013",
+  "publication_date": "2014-01-29",
+  "enactment_date": "2013-12-09",
+  "last_updated": "2015-01-07",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2013/12/09/12",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un sistema de garantías para los usuarios del sistema público de salud de Galicia. Su objetivo es asegurar que los pacientes reciban atención en plazos máximos definidos, puedan elegir sus profesionales y centros, y tengan derecho a una segunda opinión médica o a dejar instrucciones sobre su tratamiento futuro. Busca equilibrar la necesidad clínica del paciente con la gestión eficiente de los recursos sanitarios.",
+  "citizen_impact": "Los ciudadanos gallegos ganan derechos concretos: tienen garantizado que una cirugía se realice en máximo 60 días y consultas o pruebas en 45 días. Si el sistema no cumple estos plazos, el paciente puede optar a recibir la atención en otro centro público o concertado, o incluso en un centro privado con reembolso de gastos según tarifas establecidas. Además, se facilita la libre elección de médico y la gestión de voluntades anticipadas.",
+  "professional_impact": "El personal sanitario y la administración del SERGAS deben adaptarse a nuevos sistemas de registro y gestión de tiempos de espera. Se implementará un sistema de clasificación de pacientes por prioridades clínicas y sociales, y se establecen incentivos de gestión vinculados al cumplimiento de estos objetivos. Los profesionales deben asegurar la actualización de datos y el cumplimiento de los nuevos protocolos de información al paciente.",
+  "keywords": [
+    "sanidad Galicia",
+    "tiempos de espera",
+    "libre elección médico",
+    "segunda opinión médica",
+    "instrucciones previas",
+    "SERGAS",
+    "derechos del paciente"
+  ],
+  "key_points": [
+    "Plazo máximo de 60 días para intervenciones quirúrgicas programadas.",
+    "Plazo máximo de 45 días para consultas externas y pruebas diagnósticas.",
+    "Derecho a la libre elección de médico de familia, pediatra, enfermería y centro hospitalario.",
+    "Garantía de segunda opinión médica para enfermedades graves, raras o neoplásicas.",
+    "Derecho a formalizar instrucciones previas (voluntades anticipadas) ante notario, testigos o registro público.",
+    "Posibilidad de acudir a la sanidad privada con reembolso si se superan los plazos de espera establecidos.",
+    "Creación del Registro de Pacientes en Espera de Galicia para controlar los tiempos de respuesta.",
+    "Derecho a recibir información clara y personalizada sobre la situación de espera y los recursos disponibles."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 14/1986, de 25 de abril, general de sanidad",
+    "Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema nacional de salud",
+    "Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente",
+    "Ley 1/1989, de 2 de enero, de creación del Servicio Gallego de Salud",
+    "Ley 3/2001, de 28 de mayo, reguladora del consentimiento informado y de la historia clínica",
+    "Ley 8/2008, de 10 de julio, de salud de Galicia",
+    "Real Decreto 1030/2006",
+    "Real Decreto 605/2003"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": "Los pacientes deben mantener actualizados sus datos de contacto y justificar cualquier aplazamiento de cita. El SERGAS está obligado a registrar cada solicitud en el Registro de Pacientes en Espera y ofrecer alternativas (otros centros o privada) si se superan los plazos de 45 o 60 días.",
+  "effective_date": "2014-02-28",
+  "procedures": [
+    {
+      "name": "Garantía de tiempos máximos de acceso",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Indicación facultativa y registro",
+          "descrption": "El médico indica la atención necesaria y el paciente queda inscrito en el Registro de Pacientes en Espera.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Cómputo de plazo máximo",
+          "descrption": "Comienza el plazo de 60 días para cirugía o 45 días para consultas/pruebas desde la fecha de registro.",
+          "start_date": "Desde la fecha de entrada en el registro",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Oferta de asistencia",
+          "descrption": "Si se cumple el plazo, se realiza la atención. Si se supera, el SERGAS debe ofrecer otro centro o la opción de centro privado con reembolso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de segunda opinión médica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de la segunda opinión",
+          "descrption": "El paciente solicita el contraste de un diagnóstico o propuesta terapéutica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la solicitud",
+          "descrption": "La administración debe resolver la solicitud en un plazo de 10 días hábiles.",
+          "start_date": null,
+          "end_date": "10 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Emisión del informe",
+          "descrption": "Una vez resuelta la solicitud, el informe de la segunda opinión debe emitirse en 15 días hábiles.",
+          "start_date": "Desde la resolución",
+          "end_date": "15 días hábiles",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

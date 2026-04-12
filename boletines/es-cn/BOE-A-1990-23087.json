@@ -1,0 +1,108 @@
+{
+  "identifier": "BOE-A-1990-23087",
+  "title": "Ley 12/1990, de 26 de julio, de Aguas",
+  "visible_title": "Ley de Aguas de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "12/1990",
+  "publication_date": "1990-09-18",
+  "enactment_date": "1990-07-26",
+  "last_updated": "2021-12-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/1990/07/26/12",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un modelo de gestión de agua único para Canarias, donde la administración autonómica y los Consejos Insulares tienen el control total de los recursos. Su objetivo es garantizar que el agua llegue primero a las personas, priorizando el abastecimiento humano sobre la agricultura o el turismo. La norma permite proteger los acuíferos de la sobreexplotación y regula cómo se transporta y utiliza el agua en cada isla. Además, ofrece ayudas para infraestructuras de riego y permite medidas de emergencia en caso de sequía.",
+  "citizen_impact": "El ciudadano tiene garantizado el derecho al abastecimiento humano por encima de cualquier otro uso. En situaciones de sequía, el ciudadano debe estar preparado para posibles restricciones de consumo impuestas por la autoridad. Además, los propietarios de terrenos no pueden impedir el uso de aguas subterráneas si existe una concesión legal, y pueden recibir indemnizaciones si sus terrenos se usan para redes de transporte de agua.",
+  "professional_impact": "Empresas de turismo, industria y agricultura deben saber que su acceso al agua es secundario al consumo humano y puede verse limitado en zonas sobreexplotadas. Los constructores y empresas de servicios deben solicitar autorizaciones para depósitos de gran tamaño (>1.000 m³ o >5m de altura) y declarar obligatoriamente cualquier conducción de agua a terceros. Los agricultores pueden acceder a subvenciones de hasta el 75% para obras de regadío.",
+  "keywords": [
+    "gestión de aguas",
+    "Canarias",
+    "Consejos Insulares de Aguas",
+    "abastecimiento humano",
+    "derechos de agua",
+    "sequía",
+    "acuíferos",
+    "infraestructuras hidráulicas"
+  ],
+  "key_points": [
+    "Prioridad absoluta de uso: 1º Abastecimiento humano, 2º Regadíos, 3º Industria/Turismo, 4º Recreativo.",
+    "Gestión descentralizada: Los Consejos Insulares de Aguas gestionan de forma autónoma los recursos de cada isla.",
+    "Protección de acuíferos: Posibilidad de prohibir obras o vertidos en perímetros de protección para evitar la sobreexplotación.",
+    "Control de depósitos: Obligatoriedad de autorización administrativa para depósitos de más de 1.000 m³ o 5 metros de altura.",
+    "Declaración obligatoria: Cualquier conducción de agua que transporte a terceros debe ser declarada a la Administración.",
+    "Medidas de emergencia: En sequía, la autoridad puede imponer restricciones, trasvases forzosos o requisas de agua.",
+    "Ayudas económicas: Subvenciones de hasta el 50% para obras hidráulicas privadas y hasta el 75% para regadío.",
+    "Derecho de propiedad limitado: El dueño del suelo no puede impedir el alumbrado de aguas subterráneas con concesión legal.",
+    "Servicios públicos: La desalación y depuración requieren autorización del Consejo Insular.",
+    "Utilidad pública: Las redes de transporte de agua se consideran de utilidad pública, permitiendo la expropiación con indemnización."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Canarias",
+    "Ley Orgánica 11/1982, de 10 de agosto",
+    "Ley 29/1985, de 2 de agosto, de Aguas",
+    "Código Civil",
+    "Directiva 2000/60/CE",
+    "Ley 7/1984, de 11 de mayo, de la Hacienda Pública de la Comunidad Autónoma de Canarias",
+    "Ley 1/1987, de 13 de mayo, de los Planes Insulares de Ordenación",
+    "Ley de 27 de diciembre de 1956 (Heredamientos)",
+    "Convenio de Ramsar (1971)",
+    "Real Decreto 435/2004",
+    "Ley de Expropiación Forzosa",
+    "Reglamento de 14 de enero de 1965"
+  ],
+  "derogations": [
+    "Régimen tradicional de Derecho de Aguas canario",
+    "Ley 10/1987, de 5 de mayo, de Aguas"
+  ],
+  "main_obligations": "Es obligatorio declarar cualquier infraestructura de transporte de agua a terceros y solicitar autorización para depósitos de gran capacidad. Asimismo, se debe evitar el desperdicio de agua, prohibir vertidos no autorizados y facilitar el acceso de la Administración a las instalaciones.",
+  "effective_date": "1990-09-18",
+  "procedures": [
+    {
+      "name": "Autorización de depósitos de agua",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Verificación de dimensiones",
+          "description": "Comprobar si el depósito supera los 1.000 m³, los 5 metros de altura o si es para uso de terceros.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de autorización",
+          "description": "Tramitar la autorización administrativa ante el Consejo Insular correspondiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de ayudas para obras hidráulicas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de subvención/préstamo",
+          "description": "Tramitar la ayuda para obras privadas o de regadío.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aplicación del porcentaje de ayuda",
+          "description": "Obtención de hasta el 50% para obras privadas o hasta el 75% si la obra es de regadío.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

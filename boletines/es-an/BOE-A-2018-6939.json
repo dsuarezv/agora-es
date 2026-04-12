@@ -1,0 +1,121 @@
+{
+  "identifier": "BOE-A-2018-6939",
+  "title": "Ley 4/2018, de 8 de mayo, Andaluza del Voluntariado",
+  "visible_title": "Ley Andaluza del Voluntariado",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "4/2018",
+  "publication_date": "2018-05-25",
+  "enactment_date": "2018-05-08",
+  "last_updated": "2018-05-14",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2018/05/08/4",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y regula el voluntariado en Andalucía, adaptándolo a la era digital al reconocer formalmente las modalidades virtuales y online. Busca proteger a los colectivos más vulnerables mediante controles estrictos de antecedentes penales y garantiza la seguridad de los voluntarios con seguros obligatorios. Además, busca integrar el voluntariado en la vida profesional y académica, permitiendo la conciliación laboral y otorgando créditos universitarios. En definitiva, transforma el voluntariado de una actividad informal a un marco profesionalizado, seguro y con valor curricular.",
+  "citizen_impact": "Los ciudadanos pueden ahora realizar voluntariado online con plena validez legal. Se garantiza su seguridad mediante la exigencia de seguros de accidentes y responsabilidad civil, y se protege a menores y vulnerables mediante controles de antecedentes. Además, los voluntarios pueden solicitar la adaptación de su jornada laboral para realizar estas actividades y recibir un certificado oficial que acredite sus competencias y horas realizadas para su futuro laboral.",
+  "professional_impact": "Las empresas pueden promover programas de voluntariado siempre que no sustituyan puestos de trabajo y se canalicen vía entidades colaboradoras. Las universidades deben crear unidades para fomentar el voluntariado y otorgar créditos académicos. Las entidades de voluntariado asumen la carga de formalizar acuerdos por escrito, contratar seguros obligatorios y verificar antecedentes penales según el perfil de los beneficiarios.",
+  "keywords": [
+    "voluntariado",
+    "Andalucía",
+    "voluntariado virtual",
+    "conciliación laboral",
+    "créditos universitarios",
+    "seguros de voluntariado",
+    "antecedentes penales"
+  ],
+  "key_points": [
+    "Reconocimiento legal del voluntariado virtual, online y digital mediante el uso de TIC.",
+    "Obligatoriedad de acreditar la ausencia de antecedentes penales por delitos sexuales para trabajar con menores.",
+    "Exigencia de declaración responsable de no tener antecedentes por violencia de género, terrorismo o tráfico de personas para proteger a colectivos vulnerables.",
+    "Requisito de seguro de accidentes, enfermedad y responsabilidad civil para todas las personas voluntarias.",
+    "Posibilidad de que menores de 12 a 16 años realicen voluntariado con autorización de sus representantes legales.",
+    "Prohibición de que el voluntariado sea causa de despido o sustituya servicios públicos obligatorios.",
+    "Posibilidad de reducir o adaptar la jornada laboral para ejercer el voluntariado mediante acuerdo escrito.",
+    "Las universidades deben crear unidades específicas para promover el voluntariado y pueden otorgar créditos académicos por ello.",
+    "Obligatoriedad de expedir un certificado de voluntariado que detalle tareas, fechas y lugar de realización.",
+    "Reconocimiento de las competencias adquiridas por el voluntariado mediante la normativa de experiencia laboral.",
+    "Inclusión de la promoción del voluntariado en los contenidos de los planes educativos de la Junta de Andalucía."
+  ],
+  "legal_references": [
+    "Ley 7/2001, de 12 de julio, del Voluntariado",
+    "Estatuto de Autonomía para Andalucía (art. 61.2)",
+    "Ley 45/2015, de 14 de octubre, de Voluntariado",
+    "Ley Orgánica 1/1996, de 15 de enero, de Protección Jurídica del Menor",
+    "Ley Orgánica 26/2015, de 28 de junio",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Reglamento (UE) núm. 375/2014",
+    "Directiva (UE) 2016/801",
+    "Real Decreto 1110/2015",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal",
+    "Ley Orgánica 6/2001, de 21 de diciembre, de Universidades",
+    "Decreto Legislativo 1/2013, de 8 de enero, por el que se aprueba el Texto Refundido de la Ley Andaluza de Universidades",
+    "Decreto 279/2002, de 12 de julio"
+  ],
+  "derogations": [
+    "Ley 7/2001, de 12 de julio, del Voluntariado"
+  ],
+  "main_obligations": "Las entidades deben formalizar acuerdos de incorporación por escrito, contratar seguros de responsabilidad civil y accidentes, y verificar antecedentes penales. Las entidades de voluntariado tienen un plazo de un año para adaptar sus normas internas a esta ley.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Incorporación de una persona voluntaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Suscripción del acuerdo de incorporación",
+          "descrption": "Firma por escrito del documento que define derechos, deberes, funciones y régimen de gastos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificación negativa del Registro Central de Delincuentes Sexuales (si aplica) y declaración responsable de no antecedentes penales (si aplica)."
+        }
+      ]
+    },
+    {
+      "name": "Inscripción en el Registro General de Entidades de Voluntariado de Andalucía",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inscripción",
+          "descrption": "Trámite gratuito para que las entidades obtengan efectos declarativos y puedan recibir ayudas públicas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la constitución legal y carácter sin ánimo de lucro."
+        }
+      ]
+    },
+    {
+      "name": "Adecuación normativa y reglamentaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adecuación de entidades",
+          "description": "Las entidades de voluntariado deben ajustar su funcionamiento interno a la nueva ley.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": "1 año",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Adaptación de órganos de participación",
+          "description": "El Consejo de Gobierno debe adaptar el Decreto 279/2002.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": "1 año",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Desarrollo reglamentario",
+          "description": "El Consejo de Gobierno debe dictar las disposiciones necesarias para la ejecución de la ley.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

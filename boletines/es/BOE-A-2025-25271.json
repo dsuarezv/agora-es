@@ -1,0 +1,143 @@
+{
+  "identifier": "BOE-A-2025-25271",
+  "title": "Orden PJC/1424/2025, de 9 de diciembre, por la que se establecen los contenidos mínimos de los programas de formación sanitaria específica y las condiciones para la expedición y homologación del certificado de formación sanitaria de las personas trabajadoras del mar",
+  "visible_title": "Nuevos contenidos y requisitos para la formación sanitaria de trabajadores del mar",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes",
+  "official_number": "PJC/1424/2025",
+  "publication_date": "2025-12-11",
+  "enactment_date": "2025-12-09",
+  "last_updated": "2025-12-11",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2025/12/09/pjc1424",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "297",
+  "summary": "Esta norma moderniza la capacitación sanitaria obligatoria para tripulantes de buques que no son profesionales de la medicina. Introduce cinco tipos de certificados específicos según el rol y el tipo de embarcación, asegurando que el personal sepa responder ante emergencias reales. Para garantizar la calidad, se imponen estándares estrictos en la formación, limitando el número de alumnos y exigiendo instructores médicos o de enfermería. El objetivo es elevar la seguridad en el mar mediante una formación técnica, práctica y actualizada.",
+  "citizen_impact": "Sin impacto directo en ciudadanos, salvo para aquellos profesionales del sector marítimo que deban actualizar su formación.",
+  "professional_impact": "Afecta directamente a tripulantes (que deben obtener nuevos certificados), centros de formación (que deben homologarse y adaptar sus programas) y patrones/oficiales (que deben asegurar que su tripulación cumple con los niveles exigidos según el botiquín a bordo).",
+  "keywords": [
+    "formación sanitaria",
+    "trabajadores del mar",
+    "certificados marítimos",
+    "seguridad marítima",
+    "tripulantes",
+    "centros de formación homologados"
+  ],
+  "key_points": [
+    "Creación de 5 tipos de certificados: Inicial básica, Inicial, Avanzada, Inicial-máquinas e Inicial-radio.",
+    "Los certificados de puente y cubierta (inicial y avanzada) caducan cada 5 años y requieren actualización.",
+    "Los certificados de máquinas y radio no tienen fecha de caducidad.",
+    "El personal de máquinas y radio dispone de 1 año para convalidar sus certificados antiguos.",
+    "Los centros de formación deben ser homologados por el Instituto Social de la Marina.",
+    "Los cursos están limitados a un máximo de 16 alumnos para garantizar la calidad.",
+    "La formación avanzada incluye competencias críticas como atención al parto y uso de punción intraósea.",
+    "Se exige la práctica de consultas médicas por radio simuladas para la comunicación con centros médicos.",
+    "Los instructores deben ser Médicos o Enfermeros, con apoyo de Técnicos de Emergencias Sanitarias.",
+    "Los centros deben cumplir con estándares de infraestructura (2m² por alumno) y material sanitario específico."
+  ],
+  "legal_references": [
+    "Convenio sobre trabajo marítimo (Convenio CTM)",
+    "Convenio n.º 188 de la OIT",
+    "Convenio STCW",
+    "Convenio STCW-F",
+    "Directiva (UE) 2022/993",
+    "Real Decreto 504/2011",
+    "Real Decreto 1216/1997",
+    "Real Decreto 258/1999",
+    "Orden PRE/646/2004",
+    "Ley 39/2015",
+    "Real Decreto Legislativo 2/2011",
+    "Convenio STCW (Sección A-VI/4)",
+    "Normativa nacional e internacional de prevención de riesgos laborales"
+  ],
+  "derogations": [
+    "Orden PRE/646/2004, de 5 de marzo"
+  ],
+  "main_obligations": "Los patrones y oficiales deben asegurar que la tripulación posee los certificados adecuados según el tipo de botiquín (A, B o C). Los centros de formación tienen un plazo de 3 meses para adaptar sus programas a los nuevos anexos.",
+  "effective_date": "2025-12-11",
+  "procedures": [
+    {
+      "name": "Obtención y actualización de certificados de formación sanitaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Realización del curso",
+          "description": "Superar la formación teórica y práctica según el nivel requerido (básico, inicial o avanzado).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Expedición del certificado",
+          "description": "El Instituto Social de la Marina emite el certificado con la fecha de finalización del curso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Actualización (Reciclaje)",
+          "description": "Realizar curso de actualización antes de que expire la validez de 5 años (excepto en máquinas/radio).",
+          "start_date": "Dentro de los 6 meses anteriores al vencimiento para mantener la fecha de expedición original",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Homologación de centros de formación privados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de homologación",
+          "description": "Presentar solicitud ante el Instituto Social de la Marina para impartir los cursos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Concesión de la homologación",
+          "description": "La homologación tiene una validez de 5 años, prorrogables.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Certificación de formación sanitaria específica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Impartición del curso",
+          "description": "Realización de la formación teórica y práctica según los contenidos mínimos del Anexo I.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Evaluación de competencia",
+          "description": "Superación de las pruebas de evaluación conforme al Convenio STCW.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Expedición del acta y certificado",
+          "description": "Emisión del acta de curso y el certificado de superación por parte del centro homologado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de curso y certificado de superación con datos de homologación del centro."
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

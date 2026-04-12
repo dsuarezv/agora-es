@@ -1,0 +1,132 @@
+{
+  "identifier": "BOE-A-2016-11097",
+  "title": "Ley 4/2016, de 22 de julio, de Protección de los Animales de Compañía de la Comunidad de Madrid",
+  "visible_title": "Protección de los Animales de Compañía de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "4/2016",
+  "publication_date": "2016-11-25",
+  "enactment_date": "2016-07-22",
+  "last_updated": "2024-12-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2016/07/22/4",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo deben cuidarse y protegerse los animales de compañía en la Comunidad de Madrid, estableciendo estándares de bienestar y responsabilidad. Introduce prohibiciones estrictas para evitar el abandono y el sufrimiento, como la prohibición de vender animales en tiendas o de sacrificarlos por motivos económicos. Además, limita la tenencia de ciertas especies exóticas y peligrosas en hogares particulares. El objetivo es garantizar una convivencia segura y responsable entre humanos y animales.",
+  "citizen_impact": "Los dueños de mascotas deben cumplir con la identificación obligatoria por microchip y la esterilización de gatos antes de los 6 meses. En caso de pérdida del animal, existe la obligación de avisar en un plazo máximo de 48 horas. Además, los propietarios son legalmente responsables de cualquier daño que sus mascotas causen a terceros o a la propiedad.",
+  "professional_impact": "Los comercios de animales ya no pueden vender perros, gatos o hurones; esta actividad queda limitada exclusivamente a criadores registrados. Los centros de protección y clínicas veterinarias tienen prohibido el sacrificio de animales por falta de espacio, edad o comportamiento. Los propietarios de especies exóticas deben cumplir con las restricciones de peso y tipo de animal para evitar sanciones.",
+  "keywords": [
+    "bienestar animal",
+    "tenencia responsable",
+    "Comunidad de Madrid",
+    "protección de mascotas",
+    "esterilización gatos",
+    "prohibición venta tiendas"
+  ],
+  "key_points": [
+    "Prohibida la venta de perros, gatos y hurones en tiendas; solo mediante criadores registrados.",
+    "Obligatoria la esterilización de gatos antes de los seis meses (salvo reproductores registrados).",
+    "Prohibido el sacrificio de animales en centros de protección o clínicas por falta de espacio, edad, enfermedad o comportamiento.",
+    "Obligación de comunicar la pérdida o sustracción de un animal en un plazo máximo de 48 horas.",
+    "Los dueños son responsables de los daños causados por sus animales a personas, otros animales o bienes.",
+    "Prohibido dejar animales solos en vehículos bajo condiciones térmicas peligrosas.",
+    "Prohibida la tenencia privada de reptiles venenosos y reptiles adultos de más de 2 kg (excepto quelonios).",
+    "Prohibida la tenencia de cualquier tipo de primate.",
+    "Prohibida la tenencia de mamíferos silvestres que pesen más de 5 kg en estado adulto.",
+    "Prohibida la tenencia de animales vetados por normativa estatal o comunitaria."
+  ],
+  "legal_references": [
+    "Ley 1/1990, de 1 de febrero, de Protección de los Animales Domésticos",
+    "Ley 8/2003, de 24 de abril, de Sanidad Animal",
+    "Ley 32/2007, de 11 de noviembre, de protección de los animales en su explotación, transporte, experimentación y sacrificio",
+    "Ley 42/2007, de 13 de diciembre, de Patrimonio Natural y Biodiversidad",
+    "Ley 7/2023, de 28 de marzo, de protección de los derechos y el bienestar de los animales",
+    "Real Decreto 53/2013, de 1 de febrero",
+    "Real Decreto 1157/2021, de 28 de diciembre",
+    "Ley 10/1991, de 4 de abril, sobre potestades administrativas en materia de espectáculos taurinos",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Normativa sectorial estatal o comunitaria"
+  ],
+  "derogations": [
+    "Ley 1/1990, de 1 de febrero, de Protección de los Animales Domésticos"
+  ],
+  "main_obligations": "Los propietarios deben identificar a sus animales mediante microchip, esterilizar gatos menores de 6 meses y comunicar extravíos en 48 horas. Asimismo, deben garantizar condiciones de vida dignas y evitar el abandono o el riesgo térmico en vehículos.",
+  "effective_date": "2017-05-25",
+  "procedures": [
+    {
+      "name": "Recogida y gestión de animales extraviados o abandonados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recogida y alojamiento",
+          "description": "Los ayuntamientos recogen al animal y lo alojan en un centro de protección animal.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Notificación al titular",
+          "description": "El centro comunica la entrada del animal al Registro de Identificación en un máximo de 24 horas para localizar al dueño.",
+          "start_date": "24 horas desde la entrada",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Plazo de recuperación",
+          "description": "El titular tiene un plazo para recoger al animal tras la notificación.",
+          "start_date": "Desde la notificación",
+          "end_date": "5 días hábiles",
+          "required_documentation": "Licencia correspondiente (si es animal potencialmente peligroso)"
+        },
+        {
+          "step": 4,
+          "title": "Cambio de condición a abandonado",
+          "description": "Si no se recupera en el plazo, el animal pasa a ser considerado abandonado y puede ser dado en adopción.",
+          "start_date": "Tras el plazo de 5 días hábiles",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del procedimiento",
+          "description": "Inicio del proceso tras la detección de una infracción.",
+          "start_date": null,
+          "end_date": "18 meses (caducidad)",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "description": "Dictado de la sanción o archivo del expediente.",
+          "start_date": null,
+          "end_date": "18 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Entrada en vigor de la Ley 4/2016",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Periodo de carencia",
+          "description": "Transcurso de seis meses desde la publicación para que la ley sea aplicable.",
+          "start_date": "2016-11-25",
+          "end_date": "6 meses después de la publicación",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

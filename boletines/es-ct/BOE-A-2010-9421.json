@@ -1,0 +1,144 @@
+{
+  "identifier": "BOE-A-2010-9421",
+  "title": "Ley 13/2010, de 21 de mayo, del Plan estadístico de Cataluña 2011-2014",
+  "visible_title": "Plan estadístico de Cataluña 2011-2014",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "13/2010",
+  "publication_date": "2010-06-15",
+  "enactment_date": "2010-05-21",
+  "last_updated": "2016-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2010/05/21/13",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece la estrategia para la producción y gestión de datos estadísticos en Cataluña durante el periodo 2011-2014. Su objetivo principal es modernizar la administración mediante la digitalización y el uso de registros administrativos existentes para evitar pedir la misma información varias veces. Busca garantizar que cualquier persona o empresa pueda acceder de forma gratuita, rápida y transparente a datos sobre salud, economía, educación y medio ambiente. Además, introduce una perspectiva de género y territorial en los datos para mejorar la planificación de los servicios públicos.",
+  "citizen_impact": "Reduce la carga burocrática al priorizar el uso de datos que la administración ya posee, evitando que ciudadanos y empresas tengan que responder encuestas repetitivas. Además, garantiza el derecho al acceso gratuito y digital a información clave (salud, transporte, economía) mediante portales interactivos y mapas.",
+  "professional_impact": "Las empresas y sectores específicos (agrario, industrial, transporte) deben colaborar suministrando datos en encuestas concretas. Los departamentos de la Generalidad y organismos autónomos tienen la obligación de informar al Idescat sobre cualquier nuevo registro administrativo que creen o modifiquen para asegurar la coordinación estadística.",
+  "keywords": [
+    "estadística",
+    "Cataluña",
+    "datos abiertos",
+    "registros administrativos",
+    "planificación pública",
+    "digitalización",
+    "transparencia"
+  ],
+  "key_points": [
+    "Reducción de la carga de información mediante el uso prioritario de registros administrativos.",
+    "Acceso gratuito, rápido y universal a la estadística oficial a través de servicios digitales.",
+    "Uso de licencias abiertas para la difusión de datos, permitiendo su reutilización siempre que se cite la fuente.",
+    "Obligación de integrar la perspectiva de género mediante el desglose de datos por sexo y edad.",
+    "Máxima desagregación territorial de los datos para facilitar la gestión local.",
+    "Implementación de sistemas de georreferenciación para vincular datos con mapas actualizados.",
+    "Creación de recursos didácticos digitales basados en datos para el sector educativo.",
+    "Producción de indicadores económicos comparables con los estándares de la Unión Europea."
+  ],
+  "legal_references": [
+    "Ley 23/1998, de 30 de diciembre, de estadística de Cataluña",
+    "Estatuto de autonomía de Cataluña (artículo 65 y 135)",
+    "Código de buenas prácticas de las estadísticas europeas",
+    "Recomendación de la Comisión relativa a la independencia, la integridad y la responsabilidad de las autoridades estadísticas",
+    "Ley orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal",
+    "Ley 6/2007, de 17 de julio, del Centro de Estudios de Opinión",
+    "Ley orgánica 5/1985, de 19 de junio, del régimen electoral general"
+  ],
+  "derogations": [
+    "Ley 2/2006, de 6 de marzo, del Plan estadístico de Cataluña 2006-2009 (excepto disposición adicional primera)"
+  ],
+  "main_obligations": "Los departamentos de la Generalidad deben comunicar al Idescat cualquier proyecto de creación o modificación de registros administrativos. Las instituciones deben informar anualmente sobre qué órganos realizan funciones estadísticas y los ciudadanos deben cooperar en el cumplimiento de la ley.",
+  "effective_date": "2010-06-15",
+  "procedures": [
+    {
+      "name": "Ejecución del Plan Estadístico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de actuaciones",
+          "description": "Las instituciones deben enviar sus propuestas de actividades estadísticas al Idescat.",
+          "start_date": "antes del 30 de septiembre del año precedente",
+          "end_date": null,
+          "required_documentation": "Proyecto técnico homologado"
+        },
+        {
+          "step": 2,
+          "title": "Preparación de la propuesta anual",
+          "description": "El Idescat prepara la propuesta del programa anual tras consultar a las instituciones.",
+          "start_date": null,
+          "end_date": "15 de noviembre",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación del programa anual",
+          "description": "El Gobierno aprueba mediante decreto el programa de actuación para el año siguiente.",
+          "start_date": null,
+          "end_date": "31 de diciembre",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Ejecución del Plan Estadístico de Cataluña 2011-2014",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recogida de datos y explotación de registros",
+          "descrption": "Obtención de información mediante encuestas directas, registros administrativos y bases de datos de diversos departamentos.",
+          "start_date": "2011",
+          "end_date": "2014",
+          "required_documentation": "Datos administrativos, registros de personal, censos de población, facturación de suministros, etc."
+        },
+        {
+          "step": 2,
+          "title": "Tratamiento y análisis estadístico",
+          "descrption": "Procesamiento de la información para generar indicadores, series históricas y tablas económicas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Difusión de resultados",
+          "descrption": "Publicación de la información a través del Portal de la estadística oficial de Cataluña y otros servicios de difusión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión y difusión de la información estadística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recopilación y sistematización",
+          "description": "Reunión de datos de departamentos de la Generalidad y entes locales para asegurar la comparabilidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Procesamiento y actualización",
+          "description": "Tratamiento de datos para crear indicadores económicos, territoriales y comunitarios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Difusión y acceso público",
+          "description": "Publicación en la web del Idescaat, edición de anuarios, revistas especializadas y fichas municipales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

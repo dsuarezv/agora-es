@@ -1,0 +1,76 @@
+{
+  "identifier": "BOE-A-2025-20691",
+  "title": "Orden PJC/1146/2025, de 13 de octubre, por la que se crea y regula la Comisión de Evaluación sobre la concurrencia de circunstancias objetivas que justifiquen la aplicación de coeficientes reductores que permitan anticipar la edad de jubilación en el sistema de la Seguridad Social",
+  "visible_title": "Creación y regulación de la Comisión de Evaluación para la jubilación anticipada por trabajos penosos o peligrosos",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes",
+  "official_number": "PJC/1146/2025",
+  "publication_date": "2025-10-16",
+  "enactment_date": "2025-10-13",
+  "last_updated": "2025-10-16",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2025/10/13/pjc1146",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "249",
+  "summary": "Esta norma crea una Comisión de Evaluación interministerial encargada de analizar si ciertos trabajos son lo suficientemente penosos, tóxicos o peligrosos como para permitir que sus trabajadores se jubilen antes de la edad ordinaria. La Comisión emitirá informes técnicos basados en datos de mortalidad y enfermedad para recomendar la creación de nuevos coeficientes reductores. Además, propondrá mejoras en la prevención de riesgos laborales para reducir la peligrosidad de los puestos de trabajo.",
+  "citizen_impact": "Permite que los trabajadores en profesiones de alto riesgo o penosidad tengan un mecanismo oficial para solicitar jubilarse antes de la edad legal. No crea un derecho automático, sino que establece el órgano que decidirá qué profesiones califican para este beneficio.",
+  "professional_impact": "Afecta directamente a sindicatos y organizaciones empresariales, que tendrán representación con voto en la Comisión. También impacta a los profesionales de la Seguridad Social y de la Inspección de Trabajo, quienes deberán aportar informes técnicos para que la Comisión tome decisiones.",
+  "keywords": [
+    "jubilación anticipada",
+    "coeficientes reductores",
+    "seguridad social",
+    "trabajos penosos",
+    "riesgos laborales",
+    "comisión de evaluación"
+  ],
+  "key_points": [
+    "Se crea una Comisión interministerial con representantes de Trabajo, Hacienda, Seguridad Social y agentes sociales.",
+    "La Comisión debe emitir su informe en un plazo máximo de un mes tras recibir los datos de mortalidad y enfermedad.",
+    "El objetivo es identificar profesiones con alta incidencia de bajas, incapacidades o fallecimientos para permitir la jubilación temprana.",
+    "La Comisión no solo evalúa la jubilación, sino que debe recomendar cambios en las condiciones laborales para mejorar la seguridad.",
+    "Para aprobar un informe de coeficientes reductores se requiere una mayoría de dos tercios de los asistentes."
+  ],
+  "legal_references": [
+    "Real Decreto Legislativo 8/2015 (Ley General de la Seguridad Social)",
+    "Real Decreto 402/2025",
+    "Ley 40/2015 (Régimen Jurídico del Sector Público)",
+    "Ley 39/2015 (Procedimiento Administrativo Común)"
+  ],
+  "derogations": [],
+  "main_obligations": "La Comisión tiene la obligación de emitir informes sobre la necesidad de coeficientes reductores y proponer medidas de prevención de riesgos laborales tras recibir los informes técnicos de salud y seguridad.",
+  "effective_date": "2025-10-17",
+  "procedures": [
+    {
+      "name": "Evaluación de coeficientes reductores para la jubilación anticipada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recepción de informes técnicos",
+          "description": "La Comisión recibe los informes de morbimortalidad, inspección de trabajo y transformación digital.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informes del Instituto Nacional de Seguridad y Salud en el Trabajo, Inspección de Trabajo y Ministerio de Función Pública."
+        },
+        {
+          "step": 2,
+          "title": "Emisión del informe de la Comisión",
+          "description": "La Comisión analiza los datos y emite un informe sobre la procedencia de aplicar coeficientes reductores.",
+          "start_date": "Desde la recepción de los informes",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Instar la aprobación del Real Decreto",
+          "description": "La Comisión puede solicitar a la Dirección General de Ordenación de la Seguridad Social que inicie el proceso para aprobar el Real Decreto correspondiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

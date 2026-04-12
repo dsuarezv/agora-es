@@ -1,0 +1,105 @@
+{
+  "identifier": "DOGC-f-2003-90015",
+  "title": "Decreto Legislativo 4/2003, de 4 de noviembre, por el que se aprueba el Texto refundido de la Ley de la organización comarcal de Cataluña",
+  "visible_title": "Ley de la organización comarcal de Cataluña",
+  "rank": "decreto legislativo",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "4/2003",
+  "publication_date": "2003-11-19",
+  "enactment_date": "2003-11-04",
+  "last_updated": "2010-09-06",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=DOGC-f-2003-90015",
+  "official_journal": "DOGC",
+  "journal_issue": "90015",
+  "summary": "Esta norma unifica y actualiza toda la normativa previa sobre la estructura de las comarcas en Cataluña. Define qué es una comarca, cómo se dividen territorialmente y cómo se organizan sus órganos de gobierno. Establece las reglas para crear nuevas comarcas, cambiar sus límites o modificar sus nombres y capitales. Además, regula la forma en que se eligen los consejeros y las competencias que estas entidades deben ejercer para ayudar a los municipios.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en la gestión de servicios públicos locales que dependen de la coordinación comarcal.",
+  "professional_impact": "Afecta directamente a alcaldes, concejales y funcionarios de la administración local catalana. Define sus competencias, los procedimientos electorales para los consejos comarcales y las facultades de asistencia técnica y jurídica que las comarcas deben prestar a los ayuntamientos.",
+  "keywords": [
+    "comarca",
+    "organización territorial",
+    "Cataluña",
+    "consejo comarcal",
+    "administración local",
+    "competencias comarcales"
+  ],
+  "key_points": [
+    "La comarca es una entidad local con personalidad jurídica propia formada por municipios contiguos.",
+    "El gobierno de la comarca recae en el Consejo Comarcal, compuesto por el Pleno, la Presidencia, la Vicepresidencia, el Consejo de Alcaldes y la Comisión Especial de Cuentas.",
+    "Los miembros del consejo se eligen mediante un sistema electoral que combina el número de concejales y el número de votos obtenidos en las elecciones municipales.",
+    "Las comarcas tienen la obligación de prestar asistencia técnica, jurídica y económica a los municipios de su ámbito.",
+    "Se establece un procedimiento específico para la modificación de demarcaciones, la creación de nuevas comarcas y el cambio de capitalidad.",
+    "Las comarcas pueden ejercer la iniciativa legislativa ante el Parlamento de Cataluña bajo ciertas condiciones de mayoría.",
+    "La financiación se basa en tasas, contribuciones especiales, participaciones en impuestos y aportaciones de los municipios."
+  ],
+  "legal_references": [
+    "Ley 8/2003, de 5 de mayo",
+    "Ley 6/1987, de 4 de abril",
+    "Ley 3/1990, de 8 de enero",
+    "Decreto legislativo 13/1994, de 26 de julio",
+    "Ley Orgánica del Régimen Electoral General",
+    "Decreto legislativo 2/2003, de 28 de abril (Texto refundido de la Ley municipal y de régimen local de Cataluña)",
+    "Ley 2/1983, de 9 de marzo (Política territorial)"
+  ],
+  "derogations": [
+    "Ley 6/1987, de 4 de abril",
+    "Ley 3/1990, de 8 de enero"
+  ],
+  "main_obligations": "Los consejos comarcales deben elaborar un programa de actuación cuatrienal que incluya servicios, obras y recursos necesarios. Deben garantizar la prestación subsidiaria de servicios municipales obligatorios en municipios que por población no puedan asumirlos.",
+  "effective_date": "2003-11-20",
+  "procedures": [
+    {
+      "name": "Modificación de demarcaciones comarcales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciativa",
+          "description": "Presentación de la propuesta por municipios, comarcas o el Gobierno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria justificativa de motivos y oportunidad."
+        },
+        {
+          "step": 2,
+          "title": "Información pública y consultas",
+          "description": "Sometimiento a información pública y solicitud de informes a ayuntamientos y consejos afectados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informes técnicos",
+          "description": "Emisión de informes por la Comisión de Delimitación Territorial y la Comisión Jurídica Asesora.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Tramitación legislativa",
+          "description": "Elevación del anteproyecto de ley al Gobierno para su posterior tramitación parlamentaria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Creación de nuevas comarcas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Consentimiento municipal",
+          "description": "Obtención del consentimiento de 2/3 de los municipios que la integrarían, representando al menos la mitad de la población, o 1/2 de municipios representando 2/3 de la población.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

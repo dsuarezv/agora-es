@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-2015-4101",
+  "title": "Ley Foral 11/2015, de 18 de marzo, por la que se regulan el Impuesto sobre el Valor de la Producción de la Energía Eléctrica, el Impuesto sobre los Gases Fluorados de Efecto Invernadero y el Impuesto sobre los Depósitos en las Entidades de Crédito",
+  "visible_title": "Regulación de los Impuestos sobre Producción Eléctrica, Gases Fluorados y Depósitos Bancarios en Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "11/2015",
+  "publication_date": "2015-04-16",
+  "enactment_date": "2015-03-18",
+  "last_updated": "2022-09-13",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2015/03/18/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley transfiere a la Comunidad Foral de Navarra la potestad de recaudar tres impuestos específicos tras acuerdos con el Estado. Regula el impuesto a la producción de energía eléctrica, el impuesto sobre gases fluorados que dañan la capa de ozono y el impuesto sobre los depósitos en bancos. El objetivo es permitir que Navarra gestione estos tributos dentro de su régimen foral, manteniendo la coherencia con la normativa estatal.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo que seamos consumidores de productos que contengan gases fluorados o usuarios de servicios eléctricos producidos en Navarra.",
+  "professional_impact": "Afecta directamente a empresas eléctricas, fabricantes/importadores de gases fluorados y entidades de crédito con presencia en Navarra. Estas empresas deben cumplir con nuevas obligaciones de auto liquidación, registros específicos y contabilidad electrónica.",
+  "keywords": [
+    "Impuesto producción eléctrica",
+    "Gases fluorados",
+    "Depósitos bancarios",
+    "Navarra",
+    "Tributación foral",
+    "Efecto invernadero"
+  ],
+  "key_points": [
+    "Navarra asume la recaudación del impuesto sobre la producción de energía eléctrica cuando las instalaciones estén en su territorio.",
+    "Se establece un tipo de gravamen del 7% para la producción eléctrica.",
+    "El impuesto sobre gases fluorados se calcula según el potencial de calentamiento atmosférico de cada gas.",
+    "Las entidades de crédito deben pagar un 0,03% sobre el saldo medio de los depósitos de clientes en Navarra.",
+    "Se exige a los fabricantes y almacenistas de gases fluorados la inscripción en un registro territorial específico.",
+    "Los productores eléctricos deben realizar pagos fraccionados según su volumen de producción."
+  ],
+  "legal_references": [
+    "Ley 24/2013, de 26 de diciembre, del Sector Eléctrico",
+    "Ley Foral 13/2000, de 14 de diciembre, General Tributaria",
+    "Reglamento (UE) n.º 517/2014",
+    "Ley 10/2014, de 26 de junio, de ordenación, supervisión y solvencia de entidades de crédito",
+    "Convenio Económico"
+  ],
+  "derogations": [
+    "Ley Foral 6/2014, de 14 de abril, del Impuesto sobre los Depósitos en las Entidades de Crédito"
+  ],
+  "main_obligations": "Las empresas eléctricas deben auto liquidar el impuesto en noviembre; los importadores de gases deben inscribirse en el registro territorial y llevar contabilidad electrónica; las entidades de crédito deben presentar la auto liquidación en julio de cada año.",
+  "effective_date": "2015-01-01",
+  "procedures": [
+    {
+      "name": "Liquidación del Impuesto sobre la Producción de Energía Eléctrica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Pagos fraccionados",
+          "description": "Realización de pagos anticipados según el volumen de producción.",
+          "start_date": "mayo, septiembre, noviembre y febrero del año siguiente",
+          "end_date": "día 20 de cada mes mencionado",
+          "required_documentation": "Modelos establecidos por el Departamento de Economía"
+        },
+        {
+          "step": 2,
+          "title": "Auto liquidación anual",
+          "description": "Liquidación definitiva del impuesto correspondiente al año natural.",
+          "start_date": "noviembre del año siguiente al de devengo",
+          "end_date": "30 de noviembre",
+          "required_documentation": "Modelos establecidos por la Hacienda Foral"
+        }
+      ]
+    },
+    {
+      "name": "Liquidación del Impuesto sobre los Gases Fluorados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Auto liquidación trimestral",
+          "description": "Presentación de la liquidación de los gases objeto del impuesto.",
+          "start_date": "cada trimestre natural",
+          "end_date": null,
+          "required_documentation": "Modelos de la Oficina Gestora"
+        }
+      ]
+    },
+    {
+      "name": "Liquidación del Impuesto sobre Depósitos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Pago a cuenta",
+          "description": "Pago del 50% de la cuota del ejercicio anterior.",
+          "start_date": "julio",
+          "end_date": "julio",
+          "required_documentation": "Modelos de la Hacienda Foral"
+        },
+        {
+          "step": 2,
+          "title": "Auto liquidación anual",
+          "description": "Presentación de la liquidación definitiva del año natural.",
+          "start_date": "julio del año siguiente",
+          "end_date": "julio",
+          "required_documentation": "Modelos de la Hacienda Foral"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

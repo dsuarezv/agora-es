@@ -1,0 +1,88 @@
+{
+  "identifier": "BOE-A-2022-2686",
+  "title": "Decreto-ley 9/2021, de 23 de diciembre, de medidas urgentes en determinados sectores de actividad administrativa",
+  "visible_title": "Medidas urgentes en sectores de actividad administrativa de las Illes Balears",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "9/2021",
+  "publication_date": "2022-02-19",
+  "enactment_date": "2021-12-23",
+  "last_updated": "2022-06-09",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/dl/2021/12/23/9",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma introduce cambios urgentes en diversas áreas de la administración balear para adaptarse a la situación post-pandemia y facilitar la ejecución de fondos europeos. Regula sanciones por el incumplimiento del certificado COVID en locales, reforma la financiación de cámaras y organizaciones sociales, y agiliza la promoción de energías renovables. Además, establece un régimen de declaración responsable para obras de rehabilitación energética vinculadas al Plan de Recuperación.",
+  "citizen_impact": "Los ciudadanos pueden beneficiarse de una tramitación más rápida (vía declaración responsable) para reformas en sus viviendas que mejoren la eficiencia energética o el ahorro de agua. También se clarifican las bonificaciones en el transporte marítimo interinsular para residentes.",
+  "professional_impact": "Los empresarios de hostelería y ocio deben cumplir con la comprobación de certificados sanitarios bajo riesgo de sanciones graves. Los profesionales de la construcción y arquitectura ven simplificados los trámites para proyectos de rehabilitación energética, mientras que el sector farmacéutico y el de energías renovables ven modificadas sus normativas de gestión y promoción.",
+  "keywords": [
+    "medidas urgentes",
+    "Illes Balears",
+    "rehabilitación energética",
+    "declaración responsable",
+    "energías renovables",
+    "plan de recuperación",
+    "transporte marítimo",
+    "sector farmacéutico",
+    "juego y apuestas"
+  ],
+  "key_points": [
+    "Creación de sanciones por no verificar el certificado COVID en locales de ocio y restauración.",
+    "Implementación de un sistema de declaración responsable para agilizar obras de rehabilitación energética financiadas con fondos europeos.",
+    "Garantía de financiación anual para las cámaras oficiales de comercio e industria.",
+    "Recuperación de medidas para facilitar la instalación de energías renovables en espacios construidos (parkings, cubiertas).",
+    "Protección de terceros adquirentes de oficinas de farmacia ante posibles nulidades de adjudicación.",
+    "Clarificación de las bonificaciones en el transporte marítimo para residentes.",
+    "Suspensión temporal de la concesión de nuevas licencias para establecimientos de juego y apuestas."
+  ],
+  "legal_references": [
+    "Decreto ley 11/2020",
+    "Ley 1/2017",
+    "Ley 2/2011",
+    "Ley 10/2019",
+    "Ley 7/1998",
+    "Decreto 20/2019",
+    "Ley 8/2014",
+    "Ley 12/2017",
+    "Real decreto 853/2021"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a lo establecido en este Decreto-ley"
+  ],
+  "main_obligations": "Los establecimientos de ocio están obligados a comprobar la documentación sanitaria de acceso. Para las obras bajo declaración responsable, el promotor debe presentar un proyecto técnico visado y cumplir con estándares de eficiencia energética o ahorro de agua.",
+  "effective_date": "2021-12-24",
+  "procedures": [
+    {
+      "name": "Régimen excepcional de declaración responsable para obras de rehabilitación (Plan de Recuperación)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración responsable",
+          "description": "Presentación ante el ayuntamiento de la declaración junto con proyecto técnico visado y justificantes de pago.",
+          "start_date": null,
+          "end_date": "2025-12-31",
+          "required_documentation": "Proyecto técnico completo, motivación de no requerir licencia previa, justificante de pago de tributos y, si aplica, póliza de seguro de responsabilidad civil."
+        },
+        {
+          "step": 2,
+          "title": "Inicio de las obras",
+          "description": "Plazo máximo para comenzar la ejecución de la obra tras la presentación.",
+          "start_date": "4 meses desde la presentación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ejecución total",
+          "description": "Plazo máximo para finalizar la actuación permitida por la declaración.",
+          "start_date": null,
+          "end_date": "2 años",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

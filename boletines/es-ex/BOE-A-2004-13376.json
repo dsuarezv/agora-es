@@ -1,0 +1,99 @@
+{
+  "identifier": "BOE-A-2004-13376",
+  "title": "Ley 5/2004, de 24 de junio, de prevención y lucha contra los incendios forestales en Extremadura",
+  "visible_title": "Ley de prevención y lucha contra los incendios forestales en Extremadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "5/2004",
+  "publication_date": "2004-07-17",
+  "enactment_date": "2004-06-24",
+  "last_updated": "2023-03-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2004/06/24/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un sistema integral para proteger los montes extremeños mediante tres ejes: prevención, extinción y restauración de zonas quemadas. Introduce una planificación obligatoria que incluye planes de defensa para zonas de alto riesgo y planes de autoprotección para infraestructuras críticas. Además, regula la participación ciudadana y crea mecanismos de financiación y sanciones para asegurar la eficacia en la lucha contra el fuego.",
+  "citizen_impact": "Los ciudadanos tienen el deber de colaborar con las autoridades en caso de incendio y seguir las medidas de prevención. Se fomenta la participación voluntaria a través de grupos municipales de pronto auxilio para ayudar en la vigilancia y extinción.",
+  "professional_impact": "Los propietarios de montes y titulares de derechos forestales asumen la obligación de elaborar y ejecutar planes de prevención específicos. También se les impone la responsabilidad de mantener sus terrenos en condiciones seguras, bajo riesgo de sanciones económicas elevadas o el pago de tasas de extinción.",
+  "keywords": [
+    "incendios forestales",
+    "prevención",
+    "extinción",
+    "Extremadura",
+    "planificación forestal",
+    "protección civil",
+    "restauración de montes"
+  ],
+  "key_points": [
+    "Obligatoriedad de elaborar Planes de Prevención de Incendios Forestales para propietarios de montes.",
+    "Creación de la Zona de Influencia Forestal (franja de 400 metros alrededor de montes).",
+    "Establecimiento de Zonas de Alto Riesgo de Incendios con planes de defensa específicos.",
+    "Implementación de Planes de Autoprotección obligatorios para empresas y núcleos aislados en zonas de riesgo.",
+    "Creación de la Tasa de Extinción de Incendios Forestales para propietarios (con bonificaciones por prevención).",
+    "Reconocimiento de la condición de agente de autoridad para los mandos directivos de los planes INFOEX y PREIFEX.",
+    "Posibilidad de requisar bienes necesarios para la extinción en situaciones de emergencia.",
+    "Régimen sancionador con multas que pueden alcanzar el millón de euros en casos muy graves."
+  ],
+  "legal_references": [
+    "Ley 81/1968, de 5 de diciembre, sobre Incendios Forestales",
+    "Decreto 3769/1972, de 23 de diciembre",
+    "Ley 43/2003, de 21 de noviembre, de Montes",
+    "Ley 2/1985, de 21 de enero, de Protección Civil",
+    "Real Decreto 407/1992, de 24 de abril",
+    "Estatuto de Autonomía de Extremadura",
+    "Ley 30/1992, de 22 de diciembre, del Régimen Jurídico de las Administraciones Públicas"
+  ],
+  "derogations": [
+    "Ley 81/1968, de 5 de diciembre, sobre Incendios Forestales (implícita por la nueva normativa de montes y esta ley)",
+    "Decreto 3769/1972, de 23 de diciembre"
+  ],
+  "main_obligations": "Los propietarios deben elaborar planes de prevención y realizar trabajos de mantenimiento (como corta fuegos). Está prohibido encender fuego en zonas forestales sin autorización y es obligatorio colaborar con las autoridades en la extinción y evacuación.",
+  "effective_date": "2004-07-18",
+  "procedures": [
+    {
+      "name": "Elaboración de Planes de Prevención de Incendios Forestales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del plan",
+          "descrption": "El propietario o titular debe redactar el plan siguiendo las directrices del Plan PREIFEX.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto técnico con medidas de prevención y gestión de vegetación"
+        },
+        {
+          "step": 2,
+          "title": "Aprobación",
+          "descrption": "La Consejería competente debe aprobar el plan elaborado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Investigación y denuncia",
+          "descrption": "Inicio del proceso tras la detección de una infracción por parte de la Administración o denuncia ciudadana.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "descrption": "Plazo máximo para dictar y notificar la resolución del expediente.",
+          "start_date": null,
+          "end_date": "12 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

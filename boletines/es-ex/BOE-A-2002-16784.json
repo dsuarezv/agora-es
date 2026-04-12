@@ -1,0 +1,103 @@
+{
+  "identifier": "BOE-A-2002-16784",
+  "title": "Ley 5/2002, de 23 de mayo, de Protección de los Animales en la Comunidad Autónoma de Extremadura",
+  "visible_title": "Ley de Protección de los Animales de Extremadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "5/2002",
+  "publication_date": "2002-08-22",
+  "enactment_date": "2002-05-23",
+  "last_updated": "2019-04-10",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2002/05/23/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para proteger a los animales domésticos y salvajes en cautividad dentro de Extremadura. Regula las obligaciones de cuidado, prohíbe el maltrato y establece un régimen de sanciones para quienes incumplan estas normas. Además, organiza el funcionamiento de los centros de recogida de animales abandonados y la gestión de los criaderos y tiendas de animales de compañía.",
+  "citizen_impact": "Los dueños de mascotas deben identificar y censar obligatoriamente a sus perros en el ayuntamiento correspondiente. También impone la responsabilidad civil por daños que los animales puedan causar a terceros y prohíbe prácticas como el abandono o el maltrato.",
+  "professional_impact": "Los criaderos, tiendas de animales y centros de mantenimiento temporal deben inscribirse en el Registro de Núcleos Zoológicos y cumplir estrictas condiciones higiénico-sanitarias. Los veterinarios asumen la responsabilidad de supervisar sacrificios, tratamientos obligatorios y la gestión de fichas clínicas.",
+  "keywords": [
+    "protección animal",
+    "Extremadura",
+    "maltrato animal",
+    "censos de mascotas",
+    "núcleos zoológicos",
+    "animales de compañía",
+    "sanciones"
+  ],
+  "key_points": [
+    "Obligación de identificar electrónicamente y censar a los perros en el municipio de residencia.",
+    "Prohibición estricta de abandonar animales o someterlos a sufrimientos injustificados.",
+    "Regulación de los centros de recogida de animales abandonados y plazos de retención (20 días si no hay identificación).",
+    "Exigencia de licencias y registros para criaderos y establecimientos de venta de animales.",
+    "Establecimiento de un régimen sancionador con multas que van desde los 60€ hasta los 15.025€.",
+    "Prohibición de utilizar animales en espectáculos que impliquen crueldad, salvo excepciones taurinas autorizadas.",
+    "Obligación de proporcionar muerte indolora y rápida a animales en agonía, siempre mediante veterinario."
+  ],
+  "legal_references": [
+    "Artículo 49.1 del Estatuto de Autonomía",
+    "Artículo 1.905 del Código Civil",
+    "Ley 14/1986, de 25 de abril, General de Sanidad",
+    "Ley 50/1999, de 23 de diciembre (animales potencialmente peligrosos)",
+    "Decreto 9/1994 (Reglamento sobre Procedimientos Sancionadores de Extremadura)"
+  ],
+  "derogatons": [
+    "Disposiciones de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": "Los poseedores deben garantizar alimentación, higiene y cuidados sanitarios a sus animales. Se prohíbe el maltrato, el abandono y la venta de animales a menores sin autorización. Las infracciones muy graves pueden conllevar multas de hasta 15.025€ y el cierre de establecimientos.",
+  "effective_date": "2002-10-22",
+  "procedures": [
+    {
+      "name": "Procedimiento de recuperación de animal abandonado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Retención por falta de identificación",
+          "description": "La autoridad retiene al animal si no tiene identificación.",
+          "start_date": null,
+          "end_date": "20 días",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de recuperación con identificación",
+          "description": "Si el animal está identificado, se avisa al dueño para que lo recupere pagando gastos.",
+          "start_date": null,
+          "end_date": "10 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación",
+          "description": "El Director General de la Consejería competente ordena el inicio del expediente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución de sanciones leves y graves",
+          "description": "El Director General resuelve las infracciones de este tipo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de sanciones muy graves",
+          "description": "El Consejero competente resuelve las infracciones muy graves.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

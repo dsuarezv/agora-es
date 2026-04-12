@@ -1,0 +1,95 @@
+{
+  "identifier": "BOE-A-1993-21443",
+  "title": "Ley 5/1993, de 6 de mayo, de Presupuestos Generales de la Diputación Regional de Cantabria para 1993",
+  "visible_title": "Presupuestos Generales de la Diputación Regional de Cantabria para 1993",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "5/1993",
+  "publication_date": "1993-08-18",
+  "enactment_date": "1993-05-06",
+  "last_updated": "2017-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/1993/05/06/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece el marco financiero y la distribución de recursos de la Diputación Regional de Cantabria para el ejercicio de 1993. Define los ingresos y gastos de la administración regional y de organismos dependientes como la Fundación Marqués de Valdecilla. Además, regula la gestión de las fianzas de alquiler y suministros, y establece las condiciones de retribución para el personal público de la región.",
+  "citizen_impact": "Afecta a los ciudadanos en su relación con los arrendamientos y suministros, ya que regula la obligación de depositar fianzas en la Tesorería Regional. También establece las bases para las ayudas y subvenciones públicas que los ciudadanos pueden solicitar.",
+  "professional_impact": "Los propietarios de viviendas y empresas suministradoras (agua, luz, gas) deben cumplir con la obligación de depositar las fiancias de sus clientes en la Tesorería General. Los funcionarios de la Diputación ven regulados sus sueldos, complementos de productividad y procesos de contratación.",
+  "keywords": [
+    "presupuestos generales",
+    "Cantabria",
+    "fianzas de arrendamiento",
+    "gastos de personal",
+    "tesorería",
+    "administración pública"
+  ],
+  "key_points": [
+    "Establece un presupuesto de gastos de 46.608.223.000 pesetas para la Diputación Regional.",
+    "Obliga a los arrendadores a depositar las fianzas de alquiler en la Tesorería General de Cantabria.",
+    "Fija la fianza de alquiler de vivienda en una mensualidad de renta y la de locales en dos mensualidades.",
+    "Regula el incremento salarial del personal público en un 1,8% más un factor de ajuste.",
+    "Establece límites para la concesión de avales por parte de la Diputación.",
+    "Define los criterios de publicidad y objetividad para la concesión de subvenciones.",
+    "Permite la contratación de personal con cargo a créditos de inversión para obras específicas."
+  ],
+  "legal_references": [
+    "Ley 7/1984, de 21 de diciembre, de Finanzas de la Diputación Regional de Cantabria",
+    "Ley Orgánica de Financiación de las Comunidades Autónomas, de 22 de septiembre de 1980",
+    "Estatuto de Auto-nomía para Cantabria",
+    "Ley 4/1993, de 10 de marzo, de la Función Pública",
+    "Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública",
+    "Ley 39/1992, de 29 de diciembre, de Presupuestos Generales del Estado para 1993"
+  ],
+  "derogations": [
+    "Punto 2 de la disposición adicional quinta de la Ley 5/1991, de 27 de marzo"
+  ],
+  "main_obligations": "Los propietarios y empresas suministradoras deben constituir en metálico en la Tesorería General el depósito de las fianzas en un plazo de 15 días naturales desde la firma del contrato. El incumplimiento conlleva multas equivalentes a la cantidad no depositada.",
+  "effective_date": "1993-05-07",
+  "procedures": [
+    {
+      "name": "Devolución de fianzas (Régimen General)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Extinción del contrato",
+          "description": "Finalización de la relación de alquiler o suministro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Gestión de devolución",
+          "description": "El propietario presenta ante la Tesorería la carta de pago y la declaración de fin de contrato.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Carta de pago y declaración de extinción de contrato"
+        }
+      ]
+    },
+    {
+      "name": "Liquidación del presupuesto",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cierre del ejercicio",
+          "description": "Cierre de la recaudación de derechos y pago de obligaciones al 31 de diciembre.",
+          "start_date": "1993-12-31",
+          "end_date": "1993-12-31",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Sometimiento a aprobación",
+          "description": "La Consejería de Economía, Hacienda y Presupuesto presenta la liquidación al Consejo de Gobierno.",
+          "start_date": null,
+          "end_date": "1994-04-30",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

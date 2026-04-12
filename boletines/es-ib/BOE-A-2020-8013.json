@@ -1,0 +1,132 @@
+{
+  "identifier": "BOE-A-2020-8013",
+  "title": "Decreto-ley 10/2020, de 12 de junio, de prestaciones sociales de carácter económico de las Illes Balears",
+  "visible_title": "Prestaciones sociales de carácter económico de las Illes Balears",
+  "rank": "real_decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "10/2020",
+  "publication_date": "2020-07-17",
+  "enactment_date": "2020-06-12",
+  "last_updated": "2022-07-12",
+  "status": "in_force",
+  "scope": "Autoonómico",
+  "source": "https://www.boe.es/eli/es-ib/dl/2020/06/12/10",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta norma crea un nuevo sistema de ayudas económicas en Baleares para proteger a las personas más vulnerables frente a la pobreza agravada por la crisis de la COVID-19. Establece tres vías de ayuda: prestaciones de derecho subjetivo (como la Renta Social Garantizada), ayudas por concurrencia competitiva y ayudas de urgencia social para necesidades inmediatas. El objetivo es garantizar un mínimo de subsistencia y facilitar la transición hacia el Ingreso Mínimo Vital. La norma busca que el apoyo llegue de forma rápida y prioritaria en casos de emergencia alimentaria o de vivienda.",
+  "citizen_impact": "Los ciudadanos con bajos ingresos o en situación de vulnerabilidad en Baleares pueden acceder a la Renta Social Garantizada, complementos para pensiones no contributivas y ayudas para jóvenes emancipados. Es crucial saber que si recibes el Ingreso Mínimo Vital con una cuantía igual o superior, no podrás cobrar la Renta Social Garantizada. Además, para acceder a estas ayudas debes haber residido en Baleares al menos 12 meses.",
+  "professional_impact": "La administración debe resolver las solicitudes en un plazo máximo de 3 meses, bajo riesgo de silencio administrativo negativo. Los servicios sociales deben realizar un seguimiento mediante el Proyecto Educativo Individual (PEI), cuya falta de cumplimiento puede extinguir la ayuda. Se establece un control estricto sobre los cambios de residencia y de ingresos de los beneficiarios.",
+  "keywords": [
+    "Renta Social Garantizada",
+    "ayudas económicas",
+    "Baleares",
+    "prestaciones sociales",
+    "urgencia social",
+    "pobreza",
+    "Ingreso Mínimo Vital"
+  ],
+  "key_points": [
+    "La Renta Social Garantizada es un derecho subjetivo que no depende de la disponibilidad de presupuesto.",
+    "Se establece un complemento de hasta el 24,91% para las pensiones no contributivas.",
+    "Los jóvenes emancipados tras tutela o guarda administrativa pueden recibir renta mensual hasta los 25 años.",
+    "Si la administración no responde a tu solicitud en 3 meses, se considera denegada.",
+    "El incumplimiento del Proyecto Educativo Individual (PEI) por más de 3 meses provoca la pérdida de la ayuda.",
+    "Trabajar con ingresos superiores a 1,5 veces la renta social garantizada de un adulto solo causa la suspensión de la ayuda.",
+    "Las ausencias del territorio insular superiores a un mes deben ser comunicadas para evitar sanciones.",
+    "Se crean ayudas de urgencia social para alimentación, vestido, alojamiento y medicación con pago prioritario.",
+    "Para acceder a las ayudas de derecho subjetivo es obligatorio acreditar 12 meses de residencia en Baleares."
+  ],
+  "legal_references": [
+    "Decreto-ley 4/2020, de 20 de marzo",
+    "Decreto-ley 6/2020, de 1 de abril",
+    "Ley 5/2016, de 13 de abril",
+    "Real Decreto-ley 20/2020, de 29 de mayo",
+    "Ley 4/2009, de 11 de junio, de servicios sociales de las Illes Balears",
+    "Estatuto de Autonomía de las Illes Balears",
+    "Ley 39/2015, de 1 de diciembre",
+    "Ley 9/2019, de 19 de febrero, de la atención y los derechos de la infancia y la adolescencia de las Illes Balears",
+    "Decreto 52/2016, de 5 de agosto",
+    "Decreto 40/2017, de 25 de agosto",
+    "Decreto 66/2016, de 18 de noviembre"
+  ],
+  "derogatons": [
+    "Ley 5/2016, de 13 de abril, de la renta social garantizada",
+    "Artículo 6 y 7.1 del Decreto-ley 4/2020, de 20 de marzo",
+    "Artículo 3 del Decreto-ley 6/2020, de 1 de abril",
+    "Decreto 117/2001, de 28 de septiembre, que regula la renta mínima de inserción",
+    "Decreto 52/2016, de 5 de agosto, de la renta para personas en proceso de autonomía personal"
+  ],
+  "main_obligations": "Los beneficiarios deben comunicar cualquier cambio en su unidad de convivencia, ingresos o residencia en un plazo de 30 días. Asimismo, deben presentar una declaración responsable anual entre el 1 de abril y el 30 de septiembre.",
+  "effective_date": "2020-06-12",
+  "procedures": [
+    {
+      "name": "Gestión de la prestación mensual",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud",
+          "description": "Presentación de la solicitud de la prestación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Dictado y notificación de la resolución motivada.",
+          "start_date": "Desde la fecha de la solicitud o trámite de enmiendas",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acceso a ayudas económicas básicas (Urgencia Social)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Demanda",
+          "description": "Solicitud en los servicios sociales comunitarios básicos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Investigación",
+          "description": "Contraste de necesidad y comprobación de otras prestaciones (IMV, etc.).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Contrato asistencial",
+          "description": "Formalización del compromiso de asistencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Tramitación y pago",
+          "description": "Gestión del pago mediante transferencia o tarjeta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Comprobación",
+          "description": "Verificación de que el dinero se usó para el fin solicitado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

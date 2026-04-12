@@ -1,0 +1,111 @@
+{
+  "identifier": "BOE-A-2017-10540",
+  "title": "Ley 7/2017, de 3 de agosto, por la que se modifica la Compilación de Derecho Civil de las Illes Balears",
+  "visible_title": "Modificación de la Compilación de Derecho Civil de las Illes Balears",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "7/2017",
+  "publication_date": "2017-09-15",
+  "enactment_date": "2017-08-03",
+  "last_updated": "2019-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2017/08/03/7",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta reforma moderniza el derecho civil en las Islas Baleares para adaptarlo a la realidad social actual. Introduce cambios fundamentales en las herencias, los derechos de la pareja en el matrimonio y la protección de quienes trabajan en explotaciones agrarias sin sueldo. Además, busca evitar que los bienes queden sin dueño al asignar a las administraciones públicas como herederas en caso de no haber parientes. En definitiva, busca mayor igualdad de género y protección económica para las familias.",
+  "citizen_impact": "Los ciudadanos verán protegidos sus derechos patrimoniales: si trabajas en la explotación agraria familiar sin cobrar, ahora tienes derecho a una compensación; si estás casado, tu cónyuge no podrá vender la vivienda habitual sin tu permiso; y si no dejas testamento, tus bienes pasarán a la administración pública en lugar de quedar en el limbo legal. También se penaliza a quienes no cuiden de personas con discapacidad en el ámbito sucesorio.",
+  "professional_impact": "Los profesionales del derecho y gestores deben aplicar nuevos criterios en sucesiones (como la indignidad por falta de alimentos a personas con discapacidad) y en regímenes matrimoniales. Los propietarios de viviendas tienen la nueva responsabilidad de comunicar la existencia de testamentos o expectativas de sucesión a las administraciones competentes.",
+  "keywords": [
+    "Derecho Civil Baleares",
+    "Sucesiones",
+    "Regímenes matrimoniales",
+    "Explotaciones agrarias",
+    "Herencia intestada",
+    "Igualdad de género"
+  ],
+  "key_points": [
+    "Reducción del laudeio al 0,5% si no existe pacto previo.",
+    "Obligatoriedad del consentimiento del cónyuge para vender la vivienda habitual o muebles de uso ordinario.",
+    "Derecho a compensación económica para parejas (incluidas de hecho) que trabajen en explotaciones agrarias sin remuneración.",
+    "Las administraciones públicas (Comunidad Autónoma, Consejos Insulares y Ayuntamientos) son las herederas en caso de sucesión intestada.",
+    "Introducción de la indignidad sucesoria para quienes no hayan atendido con alimentos a personas con discapacidad.",
+    "Compensaciones económicas en el régimen de separación de bienes para mitigar la desigualdad por el trabajo dedicado a la familia.",
+    "Prioridad de esta ley sobre cualquier norma de rango inferior que la contradiga."
+  ],
+  "legal_references": [
+    "Compilación de Derecho Civil de las Illes Balears (Decreto Legislativo 79/1990)",
+    "Estatuto de Autonomía de las Illes Balears",
+    "Constitución Española",
+    "Código Civil español",
+    "Ley 33/2003, de 3 de noviembre, del patrimonio de las administraciones públicas",
+    "Ley 15/2005, de 8 de julio",
+    "Ley 35/2011, de 4 de octubre, sobre titularidad compartida de las explotaciones agrarias",
+    "Ley 4/2011, de 31 de marzo, de la buena administración y del buen gobierno de las Illes Balears",
+    "Ley 6/2001, de 11 de abril, del patrimonio de la Comunidad Autónoma de las Illes Balears",
+    "Sentencia del Tribunal Constitucional 198/2012",
+    "Sentencia del TSJ de las Illes Balears 2/2010",
+    "Decreto 2/2012, de 27 de enero",
+    "Decreto 9/2009, de 13 de febrero"
+  ],
+  "derogatons": [
+    "Decreto 2/2012, de 27 de enero, por el que se modifica el Decreto 9/2009, de 13 de febrero, de la Comisión Asesora de Derecho Civil de las Illes Balears"
+  ],
+  "main_obligations": "Los propietarios, inquilinos o responsables de viviendas donde resida una persona tienen la obligación de comunicar a las administraciones competentes la existencia de testamentos o expectativas de sucesión.",
+  "effective_date": "2017-09-16",
+  "procedures": [
+    {
+      "name": "Sucesión intestada a favor de administraciones públicas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración de heredero",
+          "description": "Tramitación de expediente de jurisdicción voluntaria para declarar a las administraciones como herederas.",
+          "start_date": "Tras la muerte del causante y ausencia de otros herederos",
+          "end_date": null,
+          "required_documentation": "Justificación de la muerte y de la procedencia de la sucesión"
+        },
+        {
+          "step": 2,
+          "title": "Propuesta de destinación",
+          "description": "Los consejos insulares o ayuntamientos proponen el uso de los bienes (asistencia social, educación o cultura).",
+          "start_date": "Tras la declaración de heredero",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Validación y ejecución",
+          "description": "El Gobierno de las Illes Balears valida la propuesta y ejecuta el reparto o administración.",
+          "start_date": "Tras la propuesta de destinación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Disposición de vivienda familiar en separación de bienes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Consentimiento o autorización",
+          "description": "Para vender o gravar la vivienda habitual se requiere el consentimiento del otro cónyuge o autorización judicial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Acción de anulabilidad",
+          "description": "El cónyuge perjudicado puede impugnar la disposición sin consentimiento.",
+          "start_date": "Desde la inscripción en el Registro de la Propiedad o conocimiento del acto",
+          "end_date": "4 años",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

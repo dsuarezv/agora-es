@@ -1,0 +1,71 @@
+{
+  "identifier": "BOE-A-2018-11336",
+  "title": "Ley 8/2018, de 23 de julio, de ayudas de Lorca",
+  "visible_title": "Ley de ayudas de Lorca",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "8/2018",
+  "publication_date": "2018-08-08",
+  "enactment_date": "2018-07-23",
+  "last_updated": "2020-07-31",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2018/07/23/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma simplifica el proceso de justificación de las ayudas económicas concedidas tras el terremoto de Lorca de 2011. El objetivo es reducir la carga administrativa de los beneficiarios permitiendo el uso de una 'cuenta justificativa simplificada'. Esto evita que los ciudadanos tengan que presentar una montaña de facturas originales, limitando la revisión de documentos físicos a un muestreo aleatorio por parte de la Administración.",
+  "citizen_impact": "Facilita la gestión de las ayudas recibidas para reparar viviendas, reduciendo el papeleo y el estrés de tener que conservar y presentar todos los justificantes originales. Los ciudadanos solo tendrán que presentar una memoria de actuación y una relación de gastos, salvo que la Administración les solicite específicamente los originales mediante un sorteo.",
+  "professional_impact": "Reduce la carga de trabajo de los gestores y técnicos de la administración regional al implementar un sistema de justificación más ágil. Para los profesionales de la construcción y técnicos que certifican obras, simplifica el cierre de expedientes de subvención vinculados a la reconstrucción de Lorca.",
+  "keywords": [
+    "ayudas Lorca",
+    "terremoto Lorca",
+    "justificación de subvenciones",
+    "cuenta simplificada",
+    "reparación de viviendas",
+    "Región de Murcia"
+  ],
+  "key_points": [
+    "Adopción del modelo de cuenta justificativa simplificada para ayudas de reparación de viviendas.",
+    "La justificación se basa en una memoria de actuación y una relación de gastos, no necesariamente en facturas originales para todos.",
+    "La Administración realizará un control mediante muestreo aleatorio, solicitando originales de al menos el 20% de los gastos totales.",
+    "Se establece un plazo de 18 meses desde la entrada en vigor para presentar la cuenta justificativa.",
+    "La norma se aplica también a expedientes de comunidades de propietarios y casos donde la ayuda no supere el coste real de las obras."
+  ],
+  "legal_references": [
+    "Real Decreto-ley 6/2011, de 13 de mayo",
+    "Decreto 68/2011, de 16 de mayo",
+    "Ley 7/2005, de 18 de noviembre, de subvenciones de la Región de Murcia",
+    "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+    "Real Decreto 887/2006, de 21 de julio"
+  ],
+  "derogations": [
+    "Ley 8/2018, de 23 de julio, de ayudas de Lorca (derogada por Decreto-ley 3/2020 y Ley 2/2020)"
+  ],
+  "main_obligations": "Los beneficiarios deben presentar una memoria de actuación y una relación de gastos en un plazo de 18 meses. Deben estar preparados para aportar los justificantes originales si la Administración los requiere tras un muestreo aleatorio.",
+  "effective_date": "2018-08-09",
+  "procedures": [
+    {
+      "name": "Justificación de ayudas para la reparación de viviendas (Lorca)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la cuenta justificativa simplificada",
+          "description": "Entrega de memoria de actuación y relación de gastos e inversiones.",
+          "start_date": "2018-08-09",
+          "end_date": "18 meses después de la entrada en vigor",
+          "required_documentation": "Memoria de actuación, relación clasificada de gastos, detalle de otros ingresos y carta de pago de reintegros si procede."
+        },
+        {
+          "step": 2,
+          "title": "Control por muestreo",
+          "description": "La Administración solicita los originales de los justificantes de gasto mediante un sistema aleatorio.",
+          "start_date": "Tras la presentación de la cuenta",
+          "end_date": null,
+          "required_documentation": "Facturas originales y acreditación de pago."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

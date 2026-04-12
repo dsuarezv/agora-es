@@ -1,0 +1,81 @@
+{
+  "identifier": "BOE-A-2012-7446",
+  "title": "Ley 4/2012, de 30 de abril, por la que se establece el régimen sancionador en diversas materias en el ámbito de la Comunidad Autónoma de las Illes Balears y se fijan medidas administrativas urgentes en materia de juego",
+  "visible_title": "Régimen sancionador en materia de industria, juego y consumo en las Illes Balears",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "4/2012",
+  "publication_date": "2012-06-05",
+  "enactment_date": "2012-04-30",
+  "last_updated": "2014-08-07",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2012/04/30/4",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley regula las sanciones administrativas en las Islas Baleares para tres sectores clave: industria, juego y consumo. Su objetivo es cubrir vacíos legales tras cambios en la normativa estatal y actualizar las multas por infracciones de consumo para que sean realmente disuasorias. Además, establece un catálogo de infracciones leves en el sector industrial para garantizar la seguridad y el cumplimiento de trámites.",
+  "citizen_impact": "Aumenta la protección de los consumidores en Baleares al permitir multas mucho más elevadas para empresas que incumplan sus derechos. También mejora la seguridad indirecta al endurecer el control sobre productos y procesos industriales.",
+  "professional_impact": "Las empresas industriales y de consumo enfrentan sanciones económicas más severas y actualizadas. Los empresarios industriales tienen la opción de reducir sus multas a la mitad (50%) si pagan voluntariamente antes de la notificación de la propuesta de resolución.",
+  "keywords": [
+    "sanciones administrativas",
+    "industria",
+    "consumo",
+    "juego",
+    "multas",
+    "Illes Balears",
+    "seguridad industrial"
+  ],
+  "key_points": [
+    "Creación de un catálogo de infracciones leves en materia de industria para errores de carácter formal o procedimental.",
+    "Posibilidad de reducir la sanción en un 50% si se paga voluntariamente antes de la notificación de la propuesta de resolución.",
+    "Reducción del 25% de la sanción si el pago se realiza tras la notificación de la propuesta de resolución.",
+    "Actualización de las multas por defensa del consumidor: hasta 6.000 € para leves, hasta 24.000 € para graves y hasta 660.000 € para muy graves.",
+    "Capacidad de elevar las multas por infracciones graves y muy graves hasta el quíntuple del valor de los productos o servicios implicados."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 21/1992, de 16 de julio, de industria",
+    "Ley 13/2011, de 27 de mayo, de regulación del juego",
+    "Ley 1/1998, de 10 de marzo, del Estatuto de los consumidores y usuarios de la Comunidad Autónoma de las Illes Balears",
+    "Ley 25/2009, de 22 de diciembre",
+    "Estatuto de Autonomía de las Illes Balears"
+  ],
+  "derogations": [
+    "Decreto Ley 7/2011, de 23 de diciembre"
+  ],
+  "main_obligations": "Las empresas deben cumplir con la normativa de seguridad industrial y los plazos de comunicación de datos. En consumo, las multas pueden alcanzar el quíntuple del valor del beneficio obtenido por la infracción.",
+  "effective_date": "2012-06-06",
+  "procedures": [
+    {
+      "name": "Procedimiento sancionador por infracciones leves en industria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de sanción",
+          "description": "La administración comunica la propuesta de sanción al interesado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Pago voluntario con reducción del 50%",
+          "description": "El infractor puede pagar antes de la notificación de la propuesta para reducir la multa a la mitad.",
+          "start_date": null,
+          "end_date": "Antes de la notificación de la propuesta de resolución",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Pago voluntario con reducción del 25%",
+          "description": "El infractor puede pagar tras la notificación de la propuesta para reducir la multa en un cuarto.",
+          "start_date": null,
+          "end_date": "Tras la notificación de la propuesta de resolución",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

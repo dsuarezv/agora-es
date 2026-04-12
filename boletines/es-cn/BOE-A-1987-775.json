@@ -1,0 +1,100 @@
+{
+  "identifier": "BOE-A-1987-775",
+  "title": "Ley 10/1986, de 11 de diciembre, sobre iniciativa legislativa popular",
+  "visible_title": "Ley sobre iniciativa legislativa popular",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "10/1986",
+  "publication_date": "1987-01-14",
+  "enactment_date": "1986-12-11",
+  "last_updated": "1986-12-19",
+  "status": "in_force",
+  "scope": "Autoonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/1986/12/11/10",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley permite que los ciudadanos canarios con condición política de canarios propongan leyes directamente al Parlamento de Canarias. Establece los requisitos de firmas, los temas prohibidos y el proceso de validación para que la demanda social llegue al debate parlamentario. Busca fortalecer la democracia permitiendo que la ciudadanía canalice propuestas que los partidos políticos no hayan abordado.",
+  "citizen_impact": "Otorga a los ciudadanos el derecho de proponer leyes si consiguen el apoyo de 15.000 firmas (o el 50% de los electores de una isla en temas locales). Facilita también la participación de canarios residentes en el extranjero mediante trámites especiales en consulados.",
+  "professional_impact": "Los promotores pueden recibir una indemnización por gastos (hasta 750.000 pesetas en la redacción original) si la propuesta es admitida a trámite. Los funcionarios del Parlamento y la Junta de Control asumen la carga de verificar la autenticidad de las firmas y la legalidad de la propuesta.",
+  "keywords": [
+    "iniciativa legislativa popular",
+    "Canarias",
+    "participación ciudadana",
+    "derecho de petición",
+    "Parlamento de Canarias",
+    "recogida de firmas"
+  ],
+  "key_points": [
+    "Se requieren al menos 15.000 firmas para presentar una propuesta de ley.",
+    "En temas exclusivos de una isla, se requiere el 50% de los electores de esa circunscripción.",
+    "Están prohibidas las propuestas sobre presupuestos, impuestos, reforma del Estatuto de Autonomía o régimen electoral.",
+    "La recogida de firmas tiene un plazo máximo de 3 meses tras la admisión.",
+    "Se crea una Junta de Control presidida por el Diputado del Común para supervisar el proceso.",
+    "Los canarios residentes en el extranjero pueden participar con plazos ampliados de hasta 5 meses para recoger firmas.",
+    "Existe un sistema de indemnización para los promotores por gastos debidamente acreditados."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Canarias (artículo 11.7 y 11.4)",
+    "Constitución Española de 1978"
+  ],
+  "derogations": [],
+  "main_obligations": "Los promotores deben presentar un texto articulado con exposición de motivos y una comisión promotora. Las firmas deben incluir nombre, apellidos, DNI y domicilio, y ser autenticadas por fedatarios públicos o especiales.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Tramitación de la Iniciativa Legislativa Popular",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la propuesta",
+          "description": "Entrega del texto de la ley y la relación de la Comisión Promotora ante la Mesa del Parlamento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Texto articulado, exposición de motivos y datos de la Comisión Promotora."
+        },
+        {
+          "step": 2,
+          "title": "Examen de admisibilidad",
+          "description": "La Mesa del Parlamento decide si la propuesta cumple los requisitos legales.",
+          "start_date": "15 días desde la presentación",
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informe del Consejo Consultivo",
+          "description": "La Mesa solicita un informe preceptivo al Consejo Consultivo de Canarias.",
+          "start_date": "Tras la decisión de la Mesa",
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Recogida de firmas",
+          "description": "Una vez admitida, los promotores inician la recogida de firmas en papel timbrado.",
+          "start_date": "Tras la notificación de admisión",
+          "end_date": "3 meses",
+          "required_documentation": "Plegos con firmas, nombre, DNI y domicilio."
+        },
+        {
+          "step": 5,
+          "title": "Entrega de firmas",
+          "description": "Entrega de los pliegos autenticados en la Secretaría General del Parlamento.",
+          "start_date": "Al finalizar el plazo de recogida",
+          "end_date": "6 días después del vencimiento del plazo",
+          "required_documentation": "Plegos de firmas autenticadas."
+        },
+        {
+          "step": 6,
+          "title": "Verificación por la Junta de Control",
+          "description": "La Junta de Control realiza el recuento y comprueba la validez de las firmas.",
+          "start_date": "Inmediatamente tras la presentación de firmas",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

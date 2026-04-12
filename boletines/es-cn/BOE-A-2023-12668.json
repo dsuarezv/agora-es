@@ -1,0 +1,188 @@
+{
+  "identifier": "BOE-A-2023-12668",
+  "title": "Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias",
+  "visible_title": "Ley de la Presidencia y del Gobierno de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "4/2023",
+  "publication_date": "2023-05-30",
+  "enactment_date": "2023-03-23",
+  "last_updated": "2024-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2023/03/23/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza la estructura del Gobierno de Canarias para alinearse con su nuevo Estatuto de Autonomía. Introduce cambios profundos en la toma de decisiones, permitiendo reuniones telemáticas y agilizando la creación de leyes mediante la tramitación urgente. Además, refuerza la transparencia y la participación ciudadana, obligando a realizar consultas públicas antes de aprobar nuevas regulaciones. También establece criterios de igualdad de género en el Gobierno y nuevos límites éticos para los cargos públicos.",
+  "citizen_impact": "Los ciudadanos ganan voz en la creación de leyes mediante la obligatoriedad de consultas públicas previas de al menos 15 días. Además, la transparencia mejora gracias a que el Gobierno debe publicar textos normativos actualizados y consolidados en internet, facilitando el acceso a la información legal clara.",
+  "professional_impact": "Los funcionarios que asuman cargos de alta dirección mantienen sus derechos económicos previos. Las empresas y profesionales deben adaptarse a un entorno legislativo más ágil, ya que los plazos de audiencia pueden reducirse a la mitad en trámites urgentes o a solo 7 días en ciertos procesos.",
+  "keywords": [
+    "Gobierno de Canarias",
+    "Presidencia",
+    "Transparencia",
+    "Participación ciudadana",
+    "Igualdad de género",
+    "Administración pública",
+    "Tramitación legislativa"
+  ],
+  "key_points": [
+    "La Presidencia de Canarias ahora puede disolver el Parlamento de forma anticipada.",
+    "Se impone un equilibrio de género obligatorio en el Gobierno (entre 40% y 60% de cada sexo).",
+    "Obligatoriedad de realizar consultas públicas de al menos 15 días naturales para nuevas regulaciones.",
+    "Derecho de audiencia de al menos 15 días hábiles cuando una norma afecte a derechos e intereses legítimos.",
+    "Posibilidad de tramitación urgente que reduce todos los plazos de los trámites a la mitad.",
+    "Se permite legalmente la celebración de reuniones de Gobierno mediante videoconferencia o medios telemáticos.",
+    "Los expresidentes tienen derecho a tratamiento vitalicio, pero se prohíbe el cobro de sueldos sin actividad asociada.",
+    "Obligación de publicar textos normativos actualizados y consolidados en el Portal de Transparencia.",
+    "Los miembros del Gobierno deben abstenerse de intervenir en asuntos con intereses privados o familiares hasta el cuarto grado de consanguinidad.",
+    "Creación de la figura de la PortaVOCÍA del Gobierno para la comunicación oficial.",
+    "Garantía de mantenimiento de sueldos y derechos para empleados públicos en puestos de alta dirección."
+  ],
+  "legal_references": [
+    "Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias",
+    "Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias",
+    "Estatuto de Autonomía de Canarias",
+    "Ley Orgánica 10/1982, de 10 de agosto",
+    "Ley Orgánica 1/2018, de 5 de noviembre",
+    "Constitución española",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Ley 4/1997, de 6 de junio, sobre sedes de los órganos de la Administración Pública de la Comunidad Autónoma de Canarias",
+    "Código Civil",
+    "Reglamento del Parlamento de Canarias"
+  ],
+  "derogations": [
+    "Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias",
+    "Disposición adicional segunda de la Ley 4/1997, de 6 de junio, sobre sedes de los órganos de la Administración Pública de la Comunidad Autónoma de Canarias"
+  ],
+  "main_obligations": "El Presidente debe tomar posesión en un plazo de 10 días naturales tras su nombramiento. Los miembros del Gobierno tienen el deber de secreto sobre las deliberaciones del Consejo, incluso tras dejar el cargo, y los departamentos deben revisar periódicamente su normativa para asegurar la buena regulación.",
+  "effective_date": "2023-05-31",
+  "procedures": [
+    {
+      "name": "Elaboración de proyectos de ley",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Consulta previa (opcional)",
+          "description": "Recabar opinión ciudadana sobre problemas y soluciones antes de redactar el texto.",
+          "start_date": "Plazo no inferior a 20 días naturales",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Elaboración del anteproyecto y memoria",
+          "description": "Redacción del texto legal junto con una memoria justificativa de impactos y efectos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria justificativa"
+        },
+        {
+          "step": 3,
+          "title": "Trámite de audiencia",
+          "description": "Consulta a personas o asociaciones afectadas por la norma.",
+          "start_date": "Plazo no inferior a 20 días hábiles",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Dictamen del Consejo Consultivo",
+          "description": "Solicitud de informe preceptivo antes de la aprobación por el Gobierno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación urgente de iniciativas legislativas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Reducción de plazos",
+          "description": "Los plazos de elaboración se reducen a la mitad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Trámite de audiencia urgente",
+          "description": "El plazo para realizar audiencias o información pública se reduce drásticamente.",
+          "start_date": "7 días",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Elaboración de disposiciones reglamentarias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Consulta previa",
+          "description": "Recabar opinión de ciudadanía y organizaciones sobre problemas y soluciones.",
+          "start_date": "Antes de la redacción",
+          "end_date": "Plazo no inferior a 15 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Elaboración de informe justificativo",
+          "description": "Redacción de informe con impacto económico, social y técnico-jurídico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe justificativo"
+        },
+        {
+          "step": 3,
+          "title": "Trámite de audiencia",
+          "description": "Audiencia a personas afectadas para que expongan alegaciones.",
+          "start_date": null,
+          "end_date": "Plazo no inferior a 15 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Dictamen del Consejo Consultivo",
+          "description": "Solicitud de informe jurídico al Consejo Consultivo de Canarias.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Aprobación",
+          "description": "Sometimiento al órgano competente para su aprobación final.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación urgente",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Reducción de plazos",
+          "description": "Todos los plazos de los trámites se reducen a la mitad.",
+          "start_date": "Desde el acuerdo de urgencia",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Consulta y audiencia urgente",
+          "description": "Se omite la consulta previa y la audiencia se reduce a 7 días.",
+          "start_date": null,
+          "end_date": "7 días",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

@@ -1,0 +1,81 @@
+{
+  "identifier": "BOE-A-2025-8159",
+  "title": "Real Decreto 345/2025, de 22 de abril, por el que se desarrolla el régimen jurídico de la Empresa de Transformación Agraria, SA, S.M.E., M.P. (TRAGSA) y de su filial Tecnologías y Servicios Agrarios, SA, S.M.E., M.P. (TRAGSATEC)",
+  "visible_title": "Régimen jurídico de TRAGSA y TRAGSATEC",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes",
+  "official_number": "345/2025",
+  "publication_date": "2025-04-23",
+  "enactment_date": "2025-04-22",
+  "last_updated": "2025-05-21",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/04/22/345",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "98",
+  "summary": "Esta norma actualiza y adapta el marco legal de TRAGSA y su filial TRAGSATEC para que operen como 'medios propios' de las Administraciones Públicas. El objetivo es facilitar que el Estado, Comunidades Autónomas y otras entidades públicas les encarguen servicios técnicos y obras, especialmente en el ámbito agrario y rural, garantizando un control conjunto y una gestión económica eficiente. La actualización responde a cambios en la Ley de Contratos del Sector Público y a recomendaciones de órganos fiscalizadores.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo para aquellos propietarios de parcelas agrícolas afectadas por la DANA (2024) que puedan autorizar reparaciones mediante este grupo.",
+  "professional_impact": "Afecta a funcionarios de administraciones públicas que ahora tienen un marco más claro para realizar encargos directos a TRAGSA sin licitación en ciertos supuestos. Para las empresas del sector agrario, define las reglas de competencia y la posibilidad de que TRAGSA subcontrate hasta un 50% de los encargos con terceros.",
+  "keywords": [
+    "TRAGSA",
+    "TRAGSATEC",
+    "medio propio",
+    "sector público",
+    "transformación agraria",
+    "encargos administrativos",
+    "contratación pública"
+  ],
+  "key_points": [
+    "Define a TRAGSA y TRAGSATEC como medios propios personificados para el Estado y las Comunidades Autónomas.",
+    "Establece que los encargos tienen naturaleza instrumental y no contractual, siendo de carácter interno y subordinado.",
+    "Permite la ejecución prioritaria y obligatoria de actuaciones en situaciones de emergencia.",
+    "Crea una Comisión para la Determinación de Tarifas para asegurar que los precios cubran costes reales totales.",
+    "Limita la subcontratación de terceros a un máximo del 50% del encargo, salvo excepciones por seguridad o urgencia.",
+    "Facilita la participación de las administraciones en el control conjunto mediante nuevas comisiones.",
+    "Permite que TRAGSA participe en la financiación de infraestructuras que se le encarguen construir o explotar.",
+    "Regula la posibilidad de realizar encargos en el exterior para apoyar la cooperación española."
+  ],
+  "legal_references": [
+    "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+    "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+    "Real Decreto 69/2019, de 15 de febrero",
+    "Real Decreto-ley 36/2020, de 30 de diciembre",
+    "Ley 11/2020, de 30 de diciembre, de Presupuestos Generales del Estado para el año 2021",
+    "Real Decreto-ley 7/2024, de 11 de noviembre"
+  ],
+  "derogations": [
+    "Real Decreto 69/2019, de 15 de febrero"
+  ],
+  "main_obligations": "Las administraciones que utilicen a TRAGSA como medio propio deben formalizar los encargos mediante documentos técnicos y presupuestos previos. TRAGSA debe garantizar que sus tarifas representen costes reales totales y cumplir con los límites de subcontratación establecidos.",
+  "effective_date": "2025-04-24",
+  "procedures": [
+    {
+      "name": "Autorización de reparaciones de parcelas afectadas por la DANA (Art. 25 RD-ley 7/2024)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación o ratificación de afectación y autorización de trabajos",
+          "description": "Los propietarios de parcelas afectadas por la DANA deben comunicar la afectación y autorizar al Grupo TRAGSA para realizar las reparaciones.",
+          "start_date": "2025-04-24",
+          "end_date": "30 días hábiles tras la entrada en vigor",
+          "required_documentation": "Referencia catastral de la parcela y datos del titular o interesado legítimo."
+        }
+      ]
+    },
+    {
+      "name": "Determinación de tarifas de TRAGSA",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración y aprobación de tarifas",
+          "description": "La Comisión para la determinación de tarifas elabora, modifica o revisa el régimen tarifario de la empresa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

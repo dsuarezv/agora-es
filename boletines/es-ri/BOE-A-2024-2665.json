@@ -1,0 +1,72 @@
+{
+  "identifier": "BOE-A-2024-2665",
+  "title": "Ley 1/2024, de 24 de enero, medidas temporales y urgentes para la protección del paisaje de La Rioja",
+  "visible_title": "Medidas temporales y urgentes para la protección del paisaje de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "1/2024",
+  "publication_date": "2024-02-13",
+  "enactment_date": "2024-01-24",
+  "last_updated": "2025-07-02",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2024/01/24/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece una moratoria para frenar la instalación masiva de grandes parques fotovoltaicos y eólicos en suelos no urbanizables de La Rioja. El objetivo es evitar la degradación del paisaje y la pérdida de valor agrícola mientras se tramita una Ley del Paisaje definitiva. La medida busca equilibrar la transición energética con la protección del entorno natural y el enoturismo.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, más allá de la posible preservación estética y ambiental de sus entornos rurales y agrícolas.",
+  "professional_impact": "Afecta directamente a las empresas promotoras de energías renovables, suspendiendo sus trámites de declaración de utilidad pública y autorizaciones de uso de suelo. Los funcionarios de la administración autonómica deben paralizar los expedientes en curso, salvo aquellos que ya hubieran superado fases avanzadas de información pública.",
+  "keywords": [
+    "paisaje",
+    "energías renovables",
+    "moratoria",
+    "suelo no urbanizable",
+    "La Rioja",
+    "instalaciones eléctricas",
+    "protección ambiental"
+  ],
+  "key_points": [
+    "Suspensión de trámites para declarar de utilidad pública grandes proyectos de generación eléctrica.",
+    "Paralización de autorizaciones para actividades en suelo no urbanizable relacionadas con energía eléctrica.",
+    "Exclusión de la medida para proyectos de autoconsumo energético.",
+    "Protección de los proyectos que ya habían superado la fase de información pública antes de la ley.",
+    "La medida es temporal y durará hasta que se apruebe la nueva Ley del Paisaje de La Rioja."
+  ],
+  "legal_references": [
+    "Ley 24/2013, de 26 de diciembre, del Sector Eléctrico",
+    "Ley 5/2006, de 2 de mayo, de Ordenación del Territorio y Urbanismo de La Rioja (LOTUR)",
+    "Real Decreto 1955/2000, de 1 de diciembre",
+    "Decreto 18/2019, de 17 de mayo (Directriz de Protección del Suelo No Urbanizable)",
+    "Ley 6/2017, de 8 de mayo de Protección del Medio Ambiente de la Comunidad Autónoma de La Rioja"
+  ],
+  "derogations": [
+    "Ley 4/2025, de 1 de julio (deroga la presente ley con efectos desde el 22 de julio de 2025)"
+  ],
+  "main_obligations": "La administración debe suspender los procedimientos de reconocimiento de utilidad pública y de autorización de uso de suelo no urbanizable para grandes instalaciones eléctricas, excepto para autoconsumo o proyectos con trámites avanzados.",
+  "effective_date": "2024-02-13",
+  "procedures": [
+    {
+      "name": "Procedimiento de reconocimiento de utilidad pública y autorización de uso de suelo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Suspensión de procedimientos",
+          "description": "Paralización de los expedientes de declaración de utilidad pública y de autorizaciones en suelo no urbanizable para grandes proyectos eléctricos.",
+          "start_date": "2024-02-13",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Excepción por trámite avanzado",
+          "description": "Los proyectos que hayan superado el trámite de información pública (Art. 55 Ley 24/2013) antes de la entrada en vigor no se suspenden.",
+          "start_date": "2024-02-13",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

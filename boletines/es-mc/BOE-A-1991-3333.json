@@ -1,0 +1,85 @@
+{
+  "identifier": "BOE-A-1991-3333",
+  "title": "Ley 10/1990, de 27 de agosto, de Protección y Defensa de los Animales de Compañía",
+  "visible_title": "Ley de Protección y Defensa de los Animales de Compañía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "10/1990",
+  "publication_date": "1991-02-07",
+  "enactment_date": "1990-08-27",
+  "last_updated": "2017-11-23",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/1990/08/27/10",
+  "official_journal": "Boletín Oficial de la Región de Murcia",
+  "journal_issue": null,
+  "summary": "Esta norma establece el marco jurídico para proteger y defender a los animales de compañía en la Región de Murcia. Define qué se considera animal de compañía y regula las obligaciones de sus dueños, así como los requisitos para criaderos y centros de cuidado. Su objetivo es evitar el maltrato, el abandono y garantizar condiciones de vida dignas para estos animales.",
+  "citizen_impact": "Obliga a los dueños de perros a censarlos en su Ayuntamiento y a mantenerlos en condiciones higiénicas adecuadas. También impone la responsabilidad civil por daños que el animal pueda causar a terceros y prohíbe el abandono o el maltrato.",
+  "professional_impact": "Establece requisitos estrictos para criaderos, residencias y centros de cuidado, que deben ser declarados 'núcleos zoológicos'. Los veterinarios deben llevar un registro clínico obligatorio y los establecimientos de venta deben ofrecer garantías de salud y un plazo mínimo de 14 días para lesiones ocultas.",
+  "keywords": [
+    "animales de compañía",
+    "protección animal",
+    "bienestar animal",
+    "maltrato animal",
+    "núcleos zoológicos",
+    "censos de animales",
+    "Región de Murcia"
+  ],
+  "key_points": [
+    "Obligación de censar a los perros en el Ayuntamiento en un plazo de 3 meses desde el nacimiento o 1 mes desde la adquisición.",
+    "Prohibición absoluta de abandonar animales o someterlos a prácticas que les causen sufrimiento.",
+    "Los establecimientos de cría y venta deben estar registrados como núcleos zoológicos.",
+    "Garantía mínima de 14 días para animales comprados ante posibles enfermedades o lesiones ocultas.",
+    "Prohibición de utilizar animales de compañía en espectáculos o peleas que impliquen crueldad.",
+    "Responsabilidad del dueño por los daños y molestias que el animal cause a terceros.",
+    "Regulación de las condiciones de transporte para garantizar la salud y seguridad del animal.",
+    "Los Ayuntamientos deben gestionar la recogida de animales abandonados y su posterior adopción o sacrificio controlado."
+  ],
+  "legal_references": [
+    "Código Civil (artículo 1.905)",
+    "Ley 6/2017, de 8 de noviembre"
+  ],
+  "derogations": [
+    "Ley 10/1990 (derogada en su mayor parte por la Ley 6/2017, salvo el art. 9)"
+  ],
+  "main_obligations": "Los dueños deben censar a sus perros, mantener condiciones higiénicas óptimas y evitar el maltrato o abandono. Las infracciones pueden conllevar multas de hasta 500.000 pesetas y el decomiso del animal.",
+  "effective_date": "1991-02-07",
+  "procedures": [
+    {
+      "name": "Censo de perros",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Identificación y registro",
+          "descrption": "El propietario debe inscribir al animal en el censo municipal.",
+          "start_date": "Desde el nacimiento o adquisición",
+          "end_date": "3 meses desde el nacimiento o 1 mes desde la adquisición",
+          "required_documentation": "Identificación del animal"
+        }
+      ]
+    },
+    {
+      "name": "Recuperación de animales abandonados con identificación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aviso al propietario",
+          "descrption": "Se comunica al dueño la localización del animal.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de recuperación",
+          "descrption": "El propietario tiene un tiempo para recoger al animal pagando los gastos.",
+          "start_date": "Desde el aviso",
+          "end_date": "14 días",
+          "required_documentation": "Abono de gastos de mantenimiento"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

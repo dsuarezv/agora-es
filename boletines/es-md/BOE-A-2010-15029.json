@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-2010-15029",
+  "title": "Ley 3/2010, de 22 de junio, de Instalaciones Aeronáuticas de la Comunidad de Madrid",
+  "visible_title": "Ley de Instalaciones Aeronáuticas de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "3/2010",
+  "publication_date": "2010-10-01",
+  "enactment_date": "2010-06-22",
+  "last_updated": "2010-06-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2010/06/22/3",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley regula la autorización, construcción, gestión y uso de aeródromos, heliportos y aeropuertos no comerciales dentro de la Comunidad de Madrid. Establece el marco jurídico para que la administración regional controle estas infraestructuras, garantizando la seguridad y la sostenibilidad ambiental. Además, define las competencias de la Comunidad frente al Estado y crea un registro específico para estas instalaciones.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en lo relativo a la gestión de la movilidad aérea regional y la protección del entorno frente a infraestructuras aeronáuticas.",
+  "professional_impact": "Afecta directamente a propietarios de aeródromos y heliportos privados, así como a gestores de infraestructuras, quienes deben cumplir con estrictos requisitos de autorización, planes directores y revisiones cada ocho años. Introduce un régimen sancionador con multas que pueden alcanzar los 3 millones de euros por infracciones muy graves.",
+  "keywords": [
+    "instalaciones aeronáuticas",
+    "aeropuertos",
+    "heliportos",
+    "aeródromos",
+    "Comunidad de Madrid",
+    "seguridad aérea",
+    "plan director",
+    "autorización aeronáutica"
+  ],
+  "key_points": [
+    "La ley se aplica solo a instalaciones no militares, no comerciales y sin calificación de interés general estatal.",
+    "Se exige un Plan Director para la mayoría de las instalaciones para definir su desarrollo y zonas de servicio.",
+    "Las autorizaciones de apertura al tráfico deben renovarse cada ocho años o ante cambios sustanciales.",
+    "Se establece el silencio administrativo positivo para la aprobación de Planes Directores bajo condiciones muy específicas de denuncia previa.",
+    "Las infracciones muy graves (como construir sin autorización) conllevan multas de hasta 3.000.000 de euros.",
+    "Se crea el Registro de Instalaciones Aeronáuticas de la Comunidad de Madrid.",
+    "Los proyectos de estas instalaciones pueden ser declarados de excepcional interés público para facilitar su gestión del suelo."
+  ],
+  "legal_references": [
+    "Ley 21/2003, de 7 de julio, de Seguridad Aérea",
+    "Ley 9/2001, de 17 de julio, del Suelo de la Comunidad de Madrid",
+    "Ley 2/2002, de 19 de junio, de Evaluación Ambiental de la Comunidad de Madrid",
+    "Ley de Tasas y Precios Públicos de la Comunidad de Madrid",
+    "Estatuto de Autonomía de la Comunidad de Madrid"
+  ],
+  "derogations": [],
+  "main_obligations": "Los titulares deben obtener autorización previa para construir o modificar instalaciones y autorización de apertura al tráfico. Deben mantener actualizados sus Planes Directores y cumplir con las condiciones de seguridad y medio ambiente impuestas en sus autorizaciones, bajo riesgo de multas de hasta 3 millones de euros.",
+  "effective_date": "2010-06-23",
+  "procedures": [
+    {
+      "name": "Autorización previa de construcción, establecimiento o modificación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud y proyecto",
+          "description": "Entrega de proyecto con compatibilidad de espacio aéreo, informe urbanístico, estudio de impacto ambiental y accesibilidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto técnico, informe de compatibilidad de espacio aéreo, informe urbanístico, estudio de impacto ambiental, plan de accesibilidad."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la solicitud",
+          "description": "Plazo máximo de resolución de la administración.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Denuncia de falta de respuesta",
+          "description": "Si pasan 3 meses sin respuesta, el interesado debe denunciar por escrito ante el órgano superior.",
+          "start_date": "3 meses desde la solicitud",
+          "end_date": "15 días tras el vencimiento de los 3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aprobación del Plan Director",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación y consultas",
+          "description": "Solicitud de informes a urbanismo, medio ambiente e infraestructura y al Estado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria de tráfico, planos generales, estudio de incidencia territorial y estimación económica."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de aprobación",
+          "description": "Plazo para la aprobación por la autoridad aeroportuaria regional.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

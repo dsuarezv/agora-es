@@ -1,0 +1,95 @@
+{
+  "identifier": "BOE-A-2020-4559",
+  "title": "Decreto-ley 4/2020, de 1 de abril, por el que se adoptan medidas urgentes y extraordinarias en el ámbito de la contratación pública para responder al impacto de la crisis ocasionada por el COVID-19",
+  "visible_title": "Medidas urgentes en contratación pública ante la crisis del COVID-19",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Junta de Extremadura",
+  "official_number": "4/2020",
+  "publication_date": "2020-04-22",
+  "enactment_date": "2020-04-01",
+  "last_updated": "2020-04-27",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/dl/2020/04/01/4",
+  "official_journal": "Diario Oficial de Extremadura",
+  "journal_issue": null,
+  "summary": "Esta norma establece mecanismos de emergencia para evitar que la parálisis administrativa por la pandemia interrumpa servicios esenciales en Extremadura. Permite prorrogar contratos de suministros y servicios críticos de forma obligatoria para garantizar la continuidad de la actividad pública. Además, facilita el pago anticipado de prestaciones ya realizadas para aliviar la falta de liquidez de las empresas y permite la colaboración rápida entre organismos para suministros sanitarios.",
+  "citizen_impact": "Asegura que los servicios públicos esenciales (como limpieza, suministros o asistencia) no se corten debido a retrasos en los trámites de contratación. No impone nuevos trámites ni cargas directas al ciudadano común.",
+  "professional_impact": "Las empresas proveedoras de la Administración pueden solicitar pagos parciales por servicios ya ejecutados para mejorar su flujo de caja. Los contratistas de servicios esenciales están obligados a aceptar prórrogas de hasta nueve meses si el nuevo contrato no está listo. Los funcionarios de contratación disponen de procedimientos de emergencia para agilizar compras sanitarias.",
+  "keywords": [
+    "contratación pública",
+    "COVID-19",
+    "prórroga de contratos",
+    "pagos parciales",
+    "Extremadura",
+    "emergencia sanitaria"
+  ],
+  "key_points": [
+    "Prórroga obligatoria de contratos de servicios y suministros esenciales hasta un máximo de 9 meses si no hay nuevo contrato.",
+    "Posibilidad de solicitar pagos parciales a cuenta de prestaciones ya realizadas y certificadas.",
+    "Procedimiento de pago parcial con resolución obligatoria de la Administración en 10 días naturales.",
+    "Facilidad para tramitar prórrogas mediante procedimientos de emergencia.",
+    "Colaboración entre órganos de contratación para suministros sanitarios y sociosanitarios urgentes.",
+    "Vigencia limitada de las medidas hasta el 31 de diciembre de 2020."
+  ],
+  "legal_references": [
+    "Real Decreto-ley 8/2020, de 17 de marzo",
+    "Real Decreto 463/2020, de 14 de marzo",
+    "Real Decreto 465/2020, de 17 de marzo",
+    "Real Decreto 476/2020, de 27 de marzo",
+    "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Estatuto de Autonomía de Extremadura"
+  ],
+  "derogations": [
+    "Cualquier disposición de igual o inferior rango que se oponga a este Decreto-ley"
+  ],
+  "main_obligations": "Los contratistas de servicios esenciales están obligados a aceptar la prórroga del contrato si la Administración lo requiere. Los órganos de contratación deben resolver las solicitudes de pago parcial en un plazo máximo de 10 días naturales.",
+  "effective_date": "2020-04-22",
+  "procedures": [
+    {
+      "name": "Solicitud de pago parcial a cuenta",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El contratista solicita el pago de prestaciones parciales ya ejecutadas y certificadas.",
+          "start_date": "Durante la vigencia del decreto",
+          "end_date": null,
+          "required_documentation": "Certificación de las prestaciones ejecutadas por el órgano competente"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la Administración",
+          "description": "El órgano de contratación debe resolver la solicitud de forma expresa.",
+          "start_date": "Desde la solicitud",
+          "end_date": "10 días naturales",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Prórroga de continuidad de contratos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Identificación de necesidad de prórroga",
+          "description": "Se detecta que el contrato de suministro o servicio va a vencer sin nuevo contrato formalizado.",
+          "start_date": "Al vencimiento del contrato",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Ejecución de la prórroga",
+          "description": "Se aplica la prórroga obligatoria o facultativa según el tipo de contrato.",
+          "start_date": "Al vencimiento",
+          "end_date": "Máximo 9 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

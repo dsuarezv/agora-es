@@ -1,0 +1,72 @@
+{
+  "identifier": "BOE-A-2020-4557",
+  "title": "Decreto-ley 2/2020, de 25 de marzo, de medidas urgentes de carácter tributario para paliar los efectos del COVID-19 en la Comunidad Autónoma de Extremadura",
+  "visible_title": "Medidas tributarias urgentes para paliar los efectos del COVID-19 en Extremadura",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Junta de Extremadura",
+  "official_number": "2/2020",
+  "publication_date": "2020-04-22",
+  "enactment_date": "2020-03-25",
+  "last_updated": "2020-06-02",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/dl/2020/03/25/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma implementa ayudas fiscales y aplazamientos de pagos en Extremadura para mitigar el impacto económico de la pandemia de COVID-19. Su objetivo principal es evitar que los ciudadanos tengan que acudir físicamente a las oficinas de la Administración tributaria durante el estado de alarma. Para ello, extiende plazos de presentación de impuestos y facilita la gestión de deudas sin necesidad de avales.",
+  "citizen_impact": "Los ciudadanos extremeños disponen de más tiempo para presentar y pagar impuestos como el de Sucesiones o Transmisiones Patrimoniales sin recibir sanciones. Además, se evita la necesidad de realizar desplazamientos presenciales a las oficinas públicas para trámites tributarios.",
+  "professional_impact": "Las PYMES y autónomos extremeños pueden solicitar aplazamientos o fraccionamientos de deudas de hasta 50.000 euros sin tener que aportar garantías o avales. Los establecimientos de juego reciben una bonificación del 50% en su tasa fiscal por la inactividad forzada durante el confinamiento.",
+  "keywords": [
+    "COVID-19",
+    "Extremadura",
+    "medidas tributarias",
+    "aplazamiento de deuda",
+    "prórroga de plazos",
+    "exención de garantías",
+    "impuesto sucesiones",
+    "transmisiones patrimoniales"
+  ],
+  "key_points": [
+    "Ampliación de 3 meses en los plazos de Sucesiones, Donaciones y Transmisiones Patrimoniales para vencimientos hasta el 30 de mayo de 2020.",
+    "Prórroga de todos los plazos de presentación e ingreso de deudas públicas hasta el mismo día del segundo mes siguiente a su vencimiento original.",
+    "Bonificación del 50% en la tasa de máquinas recreativas y de azar para los periodos de deuda entre abril y junio de 2020.",
+    "Exención de garantías para solicitar aplazamientos o fraccionamientos de deudas de hasta 50.000 euros hasta el 30 de junio de 2020.",
+    "Aplicación de medidas de gestión de crisis sanitaria para los trámites de la Administración tributaria extremeña."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020",
+    "Real Decreto 465/2020",
+    "Real Decreto-ley 8/2020",
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunidad Autónoma de Extremadura",
+    "Ley 39/2015"
+  ],
+  "derogations": [],
+  "main_obligations": "Los contribuyentes deben cumplir con los nuevos plazos prorrogados para la presentación de autoliquidaciones y el pago de deudas. Para beneficiarse de la exención de garantías en deudas de hasta 50.000€, la solicitud debe realizarse antes del 30 de junio de 2020.",
+  "effective_date": "2020-03-25",
+  "procedures": [
+    {
+      "name": "Gestión de tributos y deudas públicas extremeñas durante la crisis sanitaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación y pago de Sucesiones y Transmisiones Patrimoniales",
+          "description": "Presentación de declaraciones con plazo vencido entre el inicio del estado de alarma y el 30 de mayo de 2020.",
+          "start_date": "2020-03-14",
+          "end_date": "2020-05-30",
+          "required_documentation": "Autoliquidación correspondiente"
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de aplazamiento o fraccionamiento de deuda",
+          "description": "Solicitud de pago aplazado para deudas de hasta 50.000 euros sin necesidad de garantías.",
+          "start_date": "2020-03-25",
+          "end_date": "2020-06-30",
+          "required_documentation": "Solicitud de aplazamiento/fraccionamiento"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

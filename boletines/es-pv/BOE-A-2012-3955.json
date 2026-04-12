@@ -1,0 +1,77 @@
+{
+  "identifier": "BOE-A-2012-3955",
+  "title": "Ley 8/1987, de 20 de noviembre, sobre creación de los Jurados Terriitoriales de Expropiación Forzosa",
+  "visible_title": "Ley de creación de los Jurados Territoriales de Expropiación Forzosa",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "8/1987",
+  "publication_date": "1987-11-20",
+  "enactment_date": "1987-11-20",
+  "last_updated": "1987-12-10",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1987/11/20/8",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta ley establece la estructura y el funcionamiento de los Jurados Territoriales de Expropiación en Álava, Vizcaya y Guipúzcoa. Su objetivo es garantizar que el precio que se paga por un bien expropiado sea justo y equitativo, protegiendo la propiedad privada. Para asegurar la coherencia en las valoraciones, crea la Comisión Técnica de Valoración de Euskadi.",
+  "citizen_impact": "Si una administración te expropia un terreno o propiedad, esta ley garantiza que exista un órgano especializado para decidir cuánto dinero debes recibir por ello. Asegura que el proceso de valoración sea técnico, motivado y transparente, evitando pagos arbitrarios.",
+  "professional_impact": "Afecta directamente a propietarios de bienes, abogados y técnicos de urbanismo. Los profesionales del sector inmobiliario y agrario se benefician de criterios de valoración más uniformes gracias a la Comisión Técnica, y los administraciones deben seguir un procedimiento estricto de resolución en plazos determinados.",
+  "keywords": [
+    "expropiación forzosa",
+    "justiprecio",
+    "jurados territoriales",
+    "propiedad privada",
+    "valoración de bienes",
+    "País Vasco"
+  ],
+  "key_points": [
+    "Creación de Jurados Territoriales en las capitales de Álava, Vizcaya y Guipúzcoa para decidir el precio justo de las expropiaciones.",
+    "Los Jurados están compuestos por un magistrado, un letrado, un técnico especializado, un representante de cámaras profesionales (agraria, comercial o urbana) y un notario.",
+    "Plazo máximo de resolución de 15 días para decidir el precio, prorrogable a 30 días si requiere inspección de campo.",
+    "Creación de la Comisión Técnica de Valoración de Euskadi para unificar criterios de tasación en toda la comunidad.",
+    "Las resoluciones deben ser obligatoriamente motivadas y pueden ser recurridas en la vía contencioso-administrativa."
+  ],
+  "legal_references": [
+    "Ley de Expropiación Forzosa de 16 de diciembre de 1954",
+    "Estatuto de Autonomía del País Vasco",
+    "Real Decreto 1346/1976, de 9 de abril"
+  ],
+  "derogations": [
+    "Decreto 292/1986, de 25 de noviembre"
+  ],
+  "main_obligations": "Los Jurados deben emitir una resolución motivada sobre el precio de los bienes en un plazo de 15 días (o 30 excepcionalmente). Las resoluciones deben basarse en la legislación vigente de expropiación y urbanismo.",
+  "effective_date": "1987-11-20",
+  "procedures": [
+    {
+      "name": "Procedimiento de Justiprecio ante el Jurado Territorial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de hojas de apreciación",
+          "descrption": "La Administración y los propietarios presentan sus propuestas de valor para el bien expropiado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Hojas de apreciación de la Administración y del propietario"
+        },
+        {
+          "step": 2,
+          "title": "Resolución del Jurado",
+          "descrption": "El Jurado decide el precio justo tras analizar las propuestas.",
+          "start_date": null,
+          "end_date": "15 días (prorrogables a 30 días si hay inspección)",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Notificación y Recurso",
+          "descrption": "Se notifica la decisión a las partes, agotando la vía administrativa y permitiendo el recurso contencioso-administrativo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,90 @@
+{
+  "identifier": "BOE-A-1995-12102",
+  "title": "Ley 7/1995, de 6 de abril, de Ordenación del Turismo de Canarias",
+  "visible_title": "Ordenación del Turismo de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "7/1995",
+  "publication_date": "1995-05-23",
+  "enactment_date": "1995-04-06",
+  "last_updated": "2025-12-12",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/1995/04/06/7",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley organiza todo el sector turístico de Canarias tratándolo como un destino único para potenciar su promoción. Establece las reglas de juego para las empresas, desde la obligación de estar registradas hasta la necesidad de contratar seguros específicos para actividades de riesgo. Además, endurece el control sobre la publicidad de viviendas y establece sanciones severas para garantizar la calidad y seguridad del servicio. En definitiva, busca profesionalizar el sector y proteger tanto al turista como al ordenamiento del territorio.",
+  "citizen_impact": "El ciudadano gana derechos claros: información veraz, servicios de calidad, seguridad y un derecho efectivo a reclamar. En el caso de alojamientos en plataformas digitales, el usuario tiene la garantía de que la publicidad debe mostrar el número de registro oficial, lo que ayuda a evitar estafas o alojamientos ilegales.",
+  "professional_impact": "Las empresas turísticas enfrentan mayores cargas de cumplimiento: inscripción obligatoria en el Registro General, obligación de contratar seguros de responsabilidad civil (especialmente en turismo activo), deber de expedir facturas y facilitar hojas de reclamación. El incumplimiento de estándares de seguridad o la falta de seguro pueden acarrear multas de hasta 300.000 euros y el cierre definitivo del negocio.",
+  "keywords": [
+    "turismo canarias",
+    "ordenación turística",
+    "seguros turismo activo",
+    "registro empresas turísticas",
+    "sanciones turísticas",
+    "viviendas turísticas",
+    "derechos del consumidor turístico"
+  ],
+  "key_points": [
+    "Obligatoriedad de inscribirse en el Registro General de Empresas, Actividades y Establecimientos Turísticos para poder operar.",
+    "Canarias se gestiona como una unidad de destino turístico para su promoción conjunta.",
+    "Derecho del usuario a recibir información veraz, servicios de calidad, seguridad e intimidad.",
+    "Exigencia de seguro de responsabilidad civil obligatorio para actividades de turismo activo o de riesgo.",
+    "La publicidad de viviendas en plataformas digitales debe incluir obligatoriamente el número de registro.",
+    "Prohibición de publicitar infra viviendas o estancias en lugares no autorizados.",
+    "Las infracciones muy graves (como falta de seguro o seguridad) pueden conllevar multas de hasta 300.000 euros.",
+    "Posibilidad de clausura definitiva del establecimiento tras dos infracciones muy graves en tres años consecutivos.",
+    "Los Planes Insulares de Ordenación (PIO) tienen prioridad sobre el planeamiento municipal en temas turísticos.",
+    "Las empresas de tiempo compartido deben permitir la resolución del contrato en un plazo mínimo de 10 días.",
+    "Prescripción de faltas: 3 años para muy graves, 2 años para graves y 1 año para leves.",
+    "Obligación de mantener un libro de inspección y facilitar hojas de reclamación."
+  ],
+  "legal_references": [
+    "Estatuto de Autoeconomía de Canarias",
+    "Constitución Española de 1978",
+    "Ley 3/1986, de 8 de abril, de Disciplina en Materia Turística",
+    "Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias",
+    "Ley 19/1994, de 6 de julio, de Modificación del Régimen Económico y Fiscal de Canarias",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley 1/1987, de 13 de marzo, reguladora de los Planes Insulares de Ordenación"
+  ],
+  "derogatons": [
+    "Ley 3/1986, de 8 de abril, de Disciplina en Materia Turística"
+  ],
+  "main_obligations": "Las empresas deben registrarse previamente en el Registro General y comunicar cualquier inicio de actividad o reforma. Es imperativo contratar seguros de responsabilidad civil para actividades de riesgo y cumplir estrictamente con los estándares de seguridad y servicios declarados para evitar sanciones de hasta 300.000 euros.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Régimen Sancionador y de Inspección",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inspección Turística",
+          "description": "Verificación del cumplimiento de la normativa de alojamiento, servicios, seguridad y existencia de seguros.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Libro de inspección, facturas, seguros de responsabilidad civil."
+        },
+        {
+          "step": 2,
+          "title": "Calificación de la infracción",
+          "description": "Clasificación de la falta en leve, grave o muy grave según la gravedad del incumplimiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aplicación de sanción",
+          "description": "Imposición de multas (hasta 300.000€) o medidas de clausura según la infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

@@ -1,0 +1,100 @@
+{
+  "identifier": "BOE-A-2015-4548",
+  "title": "Ley 3/2015, de 2 de abril, de Cámaras Oficiales de Comercio, Industria, Servicios y Navegación de la Comunitat Valenciana",
+  "visible_title": "Ley de Cámaras Oficiales de la Comunitat Valenciana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "3/2015",
+  "publication_date": "2015-04-27",
+  "enactment_date": "2015-04-02",
+  "last_updated": "2020-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2015/04/02/3",
+  "official_journal": "Diari Oficial de la Comunitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta ley regula la organización, funciones y régimen jurídico de las Cámaras de Comercio, Industria, Servicios y Navegación de la Comunitat Valenciana y de su Consejo. Tras la eliminación del antiguo recurso cameral, la norma establece un nuevo modelo de gobernanza democrática y define sus competencias de apoyo al tejido empresarial. Busca modernizar la gestión de estas entidades y fortalecer su colaboración con la Generalitat para impulsar la competitividad y la internacionalización de las empresas valencianas.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Las empresas y autónomos de la región ven reforzada su representación mediante un sistema de elección directa de vocales. Se introduce el voto electrónico para facilitar la participación en los procesos electorales camerales. Además, las cámaras actúan como agentes de apoyo para la digitalización, la formación y la gestión de ayudas públicas para el sector empresarial.",
+  "keywords": [
+    "Cámaras de Comercio",
+    "Comunitat Valenciana",
+    "tejido empresarial",
+    "competitividad",
+    "gobernanza democrática",
+    "internacionalización",
+    "pymes"
+  ],
+  "key_points": [
+    "Se establece un modelo de gobernanza democrática con elección directa de dos tercios de los vocales por parte de las empresas.",
+    "Se introduce el uso de voto electrónico para facilitar la participación en las elecciones de los órganos de gobierno.",
+    "Se crea el Consejo de Cámaras como órgano de coordinación y representación de todas las cámaras valencianas.",
+    "Las cámaras asumen funciones público-administrativas como la expedición de certificados de origen y la gestión de programas de ayudas.",
+    "Se define la naturaleza de las cámaras como corporaciones de derecho público sin ánimo de lucro, dependientes de la Generalitat.",
+    "Se establece la obligación de elaborar un código de buenas prácticas para garantizar la transparencia e imparcialidad.",
+    "Se regula la creación de planes camerales de internacionalización (anuales) y de competitividad (bienales)."
+  ],
+  "legal_references": [
+    "Ley 4/2014, de 1 de abril, Básica de Cámaras Oficiales de Comercio, Industria, Servicios y Navegación",
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunitat Valenciana",
+    "Real Decreto-ley 13/2010, de 3 de diciembre",
+    "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno",
+    "Real decreto 451/2012, de 5 de marzo"
+  ],
+  "derogations": [
+    "Ley 11/1997, de 16 de diciembre, de la Generalitat Valenciana, de Cámaras Oficiales de Comercio, Industria y Navegación de la Comunidad Valenciana",
+    "Decreto 158/2001, de 15 de octubre, del Gobierno Valenciano (en lo que se oponga a esta ley)"
+  ],
+  "main_obligations": "Las cámaras deben elaborar anualmente una liquidación integrada de cuentas, una memoria de actividades y un informe de gobierno corporativo. Asimismo, deben cumplir con las medidas de publicidad activa de la Ley de Transparencia.",
+  "effective_date": "2015-04-28",
+  "procedures": [
+    {
+      "name": "Proceso Electoral Cameraal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria",
+          "descrption": "Publicación de la convocatoria de elecciones en el DOCV por la Consejería competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Exposición del Censo",
+          "descrption": "Publicidad del censo electoral para permitir reclamaciones de inclusión o exclusión.",
+          "start_date": "Al inicio del proceso electoral",
+          "end_date": "Plazo reglamentario establecido",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Presentación de Candidaturas",
+          "descrption": "Presentación de candidaturas ante la Secretaría General, requiriendo aval de al menos el 4% de los electores (o 10 si el grupo supera 200).",
+          "start_date": "Tras la publicación de la convocatoria",
+          "end_date": "Plazo reglamentario establecido",
+          "required_documentation": "Firmas de aval de los electores"
+        },
+        {
+          "step": 4,
+          "title": "Proclamación de Candidatos",
+          "descrption": "La Junta Electoral comprueba requisitos y proclama a los candidatos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Ejercicio del Voto",
+          "descrption": "Votación presencial o mediante medios electrónicos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificación electrónica para voto electrónico"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

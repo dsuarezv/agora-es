@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-2005-14261",
+  "title": "Ley 4/2005, de 13 de julio, de ordenación farmacéutica de Canarias",
+  "visible_title": "Ordenación farmacéutica de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "4/2005",
+  "publication_date": "2005-08-19",
+  "enactment_date": "2005-07-13",
+  "last_updated": "2018-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2005/07/13/4",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley organiza cómo se gestionan y distribuyen los medicamentos en todo el territorio de Canarias. Establece las reglas para abrir nuevas farmacias, garantizando que haya una cobertura adecuada basada en la población y la distancia entre locales. Regula la responsabilidad de los farmacéuticos en la atención sanitaria y prohíbe prácticas comerciales desleales o la venta ambulante. Además, impone un régimen de sanciones muy estricto para evitar fraudes con las recetas del sistema público de salud.",
+  "citizen_impact": "Garantiza que el ciudadano tenga acceso cercano a una farmacia (máximo un módulo de 2.800 habitantes por oficina) y asegura que siempre haya un profesional cualificado atendiendo. Protege al consumidor prohibiendo la publicidad engañosa, los incentivos para elegir una farmacia sobre otra y la venta de medicamentos en la calle.",
+  "professional_impact": "Las farmacias deben cumplir con estrictos criterios de ubicación (mínimo 250 metros de otros centros) y solo pueden tener una oficina por titular. Los profesionales enfrentan sanciones económicas de hasta un millón de euros y la posible expulsión del sistema de concertación con el Servicio Canario de la Salud en caso de fraude o delitos contra la salud pública.",
+  "keywords": [
+    "ordenación farmacéutica",
+    "farmacias Canarias",
+    "medicamentos",
+    "atención farmacéutica",
+    "régimen sancionador",
+    "salud pública"
+  ],
+  "key_points": [
+    "Las oficinas de farmacia son establecimientos sanitarios privados de interés público.",
+    "Se prohíbe la venta ambulante de medicamentos y la intermediación con ánimo de lucro.",
+    "La apertura de farmacias se calcula según un módulo de 2.800 habitantes por oficina.",
+    "Las nuevas farmacias deben mantener una distancia mínima de 250 metros de otros centros.",
+    "Los titulares solo pueden ser propietarios de una única oficina de farmacia.",
+    "Es obligatorio que el personal esté identificado con nombre y categoría profesional.",
+    "Se prohíbe ofrecer premios o incentivos para captar clientes.",
+    "El cálculo de población para zonas farmacéuticas incluye un 50% adicional de plazas hoteleras.",
+    "Las multas por fraude en recetas del SNS pueden superar los 6.000€.",
+    "Sanciones graves pueden alcanzar el millón de euros y la revocación de la autorización.",
+    "Los hospitales y clínicas veterinarias pueden adquirir medicamentos en farmacias bajo vinculación previa.",
+    "Se exige la presencia física de un farmacéutico durante todo el horario de atención."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Canarias (art. 12.8 y 30.31)",
+    "Ley General de Sanidad",
+    "Ley 25/1990, de 20 de diciembre, del Medicamento",
+    "Real Decreto-Ley 11/1996, de 17 de junio",
+    "Ley 16/1997, de 25 de abril, de Regulación de Servicios de las Oficinas de Farmacia",
+    "Ley Orgánica 10/1982",
+    "Ley Orgánica 4/1996",
+    "Ley 14/1986, General de Sanidad",
+    "Ley 11/1994, de 26 de julio, de Ordenación Sanitaria de Canarias",
+    "Decreto 258/1997, de 16 de octubre",
+    "Orden Ministerial, de 21 de noviembre de 1979",
+    "Real Decreto 909/1978, de 14 de abril"
+  ],
+  "derogations": [
+    "Decreto 258/1997, de 16 de octubre, que establece criterios específicos de planificación y ordenación farmacéutica"
+  ],
+  "main_obligations": "Los titulares deben asegurar la presencia de un farmacéutico en el horario de atención y garantizar la identificación del personal. Se establece un plazo de 3 meses para la señalización e identificación y de 6 meses para adaptar horarios, turnos de guardia y servicios farmacéuticos.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Adaptación a la nueva normativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Identificación y señalización",
+          "description": "El personal debe estar correctamente identificado con su nombre y categoría profesional.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Adaptación de servicios y horarios",
+          "description": "Ajuste de los servicios farmacéuticos, horarios de atención y turnos de guardia a la nueva ley.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

@@ -1,0 +1,108 @@
+{
+  "identifier": "BOE-A-1983-16452",
+  "title": "Ley 1/1983, de 14 de abril, del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias",
+  "visible_title": "Ley del Gobierno y de la Administración Pública de la Comunidad Autónoma de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "1/1983",
+  "publication_date": "1983-06-10",
+  "enactment_date": "1983-04-14",
+  "last_updated": "2023-04-03",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/1983/04/14/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establecía la estructura organizativa del Gobierno de Canarias y su Administración Pública tras la consolidación de la autonomía. Definía las competencias del Presidente, los Consejeros y el funcionamiento del Ejecutivo, además de regular la relación de control con el Parlamento. Su objetivo era dotar de un marco jurídico propio a las instituciones canarias para garantizar la gestión de sus competencias.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que regula la organización interna de las instituciones públicas.",
+  "professional_impact": "Afectaba directamente a los altos cargos (Presidente, Consejeros, Vicepresidentes) y a los funcionarios de la Administración autonómica, definiendo sus atribuciones, incompatibilidades y regímenes de responsabilidad.",
+  "keywords": [
+    "Gobierno de Canarias",
+    "Administración Pública",
+    "Estatuto de Autonomía",
+    "Consejería",
+    "Organización administrativa",
+    "Competencias autonómicas"
+  ],
+  "key_points": [
+    "Establece la figura del Presidente del Gobierno de Canarias como máximo representante de la Comunidad.",
+    "Define la composición del Gobierno, limitado a un máximo de once miembros.",
+    "Regula el régimen de incompatibilidades para garantizar la imparcialidad de los cargos políticos.",
+    "Establece el procedimiento de moción de censura para el control parlamentario del Ejecutivo.",
+    "Define la estructura jerárquica de las Consejerías y sus unidades administrativas.",
+    "Determina la potestad reglamentaria del Gobierno y la jerarquía de sus normas (Decretos, Órdenes, etc.).",
+    "Regula la responsabilidad civil y penal de las autoridades y funcionarios canarios."
+  ],
+  "legal_references": [
+    "Ley Orgánica 10/1982, de 10 de agosto, de Estatuto de Autonomía de Canarias",
+    "Constitución Española",
+    "Ley 4/2023, de 23 de marzo (norma que la deroga)"
+  ],
+  "derogations": [
+    "Normas de igual o inferior rango que se opongan a la presente"
+  ],
+  "main_obligations": null,
+  "effective_date": "1983-06-10",
+  "procedures": [
+    {
+      "name": "Elección del Presidente del Gobierno de Canarias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta del Presidente del Parlamento",
+          "description": "El Presidente del Parlamento formula la propuesta de candidato en un plazo de 10 días tras la sesión constitutiva.",
+          "start_date": "10 días desde la elección de la Cámara",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comunicación al Rey",
+          "description": "Tras otorgar la confianza, se comunica al Rey en un plazo de 24 horas.",
+          "start_date": "Inmediato tras la confianza",
+          "end_date": "24 horas",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Nombramiento Real",
+          "description": "El Rey procede al nombramiento mediante Real Decreto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Moción de Censura",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la moción",
+          "description": "Propuesta por al menos el 15% de los miembros del Parlamento incluyendo candidato.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de espera y mociones alternativas",
+          "description": "No se puede votar hasta que pasen 15 días. En los primeros 2 días se pueden presentar mociones alternativas.",
+          "start_date": "Día 0",
+          "end_date": "Día 15",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Debate y votación",
+          "description": "Exposición del programa del candidato y votación por mayoría absoluta.",
+          "start_date": "Día 15",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

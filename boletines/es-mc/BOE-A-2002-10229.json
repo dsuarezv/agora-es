@@ -1,0 +1,108 @@
+{
+  "identifier": "BOE-A-2002-10229",
+  "title": "Ley 1/2002, de 20 de marzo, de Adecuación de los Procedimientos de la Administración Regional de Murcia a la Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+  "visible_title": "Ley de Adecuación de los Procedimientos de la Administración Regional de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "1/2002",
+  "publication_date": "2002-05-29",
+  "enactment_date": "2002-03-20",
+  "last_updated": "2022-06-01",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2002/03/20/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley adapta la normativa de la Región de Murcia a las actualizaciones de la legislación estatal sobre procedimientos administrativos. Su objetivo principal es establecer plazos máximos de resolución y definir cuándo el silencio administrativo significa una respuesta negativa (silencio desestimatorio). Regula específicamente los tiempos para ayudas, subvenciones y licencias comerciales, garantizando que la Administración no se demore indefinidamente.",
+  "citizen_impact": "Los ciudadanos tienen ahora mayor claridad sobre cuánto tiempo debe esperar la Administración para resolver sus solicitudes. Si la Administración no responde en los plazos establecidos para ciertos trámites (como ayudas o licencias), la solicitud se entenderá denegada, evitando la incertidumbre de esperar indefinidamente.",
+  "professional_impact": "Las empresas y autónomos que solicitan licencias comerciales o subvenciones deben conocer que el silencio administrativo ahora suele ser desestimatorio. Los profesionales del sector ambiental y los colegios profesionales ven modificados sus plazos y la naturaleza de sus informes para ajustarse a la nueva jerarquía de normas.",
+  "keywords": [
+    "procedimiento administrativo",
+    "silencio administrativo",
+    "plazos de resolución",
+    "subvenciones",
+    "licencias comerciales",
+    "impacto ambiental",
+    "Región de Murcia"
+  ],
+  "key_points": [
+    "Establece un plazo máximo de 6 meses para resolver y notificar la concesión de ayudas, pensiones y subvenciones públicas.",
+    "Define que, en los casos señalados en la ley, la falta de respuesta de la Administración se considerará una denegación (silencio desestimatorio).",
+    "En materia de comercio minorista, el plazo para resolver licencias es de 9 meses.",
+    "Modifica los procedimientos de evaluación de impacto ambiental para asegurar que los informes técnicos no detengan indefinidamente los trámites principales.",
+    "Establece que las peticiones de personal que afecten a la autoorganización de la Administración se entenderán denegadas si no hay resolución expresa."
+  ],
+  "legal_references": [
+    "Ley 30/1992, de 26 de noviembre",
+    "Ley 4/1999, de 13 de enero",
+    "Decreto 72/1994, de 2 de septiembre",
+    "Ley 6/1999, de 4 de noviembre, de Colegios Profesionales de la Región de Murcia",
+    "Ley 1/1995, de 8 de marzo, de Protección del Medio Ambiente de la Región de Murcia",
+    "Ley 10/1998, de 21 de diciembre, de Comercio Minorista en la Región de Murcia"
+  ],
+  "derogations": [
+    "Artículo 21.2 de la Ley 1/1995, de 8 de marzo, de Protección del Medio Ambiente de la Región de Murcia",
+    "Artículo 26.3 de la Ley 6/1999, de 4 de noviembre, de Colegios Profesionales de la Región de Murcia"
+  ],
+  "main_obligations": "La Administración debe resolver y notificar los procedimientos de ayudas y subvenciones en un plazo máximo de 6 meses. En licencias comerciales, el plazo máximo es de 9 meses. El incumplimiento de estos plazos conlleva efectos de silencio desestimatorio según el caso.",
+  "effective_date": "2002-05-30",
+  "procedures": [
+    {
+      "name": "Concesión de ayudas, pensiones y subvenciones públicas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Presentación de la solicitud por parte del interesado o inicio de oficio por la Administración.",
+          "start_date": "Día de la presentación de la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "description": "Plazo máximo para que la Administración dicte y comunique la decisión.",
+          "start_date": "6 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Licencia de Comercio Minorista",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación de la solicitud",
+          "description": "Periodo de instrucción del expediente de licencia comercial.",
+          "start_date": "Día de la solicitud",
+          "end_date": "9 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Evaluación de Impacto Ambiental",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Remisión al órgano ambiental",
+          "description": "El órgano sustantivo envía el expediente para informe ambiental.",
+          "start_date": "Al remitir el expediente",
+          "end_date": "Suspende el procedimiento principal por 6 meses",
+          "required_documentation": "Documento técnico del proyecto, estudio de impacto ambiental e información pública"
+        },
+        {
+          "step": 2,
+          "title": "Emisión de calificación ambiental",
+          "description": "El órgano ambiental emite su pronunciamiento.",
+          "start_date": "2 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

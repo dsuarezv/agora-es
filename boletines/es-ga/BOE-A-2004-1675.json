@@ -1,0 +1,98 @@
+{
+  "identifier": "BOE-A-2004-1675",
+  "title": "Ley 10/2003, de 26 de diciembre, sobre el acceso al entorno de las personas con discapacidad acompañada de perros de asistencia",
+  "visible_title": "Ley sobre el acceso al entorno de las personas con discapacidad acompañada de perros de asistencia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "10/2003",
+  "publication_date": "2004-01-29",
+  "enactment_date": "2003-12-26",
+  "last_updated": "2022-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2003/12/26/10",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley garantiza el derecho de las personas con discapacidad en Galicia a acceder, circular y permanecer en cualquier espacio o transporte de uso público acompañadas de su perro de asistencia. Supera la limitación anterior que solo protegía a perros-guía para personas con deficiencia visual, extendiendo la protección a perros de servicio para discapacidades físicas. Establece un marco de reconocimiento oficial, requisitos sanitarios y un régimen de sanciones para quienes impidan este derecho.",
+  "citizen_impact": "Las personas con discapacidad que utilizan perros de asistencia (no solo perros-guía) ahora tienen el derecho legal de entrar en comercios, restaurantes, hoteles, transportes y otros lugares públicos sin restricciones. Esto elimina barreras de discriminación y facilita su autonomía diaria. Los usuarios deben cumplir con la identificación del perro y mantener su documentación sanitaria al día.",
+  "professional_impact": "Los dueños de establecimientos públicos y privados (restaurantes, tiendas, hoteles) y operadores de transporte no pueden prohibir la entrada de estos animales ni cobrar suplementos por su presencia. El incumplimiento de esta norma puede acarrear multas desde 150€ hasta 12.500€ según la gravedad. Los centros de adiestramiento deben ser homologados por la administración gallega.",
+  "keywords": [
+    "perro de asistencia",
+    "discapacidad",
+    "accesibilidad",
+    "Galicia",
+    "perro de servicio",
+    "derecho de acceso",
+    "transporte público"
+  ],
+  "key_points": [
+    "Ampliación de la protección: ya no solo aplica a perros-guía para ciegos, sino también a perros de servicio para discapacidad física.",
+    "Derecho de acceso universal: incluye cualquier lugar de uso público, sea de titularidad pública o privada (comercios, hoteles, transporte, etc.).",
+    "Identificación obligatoria: el perro debe portar un distintivo oficial y la persona debe tener la documentación acreditativa.",
+    "Requisitos sanitarios estrictos: el perro debe estar esterilizado, vacunado (rabia incluida) y contar con certificación veterinaria anual.",
+    "Preferencia en transporte: los usuarios tienen preferencia para asientos más amplios o junto al pasillo en medios de transporte.",
+    "Prohibición de cobros: no se puede exigir ningún pago extra por el acceso del perro de asistencia.",
+    "Creación del Registro Gallego de Perros de Asistencia para controlar centros y animales.",
+    "Régimen sancionador: multas por impedir el acceso o exigir documentación de forma arbitraria."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 14 y 9.2)",
+    "Estatuto de Autonomía de Galicia",
+    "Ley 13/1982, de 7 de abril, de integración social de los minusválidos",
+    "Ley 4/1993, de 14 de abril, de servicios sociales de Galicia",
+    "Ley 5/1996, de 6 de junio, sobre el acceso al entorno de las personas con deficiencia visual",
+    "Ley 8/1997, de 20 de agosto, de accesibilidad y supresión de barreras en la Comunidad Autónoma de Galicia",
+    "Ley 1/1983, de 23 de febrero, reguladora de la Xunxa y su presidente"
+  ],
+  "derogations": [
+    "Ley 5/1996, de 6 de junio, sobre el acceso al entorno de las personas con deficiencia visual"
+  ],
+  "main_obligations": "Los usuarios deben mantener al perro identificado, con su documentación sanitaria y de asistencia, y contar con una póliza de responsabilidad civil. Los establecimientos están obligados a permitir el acceso y permanencia sin costes adicionales. Las infracciones muy graves (impedir acceso en lugares públicos) pueden conllevar multas de hasta 12.500€.",
+  "effective_date": "2004-01-30",
+  "procedures": [
+    {
+      "name": "Reconocimiento de la condición de perro de asistencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de aptitudes",
+          "descrption": "Demostrar que el perro ha completado su adiestramiento en un centro reconocido.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado de adiestramiento"
+        },
+        {
+          "step": 2,
+          "title": "Cumplimiento sanitario",
+          "descrption": "Acreditar condiciones higiénicas y vacunaciones mediante certificado veterinario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificación veterinaria y documento sanitario oficial"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del expediente",
+          "descrption": "La Comisión Técnica de Accesibilidad instruye el expediente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "descrption": "El titular de la dirección general o de la consejería resuelve según la gravedad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

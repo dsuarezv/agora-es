@@ -1,0 +1,112 @@
+{
+  "identifier": "BOE-A-2006-1774",
+  "title": "Ley 5/2005, de 16 de diciembre, del Procurador General",
+  "visible_title": "Ley del Procurador General",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "5/2005",
+  "publication_date": "2006-02-04",
+  "enactment_date": "2005-12-16",
+  "last_updated": "2013-07-01",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2005/12/16/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma crea la figura del Procurador General del Principado de Asturias como un alto comisariado del Parlamento para defender los derechos fundamentales de los ciudadanos. Su función principal es supervisar la actividad de la Administración autonómica, local y de otros entes públicos para evitar abusos o malas prácticas. Actúa como un mediador independiente que investiga quejas y emite recomendaciones para mejorar la gestión pública.",
+  "citizen_impact": "Ofrece a los ciudadanos de Asturias un canal gratuito y sencillo para denunciar irregularidades o vulneraciones de sus derechos por parte de la Administración. Permite presentar quejas de forma escrita o incluso verbalmente, sin necesidad de abogados o trámites complejos.",
+  "professional_impact": "Los funcionarios y autoridades de la Administración asturiana y local adquieren la obligación de colaborar con el Procurador General, siendo su negativa una posible infracción penal. Las empresas y entidades públicas bajo supervisión deben responder a los requerimientos de información de esta institución.",
+  "keywords": [
+    "Procurador General",
+    "Defensor del Pueblo",
+    "Derechos Fundamentales",
+    "Administración Pública",
+    "Asturias",
+    "Quejas",
+    "Control de la Administración"
+  ],
+  "key_points": [
+    "Creación de la figura del Procurador General como órgano independiente y autónomo.",
+    "Capacidad para investigar quejas de cualquier persona física o jurídica con interés legítimo.",
+    "Facultad para realizar investigaciones de oficio sin necesidad de una queja previa.",
+    "Obligatoriedad de colaboración de la Administración, bajo riesgo de denuncia ante el Ministerio Fiscal.",
+    "Posibilidad de presentar quejas de forma verbal en la sede de la institución.",
+    "Emisión de recomendaciones y sugerencias para corregir malas prácticas administrativas.",
+    "Gratuidad total en todas las actuaciones para el ciudadano interesado."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía del Principado de Asturias",
+    "Ley Orgánica 3/1981, de 6 de abril, del Defensor del Pueblo",
+    "Ley 36/1985, de 6 de noviembre",
+    "Ley 2/1995, de 13 de marzo, sobre Régimen Jurídico de la Administración"
+  ],
+  "derogations": [
+    "Artículos 18 al 21 de la Ley del Principado de Asturias 7/1991",
+    "Artículos 51 al 56 de la Ley del Principado de Asturias 1/1992"
+  ],
+  "main_obligations": "La Administración y sus agentes están obligados a colaborar con las investigaciones del Procurador General de forma preferente y urgente. La negativa injustificada a entregar informes o facilitar el acceso a expedientes puede derivar en acciones ante el Ministerio Fiscal y el Código Penal.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Elección del Procurador General",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de candidaturas",
+          "description": "Los Grupos Parlamentarios presentan candidaturas acompañadas de declaraciones de intereses y bienes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración de aceptación, incompatibilidades, intereses, actividades y bienes."
+        },
+        {
+          "step": 2,
+          "title": "Dictamen de incompatibilidades",
+          "description": "La Comisión competente emite un dictamen sobre la concurrencia de causas de incompatibilidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Votación en el Pleno",
+          "description": "Se requiere mayoría de tres quintos de la Cámara para la elección.",
+          "start_date": null,
+          "end_date": "3 meses desde el inicio del proceso",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Queja",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la queja",
+          "description": "El interesado presenta la queja por escrito o verbalmente.",
+          "start_date": null,
+          "end_date": "1 año desde el conocimiento de los hechos",
+          "required_documentation": "Escrito razonado con firma, nombre, apellidos y domicilio (o transcripción de queja verbal)."
+        },
+        {
+          "step": 2,
+          "title": "Admisión y traslado",
+          "description": "Se admite a trámite y se solicita informe al sujeto afectado.",
+          "start_date": null,
+          "end_date": "1 mes (ampliable por 10 días más)",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución conclusiva",
+          "description": "El Procurador dicta resolución motivada con recomendaciones o advertencias.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

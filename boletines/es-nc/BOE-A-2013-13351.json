@@ -1,0 +1,94 @@
+{
+  "identifier": "BOE-A-2013-13351",
+  "title": "Ley Foral 33/2013, de 26 de noviembre, de reconocimiento y reparación moral de las ciudadanas y ciudadanos navarros asesinados y víctimas de la represión a raíz del golpe militar de 1936",
+  "visible_title": "Ley de reconocimiento y reparación moral de las víctimas de la represión de 1936 en Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "33/2013",
+  "publication_date": "2013-12-20",
+  "enactment_date": "2013-11-26",
+  "last_updated": "2025-03-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2013/11/26/33",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca reparar el daño moral y restaurar la memoria histórica de las víctimas de la represión franquista en Navarra. Establece mecanismos para la búsqueda, localización y exhumación digna de personas desaparecidas, así como la protección de lugares de memoria. Además, ordena la retirada de símbolos franquistas y la anulación de distinciones institucionales vinculadas al régimen.",
+  "citizen_impact": "Los familiares de víctimas de la Guerra Civil y la Dictadura tienen derecho a solicitar la exhumación de sus allegados con apoyo económico y técnico del Gobierno de Navarra. También se facilita el acceso a la identidad de víctimas de robo de bebés y la búsqueda de información histórica para la reconstrucción de la memoria familiar.",
+  "professional_impact": "Los funcionarios de la Administración Foral y Local deben ejecutar la retirada de símbolos franquistas y la revisión de honores institucionales. Se crean nuevas funciones para la Comisión Técnica de Coordinación y se establecen procedimientos de investigación arqueológica y forense bajo protocolos específicos.",
+  "keywords": [
+    "memoria histórica",
+    "reparación moral",
+    "exhumaciones",
+    "víctimas franquismo",
+    "Navarra",
+    "desaparecidos",
+    "robo de bebés"
+  ],
+  "key_points": [
+    "Derecho a la exhumación de familiares asesinados en 1936 con gastos cubiertos por el Gobierno de Navarra.",
+    "Creación de un Banco de ADN para la identificación de restos y víctimas de robo de bebés.",
+    "Obligación de mantener y actualizar el mapa de fosas de Navarra.",
+    "Retirada obligatoria de símbolos, escudos y placas que exalten el golpe militar o la dictadura.",
+    "Anulación de títulos y honores institucionales otorgados a personas vinculadas al franquismo en un plazo de un año.",
+    "Creación de un Centro Documental de la Memoria Histórica y un censo de personas desaparecidas y bebés robados.",
+    "Protección y señalización de 'Lugares de la Memoria' (fosas, campos de concentración, etc.).",
+    "Sanciones económicas de hasta 150.000 euros por infracciones muy graves, como la destrucción de fosas o documentos.",
+    "Revisión de textos escolares para garantizar información veraz sobre la Guerra Civil en Navarra."
+  ],
+  "legal_references": [
+    "Orden Foral 772/2011",
+    "Ley Foral 24/2003",
+    "Ley 52/2007",
+    "Resolución de Naciones Unidas 47/133"
+  ],
+  "derogations": [],
+  "main_obligations": "La Administración debe retirar símbolos franquistas y anular honores en un año. Se prohíbe la destrucción de fosas o documentos de memoria histórica bajo penas de hasta 150.000 euros y la pérdida de subvenciones.",
+  "effective_date": "2013-12-21",
+  "procedures": [
+    {
+      "name": "Exhumación de restos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y apoyo",
+          "description": "Los familiares solicitan la exhumación y el Gobierno de Navarra debe aportar apoyo económico, técnico y humano.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el parentesco"
+        },
+        {
+          "step": 2,
+          "title": "Aplicación del Protocolo",
+          "description": "Se debe seguir estrictamente el Protocolo de Exhumaciones de la Comunidad Foral de Navarra.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Identificación por ADN",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de muestra",
+          "description": "Cualquier persona con víctimas en su familia puede solicitar la toma de muestra de ADN.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Análisis",
+          "description": "El Instituto de Medicina Legal debe analizar las pruebas en un plazo máximo de tres meses.",
+          "start_date": null,
+          "end_date": "3 meses tras la solicitud",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

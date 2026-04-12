@@ -1,0 +1,78 @@
+{
+  "identifier": "BOE-A-2025-1220",
+  "title": "Resolución de 10 de enero de 2025, de la Dirección de Tráfico, del Departamento de Seguridad, por la que se establecen medidas especiales de regulación de tráfico durante el año 2025 en la Comunidad Autónoma del País Vasco",
+  "visible_title": "Medidas especiales de regulación de tráfico en el País Vasco para 2025",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "BOE-A-2025-1220",
+  "publication_date": "2025-01-24",
+  "enactment_date": "2025-01-10",
+  "last_updated": "2025-01-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/res/2025/01/10/(1)",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta resolución establece restricciones de circulación en el País Vasco durante 2025 para mejorar la seguridad y fluidez del tráfico en fechas críticas. Regula la prohibición de circular para vehículos de transporte de mercancías peligrosas, vehículos pesados de más de 7.500 kg y vehículos con autorizaciones especiales en días festivos y periodos estivales. También limita la realización de eventos deportivos y la ejecución de obras en carretera durante periodos de alta demanda de tráfico.",
+  "citizen_impact": "Los ciudadanos pueden experimentar cambios en la movilidad debido a la restricción de eventos deportivos en ciertas fechas y la posible interrupción de obras en carretera durante fines de semana. No impone trámites directos para conductores particulares, salvo que se vean afectados por las medidas de seguridad ante meteorología adversa.",
+  "professional_impact": "Afecta directamente a empresas de transporte de mercancías peligrosas y de carga pesada (>7.500 kg), que deberán planificar sus rutas evitando domingos, festivos y periodos estivales específicos. Los organizadores de eventos deportivos deberán solicitar autorizaciones especiales y cumplir con las restricciones de ocupación de calzada. Las empresas constructoras de carreteras deben coordinarse para no realizar obras en periodos de tráfico intenso.",
+  "keywords": [
+    "tráfico",
+    "País Vasco",
+    "restricciones de circulación",
+    "mercancías peligrosas",
+    "transporte pesado",
+    "seguridad vial",
+    "movilidad"
+  ],
+  "key_points": [
+    "Prohibición de circular para vehículos de mercancías peligrosas los domingos y festivos (8:00 a 24:00) y vísperas de festivos (16:00 a 24:00).",
+    "Restricción de vehículos de carga superiores a 7.500 kg durante el periodo estival (7 de junio al 7 de septiembre) en fines de semana y festivos.",
+    "Limitación de eventos deportivos y marchas ciclísticas en vías interurbanas durante fechas específicas del calendario.",
+    "Obligatoriedad de usar itinerarios específicos (RIMP) para el transporte de mercancías peligrosas.",
+    "Suspensión de obras en carretera durante fines de semana (desde el viernes a las 15:00 hasta el domingo a las 24:00) para evitar atascos.",
+    "Obligación de circular por el carril derecho para camiones (>3.500 kg) y autobuses en condiciones meteorológicas adversas.",
+    "Posibilidad de solicitar autorizaciones especiales para viajes urgentes o necesarios en periodos restringidos."
+  ],
+  "legal_references": [
+    "Real Decreto Legislativo 6/2015 (Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial)",
+    "Real Decreto 1428/2003 (Reglamento General de Circulación)",
+    "Real Decreto 3256/1982",
+    "Decreto 6/2021",
+    "Real Decreto 97/2014",
+    "Real Decreto 2822/1998"
+  ],
+  "derogations": [],
+  "main_obligations": "Los transportistas de mercancías peligrosas y vehículos de más de 7.500 kg deben respetar los horarios de prohibición en domingos, festivos y periodos estivales. Los conductores de vehículos pesados deben utilizar las circunvalaciones y rutas de la red RIMP para minimizar el impacto en núcleos urbanos.",
+  "effective_date": "2025-02-03",
+  "procudeures": [
+    {
+      "name": "Autorización de pruebas deportivas y eventos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Los organizadores deben solicitar permiso para eventos que ocupen calzada o arcenes en vías interurbanas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación del evento y plan de seguridad"
+        }
+      ]
+    },
+    {
+      "name": "Autorizaciones especiales de circulación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Justificación de urgencia",
+          "description": "Solicitud para circular en periodos o rutas restringidas por necesidad ineludible.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Matrícula, características del vehículo, tipo de mercancía y justificación de la urgencia"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

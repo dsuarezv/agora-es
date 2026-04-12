@@ -1,0 +1,207 @@
+{
+  "identifier": "BOE-A-2023-470",
+  "title": "Ley Foral 34/2022, de 12 de diciembre, reguladora del Estatuto de las personas consumidoras y usuarias",
+  "visible_title": "Estatuto de las personas consumidoras y usuarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "34/2022",
+  "publication_date": "2023-01-07",
+  "enactment_date": "2022-12-12",
+  "last_updated": "2022-12-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2022/12/12/34",
+  "official_journal": "Boletín Oficial de Navarra",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza la protección de los consumidores en Navarra, adaptándola a la era digital y a la sostenibilidad. Introduce derechos nuevos relacionados con el medio ambiente y la soberanía alimentaria, además de blindar la privacidad en transacciones tecnológicas. También refuerza la capacidad de inspección para detectar fraudes y establece sanciones mucho más severas para las empresas que incumplan sus deberes. En definitiva, busca un equilibrio más justo entre las empresas y los ciudadanos en un entorno de consumo cada vez más complejo.",
+  "citizen_impact": "Los ciudadanos ganan derechos en sostenibilidad y digitalización, como mayor protección de sus datos en pagos con QR o biometría. Tienen garantizado que las empresas respondan a sus quejas en un máximo de un mes y que no se les apliquen precios distintos por su género. Además, cuentan con un marco más seguro frente a productos que afecten a la salud o al medio ambiente.",
+  "professional_impact": "Las empresas deben adaptar sus protocolos de atención al cliente, garantizando respuestas en un mes y presupuestos por escrito y vinculantes. Se incrementa el riesgo de sanciones económicas (hasta 1 millón de euros) y de cierres de locales. Los inspectores ahora tienen potestad para realizar compras anónimas y toma de muestras para controlar la calidad de los productos.",
+  "keywords": [
+    "consumidores",
+    "derechos del consumidor",
+    "Navarra",
+    "sostenibilidad",
+    "digitalización",
+    "inspección de consumo",
+    "sanciones",
+    "protección de datos"
+  ],
+  "key_points": [
+    "Nuevos derechos de consumo vinculados a la sostenibilidad, el medio ambiente y la soberanía alimentaria.",
+    "Protección reforzada de la privacidad y seguridad en transacciones digitales (QR, biometría).",
+    "Prohibición estricta de discriminación de precios por razón de género.",
+    "Obligación de las empresas de responder a las reclamaciones en un plazo máximo de un mes.",
+    "Potestad de la Inspección para realizar compras de prueba y toma de muestras de forma anónima.",
+    "Régimen sancionador severo con multas de hasta 1.000.000 € y posibles cierres de hasta cinco años.",
+    "Posibilidad de reducción del 50% en la multa mediante el pago voluntario.",
+    "Obligatoriedad de presupuestos por escrito y vinculantes para el consumidor.",
+    "Prohibición de realizar reparaciones o instalaciones sin autorización previa del cliente.",
+    "Obligación de las sociedades públicas navarras de adherirse al sistema de arbitraje de consumo."
+  ],
+  "legal_references": [
+    "Ley Foral 7/2006, de 20 de junio",
+    "Constitución Española (artículo 51 y 53)",
+    "Directiva 2006/123/CE",
+    "Directiva 2013/11/UE",
+    "Real Decreto 1507/2000",
+    "Ley 7/2017, de 20 de diciembre, de resolución alternativa de litigios en materia de consumo"
+  ],
+  "derogations": [
+    "Ley Foral 7/2006, de 20 de junio",
+    "Decreto Foral 172/1994, de 19 de septiembre",
+    "Orden Foral, de 5 de febrero de 1988",
+    "Orden Foral, de 24 de marzo de 1992"
+  ],
+  "main_obligations": "Las empresas deben acusar recibo de las quejas con una clave identificativa y responder en un mes. Deben entregar presupuestos por escrito y vinculantes, así como facilitar la documentación y muestras a los inspectores cuando se les requiera.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Gestión de reclamaciones de consumo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la reclamación",
+          "description": "El consumidor presenta su queja o reclamación ante la empresa o la administración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento justificativo de la contratación (factura, recibo, etc.)"
+        },
+        {
+          "step": 2,
+          "title": "Acuse de recibo",
+          "description": "La empresa debe entregar una clave identificativa y un justificante por escrito.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de la empresa",
+          "description": "Plazo máximo para dar respuesta a la reclamación presentada.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Vía de resolución alternativa",
+          "description": "Si no hay acuerdo, la empresa debe informar sobre su adhesión al arbitraje o entidad competente.",
+          "start_date": "Tras la respuesta o al cumplirse un mes sin respuesta",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de inspección de consumo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Actuación inspectora",
+          "description": "El personal de inspección accede a locales, toma muestras o realiza pedidos anónimos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Levantamiento de acta",
+          "description": "Se formaliza la actuación en un acta, pudiendo incluir grabaciones de comparecencias.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Medidas Cautelares",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adopción de la medida",
+          "description": "La inspección adopta medidas para eliminar riesgos de salud o económicos.",
+          "start_date": "Inmediato",
+          "end_date": null,
+          "required_documentation": "Acta de inspección justificando la medida"
+        },
+        {
+          "step": 2,
+          "title": "Confirmación de la medida",
+          "description": "El órgano competente debe confirmar, modificar o levantar la medida mediante resolución.",
+          "start_date": "15 días hábiles tras la adopción",
+          "end_date": "15 días hábiles tras la adopción",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Se notifica el inicio del expediente a los interesados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Alegaciones y pruebas",
+          "description": "Plazo para que la empresa presente sus argumentos y pruebas.",
+          "start_date": "Desde la notificación del inicio",
+          "end_date": "15 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución final",
+          "description": "El órgano competente dicta la resolución poniendo fin al procedimiento.",
+          "start_date": "Desde el inicio del procedimiento",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Análisis de muestras (Prueba contradictoria)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Análisis inicial",
+          "description": "El laboratorio oficial realiza el primer análisis.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de análisis contradictorio",
+          "description": "La empresa puede solicitar un segundo análisis si no acepta el primero.",
+          "start_date": "Desde la notificación de la resolución de incoación",
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ejecución del análisis contradictorio",
+          "description": "El laboratorio debe emitir el informe técnico.",
+          "start_date": "Desde la admisión a trámite",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Análisis diriimente (en caso de desacuerdo)",
+          "description": "Un tercer laboratorio realiza un análisis definitivo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

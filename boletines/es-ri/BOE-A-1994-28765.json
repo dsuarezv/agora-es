@@ -1,0 +1,93 @@
+{
+  "identifier": "BOE-A-1994-28765",
+  "title": "Ley 9/1994, de 30 de noviembre, de designación de Senadores en representación de la Comunidad Autónoma de La Rioja",
+  "visible_title": "Ley de designación de Senadores en representación de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "9/1994",
+  "publication_date": "1994-12-29",
+  "enactment_date": "1994-11-30",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/1994/11/30/9",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el procedimiento reglamentado para que la Diputación General de La Rioja elija a sus representantes en el Senado. Busca evitar conflictos de representación y asegurar que los senadores designados mantengan la coherencia con la mayoría parlamentaria regional. Regula desde quién puede ser candidato hasta cómo se cubren las vacantes y cuándo termina el mandato.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta exclusivamente a los diputados de la Diputación General de La Rioja, quienes deben seguir un proceso de candidatura, verificación de incompatibilidades y votación para poder representar a la región en las Cortes Generales.",
+  "keywords": [
+    "Senado",
+    "La Rioja",
+    "designación de senadores",
+    "Diputación General",
+    "representación territorial",
+    "procedimiento de elección"
+  ],
+  "key_points": [
+    "La designación de senadores corresponde exclusivamente al Pleno de la Diputación General de La Rioja.",
+    "Solo pueden ser candidatos los miembros de la Diputación General.",
+    "Se establece un plazo de 10 días naturales para presentar candidaturas tras la constitución de los Grupos Parlamentarios.",
+    "La votación en el Pleno debe ser secreta y mediante papeleta.",
+    "En caso de empate persistente, el ganador será el candidato propuesto por la fuerza política con más votos en las últimas elecciones regionales.",
+    "El mandato de los senadores termina cuando cesan como diputados regionales o se disuelve la Diputación General.",
+    "Si el Senado se disuelve, los senadores actuales mantienen su cargo automáticamente sin nueva votación."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 69.1 y 69.5)",
+    "Estatuto de Autonomía de La Rioja (artículo 17.1.k)",
+    "Ley Electoral General"
+  ],
+  "derogations": [],
+  "main_obligations": null,
+  "effective_date": "1994-12-30",
+  "procedures": [
+    {
+      "name": "Procedimiento de designación de Senadores de La Rioja",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Determinación del número de senadores",
+          "description": "La Mesa de la Diputación determina cuántos senadores corresponden tras las elecciones.",
+          "start_date": "Tras la constitución de la Mesa definitiva",
+          "end_date": "8 días",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de candidaturas",
+          "description": "El Presidente abre el plazo para que los grupos presenten candidatos.",
+          "start_date": "Tras la constitución de los Grupos Parlamentarios",
+          "end_date": "10 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Examen de elegibilidad",
+          "description": "La Comisión de Reglamento verifica que los candidatos no tengan incompatibilidades.",
+          "start_date": "48 horas tras el cierre de candidaturas",
+          "end_date": "5 días",
+          "required_documentation": "Documentos complementarios y declaraciones de los grupos proponentes"
+        },
+        {
+          "step": 4,
+          "title": "Publicación de dictamen",
+          "description": "Se publica el resultado del examen de elegibilidad en el Boletín Oficial de la Diputación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Votación en el Pleno",
+          "description": "El Pleno procede a la votación secreta para designar a los senadores.",
+          "start_date": "Tras la publicación del dictamen",
+          "end_date": "7 días",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

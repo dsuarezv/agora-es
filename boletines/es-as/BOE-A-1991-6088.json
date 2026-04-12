@@ -1,0 +1,93 @@
+{
+  "identifier": "BOE-A-1991-6088",
+  "title": "Ley 7/1990, de 29 de diciembre, de Presupuestos Generales del Principado de Asturias para 1991",
+  "visible_title": "Presupuestos Generales del Principado de Asturias para 1991",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "7/1990",
+  "publication_date": "1991-03-05",
+  "enactment_date": "1990-12-29",
+  "last_updated": "1996-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1990/12/29/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece el plan de gastos e ingresos de la Administración de Asturias y sus organismos para el año 1991. Introduce por primera vez la integración de los presupuestos del sector público empresarial regional. El objetivo es financiar infraestructuras productivas, servicios sociales y permitir la inversión mediante el uso controlado de deuda y fondos europeos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo por la gestión indirecta de servicios públicos y la ejecución de obras de infraestructura financiadas con estos fondos.",
+  "professional_impact": "Afecta directamente a los funcionarios públicos asturianos, al establecer incrementos salariales vinculados a la normativa estatal. También impacta a las pequeñas y medianas empresas mediante la autorización de líneas de avales para inversiones y proyectos de reindustrialización.",
+  "keywords": [
+    "presupuestos generales",
+    "Asturias",
+    "sector público empresarial",
+    "inversión pública",
+    "funcionarios",
+    "avales",
+    "gestión presupuestaria"
+  ],
+  "key_points": [
+    "Inclusión por primera vez de los presupuestos de las empresas públicas regionales.",
+    "Incremento salarial para funcionarios y personal laboral siguiendo la tendencia de la Ley de Presupuestos Generales del Estado.",
+    "Autorización de endeudamiento para financiar inversiones selectivas y proyectos de infraestructura.",
+    "Creación de líneas de avales para PYMES, proyectos de reindustrialización y entidades deportivas.",
+    "Autorización para la creación de nuevas sociedades para la gestión de viviendas y la Ciudad Residencial de Perlora.",
+    "Establecimiento de mecanismos para la modificación de créditos y la incorporación de remanentes de ejercicios anteriores."
+  ],
+  "legal_references": [
+    "Ley 6/1986, de 31 de mayo, de Régimen Económico y Presupuestario del Principado de Asturias",
+    "Estatuto de Autonomía para Asturias",
+    "Constitución Española",
+    "Ley de Presupuestos Generales del Estado para 1991",
+    "Ley 3/1985, de 26 de diciembre, de Ordenación de la Función Pública del Principado de Asturias",
+    "Ley del Principado 5/1989, de 22 de diciembre"
+  ],
+  "derogations": [],
+  "main_obligations": "Los empleados públicos tienen prohibido percibir ingresos atípicos (comisiones o premios por multas) ajenos a su régimen retributivo. La Administración debe justificar las modificaciones presupuestarias y rendir cuentas sobre las operaciones de crédito ante la Junta General.",
+  "effective_date": "1991-01-01",
+  "procedures": [
+    {
+      "name": "Modificación de créditos presupuestarios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de modificación",
+          "description": "La Consejería solicitante debe justificar la imposibilidad de atender la insuficiencia mediante mecanismos ordinarios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Expediente de modificación presupuestaria"
+        },
+        {
+          "step": 2,
+          "title": "Informe y aprobación",
+          "description": "El Consejo de Gobierno o el Consejero de Hacienda aprueban la transferencia según la competencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Rendición de cuentas",
+          "description": "El Consejo de Gobierno debe informar a la Junta General de los cambios realizados en un plazo de un mes.",
+          "start_date": null,
+          "end_date": "1 mes tras la aprobación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Ejecución y liquidación presupuestaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación del estado de ejecución",
+          "description": "El Consejo de Gobierno presenta a la Junta General el estado de ejecución del presupuesto del año anterior.",
+          "start_date": "1991-02-01",
+          "end_date": null,
+          "required_documentation": "Estado de ejecución del presupuesto de gastos"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,85 @@
+{
+  "identifier": "BOE-A-2008-1186",
+  "title": "Ley 19/2007, de 17 de diciembre, de designación de Senadores y Senadoras en representación de la Comunidad Autónoma de Andalucía",
+  "visible_title": "Designación de Senadores y Senadoras en representación de Andalucía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "19/2007",
+  "publication_date": "2008-01-23",
+  "enactment_date": "2007-12-17",
+  "last_updated": "2007-12-26",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2007/12/17/19",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": "252",
+  "summary": "Esta ley regula cómo el Parlamento de Andalucía elige a sus representantes para el Senado. El cambio principal es que ya no es obligatorio que los senadores sean diputados andaluces, permitiendo designar a cualquier persona con condición política de andaluza. Además, establece un sistema de reparto proporcional basado en la fuerza de los grupos parlamentarios y garantiza la presencia de mujeres en las candidaturas.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta a políticos y aspirantes a cargos públicos en Andalucía, quienes deben cumplir con requisitos de elegibilidad y declarar sus incompatibilidades. Los altos cargos de la Junta, alcaldes y presidentes de diputaciones tienen prohibido ocupar estos escaños simultáneamente.",
+  "keywords": [
+    "Senado",
+    "Andalucía",
+    "designación",
+    "representación territorial",
+    "Parlamento de Andalucía",
+    "paridad",
+    "incompatibilidades"
+  ],
+  "key_points": [
+    "Cualquier persona con condición política de andaluza puede ser designada senador, sin necesidad de ser diputado.",
+    "La designación se hace de forma proporcional a los grupos parlamentarios usando la regla D'Hondt.",
+    "Se exige una presencia mínima del 40% de mujeres en las propuestas de los grupos parlamentarios.",
+    "Existen incompatibilidades estrictas para altos cargos de la Junta, alcaldes y presidentes de diputaciones.",
+    "Los candidatos que no sean diputados deben pasar por una audiencia parlamentaria pública.",
+    "El mandato del senador coincide con la legislatura del Parlamento de Andalucía."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía para Andalucía",
+    "Ley Orgánica 5/1985, del Régimen Electoral General"
+  ],
+  "derogations": [],
+  "main_obligations": "Los grupos parlamentarios deben presentar candidaturas que respeten la paridad de género (mínimo 40% de un sexo). Los designados deben declarar formalmente su aceptación y sus posibles incompatibilidades.",
+  "effective_date": "2007-12-27",
+  "procedures": [
+    {
+      "name": "Designación de Senadores por el Parlamento de Andalucía",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Determinación del número de senadores",
+          "description": "La Mesa de la Cámara calcula cuántos senadores corresponden según el censo de población.",
+          "start_date": "Tras las elecciones al Parlamento de Andalucía",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Cálculo de la proporción por grupo",
+          "description": "La Mesa y la Junta de Portavoces fijan cuántos senadores propone cada grupo usando la regla D'Hondt.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Propuesta de candidaturas",
+          "description": "Los grupos presentan sus nombres junto con datos personales, profesionales y declaración de elegibilidad.",
+          "start_date": "Plazo fijado por el Presidente del Parlamento",
+          "end_date": null,
+          "required_documentation": "Datos personales, profesionales y declaración de elegibilidad/incompatibilidades"
+        },
+        {
+          "step": 4,
+          "title": "Audiencia parlamentaria",
+          "description": "Los candidatos que no sean diputados deben comparecer en una audiencia pública.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

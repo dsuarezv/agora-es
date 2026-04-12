@@ -1,0 +1,110 @@
+{
+  "identifier": "BOE-A-2013-10412",
+  "title": "Ley 1/2013, de 21 de marzo, de medidas para la dinamización y flexibilización de la actividad comercial y urbanística en Castilla-La Mancha",
+  "visible_title": "Medidas para la dinamización y flexibilización de la actividad comercial y urbanística en Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "1/2013",
+  "publication_date": "2013-10-07",
+  "enactment_date": "2013-03-21",
+  "last_updated": "2023-03-06",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2013/03/21/1",
+  "official_journal": "Boletín Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley busca reactivar la economía regional eliminando trabas administrativas para el comercio y el urbanismo. Introduce la sustitución de licencias previas por declaraciones responsables para facilitar la apertura de negocios. Además, flexibiliza los horarios comerciales, aumenta los días de apertura dominical y permite una mayor libertad en la gestión de rebajas y liquidaciones.",
+  "citizen_impact": "Los ciudadanos se benefician de una mayor oferta comercial y horarios más flexibles, incluyendo más aperturas en domingos y festivos. También mejora la disponibilidad de servicios de conveniencia y una mayor variedad de productos en periodos de rebajas.",
+  "professional_impact": "Los comerciantes y autónomos ven reducida la carga burocrática al no necesitar licencias de actividad o funcionamiento para la mayoría de sus negocios, pudiendo operar mediante comunicación previa. Sin embargo, deben cumplir con un régimen de control posterior por parte de la administración y adaptarse a las nuevas reglas de horarios y promociones.",
+  "keywords": [
+    "comercio minorista",
+    "flexibilización comercial",
+    "declaración responsable",
+    "horarios comerciales",
+    "urbanismo",
+    "Castilla-La Mancha",
+    "simplificación administrativa",
+    "rebajas"
+  ],
+  "key_points": [
+    "Sustitución de licencias de actividad y funcionamiento por declaraciones responsables o comunicaciones previas.",
+    "Ampliación del horario comercial semanal hasta un máximo de 90 horas.",
+    "Autorización de apertura de establecimientos 12 domingos y festivos al año.",
+    "Libertad para que cada comerciante decida su horario en los domingos y festivos autorizados.",
+    "Eliminación de licencias para cambios de titularidad de actividades comerciales.",
+    "Mayor flexibilidad en las temporadas y duración de las rebajas, quedando a criterio del comerciante.",
+    "Creación de un régimen especial para zonas de gran afluencia turística.",
+    "Reducción de trámites para obras de acondicionamiento que no requieran proyecto técnico.",
+    "Modificación de tasas y procedimientos para el control sanitario de productos de origen animal."
+  ],
+  "legal_references": [
+    "Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista",
+    "Ley 1/2004, de 21 de diciembre, de Horarios Comerciales",
+    "Directiva 2006/123/CE",
+    "Ley 2/2010, de 13 de mayo, de Comercio de Castilla-La Mancha",
+    "Decreto Legislativo 1/2010, de 18 de mayo, por el que se aprueba el Texto Refundido de la Ley de Ordenación del Territorio y de la Actividad Urbanística",
+    "Real Decreto-ley 8/2011, de 1 de julio",
+    "Ley 12/2012, de 26 de diciembre, de medidas urgentes de liberalización del comercio y de determinados servicios",
+    "Real Decreto-ley 20/2012, de 13 de julio",
+    "Ley 9/2012, de 29 de noviembre, de Tasas y Precios Públicos de Castilla-La Mancha"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a la presente ley"
+  ],
+  "main_obligations": "Los comerciantes deben presentar una declaración responsable o comunicación previa antes de iniciar su actividad. En caso de liquidación, deben comunicar la causa y duración a la Consejería con 10 días de antelación. Los productos en rebajas deben haber estado en oferta habitual al menos un mes antes.",
+  "effective_date": "2013-03-22",
+  "procedures": [
+    {
+      "name": "Inicio de actividad comercial mediante declaración responsable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración",
+          "descrption": "El interesado presenta la documentación acreditando el cumplimiento de la normativa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el cumplimiento de requisitos legales y técnicos."
+        },
+        {
+          "step": 2,
+          "title": "Habilitación inmediata",
+          "descrption": "La actividad queda habilitada para su ejercicio material desde el momento de la presentación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Control ex post",
+          "descrption": "La administración realiza inspecciones para verificar el cumplimiento de la norma.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de zona de gran afluencia turística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta municipal",
+          "descrption": "El Ayuntamiento solicita la declaración mediante acuerdo del Pleno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Fundamentación de las circunstancias (turismo, patrimonio, eventos, etc.)."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la Consejería",
+          "descrption": "La Consejería resuelve tras oír al Consejo de Consumidores y otras organizaciones.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

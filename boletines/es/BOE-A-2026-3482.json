@@ -1,0 +1,119 @@
+{
+  "identifier": "BOE-A-2026-3482",
+  "title": "Orden PJC/89/2026, de 10 de febrero, por la que se publica el Acuerdo del Consejo de Seguridad Nacional de 16 de diciembre de 2025, por el que se aprueba la Estrategia Nacional contra la Proliferación de Armas de Destrucción Masiva",
+  "visible_title": "Estrategia Nacional contra la Proliferación de Armas de Destrucción Masiva",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes",
+  "official_number": "PJC/89/2026",
+  "publication_date": "2026-02-16",
+  "enactment_date": "2026-02-10",
+  "last_updated": "2026-02-16",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2026/02/10/pjc89",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "41",
+  "summary": "España lanza su primera estrategia específica para evitar que terroristas o estados hostiles obtengan armas nucleares, químicas o biológicas. El plan refuerza el control sobre tecnologías de uso dual (como IA o drones) y la seguridad de laboratorios y centrales nucleares. Se crean nuevos organismos de control y se endurece la vigilancia sobre la financiación de estas actividades. El objetivo es blindar la seguridad nacional frente a amenazas híbridas y ataques químicos o biológicos.",
+  "citizen_impact": "Sin impacto directo en la vida cotidiana de los ciudadanos, salvo en la mejora de la seguridad nacional y la protección de infraestructuras críticas frente a ataques de gran escala.",
+  "professional_impact": "Impacto alto para empresas de sectores estratégicos (química, tecnología, energía, sanidad y transporte). Deberán implementar protocolos de debida diligencia (KYC), controlar estrictamente la exportación de software y componentes de doble uso, y reforzar la ciberseguridad y protección física de sus instalaciones. Los laboratorios de alto nivel y operadores de sustancias químicas enfrentan nuevas obligaciones de vigilancia y reporte.",
+  "keywords": [
+    "armas de destrucción masiva",
+    "seguridad nacional",
+    "doble uso",
+    "bioseguridad",
+    "control de exportaciones",
+    "infraestructuras críticas",
+    "terrorismo"
+  ],
+  "key_points": [
+    "Control estricto sobre productos de 'doble uso' como software, IA y componentes de drones para evitar su desvío militar.",
+    "Creación de la Comisión Nacional de Biocustodia y de la Red de Laboratorios de Alertas Químicas (RELAQ).",
+    "Obligatoriedad de medidas de ciberseguridad y protección física en instalaciones nucleares y radiactivas.",
+    "Vigilancia especial en laboratorios de bioseguridad nivel 3 y 4 para prevenir el robo de patógenos.",
+    "Nuevas obligaciones de control para la transferencia intangible de tecnología y software.",
+    "Exigencia de protocolos de debida diligencia (KYC) para la industria química.",
+    "Posible endurecimiento de penas penales por financiación de la proliferación y en la Ley de Contrabando.",
+    "Implementación de protocolos contra la desinformación relacionada con amenazas NRBQ (nuclear, radiológica, química y biológica).",
+    "Planificación de tres nuevos laboratorios de bioseguridad de alto nivel en España.",
+    "Obligación de las administraciones de catalogar recursos humanos y materiales para la gestión de crisis de seguridad nacional."
+  ],
+  "legal_references": [
+    "Ley 8/2011 de protección de infraestructuras críticas",
+    "Real Decreto 704/2011 de Reglamento de protección de infraestructuras críticas",
+    "Ley 53/2007 sobre el control del comercio exterior de material de defensa y doble uso",
+    "Ley 25/1964 de Energía Nuclear",
+    "Real Decreto 1308/2011 de protección física en instalaciones nucleares",
+    "Ley 49/1999 de control de sustancias químicas",
+    "Real Decreto 78/2019 de control de actividades y sustancias químicas",
+    "Orden PRA/29/2018 de creación del Comité Especializado de no proliferación",
+    "Reglamento Euratom 302/2005",
+    "Reglamento de la UE 2021/821",
+    "Estrategia de Seguridad Nacional 2021",
+    "Resolución 1373 del Consejo de Seguridad de las Naciones Unidas",
+    "Resolución 1540 del Consejo de Seguridad de las Naciones Unidas",
+    "Resolución 2325 del Consejo de Seguridad de las Naciones Unidas",
+    "Ley 10/2010 de prevención del blanqueo de capitales y de la financiación del terrorismo",
+    "Ley de Contrabando",
+    "Ley Orgánica 12/1995",
+    "Ley 36/2015 de Seguridad Nacional",
+    "Reglamento (UE) 2022/2371 sobre amenazas transfronterizas graves para la salud"
+  ],
+  "derogations": [],
+  "main_obligations": "Las empresas de sectores estratégicos deben declarar sus actividades, cumplir con licencias de exportación/importación de materiales de doble uso y asegurar la protección física/digital de sus instalaciones. Las administraciones deben coordinar la gestión de información y actualizar el Plan nacional de Acción para la implementación de la UNSCR 1540.",
+  "effective_date": "2026-02-10",
+  "procedures": [
+    {
+      "name": "Control de exportación e importación de material de doble uso y defensa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de licencia/autorización",
+          "description": "Los operadores deben tramitar licencias ante la Junta Interministerial de Material de Defensa y Doble Uso (JIMDDU) para productos en listas de control.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación técnica del producto, finalidad del uso y datos del cliente (KYC)."
+        },
+        {
+          "step": 2,
+          "title": "Revisión interministerial",
+          "description": "La JIMDDU analiza la operación desde la perspectiva de los ministerios implicados para asegurar que no vulnera tratados internacionales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de Crisis de Seguridad Nacional por Proliferación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Detección y Alerta Temprana",
+          "description": "Activación de sistemas de indicadores sectoriales para detectar riesgos de proliferación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Valoración de Riesgos",
+          "description": "El Comité Especializado de No Proliferación analiza escenarios y riesgos para el Consejo de Seguridad Nacional.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Gestión de la Crisis",
+          "description": "El Consejo de Seguridad Nacional dirige la respuesta coordinada mediante el Comité de Situación y la Célula de Coordinación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

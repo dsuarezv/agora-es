@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-1985-19644",
+  "title": "Ley 6/1985, de 5 de julio, de Iniciativa Legislativa Popular",
+  "visible_title": "Ley de Iniciativa Legislativa Popular",
+  "rank": "ley",
+  "country": "es",
+  "department": "Diputación Regional de Cantabria",
+  "official_number": "6/1985",
+  "publication_date": "1985-09-18",
+  "enactment_date": "1985-07-05",
+  "last_updated": "2018-12-19",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/1985/07/05/6",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "journal_issue": null,
+  "summary": "Esta norma establecía el mecanismo para que los ciudadanos de Cantabria pudieran proponer leyes directamente ante la Asamblea Regional. Permitía que grupos de ciudadanos con vecindad administrativa en la comunidad presentaran proyectos legislativos tras cumplir requisitos de firmas y forma. El objetivo era fomentar la participación política directa de la población en la elaboración de sus leyes autonómicas.",
+  "citizen_impact": "Permitía a los ciudadanos mayores de edad en Cantabria participar activamente en la creación de leyes, dándoles voz directa en la Asamblea Regional. Sin embargo, requería un esfuerzo organizativo considerable para reunir al menos 10.000 firmas en un plazo corto.",
+  "professional_impact": "Los promotores de estas iniciativas debían constituir una Comisión Promotora y asumir la responsabilidad de la autenticación de firmas ante notario o fedatarios. También establecía un límite de indemnización por gastos para los promotores.",
+  "keywords": [
+    "iniciativa legislativa popular",
+    "participación ciudadana",
+    "Cantabria",
+    "proposición de ley",
+    "derechos políticos"
+  ],
+  "key_points": [
+    "Requisito de un mínimo de 10.000 firmas para que la propuesta sea válida.",
+    "Exclusión de materias tributarias, derechos fundamentales y competencias no autonómicas.",
+    "Plazo de 3 meses para la recogida de firmas una vez admitida la propuesta.",
+    "Obligación de presentar texto articulado y exposición de motivos.",
+    "Posibilidad de recurrir la inadmisibilidad ante el Tribunal Constitucional.",
+    "Indemnización máxima para promotores de 400.000 pesetas (actualizable)."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 87.3 y 9.2)",
+    "Ley Orgánica 3/1984, de 26 de marzo",
+    "Estatuto de Autoeconomía de Cantabria (art. 15, 49, 55 y 28)",
+    "Ley Orgánica 2/1979, de 3 de octubre (Tribunal Constitucional)",
+    "Ley 7/2018, de 5 de diciembre (norma derogatoria)"
+  ],
+  "derogations": [
+    "Ley 6/1985, de 5 de julio, de Iniciativa Legislativa Popular"
+  ],
+  "main_obligations": "Los promotores deben presentar un texto de ley, exposición de motivos y relación de la Comisión Promotora. Las firmas deben incluir nombre, apellidos, DNI y domicilio, y ser autenticadas por fedatarios o notario.",
+  "effective_date": "1985-09-19",
+  "procedures": [
+    {
+      "name": "Tramitación de la Iniciativa Legislativa Popular",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la propuesta",
+          "description": "La Comisión Promotora presenta el texto de ley y la documentación ante la Mesa de la Asamblea.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Texto articulado, exposición de motivos, razones de la iniciativa y datos de la Comisión Promotora."
+        },
+        {
+          "step": 2,
+          "title": "Examen de admisibilidad",
+          "description": "La Mesa de la Asamblea decide si la propuesta cumple los requisitos legales.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Recogida de firmas",
+          "description": "Una vez admitida, los promotores proceden a recoger las firmas necesarias.",
+          "start_date": "Desde la notificación de admisión",
+          "end_date": "3 meses",
+          "required_documentation": "Plegos de firmas en papel timbrado con el texto de la proposición."
+        },
+        {
+          "step": 4,
+          "title": "Entrega y recuento",
+          "description": "Entrega de los pliegos autenticados y verificación del número de firmas válidas.",
+          "start_date": null,
+          "end_date": "6 días tras el plazo de recogida",
+          "required_documentation": "Plegos con firmas, nombres, DNI, domicilios y acta de autenticación."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

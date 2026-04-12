@@ -1,0 +1,180 @@
+{
+  "identifier": "BOE-A-2021-462",
+  "title": "Ley 15/2020, de 22 de diciembre, de las áreas de promoción económica urbana",
+  "visible_title": "Ley de las áreas de promoción económica urbana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "15/2020",
+  "publication_date": "2021-01-13",
+  "enactment_date": "2020-12-22",
+  "last_updated": "2023-03-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2020/12/22/15",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley crea las Áreas de Promoción Económica Urbana (APEU), asociaciones privadas sin ánimo de lucro diseñadas para mejorar zonas comerciales e industriales mediante la colaboración entre ayuntamientos y empresarios. El objetivo es permitir que los propios negocios financien mejoras en su entorno, como seguridad, limpieza o digitalización, a través de un sistema de cuotas obligatorias. Además, introduce una nueva clasificación de polígonos industriales según su calidad de servicios e infraestructura. Con esto, se busca dinamizar la economía local y modernizar las zonas de actividad económica en Cataluña.",
+  "citizen_impact": "El impacto es indirecto para el ciudadano medio, pero mejora su entorno cotidiano al fomentar zonas comerciales y polígonos más seguros, limpios y digitalizados. Para los propietarios de locales, implica la obligación de pagar una cuota de mantenimiento si su zona es declarada AP-EU.",
+  "professional_impact": "Afecta directamente a empresarios y propietarios de locales comerciales o industriales, quienes asumen la obligación de cotizar para las mejoras de la zona y se subrogan en estas obligaciones al comprar un inmueble. También impacta a ayuntamientos y asociaciones empresariales, que pueden liderar la creación de estas áreas y gestionar el cobro de cuotas mediante la vía de apremio.",
+  "keywords": [
+    "APEU",
+    "promoción económica urbana",
+    "polígonos industriales",
+    "colaboración público-privada",
+    "cuotas de mantenimiento",
+    "Cataluña",
+    "desarrollo económico"
+  ],
+  "key_points": [
+    "Creación de las APEU como entidades privadas sin ánimo de lucro para gestionar la mejora de zonas económicas.",
+    "Establecimiento de cuotas económicas obligatorias para todos los titulares de locales en el área delimitada.",
+    "Cálculo de cuotas basado en la superficie construida catastral o superficie construida ponderada (SCPT).",
+    "Posibilidad de gestionar el cobro de cuotas impagadas mediante la vía de apremio de la hacienda local.",
+    "La iniciativa de creación puede ser impulsada por propietarios (mínimo 25% de locales y votos), asociaciones empresariales o el Ayuntamiento.",
+    "Nuevo sistema de clasificación de polígonos industriales en cuatro niveles: Básico, Consolidado, Avanzado y Excelente.",
+    "Requisito de aprobación: voto favorable de al menos el 50% de los titulares que representen el 50% de la superficie construida ponderada.",
+    "Creación de líneas de ayudas para la modernización de entidades promotoras durante los tres primeros años.",
+    "Existencia de un repositorio único de información sobre polígonos en el portal de la Generalitat.",
+    "Obligación de incluir delimitación geográfica en formato shape en los planos de inscripción."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Cataluña",
+    "Ley 13/2008, de 5 de noviembre, de la presidencia de la Generalidad y del Gobierno",
+    "Decreto 114/2020, de 30 de septiembre",
+    "Ley 18/2017, de 1 de agosto, de comercio, servicios y ferias",
+    "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "Ley 4/2008, de 24 de abril, del libro tercero del Código civil de Cataluña",
+    "Ley 9/2017, de 8 de noviembre, de contratos del sector público",
+    "Ley 26/2010, de 3 de agosto, de régimen jurídico y de procedimiento de las administraciones públicas de Cataluña",
+    "Ley 40/2015, de 1 de octubre, del régimen jurídico del sector público",
+    "Ley 15/2020, de 22 de diciembre, de las áreas de promoción económica urbana",
+    "Artículo 34 de la Ley 15/2020"
+  ],
+  "derogations": [
+    "Artículo 73.2 de la Ley 18/2017, de 1 de agosto, de comercio, servicios y ferias",
+    "Disposición final tercera de la Ley 18/2017, de 1 de agosto, de comercio, servicios y ferias"
+  ],
+  "main_obligations": "Los titulares de locales en una APEU aprobada están obligados al pago de las cuotas establecidas, las cuales se calculan según su superficie. En caso de cambio de dueño, el nuevo titular debe subrogarse automáticamente en todos los derechos y deberes de la entidad.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Constitución de una APEU",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación del proyecto",
+          "description": "Los promotores presentan el proyecto de delimitación y plan de actuación al Ayuntamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Identificación de promotores, plano a escala, estatutos, plan de actuación, memoria económica y propuesta de convenio."
+        },
+        {
+          "step": 2,
+          "title": "Resolución inicial del Ayuntamiento",
+          "description": "El órgano competente debe aprobar inicialmente o denegar el proyecto.",
+          "start_date": "Desde la presentación",
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Información pública",
+          "description": "El proyecto se somete a exposición pública y notificación fehaciente a los afectados.",
+          "start_date": "7 días tras aprobación inicial",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Grupo de trabajo paritario",
+          "description": "Valoración de alegaciones y redacción de texto refundido por un grupo mixto (Ayuntamiento y promotores).",
+          "start_date": "Tras información pública",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Votación de los afectados",
+          "description": "Votación de todos los titulares de locales incluidos en el área.",
+          "start_date": "Tras acuerdo del grupo de trabajo",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Aprobación definitiva del Pleno",
+          "description": "El Pleno del Ayuntamiento debe aprobar o rechazar motivadamente la constitución.",
+          "start_date": "1 mes tras resultados de votación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aprobación de proyectos de área de promoción económica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Participación y votación",
+          "description": "Se requiere la participación de al menos el 50% de los titulares que representen el 50% de la superficie construida ponderada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución de aprobación",
+          "description": "El proyecto se aprueba si obtiene la mayoría de los votos emitidos que representen la mayoría de la superficie construida ponderada de los votantes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inscripción en el Registro de áreas de promoción económica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de documentación técnica",
+          "description": "Presentación del plano con delimitación geográfica en formato compatible (shape).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Plano con delimitación geográfica en formato shape"
+        },
+        {
+          "step": 2,
+          "title": "Inscripción registral",
+          "description": "La dirección general competente en inversión industrial realiza la inscripción en la sección específica del Registro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Clasificación de polígonos de actividad económica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Evaluación de atributos",
+          "description": "Evaluación de servicios (empresa, personas), infraestructuras y servicios logísticos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Asignación de categoría",
+          "description": "Clasificación en Básico, Consolidado, Avanzado o Excelente según los niveles de servicio alcanzados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

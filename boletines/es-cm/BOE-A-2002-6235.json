@@ -1,0 +1,83 @@
+{
+  "identifier": "BOE-A-2002-6235",
+  "title": "Ley 2/2002, de 7 de febrero, por la que se establecen y regulan las diversas modalidades de viviendas de protección pública en Castilla-La Mancha",
+  "visible_title": "Ley de Viviendas de Protección Pública en Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Junta de Comunidades de Castilla-La Mancha",
+  "official_number": "2/2002",
+  "publication_date": "2002-04-02",
+  "enactment_date": "2002-02-07",
+  "last_updated": "2023-01-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2002/02/07/2",
+  "official_journal": "Diario Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley crea un marco regulatorio para ampliar la oferta de vivienda protegida en Castilla-La Mancha más allá de la vivienda de protección oficial tradicional. Introduce nuevas categorías de vivienda según su superficie (90m², 120m² y hasta 135m²) para adaptarse mejor a las necesidades de las familias. Además, regula el uso de suelos públicos para este fin y establece un régimen de sanciones para evitar fraudes o usos indebidos.",
+  "citizen_impact": "Facilita el acceso a viviendas más amplias y variadas para familias que no encajan en el modelo estándar de vivienda de protección oficial. Los ciudadanos deben cumplir con el requisito de usar la vivienda como residencia habitual y permanente para evitar sanciones.",
+  "professional_impact": "Las empresas promotoras (públicas o privadas) deben ajustarse a los precios, calidades y superficies máximas dictadas por la Junta. Los propietarios y promotores enfrentan multas severas (hasta 60.000€) si incumplen las normas de uso, conservación o si realizan ventas con sobreprecio.",
+  "keywords": [
+    "vivienda con protección pública",
+    "Castilla-La Mancha",
+    "vivienda protegida",
+    "promoción de vivienda",
+    "suelo público",
+    "régimen de vivienda"
+  ],
+  "key_points": [
+    "Creación de nuevas tipologías de vivienda: 90m², 120m² y una especial de 135m² en suelos públicos bajo condiciones específicas.",
+    "Obligatoriedad de destinar el suelo público residencial a viviendas de protección o interés social.",
+    "Establecimiento de un régimen de protección de al menos 10 años para las viviendas calificadas.",
+    "Creación del Registro de Demandantes de Vivienda para gestionar la adjudicación de forma justa y evitar fraudes.",
+    "Posibilidad de que las viviendas sean tanto en régimen de propiedad como de arrendamiento.",
+    "Régimen sancionador con multas que pueden alcanzar los 60.000 euros por infracciones muy graves."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 47)",
+    "Real Decreto-ley 31/1978",
+    "Ley 4/1991 de Presupuestos Generales de Castilla-La Mancha",
+    "Ley 2/1998 de Ordenación del Territorio y de la Actividad Urbanística",
+    "Real Decreto 1186/1998",
+    "Ley 9/2017 de Contratos del Sector Público"
+  ],
+  "derogations": [],
+  "main_obligations": "Los usuarios deben mantener la vivienda como residencia habitual y permanente. Los promotores y propietarios están prohibidos de cobrar sobreprecios o realizar transmisiones antes de los plazos legales. El incumplimiento de estas normas conlleva multas de hasta 60.000 euros.",
+  "effective_date": "2002-04-03",
+  "procedures": [
+    {
+      "name": "Calificación de vivienda con protección pública",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de calificación",
+          "description": "Presentación de la solicitud para que la Junta de Comunidades califique la vivienda como protegida.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación técnica y de proyecto según normativa"
+        },
+        {
+          "step": 2,
+          "title": "Vigencia del régimen",
+          "description": "El régimen de protección se mantiene durante al menos 10 años tras la calificación.",
+          "start_date": null,
+          "end_date": "10 años"
+        }
+      ]
+    },
+    {
+      "name": "Gestión del Registro de Demandantes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inscripción en el registro",
+          "description": "Inscripción de personas demandantes para obtener preferencia en la adjudicación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la demanda de vivienda"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

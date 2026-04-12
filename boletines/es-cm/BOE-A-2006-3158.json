@@ -1,0 +1,172 @@
+{
+  "identifier": "BOE-A-2006-3158",
+  "title": "Ley 14/2005, de 29 de diciembre, de ordenación del transporte de personas por carretera en Castilla-La Mancha",
+  "visible_title": "Ordenación del transporte de personas por carretera en Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "14/2005",
+  "publication_date": "2006-02-23",
+  "enactment_date": "2005-12-29",
+  "last_updated": "2023-01-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2005/12/29/14",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y organiza cómo se mueve la gente en Castilla-La Mancha, dando más poder a los ayuntamientos para gestionar el transporte dentro de sus límites. Introduce soluciones flexibles para zonas rurales con poca población, como el transporte a la demanda, y regula servicios específicos como el autotaxi y el transporte escolar o sanitario. Además, permite que las empresas de transporte actuales amplíen sus contratos hasta 10 años si proponen mejoras reales en el servicio. En definitiva, busca que el transporte sea más adaptable a las necesidades de cada zona y de cada ciudadano.",
+  "citizen_impact": "Mejora la movilidad en zonas rurales mediante servicios de transporte a la demanda que no dependen de horarios rígidos. Los usuarios de autotaxi, transporte escolar o sanitario cuentan ahora con un marco legal claro. Además, la posibilidad de ampliar concesiones busca garantizar la continuidad y mejora de las líneas de autobús existentes.",
+  "professional_impact": "Las empresas de transporte deben adaptarse a nuevas modalidades (zonal, demanda) y pueden solicitar la ampliación de sus concesiones hasta 10 años presentando planes de mejora en viajes o vehículos. Los municipios asumen la gestión total del transporte en su territorio. Los titulares de concesiones con subvenciones tienen la obligación de señalizar sus vehículos con distintivos específicos.",
+  "keywords": [
+    "transporte de pasajeros",
+    "Castilla-La Mancha",
+    "transporte a la demanda",
+    "autotaxi",
+    "concesiones de transporte",
+    "transporte escolar",
+    "transporte sanitario"
+  ],
+  "key_points": [
+    "Los municipios gestionan íntegramente el transporte que no salga de su término municipal.",
+    "Creación del 'transporte a la demanda' para zonas de baja densidad con horarios y rutas flexibles.",
+    "Implementación de 'transportes zonales' para integrar servicios en áreas de baja densidad bajo una sola concesión.",
+    "Regulación específica del servicio de 'autotaxi' para vehículos de hasta 9 plazas con licencia municipal.",
+    "Definición de transportes de uso especial: escolar, sanitario, asistencial, de trabajadores y de estudiantes.",
+    "Posibilidad de ampliar las concesiones de transporte regular hasta un máximo de 10 años.",
+    "Integración del transporte urbano con el interurbano mediante Planes de Movilidad y Planes Coordinados.",
+    "Permisión de la subcontratación de servicios públicos de transporte bajo condiciones de pliego.",
+    "Obligación de identificar vehículos con distintivos si han recibido subvenciones públicas.",
+    "El pago de sanciones es requisito indispensable para realizar visados o transmitir autorizaciones y vehículos."
+  ],
+  "legal_references": [
+    "Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres",
+    "Real Decreto 1211/1990, de 28 de julio, por el que se aprueba el Reglamento de Ordenación de los Transportes Terrestres",
+    "Ley Orgánica 5/1987, de 30 de julio, de Delegación de Facultades del Estado en las Comunidades Autónomas",
+    "Estatuto de Autonomía de Castilla-La Mancha",
+    "Constitución Española",
+    "Ley 1/1994, de 24 de mayo, de Accesibilidad y Eliminación de Barreras en Castilla-La Mancha",
+    "Reglamentos CE n.º 2135/1998 y n.º 1360/2002",
+    "Directiva 88/599/CEE",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas",
+    "Plan Director de Transportes",
+    "Legislación estatal en materia de transportes"
+  ],
+  "derogations": [
+    "Capítulo VII del Título III de la Ley 16/1987 (declarado inconstitucional)",
+    "Todas las disposiciones de igual o inferior rango que se opongan a esta Ley"
+  ],
+  "main_obligations": "Las empresas concesionarias deben presentar su solicitud de ampliación de concesión, motivada y con propuestas de mejora (viajes, material o economía), en un plazo de dos meses desde la entrada en vigor de la ley. Los titulares de vehículos subvencionados deben identificarlos con distintivos.",
+  "effective_date": "2006-02-23",
+  "procedures": [
+    {
+      "name": "Tramitación de Planes Coordinados de Servicios (Ámbito Municipal)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del borrador",
+          "description": "El Ayuntamiento elabora la propuesta del plan.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Se somete el plan a consulta ciudadana y de asociaciones.",
+          "start_date": "1 mes",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación provisional",
+          "description": "El Ayuntamiento aprueba provisionalmente el plan.",
+          "start_date": "máximo 3 meses tras información pública",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación definitiva",
+          "description": "La Consejería de Transporte otorga la aprobación final.",
+          "start_date": "máximo 1 año desde el inicio",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de Planes de Movilidad (Ámbito Supra-municipal)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Constitución de Comisión Técnica",
+          "description": "Se crea una comisión con municipios, Comunidad Autónoma y representantes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Trámite de información pública para consideración ciudadana.",
+          "start_date": "mínimo 2 meses",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución definitiva",
+          "description": "La Consejería o el Municipio (según ámbito) dicta la resolución.",
+          "start_date": "máximo 1 año desde el inicio",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "De oficio, por petición de órganos o por denuncia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Notificación de la sanción impuesta.",
+          "start_date": "máximo 1 año desde el inicio",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de ampliación de concesión de transporte regular",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El concesionario debe presentar una solicitud motivada detallando las mejoras propuestas (frecuencias, vehículos, economía).",
+          "start_date": "Entrada en vigor de la Ley",
+          "end_date": "2 meses desde la entrada en vigor",
+          "required_documentation": "Propuesta de mejoras en la prestación del servicio (oferta de expediciones, características del material móvil y régimen económico)."
+        },
+        {
+          "step": 2,
+          "title": "Valoración administrativa",
+          "description": "La Administración evalúa la propuesta según el Plan Director de Transportes y la coherencia de las mejoras.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

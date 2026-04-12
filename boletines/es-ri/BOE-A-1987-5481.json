@@ -1,0 +1,77 @@
+{
+  "identifier": "BOE-A-1987-5481",
+  "title": "Ley 2/1987, de 9 de febrero, de Salud Escolar",
+  "visible_title": "Ley de Salud Escolar",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "2/1987",
+  "publication_date": "1987-03-03",
+  "enactment_date": "1987-02-09",
+  "last_updated": "2002-12-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/1987/02/09/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un programa integral de salud para niños y adolescentes en centros educativos de La Rioja. Su objetivo es prevenir enfermedades, promover hábitos saludables y supervisar las condiciones higiénicas de los centros y comedores. Para ello, integra la sanidad escolar dentro de la atención primaria, coordinando a profesionales sanitarios, docentes y familias.",
+  "citizen_impact": "Los padres y tutores verán cómo sus hijos reciben revisiones médicas periódicas y seguimiento de su salud en el colegio. Se garantiza la confidencialidad de los resultados, aunque estos se comunicarán a la dirección del centro y se mantendrán en un expediente escolar para asegurar la continuidad de la atención.",
+  "professional_impact": "Los centros docentes (públicos y privados) deben cumplir con estándares de seguridad, higiene y planes de emergencia. El personal de cocina y comedor tiene la obligación de poseer el carné de manipulador de alimentos, y los directores deben facilitar el acceso de los sanitarios para las revisiones y la gestión de datos de los alumnos.",
+  "keywords": [
+    "salud escolar",
+    "prevención",
+    "sanidad escolar",
+    "La Rioja",
+    "educación para la salud",
+    "exámenes médicos escolares"
+  ],
+  "key_points": [
+    "Creación de un expediente de salud individual para cada alumno desde su incorporación al centro.",
+    "Obligatoriedad de realizar exámenes de salud periódicos a alumnos y personal del centro.",
+    "Control estricto de la higiene en comedores escolares y la formación de los manipuladores de alimentos.",
+    "Exigencia de contar con medios de primeros auxilios y un plan de actuación ante emergencias en cada centro.",
+    "Autorización para que la administración sanitaria acceda a los datos personales de los alumnos sin consentimiento previo para fines de salud escolar.",
+    "Obligación de realizar informes sanitarios previos a la construcción o habilitación de nuevos centros educativos."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 43)",
+    "Ley 14/1986, de 25 de noviembre, General de Sanidad",
+    "Ley Orgánica 3/1982, de 9 de junio, sobre Estatuto de Autonomía de La Rioja",
+    "Real Decreto 542/1984, de 21 de marzo"
+  ],
+  "derogations": [],
+  "main_obligations": "Los centros deben mantener expedientes de salud, disponer de material de primeros auxilios y ejecutar planes de emergencia. El personal de comedor debe tener carné de manipulador de alimentos y los directores deben facilitar la realización de exámenes médicos y la cesión de datos de alumnos a la Consejería de Salud.",
+  "effective_date": "1987-03-04",
+  "procedures": [
+    {
+      "name": "Programa de Salud Escolar",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incorporación y apertura de expediente",
+          "description": "Se inicia el expediente de salud del alumno con la documentación aportada por los padres (cartilla de salud).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Cartilla de salud infantil actualizada y documentos aportados por responsables."
+        },
+        {
+          "step": 2,
+          "title": "Revisiones y exámenes de salud",
+          "description": "Realización de exámenes periódicos según la periodicidad que determine la Consejería de Salud.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Comunicación de resultados",
+          "description": "Notificación de los resultados de los exámenes a los padres y a la dirección del centro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-2014-1365",
+  "title": "Ley 5/2013, de 17 de octubre, de ordenación del servicio jurídico de la Administración de la Junta de Comunidades de Castilla-La Mancha",
+  "visible_title": "Ordenación del servicio jurídico de la Administración de la Junta de Comunidades de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "5/2013",
+  "publication_date": "2014-02-10",
+  "enactment_date": "2013-10-17",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2013/10/17/5",
+  "official_journal": "Diario Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley reorganiza la asistencia jurídica de la Junta de Comunidades de Castilla-La Mancha para unificar criterios y mejorar la defensa de sus intereses. Crea una estructura centralizada bajo la Dirección de los Servicios Jurídicos, dividiendo las funciones entre el Gabinete Jurídico (defensa en juicio) y las asesorías jurídicas de las Consejerías (asesoramiento previo). El objetivo es evitar la dispersión de criterios y asegurar que la Administración actúe siempre bajo un control jurídico profesional y coordinado.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta directamente a los abogados y funcionarios jurídicos de la región, estableciendo que el acceso al Cuerpo de Letrados debe ser mediante oposición por mérito y capacidad. Los funcionarios del Cuerpo Superior Jurídico pasan a integrarse en asesorías jurídicas de las Consejerías, bajo supervisión técnica de la Dirección de los Servicios Jurídicos.",
+  "keywords": [
+    "servicios jurídicos",
+    "asesoría jurídica",
+    "Gabinete Jurídico",
+    "defensa de la administración",
+    "Castilla-La Mancha",
+    "funcionarios jurídicos",
+    "asesoramiento legal"
+  ],
+  "key_points": [
+    "Creación de la Dirección de los Servicios Jurídicos como centro superior consultivo y directivo.",
+    "División de funciones: el Gabinete Jurídico se encarga de la defensa en juicio y las asesorías de las Consejerías del asesoramiento inicial.",
+    "Obligatoriedad de oposición para acceder al Cuerpo de Letrados basada en mérito y capacidad.",
+    "Establecimiento de un mecanismo para resolver discrepancias de criterio jurídico mediante consultas a la Dirección.",
+    "Posibilidad de que la Administración defienda a sus propios empleados públicos en procesos derivados de su ejercicio legítimo de funciones.",
+    "Prohibición de que los Letrados realicen actividades profesionales privadas incompatibles con la defensa de la Administración."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 52/1997, de 27 de noviembre, de Asistencia Jurídica al Estado e Instituciones Públicas",
+    "Ley 4/2003, de 27 de febrero, de Ordenación de los Servicios Jurídicos de la Administración de la Junta de Comunidades de Castilla-La Mancha",
+    "Ley 11/2003, de 25 de septiembre, del Gobierno y el Consejo Consultivo de Castilla-La Mancha",
+    "Ley 53/1984, de 26 de diciembre, de Incompatibilidades del Personal al Servicio de las Administraciones Públicas",
+    "Ley 4/2011, de 10 de marzo, del Empleo Público de Castilla-La Mancha",
+    "Decreto 128/1987, de 22 de septiembre"
+  ],
+  "derogations": [
+    "Ley 4/2003, de 27 de febrero, de Ordenación de los Servicios Jurídicos de la Administración de la Junta de Comunidades de Castilla-La Mancha"
+  ],
+  "main_obligations": "Los Letrados del Gabinete Jurídico deben ejercer con dedicación exclusiva y tienen prohibido defender intereses ajenos que colisionen con los de la Administración. Las Consejerías deben remitir con la máxima celeridad cualquier comunicación judicial recibida a los Servicios Jurídicos.",
+  "effective_date": "2014-03-01",
+  "procedures": [
+    {
+      "name": "Acceso al Cuerpo de Letrados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de oposición",
+          "descrption": "Procedimiento de selección basado en méritos y capacidad para graduados o licenciados en Derecho.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Título de Licenciado o Grado en Derecho"
+        }
+      ]
+    },
+    {
+      "name": "Defensa de autoridades y empleados públicos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de asistencia",
+          "descrption": "El funcionario afectado solicita la representación al iniciar el procedimiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe de la Consejería",
+          "descrption": "La Secretaría General de la consejería emite una propuesta tras el informe de su centro directivo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de la Dirección General de Servicios Jurídicos",
+          "descrption": "La Dirección resuelve la propuesta, verificando que no exista conflicto de intereses.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

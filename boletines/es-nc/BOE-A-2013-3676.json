@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-2013-3676",
+  "title": "Ley Foral 12/2013, de 12 de marzo, de apoyo a los emprendedores y al trabajo autónomo en Navarra",
+  "visible_title": "Ley de apoyo a los emprendedores y al trabajo autónomo en Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "12/2013",
+  "publication_date": "2013-04-06",
+  "enactment_date": "2013-03-12",
+  "last_updated": "2013-03-18",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2013/03/12/12",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece una hoja de ruta integral para fomentar el autoempleo y la creación de empresas en Navarra, especialmente en un contexto de crisis económica. Introduce mecanismos de financiación pública y privada, como fondos de inversión social y microcréditos, para apoyar proyectos emprendedores. Además, busca simplificar la administración y mejorar la formación y protección social de los trabajadores autónomos y microempresas.",
+  "citizen_impact": "Facilita el acceso a ayudas económicas y formación para personas que quieran empezar su propio negocio o mejorar el suyo. También ofrece mejores herramientas de conciliación familiar y protección social para quienes trabajan por cuenta propia.",
+  "professional_impact": "Los autónomos y emprendedores navarros acceden a nuevas figuras de apoyo como el intermediario financiero y el inversor social. Las microempresas se benefician de una simplificación administrativa que busca permitir la creación de empresas en solo 24 horas mediante la ventanilla única.",
+  "keywords": [
+    "emprendimiento",
+    "trabajo autónomo",
+    "microempresas",
+    "financiación",
+    "Navarra",
+    "economía social",
+    "ayudas",
+    "autoempleo"
+  ],
+  "key_points": [
+    "Creación de fondos de inversión social y sistemas de microcréditos para financiar proyectos.",
+    "Introducción de las figuras de intermediario financiero e inversor privado social para asesorar y capitalizar emprendimientos.",
+    "Implementación de la 'ventanilla única' para permitir la creación de empresas en 24 horas con documentación provisional.",
+    "Fomento de la economía social, cooperativismo y sociedades laborales.",
+    "Establecimiento de incentivos para la conciliación de la vida laboral y familiar en el ámbito autónomo.",
+    "Creación del Plan Estratégico del Trabajo Autónomo con revisión al menos cada cuatro años.",
+    "Prioridad de ayudas para colectivos vulnerables como jóvenes, mujeres, desempleados de larga duración y personas con discapacidad.",
+    "Desarrollo de políticas de reinserción profesional para autónomos que cesen su actividad por causas económicas."
+  ],
+  "legal_references": [
+    "Ley 20/2007, de 11 de julio, del Estatuto del Trabajo Autónomo",
+    "Recomendación 2003/361/CE de la Comisión Europea",
+    "Real Decreto Legislativo 4/2004, de 5 de marzo (Ley del Impuesto sobre Sociedades)",
+    "Ley 56/2003, de 16 de julio, de Empleo",
+    "Real Decreto 1542/2011, de 30 de octubre",
+    "Real Decreto 197/2009, de 28 de febrero"
+  ],
+  "derogations": [
+    "Cualquier disposición de igual o inferior rango que se oponga a la presente Ley Foral"
+  ],
+  "main_obligations": null,
+  "effective_date": "2013-04-07",
+  "procedures": [
+    {
+      "name": "Creación de empresas (Ventanilla Única)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración provisional",
+          "description": "Realización de la declaración provisional para permitir el inicio de actividad en 24 horas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración provisional de inicio"
+        },
+        {
+          "step": 2,
+          "title": "Regularización de documentación",
+          "description": "Plazo para completar y aportar el resto de la documentación necesaria.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": "Documentación completa según normativa"
+        }
+      ]
+    },
+    {
+      "name": "Elaboración del Plan Estratégico del Trabajo Autónomo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del proyecto",
+          "description": "El Departamento competente diseña el plan incluyendo diagnóstico, objetivos y cronograma.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Consulta preceptiva",
+          "description": "Consulta al Consejo Navarro del Trabajo Autónomo (no vinculante).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación",
+          "description": "El proyecto es elevado para su aprobación por el Gobierno de Navarra.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

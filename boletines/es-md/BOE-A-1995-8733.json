@@ -1,0 +1,140 @@
+{
+  "identifier": "BOE-A-1995-8733",
+  "title": "Ley 15/1994, de 28 de diciembre, del Deporte de la Comunidad de Madrid",
+  "visible_title": "Ley del Deporte de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "15/1994",
+  "publication_date": "1995-04-10",
+  "enactment_date": "1994-12-28",
+  "last_updated": "2024-12-26",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1994/12/28/15",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley reorganiza todo el sistema deportivo de la Comunidad de Madrid, definiendo las competencias de la administración autonómica y las obligaciones de los municipios. Establece un marco de protección para menores en el deporte y regula la gestión de infraestructuras bajo criterios de eficiencia. Además, moderniza el funcionamiento de los clubes y federaciones, garantizando mayor transparencia en los costes de las licencias. Busca dinamizar el deporte local mediante nuevas figuras de coordinación de barrio.",
+  "citizen_impact": "Los ciudadanos cuentan con mayores garantías de protección contra la violencia infantil en centros deportivos y transparencia en los precios de las licencias (desglose de matrícula, sanidad y seguros). Los residentes en municipios de más de 20.000 habitantes tienen derecho garantizado a servicios deportivos públicos. Además, los deportistas menores de 16 años en entidades no profesionales están protegidos contra cobros indebidos por formación o retención.",
+  "professional_impact": "Los centros deportivos deben implementar obligatoriamente protocolos contra la violencia hacia menores. Los municipios de más de 20.000 habitantes asumen la carga de garantizar servicios deportivos. Los clubes deportivos deben inscribirse en el Registro de Asociaciones Deportivas y las federaciones no pueden operar con presupuestos deficitarios sin autorización. Las entidades deportivas deben adaptarse a nuevos criterios de gestión de infraestructuras basados en la rentabilidad social y económica.",
+  "keywords": [
+    "deporte",
+    "Comunidad de Madrid",
+    "protección de menores",
+    "licencias federativas",
+    "gestión deportiva",
+    "servicios deportivos municipales"
+  ],
+  "key_points": [
+    "Obligatoriedad de servicios deportivos públicos en municipios de más de 20.000 habitantes.",
+    "Protección económica de menores de 16 años: prohibición de exigir derechos de formación o retención en entidades no profesionales.",
+    "Seguridad infantil: obligación de implementar protocolos contra la violencia hacia menores en todos los centros deportivos.",
+    "Transparencia en licencias: el coste debe desglosar matrícula, asistencia sanitaria y seguros de riesgo.",
+    "Silencio administrativo positivo: las licencias federativas se consideran concedidas si no hay respuesta en 2 meses.",
+    "Dinamización local: creación de las Coordinadoras Deportivas de barrio.",
+    "Gestión de infraestructuras: prioridad a la autosuficiencia económica y rentabilidad social.",
+    "Control financiero: las federaciones requieren autorización para aprobar presupuestos deficitarios.",
+    "Transición administrativa: el IMDER mantiene su funciones hasta la nueva organización y la Dirección General de Deportes gestiona las solicitudes de asociaciones."
+  ],
+  "legal_references": [
+    "Ley 2/1986, de 5 de junio",
+    "Constitución Española (artículo 43.3)",
+    "Estatuto de Autonomía de la Comunidad de Madrid (artículo 26.17)",
+    "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+    "Ley 10/1990, de 15 de diciembre, del Deporte",
+    "Carta Olímpica"
+  ],
+  "derogations": [
+    "Ley 2/1986, de 5 de junio, de la Cultura Física y el Deporte de la Comunidad de Madrid"
+  ],
+  "main_obligations": "Los centros deportivos deben contar con protocolos contra la violencia infantil y los clubes deben inscribirse en el Registro de Asociaciones Deportivas. Los municipios de más de 20.000 habitantes están obligados a garantizar servicios deportivos públicos.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Obtención de licencia federativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de licencia",
+          "descrption": "El interesado presenta la solicitud formal ante la Federación correspondiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Requisitos establecidos en los Estatutos de la Federación"
+        },
+        {
+          "step": 2,
+          "title": "Resolución por silencio administrativo",
+          "descrption": "Si la Federación no responde en dos meses, la licencia se entiende concedida.",
+          "start_date": "2 meses desde la solicitud",
+          "end_date": "2 meses desde la solicitud",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Constitución de Club Deportivo Elemental",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Suscripción de documento privado",
+          "descrption": "Los fundadores suscriben un documento con nombre, domicilio, finalidad y sometimiento a normas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento privado de constitución"
+        },
+        {
+          "step": 2,
+          "title": "Obtención de certificado",
+          "descrption": "Se obtiene el certificado de identidad deportiva para acreditar la constitución ante terceros.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Constitución de Club Deportivo Básico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Otorgamiento de acta fundacional",
+          "descrption": "Al menos cinco fundadores deben otorgar acta ante Notario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta fundacional ante Notario y Estatutos"
+        },
+        {
+          "step": 2,
+          "title": "Inscripción en el Registro",
+          "descrption": "Presentación del acta y estatutos en el Registro correspondiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta notarial y Estatutos"
+        }
+      ]
+    },
+    {
+      "name": "Inscripción y modificación de asociaciones deportivas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Presentación de solicitudes de inscripción o modificación de estatutos ante la Dirección General de Deportes.",
+          "start_date": "Antes de la aprobación de las normas reglamentarias de desarrollo de la Ley 15/1994",
+          "end_date": null,
+          "required_documentation": "Estatutos de la asociación"
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Resolución por parte de la Dirección General de Deportes atendiendo a los criterios de la ley y el buen desarrollo deportivo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

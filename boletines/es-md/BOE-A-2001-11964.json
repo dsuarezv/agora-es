@@ -1,0 +1,85 @@
+{
+  "identifier": "BOE-A-2001-11964",
+  "title": "Ley 1/2001, de 29 de marzo, por la que se establece la duración máxima y el régimen de silencio administrativo de determinados procedimientos",
+  "visible_title": "Ley de duración máxima y régimen de silencio administrativo de procedimientos",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "1/2001",
+  "publication_date": "2001-06-22",
+  "enactment_date": "2001-03-29",
+  "last_updated": "2024-12-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2001/03/29/1",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley regula cuánto tiempo puede tardar la Administración de la Comunidad de Madrid en resolver ciertos trámites y qué ocurre si no responde. Establece plazos máximos de resolución (algunos superiores a seis meses) y define si la falta de respuesta significa que la solicitud ha sido aceptada (silencio positivo) o denegada (silencio negativo). Su objetivo es dar seguridad jurídica y evitar que la inactividad administrativa perjudique el interés general en casos complejos.",
+  "citizen_impact": "Los ciudadanos pueden saber con exactitud cuánto tiempo máximo debe esperar la Administración para responder a sus solicitudes específicas. Además, les permite saber de antemano si el no recibir respuesta significa que su petición ha sido rechazada, evitando esperas indefinidas.",
+  "professional_impact": "Para los funcionarios, impone plazos estrictos de resolución y notificación que deben cumplir para evitar que se produzcan efectos automáticos de silencio. Para abogados y gestores, proporciona una herramienta clara para reclamar ante la inactividad administrativa basándose en los plazos y efectos legales establecidos en el anexo de la ley.",
+  "keywords": [
+    "silencio administrativo",
+    "plazo de resolución",
+    "procedimiento administrativo",
+    "Comunidad de Madrid",
+    "silencio negativo",
+    "silencio positivo"
+  ],
+  "key_points": [
+    "Establece plazos máximos de resolución y notificación para los procedimientos listados en el anexo.",
+    "Define el efecto del silencio administrativo (positivo o negativo) según el tipo de trámite.",
+    "Permite al Gobierno de la Comunidad de Madrid modificar plazos por Decreto si no superan los seis meses.",
+    "Habilita al Gobierno para cambiar el sentido del silencio de negativo a positivo mediante Decreto.",
+    "Regula la firma de convenios institucionales para agilizar la gestión administrativa.",
+    "Ajusta el cómputo de plazos para la Consejería de Presidencia y Hacienda mediante su propio registro."
+  ],
+  "legal_references": [
+    "Ley 4/1999, de 13 de enero",
+    "Ley 30/1992, de 26 de noviembre",
+    "Ley 8/1999, de 9 de abril",
+    "Ley 14/2000, de 29 de diciembre",
+    "Ley 1/1983, de 13 de diciembre",
+    "Ley 4/1999, de 30 de marzo, de Cooperativas de la Comunidad de Madrid",
+    "Ley 9/1999, de 9 de abril, de Museos de la Comunidad de Madrid"
+  ],
+  "derogations": [
+    "Artículo 13.2 de la Ley 4/1999, de 30 de marzo, de Cooperativas de la Comunidad de Madrid",
+    "Apartados 3.8, 3.12 y 5.3 del anexo de la Ley 8/1999, de 9 de abril",
+    "Artículos 7.2, 17.1 y 20.3 de la Ley 9/1999, de 9 de abril, de Museos de la Comunidad de Madrid",
+    "Segundo párrafo del apartado 1 de la disposición adicional de la Ley 8/1999, de 9 de abril"
+  ],
+  "main_obligations": "La Administración está obligada a dictar y notificar la resolución de los procedimientos en los plazos máximos indicados en el anexo. El incumplimiento de estos plazos activará automáticamente los efectos de silencio (positivo o negativo) previstos para cada caso.",
+  "effective_date": "2001-06-23",
+  "procedures": [
+    {
+      "name": "Procedimientos del Anexo Único",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Presentación de la solicitud ante el registro competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Según cada procedimiento específico"
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y resolución",
+          "description": "La Administración debe dictar y notificar la resolución expresa.",
+          "start_date": "Desde la entrada en registro",
+          "end_date": "Plazo máximo indicado en el anexo",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Efectos por silencio",
+          "description": "Si no hay resolución en plazo, se aplican los efectos (positivo o negativo) del anexo.",
+          "start_date": "Al vencimiento del plazo máximo",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-2019-1695",
+  "title": "Ley 5/2018, de 21 de diciembre, de acceso al entorno de las personas con discapacidad acompañada de perros de asistencia",
+  "visible_title": "Acceso al entorno de las personas con discapacidad acompañada de perros de asistencia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Junta de Comunidades de Castilla-La Mancha",
+  "official_number": "5/2018",
+  "publication_date": "2019-02-08",
+  "enactment_date": "2018-12-21",
+  "last_updated": "2022-01-19",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2018/12/21/5",
+  "official_journal": "Diario Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley garantiza el derecho de acceso, permanencia y circulación de personas con discapacidad acompañadas de perros de asistencia en todo el territorio de Castilla-La Mancha. Amplía la protección más allá de los perros guía, incluyendo perros de servicio, de aviso médico y para personas con autismo. Además, regula el reconocimiento oficial de estos animales, las obligaciones de sus usuarios y el régimen de sanciones para quienes impidan su acceso.",
+  "citizen_impact": "Las personas con discapacidad que utilicen perros de asistencia ahora tienen un derecho legal blindado para entrar en comercios, restaurantes, hoteles, transportes y entornos laborales sin que se les pueda aplicar el derecho de admisión. Esto facilita su autonomía y evita discriminaciones en su vida social y profesional.",
+  "professional_impact": "Los establecimientos públicos y privados (hostelería, transporte, comercio) no pueden prohibir la entrada de estos perros ni cobrar suplementos por ello, bajo riesgo de multas elevadas. Las entidades de adiestramiento deben cumplir requisitos de homologación y los profesionales del sector deben poseer cualificaciones específicas.",
+  "keywords": [
+    "perros de asistencia",
+    "discapacidad",
+    "accesibilidad",
+    "Castilla-La Mancha",
+    "derechos de acceso",
+    "perro guía",
+    "perro de servicio"
+  ],
+  "key_points": [
+    "Reconocimiento de múltiples tipos de perros: guía, señalización de sonidos, servicio, aviso médico y para autismo.",
+    "Prohibición de aplicar el derecho de admisión para impedir el acceso con el perro de asistencia.",
+    "El acceso se extiende a entornos laborales y espacios privados de uso colectivo (como comunidades de vecinos o clubes).",
+    "Los perros de asistencia no computan como plaza en el transporte público.",
+    "Obligatoriedad de contar con un distintivo de identificación oficial y carné de la unidad de vinculación.",
+    "Exigencia de seguro de responsabilidad civil para cubrir posibles daños a terceros.",
+    "Creación del Registro de Unidades de Vinculación en la región.",
+    "Sanciones por impedir el acceso: multas de hasta 10.000 euros para infracciones muy graves.",
+    "Derecho a permiso retribuido para funcionarios que deban formarse en el uso de su perro de asistencia."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 26/2011",
+    "Real Decreto Legislativo 1/2013",
+    "Ley 1/1994 de Castilla-La Mancha",
+    "Ley 14/2010 de Castilla-La Mancha",
+    "Ley 7/2014 de Castilla-La Mancha",
+    "Ley 39/2015",
+    "Ley 40/2015"
+  ],
+  "derogations": [
+    "Artículo 24 de la Ley 1/1994, de 24 de mayo, de accesibilidad y eliminación de barreras en Castilla-La Mancha",
+    "Artículo 73 de la Ley 7/2014, de 13 de noviembre, de Garantía de los Derechos de las Personas con Discapacidad en Castilla-La Mancha",
+    "Capítulo VI (artículos 41 a 45) del Decreto 158/1997, de 2 de diciembre, del Código de Accesibilidad de Castilla-La Mancha"
+  ],
+  "main_obligations": "Los usuarios deben mantener al perro con distintivo oficial, llevar el carné de identificación y contar con seguro de responsabilidad civil. Los establecimientos tienen prohibido cobrar tasas adicionales o exigir garantías para permitir el acceso.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Reconocimiento de la condición de perro de asistencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de acreditación",
+          "description": "Presentación de solicitud ante la consejería competente para obtener el reconocimiento de la unidad de vinculación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado de entidad de adiestramiento, documento sanitario oficial, póliza de responsabilidad civil."
+        },
+        {
+          "step": 2,
+          "title": "Resolución y registro",
+          "description": "Notificación de la resolución que otorga el reconocimiento e inscripción en el Registro de Unidades de Vinculación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Suspensión de la condición de perro de asistencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción de expediente",
+          "description": "Procedimiento administrativo para investigar causas de suspensión (enfermedad, falta de higiene o falta de seguro).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Subsanación",
+          "description": "Plazo para corregir la causa de la suspensión y evitar la pérdida definitiva.",
+          "start_date": "6 meses",
+          "end_date": "6 meses",
+          "required_documentation": "Certificado de aptitud, certificado veterinario o copia de la póliza de seguro."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

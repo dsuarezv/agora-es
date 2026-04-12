@@ -1,0 +1,187 @@
+{
+  "identifier": "BOE-A-2021-1662",
+  "title": "Ley 18/2020, de 28 de diciembre, de facilitación de la actividad económica",
+  "visible_title": "Ley de facilitación de la actividad económica",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "18/2020",
+  "publication_date": "2021-02-05",
+  "enactment_date": "2020-12-28",
+  "last_updated": "2023-03-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2020/12/28/18",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley revoluciona la forma en que las empresas operan en Cataluña, eliminando la burocracia mediante un modelo digital y proactivo. Sustituye la necesidad de autorizaciones previas por un régimen de comunicación para la apertura de negocios, permitiendo empezar a trabajar casi de inmediato. Todo se centraliza en una Ventanilla Única Empresarial para evitar que el ciudadano tenga que entregar la misma información varias veces. Además, introduce un sistema de control posterior por parte de la Administración para garantizar el cumplimiento sin frenar la actividad económica.",
+  "citizen_impact": "Los emprendedores y autónomos pueden abrir sus negocios de forma más rápida mediante comunicaciones directas en lugar de esperar licencias. Se reduce el tiempo perdido en trámites gracias a que la Administración ya tiene tus datos y no te los pedirá de nuevo. Sin embargo, el incumplimiento de las normas puede suponer sanciones graves, como la suspensión de la actividad hasta por dos años.",
+  "professional_impact": "Las empresas deben adaptarse a un entorno 100% digital, utilizando la Ventanilla Única y gestionando sus datos de forma interoperable. Se introduce la figura de la 'persona autorizada' para gestionar trámites en nombre de la empresa. Los ayuntamientos tienen la obligación de actualizar sus plataformas tecnológicas en un plazo de 2 años para integrarse en este modelo.",
+  "keywords": [
+    "facilitación actividad económica",
+    "ventanilla única empresarial",
+    "trámites digitales",
+    "régimen de comunicación",
+    "Cataluña",
+    "simplificación administrativa",
+    "control posterior"
+  ],
+  "key_points": [
+    "Creación de la Ventanilla Única Empresarial para centralizar todos los trámites y pagos electrónicos en un solo lugar.",
+    "Implementación del principio de 'aportación de datos una única vez' para eliminar la repetición de trámites.",
+    "Adopción del régimen de comunicación como norma general para la apertura de establecimientos (control posterior).",
+    "Creación de un Identificador Único del Establecimiento para un seguimiento inequívoco de la actividad.",
+    "Introducción de la figura de 'persona autorizada' para la gestión de formularios, solicitudes y notificaciones electrónicas.",
+    "Exención de comunicación de inicio para actividades profesionales, científicas o técnicas (Grupo M) y servicios auxiliares (Grupo N) si se ejercen en la vivienda.",
+    "Posibilidad de designar 'proyectos empresariales estratégicos' con tramitación de urgencia y utilidad pública.",
+    "Creación de un Directorio de empresas, establecimientos y registros para la interoperabilidad de datos.",
+    "Endurecimiento de sanciones no pecuniarias: suspensión de actividad de hasta 2 años en infracciones muy graves.",
+    "Permiso para utilizar sistemas de firma electrónica de nivel de seguridad bajo para ciertos trámites digitales."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Cataluña",
+    "Ley 13/2008, de la presidencia de la Generalidad y del Gobierno",
+    "Decreto 114/2020, de sustitución del presidente de la Generalidad",
+    "Decreto legislativo 2/2003, de la Ley municipal y de régimen local de Cataluña",
+    "Ley 26/2010, de régimen jurídico y de procedimiento de las administraciones públicas de Cataluña",
+    "Ley 16/2015, de simplificación de la actividad administrativa de la Administración de la Generalidad y de los gobiernos locales de Cataluña",
+    "Ley 20/2013, de garantía de la unidad de mercado",
+    "Ley 22/1998, de 30 de diciembre, de la Carta municipal de Barcelona",
+    "Ley 3/2010, de 18 de febrero, de prevención y seguridad en materia de incendios en establecimientos, actividades, infraestructuras y edificios",
+    "Directiva 2006/123/CE del Parlamento Europeo",
+    "Decreto 112/2010, de 31 de agosto, del Reglamento de espectáculos públicos y actividades recreativas",
+    "Decreto legislativo 1/2010, de 3 de agosto, Texto refundido de la Ley de urbanismo"
+  ],
+  "derogations": [
+    "Distinción entre declaración responsable y comunicación en el ámbito municipal",
+    "Ley 16/2015, de 21 de julio (Títulos I y II, apartado 2.a, disposiciones adicionales 1ª, 2ª, 4ª, 5ª, 6ª, 7ª y 9ª, y disposiciones transitorias 1ª y 3ª)",
+    "Reglamento de espectáculos públicos y actividades recreativas (letras b, c y d del artículo 124)"
+  ],
+  "main_obligations": "Los titulares deben realizar sus gestiones de forma digital y cumplir con la normativa sectorial específica. Las administraciones y ayuntamientos están obligados a implementar la Ventanilla Única y adaptar sus sistemas tecnológicos en un plazo de 2 años.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Comunicación de inicio de la actividad en un establecimiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación de intervención previa",
+          "description": "Finalización favorable de cualquier procedimiento sectorial o urbanístico previo necesario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de la comunicación digital",
+          "description": "Comunicación de datos a través de la Ventanilla Única aportando certificado técnico o proyecto técnico.",
+          "start_date": "Tras la resolución favorable de la intervención previa",
+          "end_date": null,
+          "required_documentation": "Certificado técnico (modelo normalizado) o Proyecto técnico, y comprobante de pago de tasas."
+        },
+        {
+          "step": 3,
+          "title": "Habilitación inmediata",
+          "description": "La comunicación permite el inicio inmediato de la actividad bajo responsabilidad del titular.",
+          "start_date": "Tras la presentación de la comunicación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Comprobación de requisitos",
+          "description": "La Administración realiza el control posterior de requisitos formales y materiales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de subsanación de requisitos formales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de requerimiento",
+          "description": "La Administración detecta inexactitud o falta de documentación y notifica al interesado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de subsanación",
+          "description": "El titular debe corregir los defectos detectados.",
+          "start_date": "Desde la notificación",
+          "end_date": "10 días",
+          "required_documentation": "Documentación o datos correctos"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de comprobación de requisitos materiales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Acuerdo motivado de la administración tras constatar incumplimiento de requisitos técnicos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de alegaciones y subsanación",
+          "description": "El interesado presenta alegaciones y puede subsanar los defectos.",
+          "start_date": "Desde la notificación",
+          "end_date": "1 mes (ampliable a 3 meses)",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Decisión final: archivo, cese de actividad, reinicio o continuación condicionada.",
+          "start_date": null,
+          "end_date": "Máximo 6 meses desde el inicio",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del expediente",
+          "descrption": "Inicio formal del procedimiento sancionador.",
+          "start_date": "Inicio del expediente",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "descrption": "Plazo máximo para dictar y notificar la resolución antes de que el expediente caduque.",
+          "start_date": "Desde la incoación",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inicio de actividad económica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de inicio",
+          "descrption": "Presentación de la comunicación a través de la Ventanilla Única o medios habilitados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos según el modelo de Ventanilla Única"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

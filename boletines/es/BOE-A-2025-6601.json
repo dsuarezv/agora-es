@@ -1,0 +1,108 @@
+{
+  "identifier": "BOE-A-2025-6601",
+  "title": "Real Decreto 255/2025, de 1 de abril, por el que se regula el Documento Nacional de Identidad",
+  "visible_title": "Regulación del Documento Nacional de Identidad físico y digital",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio del Interior",
+  "official_number": "255/2025",
+  "publication_date": "2025-04-02",
+  "enactment_date": "2025-04-01",
+  "last_updated": "2025-04-02",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/04/01/255",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "80",
+  "summary": "Esta norma moderniza por completo el sistema de identificación español, integrando el DNI físico con una nueva versión digital segura para dispositivos móviles. El objetivo es adaptar el documento a los estándares europeos de identidad digital y mejorar la seguridad frente al fraude. Además, unifica toda la normativa dispersa en un único cuerpo legal que regula desde la expedición hasta la gestión de datos y firmas electrónicas.",
+  "citizen_impact": "Los ciudadanos podrán identificarse y firmar documentos digitalmente de forma segura desde su móvil, con la misma validez que el carné físico. Se facilita el acceso a servicios públicos y privados mediante una identidad digital única, aunque se mantiene la obligación de acudir presencialmente para la primera expedición o renovación.",
+  "professional_impact": "Las empresas y entidades del sector privado tienen un plazo de 12 meses para adaptar sus sistemas y poder reconocer la versión digital del DNI. Los funcionarios y agentes de la autoridad ahora tienen la facultad de exigir la comprobación de la identidad tanto en formato físico como digital.",
+  "keywords": [
+    "DNI digital",
+    "identidad electrónica",
+    "Ministerio del Interior",
+    "firma electrónica",
+    "seguridad ciudadana",
+    "identificación móvil"
+  ],
+  "key_points": [
+    "Creación oficial de la versión digital del DNI para uso en dispositivos móviles.",
+    "La versión digital tiene la misma validez jurídica que el documento físico para identificarse ante autoridades y empresas.",
+    "El DNI se convierte en un identificador único vinculado a certificados electrónicos cualificados para firmas digitales.",
+    "Se establece un plazo de 12 meses para que empresas y administraciones adapten sus sistemas a la versión digital.",
+    "La obtención del DNI físico es requisito indispensable para poder generar la versión digital.",
+    "Se actualizan los estándares de seguridad para cumplir con la normativa de la Unión Europea.",
+    "Los menores de 14 años requieren la presencia de sus tutores para la entrega del documento."
+  ],
+  "legal_references": [
+    "Real Decreto 1553/2005",
+    "Ley Orgánica 4/2015",
+    "Reglamento (UE) 2019/1157",
+    "Reglamento (UE) 910/2014",
+    "Reglamento (UE) 2024/1183",
+    "Ley 6/2020",
+    "Ley 6/2021",
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Ley Orgánica 3/2018",
+    "Ley Orgánica 7/2021",
+    "Ley 39/2015"
+  ],
+  "derogations": [
+    "Real Decreto 1553/2005, de 23 de diciembre"
+  ],
+  "main_obligations": "Las personas mayores de 14 años residentes en España están obligadas a obtener el DNI. Los titulares deben exhibirlo ante la autoridad cuando se les requiera, ya sea en formato físico o digital, y deben denunciar su extravío o robo para obtener un duplicado.",
+  "effective_date": "2025-04-02",
+  "procedures": [
+    {
+      "name": "Expedición y renovación del DNI",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de cita previa",
+          "descrption": "Gestión de la cita para la comparecencia física.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comparecencia física",
+          "descrption": "Presentación de la persona para la toma de datos, fotografía y huellas dactilares.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento del Registro Civil, certificado de empadronamiento (o certificación consular), fotografía reciente y abono de tasa."
+        },
+        {
+          "step": 3,
+          "title": "Entrega del documento",
+          "descrption": "Entrega personal del soporte físico al titular.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Obtención de la versión digital",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requisito previo",
+          "descrption": "Disponer de un DNI físico vigente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Activación digital",
+          "descrption": "Proceso telemático o presencial para virtualizar el DNI en un dispositivo móvil mediante comunicación segura.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

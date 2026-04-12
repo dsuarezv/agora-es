@@ -1,0 +1,550 @@
+{
+  "identifier": "BOE-A-2015-4102",
+  "title": "Ley 6/2015, de 24 de marzo, Agraria de Extremadura",
+  "visible_title": "Ley Agraria de Extremadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "6/2015",
+  "publication_date": "2015-04-16",
+  "enactment_date": "2015-03-24",
+  "last_updated": "2025-10-03",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2015/03/24/6",
+  "official_journal": "Boletín Oficial de Extremadura",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y unifica todo el marco jurídico agrario de Extremadura para adaptarlo a la normativa europea. Su objetivo es profesionalizar el sector mediante la creación de registros obligatorios, facilitar el relevo generacional priorizando a jóvenes y mujeres, y mejorar la gestión de recursos como montes, regadíos y caminos rurales. Además, establece un control sanitario más estricto y mecanismos para evitar el abandono de tierras y montes, buscando un desarrollo rural sostenible y eficiente.",
+  "citizen_impact": "Los agricultores y ganaderos deben inscribirse obligatoriamente en el nuevo Registro de Explotaciones para acceder a ayudas. Los jóvenes y mujeres tienen prioridad en el acceso a tierras y formación. Los propietarios de montes y tierras de regadío asumen nuevas responsabilidades de mantenimiento y prevención de incendios, con posibles sanciones si se detecta abandono.",
+  "professional_impact": "Las empresas agroalimentarias y forestales deben cumplir con nuevos registros, estadísticas anuales y la conservación de documentación durante 5 años. Los inspectores y agentes del medio natural tienen poderes de autoridad para acceder a instalaciones sin previo aviso. Se introducen sanciones económicas severas, que pueden alcanzar el 1.200.000 € en casos de fraude en calidad agroalimentaria.",
+  "keywords": [
+    "sector agrario",
+    "Extremadura",
+    "relevo generacional",
+    "gestión de montes",
+    "regadíos",
+    "vías pecuarias",
+    "concentración parcelaria",
+    "sanidad animal",
+    "calidad agroalimentaria"
+  ],
+  "key_points": [
+    "Inscripción obligatoria en el Registro de Explotaciones Agrarias para cualquier actividad y acceso a ayudas.",
+    "Prioridad absoluta en acceso a tierras, ayudas y formación para jóvenes agricultores y mujeres.",
+    "Creación de un Fondo de Tierras para facilitar la ampliación de explotaciones mediante excedentes de concentraciones.",
+    "Nuevas reglas para la transformación de secano en regadío, exigiendo estudios agronómicos previos.",
+    "Protección de caminos rurales y vías pecuarias, siendo el tránsito de ganado prioritario sobre otros usos.",
+    "Control estricto de montes: prohibición de dividir fincas forestales por debajo de 10 hectáreas y medidas contra el abandono.",
+    "Facultades de la autoridad sanitaria para ordenar el sacrificio preventivo de animales ante riesgos de salud pública.",
+    "Creación de la figura de 'entidad agroalimentaria prioritaria' para incentivar la integración de cooperativas.",
+    "Obligación de los propietarios de montes de denunciar infracciones forestales en sus propiedades.",
+    "Implementación de una tasa para la obtención de licencias de recolección de setas (licencia micológica).",
+    "Responsabilidad del envase en errores de etiquetado de productos agroalimentarios.",
+    "Posibilidad de rescindir contratos forestales antiguos por motivos de gestión o protección."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Extremadura",
+    "Directiva 2000/29/CE",
+    "Reglamento (CE) n.º 1107/2009",
+    "Directiva 2009/128/CE",
+    "Reglamento (UE) n.º 518/2013",
+    "Reglamento (UE) n.º 1151/2012",
+    "Ley 43/2002 de sanidad vegetal",
+    "Ley 8/2003 de Sanidad Animal",
+    "Ley 30/2006 de semillas y plantas de vivero",
+    "Ley 4/2013 de Gobierno Abierto de Extremadura",
+    "Ley 5/2011 de órganos consultivos agrarios",
+    "Ley 3/1995 de Vías Pecuarias",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal",
+    "Ley 8/2011, de 23 de marzo, de igualdad entre hombres y mujeres y contra la violencia de género en Extremadura",
+    "Decreto 118/1973, de 12 de enero, por el que se aprueba el Texto de la Ley de Reforma y Desarrollo Agrario",
+    "Ley 2/2008, de 12 de marzo, de Patrimonio de la Comunidad Autónoma de Extremadura",
+    "Ley 30/1992, de 22 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley de Expropiación Forzosa de 1954",
+    "Real Decreto Legislativo 1/2004, de 3 de marzo, por el que se aprueba el Texto Refundido de la Ley del Catastro Inmobiliario",
+    "Ley 21/2013, de 9 de diciembre, de evaluación ambiental",
+    "Ley 43/2003, de 21 de noviembre, de Montes",
+    "Ley 1/2002, de 28 de diciembre, de Gobierno y Administración de la Comunidad Autónoma de Extremadura",
+    "Ley 4/2003, de 20 de marzo, de Estadística de la Comunidad Autónoma de Extremadura",
+    "Ley 45/2007, de 13 de diciembre, para el desarrollo sostenible del medio rural",
+    "Ley 15/2001, de 13 de diciembre, del Suelo y la Ordenación Territorial de Extremadura",
+    "Ley Hipotecaria",
+    "Ley Orgánica 11/1985, de 5 de julio, de Libertad Sindical",
+    "Estatuto de los Trabajadores",
+    "Decreto 9/1994, de 2 de febrero, que aprueba el Reglamento sobre procedimientos sancionadores",
+    "Reglamento (CE) 882/2004 del Parlamento Europeo y del Consejo",
+    "Ley Orgánica 18/1981, de 7 de mayo, del Régimen Electoral General",
+    "Reglamento (CE) n.º 110/2008",
+    "Reglamento (UE) n.º 1306/2013",
+    "Reglamento (UE) n.º 1308/2013",
+    "Reglamento (UE) n.º 251/2014",
+    "Ley 3/1995, de 23 de marzo, de Vías Pecuarias",
+    "Ley 18/2001 de Tasas y Precios Públicos de la CAE"
+  ],
+  "derogations": [
+    "Ley 3/1987 de Tierras de Regadío de Extremadura",
+    "Ley 8/1992 de Modernización y Mejora de las Estructuras de las Tierras de Regadío",
+    "Ley 5/1992 de Ordenación de las Producciones Agrarias de Extremadura",
+    "Ley 12/1997 de Elecciones al campo",
+    "Ley 12/2001 de Caminos Públicos de Extremadura",
+    "Ley 4/2010 de Denominaciones de Origen e Indicaciones Geográficas de Calidad Agroalimentaria de Extremadura",
+    "Ley 4/1984 de Mercado de la CAE",
+    "Ley 1/1986 de la Dehesa en Extremadura",
+    "Ley 6/1992 de Fomento de la Agricultura Ecológica",
+    "Ley 7/1992 del Agricultor a Título Principal"
+  ],
+  "main_obligations": "Es obligatorio inscribirse y mantener actualizado el Registro de Explotaciones Agrarias. Los operadores deben conservar la documentación de sus actividades durante al menos 5 años y facilitar el acceso a inspectores. Los propietarios de montes deben permitir el acceso a agentes y comunicar la transmisión de la propiedad en un plazo de un mes.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Inscripción en el Registro de Explotaciones Agrarias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inscripción y actualización",
+          "descrption": "Obligación de inscribir y mantener actualizados los datos de toda explotación agraria en el territorio extremeño.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acceso a la propiedad para cesionarios provisionales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de acceso",
+          "description": "Presentación de la solicitud para acceder a la propiedad de las tierras.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "No especificada"
+        },
+        {
+          "step": 2,
+          "title": "Resolución administrativa",
+          "description": "La administración debe dictar y notificar la resolución.",
+          "start_date": "Desde la solicitud",
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Otorgamiento de escritura",
+          "description": "Tras la resolución favorable, se otorga la escritura pública de compraventa.",
+          "start_date": "Tras la resolución",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acceso a la propiedad para arrendatarios o precarios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Ejercicio del derecho",
+          "description": "Los arrendatarios con 10 años de actividad deben solicitar el acceso.",
+          "start_date": "Dentro de 1 año de la entrada en vigor de la norma",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inspección de calidad agroalimentaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Actuación inspectora",
+          "description": "Realización de la visita, toma de muestras y comprobación de documentos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación de transacciones y controles previos"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de resolución de la inspección",
+          "description": "Las actuaciones no deben dilatarse más de este tiempo salvo complejidad o interrupción.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Plan General de Transformación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Redacción del Plan",
+          "description": "La Consejería redacta el plan tras la declaración de interés general.",
+          "start_date": "Publicación del Decreto de interés general",
+          "end_date": "1 año",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plan de Obras",
+          "description": "Elaboración del plan de obras tras la aprobación del Plan General.",
+          "start_date": "Aprobación del Plan General",
+          "end_date": "18 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Concentración Parcelaria (Procedimiento Ordinario)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "description": "De oficio o a solicitud de propietarios (más de la mitad o 75% de la zona).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Estudio de viabilidad",
+          "description": "Análisis técnico, ambiental y económico de la zona.",
+          "start_date": "Tras la admisión a trámite",
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Declaración de utilidad pública",
+          "description": "Aprobación del Decreto por el Consejo de Gobierno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Bases y Proyecto",
+          "description": "Elaboración de las bases provisionales, definitivas y el proyecto de concentración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Acuerdo de concentración",
+          "description": "Resolución que establece la nueva ordenación de la propiedad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Acta de reorganización",
+          "description": "Protocolización e inscripción en el Registro de la Propiedad.",
+          "start_date": null,
+          "end_date": "5 años desde el Decreto",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Concentración parcelaria de iniciativa privada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de concesión de beneficios",
+          "descrption": "Presentación de escrito dirigido a la Consejería de Agricultura.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de concentración, delimitación de perímetro, cargas/gravámenes y plano de nueva distribución."
+        },
+        {
+          "step": 2,
+          "title": "Examen de la solicitud",
+          "descrption": "La Dirección General examina la documentación y propone la aprobación.",
+          "start_date": null,
+          "end_date": "6 meses (silencio administrativo negativo)",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ejecución de actuaciones",
+          "descrption": "Plazo para ejecutar el proyecto y tomar posesión de las nuevas fincas.",
+          "start_date": "Desde la notificación de la aprobación",
+          "end_date": "18 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Acta de reorganización",
+          "descrption": "Extensión del acta con la descripción de las fincas de reemplazo para su inscripción registral.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Recuperación de oficio de vías pecuarias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "descrption": "La Consejería inicia la investigación o actúa por instancia de interesado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Audiencia de interesados",
+          "descrption": "Plazo para presentar alegaciones en defensa de sus derechos.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "descrption": "Dictado de la resolución que ordena el cese de la ocupación.",
+          "start_date": null,
+          "end_date": "1 año (caducidad)",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Ejecución forzosa",
+          "descrption": "Si no hay cumplimiento voluntario, se procede a la ejecución tras un mes del acuerdo.",
+          "start_date": "1 mes tras la resolución",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Deslinde de montes públicos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "description": "Acuerdo de la Administración gestoora o a instancia del titular.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Instrucción",
+          "description": "Designación de un ingeniero-operador para redactar la memoria valorada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Dictado de la resolución final tras un plazo máximo de 2 años (prorrogable por otro igual).",
+          "start_date": null,
+          "end_date": "2 años (prorrogable 2 años)",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Amojonamiento",
+          "description": "Colocación de hitos físicos definitivos tras la aprobación firme.",
+          "start_date": null,
+          "end_date": "5 años tras la aprobación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de monte privado en estado de abandono",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de abandono",
+          "description": "Verificación de 10 años sin actividad o falta de plan de incendios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Requerimiento de plan de mejora",
+          "description": "Instar al propietario a presentar un plan de mejora.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": "Plan de mejora del monte"
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Notificación de la declaración de abandono.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización de uso especial en montes catalogados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud",
+          "description": "Presentación de la solicitud de uso (apicultura, eventos, vehículos, etc.).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Resolución de la Dirección General sobre la solicitud.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento electoral para la representatividad de organizaciones agrarias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria",
+          "description": "El Gobierno convoca las elecciones mediante decreto.",
+          "start_date": "Cada 5 años",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de candidaturas",
+          "description": "Plazo para que las organizaciones presenten sus candidaturas.",
+          "start_date": "10 días desde el anuncio de la convocatoria",
+          "end_date": "10 días después",
+          "required_documentation": "Inscripción en registro, estatutos, acuerdos de coalición, nombre del responsable y dirección electrónica."
+        },
+        {
+          "step": 3,
+          "title": "Admisión de candidaturas",
+          "description": "La Comisión Central comunica la admisión o inadmisión.",
+          "start_date": "7 días tras la presentación",
+          "end_date": "7 días tras la presentación",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Publicación de candidaturas",
+          "description": "Publicación oficial de las listas de organizaciones admitidas.",
+          "start_date": "40 días desde el inicio del proceso",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Celebración de elecciones",
+          "description": "Votación presencial o por correo.",
+          "start_date": "57 días desde el inicio del procedimiento",
+          "end_date": "20:00 horas del día de la votación",
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Escrutinio general",
+          "description": "La Comisión Central realiza el recuento final y proclama resultados.",
+          "start_date": "3 días después de la votación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador simplificado (Infracciones leves)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "description": "Comunicación del acuerdo de inicio al interesado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Alegaciones y pruebas",
+          "description": "Plazo para que el interesado aporte documentos y alegaciones.",
+          "start_date": "10 días desde la notificación",
+          "end_date": "10 días después",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Propuesta de resolución",
+          "description": "El instructor formula la propuesta o deriva a procedimiento general si es grave.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "El órgano competente dicta la resolución final.",
+          "start_date": null,
+          "end_date": "2 meses desde el inicio",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de productos agroalimentarios inmovilizados cautelarmente",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de opciones",
+          "description": "Se comunica al responsable las opciones para regularizar o destinar el producto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Elección de destino",
+          "description": "El responsable debe elegir entre regularizar, cambiar destino (uso industrial/benéfico), devolver o destruir.",
+          "start_date": "15 días desde la comunicación",
+          "end_date": "15 días después",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Expedición de licencia micológica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y pago de tasa",
+          "description": "El interesado solicita la licencia y realiza la autoliquidación del pago en Tesorería.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación de residencia para aplicar reducciones (50% UE, 66% Extremadura)"
+        }
+      ]
+    },
+    {
+      "name": "Reconocimiento de Entidad Agroalimentaria Prioritaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "La entidad solicita el reconocimiento ante la Consejería competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Plan de reestructuración, cronograma de actuaciones, ratios de solvencia y estatutos con compromiso de permanencia de 5 años"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 7
+}

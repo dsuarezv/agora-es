@@ -1,0 +1,89 @@
+{
+  "identifier": "BOE-A-2002-15998",
+  "title": "Ley 6/2002, de 18 de junio, sobre protección de los ecosistemas acuáticos y de regulación de la pesca en aguas continentales",
+  "visible_title": "Ley sobre protección de los ecosistemas acuáticos y de regulación de la pesca en aguas continentales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "6/2002",
+  "publication_date": "2002-08-07",
+  "enactment_date": "2002-06-18",
+  "last_updated": "2002-07-01",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2002/06/18/6",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco para proteger los ríos y ecosistemas de agua dulce en Asturias, equilibrando su conservación con el uso sostenible. Introduce herramientas de planificación como el Plan de ordenación de los ecosistemas acuáticos y regula estrictamente la pesca deportiva y profesional. Además, define nuevas zonas de protección (como los vedados) y endurece las sanciones por vertidos o pesca ilegal para garantizar la biodiversidad.",
+  "citizen_impact": "Los aficionados a la pesca deben obtener licencias y permisos específicos, respetando horarios, tamaños mínimos de captura y zonas permitidas. También afecta a quienes realicen actividades recreativas o deportivas cerca de los ríos, ya que algunas zonas quedan restringidas para la protección de especies.",
+  "professional_impact": "Las empresas con aprovechamientos hidráulicos o industriales deben cumplir con caudales ecológicos y estándares de vertidos estrictos para no dañar el medio acuático. Los pescadores profesionales y dueños de cotos deben ajustarse a una normativa anual que regula cupos, épocas y métodos de captura, bajo riesgo de sanciones económicas elevadas.",
+  "keywords": [
+    "ecosistemas acuáticos",
+    "pesca continental",
+    "biodiversidad",
+    "Asturias",
+    "protección de ríos",
+    "licencia de pesca",
+    "gestión sostenible"
+  ],
+  "key_points": [
+    "Creación de un Plan de ordenación de los ecosistemas acuáticos para la gestión integral de las cuencas.",
+    "División de especies de pesca en Tipo I (aprovechables) y Tipo II (indeseables/no autóctonas).",
+    "Prohibición total de la comercialización de peces capturados en ríos, salvo de acuicultura.",
+    "Introducción de nuevas zonas de gestión: vedados, cotos de pesca, refugios de pesca y reservas genéticas.",
+    "Obligación de mantener caudales ecológicos para garantizar la vida de las especies.",
+    "Restricción de métodos de pesca: solo se permite el uso de caña o anzuelo con un máximo de dos cañas.",
+    "Establecimiento de sanciones que pueden alcanzar los 300.000 euros en infracciones muy graves.",
+    "Obligación de instalar escalas y pasos para permitir la migración de los peces en infraestructuras hidráulicas."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía del Principado de Asturias",
+    "Ley 29/1985, de 2 de agosto, de aguas",
+    "Código Penal (artículo 335)",
+    "Ley de sanciones de pesca del Principado de Asturias de 1998",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas",
+    "Ley de Aguas (Texto Refundido de la Ley de Aguas aprobado por Real Decreto Legislativo 1/2001)"
+  ],
+  "derogations": [
+    "Ley del Principado de Asturias 3/1998, de 11 de diciembre, de la pesca fluvial"
+  ],
+  "main_obligations": "Es obligatorio poseer licencia y permiso para pescar, respetar los tamaños mínimos de captura y las épocas de veda. Se prohíbe la comercialización de capturas silvestres y el uso de métodos de pesca no autorizados (como explosivos o electricidad), bajo pena de multas de hasta 300.000 euros.",
+  "effective_date": "2002-10-01",
+  "procedures": [
+    {
+      "name": "Aprobación de la normativa anual de pesca",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Consulta al Consejo",
+          "description": "El titular de la Consejería debe oír al Consejo de los Ecosistemas Acuáticos y de la Pesca.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Dictamen de la resolución",
+          "description": "Aprobación de épocas, horarios, días hábiles y cupos de pesca.",
+          "start_date": "Antes del 1 de noviembre del año anterior",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Obtención de permisos de pesca en cotos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de permiso",
+          "description": "Trámite individual para habilitar la pesca en zonas de régimen especial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento de identidad"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

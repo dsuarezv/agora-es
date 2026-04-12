@@ -1,0 +1,99 @@
+{
+  "identifier": "BOJA-b-2019-90583",
+  "title": "Decreto-ley 4/2019, de 10 de diciembre, para el fomento de iniciativas económicas mediante la agilización y simplificación administrativas en la tramitación de proyectos y su declaración de interés estratégico para Andalucía, para la creación de una unidad aceleradora de proyectos de interés estratégico y por el que se modifica la Ley 1/1994, de 11 de enero, de Ordenación del Territorio de la Comunidad Autónoma de Andalucía, y la Ley 7/2002, de 17 de diciembre, de Ordenación Urbanística de Andalucía",
+  "visible_title": "Fomento de iniciativas económicas mediante la agilización y simplificación administrativa y creación de la Unidad Aceleradora de Proyectos de Interés Estratégico",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "4/2019",
+  "publication_date": "2019-12-19",
+  "enactment_date": "2019-12-10",
+  "last_updated": "2025-03-03",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOJA-b-2019-90583",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": null,
+  "summary": "Esta norma busca atraer inversión y crear empleo en Andalucía mediante la reducción de trabas burocráticas para grandes proyectos. Introduce la figura de 'inversión de interés estratégico' para otorgar un trato preferente y rápido a proyectos clave en sectores como la economía circular o renovables. Para ello, crea una Unidad Aceleradora de Proyectos que coordinará y agilizará todos los trámites administrativos necesarios.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo por la posible mejora indirecta en el empleo y la economía regional derivada de las inversiones incentivadas.",
+  "professional_impact": "Las empresas con proyectos de gran envergencia (mínimo 25 millones de euros y 50 empleos) se benefician de plazos administrativos reducidos a la mitad y una interlocución única. Los funcionarios de la Junta de Andalucía deberán priorizar estos expedientes y coordinarse a través de la nueva Unidad Aceleradora.",
+  "keywords": [
+    "inversión estratégica",
+    "agilización administrativa",
+    "Unidad Aceleradora de Proyectos",
+    "economía circular",
+    "desarrollo económico Andalucía",
+    "simplificación administrativa"
+  ],
+  "key_points": [
+    "Creación de la Unidad Aceleradora de Proyectos para coordinar y agilizar trámites entre distintas consejerías.",
+    "Reducción a la mitad de los plazos de resolución y tramitación para proyectos declarados de interés estratégico.",
+    "Requisitos para proyectos estratégicos: inversión mínima de 25 millones de euros y creación de al menos 50 empleos directos.",
+    "Inclusión de nuevos sectores prioritarios como la economía circular, la eco-innovación y la energía sostenible.",
+    "Posibilidad de sustituir licencias urbanísticas por declaraciones responsables en ciertos casos para acelerar la ejecución.",
+    "Modificación de las leyes de Ordenación del Territorio y Urbanística para facilitar la implantación de proyectos estratégicos."
+  ],
+  "legal_references": [
+    "Ley 4/2011, de 6 de junio",
+    "Ley 1/1994, de 11 de enero",
+    "Ley 7/2002, de 17 de diciembre",
+    "Ley 39/2015, de 1 de octubre",
+    "Ley 24/2013, de 26 de diciembre",
+    "Ley 7/2007, de 9 de julio",
+    "Constitución Española, art. 86.1"
+  ],
+  "derogations": [
+    "Ley 4/2011, de 6 de junio (salvo excepciones)",
+    "Artículo 41 de la Ley 1/1994, de 11 de enero"
+  ],
+  "main_obligations": "Los promotores de proyectos estratégicos deben cumplir con los compromisos de inversión, empleo y sostenibilidad detallados en su declaración; de lo contrario, la administración puede revocar la declaración y revertir los usos del suelo.",
+  "effective_date": "2019-12-20",
+  "procedures": [
+    {
+      "name": "Declaración de inversión empresarial de interés estratégico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El promotor presenta la solicitud ante la Consejería de Economía con la documentación técnica y económica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria del proyecto (características, empleo, impacto, viabilidad, etc.) y certificado de estar al corriente con Hacienda y Seguridad Social."
+        },
+        {
+          "step": 2,
+          "title": "Recabo de informes",
+          "description": "La Unidad Aceleradora recaba informes de las consejerías competentes y de ordenación del territorio.",
+          "start_date": "1 mes desde la recepción",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informe técnico de la Unidad Aceleradora",
+          "description": "La Unidad emite un informe técnico para la Comisión de Política Económica.",
+          "start_date": "10 días tras finalizar informes",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Audiencia del interesado",
+          "description": "Se traslada la propuesta de resolución al interesado para que presente alegaciones.",
+          "start_date": "15 días",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Resolución final",
+          "description": "La Comisión Delegada para Asuntos Económicos acuerda o desestima la declaración.",
+          "start_date": "10 días tras alegaciones",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

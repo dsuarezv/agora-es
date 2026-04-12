@@ -1,0 +1,80 @@
+{
+  "identifier": "BOE-A-2021-4315",
+  "title": "Decreto-ley 9/2021, de 16 de febrero, de medidas extraordinarias de carácter social y en el ámbito de la cultura con motivo de la pandemia de la COVID-19 y de modificación del Decreto-ley 25/2020, de 16 de junio, de medidas extraordinarias en materia social y de carácter fiscal y administrativo",
+  "visible_title": "Medidas extraordinarias de carácter social y cultural por la pandemia de la COVID-19",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "9/2021",
+  "publication_date": "2021-03-19",
+  "enactment_date": "2021-02-16",
+  "last_updated": "2023-10-19",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2021/02/16/9",
+  "official_journal": "DOGC / BOE",
+  "journal_issue": null,
+  "summary": "Esta norma implementa ayudas económicas y ajustes tarifarios para mitigar los efectos de la pandemia en dos sectores críticos. Por un lado, aumenta los precios de referencia y las tarifas en servicios de residencia y centros de día para mejorar los salarios de sus profesionales. Por otro, establece una ayuda de 750 euros para artistas y técnicos culturales con ingresos bajos en 2020. Además, corrige plazos de ejecución de subvenciones para la lucha contra la exclusión social.",
+  "citizen_impact": "Las personas mayores y sus familias verán un ajuste en los costes de copago de residencias y centros de día. Los profesionales del sector cultural podrán recibir una ayuda directa de 750 euros si cumplen los requisitos de ingresos y actividad.",
+  "professional_impact": "Los trabajadores de residencias y centros de día de la Red de Servicios Sociales de la Generalitat recibirán mejoras salariales gracias al incremento de las tarifas de gestión delegada (4% y 5%). Los artistas y técnicos culturales deben realizar un trámite de solicitud de ayuda mediante declaración responsable en un plazo muy breve de 5 días tras la convocatoria.",
+  "keywords": [
+    "ayudas cultura",
+    "servicios sociales",
+    "residencias mayores",
+    "COVID-19",
+    "Cataluña",
+    "artistas",
+    "tarifas sociales"
+  ],
+  "key_points": [
+    "Ayuda única de 750 euros para profesionales de artes escénicas, visuales y música.",
+    "Incremento del 4% en contratos de gestión delegada de residencias y 5% en centros de día.",
+    "Requisito de ingresos inferiores a 20.000 euros en 2020 para la ayuda cultural.",
+    "Efectos retroactivos de los nuevos precios de servicios sociales desde el 1 de enero de 2021.",
+    "La ayuda cultural es incompatible con ayudas por ERTE o autónomos de 2021.",
+    "Procedimiento de ayuda cultural mediante declaración responsable para simplificar trámites."
+  ],
+  "legal_references": [
+    "Decreto-ley 25/2020, de 16 de junio",
+    "Decreto-ley 21/2020, de 2 de junio",
+    "Decreto-ley 39/2020, de 3 de noviembre",
+    "Ley 13/2008, de 5 de noviembre",
+    "Orden TSf/33/2021",
+    "Orden TSf/32/2021"
+  ],
+  "derogations": [],
+  "main_obligations": "Los solicitantes de la ayuda cultural deben declarar responsablemente el cumplimiento de los requisitos, siendo responsables de la veracidad de los datos. Los centros de gestión delegada deben aplicar los nuevos incrementos tarifarios en su facturación mensual.",
+  "effective_date": "2021-02-16",
+  "procedures": [
+    {
+      "name": "Concesión de ayuda extraordinaria para el sector cultural",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación de la convocatoria",
+          "descrption": "Publicación en el DOGC de la resolución que detalla el procedimiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de solicitudes",
+          "descrption": "Plazo para presentar la solicitud mediante modelos normalizados en la sede electrónica.",
+          "start_date": "5 días hábiles tras la publicación en el DOGC",
+          "end_date": "5 días hábiles tras la publicación en el DOGC",
+          "required_documentation": "Declaración responsable de requisitos"
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "descrption": "Notificación de la decisión sobre la ayuda.",
+          "start_date": "Desde la presentación",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

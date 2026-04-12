@@ -1,0 +1,213 @@
+{
+  "identifier": "BOE-A-2004-741",
+  "title": "Ley 6/2003, de 9 de diciembre, de tasas, precios y exacciones reguladoras de la Comunidad Autónoma de Galicia",
+  "visible_title": "Ley de tasas, precios y exacciones de Galicia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "6/2003",
+  "publication_date": "2004-01-14",
+  "enactment_date": "2003-12-09",
+  "last_updated": "2025-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2003/12/09/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas para que la Administración gallega cobre por sus servicios, el uso de bienes públicos o la ocupación de espacios. Define que las tasas no pueden ser beneficiosas para la Administración, sino que deben cubrir solo el coste del servicio. Regula también los precios públicos y privados, permitiendo bonificaciones para colectivos específicos. Además, establece un régimen estricto de tarifas y recargos para el uso de infraestructuras portuarias en Galicia.",
+  "citizen_impact": "Los ciudadanos pueden beneficiarse de exenciones automáticas en trámites si son alumnos de enseñanzas no universitarias, personas con discapacidad (≥33%) o víctimas del terrorismo. También permite acceder a servicios públicos con precios ajustados al coste, aunque implica la obligación de pagar las tasas para evitar el impago y el posterior procedimiento de apremio.",
+  "professional_impact": "Las empresas del sector portuario y de transporte deben cumplir con normativas estrictas: solicitar autorizaciones previas para ocupar espacios, presentar manifiestos de carga en un plazo máximo de 24 horas tras la carga y gestionar los servicios fuera de horario con recargos de hasta el 50%. Los funcionarios tienen la responsabilidad de no exigir cobros indebidos, bajo riesgo de sanciones muy graves.",
+  "keywords": [
+    "tasas",
+    "precios públicos",
+    "exacciones",
+    "Galicia",
+    "dominio público",
+    "servicios portuarios",
+    "bonificaciones",
+    "administración pública"
+  ],
+  "key_points": [
+    "Principio de equivalencia: las tasas solo deben cubrir el coste de producción del servicio sin generar beneficios.",
+    "Exenciones para colectivos vulnerables: alumnos no universitarios, personas con discapacidad (≥33%) y víctimas del terrorismo.",
+    "Bonificaciones sectoriales: beneficios específicos para la pesca, construcción de naves y carpintería de ribera en el uso de dominio público portuario.",
+    "Recargos por servicios especiales: los servicios fuera de jornada ordinaria tienen un recargo del 25% y un 50% en días festivos.",
+    "Penalización por ocupación ilegal: la ocupación de superficie portuaria sin permiso conlleva una multa del quíntuplo de la tarifa general.",
+    "Gestión de mercancías: las mercancías abandonadas por más de un año o con deudas superiores a su valor se consideran abandonadas.",
+    "Control de suministros: el uso de agua y luz fuera de horario laboral conlleva un recargo de dos veces la facturación mínima.",
+    "Responsabilidad de funcionarios: el cobro indebido o superior al legal se considera falta muy grave con obligación de indemnizar a Hacienda.",
+    "Actualización de cuotas: las tasas pueden actualizarse anualmente mediante la Ley de Presupuestos de Galicia.",
+    "Gestión de ingresos: la Administración debe llevar registros de ingresos y gastos separados para cada tipo de servicio público.",
+    "Aparcamiento portuario: vehículos ajenos a la actividad portuaria sin permiso pagan tarifas dobles o triples según el tipo de vehículo.",
+    "Facturación de grúas: se factura en periodos de 30 minutos, permitiendo descuentos solo por averías o falta de luz superiores a media hora."
+  ],
+  "legal_references": [
+    "Sentencia 185/1995 del Tribunal Constitucional",
+    "Ley 8/1989",
+    "Ley 13/1991",
+    "Decreto legislativo 1/1992",
+    "Estatuto de Galicia",
+    "Ley 1/1983",
+    "Texto refundido de la Ley de régimen financiero y presupuestario de Galicia",
+    "Ley General Tributaria (Ley 58/2003)",
+    "Ley 30/1992 de Régimen Jurídico de las Administraciones Públicas",
+    "Real Decreto 659/2023",
+    "Decreto 123/2021",
+    "Ley 3/2011 de apoyo a la familia y la convivencia de Galicia",
+    "Ley 6/2017 de Puertos de Galicia",
+    "Decreto 52/2019",
+    "Ley de régimen financiero y presupuestario de Galicia",
+    "Ley 3/1985, de 12 de abril, del patrimonio de la Comunidad Autónoma de Galicia",
+    "Ley 6/2002, de 27 de diciembre, de presupuestos generales de la Comunidad Autónoma de Galicia"
+  ],
+  "derogations": [
+    "Ley 13/1991, de 9 de diciembre, de tasas y precios y exacciones reguladoras de la Comunidad Autónoma de Galicia",
+    "Decreto legislativo 1/1992, de 11 de abril"
+  ],
+  "main_obligations": "Los sujetos pasivos deben pagar las tasas según el devengo establecido para evitar el procedimiento de apremio. En el ámbito portuario, es obligatorio solicitar autorización previa para ocupar superficies, limpiar el área tras su uso y presentar el manifiesto de carga en un máximo de 24 horas tras la carga.",
+  "effective_date": "2004-01-15",
+  "procedures": [
+    {
+      "name": "Gestión y liquidación de tasas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud del servicio",
+          "description": "El interesado presenta la solicitud que inicia el expediente administrativo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación según el tipo de trámite"
+        },
+        {
+          "step": 2,
+          "title": "Devengo y pago",
+          "description": "Se produce el hecho imponible y se exige el pago (puede ser anticipado o mediante depósito).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador en precios públicos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Detección de infracción",
+          "description": "Se identifica una acción u omisión dolosa o negligente (ej. impago, datos falsos, resistencia a la administración).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Calificación y sanción",
+          "description": "Se aplica la sanción conforme a la Ley General Tributaria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Fijación de precios públicos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de la Consejería",
+          "description": "La consejería competente propone el precio incluyendo una memoria económica con los costes y la justificación de la política de precios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria económica con información de costes y justificación de política de precios"
+        },
+        {
+          "step": 2,
+          "title": "Informe de Hacienda",
+          "description": "La Consejería de Hacienda debe emitir un informe favorable sobre la propuesta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación por Decreto",
+          "description": "El precio público se establece formalmente mediante decreto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de mercancías en puerto",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de manifiesto",
+          "description": "El sujeto pasivo debe presentar el manifiesto de carga o declaración de mercancías.",
+          "start_date": "Antes de empezar la descarga",
+          "end_date": "Máximo 24 horas después de finalizada la carga",
+          "required_documentation": "Manifiesto de carga o declaración de totalidad de mercancías (número de bultos, clase, peso, origen y destino)"
+        }
+      ]
+    },
+    {
+      "name": "Valoración de terrenos y aguas del puerto",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración de valoración",
+          "description": "El ente público realiza la valoración de terrenos y aguas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Se anuncia en el DOG para que los interesados lo consulten.",
+          "start_date": null,
+          "end_date": "20 días"
+        },
+        {
+          "step": 3,
+          "title": "Informe de Hacienda",
+          "description": "La consejería de hacienda emite su informe.",
+          "start_date": null,
+          "end_date": "1 mes"
+        },
+        {
+          "step": 4,
+          "title": "Aprobación y publicación",
+          "description": "Se publica la orden de aprobación en el Diario Oficial de Galicia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de servicios portuarios (suministros/reparaciones)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Petición por escrito",
+          "description": "El usuario debe presentar una solicitud detallando las características del servicio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud por escrito con detalles del servicio"
+        },
+        {
+          "step": 2,
+          "title": "Asignación de turno",
+          "description": "Se registra la petición y se asigna un número de turno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

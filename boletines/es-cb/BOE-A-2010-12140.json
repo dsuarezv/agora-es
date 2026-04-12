@@ -1,0 +1,123 @@
+{
+  "identifier": "BOE-A-2010-12140",
+  "title": "Ley 4/2010, de 6 de julio, de educación en el tiempo libre",
+  "visible_title": "Ley de educación en el tiempo libre",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "4/2010",
+  "publication_date": "2010-07-28",
+  "enactment_date": "2010-07-06",
+  "last_updated": "2025-04-04",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2010/07/06/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula todas las actividades de ocio con fines educativos en Cantabria, asegurando que tengan calidad pedagógica y seguridad. Establece un marco para la formación de monitores, la gestión de escuelas de tiempo libre y la inspección de las instalaciones. Su objetivo es transformar el simple ocio en una herramienta de desarrollo integral para los jóvenes.",
+  "citizen_impact": "Los jóvenes y familias en Cantabria cuentan con mayores garantías de seguridad y calidad en campamentos y actividades de ocio. Se asegura que quienes dirigen estas actividades estén debidamente formados y que los lugares donde se realizan cumplan con requisitos higiénicos y de seguridad.",
+  "professional_impact": "Las entidades organizadoras, monitores y escuelas de tiempo libre deben cumplir con nuevos requisitos de formación, proyectos educativos y seguros de responsabilidad civil. Se introducen obligaciones de comunicación previa para actividades con pernoctación y un régimen sancionador estricto por incumplimientos.",
+  "keywords": [
+    "tiempo libre",
+    "juventud",
+    "campamentos",
+    "educación no formal",
+    "Cantabria",
+    "ocio educativo",
+    "formación de monitores"
+  ],
+  "key_points": [
+    "Obligatoriedad de contar con un proyecto educativo firmado por un responsable titulado.",
+    "Exigencia de seguro de responsabilidad civil para todas las actividades.",
+    "Comunicación obligatoria a la Administración con 30 días de antelación para actividades con pernoctación de menores.",
+    "Creación de un Registro de Instalaciones de Educación en el Tiempo Libre.",
+    "Reconocimiento oficial de las Escuelas de Tiempo Libre como centros de formación.",
+    "Las actividades que supongan un riesgo para la seguridad requieren autorización administrativa previa.",
+    "Sanciones económicas que pueden llegar hasta los 20.000 euros en infracciones muy graves.",
+    "Posibilidad de cierre de instalaciones o inhabilitación de responsables en caso de incumplimientos graves."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía para Cantabria",
+    "Decreto 23/1986, de 2 de mayo",
+    "Decreto 9/1999, de 5 de febrero",
+    "Ley 4/2001, de 15 de octubre, del Consejo de la Juventud de Cantabria",
+    "Ley 30/2007, de 30 de octubre, de Contratos del Sector Público"
+  ],
+  "derogatations": [
+    "Normativa anterior que se oponga a la presente Ley"
+  ],
+  "main_obligations": "Las entidades deben disponer de un proyecto educativo, personal titulado y seguro de responsabilidad civil. Las actividades con pernoctación de menores deben comunicarse con 30 días de antelación y las de riesgo requieren autorización previa.",
+  "effective_date": "2011-01-27",
+  "procedures": [
+    {
+      "name": "Comunicación de actividades con pernoctación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de comunicación",
+          "descrption": "Comunicar a la Dirección General competente la actividad que incluya pernoctación para menores.",
+          "start_date": "30 días antes del inicio de la actividad",
+          "end_date": null,
+          "required_documentation": "Proyecto educativo de tiempo libre"
+        }
+      ]
+    },
+    {
+      "name": "Autorización de actividades de riesgo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "descrption": "Tramitación de la autorización administrativa para actividades que conlleven riesgo para la seguridad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto educativo y documentación según reglamento"
+        }
+      ]
+    },
+    {
+      "name": "Declaración responsable de instalaciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de declaración",
+          "descrption": "Presentar declaración responsable para instalaciones donde se vaya a pernoctar.",
+          "start_date": "20 días antes del inicio de la actividad",
+          "end_date": null,
+          "required_documentation": "Documentación que acredite cumplimiento de normativa sanitaria, seguridad y accesibilidad"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "descrption": "Apertura del expediente por la autoridad competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Medidas provisionales",
+          "descrption": "Adopción de medidas como cierre temporal o suspensión de actividades si existe riesgo inminente.",
+          "start_date": "En el acuerdo de iniciación o durante la instrucción",
+          "end_date": "Hasta la resolución final",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "descrption": "Decisión final sobre la imposición de la sanción o archivo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

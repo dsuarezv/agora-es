@@ -1,0 +1,99 @@
+{
+  "identifier": "BOE-A-2012-14979",
+  "title": "Ley 8/2012, de 23 de noviembre, por la que se regulan los organismos de certificación administrativa",
+  "visible_title": "Regulación de los organismos de certificación administrativa",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat Valenciana",
+  "official_number": "8/2012",
+  "publication_date": "2012-12-11",
+  "enactment_date": "2012-11-23",
+  "last_updated": "2024-12-09",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2012/11/23/8",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta ley crea y regula los Organismos de Certificación Administrativa (OCA) en la Comunidad Valenciana para agilizar la apertura de locales de ocio y espectáculos. Su objetivo es permitir que, mediante una certificación técnica de estos organismos, los empresarios puedan abrir sus negocios de forma inmediata sin esperar a la licencia municipal tradicional. La norma establece los requisitos de personal, seguros y clasificación de riesgo para garantizar la seguridad de los ciudadanos.",
+  "citizen_impact": "Mejora la seguridad en locales de ocio y espectáculos al asegurar que profesionales cualificados supervisen las instalaciones. Además, fomenta la reactivación económica al facilitar la apertura rápida de nuevos negocios en la región.",
+  "professional_impact": "Los empresarios de locales de ocio pueden abrir sus negocios mucho más rápido mediante la declaración responsable y el certificado del OCA. Los ingenieros y arquitectos técnicos pueden constituirse como OCA, asumiendo responsabilidades civiles elevadas y requisitos estrictos de personal y experiencia.",
+  "keywords": [
+    "organismos de certificación administrativa",
+    "OCA",
+    "apertura de locales",
+    "espectáculos públicos",
+    "Comunitat Valenciana",
+    "certificación técnica",
+    "seguridad industrial",
+    "contaminación acústica"
+  ],
+  "key_points": [
+    "Permite la apertura inmediata de locales de ocio si se cuenta con la certificación de un OCA y una declaración responsable.",
+    "Clasifica a los OCA en tres grupos (A, B y C) según el nivel de riesgo y aforo de los locales que certifican.",
+    "Exige seguros de responsabilidad civil obligatorios que oscilan entre 1,8 y 4,5 millones de euros según el grupo.",
+    "Obliga a los OCA a contar con personal técnico cualificado (arquitectos o ingenieros) con experiencia demostrable.",
+    "Establece un régimen de incompatibilidades estricto para garantizar la independencia del certificador frente al proyectista o constructor.",
+    "Crea un Registro oficial de OCA cuya inscripción es obligatoria para ejercer la actividad.",
+    "Los OCA deben remitir mensualmente a la administración las certificaciones emitidas."
+  ],
+  "legal_references": [
+    "Ley 2/2012, de 14 de junio, de medidas urgentes de apoyo a la iniciativa empresarial y a los emprendedores, microempresas y pequeñas y medianas empresas (PYME) de la Comunidad Valenciana",
+    "Ley 14/2010, de 3 de diciembre, de Espectáculos Públicos, Actividades Recreativas y Establecimientos Públicos",
+    "Ley 6/2014, de 25 de julio, de prevención, calidad y control ambiental de actividades en la Comunidad Valenciana",
+    "Decreto 52/2010, de 26 de marzo, del Consell",
+    "Estatuto de Autonomía de la Comunidad Valenciana"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a la presente ley"
+  ],
+  "main_obligations": "Los OCA deben mantener un registro de certificaciones, asegurar la confidencialidad de los datos y cumplir con los requisitos de personal y seguros. Los titulares de locales deben presentar la declaración responsable y el certificado del OCA para operar legalmente.",
+  "effective_date": "2012-12-12",
+  "procedures": [
+    {
+      "name": "Apertura de establecimiento público mediante certificación OCA",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Contratación de un OCA",
+          "description": "El empresario selecciona un organismo de certificación acreditado para supervisar su local.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comprobación y emisión de informe",
+          "description": "El OCA realiza la inspección técnica de seguridad, accesibilidad, incendios, acústica, etc.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de actividad y estudios técnicos"
+        },
+        {
+          "step": 3,
+          "title": "Emisión del certificado",
+          "description": "El OCA emite el certificado que actúa como título habilitante para la apertura.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado firmado por técnico y gerente del OCA"
+        },
+        {
+          "step": 4,
+          "title": "Presentación de declaración responsable",
+          "description": "El titular presenta ante el Ayuntamiento la declaración responsable junto con la documentación del OCA.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración responsable, proyecto de actividad y certificado del OCA"
+        },
+        {
+          "step": 5,
+          "title": "Apertura inmediata",
+          "description": "Una vez presentada la documentación, el local puede iniciar su actividad sin esperar licencia municipal.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

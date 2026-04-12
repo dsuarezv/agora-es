@@ -1,0 +1,88 @@
+{
+  "identifier": "BOE-A-2019-6613",
+  "title": "Ley 11/2019, de 3 de abril, de acceso al entorno de las personas usuarias de perro de asistencia en la Comunidad de Castilla y León",
+  "visible_title": "Ley de acceso al entorno para personas usuarias de perro de asistencia en Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "11/2019",
+  "publication_date": "2019-05-04",
+  "enactment_date": "2019-04-03",
+  "last_updated": "2019-04-08",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2019/04/03/11",
+  "official_journal": "Boletín Oficial de Castilla y León",
+  "journal_issue": null,
+  "summary": "Esta ley garantiza el derecho de las personas con discapacidad a entrar y permanecer en cualquier espacio público o de uso colectivo acompañadas de su perro de asistencia. Amplía la protección más allá de los perros guía, incluyendo perros de servicio, de señalización de sonidos, de aviso médico y para personas con autismo. El objetivo es eliminar barreras de acceso en entornos laborales, sociales y de transporte, asegurando la igualdad de trato.",
+  "citizen_impact": "Las personas con discapacidad en Castilla y León ahora tienen un derecho legal blindado para entrar en comercios, restaurantes, transportes y centros de trabajo con su perro de asistencia sin pagar tasas extra. Para ejercer este derecho, deberán tramitar un reconocimiento oficial de su 'unidad de vinculación' y asegurar que el animal porte un distintivo oficial.",
+  "professional_impact": "Los establecimientos de hostelería, comercio, transporte y centros de ocio no pueden denegar el acceso alegando normas de admisión de animales o derecho de admisión. Las empresas deben adaptar sus entornos laborales para permitir la presencia del perro en el puesto de trabajo. Además, se establece un régimen sancionador para quienes incumplan estas normas, con multas que pueden alcanzar los 10.000 euros.",
+  "keywords": [
+    "perro de asistencia",
+    "discapacidad",
+    "accesibilidad",
+    "Castilla y León",
+    "derechos de las personas con discapacidad",
+    "unidad de vinculación"
+  ],
+  "key_points": [
+    "Reconocimiento de múltiples tipos de perros: guía, servicio, señalización de sonidos, aviso médico y para autismo.",
+    "Derecho de acceso garantizado en entornos laborales y espacios privados de uso colectivo (como clubes o comunidades de vecinos).",
+    "Prohibición de cobrar suplementos o tasas adicionales por el acceso con el perro de asistencia.",
+    "Obligatoriedad de contratar un seguro de responsabilidad civil con cobertura mínima de 120.000 euros.",
+    "Creación de un carné de identificación oficial para la unidad formada por la persona y el perro.",
+    "El perro de asistencia no cuenta como plaza en el transporte público.",
+    "Sanciones por impedir el acceso: desde 60 euros (leves) hasta 10.000 euros (muy graves).",
+    "Protección especial para perros de asistencia jubilados."
+  ],
+  "legal_references": [
+    "Convenio Internacional de las Naciones Unidas sobre los Derechos de las personas con discapacidad",
+    "Constitución Española",
+    "Ley 16/2010, de 20 de diciembre, de Servicios Sociales de Castilla y León",
+    "Ley 2/2013, de 15 de mayo, de Igualdad de Oportunidades para las Personas con Discapacidad",
+    "Ley 3/1998, de 24 de junio, de accesibilidad y supresión de barreras",
+    "Real Decreto Legislativo 1/2013"
+  ],
+  "derogations": [
+    "Artículo 28 de la Ley 3/1998, de 24 de junio, de accesibilidad y supresión de barreras"
+  ],
+  "main_obligations": "Los usuarios deben mantener al perro identificado, censado y con un seguro de responsabilidad civil de 120.000€. Los establecimientos tienen prohibido denegar el acceso o exigir garantías adicionales para permitir la entrada del perro de asistencia.",
+  "effective_date": "2019-11-04",
+  "procedures": [
+    {
+      "name": "Reconocimiento de la unidad de vinculación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de reconocimiento",
+          "descrption": "Presentación de solicitud ante la Consejería de Servicios Sociales aportando certificado de discapacidad, certificado de la entidad de adiestramiento, identificación del animal y póliza de seguro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado de discapacidad, certificado de adiestramiento, identificación del animal, pasaporte veterinario y póliza de seguro de responsabilidad civil."
+        },
+        {
+          "step": 2,
+          "title": "Resolución y expedición de documentación",
+          "descrption": "La administración dicta resolución reconociendo la unidad y expide el carné de identificación y el distintivo para el perro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Extinción de la unidad de vinculación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Procedimiento de extinción",
+          "descrption": "Tramitación administrativa por muerte del animal, fallecimiento del usuario, pérdida de condición de discapacidad o incumplimiento de obligaciones (como el seguro).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

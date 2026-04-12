@@ -1,0 +1,114 @@
+{
+  "identifier": "BOE-A-2012-5927",
+  "title": "Ley 7/1981, de 30 de junio, sobre Ley de Gobierno",
+  "visible_title": "Ley de Gobierno del País Vasco",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "7/1981",
+  "publication_date": "2012-05-04",
+  "enactment_date": "1981-06-30",
+  "last_updated": "2022-12-26",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1981/06/30/7",
+  "official_journal": "Boletín Oficial del Estado / Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta norma establece la estructura organizativa, las competencias y el funcionamiento del Gobierno del País Vasco. Define la figura del Lehendakari como máximo representante y presidente, regula la composición del Gobierno y establece las relaciones de responsabilidad política ante el Parlamento. Además, organiza la jerarquía de la Administración autonómica y los procedimientos para la creación de normas y delegación de funciones.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta directamente a los altos cargos de la Administración vasca (Lehendakari, Consejeros, Viceconsejeros y Directores), regulando su nombramiento, incompatibilidades, régimen de sueldos y pensiones. También establece las reglas de juego para los funcionarios que ocupan puestos de confianza y directivos.",
+  "keywords": [
+    "Gobierno Vasco",
+    "Lehendakari",
+    "Administración Pública",
+    "Estatuto de Autonomía",
+    "Competencias",
+    "Responsabilidad política",
+    "Moción de censura"
+  ],
+  "key_points": [
+    "El Lehendakari es el supremo representante del Pueblo Vasco y dirige el Gobierno.",
+    "El Gobierno debe garantizar una representación mínima del 40% de ambos sexos.",
+    "Se establece un modelo de gobierno parlamentario responsable ante el Parlamento Vasco.",
+    "La moción de censura requiere mayoría absoluta y debe incluir un candidato a la presidencia.",
+    "Se regulan estrictamente las incompatibilidades para Consejeros, Viceconsejeros y Directores con otros cargos públicos o actividades privadas.",
+    "El Lehendakari tiene la facultad de disolver el Parlamento bajo ciertas condiciones.",
+    "Se definen los límites de la delegación de funciones, prohibiendo la subdelegación.",
+    "Las normas reglamentarias no pueden imponer sanciones o multas sin autorización de una Ley."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía del País Vasco"
+  ],
+  "derogations": [],
+  "main_obligations": "Los miembros del Gobierno y altos cargos tienen prohibido aceptar regalos por razón de su cargo para ellos o sus familiares hasta segundo grado. Los altos cargos deben cumplir con el régimen de incompatibilidades establecido para evitar conflictos de interés.",
+  "effective_date": "1981-06-30",
+  "procedures": [
+    {
+      "name": "Designación del Lehendakari",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de candidatos",
+          "description": "Los Grupos Parlamentarios proponen candidatos que exponen su programa de gobierno.",
+          "start_date": "Al comienzo de cada legislatura",
+          "end_date": null,
+          "required_documentation": "Programa de gobierno"
+        },
+        {
+          "step": 2,
+          "title": "Votación de mayoría absoluta",
+          "description": "Se elige al candidato que obtenga la mayoría absoluta de los miembros de la Cámara.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Votación de mayoría simple",
+          "description": "Si no hay mayoría absoluta, se repite la votación y gana quien obtenga la mayoría simple de votos válidos.",
+          "start_date": "Tras el primer intento fallido",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Nombramiento real",
+          "description": "El Presidente del Parlamento comunica la elección al Rey para su nombramiento mediante Real Decreto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Moción de Censura",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación",
+          "description": "Propuesta por al menos la sexta parte de los Parlamentarios incluyendo candidato a la presidencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Programa de gobierno del candidato"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de espera y enmiendas",
+          "description": "Periodo de 5 días desde la presentación. En los primeros 2 días se pueden presentar mociones alternativas.",
+          "start_date": "Día 0",
+          "end_date": "Día 5",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Votación",
+          "description": "Se requiere mayoría absoluta para que la moción prospere y se produzca el cese del Gobierno.",
+          "start_date": "Día 5",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

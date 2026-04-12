@@ -1,0 +1,83 @@
+{
+  "identifier": "BOE-A-2020-9792",
+  "title": "Ley 2/2020, de 27 de julio, de mitigación del impacto socioeconómico del COVID-19 en el área de vivienda e infraestructuras",
+  "visible_title": "Ley de mitigación del impacto socioeconómico del COVID-19 en vivienda e infraestructuras",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "2/2020",
+  "publication_date": "2020-08-17",
+  "enactment_date": "2020-07-31",
+  "last_updated": "2020-07-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2020/07/27/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley implementa medidas de emergencia para frenar los daños económicos causados por la pandemia de COVID-19 en la Región de Murcia. Se centra en agilizar la gestión de infraestructuras portuarias, flexibilizar el sector del taxi, facilitar el acceso a la vivienda protegida y simplificar trámites urbanísticos. El objetivo es reactivar la economía local y proteger a los colectivos más vulnerables frente al desempleo y la crisis.",
+  "citizen_impact": "Facilita que familias que llevan décadas pagando alquileres sociales puedan acceder a la propiedad de su vivienda. También agiliza la obtención de ayudas de alquiler y simplifica trámites para la reconstrucción de viviendas tras el terremoto de Lorca.",
+  "professional_impact": "Los taxistas pueden ahora usar vehículos de hasta 9 plazas y ofrecer servicios compartidos mediante tecnología. Las empresas del sector portuario y constructor cuentan con trámites administrativos más rápidos y criterios de sostenibilidad para nuevos proyectos.",
+  "keywords": [
+    "COVID-19",
+    "vivienda protegida",
+    "taxi",
+    "puertos deportivos",
+    "urbanismo",
+    "Lorca",
+    "mitigación económica"
+  ],
+  "key_points": [
+    "Ampliación de la capacidad de vehículos de taxi de 7 a 9 plazas.",
+    "Permiso para la contratación de plazas de taxi de forma individualizada y compartida.",
+    "Posibilidad de que inquilinos de viviendas sociales accedan a la propiedad tras 25 años de pagos regulares (o 10 años en casos de vulnerabilidad).",
+    "Agilización de la concesión de licencias de primera ocupación para viviendas protegidas.",
+    "Reducción de hasta el 80% en tarifas portuarias por causas de fuerza mayor o clima extremo.",
+    "Simplificación de trámites urbanísticos mediante el uso de declaraciones responsables.",
+    "Extensión de plazos para la justificación de ayudas por el terremoto de Lorca hasta octubre de 2022.",
+    "Introducción de criterios de sostenibilidad y soluciones basadas en la naturaleza en el urbanismo."
+  ],
+  "legal_references": [
+    "Ley 3/1996 de Puertos de la Región de Murcia",
+    "Ley 10/2014 del Taxi de la Región de Murcia",
+    "Ley 6/2015 de la Vivienda de la Región de Murcia",
+    "Ley 13/2015 de Ordenación Territorial y Urbanística de la Región de Murcia",
+    "Real Decreto-ley 463/2020",
+    "Real Decreto-ley 15/2020",
+    "Real Decreto-ley 6/2011"
+  ],
+  "derogations": [
+    "Ley 8/2018, de 23 de julio, de ayudas de Lorca",
+    "Ley 8/2019, de 25 de julio, que modifica la Ley 8/2018"
+  ],
+  "main_obligations": "Los beneficiarios de ayudas por el terremoto de Lorca deben presentar las certificaciones de obra realizadas o por realizar hasta el 31 de octubre de 2022 para recibir el pago pendiente.",
+  "effective_date": "2020-08-18",
+  "procedures": [
+    {
+      "name": "Justificación de ayudas por terremoto de Lorca",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de certificaciones de obra",
+          "description": "Presentar los documentos que acrediten la realización de las obras de reparación o reconstrucción.",
+          "start_date": null,
+          "end_date": "2022-10-31",
+          "required_documentation": "Certificaciones de obra realizadas o por realizar"
+        }
+      ]
+    },
+    {
+      "name": "Acceso a la propiedad de vivienda social",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cumplimiento de antigüedad",
+          "description": "Acreditar 25 años de pago regular o 10 años en situaciones de vulnerabilidad específica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

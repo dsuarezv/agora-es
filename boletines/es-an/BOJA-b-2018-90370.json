@@ -1,0 +1,88 @@
+{
+  "identifier": "BOJA-b-2018-90370",
+  "title": "Decreto-ley 2/2018, de 26 de junio, de simplificación de normas en materia de energía y fomentos de las energías renovables en Andalucía",
+  "visible_title": "Simplificación de normas en materia de energía y fomento de las energías renovables en Andalucía",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "2/2018",
+  "publication_date": "2018-07-03",
+  "enactment_date": "2018-06-26",
+  "last_updated": "2024-02-16",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOJA-b-2018-90370",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": "b-2018-90370",
+  "summary": "Esta norma elimina duplicidades administrativas y trabas burocráticas en el sector energético andaluz. Su objetivo es alinear la normativa autonómica con la estatal y europea para evitar que empresas y ciudadanos tengan que realizar trámites idénticos dos veces. Además, busca recuperar el liderazgo de Andalucía en renovables declarando estratégicos ciertos proyectos de inversión.",
+  "citizen_impact": "Reduce la carga administrativa para ciudadanos que necesiten certificaciones de eficiencia energética en sus edificios, evitando trámites redundantes. También facilita la instalación de sistemas de energía solar al simplificar los procedimientos de autorización.",
+  "professional_impact": "Las empresas del sector energético y de la construcción se benefician de una mayor seguridad jurídica y procesos más ágiles. Los promotores de proyectos renovables pueden obtener la consideración de 'inversión estratégica', lo que les otorga un impulso preferente y urgente en la tramitación administrativa ante la Junta de Andalucía.",
+  "keywords": [
+    "energías renovables",
+    "eficiencia energética",
+    "simplificación administrativa",
+    "certificación energética",
+    "inversión estratégica",
+    "energía solar",
+    "Andalucía"
+  ],
+  "key_points": [
+    "Eliminación de la doble certificación de eficiencia energética en edificios para evitar trámites duplicados.",
+    "Unificación de los criterios de certificación energética con la normativa estatal (Real Decreto 235/2013).",
+    "Declaración de proyectos de energía renovable como inversiones de interés estratégico para Andalucía.",
+    "Tramitación preferente y urgente para proyectos de energías renovables no acogidos a regímenes retributivos específicos.",
+    "Simplificación de la autorización de instalaciones de generación de pequeña potencia (hasta 100 kW) equiparándolas a instalaciones industriales.",
+    "Homogeneización de los procedimientos de autorizaciones sectoriales eléctricas para líneas de transporte y distribución.",
+    "Posibilidad de utilizar declaraciones responsables para agilizar consultas a otros órganos administrativos."
+  ],
+  "legal_references": [
+    "Ley 2/2007, de 27 de marzo",
+    "Decreto 169/2011, de 31 de mayo",
+    "Directiva 2010/31/UE",
+    "Real Decreto 235/2013, de 5 de abril",
+    "Real Decreto 56/2016, de 12 de febrero",
+    "Decreto 50/2008, de 19 de febrero",
+    "Ley 24/2013, de 23 de diciembre",
+    "Real Decreto 413/2014, de 6 de junio",
+    "Real Decreto 1699/2011, de 18 de noviembre",
+    "Real Decreto 1955/2000, de 1 de diciembre",
+    "Ley 4/2011, de 6 de junio",
+    "Ley 39/2015, de 1 de octubre"
+  ],
+  "derogations": [
+    "Artículos 26 y 27 de la Ley 2/2007, de 27 de marzo",
+    "Decreto 169/2011, de 31 de mayo (excepto el artículo 30)",
+    "Decreto 50/2008, de 19 de febrero (excepto el artículo 5 y la disposición adicional segunda)"
+  ],
+  "main_obligations": "Los promotores de proyectos estratégicos deben comunicar a la Consejería competente la identificación del proyecto ante el Ministerio en un plazo de 15 días tras la identificación o la comunicación oficial.",
+  "effective_date": "2018-07-04",
+  "procedures": [
+    {
+      "name": "Comunicación de proyectos estratégicos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de identificación del proyecto",
+          "description": "El promotor debe informar a la Consejería de energía sobre la ubicación del proyecto identificada ante el Ministerio.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": "15 días",
+          "required_documentation": "Comunicación de identificación del proyecto ante el Ministerio competente"
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de instalaciones de generación de pequeña potencia (hasta 500 kW)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Procedimiento de autorización de explotación",
+          "description": "Tramitación conforme a la normativa de instalaciones industriales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

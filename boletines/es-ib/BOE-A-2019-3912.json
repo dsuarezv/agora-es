@@ -1,0 +1,80 @@
+{
+  "identifier": "BOE-A-2019-3912",
+  "title": "Ley 4/2019, de 31 de enero, de Microcooperativas de las Illes Balears",
+  "visible_title": "Ley de Microcooperativas de las Illes Balears",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "4/2019",
+  "publication_date": "2019-03-19",
+  "enactment_date": "2019-01-31",
+  "last_updated": "2023-03-14",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2019/01/31/4",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta norma crea un régimen jurídico especial para las microcooperativas en Baleares, permitiendo que se constituyan con solo dos socios en lugar de los tres requeridos habitualmente. Su objetivo es simplificar la creación de pequeñas empresas de economía social y agrarias, reduciendo la carga administrativa y flexibilizando la contratación de personal durante los primeros años de vida del proyecto.",
+  "citizen_impact": "Facilita que grupos pequeños de emprendedores o agricultores puedan asociarse legalmente con menos trámites y costes. No tiene un impacto directo en el ciudadano medio, salvo que este decida emprender bajo este modelo asociativo.",
+  "professional_impact": "Beneficia directamente a emprendedores y agricultores al permitirles operar con un mínimo de dos socios y ofrecerles un modelo de estatutos simplificado. Los gestores y funcionarios ven un proceso de registro más rápido (máximo 15 días) si se usan los modelos oficiales, aunque la norma ya ha sido derogada por una ley posterior.",
+  "keywords": [
+    "microcooperativas",
+    "economía social",
+    "emprendimiento",
+    "Illes Balears",
+    "cooperativas de trabajo asociado",
+    "explotación agraria"
+  ],
+  "key_points": [
+    "Permite la constitución de microcooperativas con un mínimo de solo 2 socios (frente a los 3 de la ley general).",
+    "Establece un límite máximo de 10 socios para mantener la condición de microcooperativa.",
+    "Introduce un periodo de transición de 7 años con flexibilidad en la contratación de personal ajeno (máximo 5 trabajadores indefinidos).",
+    "Crea un modelo de estatutos sociales tipo para agilizar la tramitación y eximir de calificación previa.",
+    "Reduce el plazo de inscripción en el Registro a un máximo de 15 días mediante tramitación abreviada.",
+    "Establece que la denominación debe incluir obligatoriamente 'sociedad microcooperativa' o 's. microcoop.'."
+  ],
+  "legal_references": [
+    "Ley 1/2003, de 20 de marzo, de cooperativas de las Illes Balears",
+    "Ley 12/2014, de 16 de diciembre, agraria de las Illes Balears",
+    "Ley 39/2015, de 1 de diciembre, del procedimiento administrativo común",
+    "Ley 20/2013, de 9 de diciembre, de garantía de la unidad de mercado",
+    "Ley Orgánica 3/2007, de 28 de marzo, para la igualdad efectiva de mujeres y hombres"
+  ],
+  "derogations": [
+    "Ley 4/2019, derogada por la Ley 5/2023, de 8 de marzo"
+  ],
+  "main_obligations": "Las microcooperativas deben adaptar sus estatutos a la ley general tras 7 años o si superan el límite de socios. Deben incluir la denominación específica en su nombre social y cumplir con los límites de aportaciones sociales (máximo 50% del capital por socio).",
+  "effective_date": "2019-03-20",
+  "procedures": [
+    {
+      "name": "Constitución y registro de microcooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Redacción de estatutos",
+          "description": "Elaboración de estatutos, preferiblemente usando el modelo orientativo de la Consejería para agilizar el proceso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública"
+        },
+        {
+          "step": 2,
+          "title": "Tramitación abreviada (si aplica)",
+          "description": "Si se usa el modelo de estatutos oficial, se evita la calificación previa y se reduce el plazo.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Inscripción en el Registro",
+          "description": "Inscripción en la sección específica del Registro de cooperativas de las Illes Balears para adquirir personalidad jurídica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública de constitución"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,89 @@
+{
+  "identifier": "DOGV-r-2022-90121",
+  "title": "Decreto-ley 1/2022, de 22 de abril, del Consell, de medidas urgentes en respuesta a la emergencia energética y económica originada en la Comunitat Valenciana por la guerra en Ucrania",
+  "visible_title": "Medidas urgentes ante la emergencia energética y económica en la Comunitat Valenciana",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "1/2022",
+  "publication_date": "2022-04-22",
+  "enactment_date": "2022-04-22",
+  "last_updated": "2022-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=DOGV-r-2022-90121",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta norma responde a la crisis energética y económica provocada por la guerra en Ucrania mediante un plan de choque integral. Su objetivo principal es acelerar la transición hacia la soberanía energética permitiendo la instalación rápida de energías renovables en suelo no urbanizable. Además, busca proteger la economía local facilitando inversiones privadas y creando la Agencia Valenciana de Información y Control Alimentarios para asegurar la cadena de suministro.",
+  "citizen_impact": "Busca mitigar el impacto de la subida de precios de la energía en las familias y colectivos vulnerables mediante planes de ayuda económica. También pretende asegurar la estabilidad de precios y suministros a largo plazo mediante el fomento de la energía propia de la región.",
+  "professional_impact": "Las empresas de energías renovables se benefician de una simplificación administrativa drástica y la posibilidad de instalar proyectos en suelo no urbanizable. Los agricultores y la industria alimentaria contarán con una nueva Agencia (AVICA) para regular y proteger sus relaciones comerciales y precios. Los autónomos de sectores castigados por la energía recibirán ayudas compensatorias.",
+  "keywords": [
+    "emergencia energética",
+    "energías renovables",
+    "soberanía energética",
+    "transición energética",
+    "AVICA",
+    "cadena alimentaria",
+    "simplificación administrativa"
+  ],
+  "key_points": [
+    "Permite la instalación de energías renovables en suelo no urbanizable común para acelerar la transición energética.",
+    "Crea la Agencia Valenciana de Información y Control Alimentarios (AVICA) para regular la cadena de valor agroalimentaria.",
+    "Simplifica y agiliza los trámites administrativos para proyectos de energía solar y eólica.",
+    "Establece medidas de apoyo económico para familias, autónomos y empresas afectadas por el encarecimiento energético.",
+    "Facilita la inversión privada mediante la agilización de procesos de contratación y gestión de fondos europeos.",
+    "Refuerza los recursos humanos en las áreas de energía, medio ambiente y urbanismo para evitar cuellos de botella administrativos.",
+    "Aplica medidas de urgencia para la gestión de concesiones mineras de arcillas destinadas a la industria cerámica."
+  ],
+  "legal_references": [
+    "Texto Refundido de la Ley de ordenación del territorio, urbanismo y paisaje (Decreto Legislativo 1/2021)",
+    "Ley 6/2014 de Prevención, Calidad y Control Ambiental",
+    "Ley 4/1998 del Patrimonio Cultural Valenciano",
+    "Ley 1/2015 de Hacienda Pública, Sector Público Instrumental y Subvenciones",
+    "Ley 5/2019 de estructuras agrarias de la Comunitat Valenciana",
+    "Ley 2/1989 de impacto ambiental",
+    "Ley 12/2013 de medidas para mejorar el funcionamiento de la cadena alimentaria"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan al Decreto-ley",
+    "Epígrafes del grupo 6 del anexo I y grupo 5 del anexo II del Decreto 162/1990"
+  ],
+  "main_obligations": null,
+  "effective_date": "2022-04-23",
+  "procedures": [
+    {
+      "name": "Creación y puesta en funcionamiento de la Agencia Valenciana de Información y Control Alimentarios (AVICA)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación de Estatutos",
+          "description": "El Consell debe aprobar los estatutos que definirán la estructura y funciones de la Agencia.",
+          "start_date": "2022-04-22",
+          "end_date": "12 meses"
+        },
+        {
+          "step": 2,
+          "title": "Puesta en funcionamiento",
+          "description": "La Agencia comienza a operar plenamente tras la aprobación de sus estatutos.",
+          "start_date": "Fecha de aprobación de estatutos",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Refuerzo de personal en Consejerías",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Petición de refuerzo",
+          "description": "Las consejerías de energía, medio ambiente y urbanismo deben presentar una petición conjunta de refuerzo de plantilla.",
+          "start_date": "2022-04-22",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

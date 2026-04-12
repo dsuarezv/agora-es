@@ -1,0 +1,110 @@
+{
+  "identifier": "BOE-A-2019-464",
+  "title": "Ley 11/2018, de 16 de noviembre, de la Inspección General de Servicios",
+  "visible_title": "Ley de la Inspección General de Servicios",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "11/2018",
+  "publication_date": "2019-01-16",
+  "enactment_date": "2018-11-16",
+  "last_updated": "2018-11-23",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2018/11/16/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley eleva el rango de la Inspección General de Servicios en Asturias para garantizar que el control de la administración sea más independiente y eficaz. Busca asegurar que el personal público actúe con ética y legalidad, dotando a los inspectores de mayores poderes de investigación. Además, establece mecanismos para que la Junta General supervise las actuaciones de control de la administración autonómica.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en la mejora indirecta de la calidad y transparencia de los servicios públicos que reciben.",
+  "professional_impact": "Los funcionarios de la administración asturiana y de sus entes públicos tienen ahora un deber de colaboración reforzado con la Inspección. El incumplimiento de órdenes o la obstrucción a las investigaciones puede derivar en expedientes disciplinarios. Los inspectores adquieren la condición de agentes de la autoridad y sus actas gozan de presunción de veracidad.",
+  "keywords": [
+    "Inspección General de Servicios",
+    "Principado de Asturias",
+    "control administrativo",
+    "ética pública",
+    "funcionarios",
+    "transparencia",
+    "disciplina administrativa"
+  ],
+  "key_points": [
+    "Elevación de la Inspección a nivel de Servicio para mayor autonomía.",
+    "Los inspectores adquieren la condición de agentes de la autoridad.",
+    "Las actas de la Inspección tienen presunción de veracidad.",
+    "Obligación de colaboración total de los sujetos inspeccionados, bajo riesgo de sanción disciplinaria.",
+    "El Inspector General debe ser designado mediante concurso para evitar la discrecionalidad política.",
+    "Se establece la obligación de remitir el Plan Anual y la Memoria de actuaciones a la Junta General.",
+    "Garantía de confidencialidad para los denunciantes."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía del Principado de Asturias",
+    "Ley del Principado de Asturias 8/2018, de 14 de septiembre, de Transparencia, Buen Gobierno y Grupos de Interés",
+    "Ley de Enjuiciamiento Criminal",
+    "Decreto 46/1988, de 17 de marzo"
+  ],
+  "derogations": [
+    "Decreto 46/1988, de 17 de marzo, por el que se regula el funcionamiento de la Inspección General de Servicios de la Administración del Principado de Asturias"
+  ],
+  "main_obligations": "Los sujetos sometidos a la inspección deben remitir toda la documentación requerida, comparecer personalmente si se les solicita y facilitar los medios materiales necesarios. La obstrucción o falta de colaboración puede dar lugar a la apertura de un expediente disciplinario.",
+  "effective_date": "2019-01-01",
+  "procedures": [
+    {
+      "name": "Planificación y Rendición de Cuentas de la Inspección",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del Plan Anual",
+          "description": "La Inspección elabora el plan de actuaciones tras consultar a los sujetos afectados y analizar quejas.",
+          "start_date": "último trimestre de cada año",
+          "end_date": null,
+          "required_documentation": "Informes de quejas y reclamaciones"
+        },
+        {
+          "step": 2,
+          "title": "Aprobación del Plan",
+          "description": "El Consejo de Gobierno aprueba el plan y se traslada a la Junta General.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Elaboración de la Memoria Anual",
+          "description": "La Inspección redacta la memoria de las actuaciones realizadas el año anterior.",
+          "start_date": "primer trimestre de cada año",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Actuación Inspectora",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio de la actuación",
+          "description": "Se inicia de oficio, por orden superior, por petición de autoridades o por denuncia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Realización de la inspección",
+          "description": "Ejecución de las visitas y requerimientos de documentación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación administrativa, libros, expedientes y actas"
+        },
+        {
+          "step": 3,
+          "title": "Emisión de informe",
+          "description": "Tras la audiencia, se emite un informe con diagnóstico y recomendaciones o propuestas disciplinarias.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-2025-22434",
+  "title": "Real Decreto 997/2025, de 5 de noviembre, por el que se aprueban medidas urgentes para el refuerzo del sistema eléctrico",
+  "visible_title": "Medidas urgentes para el refuerzo del sistema eléctrico",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio para la Transición Ecológica y el Reto Demográfico",
+  "official_number": "997/2025",
+  "publication_date": "2025-11-06",
+  "enactment_date": "2025-11-05",
+  "last_updated": "2025-11-06",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/11/05/997",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "267",
+  "summary": "Esta norma surge como respuesta urgente a la crisis eléctrica del 28 de abril de 2025 para garantizar la estabilidad del suministro. Introduce medidas de supervisión estricta por parte de la CNMC, agiliza la instalación de sistemas de almacenamiento de energía y simplifica la tramitación de proyectos renovables mediante la 'repotenciación'. Además, establece nuevos plazos para la ejecución de redes de distribución y clarifica la definición de potencia instalada para evitar ambigüedades técnicas.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, más allá de contribuir indirectamente a la estabilidad del suministro eléctrico y la prevención de apagones.",
+  "professional_impact": "Las empresas del sector eléctrico y renovable se benefician de una tramitación más rápida para proyectos de almacenamiento híbrido y repotenciación. Sin embargo, los operadores de red y generadores enfrentan nuevas obligaciones de reporte, inspecciones extraordinarias de la CNMC y requisitos técnicos más estrictos en la definición de su potencia instalada.",
+  "keywords": [
+    "sistema eléctrico",
+    "almacenamiento energético",
+    "energías renovables",
+    "repotenciación",
+    "CNMC",
+    "seguridad energética",
+    "infraestructura eléctrica"
+  ],
+  "key_points": [
+    "Simplificación de trámites para el almacenamiento híbrido en terrenos ya evaluados ambientalmente, eliminando la necesidad de nueva evaluación ambiental.",
+    "Reducción a la mitad de los plazos de tramitación para autorizaciones de proyectos de almacenamiento híbrido bajo ciertas condiciones.",
+    "Nueva definición técnica de 'potencia instalada' que suma módulos de generación y almacenamiento para facilitar autorizaciones.",
+    "Introducción del concepto de 'repotenciación' para permitir la actualización de plantas renovables existentes con mayor eficiencia.",
+    "Establecimiento de plazos máximos para que las distribuidoras ejecuten extensiones de red para nuevos suministros (ej. 5 días para baja tensión sin ampliación).",
+    "Mandato a la CNMC para realizar inspecciones extraordinarias cada tres años sobre la capacidad de reposición del sistema.",
+    "Obligación del operador del sistema de analizar la estabilidad y la inyección de potencia en un plazo de 3 a 6 meses.",
+    "Nuevos criterios de caducidad para permisos de acceso a la red de demanda (5 años si no se utiliza la capacidad)."
+  ],
+  "legal_references": [
+    "Ley 36/2015, de 28 de septiembre, de Seguridad Nacional",
+    "Ley 24/2013, de 26 de diciembre, del Sector Eléctrico",
+    "Ley 21/2013, de 9 de diciembre, de Evaluación Ambiental",
+    "Real Decreto 1955/2000, de 1 de diciembre",
+    "Real Decreto 1183/2020, de 29 de diciembre",
+    "Directiva (UE) 2023/2413",
+    "Real Decreto-ley 23/2020"
+  ],
+  "derogations": [
+    "Normas de igual o inferior rango que se opongan al presente real decreto"
+  ],
+  "main_obligations": "La CNMC debe publicar un informe de seguimiento de control de tensión en 3 meses y realizar un plan de inspección extraordinario en 9 meses. El operador del sistema debe presentar análisis técnicos sobre estabilidad y servicios de ajuste en plazos de 3 a 6 meses.",
+  "effective_date": "2025-11-07",
+  "procedures": [
+    {
+      "name": "Tramitación de proyectos de almacenamiento híbrido (procedimiento simplificado)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "descrption": "El promotor presenta la solicitud junto al proyecto de ejecución y acreditación de exención ambiental.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": "Proyecto de ejecución y documentación de exención de evaluación ambiental"
+        },
+        {
+          "step": 2,
+          "title": "Información y consultas",
+          "descrption": "Trámite de información pública y consultas a administraciones, con plazos reducidos a la mitad.",
+          "start_date": "Tras la presentación",
+          "end_date": "Plazo reducido a la mitad del RD 1955/2000",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "descrption": "Remisión del expediente a la Dirección General de Política Energética y Minas para resolución en 15 días.",
+          "start_date": "Tras finalizar trámites de información",
+          "end_date": "15 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Ejecución de nuevas extensiones de red por la distribuidora",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio de plazo",
+          "descrption": "El cómputo comienza tras satisfacer los derechos de acometida.",
+          "start_date": "Tras pago de derechos de acometida",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Ejecución según tipo de suministro",
+          "descrption": "Plazos según complejidad: 5 días (BT sin ampliación), 30 días (BT con ampliación), 60 días (centro transformación), 80 días (alta tensión <= 66kV).",
+          "start_date": "Tras pago de derechos",
+          "end_date": "Según tabla de plazos",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,90 @@
+{
+  "identifier": "BOJA-b-2020-90390",
+  "title": "Decreto-ley 25/2020, de 29 de septiembre, por el que, con carácter extraordinario y urgente, se crea y regula el Bono Turístico de Andalucía, como consecuencia de la situación ocasionada por el coronavirus (COVID-19)",
+  "visible_title": "Bono Turístico de Andalucía",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "25/2020",
+  "publication_date": "2020-09-29",
+  "enactment_date": "2020-09-29",
+  "last_updated": "2021-03-25",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOJA-b-2020-90390",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": "b-2020-90390",
+  "summary": "Esta norma crea un incentivo económico para reactivar el sector turístico andaluz tras la crisis del COVID-19. Consiste en un bono que subvenciona parte de los gastos de alojamiento para fomentar los viajes dentro de la comunidad. El objetivo es mitigar la pérdida de ingresos y empleos en un sector estratégico para la economía regional.",
+  "citizen_impact": "Los residentes en Andalucía y personas con tarjeta de andaluz en el exterior pueden recibir descuentos de hasta el 50% en sus estancias turísticas. Esto reduce el coste de viajar por la región, siempre que se cumplan requisitos de estancia mínima y contratación específica.",
+  "professional_impact": "Las agencias de viajes y alojamientos turísticos con el distintivo 'Andalucía Segura' se benefician de un aumento potencial de la demanda. Sin embargo, deben cumplir con requisitos estrictos de inscripción en el Registro de Turismo y gestión de la documentación para que sus clientes puedan acceder al bono.",
+  "keywords": [
+    "turismo",
+    "subvención",
+    "bono turístico",
+    "Andalucía",
+    "COVID-19",
+    "alojamiento",
+    "reactivación económica"
+  ],
+  "key_points": [
+    "Subvención del 25% de la factura de alojamiento (hasta 300€) para estancias estándar.",
+    "Subvención del 50% de la factura (hasta 500€) para mayores de 65 años, menores de 25 años o personas con discapacidad (≥33%) en estancias de 4+ noches.",
+    "Subvención del 50% de la factura (hasta 200€) para personas sin obligación de declarar IRPF en 2019/2020.",
+    "Requisito de estancia mínima de 2 noches (o 3 para la modalidad estándar).",
+    "Obligatoriedad de contar con el distintivo 'Andalucía Segura'.",
+    "La contratación debe realizarse preferentemente a través de agencias de viajes con sede en Andalucía.",
+    "Cada persona puede solicitar el bono hasta un máximo de tres veces.",
+    "Periodo de aplicación: del 1 de octubre de 2020 al 9 de diciembre de 2021."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía para Andalucía",
+    "Ley 13/2011 de Turismo de Andalucía",
+    "Decreto-ley 15/2020",
+    "Ley 38/2003 General de Subvenciones",
+    "Ley 39/2015 de Procedimiento Administrativo Común"
+  ],
+  "derogations": [],
+  "main_obligations": "Los beneficiarios deben presentar la solicitud en el plazo de un mes tras finalizar la estancia. Deben aportar factura desglosada, certificado de empadronamiento y cumplir con la declaración responsable de no tener deudas con la Junta de Andalucía.",
+  "effective_date": "2020-09-30",
+  "procedures": [
+    {
+      "name": "Concesión del Bono Turístico de Andalucía",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Realización de la estancia",
+          "description": "Pernoctación en alojamiento con distintivo 'Andalucía Segura' cumpliendo los mínimos de noches.",
+          "start_date": "2020-10-01",
+          "end_date": "2021-12-09",
+          "required_documentation": "Factura del servicio de alojamiento y desayuno."
+        },
+        {
+          "step": 2,
+          "title": "Presentación de la solicitud",
+          "description": "Plazo para solicitar la subvención tras la estancia.",
+          "start_date": "Día siguiente al último día de pernoctación",
+          "end_date": "1 mes después de la estancia",
+          "required_documentation": "DNI/NIE, Certificado de empadronamiento, Factura, Declaración responsable."
+        },
+        {
+          "step": 3,
+          "title": "Tramitación y resolución",
+          "description": "La administración comprueba requisitos y dicta resolución.",
+          "start_date": null,
+          "end_date": "3 meses desde la entrada en registro",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Pago de la subvención",
+          "description": "Ingreso del importe mediante transferencia bancaria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Número de cuenta bancaria del titular."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

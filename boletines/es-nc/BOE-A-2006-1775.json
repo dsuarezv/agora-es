@@ -1,0 +1,75 @@
+{
+  "identifier": "BOE-A-2006-1775",
+  "title": "Ley Foral 21/2005, de 29 de diciembre, de evaluación de las políticas públicas y de la calidad de los servicios públicos",
+  "visible_title": "Ley Foral de evaluación de las políticas públicas y de la calidad de los servicios públicos",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "21/2005",
+  "publication_date": "2006-02-04",
+  "enactment_date": "2005-12-29",
+  "last_updated": "2006-01-09",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2005/12/29/21",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece un sistema para que las Administraciones de Navarra midan si sus políticas funcionan y si sus servicios son de calidad. Introduce herramientas como las Cartas de Servicios y la creación de una Comisión Foral especializada para supervisar estos procesos. El objetivo es pasar de una administración que solo cumple normas a una que busca la mejora continua basada en la satisfacción del ciudadano.",
+  "citizen_impact": "Los ciudadanos ganan transparencia al poder consultar las 'Cartas de Servicios', donde la Administración se compromete voluntariamente con plazos y estándares de calidad. Además, se garantiza un canal formal para presentar quejas y sugerencias con derecho a respuesta en un plazo de un mes.",
+  "professional_impact": "Los funcionarios y gestores públicos deben adoptar modelos de evaluación (como el EFQM o CAF) y gestionar sistemas de mejora continua. Las entidades locales de Navarra también quedan integradas en este marco de calidad, lo que implica una mayor coordinación interadministrativa.",
+  "keywords": [
+    "evaluación de políticas públicas",
+    "calidad de servicios públicos",
+    "Cartas de Servicios",
+    "Navarra",
+    "transparencia",
+    "mejora continua",
+    "participación ciudadana"
+  ],
+  "key_points": [
+    "Creación de la Comisión Foral para la Evaluación de las Políticas Públicas y la Calidad de los Servicios Públicos.",
+    "Implementación de Cartas de Servicios para informar sobre compromisos de calidad y plazos.",
+    "Establecimiento de un sistema de quejas y sugerencias con obligación de respuesta en un mes.",
+    "Uso de modelos de gestión de calidad reconocidos (EFQM, CAF) para la autoevaluación.",
+    "Promoción de premios a la calidad para reconocer buenas prácticas en la Administración.",
+    "Creación de un Registro de Evaluación de Políticas Públicas y Calidad de los Servicios, público y gratuito.",
+    "La evaluación puede ser interna (autoevaluación) o externa (realizada por la Comisión Foral)."
+  ],
+  "legal_references": [
+    "Ley Foral 14/2004, de 3 de diciembre, del Gobierno de Navarra y de su Presidente",
+    "Ley Foral 15/2004, de 3 de diciembre, de la Administración de la Comunidad Foral de Navarra",
+    "Ley Foral 11/2004, de 29 de octubre, para la actualización del Régimen Local de Navarra",
+    "Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Mejoramiento del Régimen Foral de Navarra",
+    "Ley Foral 6/1990, de 2 de julio, de la Administración Local de Navarra",
+    "Ley Foral del Vascuence"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a esta Ley Foral"
+  ],
+  "main_obligations": "Las Administraciones deben tramitar las quejas y sugerencias de los ciudadanos y responder en un plazo máximo de un mes. Los departamentos de la Administración de Navarra debían elaborar sus Cartas de Servicios en un plazo de tres años desde la entrada en vigor.",
+  "effective_date": "2006-02-05",
+  "procedures": [
+    {
+      "name": "Gestión de quejas y sugerencias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación",
+          "description": "El ciudadano presenta su queja o sugerencia de forma presencial, por correo o telemáticamente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Formulario de registro diseñado por la unidad responsable."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y respuesta",
+          "description": "La unidad responsable debe informar al interesado sobre las actuaciones realizadas.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

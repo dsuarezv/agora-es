@@ -1,0 +1,122 @@
+{
+  "identifier": "BOE-A-2019-5480",
+  "title": "Ley 1/2019, de 1 de marzo, para la recuperación de la memoria democrática en el Principado de Asturias",
+  "visible_title": "Ley para la recuperación de la memoria democrática en el Principado de Asturias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "1/2019",
+  "publication_date": "2019-04-12",
+  "enactment_date": "2019-03-01",
+  "last_updated": "2019-03-08",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2019/03/01/1",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta ley establece un marco institucional para investigar, localizar y dar reparación a las víctimas de la Guerra Civil y la Dictadura franquista en Asturias. Crea el Instituto Asturiano de la Memoria Democrática y un banco de ADN para la identificación de restos humanos. Además, busca proteger la memoria histórica mediante la creación de lugares de memoria, rutas educativas y la retirada de símbolos que exalten el régimen franquista.",
+  "citizen_impact": "Los familiares de víctimas de la dictadura obtienen el derecho a localizar y recuperar los restos de sus seres queridos mediante la colaboración con el nuevo Instituto. También se garantiza el derecho de la sociedad a conocer la verdad histórica a través de la educación y la digitalización de archivos.",
+  "professional_impact": "Los ayuntamientos y administraciones locales tienen la obligación de retirar símbolos franquistas de la vía pública y edificios públicos. Los profesionales de la información y medios de comunicación deben evitar el uso sensacionalista o vejatorio de la imagen de las víctimas.",
+  "keywords": [
+    "memoria democrática",
+    "víctimas franquismo",
+    "derechos humanos",
+    "reparación",
+    "exhumación",
+    "Asturias",
+    "desaparecidos"
+  ],
+  "key_points": [
+    "Creación del Instituto Asturiano de la Memoria Democrática para gestionar las políticas de memoria.",
+    "Establecimiento de un Banco público de ADN para la identificación de restos humanos.",
+    "Obligación de retirar símbolos, escudos o nombres de calles que exalten el franquismo.",
+    "Creación de un Catálogo y de 'Lugares de la Memoria Democrática' con protección especial.",
+    "Inclusión obligatoria de la memoria democrática en los currículos de ESO y Bachillerato en Asturias.",
+    "Reconocimiento de las víctimas de la violencia de género y la persecución por orientación sexual durante la dictadura.",
+    "Creación de un protocolo para la localización e identificación de fosas comunes.",
+    "Derecho de los ciudadanos a solicitar la toma de muestras de ADN para identificación de familiares."
+  ],
+  "legal_references": [
+    "Ley 52/2007, de 26 de diciembre",
+    "Estatuto de Autonomía del Principado de Asturias",
+    "Convenio de la OIT de 1930",
+    "Estatuto de Roma",
+    "Convención de las Naciones Unidas sobre desapariciones forzadas",
+    "Ley 40/2015",
+    "Ley 4/1986"
+  ],
+  "derogations": [
+    "Todas las disposiciones de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": "Las administraciones deben retirar símbolos franquistas en un plazo de 12 meses. Se prohíbe la destrucción de fosas o restos sin autorización, bajo riesgo de multas de hasta 150.000 euros. Los medios de comunicación deben evitar el uso lucrativo o vejatorio de la imagen de las víctimas.",
+  "effective_date": "2019-04-13",
+  "procedures": [
+    {
+      "name": "Retirada de símbolos franquistas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "La administración inicia de oficio o por denuncia la retirada de elementos de exaltación del franquismo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Audiencia",
+          "description": "Se otorga un plazo para que los interesados aleguen lo que consideren.",
+          "start_date": null,
+          "end_date": "15 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Dictado de la resolución motivada que ordena la retirada.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de Lugar de la Memoria Democrática",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "description": "Propuesta de la Consejería que incluye descripción y delimitación cartográfica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Delimitación cartográfica y descripción del bien"
+        },
+        {
+          "step": 2,
+          "title": "Anotación preventiva",
+          "description": "Inscripción provisional que suspende licencias de edificación o demolición.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Información pública y audiencia",
+          "description": "Trámite de consulta a particulares y ayuntamientos afectados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución final",
+          "description": "Decisión del Consejo de Gobierno sobre la inscripción en el catálogo.",
+          "start_date": null,
+          "end_date": "12 meses (caducidad)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

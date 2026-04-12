@@ -1,0 +1,105 @@
+{
+  "identifier": "BOE-A-2011-13121",
+  "title": "Ley 4/2011, de 30 de junio, de convivencia y participación de la comunidad educativa",
+  "visible_title": "Ley de convivencia y participación de la comunidad educativa",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "4/2011",
+  "publication_date": "2011-07-30",
+  "enactment_date": "2011-06-30",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2011/06/30/4",
+  "official_journal": "Diario Oficial de Galicia",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para mejorar el clima escolar en los centros públicos de Galicia, centrándose en la prevención del acoso escolar y la resolución pacífica de conflictos. Introduce mecanismos para que las familias participen directamente en el proceso educativo y refuerza la autoridad y protección jurídica del profesorado. Busca equilibrar la disciplina con el derecho a la educación, garantizando que las medidas correctoras tengan un fin pedagógico.",
+  "citizen_impact": "Las familias tienen nuevos canales para participar en decisiones educativas y mayor facilidad para contactar con el profesorado. Los padres tienen la obligación legal de asistir a las citaciones de los centros en procesos disciplinarios de sus hijos. Los alumnos cuentan con una protección reforzada contra el acoso escolar, incluso si este ocurre en entornos digitales.",
+  "professional_impact": "El profesorado adquiere la condición de autoridad pública, lo que les otorga mayor protección jurídica y presunción de veracidad en sus informes disciplinarios. Se les exige una mayor disponibilidad horaria para atender a las familias y se les dota de herramientas para gestionar la disciplina. Los equipos directivos asumen nuevas responsabilidades en la gestión de protocolos de acoso y planes de convivencia.",
+  "keywords": [
+    "convivencia escolar",
+    "acoso escolar",
+    "participación de familias",
+    "disciplina escolar",
+    "Galicia",
+    "comunidad educativa",
+    "derechos del alumno"
+  ],
+  "key_points": [
+    "Reconocimiento del profesorado como autoridad pública con protección jurídica especial.",
+    "Protocolos obligatorios para la detección y tratamiento del acoso escolar (bullying), incluyendo el ciberacoso.",
+    "Nuevos procedimientos de consulta para la participación directa de las familias en la enseñanza.",
+    "Obligatoriedad de las familias de asistir a las comparecencias en procesos disciplinarios de sus hijos.",
+    "Las medidas correctoras deben tener siempre un carácter educativo y no pueden privar del derecho a la educación.",
+    "Posibilidad de sancionar conductas ocurridas fuera del centro si afectan a la convivencia escolar.",
+    "Creación de 'aulas de convivencia inclusiva' para sustituir las expulsiones tradicionales.",
+    "Obligación del alumnado de reparar daños materiales o morales causados.",
+    "Establecimiento de plazos de prescripción claros para conductas leves (1 mes) y graves (4 meses)."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Galicia",
+    "Ley Orgánica de Educación",
+    "Ley 3/1986, de 18 de diciembre, de consejos escolares de Galicia",
+    "Real Decreto 732/1995, de 5 de mayo"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": "Las familias deben participar en los procedimientos de corrección disciplinaria cuando sean convocadas. El alumnado tiene la obligación de reparar los daños materiales o morales que cause. Los centros deben elaborar y aplicar un plan de convivencia basado en un diagnóstico previo.",
+  "effective_date": "2011-07-31",
+  "procedures": [
+    {
+      "name": "Procedimiento para la imposición de medidas correctoras de conductas gravemente perjudiciales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del procedimiento",
+          "description": "La dirección del centro inicia el expediente tras una denuncia o de oficio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Notificación de la conducta y propuesta de medidas"
+        },
+        {
+          "step": 2,
+          "title": "Medidas provisionales (opcional)",
+          "description": "La dirección puede suspender la asistencia al alumno temporalmente para evitar conflictos.",
+          "start_date": null,
+          "end_date": "máximo 5 días lectivos",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Instrucción y audiencia",
+          "description": "Se recogen pruebas y se da la oportunidad al alumno y sus padres de defenderse en una comparecencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "La dirección dicta la decisión final motivada.",
+          "start_date": null,
+          "end_date": "máximo 12 días lectivos desde la incoación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento para conductas leves",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aplicación de la medida",
+          "description": "El profesorado o tutor aplica la sanción tras oír al alumno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

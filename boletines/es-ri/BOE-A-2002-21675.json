@@ -1,0 +1,73 @@
+{
+  "identifier": "BOE-A-2002-21675",
+  "title": "Ley 7/2002, de 18 de octubre, de Sanidad Animal de la Comunidad Autónoma de La Rioja",
+  "visible_title": "Ley de Sanidad Animal de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "7/2002",
+  "publication_date": "2002-11-08",
+  "enactment_date": "2002-10-18",
+  "last_updated": "2022-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2002/10/18/7",
+  "official_journal": "Boletín Oficial de La Rioja",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas para prevenir y controlar enfermedades en los animales de La Rioja, protegiendo tanto la salud pública como el medio ambiente. Introduce un control estricto de la trazabilidad mediante el sistema SIRMA y obliga a todos los ganaderos a estar registrados. Además, impone restricciones severas a la expansión de explotaciones ganaderas intensivas hasta el año 2028. La norma otorga amplias facultades a la administración para intervenir, cerrar instalaciones o sacrificar animales ante riesgos sanitarios.",
+  "citizen_impact": "Los ciudadanos se benefician de una mayor seguridad alimentaria y control de enfermedades zoonóticas. Sin embargo, los propietarios de animales que no cumplan con el registro o la identificación correcta asumen el coste económico de posibles sacrificios o aislamientos obligatorios.",
+  "professional_impact": "Los ganaderos y empresas del sector deben cumplir con registros estrictos (SIRMA, Libro de Tratamientos), mantener documentación veterinaria por 5 años y cumplir con límites de capacidad. Los transportistas deben estar autorizados y desinfectar sus vehículos. Se enfrentan a multas coercitivas de hasta 3.000 € cada 15 días y a la prohibición de ampliar explotaciones intensivas hasta 2028.",
+  "keywords": [
+    "sanidad animal",
+    "La Rioja",
+    "trazabilidad",
+    "ganadería intensiva",
+    "SIRMA",
+    "control de enfermedades",
+    "explotaciones ganaderas"
+  ],
+  "key_points": [
+    "Obligatoriedad de inscripción en el Registro de Explotaciones Ganaderas de La Rioja para todas las especies.",
+    "Implementación del sistema SIRMA para garantizar la trazabilidad total desde el nacimiento.",
+    "Prohibición de crear o ampliar explotaciones ganaderas intensivas que superen los límites de capacidad hasta el 01/01/2028.",
+    "Los animales sin identificación correcta pueden ser sacrificados o aislados con coste para el propietario.",
+    "Los transportistas deben estar autorizados, inscritos y garantizar la limpieza/desinfección del vehículo.",
+    "Posibilidad de multas coercitivas de hasta 3.000 € cada 15 días para forzar el cumplimiento.",
+    "Facultad de la administración para realizar cierres preventivos o destrucción de animales ante riesgos sanitarios.",
+    "Pérdida del derecho a indemnización por sacrificio obligatorio si no se cumplen las obligaciones de registro o higiene.",
+    "Límites de capacidad: porcinos (720 UGM), pollos (90.000/ciclo), bovino leche (250 UGM) y apiicultura (máx. 200 colmenas)."
+  ],
+  "legal_references": [
+    "Ley Orgánica 3/1982, de 9 de junio",
+    "Ley Orgánica 3/1994, de 24 de marzo",
+    "Ley de Epizooitias de 20 de diciembre de 1952",
+    "Decreto de 4 de febrero de 1955",
+    "Constitución Española",
+    "Estatuto de Autonomía de La Rioja",
+    "Ley 30/1992, de 26 de diciembre",
+    "Ley 4/2005, de 1 de junio",
+    "Real Decreto 1398/1993, de 4 de agosto"
+  ],
+  "derogatons": [
+    "Todas las disposiciones de igual o menor rango que se opongan a esta Ley"
+  ],
+  "main_obligations": "Inscripción obligatoria en el registro de explotaciones, notificación inmediata de enfermedades y mantenimiento del Libro de Registro de Tratamientos. Es imperativo conservar las recetas veterinarias durante al menos 5 años y cumplir con los límites de capacidad para explotaciones intensivas.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Control y Limitación de Explotaciones Ganaderas Intensivas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Periodo de moratoria de nuevas instalaciones y ampliaciones",
+          "descrption": "No se admitirán solicitudes ni autorizaciones para explotaciones que superen los límites de capacidad establecidos en la ley.",
+          "start_date": "Fecha de entrada en vigor de la ley",
+          "end_date": "2028-01-01",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

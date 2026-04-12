@@ -1,0 +1,100 @@
+{
+  "identifier": "BOE-A-2001-17845",
+  "title": "Ley 8/2001, de 28 de junio, para la Ordenación de las Instalaciones de Radiocomunicación en Castilla-La Mancha",
+  "visible_title": "Ley para la Ordenación de las Instalaciones de Radiocomunicación en Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "8/2001",
+  "publication_date": "2001-09-21",
+  "enactment_date": "2001-06-28",
+  "last_updated": "2012-02-11",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2001/06/28/8",
+  "official_journal": "Boletín Oficial de la Comunidad de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley regula la instalación y el funcionamiento de infraestructuras de radiocomunicación en Castilla-La Mancha para proteger la salud pública y el medio ambiente. Establece límites estrictos de exposición a campos electromagnéticos y exige que las antenas se integren visualmente en el paisaje. Además, obliga a los operadores a planificar su despliegue de forma coordinada y a compartir instalaciones para evitar la proliferación desordenada de torres.",
+  "citizen_impact": "Garantiza una mayor protección de la salud frente a las radiaciones de telefonía móvil, especialmente en zonas sensibles como escuelas o centros de mayores. También busca reducir el impacto visual de las antenas en el paisaje y en entornos históricos.",
+  "professional_impact": "Los operadores de telecomunicaciones deben presentar un Plan Territorial de Despliegue de Red para obtener licencias y están obligados a compartir infraestructuras cuando sea viable. Deben realizar revisiones anuales de sus equipos y cumplir con estrictas medidas de mimetización y límites de emisión, bajo riesgo de multas elevadas.",
+  "keywords": [
+    "radiocomunicación",
+    "telefonía móvil",
+    "campos electromagnéticos",
+    "salud pública",
+    "impacto ambiental",
+    "infraestructuras",
+    "Castilla-La Mancha",
+    "despliegue de red"
+  ],
+  "key_points": [
+    "Establece límites máximos de exposición a radiaciones electromagnéticas para proteger a la población.",
+    "Obliga a los operadores a presentar un Plan Territorial de Despliegue de Red antes de instalar equipos.",
+    "Impone la compartición de infraestructuras entre operadores para minimizar el impacto visual y ambiental.",
+    "Prohíbe instalaciones en monumentos declarados y espacios naturales protegidos (microreservas y monumentos naturales).",
+    "Exige medidas de mimetización para que las antenas se integren en el entorno urbano y paisajístico.",
+    "Establece niveles de protección más estrictos en 'centros sensibles' como escuelas, hospitales y residencias.",
+    "Obliga a realizar revisiones anuales de las instalaciones y notificarlo a la administración.",
+    "Los ayuntamientos pueden prohibir ciertas tipologías de antenas por razones urbanísticas o ambientales.",
+    "Las infracciones muy graves (como superar los niveles de emisión) pueden conllevar multas de hasta 30.000.000 de pesetas."
+  ],
+  "legal_references": [
+    "Constitución Española (artículos 43, 45 y 149.1.23.o)",
+    "Directiva 97/33/CE del Parlamento Europeo y del Consejo",
+    "Recomendación del Consejo de la Unión Europea de 12 de julio de 1999",
+    "Ley General de Telecomunicaciones (artículo 16.3)",
+    "Reglamento de Uso del Dominio Público Radioeléctrico (artículo 8)",
+    "Estatuto de Autonomía de Castilla-La Mancha (artículos 31 y 32)",
+    "Ley de Patrimonio Histórico",
+    "Ley de Conservación de la Naturaleza",
+    "Ley 30/1992 de Régimen Jurídico de las Administraciones Públicas"
+  ],
+  "derogations": [],
+  "main_obligations": "Los operadores deben presentar un Plan Territorial de Despliegue de Red, realizar revisiones anuales de sus instalaciones y cumplir con los límites de emisión y mimetización. El incumplimiento de las normas de protección ambiental o de salud puede derivar en multas de hasta 30 millones de pesetas y la suspensión de la actividad.",
+  "effective_date": "2001-06-28",
+  "procedures": [
+    {
+      "name": "Aprobación del Plan Territorial de Despliegue de Red",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación del Plan",
+          "description": "El operador presenta la documentación técnica y cartográfica detallada de su red.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Esquema de red, descripción de servicios, calendario de ejecución, datos técnicos de cada emplazamiento y cartografía a escala 1:25.000 o 1:2.000."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la Comisión de Redes",
+          "description": "La Comisión de Redes de Radiocomunicación debe aprobar o denegar el plan en suelo rústico.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Mantenimiento y Revisión de Instalaciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Revisión anual",
+          "description": "Los operadores deben revisar sus instalaciones cada año.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de la revisión a la Consejería competente."
+        },
+        {
+          "step": 2,
+          "title": "Notificación de revisión",
+          "description": "Plazo para comunicar la realización de la revisión.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

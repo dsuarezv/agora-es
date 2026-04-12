@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-2025-587",
+  "title": "Real Decreto 10/2025, de 14 de enero, por el que se aprueba la Clasificación Nacional de Actividades Económicas 2025 (CNAE-2025)",
+  "visible_title": "Clasificación Nacional de Actividades Económicas 2025 (CNAE-2025)",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de Economía, Comercio y Empresa",
+  "official_number": "10/2025",
+  "publication_date": "2025-01-15",
+  "enactment_date": "2025-01-14",
+  "last_updated": "2025-01-15",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/01/14/10",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "13",
+  "summary": "Esta norma actualiza el catálogo oficial de actividades económicas en España para adaptarlo a la economía digital, tecnológica y medioambiental actual. Sustituye la clasificación de 2009 por la nueva CNAE-2025, alineándola con los estándares europeos y de Naciones Unidas. El objetivo es garantizar que las estadísticas oficiales y los datos administrativos sean fiables, comparables internacionalmente y reflejen la realidad de los nuevos modelos de negocio.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes.",
+  "professional_impact": "Las empresas y autónomos deberán actualizar su código de actividad económica en los registros de la Seguridad Social antes de junio de 2025. Los administradores de registros públicos estatales deberán adaptar sus sistemas para usar esta nueva codificación antes de 2027. Esto implica un esfuerzo de actualización técnica para asegurar la interoperabilidad de los datos.",
+  "keywords": [
+    "CNAE-2025",
+    "actividad económica",
+    "estadística oficial",
+    "INE",
+    "codificación económica",
+    "Seguridad Social",
+    "registros administrativos"
+  ],
+  "key_points": [
+    "Implementación de la nueva estructura CNAE-2025 para reflejar actividades digitales y sostenibles.",
+    "Obligatoriedad de uso en todas las operaciones del Plan Estadístico Nacional.",
+    "Plazo urgente para la Seguridad Social: comunicar la nueva codificación entre el 1 de marzo y el 30 de junio de 2025.",
+    "Plazo para el resto de registros administrativos estatales: implementación completa antes del 1 de enero de 2027.",
+    "Mantenimiento de la CNAE-2009 para datos históricos y series temporales (backcasting).",
+    "Alineación con el reglamento europeo NACE Rev. 2.1 y la clasificación internacional CIIIU Rev. 5."
+  ],
+  "legal_references": [
+    "Real Decreto 475/2007",
+    "Reglamento (CE) n.º 1893/2006",
+    "Reglamento Delegado (UE) 2023/137",
+    "Clasificación Internacional Industrial Uniforme (CIIU Rev.5)",
+    "Ley 12/1989 de la Función Estadística Pública",
+    "Ley 39/2015 del Procedimiento Administrativo Común",
+    "Ley 13/2022 General de Comunicación Audiovisual"
+  ],
+  "derogations": [],
+  "main_obligations": "Los sujetos responsables de ingresos en la Seguridad Social deben comunicar su nueva codificación CNAE-2025 antes del 30 de junio de 2025. Los nuevos sujetos que se incorran a partir de ahora deben hacerlo en el momento de su incorporación.",
+  "effective_date": "2025-01-16",
+  "procedures": [
+    {
+      "name": "Actualización de codificación en la Seguridad Social",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de codificación para sujetos ya registrados",
+          "description": "Los sujetos responsables de ingresos en la Seguridad Social ya existentes deben comunicar su actividad según la CNAE-2025.",
+          "start_date": "2025-03-01",
+          "end_date": "2025-06-30",
+          "required_documentation": "Código de actividad económica según CNAE-2025"
+        },
+        {
+          "step": 2,
+          "title": "Comunicación para nuevos sujetos",
+          "description": "Los nuevos sujetos que se incorporen a los registros deben comunicar su actividad en el momento de la incorporación.",
+          "start_date": "2025-01-16",
+          "end_date": null,
+          "required_documentation": "Código de actividad económica según CNAE-2025"
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de registros administrativos estatales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Implementación total de la CNAE-2025",
+          "description": "Plazo límite para que el resto de registros administrativos del sector público estatal utilicen la nueva codificación.",
+          "start_date": "2025-01-16",
+          "end_date": "2027-01-01",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,110 @@
+{
+  "identifier": "BOE-A-2000-1652",
+  "title": "Ley 6/1999, de 4 de noviembre, de los Colegios Profesionales de la Región de Murcia",
+  "visible_title": "Ley de Colegios Profesionales de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "6/1999",
+  "publication_date": "2000-01-27",
+  "enactment_date": "1999-11-04",
+  "last_updated": "2013-05-08",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/1999/11/04/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley organiza y regula el funcionamiento de los colegios profesionales y sus consejos dentro de la Región de Murcia. Busca garantizar que las profesiones colegiadas actúen bajo criterios éticos y de calidad, protegiendo tanto a los profesionales como a los usuarios. Además, establece la estructura democrática de estas corporaciones de derecho público y su relación con la Administración regional.",
+  "citizen_impact": "Garantiza que los profesionales que prestan servicios en la región cumplan con estándares éticos y de calidad supervisados por sus colegios. Protege al consumidor al asegurar que las actividades profesionales se realicen bajo normas deontológicas y de seguridad jurídica.",
+  "professional_impact": "Los profesionales colegiados en Murcia deben cumplir con los estatutos de su colegio y tienen derecho a participar democráticamente en su gestión. Establece que la colegiación en un solo colegio de la región es suficiente para ejercer en todo el territorio murciano, evitando duplicidades de pagos o trámites.",
+  "keywords": [
+    "colegios profesionales",
+    "Región de Murcia",
+    "deontología profesional",
+    "derecho administrativo",
+    "corporaciones de derecho público",
+    "consejos de colegios"
+  ],
+  "key_points": [
+    "Los colegios profesionales son corporaciones de Derecho Público con personalidad jurídica propia.",
+    "La creación de nuevos colegios profesionales requiere obligatoriamente una ley de la Asamblea Regional.",
+    "Se prohíbe la creación de más de un colegio para una misma profesión en el mismo ámbito territorial.",
+    "Los colegios deben garantizar la participación democrática de sus miembros mediante el voto.",
+    "La colegiación en un solo colegio de la región permite el ejercicio profesional en todo el territorio de Murcia.",
+    "Los colegios tienen la potestad de sancionar a sus miembros mediante expedientes disciplinarios proporcionales.",
+    "Se establece la obligación de tramitar la colegiación por vía telemática para facilitar el acceso.",
+    "Los colegios pueden actuar como mediadores en conflictos entre profesionales o con terceros."
+  ],
+  "legal_references": [
+    "Ley 2/1974, de 13 de febrero",
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Ley 17/2009, de 23 de noviembre",
+    "Ley 30/1992, de 26 de noviembre"
+  ],
+  "derogations": [
+    "Todas las normas de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": "Los profesionales deben cumplir con las normas deontológicas y los estatutos de su colegio. Los colegios están obligados a tramitar la inscripción de sus estatutos ante la Consejería correspondiente para su calificación de legalidad.",
+  "effective_date": "2000-01-28",
+  "procedures": [
+    {
+      "name": "Inscripción de Estatutos en el Registro",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Remisión de estatutos",
+          "description": "El colegio debe enviar sus estatutos aprobados a la Consejería para su calificación de legalidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estatutos o modificaciones estatutarias"
+        },
+        {
+          "step": 2,
+          "title": "Calificación de legalidad",
+          "description": "La Administración debe pronunciarse sobre la legalidad de los estatutos.",
+          "start_date": "6 meses desde la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Inscripción y publicación",
+          "description": "Tras la calificación positiva, se inscriben en el Registro y se publican en el BORM.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Creación de un nuevo Colegio Profesional",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciativa legislativa",
+          "description": "El anteproyecto se elabora por la Consejería competente a petición mayoritaria de los profesionales interesados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Audiencia",
+          "description": "Se debe dar audiencia a los colegios profesionales existentes que puedan verse afectados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación por Ley",
+          "description": "La creación solo puede realizarse mediante Ley de la Asamblea Regional.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

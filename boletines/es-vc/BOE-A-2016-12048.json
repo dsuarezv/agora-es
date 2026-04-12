@@ -1,0 +1,105 @@
+{
+  "identifier": "BOE-A-2016-12048",
+  "title": "Ley 11/2016, de 28 de noviembre, de la Agencia de Prevención y Lucha contra el Fraude y la Corrupción de la Comunitat Valenciana",
+  "visible_title": "Ley de la Agencia de Prevención y Lucha contra el Fraude y la Corrupción de la Comunitat Valenciana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "11/2016",
+  "publication_date": "2016-12-20",
+  "enactment_date": "2016-11-28",
+  "last_updated": "2025-05-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2016/11/28/11",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta ley crea la Agencia de Prevención y Lucha contra el Fraude y la Corrupción en la Comunitat Valenciana como un organismo independiente para combatir la mala gestión de fondos públicos. Su objetivo es prevenir, investigar y sancionar conductas de corrupción, fraude e irregularidades administrativas. Además, establece un marco robusto para la protección de los denunciantes (whistleblowers) dentro de las instituciones valencianas.",
+  "citizen_impact": "Aumenta la transparencia y la integridad en el uso de los impuestos de los ciudadanos valencianos al vigilar que el dinero público no se desvíe. También otorga un derecho de protección especial a cualquier persona que denuncie irregularidades en la administración, evitando represalias laborales o personales.",
+  "professional_impact": "Los funcionarios y cargos públicos están sujetos a una vigilancia más estricta y a la obligación de denunciar hechos de corrupción. Las empresas que gestionan servicios públicos o reciben subvenciones también entran en el radar de inspección de la Agencia, pudiendo ser investigadas para asegurar el uso correcto de los fondos.",
+  "keywords": [
+    "anticorrupción",
+    "fraude",
+    "transparencia",
+    "denunciantes",
+    "protección del informante",
+    "comunitat valenciana",
+    "ética pública"
+  ],
+  "key_points": [
+    "Creación de una Agencia con personalidad jurídica propia e independencia de la administración.",
+    "Establecimiento de un estatuto de protección para el denunciante que incluye asesoría legal y medidas contra represalias.",
+    "Potestad de la Agencia para acceder a información de entidades públicas y privadas relacionadas con fondos públicos.",
+    "Capacidad de imponer sanciones económicas de hasta 400.000 euros por infracciones muy graves.",
+    "El Director de la Agencia es elegido por Les Corts con un mandato de 7 años no renovable.",
+    "Obligación de colaboración de todas las entidades públicas y particulares que gestionen fondos públicos.",
+    "Creación de una oficina virtual para que empleados públicos realicen denuncias confidenciales."
+  ],
+  "legal_references": [
+    "Ley 2/2003",
+    "Directiva (UE) 2019/1937",
+    "Ley 2/2023",
+    "Real Decreto Legislativo 2/2004",
+    "Real Decreto Legislativo 5/2015",
+    "Ley 1/2015 de la Generalitat"
+  ],
+  "derogatons": [
+    "Disposiciones de rango legal u orden inferior que se opongan a esta ley",
+    "Consejo de Participación regulado en el Reglamento de funcionamiento y régimen interior aprobado por Resolución de 27 de junio de 2019"
+  ],
+  "main_obligations": "Los cargos y empleados públicos deben comunicar inmediatamente cualquier hecho de corrupción detectado. Se prohíbe obstaculizar las investigaciones, filtrar información confidencial o realizar denuncias falsas, con multas que oscilan entre 200€ y 400.000€ según la gravedad.",
+  "effective_date": "2016-12-21",
+  "procedures": [
+    {
+      "name": "Procedimiento de investigación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio de actuaciones",
+          "description": "La Agencia decide investigar de oficio, por solicitud de Les Corts o por denuncia tras comprobar indicios de veracidad.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Tramitación de la investigación",
+          "description": "Fase de recogida de pruebas, entrevistas y acceso a documentación.",
+          "start_date": "Desde el inicio",
+          "end_date": "6 meses (prorrogables por otros 6 meses)",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Conclusión y resultados",
+          "description": "Emisión de informe motivado, archivo, inicio de expediente sancionador o traslado a la justicia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento sancionador",
+          "description": "Se inicia tras la conclusión de la investigación si se detectan infracciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Imposición de la sanción (amonestación, multa o declaración de incumplimiento).",
+          "start_date": null,
+          "end_date": "6 meses (prorrogables por otros 6 meses)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

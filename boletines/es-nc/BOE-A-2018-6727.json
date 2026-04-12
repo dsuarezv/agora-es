@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-2018-6727",
+  "title": "Resolución 125/2018, de 14 de mayo, de la Dirección General de Interior, del Departamento de Presidencia, Función Pública, Interior y Justicia, por la que se establecen medidas especiales de regulación de tráfico para determinados vehículos en la carretera N-121-C (Tudela-Tarazona) en la Comunidad Foral de Navarra",
+  "visible_title": "Medidas especiales de regulación de tráfico para vehículos pesados en la carretera N-121-C (Tudela-Tarazona)",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "125/2018",
+  "publication_date": "2018-05-21",
+  "enactment_date": "2018-05-14",
+  "last_updated": "2018-05-21",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/res/2018/05/14/125",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta resolución prohíbe la circulación de camiones de mercancías de 4 o más ejes por la carretera N-121-C en dirección sur (tramo Tudela-AP-68). La medida responde al peligro de seguridad y al colapso de la vía causado por el desvío de tráfico pesado desde la N-232 en La Rioja. El objetivo es reducir la siniestralidad y el deterioro de la carretera hasta que finalicen las obras de desdoblamiento en la zona.",
+  "citizen_impact": "Mejora la seguridad vial y la fluidez del tráfico para los residentes y usuarios locales, al reducir el volumen de camiones pesados que transitan cerca de centros escolares, hospitales y zonas residenciales. No impone trámites adicionales a los ciudadanos particulares.",
+  "professional_impact": "Afecta directamente a las empresas de transporte de mercancías, que tienen prohibido usar este tramo con vehículos de 4 o más ejes si su destino es La Rioja vía AP-68. Deben utilizar la ruta alternativa por la A-68 y la AP-15, donde el uso de un tramo específico será gratuito para facilitar la transición.",
+  "keywords": [
+    "tráfico pesado",
+    "N-121-C",
+    "restricciones de circulación",
+    "seguridad vial",
+    "Navarra",
+    "transporte de mercancías"
+  ],
+  "key_points": [
+    "Prohibición de camiones de mercancías de 4 o más ejes en dirección sur por la N-121-C (Tudela-AP-68).",
+    "La medida tiene una duración inicial prevista hasta el 31 de mayo de 2023.",
+    "Se establece una ruta alternativa gratuita por la AP-15 para facilitar el tránsito hacia la AP-68.",
+    "Están exentos los vehículos de auxilio en carretera, autobuses de servicio público y desplazamientos por residencia o mantenimiento.",
+    "Es posible solicitar exenciones por urgencia justificada con 5 días de antelación."
+  ],
+  "legal_references": [
+    "Texto Refundido de la Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial (Real Decreto Legislativo 6/2015)",
+    "Reglamento General de Circulación (Real Decreto 1428/2003)",
+    "Ley Orgánica 13/82 de Reintegración y Mejoramiento del Régimen Foral de Navarra",
+    "Ley Foral 15/2004 de la Administración de la Comunidad Foral de Navarra",
+    "Decreto Foral 198/2015"
+  ],
+  "derogations": [],
+  "main_obligations": "Prohibición de circular con vehículos pesados de mercancías de 4 o más ejes por el tramo N-121-C (Tudela-AP-68) en sentido sur. El incumplimiento conlleva sanciones según la Ley de Tráfico y la posible retirada del vehículo.",
+  "effective_date": "2018-06-01",
+  "procedures": [
+    {
+      "name": "Recurso de Alzada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Interposición del recurso",
+          "description": "Presentación del recurso ante la Consejera de Presidencia, Función Pública, Interior y Justicia.",
+          "start_date": "1 mes desde el día siguiente a la publicación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Recurso Contencioso-Administrativo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Interposición del recurso",
+          "description": "Presentación ante la Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia de Navarra.",
+          "start_date": "2 meses desde el día siguiente a la publicación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de exención por urgencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud previa",
+          "description": "Presentar solicitud justificando la necesidad ineludible del desplazamiento.",
+          "start_date": "5 días de antelación al desplazamiento",
+          "end_date": null,
+          "required_documentation": "Matrícula, fecha, mercancía, vías y condiciones del transporte"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

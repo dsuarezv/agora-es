@@ -1,0 +1,91 @@
+{
+  "identifier": "BOE-A-2002-13253",
+  "title": "Ley 8/2002, de 18 de junio, por la que se reconoce como Universidad Privada a la \"Universidad Europea Miguel de Cervantes\", con sede en Valladolid",
+  "visible_title": "Reconocimiento de la Universidad Europea Miguel de Cervantes como Universidad Privada",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "8/2002",
+  "publication_date": "2002-07-05",
+  "enactment_date": "2002-06-18",
+  "last_updated": "2002-06-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2002/06/18/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley otorga el estatus oficial de Universidad Privada a la Universidad Europea Miguel de Cervantes en Castilla y León. Establece su estructura inicial de centros y titulaciones, garantizando que sus estudios tengan validez en todo el territorio nacional. Además, define las condiciones de funcionamiento, acceso y supervisión que la institución debe cumplir bajo la normativa estatal y autonómica.",
+  "citizen_impact": "Permite que los estudiantes puedan cursar grados universitarios oficiales en esta institución con títulos válidos en toda España. Garantiza que el acceso y la permanencia se basen en la igualdad, el mérito y la capacidad, sin discriminación.",
+  "professional_impact": "La entidad promotora adquiere la responsabilidad de gestionar una institución educativa bajo estricta supervisión de la Consejería de Universidades. La universidad debe cumplir con obligaciones de transparencia, como la elaboración de una memoria anual de actividades y la comunicación de cambios patrimoniales o de organización.",
+  "keywords": [
+    "Universidad Privada",
+    "Castilla y León",
+    "Reconocimiento universitario",
+    "Educación superior",
+    "Universidad Europea Miguel de Cervantes"
+  ],
+  "key_points": [
+    "Reconocimiento oficial de la Universidad Europea Miguel de Cervantes como institución privada.",
+    "Sede establecida en la Comunidad de Castilla y León.",
+    "Los títulos expedidos por sus centros iniciales tendrán validez en todo el territorio nacional.",
+    "Obligación de garantizar la libertad de cátedra, investigación y estudio.",
+    "El acceso de alumnos debe regirse por principios de igualdad, mérito y capacidad.",
+    "La Junta de Castilla y León debe autorizar el inicio de actividades en un plazo máximo de 6 meses tras la solicitud.",
+    "La institución está sujeta a la inspección y control de la Consejería de Universidades.",
+    "Se exige la elaboración de una memoria anual de actividades docentes e investigadoras."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 27 y 20.1.c)",
+    "Ley 2/1998, de 4 de junio, de Coordinación Universitaria de Castilla y León",
+    "Ley Orgánica 6/2001, de 21 de diciembre, de Universidades",
+    "Real Decreto 1497/1987, de 27 de noviembre"
+  ],
+  "derogatons": [],
+  "main_obligations": "La universidad debe elaborar una memoria anual de actividades y presentarla a la Consejería en un plazo de dos meses tras finalizar el curso. Asimismo, debe comunicar cualquier variación en su organización, patrimonio o régimen de becas a la administración competente.",
+  "effective_date": "2002-07-06",
+  "procedures": [
+    {
+      "name": "Autorización para la puesta en funcionamiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de la entidad promotora",
+          "description": "Presentación de la solicitud para iniciar actividades académicas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Compromisos adquiridos por la entidad titular y títulos oficiales homologados por el Gobierno."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la Junta de Castilla y León",
+          "description": "Otorgamiento del acuerdo de funcionamiento tras comprobar el cumplimiento de requisitos.",
+          "start_date": "6 meses desde la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Cese de actividades",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta motivada de la Universidad",
+          "description": "La universidad debe presentar la propuesta de cese con antelación.",
+          "start_date": "Mínimo 1 curso académico antes del cese",
+          "end_date": null,
+          "required_documentation": "Propuesta motivada que asegure la finalización de estudios de alumnos actuales."
+        },
+        {
+          "step": 2,
+          "title": "Autorización por la Junta de Castilla y León",
+          "description": "Aprobación del cese mediante acuerdo tras la comprobación de requisitos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

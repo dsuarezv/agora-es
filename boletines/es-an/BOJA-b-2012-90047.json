@@ -1,0 +1,107 @@
+{
+  "identifier": "BOJA-b-2012-90047",
+  "title": "Decreto-ley 5/2012, de 27 de noviembre, de medidas urgentes en materia urbanística y para la protección del litoral de Andalucía",
+  "visible_title": "Medidas urgentes en materia urbanística y protección del litoral de Andalucía",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "5/2012",
+  "publication_date": "2012-11-28",
+  "enactment_date": "2012-11-27",
+  "last_updated": "2021-12-03",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOJA-b-2012-90047",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": "b-2012-90047",
+  "summary": "Esta norma introduce medidas de emergencia para frenar la urbanización descontrolada en la costa andaluza y proteger el medio ambiente. Crea el Plan de Protección del Corredor Litoral para regular los primeros 500 metros desde la costa y establece la suspensión inmediata de nuevos proyectos urbanísticos en zonas sensibles. Además, busca agilizar la gestión administrativa mediante la armonización de plazos para informes de distintas administraciones.",
+  "citizen_impact": "Los ciudadanos ven frenada la posibilidad de nuevos desarrollos urbanísticos o construcciones en la franja costera de 500 metros para preservar el paisaje y los ecosistemas. Esto puede limitar la oferta de suelo para nuevas viviendas en zonas de primera línea de playa.",
+  "professional_impact": "Promotores y urbanistas enfrentan una suspensión de trámites para planes parciales y de sectorización en el litoral. Por otro lado, técnicos y funcionarios de diversas administraciones (aguas, carreteras, salud, patrimonio) ven obligados a emitir informes vinculantes en un plazo máximo de tres meses, bajo riesgo de silencio administrativo favorable.",
+  "keywords": [
+    "urbanismo",
+    "litoral",
+    "protección ambiental",
+    "Andalucía",
+    "planificación territorial",
+    "corredor litoral",
+    "suelo urbanizable"
+  ],
+  "key_points": [
+    "Creación del Plan de Protección del Corredor Litoral de Andalucía para proteger la zona de influencia costera.",
+    "Suspensión inmediata de la aprobación de planes de sectorización y planes parciales en suelo urbanizable a menos de 500 metros de la costa.",
+    "Obligación de los municipios de adaptar sus planes generales al Plan de Ordenación del Territorio de Andalucía (POTA) en plazos determinados.",
+    "Establecimiento de un plazo máximo de 3 meses para que las administraciones emitan informes técnicos (aguas, carreteras, salud, etc.).",
+    "Introducción del silencio administrativo favorable si las administraciones no responden en el plazo de 3 meses.",
+    "El Plan de Protección del Corredor Litoral será vinculante para la planificación subregional y municipal."
+  ],
+  "legal_references": [
+    "Ley 1/1994, de 11 de enero, de Ordenación del Territorio de Andalucía",
+    "Ley 22/1988, de 28 de julio, de Costas",
+    "Ley 7/2002, de 17 de diciembre, de Ordenación Urbanística de Andalucía",
+    "Ley 9/2010, de 30 de julio, de Aguas de Andalucía",
+    "Ley 8/2001, de 12 de julio, de Carreteras de Andalucía",
+    "Ley 9/2006, de 26 de diciembre, de Servicios Ferroviarios de Andalucía",
+    "Ley 21/2007, de 18 de diciembre, de Régimen Jurídico y Económico de los Puertos de Andalucía",
+    "Ley 14/2007, de 26 de noviembre, del Patrimonio Histórico de Andalucía",
+    "Ley 16/2011, de 23 de diciembre, de Salud Pública de Andalucía"
+  ],
+  "derogations": [
+    "Disposiciones de la Ley 1/1994 modificadas por este decreto",
+    "Normas de plazos de informes de diversas leyes sectoriales"
+  ],
+  "main_obligations": "Los municipios deben revisar sus planes generales para adecuarlos al POTA en un plazo máximo de 8 años si no lo han hecho ya. Las administraciones están obligadas a emitir informes vinculantes en un plazo máximo de 3 meses para no permitir el silencio administrativo.",
+  "effective_date": "2012-11-28",
+  "procedures": [
+    {
+      "name": "Elaboración del Plan de Protección del Corredor Litoral de Andalucía",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Redacción del Plan",
+          "description": "Elaboración del documento por la Consejería competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Sometimiento del plan a consulta pública y audiencia a administraciones afectadas.",
+          "start_date": "2 meses antes de la aprobación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación",
+          "description": "Aprobación mediante Decreto del Consejo de Gobierno.",
+          "start_date": "Plazo máximo de 2 años y 6 meses desde la entrada en vigor del Decreto-ley",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de informes preceptivos y vinculantes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de informe",
+          "description": "La administración tramitadora solicita el informe a la entidad competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Emisión de informe",
+          "description": "Plazo máximo para emitir el dictamen técnico.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

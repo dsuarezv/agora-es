@@ -1,0 +1,130 @@
+{
+  "identifier": "BOE-A-2020-9553",
+  "title": "Ley 8/2020, de 30 de julio, de protección y ordenación del litoral",
+  "visible_title": "Ley de protección y ordenación del litoral",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "8/2020",
+  "publication_date": "2020-08-12",
+  "enactment_date": "2020-07-30",
+  "last_updated": "2023-03-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2020/07/30/8",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley establece un nuevo modelo de gestión integrada para el litoral catalán, centralizando la planificación en la Generalitat pero dando más protagonismo a los ayuntamientos. Su objetivo es proteger los ecosistemas costeros y adaptar la costa a la emergencia climática y la pérdida de playas. Introduce herramientas de planificación como el Plan de protección y ordenación del litoral y los planes de uso de las playas para regular de forma sostenible el turismo y las actividades económicas.",
+  "citizen_impact": "Los ciudadanos verán cambios en la gestión de las playas, con una mayor regulación de la capacidad de carga (número de personas) y mejoras en la accesibilidad universal. También se busca proteger el paisaje y la seguridad ante riesgos naturales y el cambio climático.",
+  "professional_impact": "Las empresas que operan en el litoral (servicios de temporada, chiringuitos, náutica) se enfrentan a un nuevo canon de explotación del 3% sobre beneficios netos. Los ayuntamientos ganan competencias para otorgar autorizaciones de actividades de temporada, mientras que los profesionales de la construcción deberán cumplir con nuevas directrices de integración paisajística y ambiental.",
+  "keywords": [
+    "litoral",
+    "costa",
+    "cambio climático",
+    "playas",
+    "gestión integrada",
+    "dominio público marítimo-terrestre",
+    "Cataluña",
+    "ordenación del territorio"
+  ],
+  "key_points": [
+    "Creación de un Plan de protección y ordenación del litoral con carácter de plan director urbanístico.",
+    "Implementación de planes municipales para el uso de playas y servicios de temporada.",
+    "Introducción de un nuevo canon de explotación del 3% sobre el beneficio neto para actividades con concesión.",
+    "Descentralización de autorizaciones: los ayuntamientos gestionan actividades de temporada previstas en sus planes.",
+    "Establecimiento de categorías de playas de 'especial protección' donde se prohíben instalaciones.",
+    "Creación del Conservatorio del Litoral de Cataluña para la recuperación de zonas degradadas.",
+    "Nuevos mecanismos de participación ciudadana a través de Consejos Rectores.",
+    "Simplificación de trámites mediante el régimen de declaración responsable para obras que no aumenten superficie o volumen."
+  ],
+  "legal_references": [
+    "Ley 22/1988, de 28 de julio, de costas",
+    "Estatuto de Autonomía de Cataluña",
+    "Ley 13/2014, de 30 de octubre, de accesibilidad",
+    "Ley 16/2017, de 1 de agosto, del cambio climático",
+    "Real decreto 3301/1981",
+    "Real decreto 1404/2007",
+    "Real decreto 1387/2008"
+  ],
+  "derogations": [
+    "Disposición adicional sexta de la Ley 3/2012, de 22 de febrero",
+    "Disposición final segunda de la Ley 3/2012, de 22 de febrero",
+    "Decreto 55/1992, de 10 de febrero"
+  ],
+  "main_obligations": "Las empresas con concesiones deben abonar un canon del 3% sobre sus beneficios netos anuales. Los ayuntamientos y la Generalidad deben elaborar y aplicar los planes de ordenación para garantizar la sostenibilidad y la adaptación climática.",
+  "effective_date": "2020-09-12",
+  "procedures": [
+    {
+      "name": "Tramitación del Plan de protección y ordenación del litoral",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración y diagnóstico",
+          "description": "Realización del diagnóstico del estado del litoral y caracterización de la costa.",
+          "start_date": "dentro de los 2 años siguientes a la entrada en vigor",
+          "end_date": null,
+          "required_documentation": "Memoria justificativa, documentación ambiental, planos de información y ordenación, estudio de impacto económico y social."
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Trámite de exposición pública para alegaciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación definitiva",
+          "description": "Aprobación mediante el procedimiento de legislación urbanística.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Otorgamiento de autorizaciones de la Generalidad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud",
+          "description": "Presentación de la solicitud ante la administración competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Descripción de la actuación, planos de emplazamiento y proyecto básico."
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Plazo máximo para notificar la resolución expresa.",
+          "start_date": null,
+          "end_date": "4 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Otorgamiento de concesiones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud",
+          "description": "Presentación de la solicitud de concesión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudio de integración paisajística y documento ambiental."
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Plazo máximo para notificar la resolución expresa.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

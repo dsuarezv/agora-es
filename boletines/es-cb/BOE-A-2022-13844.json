@@ -1,0 +1,684 @@
+{
+  "identifier": "BOE-A-2022-13844",
+  "title": "Ley 5/2022, de 15 de julio, de Ordenación del Territorio y Urbanismo de Cantabria",
+  "visible_title": "Ley de Ordenación del Territorio y Urbanismo de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "5/2022",
+  "publication_date": "2022-08-17",
+  "enactment_date": "2022-07-15",
+  "last_updated": "2025-04-04",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2022/07/15/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza el urbanismo en Cantabria para responder al cambio climático, el despoblamento rural y el envejecimiento de la población. Introduce herramientas para fomentar el desarrollo en zonas rurales, como las Áreas de Desarrollo Rural, y agiliza la gestión de grandes proyectos mediante los Proyectos Singulares de Interés Regional. Además, busca dar mayor seguridad jurídica al sector inmobiliario mediante la creación de la cédula urbanística y un nuevo registro de planeamiento. En definitiva, busca un equilibrio entre la protección del entorno natural y la necesidad de dinamizar la economía y la vivienda.",
+  "citizen_impact": "Los ciudadanos tendrán mayor seguridad al comprar una vivienda gracias a la nueva 'cédula urbanística' que detalla deudas y restricciones del suelo. Se facilita la construcción de viviendas en zonas rurales bajo criterios de autosuficiencia energética y se protegen los derechos de realojo para residentes y empresarios ante transformaciones urbanísticas. Además, se simplifican trámites de habitabilidad mediante certificados técnicos en ciertos casos.",
+  "professional_impact": "Las empresas constructoras y promotoras deben adaptarse a nuevas exigencias de eficiencia energética (mínimo 60% de autosuficiencia en zonas rurales) y a la obligación de ceder suelo o realizar pagos económicos en lugar de cesiones físicas en ciertos casos. Los ayuntamientos deben actualizar sus planes en 4 años y crear registros de edificaciones. Los proveedores de suministros (agua, luz, etc.) tienen la obligación de cortar servicios en 5 días tras una orden de suspensión de obra.",
+  "keywords": [
+    "urbanismo",
+    "Cantabria",
+    "suelo rústico",
+    "desarrollo rural",
+    "cambio climático",
+    "vivienda protegida",
+    "gestión del suelo",
+    "cédula urbanística"
+  ],
+  "key_points": [
+    "Creación de Áreas de Desarrollo Rural para permitir viviendas unifamiliares y turismo en suelo rústico no protegido.",
+    "Implementación de la cédula urbanística municipal para garantizar la transparencia en transacciones inmobiliarias.",
+    "Introducción de Proyectos Singulares de Interés Regional que pueden ejecutarse en cualquier tipo de suelo.",
+    "Nuevos estándares de eficiencia energética: las viviendas en suelo rústico deben ser casi nulas y autosuficientes al 60%.",
+    "Posibilidad de sustituir la cesión de terrenos por pagos económicos o edificabilidad en proyectos de dotación.",
+    "Derecho de realojo garantizado para residentes habituales y empresarios ante desalojos por obras públicas.",
+    "Endurecimiento de sanciones: las obras ilegales en zonas verdes o dotaciones públicas son imprescriptibles.",
+    "Creación de un canon para parques eólicos y fotovoltaicos en suelo rústico.",
+    "Mecanismo de 'sustitución forzosa' para rehabilitar o construir en solares abandonados mediante concursos.",
+    "Obligación de los municipios de más de 20.000 habitantes de mantener un registro de edificaciones y solares.",
+    "Límite a la obligación de conservación de edificios: el coste no debe superar el 50% del valor de una construcción nueva.",
+    "Nuevas reglas para zonas verdes: deben tener al menos un 50% de superficie apta para plantación."
+  ],
+  "legal_references": [
+    "Ley 2/2001, de 25 de junio, de Ordenación Territorial y Régimen Urbanístico del Suelo de Cantabria",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones públicas",
+    "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+    "Real Decreto 7/2015, de 30 de junio, por el que se aprueba el Texto Refundido de la Ley de Suelo y Rehabilitación Urbana",
+    "RD 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación y funcionamiento del sector público por medios electrónicos",
+    "Ley 5/2018, de 22 de noviembre, de Régimen Jurídico del Gobierno, de la Administración y del Sector Público Institucional de la Comunidad Autónoma de Cantabria",
+    "Orden PRE/134/2020, de 16 de noviembre",
+    "Ley de Expropiación Forzosa",
+    "Ley 2/2004, de 27 de marzo, de Ordenación del Litoral",
+    "Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local",
+    "Ley 1/2018, de 21 de marzo, de Transparencia de la Actividad Pública de Cantabria",
+    "Ley 49/1960, de 25 de julio, sobre régimen de propiedad horizontal",
+    "Ley 22/1988, de 28 de julio, de Costas",
+    "Ley 17/2006, de control ambiental integrado",
+    "Ley 21/2013, de evaluación ambiental",
+    "Ley 42/2007, del Patrimonio Natural y de la Biodiversidad",
+    "Ley 7/2013, de aprovechamiento eólico de Cantabria",
+    "Ley 27/2014, del Impuesto sobre Sociedades",
+    "Decreto 141/1991, de condiciones de habitabilidad",
+    "Decreto 225/2019, de viviendas de uso turístico",
+    "Ley 13/2003, de 23 de mayo, reguladora del contrato de concesión de obras públicas",
+    "Decreto 163/2003, de 18 de septiembre",
+    "Decreto 164/2003, de 18 de septiembre"
+  ],
+  "derogatons": [
+    "Ley 2/2001, de 25 de junio, de Ordenación Territorial y Régimen Urbanístico del Suelo de Cantabria"
+  ],
+  "main_obligations": "Los promotores deben cumplir con estándares de autosuficiencia energética y realizar las cesiones de suelo o pagos correspondientes. Los ayuntamientos tienen el plazo de 4 años para adaptar sus planes urbanísticos y 2 años para regular la emisión de cédulas urbanísticas.",
+  "effective_date": "2022-08-31",
+  "procedures": [
+    {
+      "name": "Elaboración del Plan Regional de Ordenación Territorial (PROT)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Consulta pública",
+          "description": "Consulta a través del portal institucional para recabar opinión de afectados y administraciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aprobación inicial e información pública",
+          "description": "Trámite de información pública junto con el documento ambiental estratégico.",
+          "start_date": null,
+          "end_date": "45 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Evaluación ambiental estratégica",
+          "description": "Obtención del instrumento de evaluación por el órgano ambiental.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación provisional",
+          "description": "La Comisión Regional aprueba provisionalmente el plan tras los informes sectoriales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Aprobación definitiva",
+          "description": "El Parlamento de Cantabria aprueba el plan como Proyecto de Ley.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Modificación de Plan de Ordenación Territorial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Información pública",
+          "descrption": "Plazo de exposición para alegaciones.",
+          "start_date": "20 días (si es evaluación ambiental simplificada)",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Elaboración de Normas Urbanísticas Regionales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Consulta pública",
+          "descrption": "Recogida de opinión de organizaciones y administraciones afectadas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "descrption": "Exposición del proyecto junto al documento ambiental.",
+          "start_date": "45 días",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación provisional",
+          "descrption": "Tras recibir alegaciones y evaluación ambiental.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación definitiva",
+          "descrption": "Acuerdo del Consejo de Gobierno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de Interés Regional",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta",
+          "descrption": "Presentación de la actuación justificando su interés.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudio de alternativas, viabilidad económica y aspectos ambientales/sociales"
+        },
+        {
+          "step": 2,
+          "title": "Audiencia",
+          "descrption": "Trámite de audiencia a Ayuntamientos y administraciones.",
+          "start_date": "1 mes",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "descrption": "Decisión del Gobierno. Si pasan 3 meses sin respuesta, se entiende desestimado.",
+          "start_date": "3 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aprobación de Proyecto Singular de Interés Regional",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación inicial",
+          "descrption": "Plazo máximo para alcanzar este paso desde la declaración de interés.",
+          "start_date": null,
+          "end_date": "3 años",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "descrption": "Exposición del proyecto y documento ambiental.",
+          "start_date": "45 días",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación provisional",
+          "descrption": "Tras incorporar cambios por alegaciones y evaluación ambiental.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación definitiva",
+          "descrption": "Plazo máximo desde la aprobación inicial.",
+          "start_date": null,
+          "end_date": "3 años",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Segregación de terrenos en suelo rústico con fines no agrarios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de licencia y documentación",
+          "description": "Presentación de la solicitud acompañada de la documentación exigible por el Planeamiento General.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación exigible por el Planeamiento General o Art. 252"
+        },
+        {
+          "step": 2,
+          "title": "Informe de la Comisión Regional",
+          "description": "La Comisión Regional de Ordenación del Territorio y Urbanismo debe emitir un informe vinculante.",
+          "start_date": null,
+          "end_date": "3 meses (silencio positivo si no se notifica)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Transformación de suelo urbanizable a solar",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación del Plan Parcial",
+          "description": "Es obligatorio aprobar un Plan Parcial que regule la urbanización y edificación antes de urbanizar.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Cumplimiento de deberes urbanísticos",
+          "description": "Ejecución de obras de urbanización, cesión de suelos y dotaciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Formulación de Planes Parciales de Iniciativa Particular",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Consulta previa",
+          "description": "El interesado presenta una memoria al Ayuntamiento para conocer la viabilidad y criterios urbanísticos.",
+          "start_date": "Previa a la tramitación",
+          "end_date": "3 meses (plazo de respuesta del Ayuntamiento)",
+          "required_documentation": "Memoria con características de la actuación"
+        },
+        {
+          "step": 2,
+          "title": "Aprobación inicial",
+          "description": "El Ayuntamiento aprueba el plan y lo somete a información pública.",
+          "start_date": "Tras la consulta",
+          "end_date": "1 mes (mínimo de información pública)",
+          "required_documentation": "Plan Parcial, Memoria, Estudios económicos, Plan de realojos, Garantía del 2%"
+        },
+        {
+          "step": 3,
+          "title": "Evaluación Ambiental",
+          "description": "Trámite de evaluación ambiental estratégica si procede.",
+          "start_date": "Tras información pública",
+          "end_date": "Según legislación sectorial",
+          "required_documentation": "Documento ambiental"
+        },
+        {
+          "step": 4,
+          "title": "Aprobación definitiva",
+          "description": "Resolución por la Comisión Regional o el Ayuntamiento según población.",
+          "start_date": "Tras evaluación ambiental",
+          "end_date": "2 meses (silencio administrativo en la Comisión)",
+          "required_documentation": "Expediente completo"
+        }
+      ]
+    },
+    {
+      "name": "Modificación del Planeamiento General",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración y Memoria",
+          "description": "Redacción de la modificación con memoria justificativa y estudio de efectos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria, Estudio de efectos, Identificación de propietarios (si aumenta edificabilidad)"
+        },
+        {
+          "step": 2,
+          "title": "Información Pública",
+          "description": "Exposición del proyecto para alegaciones.",
+          "start_date": "Tras aprobación inicial",
+          "end_date": "1 mes (mínimo)",
+          "required_documentation": "Resumen ejecutivo"
+        },
+        {
+          "step": 3,
+          "title": "Aprobación Definitiva",
+          "description": "Resolución de la Comisión Regional de Ordenación del Territorio y Urbanismo.",
+          "start_date": "Tras información pública",
+          "end_date": "2 meses (silencio administrativo)",
+          "required_documentation": "Expediente completo"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Justiprecio por inacción administrativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Advertencia de propósito",
+          "description": "El propietario comunica a la Administración su intención de iniciar el expediente tras 4 años de inactividad.",
+          "start_date": "Tras 4 años de inactividad",
+          "end_date": null,
+          "required_documentation": "Hoja de apreciación"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de aceptación",
+          "description": "La Administración tiene un plazo para aceptar la hoja de apreciación.",
+          "start_date": "Desde la presentación",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución por el Jurado",
+          "description": "Si no se acepta, el propietario puede acudir al Jurado Provincial de Expropiación.",
+          "start_date": "Tras 3 meses sin aceptación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Constitución de una Junta de Compensación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de propuesta",
+          "description": "Los propietarios (más de la mitad de la superficie) presentan estatutos y anteproyecto de compensación.",
+          "start_date": "Dentro de los 6 meses tras la aprobación del Plan",
+          "end_date": null,
+          "required_documentation": "Proyecto de Estatutos, certificación registral, anteproyecto de compensación"
+        },
+        {
+          "step": 2,
+          "title": "Información pública y audiencia",
+          "description": "Se somete el proyecto a información pública y audiencia de los interesados.",
+          "start_date": "Tras la presentación",
+          "end_date": "20 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución definitiva",
+          "description": "La Administración resuelve la aprobación de los estatutos.",
+          "start_date": "Tras la información pública",
+          "end_date": "3 meses (silencio administrativo positivo)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Constitución de Junta de Compensación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de aprobación de Estatutos",
+          "descrption": "Se comunica a propietarios e interesados la aprobación definitiva.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de expropiación (opcional)",
+          "descrption": "Plazo para propietarios que no desean integrarse en la Junta.",
+          "start_date": "1 mes desde la notificación",
+          "end_date": "1 mes desde la notificación",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Constitución de la Junta",
+          "descrption": "Formalización mediante escritura pública.",
+          "start_date": "3 meses tras aprobación de estatutos",
+          "end_date": null,
+          "required_documentation": "Escritura pública"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Realojo y Retorno",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Identificación de ocupantes",
+          "descrption": "La Administración identifica a los residentes y empresarios con derecho al realojo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Trámite de audiencia",
+          "descrption": "Notificación a los afectados para que soliciten el reconocimiento del derecho.",
+          "start_date": "Coincide con el plazo de información pública",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación de listado",
+          "descrption": "Resolución definitiva de las personas con derecho al realojo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Puesta a disposición de vivienda",
+          "descrption": "Entrega de la vivienda de sustitución antes del desalojo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Ejercicio de Tanteo y Retracto",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de transmisión",
+          "descrption": "El propietario debe informar al Ayuntamiento de su intención de vender.",
+          "start_date": null,
+          "end_date": "60 días desde la decisión de venta",
+          "required_documentation": "Precio, forma de pago y condiciones esenciales"
+        },
+        {
+          "step": 2,
+          "title": "Respuesta de la Administración",
+          "descrption": "Plazo para que el Ayuntamiento decida si ejerce el tanteo.",
+          "start_date": null,
+          "end_date": "60 días naturales",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Venta en subasta de inmuebles incumplidores",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inclusión en el Registro",
+          "description": "El inmueble se incluye en el Registro municipal de edificaciones y solares.",
+          "start_date": "Desde la declaración de incumplimiento",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Convocatoria de subasta",
+          "description": "El Ayuntamiento convoca la subasta en el BOC y un diario regional.",
+          "start_date": "Plazo máximo de 1 año desde la inclusión en el registro",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Segunda convocatoria",
+          "description": "Si la primera subasta es desierta, se convoca de nuevo.",
+          "start_date": "Plazo de 6 meses tras la primera subasta",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Enajenación directa",
+          "description": "Si la segunda subasta es desierta, se vende directamente al precio de la última licitación.",
+          "start_date": "Tras la segunda subasta desierta",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Sustitución Forzosa de Propietario",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de concurso",
+          "description": "Se selecciona un sustituto mediante concurso público para asumir la responsabilidad del propietario.",
+          "start_date": "Plazo máximo de 1 año desde la inclusión en el registro",
+          "end_date": null,
+          "required_documentation": "Anteproyecto de edificación/rehabilitación y memoria de viabilidad económica"
+        },
+        {
+          "step": 2,
+          "title": "Adquisición de disponibilidad",
+          "description": "El adjudicatario debe solicitar licencia en un plazo determinado.",
+          "start_date": "Desde la adquisición de disponibilidad del terreno",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ejecución de obras",
+          "description": "El sustituto debe ejecutar las obras en el plazo establecido en la licencia.",
+          "start_date": "Desde la toma de posesión",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de Ruina",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "El Ayuntamiento inicia el trámite de oficio o a instancia de parte.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Se declara la ruina y se acuerda la demolición o rehabilitación.",
+          "start_date": null,
+          "end_date": "Plazo máximo de 1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Restablecimiento de la legalidad urbanística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comprobación e inicio",
+          "description": "La Alcaldía inicia el procedimiento tras detectar obras sin licencia o fuera de condiciones.",
+          "start_date": "Desde la detección de la infracción",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de regularización (si es compatible)",
+          "description": "El interesado tiene un plazo para solicitar la licencia o declaración responsable.",
+          "start_date": "2 meses",
+          "end_date": "2 meses",
+          "required_documentation": "Licencia o declaración responsable"
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Se acuerda la demolición, reconstrucción o el cese de uso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador urbanístico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación",
+          "description": "Apertura del expediente por la Alcaldía o entidad competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Plazo máximo para dictar resolución de la sanción.",
+          "start_date": "Desde la incoación",
+          "end_date": "1 año (prorrogable 3 meses)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Liquidación del Canon de Energías Renovables",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Autoliquidación",
+          "description": "Presentación de la autoliquidación ante la Agencia Cántabra de Administración Tributaria.",
+          "start_date": "Primer trimestre de cada año natural",
+          "end_date": null,
+          "required_documentation": "Modelo de autoliquidación"
+        }
+      ]
+    },
+    {
+      "name": "Adaptación del Planeamiento Municipal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del trámite",
+          "description": "Los Ayuntamientos deben iniciar la adaptación de sus planes.",
+          "start_date": "Año siguiente a la aprobación de la ley",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de adaptación",
+          "description": "Periodo máximo para que los municipios ajusten sus instrumentos de planeamiento.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "4 años",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Subrogación por la Comunidad Autónoma",
+          "description": "Si tras 5 años no se ha adaptado, la Consejería puede requerir el inicio y, si no se cumple, asumir la competencia.",
+          "start_date": "5 años tras la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Obtención de Cédula Urbanística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de información",
+          "description": "El interesado solicita la cédula que detalle la situación jurídica y urbanística del suelo/edificio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 9
+}

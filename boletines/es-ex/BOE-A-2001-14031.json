@@ -1,0 +1,104 @@
+{
+  "identifier": "BOE-A-2001-14031",
+  "title": "Ley 6/2001, de 24 de mayo, del Estatuto de los Consumiendores de Extremadura",
+  "visible_title": "Estatuto de los Consumidores de Extremadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "6/2001",
+  "publication_date": "2001-07-20",
+  "enactment_date": "2001-05-24",
+  "last_updated": "2019-02-26",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2001/05/24/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece un escudo de protección para los consumidores residentes en Extremadura, combatiendo abusos contractuales y prácticas engañosas. Su objetivo es equilibrar la relación entre ciudadanos y grandes proveedores de servicios o entidades financieras. Refuerza la transparencia en contratos de suministros y de hipotecas, además de garantizar una atención preferente para colectivos vulnerables. Finalmente, establece un régimen de sanciones severo para las empresas que incumplan estas garantías de protección.",
+  "citizen_impact": "El ciudadano gana herramientas para evitar cortes de suministros injustificados y facilita la baja de servicios (luz, agua, internet) con la misma rapidez con la que se contratan. Además, asegura que si su hipoteca es vendida a un fondo, sea informado rápidamente, y garantiza atención presencial en gasolineras y oficinas de servicios comunes en puntos clave de la región.",
+  "professional_impact": "Las empresas de suministros y servicios deben garantizar la gestión de bajas en 24 horas y respetar los plazos de aviso antes de cualquier corte. Las entidades financieras tienen la carga de informar sobre la cesión de deudas hipotecarias. Las gasolineras deben mantener personal de atención presencial en horarios específicos, y las empresas que cometan infracciones graves se enfrentan a cierres de hasta 5 años y la pérdida de ayudas públicas.",
+  "keywords": [
+    "consumidores",
+    "Extremadura",
+    "protección al consumidor",
+    "cláusulas abusivas",
+    "suministros",
+    "hipotecas",
+    "derechos del consumidor"
+  ],
+  "key_points": [
+    "Derecho a la baja de servicios (luz, agua, telecomunicaciones) con la misma facilidad que el alta; si no se gestiona en 24h, no se factura.",
+    "Prohibición de interrumpir suministros si hay una reclamación pendiente o si no se han pagado al menos tres recibos tras un aviso previo de 20 días.",
+    "Obligación de informar por escrito al consumidor sobre la cesión de su hipoteca a un fondo de titulización en un plazo de 5 días hábiles.",
+    "Protección especial y prioridad de atención para menores, mayores, personas con discapacidad, víctimas de violencia de género y personas en riesgo de exclusión.",
+    "Obligación de ofrecer atención presencial en Badajoz, Cáceres, Mérida y Plasencia para servicios de uso común.",
+    "Las gasolineras deben disponer de personal de atención presencial entre las 07:00 y las 22:00 horas.",
+    "Las empresas pueden ser clausuradas hasta 5 años por infracciones muy graves.",
+    "Las sanciones graves o muy graves pueden publicarse en el DOE y medios de comunicación a costa del infractor.",
+    "Las infracciones muy graves pueden conllevar la pérdida de ayudas públicas y la inhabilitación para contratar con la Junta de Extremadura por 5 años.",
+    "Derecho a la dación en pago en contratos hipotecarios y protección contra cláusulas abusivas."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 51)",
+    "Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores",
+    "Estatuto de Auto autonomía de Extremadura",
+    "Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas",
+    "Ley 19/1992, de 19 de julio, de Sociedades y Fondos de Inversión Inmobiliaria y de Fondos de Titulización Hipotecaria",
+    "Ley 2/1981, de regulación del Mercado Hipotecario",
+    "Real Decreto Legislativo 1/2007, de 23 de enero, por el que se aprueba el Texto Refundido de la Ley General para la Defensa de los Consumidores y Usuarios",
+    "Ley 36/1988, de Arbitraje",
+    "Real Decreto 636/1993, por el que se regula el Sistema Arbitral de Consumo",
+    "Ley 34/1998, de 7 de octubre, del Sector de Hidrocarburos"
+  ],
+  "derogations": [
+    "Ley 6/2019, de 20 de febrero"
+  ],
+  "main_obligations": "Las empresas deben entregar facturas, presupuestos previos, garantías por escrito y hojas de reclamaciones. Los servicios de suministro deben garantizar la baja en 24h y las gasolineras deben ofrecer atención presencial de 07:00 a 22:00.",
+  "effective_date": "2001-07-20",
+  "procedures": [
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Prescripción de la infracción",
+          "description": "Plazo para que la administración pueda iniciar el expediente según la gravedad.",
+          "start_date": "Desde el día de la comisión de la infracción",
+          "end_date": "3 años (muy graves), 2 años (graves) o 6 meses (leves)",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Caducidad de la acción",
+          "description": "Si la administración no inicia el procedimiento tras conocer la infracción o si el expediente se paraliza.",
+          "start_date": "6 meses tras finalizar diligencias de investigación",
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Impulso del procedimiento",
+          "description": "Plazo máximo entre trámites para evitar la caducidad del expediente.",
+          "start_date": "Desde la notificación de cada trámite",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Comunicación de cesión de deuda (Entidades Financieras)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación al deudor",
+          "description": "Obligación de informar sobre la transmisión o titulización de la deuda.",
+          "start_date": "Desde la publicación de la ley",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

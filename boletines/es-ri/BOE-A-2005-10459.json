@@ -1,0 +1,104 @@
+{
+  "identifier": "BOE-A-2005-10459",
+  "title": "Ley 5/2005, de 1 de junio, de los sistemas de protección de la calidad agroalimentaria",
+  "visible_title": "Ley de sistemas de protección de la calidad agroalimentaria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "5/2005",
+  "publication_date": "2005-06-21",
+  "enactment_date": "2005-06-01",
+  "last_updated": "2014-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2005/06/01/5",
+  "official_journal": "Boletín Oficial de La Rioja",
+  "journal_issue": null,
+  "summary": "Esta ley organiza y regula cómo se protegen y certifican los productos agroalimentarios de calidad en La Rioja (como las D.O.P., I.G.P. o agricultura ecológica). Establece un modelo de gestión que permite tanto a entidades públicas como privadas dirigir estas figuras de calidad. Además, crea un sistema de doble control (autocontrol del productor y control externo independiente) para garantizar al consumidor que lo que compra cumple con lo prometido.",
+  "citizen_impact": "Garantiza al consumidor que los productos con sellos de calidad en La Rioja (como el vino o productos ecológicos) son auténticos y cumplen con estándares estrictos de origen y elaboración. Aporta mayor seguridad alimentaria y confianza en el etiquetado de los productos que se consumen.",
+  "professional_impact": "Los productores y empresas agroalimentarias deben implementar sistemas de autocontrol y someterse a inspecciones externas. Los órganos de gestión (como Consejos Reguladores) pueden ser ahora entidades privadas con personalidad jurídica, pero bajo la supervisión de la Administración. Se introducen sanciones económicas severas por fraude o incumplimiento de normativas de calidad.",
+  "keywords": [
+    "calidad agroalimentaria",
+    "La Rioja",
+    "DOP",
+    "IGP",
+    "agricultura ecológica",
+    "control de calidad",
+    "certificación",
+    "marcas de garantía"
+  ],
+  "key_points": [
+    "Permite que los órganos de gestión de las figuras de calidad sean entidades privadas con personalidad jurídica propia.",
+    "Establece la obligatoriedad de un doble control: autocontrol por parte del operador y control externo por una entidad independiente.",
+    "Crea el Consejo Riojano de Calidad Agroalimentaria como órgano de consulta para la Administración.",
+    "Define un régimen sancionador con multas que pueden llegar hasta los 500.000 euros en infracciones muy graves.",
+    "Obliga a las entidades de control y certificación a estar inscritas en un registro oficial y cumplir normas ISO específicas.",
+    "Faculta a la Administración para realizar inspecciones sorpresa en fincas e instalaciones de los productores."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de La Rioja",
+    "Reglamento (CE) 2.081/92",
+    "Reglamento (CE) 2.082/92",
+    "Reglamento (CE) 2.092/91",
+    "Ley 17/2001 de Marcas",
+    "Ley 24/2003 de la Viña y el Vino",
+    "Ley 3/1995 de Régimen Jurídico del Gobierno y la Administración Pública de La Rioja"
+  ],
+  "derogations": [],
+  "main_obligations": "Los operadores deben permitir el acceso de inspectores, facilitar la toma de muestras y mantener sistemas de autocontrol. El uso indebido de etiquetas o la falsificación de datos de producción conlleva sanciones económicas de hasta 500.000 euros y posibles suspensiones de derechos de uso de la marca.",
+  "effective_date": "2005-06-22",
+  "procedures": [
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del expediente",
+          "description": "Se inicia mediante acta de inspección, comunicación de autoridad o denuncia de particulares.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Actas de control o informes técnicos"
+        },
+        {
+          "step": 2,
+          "title": "Instrucción",
+          "description": "La Consejería competente se encarga de la instrucción y tramitación del expediente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "El órgano competente dicta la resolución final con la sanción o el archivo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Control y Certificación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inscripción en el Registro",
+          "description": "Las entidades de control deben inscribirse mediante declaración responsable acreditando cumplimiento de normas ISO.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación acreditativa de cumplimiento de Norma UNE EN ISO 17020 o UNE-EN 45.011"
+        },
+        {
+          "step": 2,
+          "title": "Ejecución del control",
+          "description": "Realización de inspecciones, toma de muestras y verificación de procesos de producción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

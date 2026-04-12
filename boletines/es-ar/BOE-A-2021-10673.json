@@ -1,0 +1,113 @@
+{
+  "identifier": "BOE-A-2021-10673",
+  "title": "Ley 3/2021, de 20 de mayo, por la que se regula la Prestación Aragonesa Complementaria del Ingreso Mínimo Vital y el Servicio Público Aragonés de Inclusión Social",
+  "visible_title": "Ley de la Prestación Aragonesa Complementaria del Ingreso Mínimo Vital y el Servicio Público Aragonés de Inclusión Social",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "3/2021",
+  "publication_date": "2021-06-26",
+  "enactment_date": "2021-05-20",
+  "last_updated": "2022-07-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2021/05/20/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea una ayuda económica en Aragón para cubrir los huecos que deja el Ingreso Mínimo Vital (IMV) estatal, asegurando que nadie se quede sin ingresos básicos por no cumplir requisitos específicos del Estado. Además, establece un nuevo Servicio Público de Inclusión Social para acompañar a las personas vulnerables en su reinserción laboral y social. El objetivo es coordinar las ayudas autonómicas con las estatales para evitar duplicidades y garantizar una red de protección más eficaz contra la pobreza.",
+  "citizen_impact": "Las personas en situación de vulnerabilidad en Aragón que no puedan acceder al IMV estatal (como jóvenes emancipados o víctimas de violencia de género) pueden solicitar esta prestación complementaria. También se introduce un complemento específico para gastos de vivienda y ayudas de urgencia para quienes estén esperando la resolución del IMV.",
+  "professional_impact": "Los trabajadores de los Servicios Sociales deberán gestionar este nuevo procedimiento y coordinarse con la Seguridad Social. Se crean nuevas estructuras de gestión, como la Comisión de Seguimiento y la Comisión de Reclamaciones, y se exige a ayuntamientos y comarcas la emisión de certificados específicos para el IMV.",
+  "keywords": [
+    "Ingreso Mínimo Vital",
+    "Prestación Aragonesa Complementaria",
+    "Inclusión Social",
+    "Ayudas económicas",
+    "Vulnerabilidad",
+    "Aragón",
+    "Servicios Sociales"
+  ],
+  "key_points": [
+    "Creación de la Prestación Aragonesa Complementaria para quienes no cumplen requisitos del IMV estatal.",
+    "Establecimiento de una cuantía de 522 euros mensuales para beneficiarios individuales.",
+    "Introducción de un complemento por gastos de vivienda (máximo 5% de la renta garantizada del IMV).",
+    "Creación del Servicio Público Aragonés de Inclusión Social para apoyo personalizado.",
+    "Derecho a ayudas de urgencia para quienes solicitan el IMV y están en situación de carencia.",
+    "Creación de una Comisión de Reclamaciones específica para sustituir el recurso de alzada.",
+    "Garantía de compatibilidad entre el antiguo Ingreso Aragonés de Inserción y el IMV en casos específicos.",
+    "Obligación de tramitación telemática de la prestación en un plazo de dos meses desde la entrada en vigor."
+  ],
+  "legal_references": [
+    "Real Decreto-ley 20/2020",
+    "Ley 1/1993 de Medidas Básicas de Inserción y Normalización Social",
+    "Ley 39/2015 del Procedimiento Administrativo Común",
+    "Ley 4/2007 de Prevención y Protección Integral a las Mujeres Víctimas de Violencia en Aragón",
+    "Ley 5/2009 de Servicios Sociales de Aragón",
+    "Ley 10/2016 de medidas de emergencia en servicios sociales y vivienda",
+    "Decreto-ley 5/2020 de la Comunidad Autónoma de Aragón"
+  ],
+  "derogations": [
+    "Ley 1/1993 de Medidas Básicas de Inserción y Normalización Social",
+    "Decreto 57/1994 de la Diputación General de Aragón",
+    "Decreto 17/1994 de la Diputación General de Aragón",
+    "Decreto 125/2009 de la Diputación General de Aragón",
+    "Disposición adicional novena del Texto Refundido de la Ley de la Administración de la Comunidad Autónoma de Aragón",
+    "Decreto 117/1997 de la Comunidad Autónoma de Aragón",
+    "Artículos 9, 11 y 12 de la Ley 10/2016",
+    "Decreto-ley 5/2020 de la Comunidad Autónoma de Aragón"
+  ],
+  "main_obligations": "Los solicitantes deben haber pedido previamente todas las pensiones y prestaciones públicas a las que tengan derecho. Los ayuntamientos de más de 20.000 habitantes y las comarcas están obligados a emitir los certificados necesarios para el IMV.",
+  "effective_date": "2021-05-20",
+  "procedures": [
+    {
+      "name": "Reconocimiento de la Prestación Aragonesa Complementaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El interesado presenta la solicitud en su centro de servicios sociales correspondiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación acreditativa de la situación de vulnerabilidad y residencia en Aragón."
+        },
+        {
+          "step": 2,
+          "title": "Instrucción del expediente",
+          "description": "Los servicios sociales municipales remiten la solicitud al Instituto Aragonés de Servicios Sociales en un plazo de 5 días.",
+          "start_date": "5 días tras la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "La dirección provincial del Instituto Aragonés de Servicios Sociales dicta resolución concediendo o denegando la ayuda.",
+          "start_date": null,
+          "end_date": "30 días tras la solicitud completa",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Reclamación (si procede)",
+          "description": "En caso de denegación, el interesado puede presentar una reclamación ante la Comisión de Reclamaciones.",
+          "start_date": "1 mes tras la resolución expresa",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Ayuda de urgencia para solicitantes del IMV",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de ayuda de urgencia",
+          "description": "Personas que han solicitado el IMV y carecen de ingresos pueden pedir esta ayuda para subsistencia.",
+          "start_date": "Máximo 10 días tras presentar la solicitud del IMV",
+          "end_date": null,
+          "required_documentation": "Acreditación de carencia de ingresos para el año en curso."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

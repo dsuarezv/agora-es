@@ -1,0 +1,92 @@
+{
+  "identifier": "BOE-A-2020-9942",
+  "title": "Decreto-ley 11/2020, de 10 de julio, por el que se establece un régimen sancionador específico para afrontar los incumplimientos de las disposiciones dictadas para paliar los efectos de la crisis ocasionada por la COVID-19",
+  "visible_title": "Régimen sancionador por incumplimiento de medidas contra la COVID-19 en las Illes Balears",
+  "rank": "real_decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "11/2020",
+  "publication_date": "2020-08-24",
+  "enactment_date": "2020-07-10",
+  "last_updated": "2022-06-09",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/dl/2020/07/10/11",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta norma crea un sistema de sanciones rápido y centralizado en las Islas Baleares para castigar a quienes incumplan las restricciones sanitarias por la COVID-19. Su objetivo es evitar que la gestión de multas se dilate y asegurar que las sanciones tengan un efecto disuasorio real. Centraliza la potestad sancionadora en la Consejería de Administraciones Públicas para dar agilidad a los procedimientos.",
+  "citizen_impact": "Los ciudadanos pueden enfrentarse a multas económicas significativas por no usar mascarilla, asistir a reuniones prohibidas o incumplir cuarentenas. Las sanciones varían desde 100 euros por mascarilla hasta miles de euros por participar en fiestas o aglomeraciones.",
+  "professional_impact": "Empresas y autónomos (especialmente hostelería y ocio) asumen una responsabilidad directa por las infracciones de sus empleados. Además, el incumplimiento de aforos o cierres puede derivar en multas de hasta 600.000 euros y el cierre inmediato del local.",
+  "keywords": [
+    "COVID-19",
+    "sanciones",
+    "multas",
+    "salud pública",
+    "Illes Balears",
+    "infracciones",
+    "confinamiento",
+    "aforo"
+  ],
+  "key_points": [
+    "Centralización de sanciones en la Consejería de Administraciones Públicas de Baleares.",
+    "Multas por no usar mascarilla limitadas a un máximo de 100 euros.",
+    "Multas por fiestas o reuniones prohibidas con mínimos de 1.000 a 5.000 euros según la gravedad.",
+    "Posibilidad de cierre de locales y prohibición de actividad hasta por tres años.",
+    "Los inspectores pueden actuar bajo identidad encubierta para detectar infracciones.",
+    "Los propietarios de viviendas turísticas son responsables si no identifican a los ocupantes en caso de fiestas.",
+    "Los padres o tutores son responsables solidarios de las infracciones cometidas por menores.",
+    "Se permite la adopción de medidas provisionales (como cierres) de forma inmediata por la policía en casos de riesgo grave."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020",
+    "Real Decreto-ley 21/2020",
+    "Ley 33/2011 General de Salud Pública",
+    "Ley 39/2015 de Procedimiento Administrativo Común",
+    "Ley 40/2015 de Régimen Jurídico del Sector Público",
+    "Decreto-ley 1/2020 contra el turismo de excesos",
+    "Constitución Española"
+  ],
+  "derogations": [],
+  "main_obligations": "Obligación de cumplir con los límites de aforo, el uso de mascarillas y las cuarentenas. Las multas por infracciones muy graves alcanzan los 600.000 euros, mientras que las leves parten de los 100 euros.",
+  "effective_date": "2020-07-10",
+  "procedures": [
+    {
+      "name": "Procedimiento Sancionador por COVID-19",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Detección y Acta",
+          "description": "La policía o inspectores detectan la infracción y extienden un acta o denuncia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de inspección o denuncia policial"
+        },
+        {
+          "step": 2,
+          "title": "Medidas Provisionales (si procede)",
+          "description": "Adopción inmediata de cierres o suspensiones en caso de riesgo grave.",
+          "start_date": null,
+          "end_date": "15 días para su ratificación",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Instrucción",
+          "description": "La Dirección General de Emergencias e Interior tramita el expediente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "La Consejera de Administraciones Públicas dicta la resolución final con la sanción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

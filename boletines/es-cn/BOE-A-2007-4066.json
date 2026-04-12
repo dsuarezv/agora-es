@@ -1,0 +1,80 @@
+{
+  "identifier": "BOE-A-2007-4066",
+  "title": "Ley 1/2007, de 17 de enero, por la que se regula la prestación canaria de inserción",
+  "visible_title": "Prestación Canaria de Inserción",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "1/2007",
+  "publication_date": "2007-02-27",
+  "enactment_date": "2007-01-17",
+  "last_updated": "2022-12-29",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2007/01/17/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece un sistema de apoyo económico y social para personas en situación de exclusión en Canarias. No se limita a entregar una ayuda financiera, sino que obliga a los beneficiarios a participar en programas de inserción laboral y social para fomentar su autonomía. El modelo combina una cuantía básica con complementos por menores y por actividad realizada. Su objetivo final es que la ayuda sirva como un puente hacia la integración real en la sociedad y el mercado de trabajo.",
+  "citizen_impact": "Permite a personas con escasos recursos en Canarias acceder a una ayuda económica mensual para cubrir necesidades vitales. Los beneficiarios deben cumplir con la obligación de participar en actividades de inserción y comunicar cualquier cambio en su situación familiar en un plazo de un mes para no perder el derecho a la prestación. Además, permite solicitar el Ingreso Mínimo Vital (IMV) de forma simultánea para evitar periodos de carencia.",
+  "professional_impact": "Obliga a la administración canaria a gestionar un sistema dual de asistencia económica y acompañamiento social. Los funcionarios deben supervisar el cumplimiento de las actividades de inserción y gestionar la subrogación de la ayuda en caso de fallecimiento del titular. También requiere la coordinación con otros sistemas de protección social para evitar duplicidades o carencias.",
+  "keywords": [
+    "prestación canaria de inserción",
+    "ayuda económica",
+    "exclusión social",
+    "inserción laboral",
+    "Canarias",
+    "ayudas sociales"
+  ],
+  "key_points": [
+    "La ayuda económica incluye una cuantía básica, un complemento de 80€ por menor y un extra variable por participar en actividades.",
+    "La prestación tiene una duración inicial de 12 meses, renovable cada 6 meses.",
+    "Las familias con menores a cargo y sin rentas (o por debajo del IPREM) pueden recibir la ayuda sin límite de tiempo.",
+    "En caso de fallecimiento del titular, la ayuda puede transferirse (subrogarse) a otro miembro de la familia.",
+    "Es posible solicitar el Ingreso Mínimo Vital (IMV) al mismo tiempo para asegurar la cobertura económica.",
+    "El incumplimiento de las actividades de inserción o no informar de cambios en la convivencia puede provocar la pérdida de la ayuda.",
+    "Es obligatorio inscribirse como demandante de empleo si se tiene edad legal para trabajar.",
+    "Se debe garantizar la escolarización de los menores que forman parte de la unidad de convivencia."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Canarias",
+    "Decreto 133/1992",
+    "Decreto 13/1998",
+    "Ley 14/1990 de Régimen Jurídico de las Administraciones Públicas de Canarias",
+    "Real Decreto-ley 3/2004",
+    "Código Civil (artículo 142)",
+    "Ley 30/1992 de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley 11/2007 de acceso electrónico de los ciudadanos a los servicios públicos"
+  ],
+  "derogatons": [
+    "Decreto 133/1992",
+    "Decreto 13/1998",
+    "Ley 5/2022"
+  ],
+  "main_obligations": "Los beneficiarios deben participar obligatoriamente en actividades de inserción, inscribirse como demandantes de empleo y garantizar la escolarización de los menores. Asimismo, deben comunicar cualquier cambio en la composición de su unidad de convivencia en un plazo máximo de un mes.",
+  "effective_date": "2007-02-27",
+  "procedures": [
+    {
+      "name": "Gestión de la Prestación Canaria de Inserción",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Concesión inicial",
+          "description": "Otorgamiento de la prestación por un periodo de 12 meses.",
+          "start_date": null,
+          "end_date": "12 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Renovación",
+          "description": "Proceso de renovación de la ayuda tras el primer periodo.",
+          "start_date": "Cada 6 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

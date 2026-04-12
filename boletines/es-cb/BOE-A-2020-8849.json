@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-2020-8849",
+  "title": "Ley 2/2020, de 28 de mayo, de concesión de ayudas económicas para mejorar las rentas de personas trabajadoras afectadas por expedientes de regulación temporal de empleo en el contexto de la crisis ocasionada por la pandemia de COVID-19",
+  "visible_title": "Ayudas económicas para trabajadores afectados por ERTE en Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "2/2020",
+  "publication_date": "2020-07-31",
+  "enactment_date": "2020-05-28",
+  "last_updated": "2023-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2020/05/28/2",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "journal_issue": null,
+  "summary": "Esta ley establece una ayuda económica directa de 200 euros para trabajadores con rentas bajas en Cantabria que hayan sufrido una reducción de ingresos debido a un ERTE durante la crisis del COVID-19. La medida busca compensar la pérdida de ingresos de los colectivos más vulnerables sin necesidad de que el ciudadano inicie el trámite. Se implementa mediante un procedimiento de concesión directa impulsado de oficio por la Administración.",
+  "citizen_impact": "Los trabajadores con rentas bajas que hayan estado en ERTE entre marzo y mayo de 2020 reciben 200 euros sin tener que presentar solicitudes ni documentos. No se requiere estar al corriente de pagos con Hacienda o Seguridad Social para recibir el dinero.",
+  "professional_impact": "El Servicio Cántabro de Empleo y la Agencia Cántabra de Administración Tributaria asumen la carga de gestionar y preparar los expedientes de oficio. Las empresas deben colaborar suministrando la información necesaria para verificar que los trabajadores cumplen los requisitos.",
+  "keywords": [
+    "ERTE",
+    "ayudas económicas",
+    "Cantabria",
+    "COVID-19",
+    "rentas bajas",
+    "subvenciones"
+  ],
+  "key_points": [
+    "Ayuda directa de 200 euros por persona.",
+    "Concesión de oficio: el ciudadano no tiene que solicitarla.",
+    "Destinado a trabajadores con base reguladora de la prestación inferior a 2.500 euros.",
+    "El ERTE debe haber comenzado entre el 9 de marzo y el 9 de mayo de 2020.",
+    "La prestación debe tener una duración mínima de 30 días naturales.",
+    "Exención de estar al corriente de obligaciones tributarias o con la Seguridad Social.",
+    "Compatibilidad con otras ayudas o ingresos públicos."
+  ],
+  "legal_references": [
+    "Real Decreto-Ley 8/2020",
+    "Ley 38/2003 (Ley General de Subvenciones)",
+    "Ley 10/2006 de Cantabria (Ley de Subvenciones)",
+    "Real Decreto 463/2020",
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Ley 39/2015"
+  ],
+  "derogations": [],
+  "main_obligations": "Los beneficiarios deben comunicar cualquier cambio en su situación que afecte a la ayuda o si reciben complementos de su empresa. Deben reintegrar el dinero si se demuestra que no cumplían los requisitos o si se declara la nulidad del ERTE.",
+  "effective_date": "2020-07-31",
+  "procedures": [
+    {
+      "name": "Concesión de ayudas económicas por ERTE",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Identificación de beneficiarios",
+          "description": "El Servicio Cántabro de Empleo obtiene los datos de los trabajadores que cumplen los requisitos mediante el Sistema de Información de los Servicios Públicos de Empleo.",
+          "start_date": "2020-07-31",
+          "end_date": null,
+          "required_documentation": "Datos del Sistema de Información de los Servicios Públicos de Empleo"
+        },
+        {
+          "step": 2,
+          "title": "Preparación de expedientes",
+          "description": "La Agencia Cántabra de Administración Tributaria prepara los expedientes de cada beneficiario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Propuesta de resolución",
+          "description": "El Servicio Cántabro de Empleo eleva la propuesta de concesión a la Consejera de Empleo y Políticas Sociales.",
+          "start_date": null,
+          "end_date": "2 meses tras la entrada en vigor",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución y Publicación",
+          "description": "Se dicta la resolución y se publica en el Boletín Oficial de Cantabria, sustituyendo a la notificación individual.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Pago de la ayuda",
+          "description": "Se tramita el pago mediante transferencia bancaria a la cuenta del titular.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Cuenta corriente del beneficiario"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

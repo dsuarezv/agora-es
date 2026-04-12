@@ -1,0 +1,246 @@
+{
+  "identifier": "BOE-A-2025-17154",
+  "title": "Orden TED/934/2025, de 1 de agosto, por la que se desarrolla el régimen jurídico de las entidades colaboradoras de la Administración hidráulica en materia de seguridad de presas y embalses",
+  "visible_title": "Régimen jurídico de las entidades colaboradoras en seguridad de presas y embalses",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio para la Transición Ecológica y el Reto Demográfico",
+  "official_number": "TED/934/2025",
+  "publication_date": "2025-08-26",
+  "enactment_date": "2025-08-01",
+  "last_updated": "2025-08-26",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2025/08/01/ted934",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "205",
+  "summary": "Esta norma establece un nuevo marco de control para garantizar la seguridad de las presas y embalses en España, permitiendo que empresas especializadas actúen como entidades colaboradoras de la Administración. Para elevar los estándares de seguridad, se imponen requisitos técnicos muy estrictos, como la obligatoriedad de que los inspectores tengan entre 15 y 20 años de experiencia profesional. Además, regula cómo deben realizarse las revisiones, los informes de comportamiento y los procesos de puesta fuera de servicio de infraestructuras. El objetivo final es profesionalizar la supervisión y asegurar que la gestión de estos recursos hídricos sea técnica y financieramente sólida.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en la mejora indirecta de la seguridad civil y la prevención de riesgos por rotura de presas.",
+  "professional_impact": "Afecta directamente a empresas de ingeniería (públicas o privadas) que quieran colaborar con la Administración, obligándolas a cumplir con acreditaciones ISO, seguros de responsabilidad civil de 600.000€ y una independencia total respecto a los dueños de las presas. También impone a los titulares de presas la carga de contratar personal técnico con una experiencia muy alta (15-20 años) para validar la seguridad de sus instalaciones.",
+  "keywords": [
+    "seguridad de presas",
+    "entidades colaboradoras",
+    "administración hidráulica",
+    "inspección de embalses",
+    "ingeniería hidráulica",
+    "gestión de riesgos"
+  ],
+  "key_points": [
+    "Creación de entidades colaboradoras (públicas o privadas) para realizar tareas de control e inspección bajo supervisión estatal.",
+    "Exigencia de acreditación ISO/IEC 17020 y seguro de responsabilidad civil profesional de al menos 600.000 euros para las entidades.",
+    "Obligatoriedad de que los técnicos que revisen proyectos tengan 20 años de experiencia, y 15 años para informes de comportamiento o puesta fuera de servicio.",
+    "El título de entidad colaboradora debe renovarse obligatoriamente cada cinco años.",
+    "Implementación de protocolos de ciberseguridad obligatorios en los sistemas de comunicación y aviso a la población.",
+    "Los informes de comportamiento deben seguir frecuencias según la categoría de la presa (A: anual, B: cada 2 años, C: cada 5 años).",
+    "Obligación de incluir el análisis de los efectos del cambio climático en la clasificación y planes de emergencia.",
+    "Las presas de categoría A o B deben registrar niveles de embalse y aportaciones de forma diaria.",
+    "Exigencia de un control técnico final 'in situ' para garantizar la seguridad en procesos de puesta fuera de servicio.",
+    "Las entidades deben presentar una declaración responsable cada dos años para confirmar que mantienen sus requisitos.",
+    "Prohibición de que las entidades colaboradoras tengan relaciones de dependencia técnica o financiera con los titulares de las presas que inspeccionen.",
+    "Obligación de conservar toda la documentación de las actividades realizadas durante un mínimo de cinco años."
+  ],
+  "legal_references": [
+    "Ley 11/2005, de 22 de junio",
+    "Ley 10/2001, de 5 de julio (Plan Hidrológico Nacional)",
+    "Texto Refundido de la Ley de Aguas (Real Decreto Legislativo 1/2001)",
+    "Real Decreto 9/2008, de 11 de enero (Reglamento del Dominio Público Hidráulico)",
+    "Real Decreto 264/2021, de 13 de abril",
+    "Ley 50/1997, de 27 de noviembre",
+    "Ley 39/2015, de 15 de octubre",
+    "Real Decreto 239/2013, de 5 de abril",
+    "Norma UNE-EN ISO/IEC 17020",
+    "Ley 9/2017, de 8 de noviembre",
+    "Ley Orgánica 3/2007, de 27 de marzo",
+    "Ley 40/2015, de 1 de octubre",
+    "Reglamento (UE) 2016/679",
+    "Ley Orgánica 3/2018, de 5 de diciembre",
+    "Norma ISO 9001",
+    "Real Decreto 849/1986 (Reglamento del Dominio Público Hidráulico)",
+    "Real Decreto 1098/2001 (Reglamento General de la Ley de Contratos de las Administraciones Públicas)",
+    "Real Decreto 105/2008 (Residuos de construcción y demolición)",
+    "Real Decreto 665/2023"
+  ],
+  "derogations": [],
+  "main_obligations": "Las entidades colaboradoras deben mantener un seguro de RC > 600.000€, presentar una declaración responsable cada 2 años y renovar su título cada 5 años. Los titulares de presas deben asegurar que sus técnicos cumplen con los años de experiencia exigidos y mantienen un Archivo Técnico actualizado.",
+  "effective_date": "2025-09-15",
+  "procedures": [
+    {
+      "name": "Obtención del título de entidad colaboradora",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Envío electrónico de la solicitud con documentación (escritura, acreditación, póliza de seguro, solvencia y plan de igualdad) a través de la sede electrónica del MITERD.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura de constitución, acreditación ISO/IEC 17020, póliza de seguro de RC, documentos de solvencia y acreditación de personal técnico."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y resolución",
+          "description": "La Dirección General del Agua debe dictar y notificar la resolución en un plazo máximo de seis meses.",
+          "start_date": "Desde la entrada en registro",
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Inscripción en el Registro",
+          "description": "Inscripción de oficio en el Registro de Entidades Colaboradoras tras la notificación de la resolución.",
+          "start_date": "Desde la notificación",
+          "end_date": "30 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Renovación del título de entidad colaboradora",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de renovación",
+          "description": "Procedimiento idéntico al de obtención inicial para renovar el título cada cinco años.",
+          "start_date": "Cada 5 años",
+          "end_date": null,
+          "required_documentation": "Misma que para la obtención inicial"
+        }
+      ]
+    },
+    {
+      "name": "Protocolo n.º 4: Revisión técnico-documental de proyecto de la presa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comprobación de adecuación formal",
+          "description": "Verificación de que el proyecto incluye todos los documentos, estudios y planos requeridos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria, Anexos, Planos, Pliego de prescripciones y Presupuesto."
+        },
+        {
+          "step": 2,
+          "title": "Comprobación del contenido técnico",
+          "description": "Evaluación de la seguridad estructural, hidráulica, geológica y ambiental del diseño.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudios de avenidas, diseño de sistemas hidráulicos, cálculos estructurales y planes de emergencia."
+        },
+        {
+          "step": 3,
+          "title": "Emisión de certificado",
+          "description": "Entrega de Certificado de Conformidad o de No Conformidad según los resultados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Ficha de revisión y Certificado (Anexo I y II)."
+        }
+      ]
+    },
+    {
+      "name": "Protocolo n.º 5: Revisión del programa de puesta en carga y llenado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Revisión técnico-documental",
+          "description": "Verificación de la evolución probable del nivel, escalones de llenado y capacidad de desagüe.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Programa de puesta en carga con curvas de llenado y protocolos de observación."
+        }
+      ]
+    },
+    {
+      "name": "Protocolo n.º 7: Control del estado de la presa e instalaciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Revisión del Archivo Técnico",
+          "description": "Análisis del historial, antecedentes y conclusiones de seguridad previas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyectos, informes de comportamiento y revisiones generales anteriores."
+        },
+        {
+          "step": 2,
+          "title": "Control visual",
+          "description": "Visita coordinada para evaluar el estado de obra civil, accesos, embalse y sistemas de comunicación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Normas de explotación y Plan de Emergencia."
+        },
+        {
+          "step": 3,
+          "title": "Emisión de certificado de seguridad",
+          "description": "Clasificación de la seguridad en Satisfactoria, Admisible, Insuficiente o Insatisfactoria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Ficha de control y Certificado de control de seguridad."
+        }
+      ]
+    },
+    {
+      "name": "Comprobación técnico-documental del informe periódico de comportamiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Verificación de adecuación formal y conclusiones",
+          "description": "Se comprueba la firma del Director de Explotación, la periodicidad según categoría y el detalle del contenido.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe de comportamiento de la presa"
+        },
+        {
+          "step": 2,
+          "title": "Emisión de certificado",
+          "description": "Se emite Certificado de Conformidad (si es tipo I-II) o de No Conformidad (si es tipo III-IV).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Ficha de revisión (Anexo I) y Certificado (Anexo III)"
+        }
+      ]
+    },
+    {
+      "name": "Revisión general/extraordinaria de seguridad de la presa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comprobación técnico-documental",
+          "description": "Evaluación de la adecuación formal y del contenido técnico (seguridad estructural, hidrológica, sísmica, etc.).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación de Archivo Técnico, Plan de Emergencia, Informes de inspección"
+        },
+        {
+          "step": 2,
+          "title": "Emisión de certificado",
+          "description": "Emisión de Certificado de Conformidad o de No Conformidad según el resultado del análisis.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Ficha de revisión (Anexo I) y Certificado (Anexo II)"
+        }
+      ]
+    },
+    {
+      "name": "Puesta fuera de servicio de la presa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Revisión técnico-documental del proyecto",
+          "description": "Análisis del proyecto que incluye memoria, planos, pliego de prescripciones, presupuesto y estudios ambientales/geotécnicos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de puesta fuera de servicio (Memoria, Planos, Pliego, Presupuesto)"
+        },
+        {
+          "step": 2,
+          "title": "Control técnico final 'in situ'",
+          "description": "Visita de inspección para comprobar que las obras se han ejecutado y que los restos no suponen riesgo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Ficha de revisión (Anexo I-B) y Certificado de control técnico final (Anexo II-B)"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

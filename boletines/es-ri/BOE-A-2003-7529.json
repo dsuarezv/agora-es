@@ -1,0 +1,109 @@
+{
+  "identifier": "BOE-A-2003-7529",
+  "title": "Ley 5/2003, de 26 de marzo, regula doras de La Red de Itineraarios Verdes de La Rioja",
+  "visible_title": "Ley de la Red de Itinerarios Verdes de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "5/2003",
+  "publication_date": "2003-04-11",
+  "enactment_date": "2003-03-26",
+  "last_updated": "2013-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2003/03/26/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea y regula la Red de Itinerarios Verdes en La Rioja, integrando antiguas vías de comunicación en rutas para uso recreativo, deportivo y turístico no motorizado. Establece las reglas para la construcción, declaración, mantenimiento y protección de estas vías y rutas. Además, define un régimen de usos, zonas de protección y un sistema de sanciones para asegurar la conservación del entorno y la seguridad de los usuarios.",
+  "citizen_impact": "Permite a los ciudadanos disfrutar de nuevos espacios para el senderismo, el ciclismo y el ocio sostenible en la naturaleza. Sin embargo, impone prohibiciones estrictas, como no circular con vehículos motorizados o no tirar basura, bajo riesgo de multas económicas.",
+  "professional_impact": "Los ayuntamientos de zonas urbanas afectadas asumen la responsabilidad del mantenimiento y la gestión de actividades en esos tramos. Las empresas de turismo activo y propietarios de fincas colindantes deben cumplir con autorizaciones específicas para realizar obras o actividades en las zonas de afectación.",
+  "keywords": [
+    "itinerarios verdes",
+    "vías verdes",
+    "turismo activo",
+    "medio ambiente",
+    "La Rioja",
+    "ocio sostenible",
+    "senderismo",
+    "cicloturismo"
+  ],
+  "key_points": [
+    "Diferencia entre 'vía verde' (antiguas vías de comunicación) y 'ruta verde' (otros trazados similares).",
+    "Establece una zona de dominio público de 2 metros y una zona de afectación de 5 metros a cada lado de la vía.",
+    "Prohíbe estrictamente el uso de vehículos de motor, salvo excepciones autorizadas para servicios públicos o acceso a fincas.",
+    "Los ayuntamientos gestionan el mantenimiento y las autorizaciones en los tramos que atraviesen núcleos urbanos.",
+    "Se crea un régimen sancionador con multas que pueden llegar hasta los 60.000 euros por infracciones muy graves.",
+    "La titularidad de estas infraestructuras pertenece a la Comunidad Autónoma de La Rioja."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de La Rioja",
+    "Ley 10/98, de Ordenación del Territorio y Urbanismo de La Rioja",
+    "Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley 3/1995, de 8 de marzo, de Régimen Jurídico del Gobierno y la Administración Pública de la Comunidad Autónoma de La Rioja"
+  ],
+  "derogations": [],
+  "main_obligations": "Prohibición de circular con vehículos motorizados, de tirar residuos y de realizar actividades no autorizadas. Las infracciones muy graves (como daños intencionados o incendios) conllevan multas de hasta 60.000 euros y la obligación de restaurar el daño causado.",
+  "effective_date": "2003-04-21",
+  "procedures": [
+    {
+      "name": "Declaración de una ruta o vía verde",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Ejecución y recepción de obras",
+          "descrption": "Finalización de las obras de construcción y recepción positiva de las mismas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria de actuaciones y acta de recepción"
+        },
+        {
+          "step": 2,
+          "title": "Instrucción de expediente",
+          "descrption": "Apertura del expediente administrativo para la declaración por parte de la Consejería.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informes legales y propuesta de Decreto"
+        },
+        {
+          "step": 3,
+          "title": "Decisión del Gobierno",
+          "descrption": "El Gobierno dicta el Decreto de declaración de la infraestructura.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización de actividades autorizables",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "descrption": "El interesado presenta la solicitud ante la Consejería o administración correspondiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de obras o instalaciones (si aplica)"
+        },
+        {
+          "step": 2,
+          "title": "Examen y subsanación",
+          "descrption": "La administración revisa la documentación y puede pedir correcciones.",
+          "start_date": null,
+          "end_date": "10 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "descrption": "Plazo máximo para resolver y notificar la decisión.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

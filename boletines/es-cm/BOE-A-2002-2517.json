@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-2002-2517",
+  "title": "Ley 12/2001, de 29 de noviembre, de Acceso de las Persona person con Discapacidad a la Función Pública de la Administración de la Junta de Comunidades de Castilla-La Mancha",
+  "visible_title": "Acceso de personas con discapacidad a la función pública de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Junta de Comunidades de Castilla-La Mancha",
+  "official_number": "12/2001",
+  "publication_date": "2002-02-08",
+  "enactment_date": "2001-11-29",
+  "last_updated": "2011-03-22",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2001/11/29/12",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma busca garantizar la integración real de las personas con discapacidad en el empleo público de Castilla-La Mancha. Implementa medidas de discriminación positiva mediante la creación de turnos de acceso independientes y puestos de trabajo específicos adaptados. Además, establece mecanismos de adecuación de puestos y formación prioritaria para asegurar su desarrollo profesional.",
+  "citizen_impact": "Facilita que las personas con discapacidad en Castilla-La Mancha puedan acceder a empleos públicos mediante procesos adaptados a sus necesidades. Ofrece el derecho a solicitar adaptaciones en las pruebas selectivas y en el entorno de trabajo una vez contratados.",
+  "professional_impact": "Los aspirantes con discapacidad cuentan con un cupo reservado del 5% en las ofertas generales y un sistema de acceso específico para perfiles con mayores dificultades. Los funcionarios ya en activo con discapacidad tienen derecho a solicitar la adaptación de sus puestos de trabajo y prioridad en la formación.",
+  "keywords": [
+    "discapacidad",
+    "función pública",
+    "empleo público",
+    "Castilla-La Mancha",
+    "discriminación positiva",
+    "adaptación de puestos",
+    "procesos selectivos"
+  ],
+  "key_points": [
+    "Reserva de al menos un 5% de las plazas para personas con discapacidad (igual o superior al 33%).",
+    "Creación de un turno de acceso independiente para que las personas con discapacidad compitan en igualdad de condiciones.",
+    "Posibilidad de crear puestos de trabajo exclusivos para personas con discapacidad severa (retraso mental o discapacidades superiores al 50%).",
+    "Derecho a solicitar adaptaciones de tiempo y medios materiales durante las pruebas de selección.",
+    "Obligación de la Administración de adaptar los puestos de trabajo según informes técnicos.",
+    "Prioridad en la formación y perfeccionamiento para empleados públicos con discapacidad.",
+    "Creación de un Consejo Asesor con participación de asociaciones y sindicatos para supervisar el acceso."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 49, 9.2 y 14)",
+    "Estatuto de Autonomía de Castilla-La Mancha",
+    "Ley 13/1982, de 7 de abril, de Integración Social de los Minusválidos",
+    "Ley 3/1988, de 13 de diciembre, de Ordenación de la Función Pública de la Junta de Comunidades de Castilla-La Mancha"
+  ],
+  "derogations": [
+    "Disposición adicional novena de la Ley 3/1988, de 13 de diciembre, de Ordenación de la Función Pública de la Junta de Comunidades de Castilla-La Mancha"
+  ],
+  "main_obligations": "La Administración debe reservar un cupo mínimo del 5% de las plazas para personas con discapacidad y garantizar la adaptación de los procesos selectivos y de los puestos de trabajo cuando sea solicitado y técnicamente viable.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Acceso al empleo público por turno de discapacidad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de adaptación",
+          "description": "El aspirante solicita la adecuación de tiempo y medios materiales para las pruebas selectivas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe técnico del órgano competente"
+        },
+        {
+          "step": 2,
+          "title": "Realización de pruebas selectivas",
+          "description": "Ejecución de los exámenes con el mismo temario que el sistema general pero con las adaptaciones concedidas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adecuación de puestos de trabajo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de adaptación de puesto",
+          "description": "El empleado público solicita la adaptación de su puesto de trabajo al adjudicarse un destino.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe de órgano competente que acredite la procedencia y compatibilidad"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

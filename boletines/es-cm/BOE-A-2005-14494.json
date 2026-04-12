@@ -1,0 +1,167 @@
+{
+  "identifier": "BOE-A-2005-14494",
+  "title": "Ley 5/2005, de 27 de junio, de Ordenación del Servicio Farmacéutico de Castilla-La Manchra",
+  "visible_title": "Ordenación del Servicio Farmacéutico de Castilla-La Manchra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Manchra",
+  "official_number": "5/2005",
+  "publication_date": "2005-08-25",
+  "enactment_date": "2005-06-27",
+  "last_updated": "2021-05-12",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2005/06/27/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley organiza cómo funciona el servicio de farmacia en Castilla-La Manchra para asegurar que todos los ciudadanos tengan acceso a sus medicamentos. Define las reglas para abrir farmacias, la distancia mínima entre ellas y las funciones de los profesionales. Además, regula estrictamente la venta de medicamentos veterinarios y establece sanciones severas para quienes incumplan las normas de seguridad o higiene. El objetivo final es garantizar que la atención farmacéutica sea continua, profesional y segura en toda la región.",
+  "citizen_impact": "Garantiza el acceso a medicamentos mediante la entrega a domicilio en zonas rurales o despobladas. Asegura que siempre haya un farmacéutico responsable atendiendo y que los productos (incluidos los veterinarios) se mantengan en condiciones óptimas de conservación y seguridad.",
+  "professional_impact": "Impone a los farmacéuticos obligaciones estrictas de presencia, control de caducidades, mantenimiento de la cadena de frío y registro de estupefacientes. Establece límites de expansión para agrupaciones ganaderas y detallistas, prohíbe conflictos de interés con laboratorios y define un régimen sancionador que puede alcanzar los 600.000€ o la inhabilitación profesional.",
+  "keywords": [
+    "servicio farmacéutico",
+    "oficinas de farmacia",
+    "medicamentos veterinarios",
+    "Castilla-La Manchra",
+    "asistencia farmacacéutica",
+    "régimen sancionador"
+  ],
+  "key_points": [
+    "Se permite la entrega de medicamentos a domicilio en zonas con riesgo de despoblación o escasa población.",
+    "Las farmacias deben contar con un farmacéutico presente durante todo el horario de apertura.",
+    "Se establece un límite de una oficina de farmacia por cada 1.900 habitantes en núcleos de población.",
+    "La distancia mínima entre farmacias es de 250 metros (o 150 metros en núcleos de menos de 5.000 habitantes).",
+    "Los farmacéuticos tienen derecho a la objeción de conciencia.",
+    "Las agrupaciones ganaderas pueden gestionar hasta 6 establecimientos, mientras que los detallistas solo 3.",
+    "Es obligatorio conservar recetas veterinarias y justificantes de pedidos durante al menos 5 años.",
+    "Se prohíbe a los farmacéuticos tener intereses económicos en laboratorios o trabajar en la fabricación de medicamentos.",
+    "La venta de medicamentos veterinarios debe realizarse siempre en su envase original intacto.",
+    "El incumplimiento de la cadena de frío o el almacenamiento con productos caducados se considera infracción grave.",
+    "Las infracciones muy graves pueden suponer multas de hasta 600.000€ e inhabilitación por 5 años.",
+    "Los titulares deben comunicar a la Administración cualquier ausencia superior a un día."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Castilla-La Manchra",
+    "Ley 4/1996, de 26 de diciembre, de Ordenación del Servicio Farmacéutico de Castilla-La Manchra",
+    "Ley 4/1998, de 9 de junio",
+    "Ley 10/2000, de 26 de diciembre",
+    "Sentencia del Tribunal Constitucional 109/2003",
+    "Ley General de Sanidad",
+    "Ley del Medicamento",
+    "Real Decreto Legislativo 1/2015",
+    "Ley 29/2006, de 26 de julio",
+    "Decreto 7/2005, de 18 de enero",
+    "Decreto 65/1998, de 16 de junio"
+  ],
+  "derogations": [],
+  "main_obligations": "Los farmacéuticos deben garantizar la presencia profesional en horario ordinario, mantener estrictos controles de temperatura, caducidad y registros de sustancias controladas. Asimismo, deben comunicar cualquier ausencia superior a un día y conservar la documentación veterinaria durante 5 años.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Autorización de nuevas oficinas de farmacia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de concurso público",
+          "descrption": "La Consejería de Sanidad convoca periódicamente el concurso para nuevas ubicaciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Evaluación de méritos",
+          "descrption": "Se aplica un baremo que incluye formación posgraduada y experiencia profesional.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de adjudicación",
+          "descrption": "Se dicta la resolución de funcionamiento de la nueva oficina.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Transmisión de oficinas de farmacia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de transmisión",
+          "descrption": "Presentación de la solicitud de cambio de titularidad ante la Administración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución administrativa",
+          "descrption": "La Administración debe resolver en un plazo de 2 meses; si no lo hace, se entiende desestimada.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Designación de farmacéutico regente",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de la vacante",
+          "descrption": "Los interesados deben formular la solicitud en un plazo de 10 días desde el agotamiento de la autorización.",
+          "start_date": null,
+          "end_date": "10 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Régimen Sancionador Administrativo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del expediente",
+          "description": "Se inicia el procedimiento tras la detección de una posible infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Traslado a la jurisdicción penal",
+          "description": "Si la infracción puede ser delito, la Administración detiene el proceso y lo envía al juez.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución y sanción",
+          "description": "Imposición de multas o cierres según la gravedad (leve, grave o muy grave).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Prescripción de infracciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de prescripción según gravedad",
+          "description": "Las faltas leves prescriben al año, las graves a los dos años y las muy graves a los cinco años.",
+          "start_date": "Desde el día de la comisión",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

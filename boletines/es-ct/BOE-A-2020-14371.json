@@ -1,0 +1,81 @@
+{
+  "identifier": "BOE-A-2020-14371",
+  "title": "Decreto-ley 34/2020, de 20 de octubre, de medidas urgentes de apoyo a la actividad económica desarrollada en locales de negocio arrendados",
+  "visible_title": "Medidas de apoyo a la actividad económica en locales de negocio arrendados",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "34/2020",
+  "publication_date": "2020-11-18",
+  "enactment_date": "2020-10-20",
+  "last_updated": "2023-01-06",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2020/10/20/34",
+  "official_journal": "Diari Oficial de la Generalitat de Catalunya",
+  "journal_issue": null,
+  "summary": "Esta norma busca mitigar el impacto económico de las restricciones por la COVID-19 en los negocios que operan en locales alquilados. Permite a los arrendatarios solicitar una revisión de las condiciones del contrato para equilibrar las cargas económicas cuando la actividad se vea limitada por medidas sanitarias. El objetivo es evitar el cierre de empresas y la pérdida de empleos mediante un reparto equitativo de las pérdidas entre propietarios e inquilinos.",
+  "citizen_impact": "Afecta principalmente a autónomos y pequeños empresarios que alquilan locales comerciales, dándoles el derecho de negociar una reducción de la renta si las restricciones sanitarias les impiden trabajar con normalidad. También ofrece la posibilidad de rescindir el contrato sin penalización en situaciones de restricciones prolongadas.",
+  "professional_impact": "Los autónomos y pymes de sectores como hostelería, comercio o cultura pueden solicitar modificaciones contractuales por vía fehaciente. Los propietarios de locales deben negociar de buena fe y, si no hay acuerdo, se aplican reglas legales de reducción de renta. Se introduce la posibilidad de imputar rentas impagadas a las garantías del contrato.",
+  "keywords": [
+    "alquiler comercial",
+    "COVID-19",
+    "revisión de contrato",
+    "renta",
+    "autónomos",
+    "pymes",
+    "Cataluña",
+    "equilibrio contractual"
+  ],
+  "key_points": [
+    "Derecho a solicitar una modificación razonable y equitativa del contrato de alquiler si hay restricciones por la pandemia.",
+    "Plazo de un mes para negociar o mediar entre arrendador y arrendatario antes de aplicar reglas por defecto.",
+    "Posibilidad de desistir del contrato sin penalización si las restricciones se prolongan más de tres meses en un año.",
+    "Las rentas reducidas se aplican desde el momento del requerimiento de modificación.",
+    "Se permite imputar rentas debidas a las garantías del contrato (excluyendo la fianza legal).",
+    "El servicio de entrega a domicilio (delivery) no impide la aplicación de las reducciones de renta."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Cataluña",
+    "Ley 13/2008, de 5 de noviembre, de la presidencia de la Generalidad y del Gobierno",
+    "Decreto 114/2020, de 30 de septiembre",
+    "Código Civil de Cataluña"
+  ],
+  "derogations": [
+    "Decreto-ley 5/2022, de 17 de mayo (derogó esta norma con efectos de 19 de mayo de 2022)"
+  ],
+  "main_obligations": "El arrendatario debe realizar el requerimiento de modificación de forma fehaciente (burofax u otro). El arrendador debe abstenerse de emitir facturas por el importe íntegro de la renta durante el mes de negociación. El arrendatario debe reintegrar las garantías imputadas en un plazo de un año.",
+  "effective_date": "2020-10-20",
+  "procedures": [
+    {
+      "name": "Modificación de condiciones contractuales por crisis sanitaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requerimiento de modificación",
+          "description": "El arrendatario solicita formalmente (burofax o similar) una revisión de la renta y condiciones del contrato.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Comunicación fehaciente"
+        },
+        {
+          "step": 2,
+          "title": "Periodo de negociación o mediación",
+          "description": "Las partes tienen un plazo para intentar llegar a un acuerdo amistoso.",
+          "start_date": "Desde el requerimiento",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aplicación de reglas por defecto",
+          "description": "Si no hay acuerdo tras el mes de negociación, se aplican las reglas de reducción de renta establecidas en la norma.",
+          "start_date": "Tras el mes de negociación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

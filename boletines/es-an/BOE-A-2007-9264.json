@@ -1,0 +1,92 @@
+{
+  "identifier": "BOE-A-2007-9264",
+  "title": "Ley 2/2007, de 27 de marzo, de fomento de las energías renovables y del ahorro y eficiencia energética de Andalucía",
+  "visible_title": "Ley de Fomento de las Energías Renovables y del Ahorro y Eficiencia Energética de Andalucía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "2/2007",
+  "publication_date": "2007-05-07",
+  "enactment_date": "2007-03-27",
+  "last_updated": "2024-02-16",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2007/03/27/2",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": null,
+  "summary": "Esta ley establece un nuevo modelo energético en Andalucía priorizando las fuentes renovables sobre las convencionales para combatir el cambio climático. Busca reducir el consumo mediante la eficiencia energética y la promoción del ahorro en todos los sectores. Además, regula la planificación territorial para facilitar la instalación de infraestructuras de energía limpia y establece un régimen sancionador para su cumplimiento.",
+  "citizen_impact": "Fomenta el uso de energías limpias y la eficiencia en el hogar, lo que puede traducirse en un ahorro energético a largo plazo. También introduce la obligación de que los edificios públicos se adapten para usar energías renovables, mejorando el entorno ambiental común.",
+  "professional_impact": "Las empresas del sector energético y constructor deben cumplir con nuevos estándares de eficiencia y procedimientos urbanísticos específicos para instalaciones renovables. Los promotores de plantas en suelo rústico deben pagar una prestación del 10% de la inversión y garantizar el desmantelamiento de las instalaciones.",
+  "keywords": [
+    "energías renovables",
+    "eficiencia energética",
+    "ahorro energético",
+    "biomasa",
+    "energía solar",
+    "planificación territorial",
+    "Andalucía"
+  ],
+  "key_points": [
+    "Se establece la primacía de las energías renovables sobre las fuentes de energía convencionales.",
+    "Las instalaciones de energía renovable en suelo rústico se consideran actuaciones ordinarias con duración limitada.",
+    "Los promotores de instalaciones en suelo rústico deben pagar una prestación del 10% de la inversión al municipio.",
+    "Es obligatorio presentar una garantía para cubrir los costes de desmantelamiento de las instalaciones al solicitar la licencia.",
+    "Los edificios públicos de la Junta de Andalucía tienen un plazo de 10 años para incorporar instalaciones solares o renovables.",
+    "Se crea la figura de los 'organismos colaboradores' para verificar el cumplimiento de la normativa energética.",
+    "Se establece un régimen de sanciones que llega hasta los 300.000 euros para infracciones muy graves."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía para Andalucía",
+    "Ley 1/1994, de 11 de enero, de Ordenación del Territorio de la Comunidad Autónoma de Andalucía",
+    "Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación",
+    "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "Ley 30/1992, de 21 de diciembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Real Decreto 235/2013, de 5 de abril",
+    "Real Decreto 56/2016, de 12 de febrero",
+    "Directiva 2001/77/CE",
+    "Protocolo de Kyoto"
+  ],
+  "derogations": [
+    "Normas de igual o inferior rango que contradigan u opongan a esta Ley"
+  ],
+  "main_obligations": "Los titulares de centros de consumo deben cumplir con los índices de eficiencia energética y, cuando sea obligatorio, obtener el Certificado Energético. Las empresas que instalen energías renovables en suelo rústico deben pagar una prestación del 10% de la inversión y garantizar el desmantelamiento de la instalación.",
+  "effective_date": "2007-08-07",
+  "procedures": [
+    {
+      "name": "Autorización de instalaciones en régimen especial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación de la solicitud",
+          "descrption": "Procedimiento para la aprobación de acciones previstas en planes o programas energéticos.",
+          "start_date": null,
+          "end_date": "3 meses (si está en planes) o 6 meses (si no está en planes)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del expediente",
+          "descrption": "Fase de investigación y comprobación de la infracción cometida.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "descrption": "Dictamen final que impone la sanción o archiva el expediente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

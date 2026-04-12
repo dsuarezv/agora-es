@@ -1,0 +1,82 @@
+{
+  "identifier": "BOE-A-2019-7788",
+  "title": "Ley 8/2019, de 29 de marzo, de creación de la Comarca Central",
+  "visible_title": "Creación de la Comarca Central",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "8/2019",
+  "publication_date": "2019-05-25",
+  "enactment_date": "2019-03-29",
+  "last_updated": "2019-04-12",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2019/03/29/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece oficialmente la Comarca Central en Aragón, integrando 21 municipios para mejorar la gestión de servicios públicos supramunicipales. Su objetivo es centralizar y hacer más eficientes servicios como la recogida de residuos, la acción social, la cultura y la protección civil. La norma organiza la entidad en cinco ejes territoriales y define un modelo de gobierno especial que respeta el régimen de la ciudad de Zaragoza.",
+  "citizen_impact": "Los ciudadanos de los municipios integrados verán una gestión más profesional y coordinada de servicios esenciales como la limpieza, la cultura o la protección civil. No implica nuevos impuestos directos para el ciudadano, sino una reorganización de cómo se prestan los servicios que ya utiliza.",
+  "professional_impact": "Los funcionarios locales de los municipios pequeños contarán con servicios de asesoramiento jurídico y técnico especializados. Las empresas de servicios públicos (residuos, transporte, etc.) operarán bajo un marco de gestión comarcal más estructurado y coordinado.",
+  "keywords": [
+    "Comarca Central",
+    "Aragón",
+    "Administración Local",
+    "Gestión de servicios",
+    "Municipios",
+    "Organización territorial"
+  ],
+  "key_points": [
+    "Creación de la Comarca Central integrada por 21 municipios, incluyendo Zaragoza.",
+    "Establecimiento de Utebo como capital de la comarca.",
+    "Organización territorial dividida en cinco ejes de gestión para optimizar servicios.",
+    "Zaraagoza mantiene su régimen especial y no tiene obligaciones económicas con la comarca.",
+    "Asunción de competencias de las antiguas mancumuidades por parte de la nueva Comarca.",
+    "Creación de un servicio de asesoramiento para municipios pequeños si el 20% de ellos lo solicita.",
+    "Obligatoriedad de las aportaciones económicas de los municipios integrantes a la comarca."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Aragón",
+    "Decreto Legislativo 1/2006 (Ley de Comarcalización de Aragón)",
+    "Decreto Legislativo 2/2006 (Ley de Delimitación Comarcal de Aragón)",
+    "Ley 7/1999 de Administración Local de Aragón",
+    "Ley 10/2017 de régimen especial del municipio de Zaragoza",
+    "Decreto 20/2006"
+  ],
+  "derogations": [
+    "Mancumunidades cuyas funciones coincidan con las de la Comarca Central (sustitución por sucesión)"
+  ],
+  "main_obligations": "Los municipios integrantes están obligados a realizar aportaciones económicas anuales a la Comarca, las cuales se calcularán según población y uso de servicios. Si un municipio se retrasa más de un trimestre, la Comarca puede solicitar la retención de sus transferencias autonómicas.",
+  "effective_date": "2019-05-26",
+  "procedures": [
+    {
+      "name": "Constitución del primer Consejo Comarcal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elecciones locales",
+          "description": "Celebración de las primeras elecciones municipales tras la entrada en vigor de la ley.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Elección de consejeros",
+          "description": "Los plenos de los ayuntamientos eligen a los consejeros comarcales entre sus concejales.",
+          "start_date": "1 mes tras la asignación de consejeros por la Junta Electoral",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Sesión constitutiva",
+          "description": "Reunión pública para constituir el Consejo Comarcal en la capital.",
+          "start_date": "Tras la elección de consejeros",
+          "end_date": "10 días hábiles tras la elección",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

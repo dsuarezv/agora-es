@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-2014-8062",
+  "title": "Ley 3/2014, de 2 de julio, de Venta Ambulante o no Sedentaria de la Región de Murcia",
+  "visible_title": "Ley de Venta Ambulante o no Sedentaria de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "3/2014",
+  "publication_date": "2014-07-29",
+  "enactment_date": "2014-07-02",
+  "last_updated": "2014-07-08",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2014/07/02/3",
+  "official_journal": "Boletín Oficial de la Región de Murcia",
+  "journal_issue": null,
+  "summary": "Esta ley unifica y moderniza la regulación de la venta ambulante en Murcia, cubriendo tanto el uso de suelo público como privado. Establece un marco de actuación para los ayuntamientos, garantizando la seguridad, la sanidad y la libre competencia. Busca dar estabilidad a los comerciantes mediante autorizaciones de larga duración y simplificar los trámites administrativos.",
+  "citizen_impact": "Los consumidores se benefician de una mayor seguridad sanitaria y una oferta comercial más diversa y organizada. Además, se prevé la creación de una guía digital bilingüe para que los ciudadanos sepan dónde y cuándo encontrar los mercados y mercadillos.",
+  "professional_impact": "Los comerciantes ambulantes obtienen mayor seguridad jurídica con autorizaciones de hasta 12 años, facilitando la amortización de sus inversiones. Los ayuntamientos asumen la competencia exclusiva de gestión, inspección y sanción, debiendo adaptar sus ordenanzas en un plazo de un año.",
+  "keywords": [
+    "venta ambulante",
+    "comercio no sedentario",
+    "mercadillos",
+    "suelo privado",
+    "autorización administrativa",
+    "Región de Murcia"
+  ],
+  "key_points": [
+    "Regulación por primera vez de la venta ambulante en suelo privado.",
+    "Las autorizaciones para mercados periódicos tendrán una vigencia mínima de 8 años y máxima de 12.",
+    "Los ayuntamientos actúan como interlocutor único para simplificar trámites.",
+    "Se permite la gestión privada de mercados y mercadillos en suelo público bajo supervisión municipal.",
+    "Se establece la obligación de usar una declaración responsable para agilizar la solicitud de permisos.",
+    "Los ayuntamientos pueden reservar hasta un 15% de plazas para colectivos en riesgo de exclusión social.",
+    "Creación de un Registro Regional de Comerciantes de Venta Ambulante para mejorar la planificación.",
+    "Prohibición de realizar venta ambulante en accesos a edificios públicos o comerciales para no obstruir el paso."
+  ],
+  "legal_references": [
+    "Directiva 2006/123/CE",
+    "Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista",
+    "Ley 1/2010, de 1 de marzo",
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Ley 30/1992, de 26 de diciembre, del Régimen Jurídico de las Administraciones Públicas",
+    "Ley 7/1985, de 2 de julio, de Bases del Régimen Local"
+  ],
+  "derogations": [],
+  "main_obligations": "Los comerciantes deben poseer autorización municipal, estar al corriente con Hacienda y Seguridad Social, disponer de seguro de responsabilidad civil y exhibir su identificación y precios de forma visible. El incumplimiento de horarios o lugares autorizados conlleva sanciones.",
+  "effective_date": "2014-07-29",
+  "proceduers": [
+    {
+      "name": "Concesión de autorizaciones de venta ambulante",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y Declaración Responsable",
+          "descrption": "Presentación de la solicitud acompañada de una declaración responsable que manifieste el cumplimiento de todos los requisitos legales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el cumplimiento de requisitos (IAE, Seguridad Social, Seguro RC, etc.)"
+        },
+        {
+          "step": 2,
+          "title": "Resolución y Pago de Tasas",
+          "descrption": "El ayuntamiento dicta la resolución y el titular debe abonar la tasa correspondiente para que la autorización sea efectiva.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Transmisión de autorizaciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de transmisión",
+          "descrption": "En caso de cese voluntario, el titular solicita al ayuntamiento la transmisión a un tercero.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de que el nuevo titular cumple los requisitos de la ley."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

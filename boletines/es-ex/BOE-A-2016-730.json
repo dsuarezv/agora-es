@@ -1,0 +1,73 @@
+{
+  "identifier": "BOE-A-2016-730",
+  "title": "Ley 18/2015, de 23 de diciembre, de cuentas abiertas para la Administración Pública Extremeña",
+  "visible_title": "Ley de cuentas abiertas para la Administración Pública Extremeña",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "18/2015",
+  "publication_date": "2016-01-27",
+  "enactment_date": "2015-12-23",
+  "last_updated": "2015-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2015/12/23/18",
+  "official_journal": "Boletín Oficial de Extremadura",
+  "journal_issue": null,
+  "summary": "Esta norma obliga a las instituciones de la Junta de Extremadura, la Universidad de Extremadura y la Asamblea de Extremadura a hacer públicas sus cuentas bancarias. El objetivo es garantizar la máxima transparencia en el uso del dinero público mediante la 'publicidad activa'. Los datos deben estar disponibles en sus portales de transparencia en formatos abiertos y reutilizables.",
+  "citizen_impact": "Permite a cualquier ciudadano controlar cómo se gestionan los fondos públicos en Extremadura consultando saldos y titularidades de forma directa. No otorga derecho a operar con las cuentas, pero sí a fiscalizar el gasto público de manera sencilla.",
+  "professional_impact": "Los funcionarios y gestores de las entidades afectadas deben implementar sistemas de publicación trimestral de datos bancarios. Esto implica una nueva carga de gestión de datos para asegurar que la información sea clara, estructurada y cumpla con los estándares de seguridad y formatos abiertos.",
+  "keywords": [
+    "transparencia",
+    "cuentas bancarias",
+    "administración pública",
+    "Extremadura",
+    "publicidad activa",
+    "gasto público",
+    "datos abiertos"
+  ],
+  "key_points": [
+    "Obligación de publicar cuentas bancarias, saldos y titularidades de la Administración extremeña.",
+    "Los números de cuenta (IBAN) se publicarán de forma codificada (solo los 4 primeros y 4 últimos dígitos) por seguridad.",
+    "La información debe actualizarse el último día de cada trimestre.",
+    "Los datos deben publicarse en formatos abiertos, descargables y reutilizables.",
+    "El acceso a la información no permite realizar operaciones bancarias con dichas cuentas.",
+    "La Consejería de Hacienda es la encargada de impulsar y supervisar el cumplimiento de esta ley."
+  ],
+  "legal_references": [
+    "Ley 4/2013, de 21 de mayo, de Gobierno Abierto de Extremadura",
+    "Estatuto de Autonomía de la Comunidad Autónoma de Extremadura",
+    "Ley 19/2013, de 9 de diciembre, de Transparencia, Acceso a la Información Pública y Buen Gobierno",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal",
+    "Real Decreto 3/2010, de 8 de enero, del Esquema Nacional de Seguridad",
+    "Real Decreto 4/2010, de 8 de enero, del Esquema Nacional de Interoperabilidad",
+    "Real Decreto 1495/2011, de 24 de octubre"
+  ],
+  "derogations": [],
+  "main_obligations": "Las entidades deben publicar la información de sus cuentas en sus portales de transparencia en un plazo de un mes tras la entrada en vigor. Deben asegurar la disponibilidad del saldo global de cada cuenta en un plazo máximo de seis meses.",
+  "effective_date": "2016-01-28",
+  "procedures": [
+    {
+      "name": "Implementación de la transparencia de cuentas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación inicial de cuentas",
+          "description": "Las entidades deben hacer públicas sus cuentas en sus portales de transparencia.",
+          "start_date": "1 mes desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Disponibilidad del saldo global",
+          "description": "Implementación de mecanismos para permitir el acceso al saldo global de cada cuenta.",
+          "start_date": "6 meses desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

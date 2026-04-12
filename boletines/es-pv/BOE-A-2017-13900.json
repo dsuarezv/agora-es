@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-2017-13900",
+  "title": "Decreto Legislativo 2/2017, de 19 de octubre, por el que se aprueba el texto refundido de la Ley de Control Económico y Contabilidad de la Comunidad Autónoma de Euskadi",
+  "visible_title": "Ley de Control Económico y Contabilidad de la Comunidad Autónoma de Euskadi",
+  "rank": "decreto legislativo",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "2/2017",
+  "publication_date": "2017-11-30",
+  "enactment_date": "2017-10-19",
+  "last_updated": "2023-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/dlg/2017/10/19/2",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta norma unifica y moderniza toda la regulación sobre cómo se vigila el dinero y la contabilidad en el sector público vasco. Establece a la Oficina de Control Económico como el órgano central encargado de supervisar que los gastos e ingresos sean legales, eficientes y transparentes. El objetivo es pasar de un control que bloquea la gestión a uno que ayuda a prevenir errores y mejora la toma de decisiones mediante auditorías y seguimiento constante.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta directamente a funcionarios y gestores públicos, quienes deben seguir nuevos estándares de contabilidad y someterse a auditorías de gestión y fiscalizaciones previas. Las empresas y particulares que reciban subvenciones o fondos públicos también quedan sujetos a controles de la Oficina de Control Económico para verificar el destino correcto de los fondos.",
+  "keywords": [
+    "control económico",
+    "contabilidad pública",
+    "sector público vasco",
+    "Oficina de Control Económico",
+    "fiscalización",
+    "auditoría",
+    "Hacienda General"
+  ],
+  "key_points": [
+    "Creación de un modelo de control integral que incluye la supervisión contable, la intervención fiscal y la auditoría de gestión.",
+    "Consolidación de la Oficina de Control Económico como el órgano único y autónomo para el control interno en todo el sector público vasco.",
+    "Implementación de controles preventivos para asegurar la razonabilidad económica de las decisiones antes de que se ejecuten.",
+    "Obligatoriedad de auditorías para entidades que reciban ayudas o subvenciones públicas significativas.",
+    "Establecimiento de la responsabilidad de los gestores en caso de negligencia grave en la supervisión de fondos.",
+    "Digitalización y modernización de los sistemas de información contable para garantizar la transparencia."
+  ],
+  "legal_references": [
+    "Ley 14/1994, de 30 de junio, de Control Económico y Contabilidad de la Comunidad Autónoma de Euskadi",
+    "Ley 2/2017, de 11 de abril, por la que se aprueban los Presupuestos Generales de la Comunidad Autónoma de Euskadi para 2017",
+    "Decreto Legislativo 1/1997, de 11 de noviembre, de Principios Ordenadores de la Hacienda General del País Vasco",
+    "Decreto Legislativo 2/2007, de 6 de noviembre, de aprobación del texto refundido de la Ley de Patrimonio de Euskadi",
+    "Ley 6/2012, de 1 de marzo",
+    "Ley 7/1981, de 30 de junio, de Gobierno"
+  ],
+  "derogations": [
+    "Ley 14/1994, de 30 de junio, de Control Económico y Contabilidad de la Comunidad Autónoma de Euskadi"
+  ],
+  "main_obligations": "Las entidades del sector público deben registrar todos sus actos económicos en su contabilidad y rendir cuentas ante la Oficina de Control Económico. Los gestores de fondos públicos deben facilitar el acceso a documentación y locales para las auditorías de la Oficina de Control Económico.",
+  "effective_date": "2017-12-01",
+  "procedures": [
+    {
+      "name": "Control Económico-Fiscal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Remisión de expedientes",
+          "descrption": "Los órganos gestores deben enviar los expedientes completos a la Oficina de Control Económico antes de la producción del acto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Expediente completo de la operación económica"
+        },
+        {
+          "step": 2,
+          "title": "Emisión de informe de fiscalización",
+          "descrption": "La Oficina emite un informe favorable o desfavorable que puede suspender la tramitación si hay irregularidades.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Control Económico-Normativo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Fiscalización de anteproyectos",
+          "descrption": "Evaluación de la incidencia económica de proyectos de ley o disposiciones normativas.",
+          "start_date": null,
+          "end_date": "mínimo 15 días",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,91 @@
+{
+  "identifier": "BOE-A-2017-661",
+  "title": "Ley Foral 23/2016, de 21 de diciembre, por la que se establece el sistema de carrera profesional aplicable al personal diplomado sanitario, excluido el adscrito al Departamento de Salud y sus organismos autónomos",
+  "visible_title": "Sistema de carrera profesional para el personal diplomado sanitario de la Administración de Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "23/2016",
+  "publication_date": "2017-01-21",
+  "enactment_date": "2016-12-21",
+  "last_updated": "2016-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es/nc/lf/2016/12/21/23",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma regula el sistema de carrera profesional para los diplomados sanitarios de la Administración de Navarra que no pertenecen al Departamento de Salud. El objetivo es reconocer y retribuir económicamente el desarrollo de conocimientos, experiencia asistencial, docente e investigación. Establece cuatro niveles de progresión profesional basados en méritos y años de servicio.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Los diplomados sanitarios afectados obtienen un complemento salarial anual que puede llegar hasta los 7.067,76 euros según el nivel alcanzado. El ascenso depende de la evaluación de la actividad asistencial, formación, investigación y gestión, permitiendo también el reconocimiento de servicios prestados en otros sistemas de salud de la UE.",
+  "keywords": [
+    "carrera profesional",
+    "diplomado sanitario",
+    "Navarra",
+    "retribución complementaria",
+    "personal sanitario",
+    "evaluación de méritos"
+  ],
+  "key_points": [
+    "Creación de un sistema de carrera profesional con cuatro niveles retribuidos.",
+    "El complemento económico anual varía desde 1.766,80 € (Nivel I) hasta 7.067,76 € (Nivel IV).",
+    "El ascenso requiere acreditar méritos en permanencia, actividad asistencial, formación, investigación y gestión.",
+    "Se establece un encuadramiento inicial basado en los años de servicio previos (desde 5 hasta 29 años para alcanzar los niveles).",
+    "La evaluación de la actividad asistencial se realizará anualmente.",
+    "Se permite el reconocimiento de servicios prestados en sistemas públicos de salud de la Unión Europea.",
+    "Las comisiones de evaluación serán paritarias, con representación de la administración y de los profesionales."
+  ],
+  "legal_references": [
+    "Leyes Forales 11/1999, 31/2002 y 8/2008",
+    "Decreto Foral 54/2009",
+    "Decreto Foral Legislativo 251/1993",
+    "Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra"
+  ],
+  "derogations": [],
+  "main_obligations": "Los profesionales deben someterse a evaluaciones anuales de su actividad asistencial y presentar la documentación necesaria para acreditar méritos en formación o investigación cuando soliciten un cambio de nivel.",
+  "effective_date": "2017-01-22",
+  "procedures": [
+    {
+      "name": "Ascenso de nivel de carrera profesional",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de méritos",
+          "description": "El profesional debe acreditar años de permanencia, actividad asistencial, formación, investigación y gestión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite formación, investigación, desarrollo técnico y gestión."
+        },
+        {
+          "step": 2,
+          "title": "Evaluación de actividades",
+          "description": "La Comisión de Evaluación analiza los méritos presentados y la actividad asistencial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Acreditación formal",
+          "description": "La Dirección General de Función Pública emite la acreditación del nuevo nivel alcanzado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Encuadramiento inicial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cálculo de años de servicio",
+          "description": "Se asigna un nivel inicial según los años de servicio en la Administración de Navarra o sistemas de la UE.",
+          "start_date": "2016-01-01",
+          "end_date": null,
+          "required_documentation": "Certificación de servicios prestados."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

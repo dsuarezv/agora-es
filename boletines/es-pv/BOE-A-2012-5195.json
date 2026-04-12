@@ -1,0 +1,88 @@
+{
+  "identifier": "BOE-A-2012-5195",
+  "title": "Ley 29/1983, de 25 de noviembre, de creación del Instituto de Alfaabetización y Reeuskaldunización de Adultos y de Regulacion de los Euskaltegis",
+  "visible_title": "Ley de creación del Instituto de Alfaabetización y Reeuskaldunización de Adultos y de Regulación de los Euskaltegis",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "29/1983",
+  "publication_date": "1983-11-25",
+  "enactment_date": "1983-11-25",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1983/11/25/29",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta ley crea el HABE, un organismo público destinado a coordinar la enseñanza del euskera a adultos en el País Vasco. Su objetivo es impulsar la alfabetización y la reeuskaldunización de la población mediante la creación de materiales, investigación de métodos y la gestión de centros especializados. Además, establece el marco legal para regular tanto los centros de enseñanza públicos como los privados (Euskaltegis).",
+  "citizen_impact": "Facilita el acceso de la población adulta a la formación en lengua vasca a través de una red organizada de centros. Permite que los estudios realizados en centros privados homologados tengan validez oficial mediante la obtención de certificados y diplomas.",
+  "professional_impact": "Crea un marco regulatorio para los profesionales de la enseñanza de euskera, estableciendo la posibilidad de crear un cuerpo docente específico mediante oposición. Para los propietarios de centros privados, define las condiciones para ser centros 'homologados' y acceder a subvenciones públicas.",
+  "keywords": [
+    "euskera",
+    "alfabetización",
+    "adultos",
+    "Euskaltegi",
+    "formación",
+    "País Vasco",
+    "HABE"
+  ],
+  "key_points": [
+    "Creación del HABE como organismo autónomo adscrito al Departamento de Educación y Cultura.",
+    "Clasificación de los Euskaltegis en públicos (creados por Decreto o entidades locales) y privados (homologados o libres).",
+    "Establecimiento de un Registro oficial para todos los centros de enseñanza de euskera.",
+    "Capacidad del HABE para crear materiales didácticos y realizar investigación pedagógica.",
+    "Posibilidad de que los Euskaltegis privados reciban subvenciones públicas si cumplen los requisitos.",
+    "Previsión de un cuerpo de personal docente especializado para el HABE mediante procesos de selección oficiales."
+  ],
+  "legal_references": [
+    "Ley de Procedimiento Administrativo de 17 de julio de 1958"
+  ],
+  "derogations": [],
+  "main_obligations": "Los Euskaltegis privados deben inscribirse en el Registro del HABE y, en caso de recibir subvenciones, están obligados a presentar balances anuales y justificantes de nóminas ante el HABE.",
+  "effective_date": "1983-11-26",
+  "procedures": [
+    {
+      "name": "Homologación de Euskaltegis privados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de homologación",
+          "description": "Los centros privados pueden solicitar ser reconocidos como centros homologados para tener plenas facultades académicas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "No especificada en el texto"
+        },
+        {
+          "step": 2,
+          "title": "Ratificación bianual",
+          "description": "El Departamento de Educación y Cultura debe ratificar el carácter de centro homologado cada dos años.",
+          "start_date": null,
+          "end_date": "2 años",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Transformación de Euskaltegis municipales en públicos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de la Corporación",
+          "description": "La entidad local debe solicitar la transformación previa comprobación de requisitos por el HABE.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Inscripción en el Registro",
+          "description": "Inscripción obligatoria en el Registro de HABE para completar el proceso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

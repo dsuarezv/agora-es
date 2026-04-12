@@ -1,0 +1,112 @@
+{
+  "identifier": "BOE-A-2016-8275",
+  "title": "Ley 15/2016, de 28 de julio, del Plan gallego de estadística 2017-2021",
+  "visible_title": "Plan gallego de estadística 2017-2021",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "15/2016",
+  "publication_date": "2016-09-08",
+  "enactment_date": "2016-07-28",
+  "last_updated": "2021-12-29",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2016/07/28/15",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece la hoja de ruta para la producción de datos estadísticos en Galicia durante el periodo 2017-2021. Su objetivo es organizar y planificar la recogida de información sobre temas clave como demografía, economía, medio ambiente y sociedad para que las instituciones y la ciudadanía tengan datos fiables para tomar decisiones. El plan busca mejorar la calidad de los datos, reducir la carga de información para los ciudadanos y asegurar que la estadística gallega sea coherente con los estándares europeos.",
+  "citizen_impact": "La norma garantiza que la ciudadanía tenga acceso a información pública de calidad sobre su entorno (salud, empleo, educación). Aunque no impone trámites nuevos de forma directa, establece la obligatoriedad de colaborar con la administración cuando se realicen encuestas o censos oficiales.",
+  "professional_impact": "Para las empresas y profesionales, implica la obligación de suministrar datos cuando formen parte de las operaciones estadísticas programadas. Para los funcionarios y organismos públicos, establece la necesidad de coordinar la recogida de datos y cumplir con el secreto estadístico y los estándares de calidad europeos.",
+  "keywords": [
+    "estadística",
+    "Galicia",
+    "planificación",
+    "datos",
+    "información pública",
+    "IGE",
+    "censos",
+    "encuestas"
+  ],
+  "key_points": [
+    "Establece un plan quinquenal (2017-2021) para organizar la actividad estadística en Galicia.",
+    "Introduce la obligación de incluir la perspectiva de género en todas las operaciones estadísticas que recaben datos sobre personas.",
+    "Busca reducir la carga de respuesta mediante el uso de fuentes administrativas ya existentes para evitar duplicidades.",
+    "Define tres tipos de objetivos: informativos (qué datos se recogen), instrumentales (cómo se recogen) y de calidad (qué tan fiables son).",
+    "Obliga a la colaboración ciudadana en las operaciones estadísticas programadas.",
+    "Garantiza el secreto estadístico para toda la información recogida.",
+    "Promueve la transparencia y la accesibilidad de los datos a través de un sitio web específico."
+  ],
+  "legal_references": [
+    "Artículo 27.6 del Estatuto de autonomía de Galicia",
+    "Ley 9/1988, de estadística de Galicia",
+    "Leyes 7/1993, 10/2001, 16/2006 y 8/2011",
+    "Decreto legislativo 2/2015, de 12 de febrero",
+    "Ley 16/2021, de 20 de diciembre"
+  ],
+  "derogations": [
+    "Ley 8/2011, de 9 de noviembre, del Plan gallego de estadística 2012-2016"
+  ],
+  "main_obligations": "Los ciudadanos y entidades designadas en los proyectos técnicos están obligados a suministrar la información requerida para las operaciones estadísticas. Los organismos públicos deben colaborar en la cesión de datos administrativos y respetar estrictamente el secreto estadístico.",
+  "effective_date": "2017-01-01",
+  "procedures": [
+    {
+      "name": "Aprobación del Programa Estadístico Anual",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del proyecto",
+          "description": "El Instituto Gallego de Estadística elabora el proyecto de programa tras un informe del Consejo Gallego de Estadística.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aprobación por decreto",
+          "description": "El Consejo de la Xunta aprueba el programa mediante decreto a propuesta de la Consejería de Hacienda.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aprobación de resultados de operaciones oficiales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de aprobación",
+          "description": "Los organismos responsables presentan la propuesta al IGE para su informe de cumplimiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe del IGE",
+          "description": "El IGE emite un informe sobre el cumplimiento de las normas estadísticas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación provisional",
+          "description": "Si el informe es favorable, el IGE aprueba provisionalmente los resultados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación definitiva",
+          "description": "Si no hay objeciones en 3 meses, los resultados se aprueban definitivamente y se publican en el DOG.",
+          "start_date": "3 meses tras la aprobación provisional",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-2025-2870",
+  "title": "Orden TDF/149/2025, de 12 de febrero, por la que se establecen medidas para combatir las estafas de suplantación de identidad a través de llamadas telefónicas y mensajes de texto fraudulentos y para garantizar la identificación de la numeración utilizada para la prestación de servicios de atención al cliente y realización de llamadas comerciales no solicitadas",
+  "visible_title": "Medidas para combatir las estafas de suplanta de identidad por llamadas y mensajes de texto",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio para la Transformación Digital y de la Función Pública",
+  "official_number": "TDF/149/2025",
+  "publication_date": "2025-02-15",
+  "enactment_date": "2025-02-12",
+  "last_updated": "2025-02-15",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2025/02/12/tdf149",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "40",
+  "summary": "Esta norma combate el fraude telefónico y por SMS mediante el bloqueo de comunicaciones que manipulan la identidad del remitente. Obliga a los operadores a interceptar llamadas y mensajes que usen números falsos, no asignados o de origen internacional que pretendan suplantar números españoles. Además, busca dar transparencia a las llamadas comerciales y de atención al cliente para que el usuario sepa siempre con quién habla.",
+  "citizen_impact": "Reduce el riesgo de caer en estafas de 'phishing' o suplantación de identidad de bancos y administraciones al bloquear llamadas y mensajes fraudulentos. Los usuarios tendrán mayor seguridad al recibir comunicaciones, ya que se prohíbe el uso de números móviles para llamadas comerciales o de atención al cliente, fomentando el uso de números identificables.",
+  "professional_impact": "Los operadores de telecomunicaciones deben implementar sistemas técnicos de bloqueo de tráfico fraudulento y remitir estadísticas anuales de bloqueos. Las empresas que realicen llamadas comerciales o de atención al cliente deben usar numeración específica (800/900) y no números móviles, y los proveedores de mensajería deben registrar sus 'alias' ante la CNMC.",
+  "keywords": [
+    "estafas telefónicas",
+    "suplantación de identidad",
+    "SMS fraudulentos",
+    "operadores de telecomunicaciones",
+    "bloqueo de llamadas",
+    "seguridad ciudadana",
+    "CNMC"
+  ],
+  "key_points": [
+    "Bloqueo obligatorio de llamadas con número de remitente (CLI) vacío o inexistente.",
+    "Prohibición de llamadas internacionales que usen un número de teléfono español como identificador (salvo itinerancia).",
+    "Bloqueo de SMS/MMS/RCS que utilicen números no asignados o formatos incorrectos.",
+    "Obligación de registrar los 'alias' (nombres de remitente en SMS) ante la CNMC.",
+    "Prohibición de usar números de teléfono móvil para realizar llamadas comerciales o de atención al cliente.",
+    "Fomento del uso de números 800 y 900 para que las llamadas de atención al cliente sean gratuitas para el usuario.",
+    "Los operadores deben informar anualmente a la Secretaría de Estado sobre las llamadas y mensajes bloqueados."
+  ],
+  "legal_references": [
+    "Ley 11/2022, de 28 de junio, General de Telecomunicaciones",
+    "Real Decreto 381/2015, de 14 de mayo",
+    "Real Decreto 424/2005, de 15 de mayo",
+    "Real Decreto 2296/2004, de 10 de diciembre",
+    "Orden ITC/308/2008, de 31 de enero",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Ley 50/1997, de 27 de noviembre, del Gobierno",
+    "Ley 3/2013, de 4 de junio, de creación de la CNMC",
+    "Ley 30/1992, de la Protección de Datos (referenciada por contexto de la época)",
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales"
+  ],
+  "derogatations": [
+    "Resolución de 27 de mayo de 2013, de la Secretaría de Estado de Telecomunicaciones y para la Sociedad de la Información (modificada parcialmente)"
+  ],
+  "main_obligations": "Los operadores deben bloquear llamadas y mensajes con numeración falsa o internacional suplantando la nacional. Las empresas de mensajería deben registrar sus alias en la CNMC. Se prohíbe el uso de móviles para atención al cliente bajo riesgo de sanción según la Ley General de Telecomunicaciones.",
+  "effective_date": "2025-03-07",
+  "procedures": [
+    {
+      "name": "Implementación de la Orden TDF/149/2025",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Entrada en vigor general",
+          "descrption": "La norma entra en vigor tras 20 días de su publicación.",
+          "start_date": "2025-03-07",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo para bloqueo de llamadas internacionales con CLI nacional",
+          "descrption": "Los operadores deben cumplir con el bloqueo de llamadas internacionales que usen números españoles.",
+          "start_date": "2025-03-07",
+          "end_date": "2025-06-07",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Plazo para prohibición de uso de móviles en atención al cliente",
+          "descrption": "Entrada en vigor de la prohibición de usar numeración móvil para fines comerciales o de atención.",
+          "start_date": "2025-06-07",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Plazo para registro de alias y bloqueo de SMS internacionales",
+          "descrption": "Plazo máximo para la implementación de las medidas de registro de alias y bloqueo de mensajes internacionales.",
+          "start_date": "2025-03-07",
+          "end_date": "2026-06-07",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

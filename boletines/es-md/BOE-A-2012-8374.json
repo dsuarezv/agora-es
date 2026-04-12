@@ -1,0 +1,80 @@
+{
+  "identifier": "BOE-A-2012-8374",
+  "title": "Ley 1/2012, de 26 de marzo, para la Protección de los Derechos de los Consumiores Mediante el Fomento de la Transparencia en la Contratación Hipotecaria en la Comunidad de Madrid",
+  "visible_title": "Ley para la Protección de los Derechos de los Consumidores mediante el Fomento de la Transparencia en la Contratación Hipotecaria en la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "1/2012",
+  "publication_date": "2012-06-22",
+  "enactment_date": "2012-03-26",
+  "last_updated": "2018-12-06",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2012/03/26/1",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta norma busca que los ciudadanos de la Comunidad de Madrid comprendan perfectamente qué están firmando cuando piden una hipoteca. Obliga a las entidades financieras a entregar una oferta vinculante clara y a facilitar el borrador del contrato con antelación. El objetivo es evitar sorpresas financieras y permitir que el consumidor compare ofertas con datos reales y transparentes.",
+  "citizen_impact": "Garantiza que recibas el borrador de tu hipoteca al menos tres días hábiles antes de ir al notario, dándote tiempo para leerlo con calma. Además, te asegura que la oferta que te hicieron inicialmente coincida con el contrato final, protegiéndote de cambios de última hora en las condiciones.",
+  "professional_impact": "Las entidades de crédito y empresas de préstamos hipotecarios deben cumplir con protocolos estrictos de información previa y entrega de documentación. El incumplimiento de estas obligaciones de transparencia conlleva sanciones económicas severas que pueden llegar hasta los 600.000 euros en casos muy graves.",
+  "keywords": [
+    "hipotecas",
+    "transparencia",
+    "consumidores",
+    "Comunidad de Madrid",
+    "entidades de crédito",
+    "oferta vinculante",
+    "derechos del consumidor"
+  ],
+  "key_points": [
+    "Obligación de entregar una oferta vinculante tras la tasación y comprobación de solvencia.",
+    "Derecho a recibir el proyecto de contrato con una antelación mínima de tres días hábiles antes de la firma notarial.",
+    "Deber de informar al consumidor sobre cualquier diferencia entre la oferta inicial y el contrato final.",
+    "Extensión de los derechos de información al avalista, especialmente si este es consumidor.",
+    "Régimen sancionador con multas que escalan desde 15.000 hasta 600.000 euros según la gravedad."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Real Decreto Legislativo 1/2007",
+    "Estatuto de Autoautonomía de la Comunidad de Madrid",
+    "Ley 11/1998 de Protección de los Consumidores de la Comunidad de Madrid",
+    "Real Decreto Legislativo 1298/1986",
+    "Ley 2/2009 de 31 de marzo",
+    "Ley 6/1991 de 4 de abril"
+  ],
+  "derogations": [],
+  "main_obligations": "Las entidades deben entregar la oferta vinculante y el proyecto de contrato con los plazos legales. Deben informar de cualquier discrepancia entre la oferta y el contrato. Las sanciones por incumplimiento pueden alcanzar los 600.000 euros.",
+  "effective_date": "2012-07-22",
+  "procedures": [
+    {
+      "name": "Proceso de contratación hipotecaria transparente",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Emisión de oferta vinculante",
+          "description": "La entidad entrega la oferta tras tasar el inmueble y comprobar la solvencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Oferta vinculante con todas las menciones legales"
+        },
+        {
+          "step": 2,
+          "title": "Examen del proyecto contractual",
+          "description": "El consumidor recibe el borrador del contrato para su revisión.",
+          "start_date": "3 días hábiles antes de la firma",
+          "end_date": null,
+          "required_documentation": "Proyecto de documento contractual"
+        },
+        {
+          "step": 3,
+          "title": "Otorgamiento de la escritura pública",
+          "description": "Firma del contrato ante notario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,94 @@
+{
+  "identifier": "BOE-A-2005-9402",
+  "title": "Ley 1/2005, de 16 de mayo, de parejas de hecho de la Comunidad Autónoma de Cantabria",
+  "visible_title": "Ley de parejas de hecho de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "1/2005",
+  "publication_date": "2005-06-07",
+  "enactment_date": "2005-05-16",
+  "last_updated": "2023-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2005/05/16/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley reconoce y regula jurídicamente a las parejas de hecho en Cantabria, sin importar su orientación sexual. Su objetivo es dotar de seguridad jurídica a las uniones estables y garantizar que tengan los mismos derechos y beneficios que los matrimonios en el ámbito autonómico. Para ello, crea un Registro de Parejas de Hecho y establece las reglas para su inscripción, convivencia y disolución.",
+  "citizen_impact": "Las parejas que convivan de forma estable en Cantabria pueden inscribirse en un registro para acceder a derechos similares al matrimonio, como beneficios fiscales, acceso a vivienda pública y derechos en servicios sanitarios. También permite regular mediante pactos cómo se gestionarán los gastos comunes y la situación de los hijos en caso de separación.",
+  "professional_impact": "Los funcionarios de la Administración de Cantabria deben tratar a estas parejas con la misma equiparación que a los cónyuges en permisos, licencias y ayudas sociales. Los profesionales del sector sanitario y de servicios sociales deben reconocer sus derechos de información y toma de decisiones en situaciones críticas.",
+  "keywords": [
+    "parejas de hecho",
+    "Cantabria",
+    "derechos de convivencia",
+    "registro de parejas de hecho",
+    "igualdad",
+    "derecho administrativo"
+  ],
+  "key_points": [
+    "Creación del Registro de Parejas de Hecho de Cantabria para dar efectos jurídicos a la unión.",
+    "Requisito de convivencia mínima de un año o tener descendencia común para la inscripción.",
+    "Equiparación de derechos y obligaciones con el matrimonio en el ámbito de la normativa autonómica de Cantabria.",
+    "Posibilidad de realizar pactos económicos de convivencia mediante escritura pública.",
+    "Derecho a solicitar compensación económica si la ruptura genera un enriquecimiento injusto por trabajo en el hogar.",
+    "Derechos de información y toma de decisiones en el ámbito sanitario para la pareja.",
+    "Acceso a residencias de mayores y vivienda pública en igualdad de condiciones que los matrimonios.",
+    "Equiparación fiscal en los tributos propios de la Comunidad Autónoma de Cantabria."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía para Cantabria",
+    "Ley 30/1992, de 26 de diciembre, de régimen jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley 11/2002, de 23 de diciembre, de Medidas Fiscales en materia de Tributos cedidos por el Estado"
+  ],
+  "derogations": [
+    "Todas las disposiciones de igual o inferior rango que se opongan a lo previsto en esta Ley"
+  ],
+  "main_obligations": "Las parejas deben inscribirse de forma voluntaria para gozar de los efectos de la ley. En caso de disolución, están obligadas a cancelar la inscripción en el Registro y dejar sin efecto los documentos públicos de constitución otorgados.",
+  "effective_date": "2005-06-08",
+  "procedures": [
+    {
+      "name": "Inscripción en el Registro de Parejas de Hecho de Cantabria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inscripción",
+          "description": "Presentación de la solicitud con el consentimiento conjunto de ambos miembros de la pareja.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de residencia efectiva en Cantabria (mínimo 6 meses) y prueba de convivencia (1 año) o descendencia común."
+        },
+        {
+          "step": 2,
+          "title": "Resolución y registro",
+          "description": "El órgano competente verifica los requisitos y procede a la inscripción gratuita.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Disolución de la pareja de hecho",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de la voluntad de disolver",
+          "description": "Comunicación fehaciente de la voluntad unilateral o mutuo acuerdo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Cancelación registral",
+          "description": "Obligación de instar la cancelación de la inscripción en el Registro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

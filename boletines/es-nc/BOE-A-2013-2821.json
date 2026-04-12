@@ -1,0 +1,72 @@
+{
+  "identifier": "BOE-A-2013-2821",
+  "title": "Ley Foral 8/2013, de 25 de febrero, por la que se reconoce a las personas residentes en Navarrra el derecho de acceso a la asistencia sanitaria gratuita del sistema público sanitario de Navarrra",
+  "visible_title": "Derecho de acceso a la asistencia sanitaria gratuita para residentes en Navarra",
+  "rank": "ley foral",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "8/2013",
+  "publication_date": "2013-03-15",
+  "enactment_date": "2013-02-25",
+  "last_updated": "2018-03-23",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2013/02/25/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma pretendía garantizar el acceso universal y gratuito a la sanidad pública en Navarra para todos sus residentes, independientemente de su situación administrativa o nacionalidad. Surgió como respuesta para contrarrestar las restricciones impuestas por la normativa estatal (Real Decreto-ley 16/2012) que condicionaba la asistencia a la condición de asegurado o beneficiario. El objetivo era asegurar que el empadronamiento fuera el único requisito para acceder a los servicios sanitarios sin coste.",
+  "citizen_impact": "En su momento, buscaba que cualquier persona empadronada en Navarra pudiera ir al médico sin pagar cuotas especiales, incluso si no tenía derecho a la Seguridad Social. Sin embargo, la norma ha sido declarada inconstitucional, por lo que su impacto real fue anulado por el Tribunal Constitucional.",
+  "professional_impact": "Para los profesionales del sector salud y la administración sanitaria navarra, la ley suponía la obligación de tramitar documentos de acceso gratuito y garantizar la misma atención que a los asegurados de la Seguridad Social. No obstante, la declaración de inconstitucionalidad eliminó esta carga operativa.",
+  "keywords": [
+    "asistencia sanitaria",
+    "Navarra",
+    "universalidad",
+    "derechos sanitarios",
+    "residencia",
+    "gratuidad"
+  ],
+  "key_points": [
+    "Reconocimiento del derecho a la sanidad gratuita para todos los residentes en Navarra.",
+    "El empadronamiento se establece como prueba suficiente de residencia para acceder al derecho.",
+    "Se prohíbe cualquier tipo de discriminación en la atención entre residentes y asegurados de la Seguridad Social.",
+    "Garantía de acceso inmediato a la complementación de prestaciones farmacéuticas.",
+    "La norma fue declarada inconstitucional y nula por el Tribunal Constitucional mediante Sentencia 17/2018."
+  ],
+  "legal_references": [
+    "Ley Foral 17/2010, de 8 de noviembre",
+    "Decreto Foral 640/1996, de 18 de noviembre",
+    "Real Decreto-ley 16/2012, de 20 de abril",
+    "Ley Foral 18/2012, de 19 de octubre",
+    "Ley 16/2003, de 28 de mayo",
+    "Sentencia del TC 17/2018, de 22 de febrero"
+  ],
+  "derogations": [
+    "Decreto Foral 640/1996, de 18 de noviembre"
+  ],
+  "main_obligations": "La Administración sanitaria estaba obligada a expedir gratuitamente documentos de identificación de acceso al régimen de universalización para quienes no tuvieran tarjeta sanitaria, previa acreditación de residencia.",
+  "effective_date": "2013-03-15",
+  "procedures": [
+    {
+      "name": "Acceso al régimen de universalización de la asistencia sanitaria en Navarra",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de residencia",
+          "description": "Presentar cualquier medio admitido en Derecho, incluyendo el empadronamiento, para demostrar el domicilio en un municipio de Navarra.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento de empadronamiento o cualquier otro medio que acredite la residencia."
+        },
+        {
+          "step": 2,
+          "title": "Expedición de documento de identificación",
+          "description": "La Administración debe entregar sin demora un documento de acceso para quienes no tengan tarjeta sanitaria individual.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación de residencia aportada en el paso anterior."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,92 @@
+{
+  "identifier": "BOE-A-2023-17646",
+  "title": "Ley 8/2023, de 29 de junio, de lugares o centros de culto y diversidad religiosa en la Comunidad Autónoma del País Vasco",
+  "visible_title": "Ley de lugares o centros de culto y diversidad religiosa en el País Vasco",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "8/2023",
+  "publication_date": "2023-08-01",
+  "enactment_date": "2023-07-07",
+  "last_updated": "2023-07-19",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2023/06/29/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca gestionar la creciente diversidad religiosa en el País Vasco garantizando el derecho a la libertad de culto de forma igualitaria. Establece que los ayuntamientos deben reservar suelo para centros de culto en sus planes urbanísticos y regula los trámites para su apertura. Además, crea el Consejo Interreligioso Vasco para fomentar el diálogo y la convivencia entre todas las confesiones.",
+  "citizen_impact": "Garantiza que cualquier persona, independientemente de su creencia, pueda encontrar espacios adecuados para su práctica religiosa en la comunidad. Facilita que las minorías religiosas tengan las mismas oportunidades de establecer centros de culto que las confesiones mayoritarias.",
+  "professional_impact": "Los ayuntamientos y técnicos urbanistas deberán integrar reservas de suelo para equipamientos religiosos en sus planes municipales en un plazo de 8 años. Las entidades religiosas deberán acreditar su personalidad jurídica ante el Registro de Entidades Religiosas para cualquier trámite de apertura o licencia.",
+  "keywords": [
+    "libertad religiosa",
+    "centros de culto",
+    "urbanismo",
+    "diversidad religiosa",
+    "País Vasco",
+    "convivencia",
+    "Consejo Interreligioso"
+  ],
+  "key_points": [
+    "Obligación de los ayuntamientos de reservar suelo para equipamientos religiosos en sus planes urbanísticos.",
+    "Creación del Consejo Interreligioso Vasco como órgano consultivo para el diálogo entre instituciones y confesiones.",
+    "Prohibición de discriminación directa o indirecta en la concesión de licencias o asignación de usos de suelo para culto.",
+    "Los ayuntamientos deben garantizar espacios para funerales de distintas confesiones y también para funerales civiles.",
+    "Plazo de 8 años para que los municipios adapten su planeamiento urbanístico a esta nueva ley.",
+    "Los centros de culto deben cumplir estrictas condiciones de seguridad, salubridad y protección acústica.",
+    "Posibilidad de usar espacios públicos de forma esporádica para actividades religiosas mediante cesiones igualitarias."
+  ],
+  "legal_references": [
+    "Ley Orgánica 7/1980, de 5 de julio, de Libertad Religiosa",
+    "Ley 2/2006, de 30 de junio, de Suelo y Urbanismo",
+    "Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local",
+    "Ley 10/2021, de 9 de diciembre, de Administración Ambiental de Euskadi",
+    "Ley 6/2019, de 9 de mayo, de Patrimonio Cultural Vasco"
+  ],
+  "derogations": [],
+  "main_obligations": "Las entidades religiosas deben acreditar su personalidad jurídica mediante el Registro de Entidades Religiosas para solicitar licencias. Los ayuntamientos deben asegurar que los centros de culto cumplan con las normas de seguridad y salubridad, pudiendo ordenar su cierre si no se subsanan deficiencias que pongan en peligro a las personas.",
+  "effective_date": "2023-08-21",
+  "procedures": [
+    {
+      "name": "Apertura de un lugar o centro de culto",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de personalidad jurídica",
+          "descrption": "Obtener el certificado del Registro de Entidades Religiosas que acredite la existencia de la comunidad y su ubicación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado del Registro de Entidades Religiosas"
+        },
+        {
+          "step": 2,
+          "title": "Comunicación previa al Ayuntamiento",
+          "descrption": "Presentar la comunicación de apertura ante la administración local antes de iniciar la actividad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado de personalidad jurídica y documentación urbanística según normativa"
+        },
+        {
+          "step": 3,
+          "title": "Cumplimiento de licencias urbanísticas",
+          "descrption": "Tramitar las licencias de obra o adecuación necesarias según el régimen general urbanístico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyectos técnicos de adecuación"
+        }
+      ]
+    },
+    {
+      "name": "Adaptación del planeamiento urbanístico municipal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Revisión de planes generales",
+          "descrption": "Los municipios deben adaptar sus planes para incluir reservas de suelo para centros de culto.",
+          "start_date": null,
+          "end_date": "8 años desde la entrada en vigor de la ley"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

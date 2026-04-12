@@ -1,0 +1,89 @@
+{
+  "identifier": "BOE-A-2001-15386",
+  "title": "Ley 6/2001, de 23 de julio, de Medidas Urgentes en Materia de Ordenación del Territorio y del Turismo de Canarias",
+  "visible_title": "Ley de Medidas Urgentes en Materia de Ordenación del Territorio y del Turismo de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "6/2001",
+  "publication_date": "2001-08-07",
+  "enactment_date": "2001-07-23",
+  "last_updated": "2003-04-15",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2001/07/23/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley actúa como un freno de emergencia para frenar el crecimiento descontrolado de la oferta turística en Canarias mientras se redactan las nuevas directrices de ordenación. Suspende la aprobación de nuevos proyectos urbanísticos y licencias para hoteles, salvo excepciones muy específicas de alta calidad o turismo rural. Su objetivo es evitar que el territorio se sature antes de que existan unas reglas de juego sostenibles y modernas.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo para aquellos que pretendían adquirir una vivienda en zonas de desarrollo turístico o realizar inversiones en complejos hoteleros durante el periodo de suspensión.",
+  "professional_impact": "Afecta drásticamente a promotores turísticos, constructoras y urbanistas, al paralizar la tramitación de licencias y planes de desarrollo. Los hoteles existentes pueden beneficiarse si realizan reformas de mejora sin aumentar su capacidad, pero se imponen controles estrictos sobre la vigencia de licencias y autorizaciones previas.",
+  "keywords": [
+    "turismo",
+    "ordenación del territorio",
+    "Canarias",
+    "suspensión de licencias",
+    "desarrollo sostenible",
+    "urbanismo",
+    "medidas urgentes"
+  ],
+  "key_points": [
+    "Suspensión inmediata de la concesión de licencias urbanísticas para nuevos establecimientos turísticos alojativos.",
+    "Paralización de la tramitación de planes parciales y especiales que permitan uso turístico.",
+    "Excepción de suspensión para proyectos de rehabilitación de hoteles que mejoren su categoría sin aumentar plazas.",
+    "Permiso excepcional para hoteles de alta categoría (4 y 5 estrellas) vinculados a infraestructuras de ocio o salud (golf, puertos, etc.).",
+    "Creación de un régimen especial de tramitación rápida para las islas de La Palma, La Gomera y El Hierro.",
+    "Extinción de la eficacia de planes parciales turísticos antiguos que no hubieran llegado a ejecutarse.",
+    "Establecimiento de plazos de caducidad estrictos para autorizaciones previas y licencias urbanísticas."
+  ],
+  "legal_references": [
+    "Ley 7/1995, de 6 de abril, de Ordenación del Turismo de Canarias",
+    "Estatuto de Autonomía de Canarias",
+    "Decreto Legislativo 1/2000, de 8 de mayo",
+    "Real Decreto 2.187/1978"
+  ],
+  "derogations": [
+    "Ley 6/2001 (derogada en su mayor parte por la Ley 19/2003)"
+  ],
+  "main_obligations": "Los promotores deben acreditar la ejecución de obras iniciadas antes de la ley para evitar la caducidad de licencias. Los ayuntamientos y cabildos están obligados a comunicar todas las licencias turísticas y residenciales otorgadas a la Consejería de Turismo.",
+  "effective_date": "2001-08-08",
+  "procedures": [
+    {
+      "name": "Tramitación de Planes Territoriales Especiales (Islas Occidentales)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Formulación y aprobación inicial",
+          "description": "El Cabildo elabora el plan y lo somete a información pública y audiencia a ayuntamientos.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aprobación provisional",
+          "description": "El Cabildo remite el plan al Gobierno de Canarias para su revisión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informe de la Comisión de Ordenación",
+          "description": "La Comisión de Ordenación del Territorio y Medio Ambiente debe emitir informe.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación definitiva",
+          "description": "El Gobierno de Canarias dicta la aprobación final del plan.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

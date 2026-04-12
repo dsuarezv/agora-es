@@ -1,0 +1,83 @@
+{
+  "identifier": "BOE-A-2016-11673",
+  "title": "Ley 2/2016, de 11 de noviembre, por la que se regulan las actuaciones para dar curso a las informaciones que reciba la Administración Autonómica sobre hechos relacionados con delitos contra la Administración Pública y se establecen las garantías de los informantes",
+  "visible_title": "Ley de protección de informantes y lucha contra la corrupción en la Administración de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "2/2016",
+  "publication_date": "2016-12-08",
+  "enactment_date": "2016-11-11",
+  "last_updated": "2023-05-15",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2016/11/11/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece un mecanismo para que los empleados de la Administración de Castilla y León puedan denunciar posibles delitos contra la Administración Pública sin miedo a represalias. Crea un procedimiento de investigación reservado gestionado por la Inspección General de Servicios para valorar si los hechos son infracciones administrativas o delitos penales. Además, garantiza la protección de la identidad del informante y su estabilidad laboral durante el proceso.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en la mejora de la transparencia y la lucha contra la corrupción en las instituciones públicas.",
+  "professional_impact": "Afecta directamente a los funcionarios y personal de la Administración de Castilla y León, otorgándoles protección frente a despidos o traslados injustificados tras denunciar irregularidades. También impone la obligación de no presentar denuncias falsas, lo que se considera una falta grave.",
+  "keywords": [
+    "delitos contra la administración pública",
+    "protección de informantes",
+    "transparencia",
+    "corrupción",
+    "Castilla y León",
+    "garantías laborales",
+    "inspección de servicios"
+  ],
+  "key_points": [
+    "Protección de la identidad: Se prohíbe revelar los datos que permitan identificar al informante.",
+    "Inamovilidad laboral: Prohibición de adoptar medidas que perjudiquen la relación de servicio o el puesto de trabajo del denunciante.",
+    "Traslado excepcional: El informante puede solicitar su traslado a otro puesto similar para evitar conflictos, siempre que sea voluntario.",
+    "Plazos de investigación: La Inspección General tiene un plazo de 2 meses (ampliable a 6) para investigar la información recibida.",
+    "Canal de derivación: Si hay indicios de delito, se remite al Ministerio Fiscal; si es falta administrativa, se abre expediente sancionador.",
+    "Sanción por falsedad: Presentar información sin fundamento se considera una falta grave y puede tener consecuencias penales."
+  ],
+  "legal_references": [
+    "Código Penal (Título XIX)",
+    "Ley de la Función Pública de Castilla y León",
+    "Ley 3/2001 de Gobierno y Administración de Castilla y León",
+    "Ley 3/2015 de Transparencia y Participación Ciudadana de Castilla y León",
+    "Ley 7/2005 de la Función Pública de Castilla y León",
+    "Ley 2/2007 del Estatuto Jurídico del Personal Estatutario del Servicio de Salud de Castilla y León",
+    "Ley de Enjuiciamiento Criminal"
+  ],
+  "derogations": [
+    "Ley 2/2016 (derogada por el Decreto-ley 3/2023, de 11 de mayo)"
+  ],
+  "main_obligations": "Los funcionarios deben abstenerse de presentar informaciones deliberadamente infundadas, lo cual constituye una falta grave. La Administración está obligada a mantener la reserva de la identidad del informante y a no tomar represalias laborales.",
+  "effective_date": "2016-12-09",
+  "procedures": [
+    {
+      "name": "Tramitación de información sobre posibles delitos contra la Administración",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Remisión a Inspección",
+          "description": "La información se envía a la Inspección General de Servicios para iniciar una información reservada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Labor inspectora",
+          "description": "Desarrollo de la investigación por parte de la Inspección General de Servicios.",
+          "start_date": "Desde la recepción",
+          "end_date": "2 meses (ampliable a 6 meses)",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución y derivación",
+          "description": "Si hay indicios de delito, se remite al Ministerio Fiscal. Si es infracción administrativa, se propone expediente sancionador.",
+          "start_date": "Tras finalizar la investigación",
+          "end_date": null,
+          "required_documentation": "Informe de la Inspección General"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

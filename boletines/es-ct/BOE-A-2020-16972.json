@@ -1,0 +1,88 @@
+{
+  "identifier": "BOE-A-2020-16972",
+  "title": "Decreto-ley 44/2020, de 17 de noviembre, por el que se crea el Censo de espacios de cultura responsables",
+  "visible_title": "Censo de espacios de cultura responsables",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "44/2020",
+  "publication_date": "2020-12-25",
+  "enactment_date": "2020-11-17",
+  "last_updated": "2022-05-18",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2020/11/17/44",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma crea un registro electrónico para identificar los centros culturales en Cataluña que cumplen con estrictos protocolos sanitarios frente a la COVID-19. El objetivo es dar seguridad a la ciudadanía y permitir que estos espacios sigan operativos mediante un distintivo de confianza. Además, exige que los centros censados se comprometan con programas de inclusión social para combatir el aislamiento.",
+  "citizen_impact": "Permite a los ciudadanos identificar fácilmente qué espacios culturales son seguros para visitar durante la pandemia gracias a un distintivo oficial. Ayuda a garantizar que la oferta cultural sea inclusiva y combata el aislamiento social.",
+  "professional_impact": "Los gestores de espacios culturales deben realizar un trámite de inscripción electrónica y presentar declaraciones responsables sobre sus protocolos sanitarios y seguros. Implica la obligación de mantener medidas de salud pública y desarrollar programas de inclusión social para conservar el distintivo.",
+  "keywords": [
+    "cultura",
+    "COVID-19",
+    "censos",
+    "Cataluña",
+    "protocolos sanitarios",
+    "inclusión social",
+    "espacios culturales"
+  ],
+  "key_points": [
+    "Creación de un censo electrónico para espacios culturales en Cataluña.",
+    "Uso de un distintivo oficial llamado «Espais de Cultura Responsable».",
+    "Obligatoriedad de cumplir protocolos sanitarios para prevenir la COVID-19.",
+    "Compromiso de implementar programas de inclusión social para colectivos vulnerables.",
+    "El silencio administrativo tras un mes de solicitud implica la estimación de la misma.",
+    "Los espacios deben contar con seguro de responsabilidad civil."
+  ],
+  "legal_references": [
+    "Estatuto de la autonomía de Cataluña",
+    "Ley 13/2008, de 5 de noviembre, de la presidencia de la Generalidad y del Gobierno",
+    "Decreto 114/2020, de 30 de septiembre",
+    "Plan de actuación del PROCICAAT"
+  ],
+  "derogations": [
+    "Decreto-ley 44/2020, de 17 de noviembre (derogado por el Decreto-ley 5/2022, de 17 de mayo)"
+  ],
+  "main_obligations": "Los titulares deben adoptar protocolos sanitarios oficiales, contar con seguro de responsabilidad civil y ejecutar programas de inclusión social. Deben comunicar cualquier incumplimiento de estos requisitos de forma inmediata.",
+  "effective_date": "2020-12-25",
+  "procedures": [
+    {
+      "name": "Inscripción en el Censo de espacios de cultura responsables",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Envío de formulario electrónico a través del portal Trámites gencat con datos del titular, ubicación y aforo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Identificación electrónica, datos del espacio, declaración de actividades culturales, protocolo sanitario y seguro de responsabilidad civil."
+        },
+        {
+          "step": 2,
+          "title": "Subsanación de errores",
+          "description": "Si falta documentación, la Administración requerirá al interesado para que la aporte.",
+          "start_date": null,
+          "end_date": "10 días hábiles",
+          "required_documentation": "Documentación complementaria requerida"
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "La autoridad competente dicta la resolución de inclusión o denegación.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Audiencia (en caso de denegación)",
+          "description": "Si la solicitud es inadmitida o denegada, se abre un periodo para alegaciones.",
+          "start_date": null,
+          "end_date": "15 días hábiles",
+          "required_documentation": "Alegaciones y documentos pertinentes"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

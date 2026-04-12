@@ -1,0 +1,129 @@
+{
+  "identifier": "BOE-A-2019-6774",
+  "title": "Ley 6/2019, de 9 de abril, de Caliidad Agroalimentaria",
+  "visible_title": "Ley de Calidad Agroalimentaria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "6/2019",
+  "publication_date": "2019-05-08",
+  "enactment_date": "2019-04-09",
+  "last_updated": "2021-04-23",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2019/04/09/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo se garantiza la calidad y seguridad de los alimentos producidos en Canarias. Establece un marco que distingue entre productos estándar y aquellos con denominaciones de calidad protegidas (DOP/IGP), permitiendo además el uso de términos como 'artesano'. La norma impone controles estrictos de trazabilidad y autocontrol para evitar fraudes, especialmente en el uso de términos como 'del país' o 'guachinche'. Además, endurece las sanciones para quienes incumplan las normas de seguridad alimentaria, llegando a multas millonarias.",
+  "citizen_impact": "El ciudadano obtiene mayor seguridad y transparencia al comprar alimentos, ya que se garantiza que las etiquetas (como 'artesano', 'del país' o 'guachinche') correspondan a la realidad. Esto protege el consumidor de engaños sobre el origen y la calidad de lo que consume.",
+  "professional_impact": "Los productores y empresas agroalimentarias deben implementar sistemas de autocontrol y trazabilidad documentada, manteniendo registros por 5 años. Se introducen restricciones estrictas en el etiquetado (ej. el término 'del país' requiere un 95% de materia prima canaria) y se otorga a los inspectores potestad para realizar inspecciones sin previo aviso y retirar productos de inmediato.",
+  "keywords": [
+    "calidad agroalimentaria",
+    "Canarias",
+    "trazabilidad",
+    "seguridad alimentaria",
+    "denominación de origen",
+    "inspección alimentaria",
+    "etiquetado"
+  ],
+  "key_points": [
+    "Reconocimiento de la 'artesanía agroalimentaria' bajo condiciones específicas para usar términos como 'artesano'.",
+    "Uso permitido de 'vino de finca' o 'vino de parcela' si la uva es exclusiva de ese lugar.",
+    "Obligatoriedad de identificar claramente depósitos, silos y contenedores de productos a granel.",
+    "Los productos no conformes deben etiquetarse y almacenarse por separado para evitar confusiones.",
+    "Simplificación de trámites para producción ecológica: se elimina el registro previo y la renovación anual de intención de actividad.",
+    "Los inspectores pueden acceder a instalaciones, vehículos y documentación sin previo aviso.",
+    "Para usar el término 'del país', el 95% de la materia prima debe ser canaria (100% en productos sin transformar).",
+    "Prohibición del término 'guachinche' a establecimientos que no cumplan la normativa de vino de cosecha propia.",
+    "La responsabilidad legal de un producto envasado recae sobre la firma que aparece en la etiqueta.",
+    "Posibilidad de inmovilizar productos o retirar mercancías de forma inmediata ante indicios de infracción.",
+    "Multas por infracciones muy graves que pueden alcanzar los 3.000.000 de euros.",
+    "Las multas coercitivas por incumplimiento pueden ser de hasta 100 euros diarios cada tres meses."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Canarias",
+    "Reglamento (CE) n.º 852/2004",
+    "Reglamento (UE) 1169/2011",
+    "Ley 1/2005, de 22 de abril",
+    "Ley 10/2006, de 11 de diciembre",
+    "Ley 4/2015, de 9 de marzo",
+    "Reglamento (UE) n.º 110/2008",
+    "Reglamento (UE) n.º 1151/2012",
+    "Reglamento (UE) n.º 1308/2013",
+    "Reglamento (UE) n.º 251/2014",
+    "Real Decreto 1077/2014",
+    "Constitución Española (artículo 25.1)",
+    "Real Decreto 1945/1983",
+    "Reglamento (CE) n.º 178/2002",
+    "Decreto 39/2016",
+    "Ley 40/2015",
+    "Decreto 251/1997",
+    "Ley 1/1991",
+    "Decreto 83/2013",
+    "Decreto 90/2010",
+    "Guion quinto del artículo 5, apartado 2, letra a), de la Ley 1/2005",
+    "Artículo 2, letra h), del Reglamento de Organización y Funcionamiento del Instituto Canario de Calidad Agroalimentaria",
+    "Orden de 7 de febrero de 1994",
+    "Orden de 25 de abril de 1996",
+    "Orden de 30 de noviembre de 1998",
+    "Decreto 45/1999",
+    "Orden de 19 de mayo de 1999"
+  ],
+  "derogations": [
+    "Decreto 45/1999, de 18 de marzo",
+    "Orden de desarrollo de 19 de mayo de 1999",
+    "Orden de 25 de abril de 1996",
+    "Orden de 30 de noviembre de 1998",
+    "Orden de 7 de febrero de 1994",
+    "Guion quinto del artículo 5, apartado 2, letra a), de la Ley 1/2005",
+    "Artículo 2, letra h), del Reglamento de Organización y Funcionamiento del Instituto Canario de Calidad Agroalimentaria"
+  ],
+  "main_obligations": "Los operadores deben implementar un sistema de autocontrol documentado y mantener registros de trazabilidad (entradas, salidas, lotes, origen) durante un periodo de 5 años. Asimismo, deben adaptar sus sistemas de calidad en un plazo máximo de un año tras la entrada en vigor.",
+  "effective_date": "2019-05-09",
+  "procedures": [
+    {
+      "name": "Corrección de deficiencias en el sistema de autocontrol",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Detección de deficiencias",
+          "description": "El operador detecta fallos en su propio sistema de control.",
+          "start_date": "Desde el conocimiento de la deficiencia",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aplicación de medidas correctoras",
+          "description": "El operador debe implementar las correcciones necesarias.",
+          "start_date": "Desde el conocimiento de la deficiencia",
+          "end_date": "15 días (prorrogable por causa justificada)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de advertencia previa por irregularidades",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de irregularidad",
+          "description": "Si la infracción es leve, el operador es de pequeña escala o circuito corto, se envía una carta de advertencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Corrección de la irregularidad",
+          "description": "El operador debe corregir lo detectado en el plazo señalado por la administración.",
+          "start_date": "Desde la recepción de la carta",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

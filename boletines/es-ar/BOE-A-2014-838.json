@@ -1,0 +1,76 @@
+{
+  "identifier": "BOE-A-2014-838",
+  "title": "Ley 10/2013, de 19 de diciembre, del Instituto Aragonés de Gestión Ambiental",
+  "visible_title": "Ley del Instituto Aragonés de Gestión Ambiental",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "10/2013",
+  "publication_date": "2014-01-28",
+  "enactment_date": "2013-12-19",
+  "last_updated": "2021-10-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2013/12/19/10",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y reorganiza el Instituto Aragonés de Gestión Ambiental para hacerlo más eficiente y digital. Busca simplificar la burocracia ambiental mediante la agilización de trámites, la integración de procedimientos y la obligatoriedad de la gestión electrónica. Además, permite actualizar la lista de competencias del Instituto mediante decretos para adaptarse rápidamente a los cambios normativos.",
+  "citizen_impact": "Facilita el acceso a la información ambiental y permite realizar la mayoría de los trámites de forma telemática. Esto reduce la necesidad de desplazamientos y agiliza la resolución de expedientes relacionados con el medio ambiente.",
+  "professional_impact": "Las empresas y profesionales del sector ambiental deben realizar casi todos sus trámites de forma obligatoriamente electrónica. Se introduce una mayor predictibilidad y rapidez en la obtención de autorizaciones, aunque también una mayor exigencia en la presentación de documentación en soporte digital.",
+  "keywords": [
+    "gestión ambiental",
+    "Aragón",
+    "administración electrónica",
+    "simplificación administrativa",
+    "autorización ambiental",
+    "evaluación de impacto ambiental"
+  ],
+  "key_points": [
+    "Digitalización obligatoria: La mayoría de los trámites ante el Instituto deben realizarse por vía electrónica.",
+    "Deslegalización del Anexo de procedimientos: El listado de competencias puede actualizarse mediante Decreto para mayor agilidad.",
+    "Simplificación de trámites: Se busca la práctica simultánea de trámites que antes eran sucesivos para reducir plazos.",
+    "Integración de procedimientos: El Instituto trabajará para unificar distintas autorizaciones que afecten a un mismo proyecto.",
+    "Mejora de la transparencia: Se impulsa la participación pública y el acceso digital a la información ambiental y cartográfica.",
+    "Gestión de calidad: Obligación de implantar sistemas de gestión de calidad y medioambiental certificados."
+  ],
+  "legal_references": [
+    "Ley 23/2003",
+    "Ley 8/2004",
+    "Ley 9/2010",
+    "Ley 17/2009",
+    "Ley 11/2007",
+    "Ley 30/1992",
+    "Directiva 2006/123/CE",
+    "Estatuto de Autonomía de Aragón"
+  ],
+  "derogations": [
+    "Ley 23/2003, de 23 de diciembre, de creación del Instituto Aragonés de Gestión Ambiental",
+    "Decreto 346/2011, de 14 de octubre"
+  ],
+  "main_obligations": "Los ciudadanos y empresas están obligados a presentar solicitudes de forma telemática en casi todos los procedimientos del Anexo (excepto los específicamente excluidos). Los promotores deben presentar la documentación tanto en papel como en soporte digital según la normativa reglamentaria.",
+  "effective_date": "2014-01-29",
+  "procedures": [
+    {
+      "name": "Procedimientos del Anexo Único",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Tramitación obligatoriamente telemática para la mayoría de los casos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación en soporte digital según especificaciones técnicas."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y resolución",
+          "description": "El Instituto resuelve según los plazos ordinarios o revisados indicados en el Anexo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,72 @@
+{
+  "identifier": "BOE-A-2025-27116",
+  "title": "Orden VAU/1560/2025, de 22 de diciembre, por la que se aprueba el modelo informativo para cada categoría y tipo de arrendamientos sujetos al artículo 10.4 del Real Decreto 1312/2024, de 23 de diciembre, por el que se regula el procedimiento de Registro Único de Arrendamientos y se crea la Ventanilla Única Digital de Arrendamientos para la recogida y el intercambio de datos relativos a los servicios de alquiler de alojamientos de corta duración",
+  "visible_title": "Modelo informativo para el registro de alquileres de corta duración",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio de Vivienda y Agenda Urbana",
+  "official_number": "VAU/1560/2025",
+  "publication_date": "2025-12-31",
+  "enactment_date": "2025-12-22",
+  "last_updated": "2025-12-31",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2025/12/22/vau1560",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "315",
+  "summary": "Esta norma establece el formato oficial que deben usar los propietarios de viviendas de alquiler de corta duración para informar anualmente sobre sus actividades. El objetivo es permitir que las autoridades tengan datos fiables y comparables para controlar el impacto de los alquileres turísticos y de corta estancia. Para ello, se introduce un modelo técnico estandarizado (XBRL) que facilita el intercambio de información entre plataformas, registros y el Estado.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes, salvo que se les beneficie de una mejor regulación del mercado de vivienda gracias a la mayor transparencia de los datos de alquiler turístico.",
+  "professional_impact": "Los arrendadores de alojamientos de corta duración (anfitriones) y plataformas digitales deberán cumplir con una nueva obligación de reporte anual. Esto implica presentar un modelo informativo específico cada mes de febrero a través de la sede electrónica de los Registradores, utilizando un formato digital técnico (XBRL) y manteniendo la documentación que justifique la finalidad del alquiler (vacacional, laboral, estudios, etc.).",
+  "keywords": [
+    "alquiler de corta duración",
+    "alojamiento turístico",
+    "modelo informativo",
+    "registro de arrendamientos",
+    "XBRL",
+    "Ventanilla Única Digital de Arrendamientos"
+  ],
+  "key_points": [
+    "Obligación de presentar un modelo informativo anual durante el mes de febrero.",
+    "El reporte debe incluir un listado anonimizado de los arrendamientos realizados el año anterior.",
+    "Es obligatorio identificar la finalidad del alquiler (turística, laboral, estudios, médica, etc.).",
+    "Se introduce el uso de la tecnología XBRL para la presentación digital de datos.",
+    "Los registradores pueden solicitar documentación adicional para verificar la veracidad de la finalidad del alquiler.",
+    "El uso indebido del número de registro para fines distintos a su categoría puede conllevar la cancelación de la nota marginal y la retirada del número.",
+    "La información se presenta por cada finca, buque o embarcación."
+  ],
+  "legal_references": [
+    "Reglamento (UE) 2024/1028",
+    "Real Decreto 1312/2024",
+    "Ley 29/1994 de Arrendamientos Urbanos",
+    "Ley 39/2015 del Procedimiento Administrativo Común",
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Ley Orgánica 3/2018 de Protección de Datos"
+  ],
+  "derogations": [],
+  "main_obligations": "Los arrendadores de alojamientos de corta duración deben presentar anualmente, durante el mes de febrero, el modelo informativo de arrendamientos (en formato papel o electrónico XBRL) detallando los contratos del año anterior y su finalidad específica.",
+  "effective_date": "2026-01-02",
+  "procedures": [
+    {
+      "name": "Presentación del modelo informativo de arrendamientos de corta duración",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recopilación de datos y justificación",
+          "description": "El arrendador debe reunir la información de los arrendamientos del año anterior y la documentación que acredite su finalidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación acreditativa de la finalidad del arrendamiento (si fuera requerida por el registrador)."
+        },
+        {
+          "step": 2,
+          "title": "Presentación anual del modelo",
+          "description": "Depósito del modelo informativo (en formato XBRL o papel) ante el Registro de la Propiedad o de Bienes Muebles.",
+          "start_date": "cada 1 de febrero",
+          "end_date": "28/29 de febrero",
+          "required_documentation": "Modelo informativo de arrendamientos de corta duración (anexo de la orden)."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

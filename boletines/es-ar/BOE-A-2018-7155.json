@@ -1,0 +1,147 @@
+{
+  "identifier": "BOE-A-2018-7155",
+  "title": "Ley 5/2018, de 19 de abril, del Taxi",
+  "visible_title": "Ley del Taxi",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "5/2018",
+  "publication_date": "2018-05-30",
+  "enactment_date": "2018-04-19",
+  "last_updated": "2023-04-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2018/04/19/5",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y regula específicamente el sector del taxi en Aragón, sustituyendo normativas nacionales obsoletas por un marco autonómico propio. Establece reglas claras para la obtención de licencias, la distinción entre servicios urbanos e interurbanos y la lucha contra el intrusismo mediante la inmovilización de vehículos. Además, busca mejorar la accesibilidad y la calidad del servicio para el usuario final. La norma también gestiona la transición de licencias suspendidas y fomenta la oferta de vehículos adaptados.",
+  "citizen_impact": "El usuario gana derechos directos sobre el confort del viaje, como solicitar el uso de aire acondicionado/calefacción y el control del volumen de la radio. También se garantiza una mejor atención a personas con movilidad reducida, mujeres gestantes y niños. Por otro lado, se asegura una mayor legalidad en el servicio gracias a medidas contra el intrusismo.",
+  "professional_impact": "Los titulares de licencias deben cumplir con nuevos requisitos de actividad para evitar la caducidad de sus licencias (máximo 2 años de suspensión). Los ayuntamientos tienen la carga de actualizar sus ordenanzas en un año. Los conductores deben cumplir con deberes de asistencia y capacitación, mientras que las empresas pueden beneficiarse de la creación de licencias sin límite si son para vehículos adaptados.",
+  "keywords": [
+    "taxi",
+    "Aragón",
+    "licencias de taxi",
+    "transporte urbano",
+    "transporte interurbano",
+    "movilidad reducida",
+    "transporte adaptado"
+  ],
+  "key_points": [
+    "Se permite que personas jurídicas sean titulares de licencias en municipios de menos de 10.000 habitantes.",
+    "El número de licencias está limitado por ratios de población (ej. 1 por cada 600 habitantes en ciudades de más de 100.000).",
+    "Los taxis interurbanos requieren obligatoriamente una licencia urbana vinculada.",
+    "Se implementa la inmovilización inmediata del vehículo ante casos de intrusismo.",
+    "Las licencias suspendidas caducan automáticamente si no se retoma el servicio en un plazo de dos años.",
+    "Los ayuntamientos pueden exigir que las nuevas licencias sean de taxis adaptados si la oferta es insuficiente.",
+    "No hay límite de número de licencias si estas se destinan exclusivamente a taxis adaptados.",
+    "Se permite mantener contratos de conductores asalariados ya existentes bajo ciertas condiciones.",
+    "Los usuarios pueden controlar el clima y la radio en el vehículo.",
+    "Es obligatorio prestar asistencia a personas con movilidad reducida, gestantes y niños."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Aragón",
+    "Constitución Española (artículo 149.3)",
+    "Real Decreto 763/1979",
+    "Real Decreto 236/1983",
+    "Real Decreto 1080/1989",
+    "Ley 16/1987 de Ordenación de los Transportes Terrestres",
+    "Real Decreto 1211/1990",
+    "Ley 14/1998, de 30 de diciembre, de los Transportes Urbanos de la Comunidad Autónoma de Aragón",
+    "Decreto 24/2008, de 12 de febrero, del Gobierno de Aragón"
+  ],
+  "derogations": [
+    "Real Decreto 763/1979 (parcialmente en Aragón)",
+    "Capítulo II del título III de la Ley 14/1998",
+    "Artículo 10 y letra b) del artículo 12 del Decreto 24/2008"
+  ],
+  "main_obligations": "Los titulares de licencias suspendidas deben reanudar el servicio en un plazo máximo de 2 años para evitar la pérdida de la misma. Los ayuntamientos deben adaptar sus ordenanzas municipales a esta nueva ley en un plazo de 1 año.",
+  "effective_date": "2018-05-30",
+  "procedures": [
+    {
+      "name": "Transmisión de licencias de taxi",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de transmisión",
+          "description": "El interesado solicita la transmisión de la licencia municipal al ayuntamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el cumplimiento de requisitos de titularidad"
+        },
+        {
+          "step": 2,
+          "title": "Informe de la Dirección General de Transporte",
+          "description": "Tras la autorización municipal, se remite al Gobierno de Aragón para informar sobre la autorización interurbana.",
+          "start_date": "Tras la autorización municipal",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución y ejercicio de la actividad",
+          "description": "Notificación de la resolución y comienzo efectivo del servicio.",
+          "start_date": "Tras la notificación de la transmisión de la autorización interurbana",
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adjudicación de nuevas licencias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Verificación de disponibilidad",
+          "description": "El ayuntamiento comprueba si existen licencias disponibles según los ratios de población.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Licitación",
+          "description": "Convocatoria de procedimiento de licitación para la adjudicación de licencias.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reanudación de servicio para licencias suspendidas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio de la prestación efectiva",
+          "description": "El titular debe comenzar a prestar el servicio de taxi conforme a la normativa vigente.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "2 años tras la entrada en vigor",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Declaración de caducidad",
+          "description": "Si no se ha reanudado el servicio tras el plazo, la licencia caduca sin necesidad de trámite adicional.",
+          "start_date": "Al finalizar el plazo de 2 años",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de ordenanzas municipales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adecuación normativa",
+          "description": "Los ayuntamientos deben modificar sus reglamentos locales para alinearlos con la nueva ley autonómica.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "1 año tras la entrada en vigor",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

@@ -1,0 +1,100 @@
+{
+  "identifier": "BOE-A-1989-15374",
+  "title": "Ley 2/1989, de 6 de junio, de caza",
+  "visible_title": "Ley de caza",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "2/1989",
+  "publication_date": "1989-07-03",
+  "enactment_date": "1989-06-06",
+  "last_updated": "1999-04-26",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1989/06/06/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula la actividad cinegética en Asturias, transformando la visión de la caza de una actividad de aprovechamiento libre a una de gestión de recursos naturales bajo control administrativo. Establece las categorías de terrenos (comunes y especiales), las licencias necesarias y las medidas de protección de especies. Además, define un régimen de sanciones y la responsabilidad de la Administración por daños causados por la fauna.",
+  "citizen_impact": "Los cazadores deben obtener una licencia específica tras superar un examen de aptitud y cumplir con requisitos de seguro y permisos de zona. Los ciudadanos también se ven protegidos por la prohibición de caza en zonas de seguridad como núcleos urbanos, vías públicas y márgenes de ríos.",
+  "professional_impact": "Los propietarios de terrenos y sociedades de cazadores deben gestionar sus predios conforme a las clasificaciones de la ley (cotos, reservas o terrenos comunes). Los agentes de la autoridad (Guardería de la CA) adquieren competencias de vigilancia y potestad sancionadora, mientras que la Administración asume la gestión de la fauna y la indemnización por daños en ciertos terrenos.",
+  "keywords": [
+    "caza",
+    "Asturias",
+    "fauna silvestre",
+    "licencia de caza",
+    "gestión cinegética",
+    "protección de especies",
+    "sanciones de caza"
+  ],
+  "key_points": [
+    "La caza requiere obligatoriamente licencia tras superar un examen de conocimientos y acreditar aptitud.",
+    "Se clasifican los terrenos en de aprovechamiento común y de régimen especial (refugios, reservas, cotos, etc.).",
+    "Se prohíbe estrictamente la caza en zonas de seguridad como núcleos urbanos y vías de comunicación.",
+    "La Administración es responsable de indemnizar daños causados por especies en terrenos de gestión pública.",
+    "Se prohíben métodos de caza masivos, no selectivos o que utilicen explosivos, venenos o animales vivos como reclamo.",
+    "Las infracciones se dividen en leves, menos graves, graves y muy graves, con multas que pueden alcanzar las 15.000.000 de pesetas (según texto original).",
+    "Es obligatorio contar con un seguro de responsabilidad civil para el uso de armas de caza."
+  ],
+  "legal_references": [
+    "Ley Orgánica 7/1981, de 30 de diciembre, de Estatuto de Autonomía para Asturias",
+    "Código Civil"
+  ],
+  "derogations": [
+    "Todas las disposiciones de carácter general que se opongan a lo establecido en esta Ley"
+  ],
+  "main_obligations": "Es obligatorio poseer licencia y permisos específicos para cazar, contratar un seguro de armas y respetar las vedas y zonas prohibidas. El incumplimiento de estas normas conlleva multas económicas y la posible retirada de la licencia o de las armas.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Obtención de la licencia de caza",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de aptitud",
+          "description": "Superar el examen de conocimientos y aptitud técnica exigido por la Administración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado de no infracción del Registro Nacional de Infractores de Caza y Pesca"
+        },
+        {
+          "step": 2,
+          "title": "Expedición de la licencia",
+          "description": "Emisión del documento nominal e intransferible por el órgano competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del expediente",
+          "description": "Ordenación de las actuaciones para determinar la infracción y la responsabilidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Propuesta de resolución",
+          "description": "Documento que contiene la calificación de la infracción, agravantes/atenuantes y la sanción propuesta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Decisión final dictada por el Consejero (faltas leves a graves) o el Consejo de Gobierno (faltas muy graves).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

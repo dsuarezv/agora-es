@@ -1,0 +1,159 @@
+{
+  "identifier": "BOE-A-1996-19866",
+  "title": "Ley 4/1996, de 12 de julio, de Caza de Castilla y León",
+  "visible_title": "Ley de Caza de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "4/1996",
+  "publication_date": "1996-08-30",
+  "enactment_date": "1996-07-12",
+  "last_updated": "2021-07-08",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/1996/07/12/4",
+  "official_journal": "Boletín Oficial de Castilla y León",
+  "journal_issue": null,
+  "summary": "Esta norma transforma la caza en Castilla y León, pasando de ser una actividad de subsistencia a un modelo de ocio gestionado y motor económico rural. Introduce la obligatoriedad de gestionar el territorio mediante cotos o zonas controladas, eliminando la figura de los terrenos libres. Establece requisitos estrictos de formación y documentación para los cazadores, además de un régimen sancionador severo por infracciones. Su objetivo principal es la planificación cinegética y la protección de la fauna mediante un control administrativo riguroso.",
+  "citizen_impact": "Los ciudadanos que deseen practicar la caza deben superar un examen de aptitud para obtener la licencia. Además, es obligatorio portar siempre DNI, licencia, permisos de armas, seguro de responsabilidad civil y la tarjeta de filiación al cotos. El incumplimiento de las normas de seguridad o de veda puede acarrear multas elevadas y el decomiso de equipos.",
+  "professional_impact": "Los titulares de cotos asumen la carga administrativa de elaborar y aprobar un Plan Cinegético y deben gestionar la superficie mínima requerida (500 ha o 250 ha bajo ciertas condiciones). Se crea la figura profesional del especialista en control de predadores. Asimismo, las partidas de caza enfrentan responsabilidad solidaria por daños si no se identifica al autor de los mismos.",
+  "keywords": [
+    "caza",
+    "Castilla y León",
+    "licencia de caza",
+    "cotos cinegéticos",
+    "régimen sancionador",
+    "gestión de fauna"
+  ],
+  "key_points": [
+    "Eliminación de terrenos libres para imponer una gestión planificada mediante cotos o zonas controladas.",
+    "Obligatoriedad de superar un examen de aptitud para obtener la licencia de caza.",
+    "Los cotos deben tener una superficie mínima de 500 hectáreas (o 250 si un titular aporta esa cantidad).",
+    "Creación de la figura del especialista en control de predadores.",
+    "Prohibición estricta de cazar en zonas de seguridad (núcleos urbanos, vías públicas) y terrenos no cinegéticos.",
+    "Responsabilidad solidaria de la partida de caza por daños si no se identifica al autor.",
+    "Sistema de sanciones que escala desde 100 € hasta 78.077 € según la gravedad.",
+    "La reincidencia aumenta la multa en un 50% la primera vez y un 100% en casos sucesivos.",
+    "Creación del Registro Regional de Infractores para controlar antecedentes.",
+    "Decomiso obligatorio de la pieza de caza y de los medios utilizados en caso de infracción.",
+    "Las armas de uso legal pueden recuperarse tras pagar la sanción y acreditar licencia vigente.",
+    "Obligación de indemnizar daños a la fauna al titular del terreno o a la Junta."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Castilla y León",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas",
+    "Ley 3/2009, de 6 de abril, de Montes de Castilla y León",
+    "Artículo 28 de la Ley 4/1996",
+    "Artículo 43.6 de la Ley 4/1996",
+    "Artículo 47 de la Ley 4/1996",
+    "Artículo 49 de la Ley 4/1996",
+    "Artículo 54.5 de la Ley 4/1996",
+    "Artículo 56 de la Ley 4/1996",
+    "Artículo 59 de la Ley 4/1996",
+    "Artículo 60.3 de la Ley 4/1996",
+    "Artículo 70 de la Ley 4/1996",
+    "Artículo 71 de la Ley 4/1996",
+    "Real Decreto 137/1993 (Reglamento de Armas)"
+  ],
+  "derogations": [
+    "Ley 4/2021, de 1 de julio"
+  ],
+  "main_obligations": "Los cazadores deben portar obligatoriamente licencia, DNI, permisos de armas, seguro de responsabilidad civil y tarjeta de filiación. Los titulares de cotos tienen la obligación de elaborar y aprobar un Plan Cinegético para la gestión del territorio.",
+  "effective_date": "1996-08-30",
+  "procedures": [
+    {
+      "name": "Constitución de un Coto de Caza",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de constitución",
+          "description": "El interesado debe acreditar derecho al aprovechamiento en al menos el 75% de la superficie.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el derecho cinegético"
+        },
+        {
+          "step": 2,
+          "title": "Notificación a propietarios colindantes",
+          "description": "Se notifica a los propietarios para que puedan solicitar la segregación de sus terrenos como vedados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución administrativa",
+          "description": "La Consejería dicta la resolución de reconocimiento del cotos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Obtención de Licencia de Caza",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Superación de examen",
+          "description": "Aprobar pruebas de aptitud sobre legislación, especies y uso de armas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Expedición de licencia",
+          "description": "La Consejería emite el documento personal e intransferible.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado de aptitud, DNI, autorización de padres (si es menor)"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Denuncia",
+          "description": "La acción para denunciar infracciones es pública.",
+          "start_date": "Día de la infracción",
+          "end_date": "2 meses después de la infracción o conocimiento",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Incoación e Instrucción",
+          "description": "Apertura y tramitación del expediente por el órgano competente.",
+          "start_date": null,
+          "end_date": "1 año para resolver y notificar",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Decisión final que impone la sanción o el archivo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Prescripción de infracciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazos de prescripción según gravedad",
+          "description": "Extinción de la responsabilidad por el paso del tiempo.",
+          "start_date": "Día de la infracción",
+          "end_date": "Muy graves: 4 años; Graves: 1 año; Leves: 4 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

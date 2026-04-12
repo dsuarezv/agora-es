@@ -1,0 +1,137 @@
+{
+  "identifier": "BOE-A-2022-10517",
+  "title": "Decreto-ley Foral 2/2022, de 23 de mayo, de medidas para la realización de los procesos de estabilización derivados de la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público, en las Administraciones Públicas de Navarra",
+  "visible_title": "Medidas para la estabilización del empleo público en Navarra",
+  "rank": "decreto-ley foral",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "2/2022",
+  "publication_date": "2022-06-25",
+  "enactment_date": "2022-05-23",
+  "last_updated": "2022-07-14",
+  "status": "amended",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/dlf/2022/05/23/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma adapta la legislación navarra para cumplir con la reducción de la temporalidad en el empleo público estatal. Establece las reglas para los procesos de estabilización que permitirán convertir empleos temporales en plazas fijas. Además, modifica las condiciones de la contratación administrativa, limitando su duración y creando compensaciones económicas para los trabajadores afectados.",
+  "citizen_impact": "Los ciudadanos que trabajan de forma temporal en la administración navarra tienen ahora una vía clara y regulada para obtener una plaza fija mediante procesos de estabilización. También se garantiza una compensación económica si su contrato temporal finaliza por causas ajenas a ellos tras haber superado los plazos máximos permitidos.",
+  "professional_impact": "Los funcionarios y personal administrativo enfrentan procesos selectivos acelerados (concurso-oposición o concurso de méritos) con plazos de tramitación reducidos. Se introducen límites estrictos a la duración de los contratos temporales (máximo 3 años para cubrir vacantes) y se establecen baremos específicos para valorar la antigüedad y otros méritos en los procesos de estabilización.",
+  "keywords": [
+    "estabilización empleo público",
+    "Navarra",
+    "reducción temporalidad",
+    "concurso-oposición",
+    "contratación administrativa",
+    "funcionarios"
+  ],
+  "key_points": [
+    "Creación de procesos de estabilización para convertir personal temporal en fijo.",
+    "Límite máximo de 3 años para contratos destinados a cubrir vacantes.",
+    "Compensación económica de 20 días por año de servicio si se incumple el plazo máximo de permanencia.",
+    "Uso de concurso-oposición (60 puntos oposición / 40 puntos méritos) como vía principal.",
+    "Uso excepcional de concurso de méritos para ciertas plazas.",
+    "Reserva del 7% de plazas para personas con discapacidad y 2% para víctimas de violencia de género.",
+    "Simplificación de plazos en las convocatorias para agilizar la resolución antes de 2024.",
+    "Compensación económica para trabajadores que no logren plaza en el proceso de estabilización."
+  ],
+  "legal_references": [
+    "Ley 20/2021, de 28 de diciembre",
+    "Ley Foral 11/1992",
+    "Decreto Foral Legislativo 251/1993",
+    "Ley Orgánica 13/1982",
+    "Ley 3/2017, de 27 de junio",
+    "Ley 6/2018, de 3 de julio",
+    "Ley 11/2020, de 30 de diciembre"
+  ],
+  "derogations": [
+    "El presente Decreto-ley Foral queda sustituido por la Ley Foral 19/2022, de 1 de julio"
+  ],
+  "main_obligations": "Las administraciones deben publicar las ofertas de empleo de estabilización antes del 1 de junio de 2022 y las convocatorias antes del 31 de diciembre de 2022. Los procesos deben finalizar antes del 31 de diciembre de 2024.",
+  "effective_date": "2022-05-24",
+  "procedures": [
+    {
+      "name": "Procedimiento selectivo de estabilización (Concurso-oposición)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de instancias",
+          "description": "Plazo para solicitar participar en la convocatoria.",
+          "start_date": "Desde la publicación",
+          "end_date": "15 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Alegaciones a listas provisionales",
+          "description": "Plazo para impugnar la lista de admitidos y excluidos.",
+          "start_date": "Tras publicación de listas",
+          "end_date": "10 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Alegaciones a valoración de méritos y resultados",
+          "description": "Plazo para reclamar la puntuación de méritos o resultados de pruebas.",
+          "start_date": "Tras publicación provisional",
+          "end_date": "5 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Acreditación de requisitos y elección de vacantes",
+          "description": "Presentación de documentos y elección de puestos.",
+          "start_date": "Tras resolución de alegaciones",
+          "end_date": "10 días hábiles",
+          "required_documentation": "Documentación exigida en la convocatoria"
+        },
+        {
+          "step": 5,
+          "title": "Documentación para nombramiento",
+          "description": "Entrega de papeles para ser nombrado funcionario o laboral fijo.",
+          "start_date": "Desde la propuesta de nombramiento",
+          "end_date": "10 días hábiles",
+          "required_documentation": "Documentación de nombramiento"
+        }
+      ]
+    },
+    {
+      "name": "Concurso de traslado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitudes de participación",
+          "description": "Plazo para solicitar el traslado.",
+          "start_date": "Desde la publicación",
+          "end_date": "10 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Alegaciones a listas provisionales",
+          "description": "Plazo para reclamar la lista de admitidos.",
+          "start_date": "Tras publicación de listas",
+          "end_date": "3 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Alegaciones a valoración de méritos",
+          "description": "Plazo para reclamar la puntuación.",
+          "start_date": "Tras publicación provisional",
+          "end_date": "5 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Elección de vacantes",
+          "description": "Plazo para elegir el puesto según orden de prelación.",
+          "start_date": "Tras resolución de alegaciones",
+          "end_date": "5 días naturales",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

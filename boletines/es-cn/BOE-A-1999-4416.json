@@ -1,0 +1,98 @@
+{
+  "identifier": "BOE-A-1999-4416",
+  "title": "Ley 3/1999, de 4 de febrero, del Fondo Canario de Financiación Municipal",
+  "visible_title": "Ley del Fondo Canario de Financiación Municipal",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "3/1999",
+  "publication_date": "1999-02-23",
+  "enactment_date": "1999-02-04",
+  "last_updated": "2016-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/1999/02/04/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea un fondo de financiación para los ayuntamientos de Canarias con el fin de mejorar su estabilidad económica y autonomía financiera. El dinero se divide en dos partes: una mitad destinada obligatoriamente al saneamiento financiero o inversión, y la otra mitad para gastos de libre disposición. La distribución del dinero no es igual para todos, sino que depende de criterios como la población, la insularidad, la dispersión territorial y el esfuerzo fiscal de cada municipio.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que es una norma de gestión de fondos entre la administración autonómica y los ayuntamientos.",
+  "professional_impact": "Afecta directamente a los técnicos y responsables de las haciendas municipales, quienes deben cumplir estrictos indicadores de ahorro, deuda y gestión de ingresos para no perder fondos. Los ayuntamientos deben gestionar auditorías de gestión y remitir documentación específica sobre su capacidad de recaudación y esfuerzo fiscal.",
+  "keywords": [
+    "financiación municipal",
+    "Canarias",
+    "ayuntamientos",
+    "saneamiento económico",
+    "recursos económicos",
+    "esfuerzo fiscal",
+    "distribución de fondos"
+  ],
+  "key_points": [
+    "Creación de un fondo dividido al 50% para saneamiento/inversión y al 50% para libre disposición.",
+    "La participación de los municipios es voluntaria mediante acuerdo pleno.",
+    "La distribución se basa en población (68%), solidaridad (16%), dispersión (5%), unidades escolares (4%) y otros criterios territoriales.",
+    "Se penaliza con reducciones de hasta el 20% si no se entrega la documentación de esfuerzo fiscal a tiempo.",
+    "Los municipios deben mantener niveles de ahorro neto, remanente de tesorería y deuda controlados para acceder a la parte de inversión.",
+    "Se exige un nivel mínimo de gestión recaudatoria y esfuerzo fiscal para recibir la parte de libre disposición.",
+    "El Gobierno puede modificar los indicadores de saneamiento mediante Decreto."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Canarias",
+    "Ley General de Subvenciones"
+  ],
+  "derogations": [],
+  "main_obligations": "Los ayuntamientos deben certificar la incorporación de los fondos al presupuesto en un plazo de 2 meses. Deben cumplir con indicadores de saneamiento (remanente, ahorro y deuda) y presentar la documentación de auditoría y esfuerzo fiscal dentro de los plazos establecidos para evitar sanciones económicas.",
+  "effective_date": "1999-02-24",
+  "procedures": [
+    {
+      "name": "Adhesión al Fondo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo Plenario",
+          "description": "El ayuntamiento debe aprobar la adhesión voluntaria mediante acuerdo del pleno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de acuerdo pleno"
+        }
+      ]
+    },
+    {
+      "name": "Distribución Anual del Fondo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comprobación de indicadores",
+          "description": "La Consejería verifica la situación financiera y fiscal del municipio mediante auditorías de gestión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Liquidación del presupuesto municipal y documentación de esfuerzo fiscal"
+        },
+        {
+          "step": 2,
+          "title": "Propuesta de distribución",
+          "description": "El titular del Departamento eleva al Gobierno la propuesta de reparto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Audiencia a la Federación",
+          "description": "Se da audiencia a la Federación Canaria de Municipios sobre la propuesta.",
+          "start_date": "1 mes",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Liberación de fondos",
+          "description": "Se libera el 70% de la parte de libre disposición en el primer cuatrimestre y el resto al finalizar el ejercicio tras auditorías.",
+          "start_date": "Primer cuatrimestre del ejercicio",
+          "end_date": "Finalización del ejercicio",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,90 @@
+{
+  "identifier": "BOE-A-2013-2121",
+  "title": "Decreto-ley 5/2012, de 18 de diciembre, del impuesto sobre los depósitos en las entidades de crédito",
+  "visible_title": "Impuesto sobre los depósitos en las entidades de crédito",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "5/2012",
+  "publication_date": "2013-02-26",
+  "enactment_date": "2012-12-18",
+  "last_updated": "2015-07-04",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2012/12/18/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma crea un impuesto específico en Cataluña para recaudar fondos ante la crisis económica, gravando la captación de depósitos por parte de entidades financieras privadas. El objetivo era obtener financiación urgente para la Generalitat mediante un tributo sobre la tenencia de fondos de terceros. No obstante, la norma fue declarada inconstitucional y nula por el Tribunal Constitucional.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que el impuesto recaía sobre las entidades financieras y no sobre los ahorradores individuales, además de haber sido anulado judicialmente.",
+  "professional_impact": "Afecta directamente a las entidades de crédito con presencia en Cataluña, obligándolas a realizar auto liquidaciones trimestrales y a informar detalladamente de sus saldos. Las entidades enfrentaban sanciones graves (hasta el 100% de la cuota) si intentaban trasladar el coste al cliente o deslocalizar depósitos para evitar el impuesto.",
+  "keywords": [
+    "impuesto sobre depósitos",
+    "entidades de crédito",
+    "Cataluña",
+    "tributación bancaria",
+    "fiscalidad autonómica"
+  ],
+  "key_points": [
+    "Creación de un impuesto sobre la captación y tenencia de depósitos de terceros en Cataluña.",
+    "Prohibición estricta de repercutir el coste del impuesto a los clientes (sujetos pasivos son las entidades).",
+    "Establecimiento de deducciones por oficinas en municipios pequeños y por inversión en proyectos de utilidad pública.",
+    "Obligación de auto liquidación y presentación de información trimestral ante la Agencia Tributaria de Cataluña.",
+    "Sanción muy grave por deslocalizar depósitos de oficinas catalanas a otras regiones para eludir el impuesto.",
+    "La norma fue declarada inconstitucional por el Tribunal Constitucional (Sentencia 107/2015)."
+  ],
+  "legal_references": [
+    "Artículo 67.6 del Estatuto de autonomía de Cataluña",
+    "Ley 13/2008, del 5 de noviembre, de la presidencia de la Generalidad y del Gobierno",
+    "Circular 4/2004, de 22 de diciembre, del Banco de España",
+    "Ley del Estado 58/2003, del 17 de diciembre, General Tributaria",
+    "Ley 7/2007, del 17 de julio, de la Agencia Tributaria de Cataluña"
+  ],
+  "derogations": [],
+  "main_obligations": "Las entidades de crédito deben presentar la auto liquidación del impuesto y realizar el ingreso correspondiente en los plazos reglamentarios. Deben suministrar información detallada de los saldos finales de cada trimestre por cada sucursal en Cataluña.",
+  "effective_date": "2012-12-19",
+  "procedures": [
+    {
+      "name": "Auto liquidación del impuesto",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Suministro de información trimestral",
+          "description": "Notificación de datos necesarios para la liquidación a la Agencia Tributaria de Cataluña.",
+          "start_date": "2012-10-01",
+          "end_date": "2013-01-31",
+          "required_documentation": "Modelos de información trimestral aprobados por la Generalitat"
+        },
+        {
+          "step": 2,
+          "title": "Presentación de la auto liquidación",
+          "description": "Presentación del modelo de impuesto y pago de la cuota resultante.",
+          "start_date": null,
+          "end_date": "Plazo señalado reglamentariamente",
+          "required_documentation": "Modelo de auto liquidación y listados de saldos por sucursal"
+        }
+      ]
+    },
+    {
+      "name": "Liquidación provisional de oficio",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de liquidación",
+          "description": "La Agencia Tributaria propone una liquidación si la entidad no presenta la suya.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Trámite de audiencia",
+          "description": "Plazo para que la entidad presente alegaciones ante la propuesta de liquidación.",
+          "start_date": null,
+          "end_date": "10 días hábiles",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

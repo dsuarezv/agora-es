@@ -1,0 +1,127 @@
+{
+  "identifier": "BOE-A-2012-2858",
+  "title": "Ley 4/1990, de 31 de mayo, de Ordenación del Territorio del País Vasco",
+  "visible_title": "Ley de Ordenación del Territorio del País Vasco",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "4/1990",
+  "publication_date": "2012-02-29",
+  "enactment_date": "1990-05-31",
+  "last_updated": "2021-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1990/05/31/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para organizar cómo se usa el suelo y los recursos en el País Vasco. Su objetivo es frenar el crecimiento urbano descontrolado y coordinar las actuaciones de todas las administraciones (estatal, autonómica y local) para evitar conflictos de competencias. Introduce herramientas de planificación como las Directrices de Ordenación Territorial y permite declarar proyectos de interés público superior para infraestructuras clave.",
+  "citizen_impact": "Afecta indirectamente a través de la planificación de dónde se construirán viviendas, infraestructuras y equipamientos (hospitales, escuelas). También puede influir en la protección de zonas naturales o históricas donde la construcción esté restringida.",
+  "professional_impact": "Impacta directamente en urbanistas, promotores inmobiliarios y empresas de construcción, quienes deben ajustar sus proyectos a las Directrices y Planes Territoriales. Los ayuntamientos y diputaciones forales deben coordinar sus planes municipales con este marco autonómico para evitar la nulidad de sus normas.",
+  "keywords": [
+    "ordenación del territorio",
+    "urbanismo",
+    "suelo",
+    "País Vasco",
+    "planificación territorial",
+    "infraestructuras",
+    "interés público superior"
+  ],
+  "key_points": [
+    "Creación de tres instrumentos de ordenación: Directrices, Planes Territoriales Parciales y Planes Territoriales Sectoriales.",
+    "Las Directrices de Ordenación Territorial son vinculantes para todas las administraciones y particulares.",
+    "Se permite la declaración de 'proyectos de interés público superior' que pueden modificar directamente el planeamiento actual.",
+    "Establece la obligación de coordinar los planes sectoriales (carreteras, energía, etc.) con la ordenación territorial para evitar contradicciones.",
+    "Crea la Comisión de Ordenación del Territorio como órgano de coordinación y el Consejo Asesor de Política Territorial para la participación social.",
+    "Los proyectos de interés público superior pueden implicar la necesidad urgente de ocupación de bienes (expropiación forzosa)."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía para el País Vasco",
+    "Ley 27/1983",
+    "Ley sobre Régimen del Suelo y Ordenación Urbana, Texto Refundido de 1976",
+    "Ley 10/2021, de 9 de diciembre, de Administración Ambiental de Euskadi",
+    "Ley 7/1985, de 24 de mayo, de Bases del Régimen Local"
+  ],
+  "derogations": [
+    "Planes Directores Territoriales de Coordinación (previstos en la Ley sobre Régimen del Suelo y Ordenación Urbana, Texto Refundido de 1976)"
+  ],
+  "main_obligations": "Las administraciones públicas deben ajustar sus planes urbanísticos y sectoriales a las Directrices de Ordenación Territorial. Los proyectos de interés público superior deben cumplir con estrictos requisitos de documentación, incluyendo estudios de impacto ambiental y socioeconómico.",
+  "effective_date": "1990-06-01",
+  "procedures": [
+    {
+      "name": "Elaboración de Directrices de Ordenación Territorial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de iniciación",
+          "description": "El Gobierno Vasco decide la oportunidad de formular o reformar las Directrices y lo publica en el BOPV.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Motivación de las causas y plazo para el avance."
+        },
+        {
+          "step": 2,
+          "title": "Elaboración del Avance",
+          "description": "El Departamento de Urbanismo prepara el documento integrando previsiones de otros departamentos.",
+          "start_date": null,
+          "end_date": "3 meses tras la petición de otros departamentos",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informes y Audiencia",
+          "description": "Se solicita informe al Consejo Asesor y a la Comisión, y se abre periodo de alegaciones.",
+          "start_date": null,
+          "end_date": "3 meses para observaciones de entidades",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación definitiva",
+          "description": "El Consejo de Gobierno aprueba las Directrices mediante Decreto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de Proyectos de Interés Público Superior",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "La entidad pública promotora presenta el proyecto al departamento de medio ambiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria, planos, estudios de impacto, estudio económico-financiero, etc."
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Se somete el expediente a información pública y se informa a los municipios afectados.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informe de la Comisión",
+          "description": "La Comisión de Ordenación del Territorio emite informe vinculante sobre adecuación territorial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación definitiva",
+          "description": "El Consejo de Gobierno Vasco dicta la declaración de interés público superior.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

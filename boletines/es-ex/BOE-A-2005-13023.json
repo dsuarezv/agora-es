@@ -1,0 +1,90 @@
+{
+  "identifier": "BOE-A-2005-13023",
+  "title": "Ley 2/2005, de 24 de junio, de creación del Jurado de Defensa de la Competencia de Extremadura",
+  "visible_title": "Creación del Jurado de Defensa de la Competencia de Extremadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "2/2005",
+  "publication_date": "2005-07-29",
+  "enactment_date": "2005-06-24",
+  "last_updated": "2022-11-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2005/06/24/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea el Jurado de Defensa de la Competencia de Extremadura para vigilar y sancionar prácticas que alteren la libre competencia dentro del territorio extremeño. Su objetivo es evitar acuerdos entre empresas, abusos de posición dominante y competencia desleal que afecten al mercado regional. El órgano actúa de forma coordinada con el Estado para asegurar que la economía de la región funcione de manera justa y transparente.",
+  "citizen_impact": "Protege al consumidor final al asegurar que las empresas compitan de forma justa, lo que ayuda a mantener precios competitivos y variedad de productos. Evita que grandes empresas abusen de su poder para perjudicar a pequeños comercios o clientes.",
+  "professional_impact": "Las empresas y autónomos en Extremadura deben cumplir con el deber de colaborar con las investigaciones, aportando datos en un plazo de 10 días. El incumplimiento o la obstrucción a las inspecciones puede acarrear multas severas, incluyendo sanciones de hasta el 1% del volumen de ventas.",
+  "keywords": [
+    "defensa de la competencia",
+    "mercado extremeño",
+    "jurado de competencia",
+    "prácticas colusorias",
+    "posición dominante",
+    "competencia desleal",
+    "inspección comercial"
+  ],
+  "key_points": [
+    "Creación de un órgano colegiado (Presidente y dos Vocales) con sede en Mérida para decidir sobre infracciones de competencia en Extremadura.",
+    "Capacidad para imponer medidas cautelares y resolver procedimientos por acuerdos restrictivos o abuso de posición dominante.",
+    "Obligación de las personas y empresas de entregar información requerida en un plazo de 10 días.",
+    "Facultad de los inspectores para examinar libros contables y documentos, pudiendo retenerlos hasta 10 días.",
+    "Creación de un Registro de Defensa de la Competencia de Extremadura de carácter público.",
+    "Sanción por obstrucción a la inspección de hasta el 1% del volumen de ventas del año anterior."
+  ],
+  "legal_references": [
+    "Ley 16/1989, de 17 de julio, de Defensa de la Competencia",
+    "Ley 1/2002, de 21 de febrero, de Coordinación de las Competencias del Estado y las Comunidades Autónomas en materia de Defensa de la Competencia",
+    "Ley 15/2007, de 3 de julio, de Defensa de la Competencia",
+    "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+    "Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común",
+    "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa",
+    "Ley Orgánica 1/2011, de 28 de enero, de reforma del Estatuto de Autonomía de la Comunidad Autónoma de Extremadura",
+    "Ley 58/2003, de 17 de diciembre, General Tributaria"
+  ],
+  "derogations": [],
+  "main_obligations": "Las empresas están obligadas a proporcionar datos solicitados por el Servicio Instructor en un plazo de 10 días, bajo riesgo de multas coercitivas diarias de entre 60,10 y 3.005,06 euros. La obstrucción a las inspecciones puede conllevar una multa de hasta el 1% del volumen de ventas anual.",
+  "effective_date": "2005-08-18",
+  "procedures": [
+    {
+      "name": "Procedimiento de instrucción y resolución de infracciones de competencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Investigación e inspección",
+          "description": "Los funcionarios realizan investigaciones, examinan libros y documentos, y pueden solicitar explicaciones in situ.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Libros, documentos y registros contables"
+        },
+        {
+          "step": 2,
+          "title": "Requerimiento de información",
+          "description": "Se solicita a la persona o empresa la aportación de datos necesarios para la investigación.",
+          "start_date": null,
+          "end_date": "10 días",
+          "required_documentation": "Datos e información solicitada"
+        },
+        {
+          "step": 3,
+          "title": "Propuesta del Servicio Instructor",
+          "description": "El servicio instructor eleva una propuesta de resolución al Jurado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución del Jurado",
+          "description": "El Jurado de Defensa de la Competencia resuelve el procedimiento, pudiendo imponer sanciones o medidas cautelares.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

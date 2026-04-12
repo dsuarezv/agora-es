@@ -1,0 +1,99 @@
+{
+  "identifier": "BOE-A-2011-6648",
+  "title": "Ley 2/2011, de 17 de marzo, de caza",
+  "visible_title": "Ley de caza",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "2/2011",
+  "publication_date": "2011-04-13",
+  "enactment_date": "2011-03-17",
+  "last_updated": "2025-04-03",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2011/03/17/2",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y regula toda la actividad cinegética en el País Vasco, sustituyendo la normativa obsoleta de 1970. Establece un nuevo orden para la gestión de recursos, la clasificación de terrenos y el régimen de sanciones. Su objetivo es garantizar una práctica de la caza segura, organizada y respetuosa con el medio ambiente. Además, introduce medidas estrictas de seguridad personal y control de armamento para prevenir accidentes.",
+  "citizen_impact": "Los cazadores deben cumplir con nuevas medidas de seguridad obligatorias, como el uso de chalecos reflectantes y restricciones de visibilidad. Se establece una tasa de 10 euros para el examen de la licencia y se refuerza la responsabilidad del cazador sobre sus acompañantes. También se prohíbe estrictamente dejar residuos o cartuchos en el monte.",
+  "professional_impact": "Los titulares de aprovechamientos cinegéticos deben contratar obligatoriamente un seguro de responsabilidad civil y un contrato de guardería cinegética. Los propietarios de cotos deben cumplir con superficies mínimas específicas (500 ha para caza menor y 1.000 ha para caza mayor) para poder operar bajo este nuevo marco.",
+  "keywords": [
+    "caza",
+    "País Vasco",
+    "licencia de caza",
+    "seguridad cinegética",
+    "gestión de recursos",
+    "infracciones y sanciones"
+  ],
+  "key_points": [
+    "Prohibición de cazar con visibilidad inferior a 250 metros o en días de nieve sin orden previa.",
+    "Obligatoriedad de usar chalecos reflectantes para batidores y participantes en batidas.",
+    "Restricción de armamento: prohibidas las armas automáticas o semiautomáticas con cargadores de más de dos cartuchos.",
+    "Los cotos deben tener superficies mínimas de 500 hectáreas (caza menor) o 1.000 hectáreas (caza mayor).",
+    "El cazador es el responsable legal de la seguridad de sus acompañantes, quienes no requieren licencia.",
+    "Obligación de portar siempre la identificación oficial y la licencia de caza.",
+    "Prohibición de abandonar cartuchos y residuos en el entorno natural.",
+    "Establecimiento de una tasa de 10 euros para el examen de aptitud de la licencia.",
+    "Nueva clasificación de terrenos en cinegéticos, no cinegéticos y de régimen especial."
+  ],
+  "legal_references": [
+    "Directiva 79/409/CEE",
+    "Directiva 2009/47/CEE",
+    "Directiva 92/43/CEE",
+    "Ley Orgánica 3/1979, de 18 de diciembre, del Estatuto de Autonomía para el País Vasco",
+    "Ley 1/1989, de 13 de abril",
+    "Ley 16/1994, de 30 de junio, de Conservación de la Naturaleza del País Vasco",
+    "Ley 1/2010, de 11 de marzo",
+    "Ley 27/1983, de 25 de noviembre",
+    "Ley 1/1970, de 4 de abril, de Caza",
+    "Ley 14/1998, de 11 de junio, del Deporte del País Vasco",
+    "Ley 2/2006, de 30 de junio, de Suelo y Urbanismo",
+    "Real Decreto Legislativo 339/1990",
+    "Ley 2/1998, de 20 de febrero, de la Potestad Sancionadora de las Administraciones Públicas de la Comunidad Autónoma del País Vasco",
+    "Decreto Legislativo 1/2007, de 16 de noviembre"
+  ],
+  "derogations": [
+    "Ley 1/1989, de 13 de abril (artículo 1)",
+    "Ley 16/1994, de 30 de junio (artículos 66 a 74)"
+  ],
+  "main_obligations": "Los titulares de aprovechamientos deben contratar seguro de responsabilidad civil y contrato de guardería. Todos los cazadores deben portar su licencia e identificación oficial y evitar dejar residuos en el monte.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Obtención de licencia de caza",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y pago de tasa",
+          "description": "Presentación de solicitud y pago de la tasa de examen de 10 euros.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación personal"
+        },
+        {
+          "step": 2,
+          "title": "Examen de aptitud",
+          "description": "Superar las pruebas de aptitud determinadas por el Gobierno Vasco.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Constitución de cotos de caza",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de Plan Técnico",
+          "description": "Presentar plan técnico de ordenación cinegética para su aprobación por la Diputación Foral.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Plan técnico de ordenación cinegética"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

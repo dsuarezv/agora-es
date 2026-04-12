@@ -1,0 +1,88 @@
+{
+  "identifier": "BOE-A-2007-17584",
+  "title": "Ley 3/2007, de 26 de julio, de medidas urgentes de modernización del Gobierno y Administración de la Comunidad de Madrid",
+  "visible_title": "Medidas de modernización del Gobierno y Administración de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "3/2007",
+  "publication_date": "2007-10-08",
+  "enactment_date": "2007-07-26",
+  "last_updated": "2015-11-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2007/07/26/3",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley busca modernizar la estructura del Gobierno de Madrid y agilizar su gestión administrativa. Introduce cambios profundos en el urbanismo, limitando la altura de los edificios y eliminando la figura del agente urbanizador para ganar transparencia. Además, regula la gestión de infraestructuras de transporte y establece medidas para la limpieza urbana y el uso eficiente del agua.",
+  "citizen_impact": "Los ciudadanos verán un cambio en el paisaje urbano debido a la nueva limitación de altura en edificios (máximo tres plantas más ático). También se mejora la transparencia en las decisiones urbanísticas y se establecen sanciones por grafitis, aunque se permite sustituir la multa por la limpieza de los mismos.",
+  "professional_impact": "Las empresas constructoras y urbanistas pierden la figura del agente urbanizador y deben adaptarse a nuevos límites de altura. Los ayuntamientos asumen nuevas competencias en la gestión de sanciones por grafitis y tienen mayor control sobre la información pública urbanística.",
+  "keywords": [
+    "urbanismo",
+    "Comunidad de Madrid",
+    "administración pública",
+    "transparencia",
+    "grafitis",
+    "alturas de edificios",
+    "infraestructuras",
+    "modernización"
+  ],
+  "key_points": [
+    "Limitación de altura en nuevos desarrollos urbanísticos a tres plantas más ático.",
+    "Supresión de la figura del agente urbanizador para evitar conflictos con el derecho de propiedad.",
+    "Prohibición de convenios urbanísticos de planeamiento para garantizar la transparencia.",
+    "Creación de la figura del Viceconsejero como segundo nivel de la acción de Gobierno.",
+    "Prohibición de grafitis y pintadas en la vía pública con posibilidad de sustituir multa por limpieza.",
+    "Obligatoriedad de informes de impacto territorial vinculantes para planes urbanísticos.",
+    "Posibilidad de que la Comunidad de Madrid asuma competencias urbanísticas de municipios en caso de incumplimientos graves.",
+    "Declaración de utilidad pública para obras hidráulicas del Canal de Isabel II y soterrado de líneas eléctricas."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 1/1983 de Gobierno y Administración de la Comunidad de Madrid",
+    "Ley 1/1984 de Administración Institucional de la Comunidad de Madrid",
+    "Ley 14/1995 de Incompatibilidades de Altos Cargos de la Comunidad de Madrid",
+    "Ley 2/2003 de Administración Local de la Comunidad de Madrid",
+    "Ley 9/2001 del Suelo de la Comunidad de Madrid",
+    "Ley estatal 8/2007 de Suelo",
+    "Ley 30/1992 de Régimen Jurídico de las Administraciones Públicas",
+    "Ley 22/1999 de creación de MINTRA"
+  ],
+  "derogations": [
+    "Artículos 104 c), 109, 110, 111, 112 y 113 de la Ley 9/2001"
+  ],
+  "main_obligations": "Se prohíbe la realización de grafitis en la vía pública, con multas de 300 a 3.000 euros por infracción leve y de 600 a 6.000 euros por infracción grave. Los ayuntamientos deben garantizar la publicidad telemática de los anuncios de información pública urbanística.",
+  "effective_date": "2007-10-09",
+  "procedures": [
+    {
+      "name": "Aprobación de Avances de Planes Generales y de Sectorización",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Información pública",
+          "description": "Exposición del proyecto para que los ciudadanos presenten alegaciones.",
+          "start_date": "30 días",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe de análisis ambiental",
+          "description": "Emisión de informe por la Consejería de Medio Ambiente.",
+          "start_date": "3 meses",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informe de Impacto Territorial",
+          "description": "Informe preceptivo y vinculante emitido por el Consejo de Gobierno.",
+          "start_date": "6 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

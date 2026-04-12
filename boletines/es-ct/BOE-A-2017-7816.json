@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-2017-7816",
+  "title": "Ley 7/2017, de 2 de junio, del régimen de las secciones de crédito de las cooperativas",
+  "visible_title": "Ley del régimen de las secciones de crédito de las cooperativas",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "7/2017",
+  "publication_date": "2017-07-06",
+  "enactment_date": "2017-06-02",
+  "last_updated": "2024-04-25",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2017/06/02/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula las secciones de crédito de las cooperativas agrarias en Cataluña para garantizar la estabilidad del sector rural. Su principal novedad es la creación de un Fondo cooperativo de apoyo para evitar que problemas de liquidez en una cooperativa afecten a todo el sector. Además, endurece la profesionalidad de la gestión y mejora la transparencia y supervisión de estas unidades económicas.",
+  "citizen_impact": "Los socios de cooperativas agrarias ven reforzada la protección de sus ahorros y saldos acreedores, aunque se les advierte explícitamente de que estos no están cubiertos por los fondos de garantía de depósitos bancarios tradicionales.",
+  "professional_impact": "Las cooperativas agrarias deben cumplir con requisitos de capital más estrictos y contratar gerentes con formación técnica y experiencia acreditada. Se imponen obligaciones de auditoría externa obligatoria y una mayor supervisión por parte de la Administración de Economía y Finanzas.",
+  "keywords": [
+    "cooperativas agrarias",
+    "secciones de crédito",
+    "fondo de apoyo cooperativo",
+    "sector rural",
+    "gestión financiera",
+    "Cataluña"
+  ],
+  "key_points": [
+    "Creación de un Fondo cooperativo de apoyo para dar liquidez al sector en momentos de crisis.",
+    "Obligatoriedad de contar con un director general o gerente con preparación técnica y experiencia específica.",
+    "Exigencia de auditoría externa de cuentas para todas las cooperativas con sección de crédito.",
+    "Prohibición de que la sección de crédito sea la actividad principal de la cooperativa.",
+    "Los saldos acreedores de los socios no cuentan con la protección del Fondo de Garantía de Depósitos bancario.",
+    "Obligación de las cooperativas de participar en el Fondo cooperativo de apoyo.",
+    "Establecimiento de límites estrictos para la inversión de los recursos de la sección en la propia cooperativa."
+  ],
+  "legal_references": [
+    "Ley 12/2015, de 9 de julio, de cooperativas",
+    "Ley 6/1998, de 13 de mayo, de regulación del funcionamiento de las secciones de crédito de las cooperativas",
+    "Decreto ley 2/2016, de 17 de mayo",
+    "Estatuto de autonomía de Cataluña"
+  ],
+  "derogations": [
+    "Ley 6/1998, de 13 de mayo, de regulación del funcionamiento de las secciones de crédito de las cooperativas",
+    "Decreto ley 2/2016, de 17 de mayo, de modificación de la Ley 6/1998"
+  ],
+  "main_obligations": "Las cooperativas deben mantener recursos propios de al menos el 50% del inmovilizado y realizar aportaciones al Fondo cooperativo de apoyo de al menos el 3% de sus saldos acreedores medios mensuales. El incumplimiento de límites financieros o la falta de auditoría puede acarrear multas de hasta 40.000 euros o la baja del registro.",
+  "effective_date": "2017-07-07",
+  "procedures": [
+    {
+      "name": "Alta de una sección de crédito",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inscripción",
+          "description": "Presentación de la solicitud ante el registro de cooperativas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Cuentas anuales auditadas del último ejercicio y balance auditado si han pasado más de 6 meses desde el cierre."
+        },
+        {
+          "step": 2,
+          "title": "Informe preceptivo",
+          "description": "El departamento de cooperativas solicita informe vinculante al departamento de economía y finanzas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acreditación de conocimientos del gerente",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de adecuación para cargos existentes",
+          "description": "Las personas ya nombradas tienen un plazo para acreditar su preparación técnica.",
+          "start_date": "2017-07-07",
+          "end_date": "3 años desde la entrada en vigor",
+          "required_documentation": "Documentación que acredite 3 años de experiencia en funciones de administración o dirección y conocimientos financieros."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

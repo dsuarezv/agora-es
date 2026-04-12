@@ -1,0 +1,80 @@
+{
+  "identifier": "BOE-A-2021-11617",
+  "title": "Decreto-ley 5/2021, de 7 de mayo, por el que se modifican la Ley 16/2010, de 28 de diciembre, de Salud Pública de las Illes Balears, y el Decreto-ley 11/2020, de 10 de julio, por el que se establece un régimen sancionador específico para hacer frente a los incumplimientos de las disposiciones dictadas para paliar los efectos de la crisis ocasionada por la COVID-19",
+  "visible_title": "Modificación de la Ley de Salud Pública de las Illes Balears y régimen sancionador por COVID-19",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "5/2021",
+  "publication_date": "2021-07-13",
+  "enactment_date": "2021-05-07",
+  "last_updated": "2024-12-26",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/dl/2021/05/07/5",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta norma busca dotar a las autoridades sanitarias de las Illes Balears de herramientas legales claras para actuar en situaciones de pandemia sin depender exclusivamente del estado de alarma estatal. Introduce medidas específicas como confinamientos perimetrales, restricciones de movilidad y control de aforos, definiendo además el procedimiento para su aplicación. Asimismo, refuerza el régimen de sanciones por incumplimiento de medidas sanitarias y regula los precios máximos de las pruebas diagnósticas.",
+  "citizen_impact": "Los ciudadanos pueden verse sujetos a restricciones de movilidad (confinamientos por zonas), límites de aforo en lugares de culto o reuniones, y controles de entrada/salida de las islas. Además, se establece un precio máximo para las pruebas PCR (75€) y de antígenos (30€) para evitar abusos económicos durante la crisis.",
+  "professional_impact": "Las empresas y establecimientos deben cumplir con las nuevas restricciones de aforo y movilidad bajo riesgo de sanciones más severas. Los centros sanitarios privados están obligados a respetar los precios máximos fijados para las pruebas diagnósticas. Los profesionales de la salud y autoridades sanitarias disponen ahora de un marco procedimental más robusto para intervenir en la salud pública.",
+  "keywords": [
+    "salud pública",
+    "Illes Balears",
+    "pandemia",
+    "COVID-19",
+    "confinamiento perimetral",
+    "sanciones sanitarias",
+    "pruebas PCR",
+    "control de aforos"
+  ],
+  "key_points": [
+    "Autorización de confinamientos perimetrales (barrios, municipios, islas o todo el archipiélago) por motivos sanitarios.",
+    "Posibilidad de establecer controles de entrada y salida en puertos y aeropuertos.",
+    "Regulación de restricciones de reuniones y movilidad nocturna en situaciones de epidemia.",
+    "Limitación de aforos en lugares de culto.",
+    "Establecimiento de precios máximos para pruebas PCR (75€) y de antígenos (30€).",
+    "Nuevas sanciones por no acreditar resultados negativos en pruebas diagnósticas exigidas para viajar.",
+    "Refuerzo de sanciones para infracciones cometidas en zonas de máximo nivel de alerta sanitaria."
+  ],
+  "legal_references": [
+    "Ley 16/2010, de 28 de diciembre, de Salud Pública de las Illes Balears",
+    "Decreto-ley 11/2020, de 10 de julio",
+    "Ley Orgánica 3/1986, de 14 de abril, de Medidas Especiales en Materia de Salud Pública",
+    "Ley 14/1986, de 25 de abril, General de Sanidad",
+    "Ley 33/2011, de 4 de octubre, General de Salud Pública",
+    "Ley 5/2003, de 4 de abril, de Salud de las Illes Balears",
+    "Real Decreto 463/2020, de 14 de marzo",
+    "Real Decreto 926/2020, de 25 de octubre",
+    "Real Decreto 956/2020, de 3 de noviembre",
+    "Ley 2/2021, de 8 de noviembre"
+  ],
+  "derogations": [
+    "Disposiciones de rango igual o inferior que se opongan o contradigan lo establecido en este Decreto-ley"
+  ],
+  "main_obligations": "Los centros sanitarios deben aplicar los precios máximos de 75€ para PCR y 30€ para antígenos. Los ciudadanos deben cumplir con las restricciones de movilidad y aforo, y acreditar resultados negativos si la autoridad lo exige para el tránsito entre zonas.",
+  "effective_date": "2021-05-09",
+  "procedures": [
+    {
+      "name": "Aplicación de medidas de intervención sanitaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración de situación de pandemia o epidemia",
+          "description": "Las autoridades competentes deben declarar la situación sanitaria que justifica la intervención.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Adopción de medidas mediante resolución motivada",
+          "description": "La autoridad sanitaria dicta la medida (confinamiento, restricción, etc.) asegurando proporcionalidad y temporalidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Resolución motivada"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

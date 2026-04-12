@@ -1,0 +1,139 @@
+{
+  "identifier": "BOE-A-2013-10725",
+  "title": "Ley 3/2013, de 18 de junio, de Patrimonio Histórico de la Comunidad de Madrid",
+  "visible_title": "Ley de Patrimonio Histórico de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "3/2013",
+  "publication_date": "2013-10-15",
+  "enactment_date": "2013-06-18",
+  "last_updated": "2023-04-12",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2013/06/18/3",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza la gestión del patrimonio en Madrid, introduciendo nuevas categorías de protección como el 'Paisaje Cultural' y el 'Hecho Cultural'. Su objetivo principal es agilizar la administración mediante la reducción de plazos de resolución y la aplicación del silencio administrativo positivo en ciertos casos. Además, busca una protección más integral al permitir la asociación de bienes arqueológicos y definir entornos de protección de forma más flexible. La norma también regula aspectos transversales como la adaptación de planes urbanísticos y la actividad de casinos en la región.",
+  "citizen_impact": "Los ciudadanos verán una gestión más rápida de los expedientes de protección de bienes (BIC y BIP). Se mejora la protección de entornos naturales y culturales mediante la nueva figura de 'Paisaje Cultural'. Además, se garantiza mayor seguridad jurídica en las autorizaciones de bienes de interés patrimonial gracias al silencio administrativo positivo.",
+  "professional_impact": "Los ayuntamientos deben actualizar sus catálogos y planes urbanísticos en plazos estrictos. Los comerciantes de bienes culturales adquieren la obligación de inscribirse en el registro y llevar un libro de transacciones. Los profesionales del sector arqueológico y paleontológico cuentan con un marco de protección más cohesionado.",
+  "keywords": [
+    "patrimonio histórico",
+    "Comunidad de Madrid",
+    "BIC",
+    "BIP",
+    "paisaje cultural",
+    "protección de bienes",
+    "gestión administrativa"
+  ],
+  "key_points": [
+    "Creación de las nuevas categorías de protección 'Paisaje Cultural' y 'Hecho Cultural'.",
+    "Reducción del plazo de resolución para declarar un Bien de Interés Cultural (BIC) de 15 a 9 meses.",
+    "Establecimiento de un plazo de 6 meses para la declaración de Bienes de Interés Patrimonial (BIP).",
+    "Aplicación del silencio administrativo positivo para autorizaciones en Bienes de Interés Patrimonial.",
+    "Nueva definición de patrimonio etnográfico e industrial centrada en bienes concretos.",
+    "Posibilidad de asociar bienes arqueológicos y paleontológicos bajo una misma figura de protección.",
+    "Agilización de expedientes de BIC antiguos mediante Decreto del Consejo de Gobierno.",
+    "Facultad de la Consejería para definir entornos de protección mediante Orden.",
+    "Obligación de los Ayuntamientos de adaptar sus planes especiales de protección.",
+    "Nuevas condiciones de exclusividad para la apertura de casinos en la Comunidad de Madrid.",
+    "Potestad del Consejo de Gobierno para actualizar multas y sanciones por vía reglamentaria."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 46)",
+    "Ley Orgánica 3/1983, de 25 de febrero, de Estatuto de Autonomía de la Comunidad de Madrid",
+    "Ley 10/1998, de 9 de julio, de Patrimonio Histórico de la Comunidad de Madrid",
+    "Convenio Europeo del Paisaje (número 176 del Consejo de Europa)",
+    "Convención para la salvaguardia del Patrimonio Cultural Inmaterial (UNESCO 2003)",
+    "Convenio Europeo para la protección del patrimonio arqueológico (La Valeta 1992)",
+    "Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español",
+    "Ley 9/1995, de 28 de marzo, de Medidas de Política Territorial, Suelo y Urbanismo",
+    "Ley 6/2001, de 3 de julio, del Juego en la Comunidad de Madrid",
+    "Decreto 79/2002, de 9 de mayo",
+    "Decreto 51/2003, de 10 de abril",
+    "Decreto 52/2003, de 10 de abril",
+    "Decreto 53/2003, de 10 de abril",
+    "Decreto 84/2005, de 15 de septiembre",
+    "Decreto 121/2005, de 17 de noviembre"
+  ],
+  "derogations": [
+    "Ley 10/1998, de 9 de julio, de Patrimonio Histórico de la Comunidad de Madrid"
+  ],
+  "main_obligations": "Los titulares de bienes deben conservarlos y custodiarlos. Los Ayuntamientos tienen un año para completar sus catálogos de bienes protegidos y dos meses para solicitar la adaptación de sus planes especiales. Los comerciantes de bienes culturales deben inscribirse en el registro y llevar un libro de transacciones.",
+  "effective_date": "2013-06-19",
+  "procedures": [
+    {
+      "name": "Declaración de Bien de Interés Cultural (BIC)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del expediente",
+          "description": "Inicio del procedimiento mediante resolución, con descripción del bien y delimitación cartográfica.",
+          "start_date": "Desde la resolución de incoación",
+          "end_date": null,
+          "required_documentation": "Descripción del objeto, delimitación cartográfica del bien y su entorno, estado de conservación y criterios de intervención."
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Periodo para alegaciones y consultas a instituciones.",
+          "start_date": "1 mes desde la publicación de la incoación",
+          "end_date": "1 mes después",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Dictado del Decreto por el Consejo de Gobierno.",
+          "start_date": "Desde la publicación de la incoación",
+          "end_date": "9 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de Bien de Interés Patrimonial (BIP)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación y tramitación",
+          "description": "Inicio del expediente siguiendo los mismos pasos que el BIC.",
+          "start_date": "Desde la resolución de incoación",
+          "end_date": null,
+          "required_documentation": "Descripción del bien, estado de conservación y delimitación cartográfica."
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Dictado del Decreto por el Consejo de Gobierno.",
+          "start_date": "Desde la publicación de la incoación",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de planes especiales de protección urbanística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de reconocimiento",
+          "description": "Los Ayuntamientos solicitan a la Dirección General competente el reconocimiento de sus planes especiales.",
+          "start_date": "2 meses desde la entrada en vigor de la ley",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la Dirección General",
+          "description": "La Dirección General resuelve sobre la adaptación del instrumento urbanístico.",
+          "start_date": "A partir de la solicitud",
+          "end_date": "2 meses tras la solicitud",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

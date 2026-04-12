@@ -1,0 +1,100 @@
+{
+  "identifier": "BOE-A-2023-25012",
+  "title": "Ley 11/2023, de 9 de noviembre, de movilidad sostenible de Euskadi",
+  "visible_title": "Ley de movilidad sostenible de Euskadi",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "11/2023",
+  "publication_date": "2023-12-08",
+  "enactment_date": "2023-11-09",
+  "last_updated": "2023-11-23",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2023/11/09/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco para transformar el transporte en el País Vasco hacia un modelo más ecológico, seguro y eficiente. Busca reducir la contaminación y la congestión urbana priorizando el transporte público, la movilidad activa (caminar, bicicleta) y el ferrocarril. Además, obliga a las administraciones a coordinar sus planes de movilidad y a integrar la tecnología y la participación ciudadana en la toma de decisiones.",
+  "citizen_impact": "Los ciudadanos ganarán una mayor integración en el transporte público mediante un sistema de billetes único y compatible en todo el territorio. También se garantiza el derecho a participar en la creación de los planes de movilidad y se fomentará la seguridad y accesibilidad universal en calles y estaciones.",
+  "professional_impact": "Las empresas constructoras y promotoras inmobiliarias deberán cumplir con nuevas exigencias, como dotar a las viviendas nuevas de al menos 1,5 plazas de aparcamiento para bicicletas. Las administraciones locales (ayuntamientos de más de 5.000 habitantes) tienen la obligación de elaborar y ejecutar planes de movilidad urbana específicos.",
+  "keywords": [
+    "movilidad sostenible",
+    "transporte público",
+    "movilidad activa",
+    "País Vasco",
+    "planificación urbana",
+    "intermodalidad",
+    "accesibilidad universal"
+  ],
+  "key_points": [
+    "Creación de un sistema de billetes único e interoperable para todos los transportes públicos de Euskadi en un plazo de dos años.",
+    "Obligación de instalar al menos 1,5 plazas de aparcamiento para bicicletas por cada vivienda nueva construida.",
+    "Prioridad absoluta al ferrocarril como eje del transporte público y a la movilidad activa (peatones y ciclistas).",
+    "Los municipios de más de 5.000 habitantes deben elaborar obligatoriamente Planes de Movilidad Urbana.",
+    "Implementación de medidas para disuadir el uso del vehículo privado, como límites de acceso a núcleos urbanos o costes directos.",
+    "Derecho de la ciudadanía a participar activamente en la elaboración y modificación de los planes de movilidad.",
+    "Uso de la fiscalidad (tasas y cánones) para desincentivar actividades que dañen el medio ambiente."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía del País Vasco",
+    "Constitución Española",
+    "Estrategia 2050 de la Comisión Europea",
+    "Pacto Verde Europeo",
+    "Ley 20/1997 de promoción de la accesibilidad",
+    "Ley 4/2019 de Sostenibilidad Energética de la Comunidad Vasca",
+    "Ley 2/2016 de Instituciones Locales de Euskadi",
+    "Ley 5/2003 de la Autoridad del Transporte de Euskadi",
+    "Ley 4/2004 de Transporte de Viajero por Carretera"
+  ],
+  "derogations": [],
+  "main_obligations": "Las administraciones deben elaborar planes de movilidad (Euskadi, territorios históricos y urbanos) y realizar informes de seguimiento cada dos años. Los ayuntamientos de más de 5.000 habitantes están obligados a implementar planes de movilidad urbana.",
+  "effective_date": "2023-12-09",
+  "procedures": [
+    {
+      "name": "Aprobación del Plan de Movilidad Sostenible de Euskadi",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación inicial",
+          "description": "El departamento competente aprueba el proyecto de Plan mediante orden.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Trámite de exposición para que entidades y ciudadanos presenten observaciones.",
+          "start_date": "2 meses",
+          "end_date": "2 meses",
+          "required_documentation": "Observaciones y sugerencias"
+        },
+        {
+          "step": 3,
+          "title": "Audiencia a administraciones",
+          "description": "Se da audiencia a diputaciones, municipios y otras administraciones afectadas.",
+          "start_date": "2 meses",
+          "end_date": "2 meses",
+          "required_documentation": "Alegaciones"
+        },
+        {
+          "step": 4,
+          "title": "Aprobación provisional",
+          "description": "Tras las alegaciones, el departamento aprueba provisionalmente el plan con informe de la Autoridad del Transporte.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Aprobación definitiva",
+          "description": "El Consejo de Gobierno aprueba el plan mediante decreto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

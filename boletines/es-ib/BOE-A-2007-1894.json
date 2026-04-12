@@ -1,0 +1,74 @@
+{
+  "identifier": "BOE-A-2007-1894",
+  "title": "Ley 21/2006, de 15 de diciembre, de atribución de competencias a los consejos insulares de Menorca y de Ibiza y Formentera en materia de juventud y ocio",
+  "visible_title": "Atribución de competencias en materia de juventud y ocio a los consejos insulares de Menorca y de Ibiza y Formentera",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Baleares",
+  "official_number": "21/2006",
+  "publication_date": "2007-01-30",
+  "enactment_date": "2006-12-15",
+  "last_updated": "2022-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2006/12/15/21",
+  "official_journal": "BOIB",
+  "journal_issue": null,
+  "summary": "Esta ley traslada la gestión y ejecución de las políticas de juventud y ocio desde el Gobierno de las Illes Baleares hacia los Consejos Insulares de Menorca y de Ibiza y Formentera. El objetivo es acercar la administración a los jóvenes y mejorar la prestación de servicios locales. Con esto, los consejos asumen el control de instalaciones, centros de información, formación de educadores y programas de participación juvenil en sus respectivas islas.",
+  "citizen_impact": "Los jóvenes de Menorca e Ibiza tendrán servicios de información, ocio y actividades culturales gestionados directamente por sus consejos insulares, lo que busca una atención más cercana y adaptada a su entorno. También facilita el acceso a programas de movilidad y turismo juvenil gestionados localmente.",
+  "professional_impact": "Las entidades juveniles, asociaciones y empresas de ocio infantil/juvenil deberán ahora tramitar sus autorizaciones, registros y licencias ante los Consejos Insulares en lugar de la administración autonómica. Los educadores de tiempo libre y gestores de instalaciones también verán trasladada su autoridad de supervisión y sanción a estas instituciones insulares.",
+  "keywords": [
+    "juventud",
+    "ocio",
+    "competencias",
+    "Menorca",
+    "Ibiza",
+    "consejos insulares",
+    "instalaciones juveniles",
+    "asociacionismo"
+  ],
+  "key_points": [
+    "Traspaso de la gestión de centros de información juvenil a los consejos de Menorca e Ibiza.",
+    "Los consejos asumen la autoridad para autorizar y supervisar escuelas de educadores de tiempo libre.",
+    "Gestión directa de instalaciones de ocio y programas de actividades de tiempo libre por parte de los consejos.",
+    "Creación de censos insulares propios para instalaciones, servicios de información y entidades juveniles.",
+    "Capacidad de los consejos para inspeccionar y sancionar infracciones en materia de juventud y ocio.",
+    "Transferencia de la titularidad de inmuebles y personal de los institutos de juventud insulares.",
+    "Fomento de la participación juvenil y el voluntariado a nivel insular."
+  ],
+  "legal_references": [
+    "Artículo 39 del Estatuto de Auto-nomía de las Illes Baleares",
+    "Ley 8/2000, de 27 de octubre, de consejos",
+    "Decreto 35/2006, de 31 de marzo",
+    "Decreto 34/2006, de 31 de marzo"
+  ],
+  "derogatons": [
+    "Disposiciones que se opongan a la presente ley"
+  ],
+  "main_obligations": "Los consejos insulares deben gestionar y mantener las instalaciones y centros transferidos, además de comunicar trimestralmente las actualizaciones de sus censos a la administración autonómica para garantizar la coordinación interinsular.",
+  "effective_date": "2007-01-01",
+  "procedures": [
+    {
+      "name": "Comunicación trimestral de censos insulares",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Registro de anotaciones",
+          "description": "Realización de anotaciones en el soporte informático del censo insular.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Transmisión de información",
+          "description": "Comunicación por escrito o telemática de las anotaciones al final de cada trimestre natural.",
+          "start_date": "Cada trimestre natural",
+          "end_date": null,
+          "required_documentation": "Sistemas de intercomunicación compatibles"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

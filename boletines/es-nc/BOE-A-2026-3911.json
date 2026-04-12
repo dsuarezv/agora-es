@@ -1,0 +1,166 @@
+{
+  "identifier": "BOE-A-2026-3911",
+  "title": "Ley Foral 18/2025, de 22 de diciembre, del impuesto complementarío para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud",
+  "visible_title": "Impuesto para garantizar un nivel mínimo de tributación a grandes grupos multinacionales y nacionales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "18/2025",
+  "publication_date": "2026-02-20",
+  "enactment_date": "2025-12-22",
+  "last_updated": "2025-12-31",
+  "status": "in_force",
+  "scope": "Autoonómico",
+  "source": "https://www.boe.es/eli/es/nc/lf/2025/12/22/18",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma crea un impuesto diseñado para evitar que las grandes corporaciones (con ingresos superiores a 750 millones de euros) eludan impuestos trasladando sus beneficios a paraísos fiscales. El objetivo es asegurar que estos grupos paguen, como mínimo, un tipo impositivo efectivo del 15%. La ley aplica tanto a multinacionales como a grandes grupos nacionales, estableciendo mecanismos para que la carga fiscal sea justa y no dependa de la ingeniería financiera. Con esto, se busca garantizar una competencia leal entre empresas y asegurar que la riqueza generada contribuya al sistema tributario.",
+  "citizen_impact": "Sin impacto directo en la vida diaria del ciudadano, salvo en el ámbito de la justicia fiscal y la reducción de la desigualdad de condiciones competitivas entre grandes corporaciones y pequeñas empresas.",
+  "professional_impact": "Impacto crítico para departamentos fiscales y financieros de grandes grupos empresariales. Las empresas deben implementar nuevos protocolos de reporte, designar una entidad sustituta para la gestión de pagos y asumir una responsabilidad solidaria por las deudas tributarias de todo su grupo. Además, se enfrentan a sanciones severas de hasta el 1% de su cifra de negocios por errores en la información.",
+  "keywords": [
+    "impuesto multinacional",
+    "tipo mínimo 15%",
+    "fiscalidad grandes empresas",
+    "Navarra",
+    "evasión fiscal",
+    "grupos de gran magnitud",
+    "Pilar Dos OCDE"
+  ],
+  "key_points": [
+    "Aplicación de un tipo impositivo mínimo global del 15% para grupos con ingresos consolidados de 750 millones de euros o más.",
+    "Alcance que incluye tanto a grupos multinacionales como a grupos exclusivamente nacionales de gran tamaño.",
+    "Creación de tres modalidades de impuesto: nacional, primario (regla de inclusión de rentas) y secundario (regla de beneficios insuficientemente gravados).",
+    "Exclusión 'de minimis' para grupos con ingresos medios inferiores a 10 millones de euros y beneficios inferiores a 1 millón de euros.",
+    "Posibilidad de reducir la base imponible según la 'sustancia económica' (presencia real de trabajadores y activos en el territorio).",
+    "Establecimiento de una entidad sustituta para centralizar la declaración y el pago por todo el grupo.",
+    "Responsabilidad solidaria de todas las entidades del grupo ante la deuda tributaria.",
+    "Mecanismo de 'impuesto de presunta distribución' para evitar la retención artificial de beneficios.",
+    "Neutralidad fiscal para holdings, cooperativas y entidades de inversión para evitar la doble imposición.",
+    "Sanciones graves de hasta 10.000€ por dato incorrecto, con un tope del 1% de la cifra de negocios consolidada.",
+    "Exclusión de entidades públicas, organizaciones sin ánimo de lucro y fondos de pensiones.",
+    "Obligatoriedad de presentar declaraciones informativas detalladas sobre la estructura del grupo."
+  ],
+  "legal_references": [
+    "Directiva (UE) 2016/1164",
+    "Directiva (UE) 2017/952",
+    "Directiva (UE) 2022/2523",
+    "Normas modelo de la OCDE (Pilar Dos)",
+    "Convenio Económico entre el Estado y la Comunidad Foral de Navarra (artículo 27 bis)",
+    "Ley 28/1990",
+    "Ley 4/2025",
+    "Ley 6 de la Compilación del Derecho Civil Foral de Navarra",
+    "Modelo de Convenio Tributario sobre la Rentas y sobre el Patrimonio de la OCDE",
+    "Normas Internacionales de Información Financiera (NIIF)",
+    "Reglamento (CE) n.º 1606/2002",
+    "Ley Foral 13/2000, de 13 de diciembre, General Tributaria",
+    "Ley Foral 26/2016, de 26 de diciembre, del Impuesto sobre Sociedad",
+    "Decreto Foral 217/1986"
+  ],
+  "derogations": [],
+  "main_obligations": "Las entidades deben presentar una declaración informativa detallada hasta el último día del 15º mes tras el cierre del ejercicio. La declaración tributaria y el ingreso del impuesto deben realizarse en los 25 días naturales siguientes al vencimiento de dicho plazo.",
+  "effective_date": "2023-12-31",
+  "procedures": [
+    {
+      "name": "Cumplimiento del Impuesto Complementario",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Determinación del umbral de aplicación",
+          "description": "Verificar si el grupo ha alcanzado los 750 millones de euros de cifra de negocios en al menos dos de los últimos cuatro ejercicios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estados financieros consolidados"
+        },
+        {
+          "step": 2,
+          "title": "Cálculo del tipo impositivo efectivo",
+          "description": "Calcular la relación entre los impuestos cubiertos ajustados y las ganancias admisibles netas por jurisdicción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estados financieros y ajustes contables"
+        },
+        {
+          "step": 3,
+          "title": "Presentación de declaración informativa",
+          "description": "Obligación de informar sobre la estructura del grupo y los datos necesarios para el cálculo del impuesto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración informativa del grupo"
+        }
+      ]
+    },
+    {
+      "name": "Determinación de la base imponible y el contribuyente sustituto",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Identificación del contribuyente y sustituto",
+          "description": "Determinar qué entidad del grupo (matriz última, intermedia o con mayores activos en España) asume la obligación de declarar y pagar.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Cálculo de ganancias y pérdidas admisibles",
+          "description": "Realizar los ajustes contables obligatorios (dividendos, gastos no admisibles, transacciones intra-grupo) sobre el resultado contable.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estados financieros consolidados y ajustes de la norma contable aplicada."
+        }
+      ]
+    },
+    {
+      "name": "Cálculo y liquidación del Impuesto Complementario",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Determinación del periodo impositivo",
+          "description": "Coincidirá con el ejercicio económico de la matriz última o el año natural.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Cálculo del tipo impositivo efectivo",
+          "description": "Cálculo de la diferencia entre el tipo mínimo y el efectivo por jurisdicción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Pago del impuesto",
+          "description": "El pago debe realizarse en el plazo establecido para el periodo voluntario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Cumplimiento de obligaciones informativas y tributarias del Impuesto Complementario",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración informativa",
+          "description": "Envío de la información detallada sobre la estructura del grupo y cálculos del tipo efectivo.",
+          "start_date": "Cierre del periodo impositivo",
+          "end_date": "Último día del 15º mes posterior al cierre",
+          "required_documentation": "Identificación de entidades, estructura de participaciones, datos de cálculo de tipo efectivo e impuestos cubiertos."
+        },
+        {
+          "step": 2,
+          "title": "Presentación de la declaración tributaria e ingreso",
+          "description": "Liquidación y pago de la deuda tributaria resultante del impuesto complementario.",
+          "start_date": "Cierre del periodo impositivo",
+          "end_date": "25 días naturales tras el 15º mes posterior al cierre",
+          "required_documentation": "Declaración tributaria según modelos reglamentarios."
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 4
+}

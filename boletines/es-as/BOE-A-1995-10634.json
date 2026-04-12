@@ -1,0 +1,79 @@
+{
+  "identifier": "BOE-A-1995-10634",
+  "title": "Ley 3/1995, de 15 de marzo, de Sanciones en Materia de Vivienda",
+  "visible_title": "Ley de Sanciones en Materia de Vivienda",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "3/1995",
+  "publication_date": "1995-05-04",
+  "enactment_date": "1995-03-15",
+  "last_updated": "2002-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1995/03/15/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el régimen sancionador específico para el Principado de Asturias en materia de vivienda, con especial énfasis en la Vivienda de Protección Oficial (VPO). Su objetivo es garantizar que las viviendas protegidas cumplan con su finalidad social, evitando usos indebidos o cobros excesivos. Regula las infracciones, las multas y los procedimientos de ejecución para asegurar el cumplimiento de la normativa de vivienda.",
+  "citizen_impact": "Protege a los ciudadanos que acceden a viviendas de protección oficial frente a cobros ilegales o usos indebidos de la vivienda por parte de terceros. También asegura que las viviendas de alquiler o compra protegidas cumplan con estándares de salubridad e higiene.",
+  "professional_impact": "Afecta directamente a promotores, constructoras y empresas de suministros, quienes pueden enfrentar multas elevadas por incumplir requisitos de construcción, publicidad o gestión de VPO. Los directivos de empresas también pueden ser considerados responsables solidarios de las infracciones cometidas por sus sociedades.",
+  "keywords": [
+    "vivienda de protección oficial",
+    "sanciones administrativas",
+    "vivienda protegida",
+    "infracciones de vivienda",
+    "Asturias",
+    "promotores",
+    "multas"
+  ],
+  "key_points": [
+    "Clasificación de infracciones en leves, graves y muy graves.",
+    "Responsabilidad solidaria de personas físicas y jurídicas por incumplimiento de obligaciones.",
+    "Multas para infracciones muy graves que pueden llegar hasta las 5.000.000 de pesetas.",
+    "Penalización específica por cobrar sobreprecios en la compra o alquiler de viviendas protegidas.",
+    "Posibilidad de perder los beneficios de la vivienda de protección oficial si se cometen infracciones.",
+    "La Administración puede ejecutar obras por cuenta del infractor si este no cumple con el proyecto aprobado.",
+    "Prescripción de infracciones: 6 meses para leves, 2 años para graves y 3 años para muy graves."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía para Asturias",
+    "Constitución Española",
+    "Ley 30/1992, de 26 de noviembre",
+    "Real Decreto 3148/1978"
+  ],
+  "derogations": [],
+  "main_obligations": "Los promotores y propietarios deben respetar los precios y rentas máximos establecidos, asegurar la habitabilidad y destinar las viviendas de protección oficial a domicilio habitual. Se prohíbe el cobro de sobreprecios y el uso de fondos de financiación protegida para fines distintos a la vivienda.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación del procedimiento",
+          "descrption": "Inicio del expediente sancionador tras la detección de una posible infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Prescripción de la infracción",
+          "descrption": "Plazo máximo para que la administración pueda iniciar el proceso según la gravedad.",
+          "start_date": "6 meses para leves",
+          "end_date": "3 años para muy graves",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ejecución de la sanción",
+          "descrption": "Cumplimiento de la multa o medida impuesta, pudiendo derivar en ejecución subsidiaria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,174 @@
+{
+  "identifier": "BOE-A-2002-9244",
+  "title": "Ley 5/2002, de 4 de abril, de Caza, de Aragón",
+  "visible_title": "Ley de Caza de Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "5/2002",
+  "publication_date": "2002-05-14",
+  "enactment_date": "2002-04-04",
+  "last_updated": "2015-03-25",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2002/04/04/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley reorganiza por completo la actividad cinegética en Aragón, creando nuevas figuras de gestión como los cotos municipales y sociales. Introduce un sistema de planificación por comarcas y establece la responsabilidad de la Administración en el pago de daños no agrarios causados por fauna. Además, endurece el régimen de vigilancia y sanciones, regulando estrictamente las zonas de seguridad y la obligación de contar con seguros y vigilancia profesional.",
+  "citizen_impact": "Los cazadores locales tienen garantizado un 20% de permisos en cotos sociales. Los propietarios de fincas pequeñas (hasta 5 hectáreas) pueden ser integrados automáticamente en cotos colindantes con compensación. Se establecen zonas donde está prohibido cazar (200m de núcleos urbanos y 100m de edificios aislados) para garantizar la seguridad ciudadana.",
+  "professional_impact": "Los titulares de cotos y terrenos cinegéticos asumen nuevas cargas: deben garantizar servicios de vigilancia (propio o contratado), presentar memorias económicas anuales y planes técnicos. Los infractores se enfrentan a sanciones económicas de hasta 60.101,21 € y al decomiso de vehículos, perros y armas, además de la inscripción automática en un Registro Regional de Infractores.",
+  "keywords": [
+    "caza",
+    "Aragón",
+    "cotos de caza",
+    "infracciones cinegéticas",
+    "gestión de fauna",
+    "seguridad cinegética"
+  ],
+  "key_points": [
+    "Creación de cotos municipales gestionados por ayuntamientos o sociedades de cazadores.",
+    "Garantía de un cupo mínimo del 20% de permisos para cazadores locales en cotos sociales.",
+    "Integración automática de fincas de hasta 5 hectáreas en cotos colindantes con compensación económica.",
+    "La Administración de Aragón asume la indemnización por daños no agrarios causados por especies cinegéticas.",
+    "Establecimiento de zonas de seguridad de 200 metros alrededor de núcleos urbanos y 100 metros en edificios aislados.",
+    "Obligatoriedad de seguro de responsabilidad civil para todo cazador que utilice armas.",
+    "Obligación de los titulares de terrenos cinegéticos de garantizar un servicio de vigilancia.",
+    "Sanciones económicas escalonadas desde 300,51€ hasta 60.101,21€.",
+    "Posibilidad de decomiso de vehículos, perros, aves de presa y otros medios usados en infracciones.",
+    "Creación de un Registro Regional de Infractores de Caza con inscripción automática de sanciones firmes.",
+    "La caza de especies como sarrio, cabra montés, ciervo, corzuelo, gamo o muflón sin permiso es infracción muy grave.",
+    "Responsabilidad de los padres por daños causados por menores de edad penal."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Aragón (artículo 20.1)",
+    "Constitución Española de 1978 (artículo 148.1.11.ª)",
+    "Ley 12/1992, de 10 de diciembre, de Caza",
+    "Ley 10/1994, de 31 de octubre",
+    "Ley 10/1994, de 31 de diciembre, de modificación de la Ley de Caza de Aragón",
+    "Decreto 72/1997, de 27 de mayo",
+    "Decreto 42/1986, de 4 de abril"
+  ],
+  "derogatons": [
+    "Ley 12/1992, de 10 de diciembre, de Caza",
+    "Ley 10/1994, de 31 de diciembre, de modificación de la Ley de Caza de Aragón"
+  ],
+  "main_obligations": "Los cazadores deben contratar un seguro de responsabilidad civil y respetar las zonas de seguridad. Los titulares de cotos deben garantizar vigilancia, presentar planes técnicos y memorias económicas anuales.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Constitución de un cotos de caza",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de constitución",
+          "description": "Acreditación de la titularidad de al menos el 75% de la superficie (o 90% en cotos privados/intensivos).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que pruebe la titularidad de los derechos cinegéticos."
+        },
+        {
+          "step": 2,
+          "title": "Autorización del servicio provincial",
+          "description": "El Director de los servicios provinciales autoriza la constitución, modificación o cambio de titularidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Suspensión de la actividad cinegética (Medida cautelar)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del procedimiento",
+          "description": "Inicio del trámite por parte del Director del servicio provincial tras detectar indicios de infracción o peligro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Trámite de audiencia",
+          "description": "Se otorga audiencia a los interesados antes de la resolución.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de suspensión o anulación",
+          "description": "Decisión de suspender temporalmente la actividad o anular el acotado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reclamación de daños no agrarios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación administrativa",
+          "description": "Procedimiento para que la Administración evalúe la responsabilidad y el pago de la indemnización.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Audiencia al titular del acotado",
+          "description": "Se escucha al titular del terreno para determinar si hubo falta de diligencia en la conservación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Administrativo Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación",
+          "description": "Inicio del expediente por parte de los directores de los servicios provinciales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y Plazo de Resolución",
+          "description": "El procedimiento debe resolverse y notificarse en un plazo máximo de 12 meses.",
+          "start_date": null,
+          "end_date": "12 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Dictado de la sanción, que puede incluir multas, inhabilitación o decomisos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Prescripción de Infracciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazos de prescripción según gravedad",
+          "description": "Las infracciones muy graves prescriben a los 3 años, las graves a los 2 años y las leves a los 6 meses.",
+          "start_date": "Desde el día de la comisión",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

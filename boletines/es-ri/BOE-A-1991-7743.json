@@ -1,0 +1,111 @@
+{
+  "identifier": "BOE-A-1991-7743",
+  "title": "Ley 3/1991, de 21 de marzo, de elecciones a la Diputación General de La Rioja",
+  "visible_title": "Ley de elecciones a la Diputación General de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "3/1991",
+  "publication_date": "1991-03-27",
+  "enactment_date": "1991-03-21",
+  "last_updated": "1991-03-23",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/1991/03/21/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece las reglas de juego para elegir a los representantes de la Diputación General de La Rioja. Regula desde quién puede votar y ser elegido, hasta cómo se gestionan las campañas, el uso de medios públicos y la financiación de los partidos. Su objetivo es adaptar la legislación regional a la normativa estatal y garantizar un proceso electoral transparente y organizado.",
+  "citizen_impact": "Afecta principalmente a los ciudadanos riojanos en su derecho a votar y a ser candidatos. Garantiza que el proceso sea claro y seguro, definiendo quiénes tienen prohibido presentarse (inelegibilidad) para evitar conflictos de intereses.",
+  "professional_impact": "Impacta directamente en los partidos políticos y candidatos, quienes deben designar administradores, gestionar cuentas electorales y cumplir con límites de gasto. También afecta a funcionarios de la Junta Electoral y medios de comunicación públicos que deben gestionar los tiempos de propaganda.",
+  "keywords": [
+    "elecciones",
+    "Diputación General",
+    "La Rioja",
+    "sistema electoral",
+    "sufragio",
+    "financiación electoral",
+    "candidaturas"
+  ],
+  "key_points": [
+    "Se establece una circunscripción electoral única para toda la Comunidad de La Rioja.",
+    "La Diputación General se compone de 33 Diputados.",
+    "Se crea la Junta Electoral de la Comunidad Autónoma de La Rioja como órgano de control.",
+    "Se define un sistema de reparto de escaños basado en la fórmula de cocientes (D'Hondt) con un umbral mínimo del 5% de votos.",
+    "Se regulan estrictamente las incompatibilidades para cargos públicos y directivos de entes públicos.",
+    "Se establecen límites de gasto electoral basados en la población de la Comunidad.",
+    "Se regula la subvención pública para los partidos según los votos y escaños obtenidos."
+  ],
+  "legal_references": [
+    "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General",
+    "Ley Orgánica 1/1987, de 2 de abril",
+    "Ley Orgánica 8/1991, de 13 de marzo",
+    "Estatuto de Autonomía de La Rioja",
+    "Constitución Española"
+  ],
+  "derogations": [
+    "Ley 1/1987, de 23 de enero, de Elecciones a la Diputación General de La Rioja"
+  ],
+  "main_obligations": "Los partidos deben designar un administrador general y presentar cuentas detalladas ante el Tribunal de Cuentas. Existe un límite de gasto electoral que no puede superar las 50 pesetas por habitante de la Comunidad. Las candidaturas deben presentarse en los plazos y formas que dicta la ley para evitar la invalidación.",
+  "effective_date": "1991-03-28",
+  "procedures": [
+    {
+      "name": "Presentación de candidaturas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Designación de representante general",
+          "description": "Los partidos deben nombrar un representante ante la Junta Electoral.",
+          "start_date": "9 días después de la convocatoria",
+          "end_date": null,
+          "required_documentation": "Escrito de designación y aceptación"
+        },
+        {
+          "step": 2,
+          "title": "Presentación de listas",
+          "description": "Entrega de las listas de 33 candidatos y 3 suplentes.",
+          "start_date": "15 días después de la convocatoria",
+          "end_date": "20 días después de la convocatoria",
+          "required_documentation": "Listas de candidatos y suplentes por duplicado"
+        },
+        {
+          "step": 3,
+          "title": "Publicación de candidaturas",
+          "description": "Las listas se hacen públicas en el Boletín Oficial de La Rioja.",
+          "start_date": "22 días después de la convocatoria",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Proclamación de candidatos",
+          "description": "La Junta Electoral oficializa las candidaturas tras el periodo de subsanación.",
+          "start_date": "27 días después de la convocatoria",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de subvenciones electorales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de adelantos",
+          "description": "Los partidos pueden pedir un anticipo de sus futuras subvenciones.",
+          "start_date": "21 días después de la convocatoria",
+          "end_date": "23 días después de la convocatoria",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de cuentas",
+          "description": "Presentación de la contabilidad detallada ante el Tribunal de Cuentas.",
+          "start_date": "100 días después de las elecciones",
+          "end_date": "125 días después de las elecciones",
+          "required_documentation": "Contabilidad detallada y documentada de ingresos y gastos"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

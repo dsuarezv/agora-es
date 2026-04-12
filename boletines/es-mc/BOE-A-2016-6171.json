@@ -1,0 +1,82 @@
+{
+  "identifier": "BOE-A-2016-6171",
+  "title": "Ley 9/2016, de 2 de junio, de medidas urgentes en materia de espectáculos públicos en la Comunidad Autónoma de la Región de Murcia",
+  "visible_title": "Medidas urgentes en materia de espectáculos públicos en la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "9/2016",
+  "publication_date": "2016-06-25",
+  "enactment_date": "2016-06-02",
+  "last_updated": "2023-11-25",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2016/06/02/9",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma surge para cubrir un vacío legal tras la reforma de la Ley Orgánica de Seguridad Ciudadana, que dejó sin sanción el incumplimiento de horarios en locales de ocio. Su objetivo principal es permitir a la administración murciana sancionar a quienes operen fuera de su horario autorizado. Con ello, se busca garantizar el descanso de los vecinos y el orden público en las zonas de espectáculos.",
+  "citizen_impact": "Mejora la calidad de vida y el descanso de los vecinos al permitir que las autoridades sancionen a locales que no cierren a la hora establecida. Los ciudadanos cuentan con un respaldo legal para exigir el respeto a los horarios de ocio en su entorno.",
+  "professional_impact": "Los dueños de locales, organizadores de eventos y empresas de ocio deben cumplir estrictamente con sus licencias de horario para evitar multas económicas significativas. La reincidencia puede acarrear la clausura del negocio o la suspensión de licencias hasta por dos años.",
+  "keywords": [
+    "espectáculos públicos",
+    "horarios de cierre",
+    "infracciones administrativas",
+    "ocio nocturno",
+    "sanciones",
+    "Región de Murcia"
+  ],
+  "key_points": [
+    "Se tipifica como infracción leve abrir o cerrar un local fuera del horario autorizado.",
+    "Cometer tres infracciones leves en un año se considera una infracción grave.",
+    "Las multas por infracciones leves oscilan entre 200 y 1.000 euros.",
+    "Las multas por infracciones graves van de 1.001 a 12.000 euros.",
+    "Las infracciones leves prescriben a los 6 meses y las graves al año.",
+    "Las sanciones por infracciones leves prescriben al año y las graves a los dos años.",
+    "En casos de infracción grave, se pueden clausurar locales o suspender licencias hasta por 6 meses (o hasta 2 años en caso de reincidencia grave).",
+    "La sanción económica puede incrementarse según el beneficio ilícito obtenido por el infractor."
+  ],
+  "legal_references": [
+    "Ley Orgánica 4/1982, de 9 de junio, de Estatuto de Autonomía de la Región de Murcia",
+    "Ley Orgánica 9/1992, de 23 de diciembre",
+    "Real Decreto 1279/1994, de 10 de junio",
+    "Ley Orgánica 4/2015, de 30 de marzo, de protección de la seguridad ciudadana",
+    "Decreto Regional 17/2004, de 27 de febrero"
+  ],
+  "derogations": [
+    "Norma derogada por disposición de 2023 (Ref. BORM-s-2023-90312)"
+  ],
+  "main_obligations": "Prohibición de abrir o cerrar establecimientos de espectáculos públicos fuera del horario autorizado. Las multas van de 200€ a 1.000€ por faltas leves y de 1.001€ a 12.000€ por faltas graves.",
+  "effective_date": "2016-06-26",
+  "procedures": [
+    {
+      "name": "Procedimiento sancionador de espectáculos públicos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación y resolución",
+          "descrption": "El procedimiento es iniciado por el titular del centro directivo competente y resuelto por el mismo órgano.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Información aportada por agentes de la autoridad en documento público."
+        },
+        {
+          "step": 2,
+          "title": "Prescripción de la infracción",
+          "descrption": "Plazo para que la administración pueda iniciar el expediente.",
+          "start_date": "6 meses para leves",
+          "end_date": "1 año para graves",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Prescripción de la sanción",
+          "descrption": "Plazo para que la administración ejecute la sanción impuesta.",
+          "start_date": "1 año para leves",
+          "end_date": "2 años para graves",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

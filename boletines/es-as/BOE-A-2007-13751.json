@@ -1,0 +1,95 @@
+{
+  "identifier": "BOE-A-2007-13751",
+  "title": "Ley 3/2007, de 23 de marzo, de Mediación Familiar",
+  "visible_title": "Ley de Mediación Familiar",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "3/2007",
+  "publication_date": "2007-07-17",
+  "enactment_date": "2007-03-23",
+  "last_updated": "2007-04-09",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2007/03/23/3",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta ley regula la mediación familiar en Asturias como una alternativa extrajudicial y voluntaria para resolver conflictos entre familiares o parejas de hecho. Busca ofrecer una vía más rápida, económica y menos traumática que los juzgados para alcanzar acuerdos sobre materias disponibles. Establece las condiciones para que los mediadores actúen, crea un registro oficial y garantiza la gratuidad para personas con pocos recursos.",
+  "citizen_impact": "Permite a las familias resolver disputas (como divorcios, separación de parejas de hecho o temas de alimentos) mediante el diálogo con un profesional sin necesidad de ir a juicio. Ofrece la posibilidad de acceder a este servicio de forma gratuita si se cumplen los requisitos de asistencia jurídica gratuita. Garantiza la confidencialidad de todo lo que se hable durante el proceso.",
+  "professional_impact": "Los profesionales de Derecho, Psicología, Pedagogía, Trabajo Social o Educación Social pueden ejercer como mediadores siempre que tengan formación específica y se inscriban en el Registro de Mediadores del Principado. Se establece un régimen sancionador estricto para los mediadores que incumplan sus deberes de imparcialidad, confidencialidad o que ejerzan sin estar registrados.",
+  "keywords": [
+    "mediación familiar",
+    "resolución de conflictos",
+    "Asturias",
+    "derecho de familia",
+    "procedimiento extrajudicial",
+    "mediador familiar"
+  ],
+  "key_points": [
+    "La mediación es totalmente voluntaria y puede interrumpirse en cualquier momento.",
+    "Se crea el Centro de Mediación Familiar y el Registro de Mediadores del Principado de Asturias.",
+    "El proceso tiene una duración máxima de 3 meses, prorrogable por otros 3 meses.",
+    "Los acuerdos alcanzados pueden ser ratificados judicialmente para tener plena validez.",
+    "Existe el derecho a la mediación gratuita para beneficiarios de asistencia jurídica gratuita.",
+    "Se prohíbe la mediación en casos de violencia doméstica o de género, remitiendo a la legislación específica.",
+    "Los mediadores deben ser profesionales con titulación universitaria y formación específica acreditada."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía del Principado de Asturias",
+    "Ley de Enjuiciamiento Civil",
+    "Ley 15/2005, de 8 de julio",
+    "Ley Orgánica 1/2004, de 28 de diciembre (Medidas de Protección Integral contra la Violencia de Género)",
+    "Ley 7/2006, de 3 de noviembre (Estadística de Asturias)"
+  ],
+  "derogations": [],
+  "main_obligations": "Los mediadores deben mantener estricta confidencialidad y neutralidad, estar inscritos en el Registro oficial y evitar conflictos de intereses. El incumplimiento de la confidencialidad o el ejercicio sin registro se consideran infracciones muy graves con multas de hasta 6.000 € o inhabilitación.",
+  "effective_date": "2007-09-23",
+  "procedures": [
+    {
+      "name": "Procedimiento de Mediación Familiar",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio de la mediación",
+          "description": "Se inicia por mutuo acuerdo, por iniciativa de una parte con consentimiento de la otra o por propuesta judicial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Designación del mediador",
+          "description": "Se elige de común acuerdo, por una entidad privada o por la Consejería de Bienestar Social.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Reunión inicial informativa",
+          "description": "El mediador explica alcances, costes, derechos, deberes y el principio de confidencialidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de la reunión inicial firmada por las partes y el mediador"
+        },
+        {
+          "step": 4,
+          "title": "Desarrollo de las sesiones",
+          "description": "Fase de diálogo y búsqueda de acuerdos. La duración total no debe exceder los 3 meses (prorrogables a 3 más).",
+          "start_date": null,
+          "end_date": "6 meses máximo desde la sesión inicial",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Finalización y Acta Final",
+          "description": "Se redacta un acta con los acuerdos alcanzados o dejando constancia de que no hubo acuerdo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta final de la mediación firmada por todas las partes"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

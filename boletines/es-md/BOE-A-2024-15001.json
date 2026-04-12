@@ -1,0 +1,82 @@
+{
+  "identifier": "BOE-A-2024-15001",
+  "title": "Ley 3/2024, de 28 de junio, de medidas urbanísticas para la promoción de vivienda protegida",
+  "visible_title": "Medidas urbanísticas para la promoción de vivienda protegida",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "3/2024",
+  "publication_date": "2024-07-22",
+  "enactment_date": "2024-06-28",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2024/06/28/3",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley busca aumentar la oferta de vivienda protegida en la Comunidad de Madrid mediante la simplificación de trámites urbanísticos. Permite transformar edificios de oficinas en viviendas de alquiler protegido sin necesidad de modificar el planeamiento municipal. Además, reduce las exigencias de aparcamiento en viviendas públicas para abaratar su coste de construcción.",
+  "citizen_impact": "Facilita el acceso a viviendas de alquiler con precios más asequibles al aumentar la oferta disponible. Al reducir la obligación de construir plazas de aparcamiento en viviendas protegidas, se busca que el coste de construcción no se traslade al precio final del alquiler.",
+  "professional_impact": "Las empresas inmobiliarias y constructoras pueden reconvertir edificios de oficinas en viviendas de alquiler protegido de forma ágil mediante licencia directa. Los promotores de vivienda pública se benefician de una reducción de cargas urbanísticas y plazos de tramitación más rápidos en redes supramunicipales.",
+  "keywords": [
+    "vivienda protegida",
+    "urbanismo",
+    "cambio de uso",
+    "oficinas a vivienda",
+    "alquiler protegido",
+    "Comunidad de Madrid",
+    "suelo terciario"
+  ],
+  "key_points": [
+    "Permite el cambio de uso de oficinas a vivienda protegida de alquiler mediante licencia directa, sin modificar el planeamiento.",
+    "El uso residencial alternativo no puede superar el 30% de la edificabilidad del uso terciario original.",
+    "Se reduce la reserva de aparcamiento a una sola plaza por vivienda en edificios de protección pública.",
+    "Los ayuntamientos tienen un plazo de 4 meses para decidir si aplican o no este régimen especial en su municipio.",
+    "Las solicitudes de licencia para cambio de uso deben presentarse en un plazo de 2 años.",
+    "Las obras de reconversión deben finalizar en un máximo de 3 años desde su inicio.",
+    "Se agilizan los procedimientos para la implantación de vivienda pública en redes supramunicipales."
+  ],
+  "legal_references": [
+    "Ley 9/2001, de 17 de julio, del Suelo de la Comunidad de Madrid",
+    "Ley 11/2022, de 21 de diciembre, de Medidas Urgentes para el Impulso de la Actividad Económica y la Modernización de la Administración de la Comunidad de Madrid",
+    "Constitución Española (artículo 47)",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Decreto 52/2021, de 24 de marzo, del Consejo de Gobierno"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a la presente ley"
+  ],
+  "main_obligations": "Los promotores que utilicen el régimen de cambio de uso deben destinar la vivienda exclusivamente al régimen de protección pública en arrendamiento. Las obras deben completarse en un plazo máximo de 3 años desde su inicio.",
+  "effective_date": "2024-07-23",
+  "procedures": [
+    {
+      "name": "Cambio de uso de oficinas a vivienda protegida de alquiler",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Decisión municipal",
+          "description": "Los ayuntamientos deciden si aplican o no este régimen especial en su término municipal.",
+          "start_date": "2024-07-23",
+          "end_date": "4 meses tras la entrada en vigor",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de licencia",
+          "description": "Presentación de la solicitud de licencia para el cambio de uso residencial alternativo.",
+          "start_date": "Tras el plazo de 4 meses de los ayuntamientos",
+          "end_date": "2 años",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ejecución de obras",
+          "description": "Realización y finalización de las obras de adecuación para el nuevo uso residencial.",
+          "start_date": "Inicio de las obras",
+          "end_date": "3 años",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

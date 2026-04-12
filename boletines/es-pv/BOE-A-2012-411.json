@@ -1,0 +1,71 @@
+{
+  "identifier": "BOE-A-2012-411",
+  "title": "Ley 4/1997, de 30 de mayo, de reconocimiento de la Universidad \"Mondragon Unibertsitatea\"",
+  "visible_title": "Reconocimiento de la Universidad Mondragon Unibertsitatea",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "4/1997",
+  "publication_date": "2012-01-11",
+  "enactment_date": "1997-06-11",
+  "last_updated": "2023-10-13",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1997/05/30/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley otorga el reconocimiento oficial a la Universidad 'Mondragon Unibertsitatea' como institución de titularidad privada en el País Vasco. El objetivo es consolidar la actividad académica y científica de centros docentes ya existentes vinculados al modelo cooperativo de Mondragón. La norma define su estructura inicial, los títulos oficiales que puede impartir y establece el marco de supervisión por parte de la administración vasca.",
+  "citizen_impact": "Los estudiantes que ya cursaban estudios en las escuelas integradas (Ingeniería de Mondragón, Estudios Empresariales de Oñati e Irakasle Eskola) pueden elegir entre continuar en la nueva universidad o permanecer en la Universidad del País Vasco. Para nuevos alumnos, garantiza el acceso bajo la normativa universitaria vigente y la protección de sus derechos académicos.",
+  "professional_impact": "Para la entidad promotora (M.U.S. Coop.), supone la transición de centros adscritos a una universidad propia, asumiendo la responsabilidad de gestionar sus propios títulos y cumplir con las inspecciones del Departamento de Educación. La universidad debe informar de cualquier cambio en su patrimonio o reglamentos en un plazo de dos meses.",
+  "keywords": [
+    "reconocimiento universitario",
+    "universidad privada",
+    "Mondragón",
+    "País Vasco",
+    "enseñanza superior",
+    "modelo cooperativo"
+  ],
+  "key_points": [
+    "Reconocimiento oficial de Mondragon Unibertsitatea como universidad privada.",
+    "Integración de tres centros docentes previos: Escuela de Ingeniería de Mondragón, Escuela de Oñati e Irakasle Eskola.",
+    "Inclusión del Colegio Mayor 'Pedro Viteiri y Arana' dentro de la estructura universitaria.",
+    "Obligación de mantener el funcionamiento hasta que los alumnos actuales finalicen sus estudios.",
+    "Sujeción a la inspección y supervisión del Departamento de Educación del Gobierno Vasco.",
+    "El reconocimiento caduca si no se solicita la autorización de funcionamiento en un plazo de tres años."
+  ],
+  "legal_references": [
+    "Ley Orgánica 3/1979, de 18 de diciembre, de Estatuto de Autonomía para el País Vasco",
+    "Ley Orgánica 11/1983, de 25 de agosto, de Reforma Universitaria",
+    "Real Decreto 557/1991, de 12 de abril",
+    "Real Decreto 485/1995, de 7 de abril"
+  ],
+  "derogations": [
+    "Decreto Legislativo 7/2023, de 21 de septiembre (derogó esta ley con efectos el 14 de octubre de 2023)"
+  ],
+  "main_obligations": "La universidad debe elaborar una memoria anual de actividades para el Parlamento y el Departamento de Educación. Asimismo, tiene la obligación de comunicar cualquier cambio en su organización, patrimonio o sistema de becas en un plazo máximo de dos meses.",
+  "effective_date": "1997-06-12",
+  "procudeures": [
+    {
+      "name": "Puesta en funcionamiento de la Universidad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Homologación de títulos",
+          "description": "Solicitud de homologación de los títulos que la universidad pretende expedir siguiendo la LOU.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Expediente de títulos según normativa"
+        },
+        {
+          "step": 2,
+          "title": "Autorización por Decreto",
+          "description": "El Gobierno autoriza la puesta en funcionamiento mediante decreto tras comprobar el cumplimiento de compromisos.",
+          "start_date": "Tras la homologación de títulos",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

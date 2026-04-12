@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-2002-18103",
+  "title": "Ley 14/2002, de 11 de julio, de Ordenación y Fomento de la Artesanía",
+  "visible_title": "Ley de Ordenación y Fomento de la Artesanía de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "14/2002",
+  "publication_date": "2002-09-18",
+  "enactment_date": "2002-07-11",
+  "last_updated": "2002-07-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2002/07/11/14",
+  "official_journal": "Diario Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para organizar, proteger y potenciar el sector artesanal en Castilla-La Mancha. Busca modernizar la actividad artesana, integrándola con el turismo y el sector primario, y asegurar su continuidad como patrimonio cultural. Para ello, crea herramientas de identificación oficial, registros específicos y mecanismos de ayuda económica y promoción de calidad.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes, salvo para aquellos interesados en el consumo de productos con el distintivo de calidad regional.",
+  "professional_impact": "Los artesanos y empresas del sector deben inscribirse en el Registro de Actividades Artesanas para acceder a ayudas y subvenciones. Se introducen los documentos oficiales de 'Carné de Artesano' y 'Título de Empresa Artesana' como requisitos para el reconocimiento profesional y el acceso a beneficios públicos.",
+  "keywords": [
+    "artesanía",
+    "Castilla-La Mancha",
+    "fomento económico",
+    "patrimonio cultural",
+    "empresa artesana",
+    "carné de artesano",
+    "subvenciones"
+  ],
+  "key_points": [
+    "Creación del Carné de Artesano para acreditar la cualificación profesional de personas físicas.",
+    "Creación del Título de Empresa Artesana para explotaciones económicas que mantengan el carácter artesano.",
+    "Establecimiento del Registro de Actividades Artesanas como requisito para acceder a ayudas y distintivos.",
+    "Implementación del distintivo de calidad 'Artesanías de Castilla-La Mancha' para mejorar la competitividad.",
+    "Constitución de la Comisión de Artesanía como órgano consultivo y de representación del sector.",
+    "Clasificación de la artesanía en cuatro grupos: artística, tradicional, bienes de consumo no alimentarios y nueva artesanía.",
+    "Exclusión explícita de la artesanía alimentaria, que se rige por normativa específica de seguridad alimentaria."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Castilla-La Mancha",
+    "Decreto 82/1986, de 29 de julio",
+    "Ley 30/1992, de 26 de diciembre"
+  ],
+  "derogations": [
+    "Decreto 82/1986, de 29 de julio, de Ordenación de la Artesanía"
+  ],
+  "main_obligations": "Los artesanos y empresas que deseen acceder a ayudas, subvenciones o al distintivo de calidad deben estar inscritos obligatoriamente en el Registro de Actividades Artesanas. Asimismo, deben comunicar cualquier variación en sus datos o el cese de su actividad.",
+  "effective_date": "2002-09-08",
+  "procedures": [
+    {
+      "name": "Obtención del Carné de Artesano",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y acreditación",
+          "description": "Acreditación de la actividad artesana mediante título académico, certificado de profesionalidad o ejercicio notorio de la actividad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Títulos académicos, certificados de profesionalidad o pruebas de ejercicio de la actividad."
+        },
+        {
+          "step": 2,
+          "title": "Inscripción en el Registro",
+          "description": "Inscripción de oficio en el Registro de Actividades Artesanas tras la expedición del carné.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Obtención del Título de Empresa Artesana",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requisitos de la explotación",
+          "description": "Cumplir con la posesión del carné de artesano por el responsable y estar dado de alta en el IAE.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Carné de Artesano o Maestro Artesano del responsable, alta en el Impuesto de Actividades Económicas."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-2021-9006",
+  "title": "Ley 1/2021, de 29 de abril, por la que se establece el régimen sancionador por incumplimiento de las medidas de prevención y contención frente al COVID-19 en la Comunidad Autónoma de Canarias",
+  "visible_title": "Régimen sancionador por incumplimiento de medidas de prevención COVID-19 en Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "1/2021",
+  "publication_date": "2021-05-31",
+  "enactment_date": "2021-04-29",
+  "last_updated": "2022-06-09",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2021/04/29/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea un marco legal específico para sancionar a quienes incumplan las medidas sanitarias adoptadas para frenar la propagación del COVID-19 en Canarias. Su objetivo es dotar a las autoridades de herramientas rápidas y efectivas para castigar conductas de riesgo, como el no uso de mascarillas o el incumplimiento de cuarentenas. Establece un sistema de multas graduadas según la gravedad de la infracción y la cantidad de personas en riesgo.",
+  "citizen_impact": "Los ciudadanos pueden enfrentarse a multas económicas inmediatas si no cumplen con el uso de mascarillas, el distanciamiento social o las órdenes de aislamiento. Existe un incentivo de reducción del 40% en la multa si se paga voluntariamente en los primeros 15 días.",
+  "professional_impact": "Los dueños de locales, organizadores de eventos y centros de servicios sociales asumen una responsabilidad directa por el comportamiento de sus clientes o usuarios. Los profesionales sanitarios y agentes de la autoridad adquieren facultades de inspección y control para asegurar el cumplimiento de las normas.",
+  "keywords": [
+    "COVID-19",
+    "Canarias",
+    "régimen sancionador",
+    "salud pública",
+    "multas",
+    "medidas de prevención",
+    "cuarentena",
+    "uso de mascarilla"
+  ],
+  "key_points": [
+    "Creación de un procedimiento sancionador abreviado para agilizar las multas leves y graves no complejas.",
+    "Descuento del 40% en el importe de la multa si se realiza el pago voluntario en un plazo de 15 días.",
+    "Las infracciones leves por no usar mascarilla tienen una multa fija de 100 euros.",
+    "Las multas pueden alcanzar hasta los 600.000 euros en casos de infracciones muy graves.",
+    "Los responsables de locales pueden sufrir el cierre temporal del establecimiento como sanción accesoria.",
+    "Los padres o tutores son responsables solidarios de las multas impuestas a menores de edad.",
+    "Se establece un plazo de prescripción de 1 año para faltas leves, 2 para graves y 3 para muy graves."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020",
+    "Real Decreto ley 21/2020",
+    "Ley Orgánica 3/1986",
+    "Ley 14/1986",
+    "Ley 33/2011",
+    "Ley 11/1994",
+    "Constitución Española",
+    "Ley 40/2015",
+    "Ley 39/2015"
+  ],
+  "derogations": [
+    "Decreto ley 14/2020"
+  ],
+  "main_obligations": "Obligación de usar mascarilla, respetar el distanciamiento, cumplir cuarentenas y seguir órdenes sanitarias. Las multas van desde 100€ (leves) hasta 600.000€ (muy graves).",
+  "effective_date": "2021-06-01",
+  "procedures": [
+    {
+      "name": "Procedimiento sancionador abreviado especial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación mediante acta",
+          "description": "Notificación inmediata al interesado por parte del agente de la autoridad.",
+          "start_date": "En el acto de la infracción",
+          "end_date": null,
+          "required_documentation": "Acta de infracción con identificación, hechos, lugar, hora y sanción propuesta"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de alegaciones o pago voluntario",
+          "description": "El interesado puede presentar alegaciones o pagar con reducción del 40%.",
+          "start_date": "Desde la notificación",
+          "end_date": "15 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución del expediente",
+          "description": "Si no hay alegaciones ni pago, la denuncia se considera acto resolutorio. Si hay alegaciones, se instruye y resuelve.",
+          "start_date": "Tras el plazo de 15 días",
+          "end_date": "4 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

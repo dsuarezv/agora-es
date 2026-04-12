@@ -1,0 +1,119 @@
+{
+  "identifier": "BOE-A-2013-498",
+  "title": "Ley 8/2012, de 21 de diciembre, de Transporte de Personas por Cable",
+  "visible_title": "Ley de Transporte de Personas por Cable",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "8/2012",
+  "publication_date": "2013-01-19",
+  "enactment_date": "2012-12-21",
+  "last_updated": "2012-12-28",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2012/12/21/8",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "journal_issue": null,
+  "summary": "Esta ley regula la instalación, construcción y explotación de funiculares, teleféricos, telecabinas, telesillas y telesquíis en Cantabria. Su objetivo es modernizar el marco jurídico para diferenciar claramente entre servicios públicos de transporte y aquellos destinados exclusivamente al ocio o deporte. Además, establece estándares estrictos de seguridad, inspección técnica y protección de los derechos de los usuarios.",
+  "citizen_impact": "Garantiza mayores niveles de seguridad y derechos de protección al consumidor para quienes usen teleféricos o estaciones de esquí. Los usuarios tienen derecho a hojas de reclamaciones y a un servicio accesible para personas con movilidad reducida. También establece obligaciones de comportamiento y posesión de billete para evitar sanciones.",
+  "professional_impact": "Las empresas explotadoras deben cumplir con inspecciones anuales obligatorias y planes de emergencia/evacuación. Se introducen regímenes administrativos diferenciados según la naturaleza del servicio (público o privado) y un sistema de sanciones que puede alcanzar los 150.000 euros por infracciones muy graves. Los promotores deben presentar proyectos técnicos complejos que incluyen estudios de impacto ambiental e integración paisajística.",
+  "keywords": [
+    "transporte por cable",
+    "teleféricos",
+    "telesillas",
+    "seguridad vial",
+    "Cantabria",
+    "explotación de transporte",
+    "inspección técnica"
+  ],
+  "key_points": [
+    "Clasificación de instalaciones en transporte público (servicio público o no) y transporte privado.",
+    "Obligatoriedad de inspecciones técnicas anuales para acreditar la seguridad de la instalación.",
+    "Derecho de los usuarios a la accesibilidad para personas con movilidad reducida en servicios públicos.",
+    "Creación de una zona de influencia con servidumbre legal para garantizar la seguridad de la instalación.",
+    "Procedimiento de aprobación de proyectos con plazos de resolución de hasta 6 meses.",
+    "Régimen sancionador con multas de hasta 150.000 euros para infracciones muy graves.",
+    "Obligación de contar con seguros de responsabilidad civil y de viajeros.",
+    "El silencio administrativo en la aprobación de proyectos tiene efectos desestimatorios."
+  ],
+  "legal_references": [
+    "Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres",
+    "Ley 4/1964, de 29 de abril, sobre Concesión de Teleféricos",
+    "Estatuto de Autonomía para Cantabria",
+    "Directiva 95/16/CE"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": "Las empresas deben realizar revisiones técnicas anuales, mantener seguros de responsabilidad civil vigentes y presentar planes de autoprotección. Los usuarios deben portar su título de transporte validado y respetar las normas de uso para evitar multas de hasta 600 euros (o 300 para usuarios).",
+  "effective_date": "2013-01-20",
+  "procedures": [
+    {
+      "name": "Establecimiento de instalaciones de transporte público de servicio público",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud y proyecto",
+          "description": "Entrega de memoria, estudios de impacto, seguridad, integración paisajística y económico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto constructivo, estudio de impacto ambiental, análisis de seguridad, plan de evacuación, relación de bienes para expropiación."
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Periodo para alegaciones de la ciudadanía y consultas a entes locales.",
+          "start_date": "15 días",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de aprobación del proyecto",
+          "description": "La Administración resuelve sobre la aprobación y la declaración de utilidad pública.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Establecimiento de instalaciones de transporte público (no servicio público)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud y proyecto",
+          "description": "Presentación de documentación técnica y económica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria de interés, proyecto constructivo, reglamento de explotación, estudio de impacto ambiental."
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Periodo de consulta pública.",
+          "start_date": "15 días",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación del proyecto",
+          "description": "Resolución de la Consejería competente.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Autorización administrativa de explotación",
+          "description": "Solicitud tras finalizar las obras para poder iniciar el servicio.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": "Certificado de fin de obra, justificante de seguros obligatorios."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

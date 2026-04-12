@@ -1,0 +1,95 @@
+{
+  "identifier": "BOE-A-2009-10581",
+  "title": "Ley Foral 6/2009, de 5 de junio, de medidas urgentes en materia de urbanismo y vivienda",
+  "visible_title": "Medidas urgentes en materia de urbanismo y vivienda",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "6/2009",
+  "publication_date": "2009-06-27",
+  "enactment_date": "2009-06-05",
+  "last_updated": "2017-08-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2009/06/05/6",
+  "official_journal": "Boletín Oficial de Navarra",
+  "journal_issue": null,
+  "summary": "Esta ley responde a la crisis económica de 2008 mediante la agilización de trámites urbanísticos y el impulso al sector de la construcción. Introduce ayudas directas para la rehabilitación de viviendas, mejora la eficiencia energética y crea la categoría de 'vivienda libre de precio limitado'. Además, busca flexibilizar el uso de suelos y dotaciones para reducir los costes de urbanización y facilitar el acceso a la vivienda.",
+  "citizen_impact": "Los ciudadanos pueden acceder a subvenciones para reformar cocinas, baños o mejorar la eficiencia energética de sus hogares. También se facilita el alquiler de habitaciones en viviendas protegidas y se reducen las penalizaciones económicas si un comprador debe renunciar a una vivienda protegida por falta de financiación.",
+  "professional_impact": "Las empresas constructoras y promotoras se benefician de procesos urbanísticos más rápidos y de nuevas líneas de subvención para rehabilitación y domótica. Los promotores de vivienda protegida cuentan con mayor flexibilidad para decidir entre venta o alquiler, aunque deben cumplir con nuevos requisitos de calificación energética.",
+  "keywords": [
+    "urbanismo",
+    "vivienda protegida",
+    "rehabilitación",
+    "eficiencia energética",
+    "ayudas económicas",
+    "Navarra",
+    "crisis económica"
+  ],
+  "key_points": [
+    "Agilización de la tramitación de planes urbanísticos y mayor autonomía municipal.",
+    "Nuevas subvenciones para reformas de interiores (cocinas y baños) y domótica.",
+    "Creación de la 'vivienda libre de precio limitado' con precios máximos por m² según municipio.",
+    "Posibilidad de alquilar habitaciones o vender anexos (garajes/trasteros) por separado en viviendas protegidas.",
+    "Reducción de la penalización económica por rescisión de contratos de compraventa de vivienda protegida.",
+    "Ayudas para la mejora de la envolvente térmica en edificios de viviendas.",
+    "Incentivos fiscales (deducciones en el IRPF) para la adquisición de vivienda de precio limitado y rehabilitación.",
+    "Flexibilidad para que las promociones de vivienda protegida puedan destinarse al alquiler en lugar de la venta."
+  ],
+  "legal_references": [
+    "Ley Foral 35/2002, de 20 de diciembre, de Ordenación del Territorio y Urbanismo",
+    "Ley Foral 18/2008, de 6 de noviembre, de medidas para la reactivación de la economía de Navarra 2009-2011",
+    "Decreto Foral 4/2006, de 9 de enero, que regula las actuaciones protegibles en materia de vivienda",
+    "Ley Foral 8/2004, de 24 de junio, de protección pública a la vivienda en Navarra",
+    "Real Decreto 47/2007, de 19 de enero, que aprueba el procedimiento básico para la certificación de eficiencia energética",
+    "Texto Refundido de la Ley Foral del Impuesto sobre la Renta de las Personas Físas (Decreto Foral Legislativo 4/2008)"
+  ],
+  "derogations": [],
+  "main_obligations": "Los promotores de viviendas de precio limitado deben asegurar que el precio no supere los límites establecidos (2.310€/m² en Pamplona y zonas aledañas; 1.980€/m² en el resto). Los propietarios de viviendas protegidas que alquilen habitaciones deben registrar el contrato ante el Departamento de Vivienda.",
+  "effective_date": "2009-06-27",
+  "procedures": [
+    {
+      "name": "Subvención extraordinaria para la reforma del interior de viviendas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud y presupuesto",
+          "description": "Presentación de la documentación para obtener la subvención del 20% del presupuesto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Presupuesto de la obra y documentación justificativa."
+        },
+        {
+          "step": 2,
+          "title": "Ejecución y justificación",
+          "description": "Realización de las obras y aportación de facturas para el abono de la ayuda.",
+          "start_date": null,
+          "end_date": "1 año desde la concesión",
+          "required_documentation": "Facturas y declaración responsable de que las obras se ajustan al presupuesto."
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de modificaciones de planeamiento con incremento de edificabilidad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la modificación",
+          "description": "Plazo para presentar la propuesta de modificación de los planes.",
+          "start_date": "Fecha de entrada en vigor de la ley",
+          "end_date": "3 meses tras la entrada en vigor",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Emisión de informes sectoriales",
+          "description": "Los informes deben emitirse en un plazo máximo para no retrasar el proceso.",
+          "start_date": null,
+          "end_date": "15 días naturales",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

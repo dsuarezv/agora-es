@@ -1,0 +1,89 @@
+{
+  "identifier": "BOE-A-2013-7749",
+  "title": "Ley 5/2013, de 19 de junio, de Estímulo a la Creación de Empresas en Castilla y León",
+  "visible_title": "Ley de Estímulo a la Creación de Empresas en Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "5/2013",
+  "publication_date": "2013-07-15",
+  "enactment_date": "2013-06-19",
+  "last_updated": "2014-09-01",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2013/06/19/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca dinamizar la economía de Castilla y León facilitando el nacimiento y consolidación de nuevos negocios. Su objetivo principal es eliminar la burocracia excesiva mediante la simplificación de trámites y la reducción de cargas administrativas. Además, establece un sistema de apoyo integral que coordina servicios de asesoramiento, formación y financiación para emprendedores.",
+  "citizen_impact": "Para el ciudadano común, la ley busca mejorar el tejido económico local y la creación de empleo. No impone nuevas obligaciones directas a la población general, pero sí fomenta la cultura emprendedora desde la educación primaria hasta la universitaria.",
+  "professional_impact": "Los emprendedores y autónomos se benefician de trámites más rápidos (tramitación de urgencia) y la posibilidad de iniciar actividades mediante declaraciones responsables. Las empresas ya establecidas ven reducidas sus cargas de información, ya que la administración no puede imponer nuevas obligaciones sin compensar otras existentes.",
+  "keywords": [
+    "emprendimiento",
+    "creación de empresas",
+    "simplificación administrativa",
+    "Castilla y León",
+    "PYMEs",
+    "autónomos",
+    "trámites administrativos",
+    "innovación"
+  ],
+  "key_points": [
+    "Tramitación de urgencia para la creación de empresas, reduciendo los plazos de resolución a la mitad.",
+    "Creación de la 'autorización provisional condicionada', que permite iniciar actividades en 10 días mediante declaración responsable.",
+    "Prohibición de imponer nuevas cargas administrativas sin eliminar otras de igual o mayor coste.",
+    "Implementación de un Sistema Integral de Apoyo al Emprendedor (SIAE) para coordinar asesoramiento y financiación.",
+    "Obligatoriedad de la tramitación telemática para los procedimientos de creación de empresas.",
+    "Establecimiento de un plazo máximo de tres meses para completar todos los trámites necesarios para instalar una empresa.",
+    "Fomento de la cultura emprendedora en todos los niveles educativos, desde primaria hasta la universidad.",
+    "Uso de declaraciones responsables para sustituir la presentación de copias de documentos oficiales."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Castilla y León",
+    "Ley 1/2003, de 3 de marzo, de Igualdad de Oportunidades entre Mujeres y Hombres en Castilla y León",
+    "Ley 1/2011, de 1 de marzo, de Evaluación de Impacto de Género en Castilla y León",
+    "Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación",
+    "Ley 16/2002, de 19 de diciembre, de Comercio de Castilla y León",
+    "Ley 11/2002, de 10 de julio, de Juventud de Castilla y León",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley 2/2010, de 11 de marzo, de Derechos de los Ciudadanos en sus relaciones con la Administración de la Comunidad de Castilla y León y de Gestión Pública"
+  ],
+  "derogations": [
+    "Artículos 83.6.c) y 84.6.a) de la Ley 11/2002, de 10 de julio, de Juventud de Castilla y León",
+    "Capítulo III, 'Autorización administrativa', del Decreto 117/2003, de 9 de octubre"
+  ],
+  "main_obligations": "Las empresas deben cumplir con la veracidad de las declaraciones responsables presentadas; la falsedad conlleva sanciones según la Ley 30/1992. La Administración está obligada a tramitar con urgencia y preferencia los expedientes de creación de empresas.",
+  "effective_date": "2013-07-29",
+  "procedures": [
+    {
+      "name": "Creación e instalación de empresas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del trámite",
+          "descrption": "Presentación de solicitud y/o declaración responsable para iniciar la actividad o trámites.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación necesaria según el modelo de solicitud única; se permite aportar copias mediante declaración responsable."
+        },
+        {
+          "step": 2,
+          "title": "Autorización provisional (si aplica)",
+          "descrption": "Concesión de licencia provisional condicionada para permitir el inicio de obras o actividad.",
+          "start_date": "10 días desde la entrada de la solicitud",
+          "end_date": null,
+          "required_documentation": "Proyecto o documentación visada por colegio profesional si es exigible."
+        },
+        {
+          "step": 3,
+          "title": "Resolución definitiva",
+          "descrption": "Finalización de todo el proceso administrativo de creación e instalación.",
+          "start_date": null,
+          "end_date": "Máximo 3 meses desde el inicio",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,98 @@
+{
+  "identifier": "BOE-A-1993-30268",
+  "title": "Ley 2/1993, de 29 de octubre, de pesca marítima en aguas interiores y aprovechamiento de recursos marino de la Comunidad Autónoma del Principado de Asturias",
+  "visible_title": "Ley de pesca marítima en aguas interiores y aprovechamiento de recursos marino de Asturias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "2/1993",
+  "publication_date": "1993-12-21",
+  "enactment_date": "1993-10-29",
+  "last_updated": "2002-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1993/10/29/2",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta ley regula todas las actividades de extracción y cultivo en las aguas interiores de Asturias, incluyendo el marisqueo, la pesca de la anguila, la recogida de algas y la pesca de recreo. Su objetivo es garantizar la sostenibilidad de los recursos marinos y organizar la explotación económica de estos bienes públicos. Establece un marco de control estricto mediante licencias, concesiones y un régimen de inspección y sanciones para evitar la sobreexplotación.",
+  "citizen_impact": "Los ciudadanos que practiquen la pesca de recreo deben obtener una licencia específica de la Consejería. También afecta a quienes deseen realizar actividades de recolección de productos marinos, quienes estarán sujetos a normativas de tallas mínimas y épocas de veda.",
+  "professional_impact": "Los profesionales del sector (pescadores, mariscadores, acuicultores) deben cumplir con requisitos de habitualidad para renovar licencias y obtener concesiones. Se imponen obligaciones de registro, uso de artes de pesca autorizados y estrictos controles en la comercialización de productos para garantizar su origen y trazabilidad.",
+  "keywords": [
+    "pesca marítima",
+    "aguas interiores",
+    "Asturias",
+    "cultivos marinos",
+    "marisqueo",
+    "pesca de la anguila",
+    "algas",
+    "pesca de recreo",
+    "sanciones pesqueras"
+  ],
+  "key_points": [
+    "Prohibición general de la pesca de arrastre en aguas interiores asturianas.",
+    "Obligatoriedad de licencias, concesiones o autorizaciones para cualquier actividad extractiva o de cultivo.",
+    "Las concesiones para cultivos marinos en dominio público pueden durar hasta 30 años (10 años renovables).",
+    "Requisito de edad mínima de 16 años para la mayoría de las actividades profesionales.",
+    "Control estricto de la comercialización: es obligatorio portar documentos que acrediten origen, destino y peso de la captura.",
+    "Prohibición de capturar moluscos y crustáceos mediante técnicas de pesca submarina (salvo excepciones reglamentadas).",
+    "Régimen sancionador con multas que pueden alcanzar las 3.000.000 de pesetas.",
+    "Facultad de los inspectores para acceder a embarcaciones y locales sin necesidad de orden judicial, siempre que no sean domicilios particulares."
+  ],
+  "legal_references": [
+    "Estatuto de Auto-nomía para Asturias",
+    "Ley 23/1984, de 25 de junio",
+    "Decreto 92/1984, de 28 de junio",
+    "Decreto 82/1988, de 26 de junio",
+    "Ley del Principado de Asturias 3/1988, de 10 de junio"
+  ],
+  "derogations": [
+    "Artículos 4, 5, 6, 14, 15, 16 párrafo primero, 17 y 19 de la Ley del Principado de Asturias 3/1988, de 10 de junio"
+  ],
+  "main_obligations": "Es obligatorio poseer licencias y documentos de trazabilidad para la comercialización. Se prohíbe la pesca de arrastre y la captura de especies en veda o por debajo de la talla mínima, bajo riesgo de multas de hasta 3 millones de pesetas y decomiso de bienes.",
+  "effective_date": "1993-12-11",
+  "procedures": [
+    {
+      "name": "Otorgamiento de concesiones y autorizaciones para cultivos marinos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "El interesado presenta la solicitud junto con el proyecto técnico y documentación requerida.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto técnico y memoria indicativa de producción"
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Se anuncia en el Boletín Oficial para que terceros puedan presentar alegaciones.",
+          "start_date": null,
+          "end_date": "30 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "La Consejería dicta la resolución con las condiciones técnicas y administrativas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Renovación de licencias profesionales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de habitualidad",
+          "description": "El solicitante debe demostrar que ha ejercido la actividad profesionalmente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Información de ventas del año anterior"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,74 @@
+{
+  "identifier": "BOE-A-2003-10623",
+  "title": "Ley 9/2003, de 3 de abril, de Medidas Tributarias y de Financiación de las Haciendas Territoriales Canarias",
+  "visible_title": "Ley de Medidas Tributarias y de Financiación de las Haciendas Territoriales Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "9/2003",
+  "publication_date": "2003-05-28",
+  "enactment_date": "2003-04-03",
+  "last_updated": "2023-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2003/04/03/9",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley organiza cómo se reparte el dinero de los impuestos especiales de Canarias (como el IGIC y el AIEM) entre el Gobierno de Canarias, los cabildos y los ayuntamientos. Busca dar estabilidad financiera a las islas mediante la creación de un 'Bloque de Financiación Canario' y un Fondo Insular para Inversiones. Además, otorga a los cabildos la capacidad de decidir sobre el impuesto a la gasolina y establece mecanismos para que las transferencias de competencias siempre vayan acompañadas de dinero.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que regula principalmente la distribución de fondos entre administraciones públicas.",
+  "professional_impact": "Afecta a gestores públicos y técnicos de hacienda de los cabildos y ayuntamientos, quienes deben aplicar nuevos criterios de reparto basados en población y superficie. También impacta a empresas de transporte y sectores relacionados con el consumo de combustible debido a la nueva capacidad de fijación de tipos por parte de los cabildos.",
+  "keywords": [
+    "financiación autonómica",
+    "Canarias",
+    "reparto de ingresos",
+    "IGIC",
+    "cabildos insulares",
+    "ayuntamientos",
+    "impuesto gasolina",
+    "Fondo Insular para Inversiones"
+  ],
+  "key_points": [
+    "Creación del 'Bloque de Financiación Canario' para dar seguridad jurídica al reparto de recursos.",
+    "Establecimiento de un reparto fijo: 42% para la Comunidad Autónoma y 58% para cabildos y ayuntamientos.",
+    "Creación del Fondo Insular para Inversiones para financiar planes sectoriales comunes.",
+    "Capacidad de los cabildos para fijar el tipo impositivo sobre la gasolina y el gasóleo.",
+    "Garantía de que ningún ayuntamiento reciba menos de lo que percibía en 2002 bajo ciertos supuestos.",
+    "Obligación de que cualquier nueva competencia transferida a un cabildo incluya su financiación correspondiente.",
+    "Uso de datos de población de los padrones municipales para el cálculo de la distribución."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Canarias",
+    "Ley Orgánica 10/1982",
+    "Ley Orgánica 4/1996",
+    "Decreto Legislativo 1/1994"
+  ],
+  "derogations": [
+    "Disposiciones legales o reglamentarias que se opongan a la presente Ley"
+  ],
+  "main_obligations": "El Gobierno de Canarias debe evaluar el impacto de sus leyes en las haciendas locales (lealtad institucional) y garantizar que las transferencias de competencias a cabildos incluyan siempre la financiación necesaria.",
+  "effective_date": "2003-05-29",
+  "procedures": [
+    {
+      "name": "Distribución intermunicipal de recursos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de modificación de bases",
+          "description": "Los ayuntamientos y el cabildo deben elevar una propuesta al Gobierno de Canarias para modificar las bases de distribución.",
+          "start_date": "2004-01-01",
+          "end_date": "2004-04-30",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Acuerdo de distribución",
+          "description": "El acuerdo debe ser conjunto entre el cabildo y al menos la mitad de los ayuntamientos de la isla.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

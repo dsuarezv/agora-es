@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-2014-10706",
+  "title": "Ley 1/2014, de 25 de julio, de Adaptación del Régimen Local de la Comunidad de Madrid a la Ley 27/2013, de 27 de diciembre, de Racionalización y Sostenibilidad de la Administración Local",
+  "visible_title": "Adaptación del Régimen Local de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "1/2014",
+  "publication_date": "2014-10-22",
+  "enactment_date": "2014-07-25",
+  "last_updated": "2024-12-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2014/07/25/1",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley adapta la normativa de la Comunidad de Madrid a la reforma estatal de racionalización de la administración local. Su objetivo es evitar que los ayuntamientos realicen tareas que no les corresponden, eliminando duplicidades de funciones entre la Comunidad y los municipios. Busca asegurar que los servicios públicos sean eficientes y que los ayuntamientos no asuman gastos que pongan en riesgo su estabilidad financiera.",
+  "citizen_impact": "Garantiza la continuidad y calidad de los servicios públicos esenciales (como sanidad, educación o servicios sociales) al clarificar quién debe gestionarlos. Evita el despilfarro de recursos públicos al impedir que varias administraciones hagan lo mismo en el mismo ámbito.",
+  "professional_impact": "Los funcionarios municipales que sean traspasados a la Comunidad de Madrid mantienen sus condiciones laborales y su antigüedad, aunque sus sueldos se homologarán en un plazo de un año. Los ayuntamientos tienen ahora prohibido asumir nuevas competencias que no sean propias o delegadas si esto compromete su presupuesto.",
+  "keywords": [
+    "régimen local",
+    "competencias municipales",
+    "sostenibilidad financiera",
+    "Comunidad de Madrid",
+    "traspaso de servicios",
+    "duplicidades administrativas"
+  ],
+  "key_points": [
+    "Prohibición de que los ayuntamientos realicen actividades que sean competencia de otras administraciones si generan duplicidad.",
+    "Los ayuntamientos solo pueden asumir nuevas competencias si no ponen en riesgo su estabilidad financiera.",
+    "Regulación del traspaso de personal: los funcionarios transferidos mantienen su situación de servicio activo y se homologan en un año.",
+    "La Comunidad de Madrid puede proponer fórmulas de gestión mancomunada entre municipios para mejorar la eficiencia.",
+    "Se establece un procedimiento de informe vinculante de dos meses para verificar si una nueva actividad municipal es duplicidad de otra administración.",
+    "Los contratos de servicios públicos afectados por traspasos de competencias serán subrogados por la Comunidad de Madrid."
+  ],
+  "legal_references": [
+    "Ley 27/2013, de 27 de diciembre, de Racionalización y Sostenibilidad de la Administración Local",
+    "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+    "Ley 2/2003, de 11 de marzo, de Administración Local de la Comunidad de Madrid",
+    "Ley 22/2006, de 4 de julio, de Capitalidad y de Régimen Especial de Madrid",
+    "Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público",
+    "Ley 8/2012, de 28 de diciembre, de Medidas Fiscales y Administrativas",
+    "Ley 1/1999, de 12 de marzo, de Ordenación del Turismo de la Comunidad de Madrid"
+  ],
+  "derogations": [
+    "Artículo 56 de la Ley 8/2012, de 28 de diciembre",
+    "Referencias al Parque Científico y Tecnológico de la Universidad de Alcalá en la Ley 8/2012 y Ley 9/2010"
+  ],
+  "main_obligations": "Los municipios deben solicitar un informe preceptivo y vinculante a la Comunidad de Madrid antes de ejercer competencias distintas de las propias. Este informe debe emitirse en un plazo máximo de dos meses, tras el cual, si no hay respuesta, se entenderá que existen duplicidades.",
+  "effective_date": "2014-07-25",
+  "procedures": [
+    {
+      "name": "Informe de inexistencia o existencia de duplicidades",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud del informe",
+          "description": "El órgano municipal competente solicita el informe aportando memoria descriptiva y, si procede, informe de sostenibilidad financiera.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria descriptiva de la solicitud y condiciones del servicio; informe de sostenibilidad financiera del Estado (si aplica)."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y emisión",
+          "description": "La consejería competente tramita el informe valorando criterios como la concurrencia de administraciones y la cobertura de la demanda.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Traspaso de personal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Integración de personal",
+          "description": "Los empleados públicos se integran en la administración receptora con la misma vinculación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Homologación de condiciones",
+          "description": "Proceso de adecuación de condiciones laborales y económicas a la administración de destino.",
+          "start_date": null,
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,85 @@
+{
+  "identifier": "BOE-A-2012-5924",
+  "title": "Ley 4/1981, de 18 de marzo, sobre Designación de Senadores representantes de Euskadi",
+  "visible_title": "Designación de Senadores representantes de Euskadi",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "4/1981",
+  "publication_date": "2012-05-04",
+  "enactment_date": "1981-03-18",
+  "last_updated": "1986-03-14",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1981/03/18/4",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta norma establece el mecanismo mediante el cual el Parlamento Vasco elige a sus representantes para el Senado de las Cortes Generales. Define quiénes pueden ser candidatos, quiénes tienen prohibido ejercer el cargo por incompatibilidad y el proceso de votación. El objetivo es garantizar que la designación de los senadores autonómicos se realice de forma reglada y democrática dentro de la institución parlamentaria vasca.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta específicamente a los diputados y grupos parlamentarios del Parlamento Vasco, quienes deben seguir un procedimiento estricto de propuesta y votación. También impacta a profesionales de la judicatura, fuerzas de seguridad y altos cargos del Estado, quienes tienen prohibido ser elegidos para evitar conflictos de intereses.",
+  "keywords": [
+    "Senado",
+    "Designación de senadores",
+    "Parlamento Vasco",
+    "Euskadi",
+    "Representación autonómica",
+    "Incompatibilidades"
+  ],
+  "key_points": [
+    "La designación recae exclusivamente en el Pleno del Parlamento Vasco.",
+    "Los candidatos deben ser mayores de edad, tener derechos políticos y condición política de vascos.",
+    "Se prohíbe la candidatura de jueces, fiscales, militares, policías y miembros del Tribunal Constitucional.",
+    "Los grupos parlamentarios tienen un plazo de 20 días naturales para proponer candidatos tras la constitución de la Mesa.",
+    "La elección se realiza mediante votación por papeletas en el Pleno.",
+    "Para ser elegido en primera vuelta, se requiere la mayoría de votos y al menos un cuarto de los miembros de la Cámara.",
+    "El mandato de los senadores es de cuatro años, coincidiendo con la legislatura del Parlamento Vasco.",
+    "No se puede designar a la totalidad de los senadores mediante la propuesta de un solo grupo parlamentario."
+  ],
+  "legal_references": [
+    "Artículo 69.5 de la Constitución Española",
+    "Artículo 28 apartado a) del Estatuto de Autonomía para el País Vasco"
+  ],
+  "derogations": [],
+  "main_obligations": "Los grupos parlamentarios deben proponer candidatos en un plazo de 20 días tras la constitución de la Mesa. Los candidatos elegidos que tengan incompatibilidades deben optar por uno de los dos cargos en el plazo que determine la Comisión de Incompatibilidades.",
+  "effective_date": "1981-03-18",
+  "procedures": [
+    {
+      "name": "Procedimiento de designación de Senadores representantes del País Vasco",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de candidatos",
+          "description": "Los Grupos Parlamentarios presentan sus candidatos al Presidente del Parlamento.",
+          "start_date": "20 días naturales tras la constitución de la Mesa definitiva",
+          "end_date": "20 días naturales tras la constitución de la Mesa definitiva",
+          "required_documentation": "Documentación que acredite la capacidad y elegibilidad"
+        },
+        {
+          "step": 2,
+          "title": "Examen de incompatibilidades",
+          "description": "La Comisión de Incompatibilidades verifica si los candidatos cumplen los requisitos y no tienen prohibiciones.",
+          "start_date": "Tras la recepción de las listas",
+          "end_date": null,
+          "required_documentation": "Documentos complementarios y declaraciones pertinentes"
+        },
+        {
+          "step": 3,
+          "title": "Elección en el Pleno",
+          "description": "Votación de los candidatos admitidos mediante papeletas en sesión del Pleno.",
+          "start_date": "Tras el dictamen de la Comisión",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Proclamación y aceptación",
+          "description": "El Presidente del Parlamento comunica el resultado y los elegidos aceptan el cargo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Credenciales entregadas por la Mesa"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

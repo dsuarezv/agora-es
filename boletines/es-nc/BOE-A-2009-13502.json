@@ -1,0 +1,94 @@
+{
+  "identifier": "BOE-A-2009-13502",
+  "title": "Ley Foral 10/2009, de 2 de julio, de Museos y Colecciones Museográficas Permanentes de Navarra",
+  "visible_title": "Ley de Museos y Colecciones Museográficas de Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "10/2009",
+  "publication_date": "2009-08-15",
+  "enactment_date": "2009-07-02",
+  "last_updated": "2009-07-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2009/07/02/10",
+  "official_journal": "Boletín Oficial de Navarra",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para la creación, organización y gestión de los museos y colecciones museográficas en Navarra. Su objetivo es profesionalizar el sector, garantizando la protección del patrimonio cultural y creando un 'Sistema de Museos' para coordinar recursos. Además, define claramente qué instituciones pueden ostentar la denominación de museo y regula su funcionamiento, inspección y régimen de subvenciones.",
+  "citizen_impact": "Mejora el acceso a la cultura al garantizar horarios de visita regulares y promover la accesibilidad para personas con discapacidad. También establece días de entrada gratuita y protege la calidad de la oferta cultural y turística en la región.",
+  "professional_impact": "Los gestores de museos y colecciones deben cumplir con requisitos estrictos de personal técnico, inventarios y planes museológicos para obtener el reconocimiento oficial. El cumplimiento de estas normas es indispensable para acceder a subvenciones públicas y para el uso de denominaciones protegidas como 'Museo de Navarra'.",
+  "keywords": [
+    "museos",
+    "colecciones museográficas",
+    "patrimonio cultural",
+    "Navarra",
+    "gestión cultural",
+    "conservación",
+    "sistema de museos"
+  ],
+  "key_points": [
+    "Creación del Sistema de Museos de Navarra para coordinar instituciones públicas y privadas.",
+    "Diferenciación legal entre 'Museo' (con personal técnico y plan museológico) y 'Colección Museográfica Permanente' (para fondos más reducidos).",
+    "Protección de la denominación 'Museo de Navarra' o 'Colección de Navarra', que requiere autorización previa.",
+    "Obligatoriedad de llevar libros de registro e inventarios actualizados de los fondos.",
+    "Requisito de inscripción en el Registro de Museos para poder solicitar subvenciones forales.",
+    "Establecimiento de un régimen de inspección con sanciones por daños al patrimonio o riesgos de seguridad.",
+    "Garantía de accesibilidad para personas con discapacidad y cumplimiento de la igualdad de género.",
+    "Derecho de acceso gratuito en días específicos y para ciertos colectivos (mayores de 65, jubilados, etc.)."
+  ],
+  "legal_references": [
+    "Ley Foral 14/2005, de 22 de noviembre, del Patrimonio Cultural de Navarra",
+    "Directiva 2006/123/CE del Parlamento Europeo y del Consejo",
+    "Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra"
+  ],
+  "derogatations": [
+    "Disposiciones de igual o inferior rango que se opongan a esta Ley Foral"
+  ],
+  "main_obligations": "Los titulares deben mantener inventarios actualizados, cumplir con los planes museológicos y garantizar la seguridad y conservación de los bienes. El incumplimiento de la seguridad o la pérdida de bienes puede derivar en infracciones muy graves.",
+  "effective_date": "2009-08-16",
+  "procedures": [
+    {
+      "name": "Reconocimiento de Museos y Colecciones Museográficas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de reconocimiento",
+          "description": "El titular presenta la documentación acreditativa de la creación, inventario, plantilla y plan museológico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento de creación, acreditación de requisitos, inventario, plantilla y horarios."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y resolución",
+          "description": "El Departamento competente verifica los requisitos tras el informe del Consejo Navarro de Cultura.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Inscripción en el Registro",
+          "description": "Una vez otorgado el reconocimiento, se inscribe de oficio en el Registro de Museos de Navarra.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reconocimiento Transitorio",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de reconocimiento temporal",
+          "description": "Para instituciones que no cumplen todos los requisitos pero desean adaptarse.",
+          "start_date": "Vigencia de la ley",
+          "end_date": "5 años tras la entrada en vigor",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

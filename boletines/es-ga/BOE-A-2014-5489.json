@@ -1,0 +1,100 @@
+{
+  "identifier": "BOE-A-2014-5489",
+  "title": "Ley 3/2014, de 24 de abril, del Consejo Consultivo de Galicia",
+  "visible_title": "Ley del Consejo Consultivo de Galicia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "3/2014",
+  "publication_date": "2014-05-26",
+  "enactment_date": "2014-04-24",
+  "last_updated": "2023-03-20",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2014/04/24/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley reorganiza y refuerza el Consejo Consultivo de Galicia, convirtiéndolo en el máximo órgano de asesoramiento jurídico para la Xunta, las entidades locales y las universidades gallegas. Introduce un sistema mixto de elección de sus miembros para garantizar mayor equilibrio institucional con la participación del Parlamento. Además, amplía sus funciones para que no solo revise textos legales, sino que también redacte anteproyectos y asesore en cuestiones de especial trascendencia para la comunidad.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta a funcionarios de la Administración autonómica, local y universitaria, ya que redefine la estructura de asesoramiento jurídico de la que dependen sus decisiones. Los juristas que aspiren a estos cargos deben cumplir requisitos estrictos de experiencia en derecho público y pasar por procesos de selección específicos.",
+  "keywords": [
+    "Consejo Consultivo de Galicia",
+    "asesoramiento jurídico",
+    "derecho público",
+    "Xunta de Galicia",
+    "administración pública",
+    "dictámenes"
+  ],
+  "key_points": [
+    "Creación de un sistema de elección mixto: el Presidente de la Xunta nombra a dos miembros y el Parlamento propone a otros tres.",
+    "Ampliación de funciones: el Consejo ahora puede redactar anteproyectos legislativos y propuestas de reforma estatutaria.",
+    "Nueva estructura interna: se crea la Sección de Estudios e Informes para labores de redacción técnica.",
+    "Obligatoriedad de dictámenes en materias clave como la reforma del Estatuto de Autonomía o conflictos ante el Tribunal Constitucional.",
+    "Establecimiento de plazos estrictos: un mes para dictámenes generales y 15 días en casos de urgencia.",
+    "Garantía de independencia: los miembros gozan de autonomía orgánica y funcional sin mandatos imperativos.",
+    "Requisitos profesionales: los miembros electivos deben ser juristas con al menos 10 años de experiencia en derecho público."
+  ],
+  "legal_references": [
+    "Ley 7/1985, reguladora de las bases del régimen local",
+    "Real decreto legislativo 781/1986",
+    "Ley 30/1992, de régimen jurídico de las administraciones públicas",
+    "Ley 9/1995, de 10 de noviembre, del Consejo Consultivo de Galicia",
+    "Estatuto de autonomía de Galicia",
+    "Ley 1/1983, de 22 de febrero, reguladora de la Xunta y de su Presidencia",
+    "Ley 39/2015, de procedimiento administrativo común",
+    "Ley 40/2015, de régimen jurídico del sector público",
+    "Real decreto 203/2021",
+    "Ley 2/2015, del empleo público de Galicia",
+    "Ley 4/2016, de ordenación de la asistencia jurídica de la Administración general de la Xunta"
+  ],
+  "derogations": [
+    "Ley 9/1995, de 10 de noviembre, del Consejo Consultivo de Galicia"
+  ],
+  "main_obligations": "El Consejo debe emitir dictámenes en un plazo de un mes (o 15 días si hay urgencia). Los miembros tienen la obligación de guardar secreto sobre las deliberaciones y no pueden realizar manifestaciones públicas sobre asuntos que conozcan sin autorización.",
+  "effective_date": "2014-05-27",
+  "procedures": [
+    {
+      "name": "Emisión de dictámenes e informes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recepción de la solicitud",
+          "description": "El órgano consultante envía la documentación necesaria al Consejo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Toda la documentación que el Consejo precise para pronunciarse."
+        },
+        {
+          "step": 2,
+          "title": "Plazo de resolución",
+          "description": "El Consejo debe emitir su pronunciamiento.",
+          "start_date": "Día siguiente a la recepción",
+          "end_date": "1 mes (o 15 días si hay urgencia motivada)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Redacción de anteproyectos y propuestas legislativas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Encomienda de la autoridad",
+          "description": "El Consejo de la Xunta encarga la redacción de un texto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Ejecución de la tarea",
+          "description": "El Consejo redacta el texto ajustándose a los criterios recibidos.",
+          "start_date": "Día siguiente a la recepción",
+          "end_date": "El plazo que fije la autoridad consultante (o 6 meses por defecto)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

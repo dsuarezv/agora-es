@@ -1,0 +1,100 @@
+{
+  "identifier": "BOE-A-2017-267",
+  "title": "Ley 16/2016, de 9 de diciembre, de creación de la Oficina de Prevención y Lucha contra la Corrupción en las Illes Balears",
+  "visible_title": "Creación de la Oficina de Prevención y Lucha contra la Corrupción en las Illes Balears",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "16/2016",
+  "publication_date": "2017-01-10",
+  "enactment_date": "2016-12-09",
+  "last_updated": "2024-04-18",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2016/12/09/16",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley establece un nuevo organismo independiente y dependiente del Parlamento para vigilar y castigar el fraude y la corrupción en el sector público de las Illes Balears. Su objetivo es garantizar que el dinero de los ciudadanos se gestione con total transparencia y honestidad. La Oficina tiene poderes reales para investigar cuentas bancarias, realizar inspecciones y sancionar a quienes cometan irregularidades. Con esta medida, se busca blindar la administración frente a conflictos de intereses y asegurar que los cargos públicos rindan cuentas de su patrimonio.",
+  "citizen_impact": "Mejora la confianza en la gestión de los fondos públicos y garantiza que los políticos y altos cargos estén bajo vigilancia constante. El ciudadano tiene la garantía de que existe un mecanismo independiente para denunciar irregularidades de forma confidencial.",
+  "professional_impact": "Los cargos públicos y directivos de entidades que gestionen fondos públicos asumen nuevas responsabilidades de transparencia, como la obligación de declarar todos sus bienes y actividades. Las empresas que contraten con la administración también quedan bajo el radar de esta supervisión. Se imponen sanciones económicas severas (hasta 100.000 €) por ocultar información o mantener incompatibilidades.",
+  "keywords": [
+    "corrupción",
+    "transparencia",
+    "Illes Balears",
+    "prevención de fraude",
+    "declaración de bienes",
+    "control de fondos públicos",
+    "incompatibilidades"
+  ],
+  "key_points": [
+    "Creación de una Oficina con independencia orgánica del Gobierno, dependiente directamente del Parlamento.",
+    "Ámbito de aplicación total: incluye Gobierno autonómico, consejos insulares, municipios, universidades y cualquier ente con fondos públicos.",
+    "Potestad de investigación: la Oficina puede acceder a información bancaria, realizar entrevistas y realizar inspecciones in situ.",
+    "Control de patrimonio: obligación de los cargos públicos de declarar sus bienes, actividades y rentas (incluyendo las de su familia directa).",
+    "Régimen sancionador: multas de hasta 100.000 € por infracciones muy graves, con incrementos basados en el porcentaje del fraude detectado.",
+    "Protección al denunciante: protocolo para garantizar la confidencialidad de la identidad de quien informe de irregularidades.",
+    "Supervisión de incompatibilidades: control estricto para evitar que los cargos públicos tengan intereses privados que afecten a su función.",
+    "Custodia de información: la Oficina es la responsable de guardar y gestionar todas las declaraciones patrimoniales."
+  ],
+  "legal_references": [
+    "Ley 2/1996, de 19 de noviembre, de incompatibilidades de los miembros del Gobierno y altos cargos de la comunidad autónoma de las Illes Balears",
+    "Ley 25/2006, de 27 de diciembre, de medidas tributarias y administrativas",
+    "Ley 4/2011, de 31 de marzo, de la buena administración y del buen gobierno de las Illes Balears",
+    "Convenio de las Naciones Unidas contra la corrupción (2003)",
+    "Estatuto de Autonomía de las Illes Balears",
+    "Real Decreto Legislativo 5/2015"
+  ],
+  "derogations": [
+    "Capítulos I y II del título IV de la Ley 2/1996",
+    "Disposición adicional decimooctava de la Ley 25/2006",
+    "Apartado 3 del artículo 51.1 de la Ley 4/2011"
+  ],
+  "main_obligations": "Los cargos públicos deben presentar su declaración patrimonial completa (bienes, derechos y obligaciones) en el plazo de un mes desde su toma de posesión o cese. Las administraciones están obligadas a colaborar con la Oficina y facilitar toda la información requerida bajo riesgo de sanción.",
+  "effective_date": "2017-01-10",
+  "procedures": [
+    {
+      "name": "Regulación interna de la Oficina de Prevención",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del proyecto de reglamento",
+          "description": "El primer director debe remitir el proyecto de reglamento de funcionamiento al Parlamento.",
+          "start_date": "Desde el nombramiento",
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Tramitación parlamentaria",
+          "description": "La comisión parlamentaria correspondiente tramita y, si procede, aprueba el reglamento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Desarrollo reglamentario de la Ley",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de desarrollo reglamentario",
+          "description": "El director de la Oficina eleva propuestas al Gobierno para la ejecución de la ley.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y aprobación gubernamental",
+          "description": "El Gobierno tramita y aprueba las propuestas de desarrollo reglamentario.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

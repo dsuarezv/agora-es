@@ -1,0 +1,148 @@
+{
+  "identifier": "BOE-A-2007-99",
+  "title": "Ley 8/2006, de 13 de noviembre, de Carreteras",
+  "visible_title": "Ley de Carreteras",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "8/2006",
+  "publication_date": "2007-01-03",
+  "enactment_date": "2006-11-13",
+  "last_updated": "2025-12-02",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2006/11/13/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo se gestionan, construyen y utilizan las carreteras en el Principado de Asturias para garantizar la seguridad vial y una correcta planificación del territorio. Establece límites estrictos sobre dónde se puede construir y qué actividades están permitidas cerca de las vías para proteger la infraestructura. Además, define las reglas para la instalación de servicios como cables o tuberías y las sanciones por daños o usos ilegales. En definitiva, determina qué puedes hacer con tu propiedad colindante a una carretera y qué obligaciones tienes para no comprometer la seguridad de todos.",
+  "citizen_impact": "Afecta directamente a propietarios de terrenos colindantes a carreteras, ya que limita dónde pueden construir (límites de edificabilidad de hasta 50m en autopistas) y prohíbe la publicidad exterior en zonas no urbanas. También impacta en el coste de obras privadas si estas se benefician de una carretera, pudiendo recibir una contribución especial de hasta el 25% por parte de la Administración.",
+  "professional_impact": "Empresas de construcción, telecomunicaciones y servicios públicos deben cumplir protocolos estrictos: las instalaciones de tendidos se conceden en régimen de precario y pueden ser retiradas a costa del interesado. Las empresas que realicen cruces de servicios en carreteras con tráfico alto (>3.000 vehículos/día) están obligadas a usar métodos no invasivos como túneles o perforación mecánica, y deben reponer el firme a la perfección.",
+  "keywords": [
+    "carreteras",
+    "Asturias",
+    "seguridad vial",
+    "dominio público",
+    "edificabilidad",
+    "servidumbre",
+    "infraestructuras",
+    "tráfico"
+  ],
+  "key_points": [
+    "Establecimiento de zonas de protección: dominio público (3-8m), servidumbre y afección para limitar la propiedad privada.",
+    "Límites de edificabilidad según tipo de vía: desde 8m en locales hasta 50m en autopistas.",
+    "Prohibición de instalar vertederos en las zonas de protección de las carreteras.",
+    "Restricción de accesos: en autopistas y corredores, los nuevos accesos a propiedades solo pueden ser mediante vías de servicio.",
+    "Regulación de servicios: las tuberías privadas solo se permiten en zona de afección (y excepcionalmente en servidumbre o dominio público bajo régimen de precario).",
+    "Obligatoriedad de métodos no invasivos: en carreteras con más de 3.000 vehículos/día, los cruces deben ser mediante túnel o perforación mecánica.",
+    "Régimen de instalaciones eléctricas/telefónicas: se conceden en precario y la Administración puede exigir su retirada a costa del solicitante.",
+    "Control de publicidad: prohibida la publicidad visible desde la carretera fuera de núcleos urbanos.",
+    "Responsabilidad económica: la Administración puede exigir hasta un 25% del coste de una obra a los beneficiarios directos.",
+    "Sanciones elevadas: las infracciones muy graves por daños o publicidad ilegal pueden alcanzar los 60.000 euros."
+  ],
+  "legal_references": [
+    "Ley del Principado de Asturias 13/1986",
+    "Real Decreto 1812/1994",
+    "Ley 25/1988",
+    "Decreto Legislativo del Principado de Asturias 1/2004",
+    "Estatuto de Autonomía del Principado de Asturias",
+    "Ley 2/1995 del Principado de Asturias",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Ley 11/2022, de 28 de junio, General de Telecomunicaciones",
+    "Ley 30/1992, de 26 de diciembre, del Régimen Jurídico de las Administraciones Públicas"
+  ],
+  "derogations": [
+    "Ley del Principado de Asturias 13/1986",
+    "Artículo 4 de la Ley del Principado de Asturias 15/2002",
+    "Artículo 2 de la Ley del Principado de Asturias 7/2005"
+  ],
+  "main_obligations": "Obligación de presentar una declaración responsable con 15 días de antelación para obras no constructivas en zona de afección. Los interesados deben retirar instalaciones a su costa si la Administración lo requiere para obras y reponer el firme en perfecto estado tras cualquier cruce subterráneo.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Información pública de estudios y proyectos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Trámite de información pública",
+          "description": "Exposición del estudio informativo o proyecto para recibir alegaciones sobre el interés general y el trazado.",
+          "start_date": "Desde la publicación del trámite",
+          "end_date": "30 días hábiles",
+          "required_documentation": "Observaciones justificadas sobre el interés general y la concepción del trazado"
+        },
+        {
+          "step": 2,
+          "title": "Aprobación definitiva",
+          "description": "Resolución que confirma o modifica la aprobación provisional y declara la utilidad pública.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de autorización para obras en zonas de protección",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Entrega de la solicitud ante la Consejería competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto técnico (si es dominio público), documentación de localización y planos"
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Dictamen de la Consejería que establece las condiciones o deniega la autorización.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración Responsable para actuaciones en zonas de afección o servidumbre",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración",
+          "description": "Entrega del modelo normalizado con documentación gráfica de la actuación.",
+          "start_date": "Mínimo 15 días antes del inicio de las obras",
+          "end_date": null,
+          "required_documentation": "Documentación gráfica para localización y definición de la actuación"
+        },
+        {
+          "step": 2,
+          "title": "Ejecución de la obra",
+          "description": "Realización de los trabajos bajo la responsabilidad del interesado.",
+          "start_date": "Tras la presentación",
+          "end_date": "Máximo 1 año desde la presentación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de resolución",
+          "description": "Notificación de la infracción y la sanción propuesta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Alegaciones y Pago Voluntario",
+          "description": "Plazo para presentar alegaciones o pagar con reducción del 25%.",
+          "start_date": "Desde la notificación de la propuesta",
+          "end_date": "Antes de finalizar el plazo para alegaciones",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

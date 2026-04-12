@@ -1,0 +1,92 @@
+{
+  "identifier": "BOE-A-2021-1664",
+  "title": "Ley 1/2021, de 22 de enero, por la que se articula un periodo transitório para garantizar la prestación del servicio de Televisión Digital Terrestre de ámbitlo local en Andalucía gestionado por particulares",
+  "visible_title": "Ley para garantizar la continuidad de la televisión digital terrestre local en Andalucía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "1/2021",
+  "publication_date": "2021-02-05",
+  "enactment_date": "2021-01-22",
+  "last_updated": "2025-08-08",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2021/01/22/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea un mecanismo de emergencia para evitar que las televisiones locales de Andalucía dejen de emitir tras la anulación judicial de sus licencias. Establece un régimen de habilitación provisional para las empresas que ya operaban, permitiéndoles seguir funcionando legalmente mientras la Junta de Andalucía organiza un nuevo concurso público para adjudicar las licencias de forma definitiva.",
+  "citizen_impact": "Evita que los ciudadanos se queden sin el servicio de televisión local en sus hogares debido a conflictos legales entre la administración y las empresas. Garantiza la continuidad de la información y la programación de proximidad en las demarcaciones afectadas.",
+  "professional_impact": "Las empresas de televisión local pueden solicitar una habilitación provisional para mantener su actividad y evitar la quiebra. Además, se impone la obligación de realizar todos los trámites y comunicaciones con la Junta de Andalucía exclusivamente por vía electrónica.",
+  "keywords": [
+    "televisión digital terrestre",
+    "TDT local",
+    "Andalucía",
+    "licencias audiovisuales",
+    "habilitación provisional",
+    "comunicación audiovisual"
+  ],
+  "key_points": [
+    "Creación de una habilitación provisional para las empresas que tenían licencias anuladas por vía judicial.",
+    "Obligación de la Junta de Andalucía de convocar un nuevo concurso público de licencias en un plazo máximo de tres meses.",
+    "La habilitación provisional solo permite la prestación del servicio, prohibiendo cualquier tipo de negocio jurídico o venta de la misma.",
+    "Obligatoriedad de la relación electrónica con la Administración para todos los prestadores del sector.",
+    "La habilitación se extingue automáticamente cuando los nuevos adjudicatarios del concurso comiencen su actividad."
+  ],
+  "legal_references": [
+    "Ley 7/2016, de 20 de septiembre",
+    "Ley 10/2018, de 9 de octubre, Audiovisual de Andalucía",
+    "Ley 7/2010, de 31 de marzo, General de la Comunicación Audiovisual",
+    "Ley 39/2015, de 1 de diciembre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Decreto 1/2006"
+  ],
+  "derogations": [
+    "Ley 7/2016, de 20 de septiembre"
+  ],
+  "main_obligations": "Las empresas interesadas deben solicitar la habilitación provisional en el plazo de un mes desde la entrada en vigor de la ley. Deben presentar una declaración responsable de cumplir con todos los requisitos técnicos y legales vigentes. Asimismo, están obligadas a realizar toda su gestión administrativa de forma electrónica.",
+  "effective_date": "2021-02-06",
+  "procedures": [
+    {
+      "name": "Habilitación provisional para la prestación del servicio de TDT local",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Las empresas adjudicatarias anuladas deben solicitar la habilitación mediante registro electrónico.",
+          "start_date": "Desde la entrada en vigor de la ley",
+          "end_date": "1 mes desde la entrada en vigor",
+          "required_documentation": "Identificación del titular, nombre comercial, datos de contacto telemático y declaración responsable de cumplimiento de requisitos."
+        },
+        {
+          "step": 2,
+          "title": "Subsanación de defectos",
+          "description": "Si existen errores en la solicitud, la Administración requerirá su corrección.",
+          "start_date": "5 días hábiles tras la presentación",
+          "end_date": "10 días tras el requerimiento",
+          "required_documentation": "Documentación necesaria para subsanar el defecto"
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "La Dirección General de Comunicación Social dicta la resolución de concesión.",
+          "start_date": "Desde la presentación o subsanación",
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Convocatoria de nuevo concurso público",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de convocatoria",
+          "description": "El Consejo de Gobierno debe acordar la convocatoria del nuevo concurso para las licencias vacantes o anuladas.",
+          "start_date": "Desde la entrada en vigor de la ley",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

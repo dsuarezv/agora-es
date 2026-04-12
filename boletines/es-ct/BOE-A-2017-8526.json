@@ -1,0 +1,71 @@
+{
+  "identifier": "BOE-A-2017-8526",
+  "title": "Ley 11/2017, de 4 de julio, de reparación jurídica de las víctimas del franquismo",
+  "visible_title": "Ley de reparación jurídica de las víctimas del franquismo",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "11/2017",
+  "publication_date": "2017-07-21",
+  "enactment_date": "2017-07-04",
+  "last_updated": "2017-06-06",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2017/07/04/11",
+  "official_journal": "Diari Oficial de la Generalitat de Catalunya",
+  "journal_issue": null,
+  "summary": "Esta ley declara la ilegalidad de los tribunales militares y consejos de guerra que operaron en Cataluña durante el franquismo (1938-1978). Su objetivo es anular de pleno derecho todas las sentencias y condenas dictadas por motivos políticos en dicho periodo. Busca reparar la dignidad de las víctimas mediante la nulidad jurídica de sus procesos represivos.",
+  "citizen_impact": "Permite a las víctimas de la represión franquista y a sus familiares obtener una certificación oficial de la nulidad de sus condenas políticas. Esto supone un reconocimiento de la ilegalidad de los procesos que sufrieron, sin necesidad de abrir nuevos juicios.",
+  "professional_impact": "El Archivo Nacional de Cataluña adquiere la obligación de elaborar, publicar y actualizar una lista pública de los procesos y sentencias anuladas. Los funcionarios de este organismo deben gestionar la identificación de estos casos para garantizar la transparencia y el acceso a la información.",
+  "keywords": [
+    "reparación jurídica",
+    "víctimas del franquismo",
+    "nulidad de sentencias",
+    "consejos de guerra",
+    "derechos humanos",
+    "Cataluña"
+  ],
+  "key_points": [
+    "Declaración de ilegalidad de la Auditoría de Guerra de la IV Región Militar en Cataluña.",
+    "Nulidad de pleno derecho de todas las sentencias y resoluciones por causas políticas dictadas entre 1938 y 1978.",
+    "Creación de una lista pública de procesos y sentencias gestionada por el Archivo Nacional de Cataluña.",
+    "Obligación de actualizar dicha lista si se descubren nuevos procesos no registrados anteriormente."
+  ],
+  "legal_references": [
+    "Estatuto de autonomía de Cataluña",
+    "Bando de 28 de julio de 1936",
+    "Decreto de 31 de agosto de 1936",
+    "Decreto número 55 de 1 de noviembre de 1936",
+    "Ley de 2 de marzo de 1943",
+    "Ley de 18 de abril de 1947",
+    "Decreto 1794/1960, de 21 de septiembre",
+    "Decreto ley 10/1975, de 26 de agosto"
+  ],
+  "derogations": [],
+  "main_obligations": "El Archivo Nacional de Cataluña debe elaborar y publicar la lista de procesos y sentencias anuladas el mismo día de la entrada en vigor de la ley, y mantenerla actualizada.",
+  "effective_date": "2017-07-22",
+  "procedures": [
+    {
+      "name": "Elaboración y publicación de la lista de procesos y sentencias anuladas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación inicial de la lista",
+          "descrption": "El Archivo Nacional de Cataluña debe hacer pública la lista de procesos y sentencias bajo la normativa franquista citada.",
+          "start_date": "2017-07-22",
+          "end_date": "2017-07-22",
+          "required_documentation": "Registros de procedimientos, personas encausadas y condenas impuestas."
+        },
+        {
+          "step": 2,
+          "title": "Actualización de la lista",
+          "descrption": "Actualización de la lista en caso de hallar nuevos procesos no conservados en los archivos militares.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Nuevos testimonios o registros de procesos identificados."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

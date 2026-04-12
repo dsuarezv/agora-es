@@ -1,0 +1,91 @@
+{
+  "identifier": "BOE-A-2010-12769",
+  "title": "Ley 8/2010, de 19 de julio, de Actividades Feriales de la Comunidad Autónoma de Extremadura",
+  "visible_title": "Ley de Actividades Feriales de Extremadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "8/2010",
+  "publication_date": "2010-08-09",
+  "enactment_date": "2010-07-19",
+  "last_updated": "2012-10-23",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2010/07/19/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y adapta la regulación de las ferias y actividades comerciales en Extremadura a la normativa europea de servicios. Su objetivo es simplificar la administración, profesionalizar el sector y fomentar el desarrollo económico regional mediante un sistema de comunicación previa en lugar de autorizaciones complejas. Además, establece un marco para distinguir las ferias oficiales de otras manifestaciones comerciales.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en su rol de consumidores que ahora cuentan con mayor garantía de transparencia y mecanismos de reclamación en los recintos feriares.",
+  "professional_impact": "Los organizadores y promotores de ferias deben pasar de un modelo de autorización a uno de comunicación previa con al menos dos meses de antelación. Las empresas deben cumplir con requisitos estrictos de seguros de responsabilidad civil, libros de reclamaciones y normativas de consumo, bajo riesgo de sanciones económicas de hasta 150.000 euros.",
+  "keywords": [
+    "actividades feriales",
+    "ferias comerciales",
+    "Extremadura",
+    "organización de ferias",
+    "comunicación previa",
+    "promoción económica"
+  ],
+  "key_points": [
+    "Sustitución del sistema de autorización previa por un régimen de comunicación previa para organizar ferias.",
+    "Obligación de presentar la comunicación con una antelación mínima de dos meses.",
+    "Creación del Registro de Actividades Feriales de Extremadura para dar visibilidad y control al sector.",
+    "Establecimiento de requisitos específicos para obtener la calificación de 'Feria Comercial Oficial'.",
+    "Obligatoriedad de contratar un seguro de responsabilidad civil para cubrir daños en los recintos.",
+    "Exigencia de disponer de un libro de incidencias y reclamaciones accesible para expositores y visitantes.",
+    "Clasificación clara de las ferias según su sector, periodicidad y ámbito territorial.",
+    "Régimen sancionador con multas que pueden alcanzar los 150.000 euros en casos muy graves."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de la Comunidad Autónoma de Extremadura",
+    "Directiva 2006/123/CE del Parlamento Europeo y del Consejo",
+    "Convenio de París de 22 de noviembre de 1928",
+    "Decreto 32/1985, de 7 de septiembre",
+    "Ley 4/2001, de 26 de abril",
+    "Decreto 52/1985, de 22 de octubre",
+    "Ley 1/2002, de 28 de febrero",
+    "Decreto 9/1994, de 8 de febrero"
+  ],
+  "derogatons": [
+    "Ley 4/2001, de 26 de abril, de Actividades Feriales de la Comunidad Autónoma de Extremadura",
+    "Decreto 52/1985, de 22 de octubre, de Creación del Registro Oficial de Instituciones Feriales"
+  ],
+  "main_obligations": "Los organizadores deben presentar una comunicación previa con 2 meses de antelación, suscribir un seguro de responsabilidad civil y mantener un libro de reclamaciones. El incumplimiento de estas normas o la falta de veracidad en los datos puede acarrear multas de hasta 150.000 euros.",
+  "effective_date": "2010-08-10",
+  "procedures": [
+    {
+      "name": "Comunicación previa de actividades feriales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la comunicación",
+          "descrption": "Presentación de la declaración responsable ante la Consejería de Comercio.",
+          "start_date": "2 meses antes de la fecha de la actividad",
+          "end_date": null,
+          "required_documentation": "Datos identificativos de la entidad, nombre, fechas, sector comercial, lugar y si hay venta directa."
+        }
+      ]
+    },
+    {
+      "name": "Calificación de Feria Comercial Oficial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de reconocimiento",
+          "descrption": "Presentación de declaración responsable para obtener la condición de Feria Oficial.",
+          "start_date": "Antes del 30 de marzo del año anterior a la celebración",
+          "end_date": null,
+          "required_documentation": "Modelo establecido reglamentariamente por la Consejería."
+        },
+        {
+          "step": 2,
+          "title": "Resolución y publicación",
+          "descrption": "La Consejería otorga la condición mediante la publicación del Calendario de Ferias Oficiales.",
+          "start_date": "Antes del 30 de junio del año anterior a la celebración",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,83 @@
+{
+  "identifier": "BOE-A-2008-13954",
+  "title": "Ley Foral 14/2008, de 2 de julio, de Garantías de Espera en Atención Especializada",
+  "visible_title": "Ley de Garantías de Espera en Atención Especializada",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "14/2008",
+  "publication_date": "2008-08-18",
+  "enactment_date": "2008-07-02",
+  "last_updated": "2011-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2008/07/02/14",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece límites máximos de tiempo para que los pacientes en Navarra reciban atención médica especializada no urgente. Su objetivo es reducir la incertidumbre y la precariedad causada por las listas de espera en consultas, pruebas y cirugías. Si el sistema no cumple estos plazos, obliga a ofrecer alternativas en otros centros públicos o concertados para garantizar la atención.",
+  "citizen_impact": "Los ciudadanos de Navarra ganan el derecho a saber cuánto tiempo deben esperar por una cita o cirugía y a que se respeten plazos estrictos. Si el hospital público tarda demasiado, el paciente tiene derecho a ser derivado a otro centro (público o concertado) para asegurar su atención sin coste adicional.",
+  "professional_impact": "El Servicio Navarro de Salud-Osasunbidea debe implementar un registro de pacientes y sistemas de gestión de citas más eficientes para cumplir los plazos. Además, los gestores sanitarios están obligados a publicar mensualmente datos de transparencia sobre las listas de espera y elaborar informes semestrales para el Parlamento.",
+  "keywords": [
+    "listas de espera",
+    "atención especializada",
+    "salud pública",
+    "Navarra",
+    "garantías sanitarias",
+    "cirugía programada",
+    "derechos del paciente"
+  ],
+  "key_points": [
+    "Plazo máximo de 30 días para consultas de atención especializada.",
+    "Plazo máximo de 10 días para consultas preferentes.",
+    "Plazo máximo de 45 días para pruebas diagnósticas no urgentes.",
+    "Plazo máximo de 120 días para intervenciones quirúrgicas (60 días en cirugía cardíaca).",
+    "Plazo máximo de 180 días para cirugías que no impliquen empeoramiento de la salud.",
+    "Derecho a elegir centro sanitario dentro de la red pública.",
+    "Obligación de ofrecer centros concertados si no se cumplen los plazos en la red pública.",
+    "Derecho a la información mensual sobre tiempos de espera a través de la web oficial.",
+    "Suspensión de plazos si el paciente pide aplazar la cita o por causas clínicas justificadas.",
+    "Pérdida de la garantía si el paciente falta a la cita sin justificación o rechaza ofertas de centro."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 43)",
+    "Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra",
+    "Ley Foral 10/1990, de 23 de noviembre, de Salud",
+    "Ley Foral 12/1999, de 6 de abril, reguladora del Programa de Evaluación y Atención sobre Listas de Espera Quirúrgicas",
+    "Real Decreto 605/2003, de 23 de mayo"
+  ],
+  "derogations": [],
+  "main_obligations": "El Servicio Navarro de Salud-Osasunbidea debe respetar los plazos máximos de espera establecidos para consultas, pruebas y cirugías. En caso de incumplimiento, debe informar al paciente y ofrecerle atención en otros centros públicos o concertados.",
+  "effective_date": "2008-08-19",
+  "procedures": [
+    {
+      "name": "Garantía de atención sanitaria especializada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud facultativa",
+          "description": "El médico solicita la consulta, prueba o intervención.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Cumplimiento de plazos de respuesta",
+          "description": "El sistema debe atender según el tipo de prestación (10, 30, 45, 60, 120 o 180 días hábiles).",
+          "start_date": "Desde la solicitud facultativa",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Activación de garantía por demora",
+          "description": "Si se supera el plazo, el paciente puede requerir atención preferente y el sistema debe ofrecer otros centros.",
+          "start_date": "Al superar el plazo máximo",
+          "end_date": null,
+          "required_documentation": "Requerimiento del paciente"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

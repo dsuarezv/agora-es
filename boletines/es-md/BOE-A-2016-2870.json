@@ -1,0 +1,81 @@
+{
+  "identifier": "BOE-A-2016-2870",
+  "title": "Ley 7/2015, de 28 de diciembre, de Supresión del Consejo Consultivo",
+  "visible_title": "Supresión del Consejo Consultivo de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "7/2015",
+  "publication_date": "2016-03-23",
+  "enactment_date": "2015-12-28",
+  "last_updated": "2023-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2015/12/28/7",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley elimina el Consejo Consultivo de la Comunidad de Madrid como órgano independiente para reducir gastos y racionalizar la administración. Sus funciones de asesoramiento jurídico pasan a ser ejercidas por una nueva Comisión Jurídica Asesora integrada en la Abogacía General. El objetivo es mantener la calidad técnica y la independencia de los dictámenes bajo un modelo de gestión más eficiente y menos costoso.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta directamente a los funcionarios de la Administración de Madrid, especialmente a los letrados y personal del antiguo Consejo Consultivo, quienes deben ser reubicados o asimilados a la nueva estructura. También impacta a los órganos de la Administración que ahora deberán consultar a la nueva Comisión Jurídica Asesora en lugar del antiguo Consejo.",
+  "keywords": [
+    "supresión de órganos",
+    "Consejo Consultivo",
+    "Comisión Jurídica Asesora",
+    "racionalización administrativa",
+    "Comunidad de Madrid",
+    "asesoramiento jurídico"
+  ],
+  "key_points": [
+    "Se suprime definitivamente el Consejo Consultivo de la Comunidad de Madrid.",
+    "Se crea la Comisión Jurídica Asesora dentro de la Abogacía General para asumir las funciones consultivas.",
+    "La nueva Comisión estará compuesta por un presidente y entre 8 y 12 letrados vocales.",
+    "Los letrados vocales serán funcionarios de carrera con más de 10 años de antigüedad, elegidos por concurso.",
+    "Se permite la presencia de 'vocales electivos' expertos que actúan con voz pero sin voto.",
+    "La función consultiva se extiende a entidades locales y universidades públicas de la Comunidad de Madrid.",
+    "Los asuntos de transparencia y buen gobierno se derivan al Tribunal Administrativo de Contratación Pública."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de la Comunidad de Madrid",
+    "Ley 6/2007, de 21 de diciembre",
+    "Decreto 26/2008, de 10 de abril",
+    "Ley 30/1992, de 26 de noviembre",
+    "Ley 19/2013, de 9 de diciembre",
+    "STC 204/1992, de 26 de noviembre",
+    "Ley 9/2010, de 23 de diciembre"
+  ],
+  "derogations": [
+    "Ley 6/2007, de 21 de diciembre, Reguladora del Consejo Consultivo de la Comunidad de Madrid",
+    "Decreto 26/2008, de 10 de abril, por el que se aprueba el Reglamento Orgánico del Consejo Consultivo"
+  ],
+  "main_obligations": null,
+  "effective_date": "2015-12-31",
+  "procedures": [
+    {
+      "name": "Transición de expedientes pendientes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Remisión de expedientes",
+          "description": "Los expedientes que estaban pendientes de dictamen en el Consejo Consultivo se trasladan a la nueva Comisión Jurídica Asesora o al Tribunal Administrativo de Contratación Pública según su materia.",
+          "start_date": "2015-12-31",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Primera renovación de la Comisión Jurídica Asesora",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cese parcial de vocales",
+          "description": "La mitad de los vocales nombrados en el primer mandato cesarán para permitir una renovación escalonada.",
+          "start_date": "3 años desde el nombramiento",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

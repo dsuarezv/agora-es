@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-2020-14545",
+  "title": "Ley 3/2020, de 27 de octubre, de medidas urgentes de carácter social dirigidas a las personas en situación de vulnerabilidad como consecuencia de la crisis sanitaria ocasionada por el COVID-19 y de modificación de la Ley 16/2019, de 2 de mayo, de servicios sociales de Canarias",
+  "visible_title": "Medidas sociales urgentes para personas vulnerables por crisis sanitaria en Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "3/2020",
+  "publication_date": "2020-11-20",
+  "enactment_date": "2020-10-27",
+  "last_updated": "2020-11-04",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2020/10/27/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley implementa ayudas económicas directas para paliar la precariedad causada por la pandemia en Canarias. Crea el Ingreso Canario de Emergencia (ICE) para familias sin ingresos y aumenta las cuantías de la Prestación Canaria de Inserción (PCI). Además, exonera del pago de alquiler a los beneficiarios de viviendas protegidas gestionadas por el Instituto Canario de la Vivienda durante los meses de abril y mayo de 2020.",
+  "citizen_impact": "Las familias en situación de extrema vulnerabilidad en Canarias reciben un apoyo económico puntual (ICE) para cubrir necesidades básicas. También se garantiza que quienes vivan en viviendas protegidas públicas no tengan que pagar el alquiler de abril y mayo de 2020, evitando desahucios o deudas por impago durante la crisis.",
+  "professional_impact": "Los servicios sociales municipales y autonómicos deben gestionar un procedimiento de tramitación extraordinario, incluyendo la posibilidad de solicitudes telefónicas y verificación biométrica de voz. Los funcionarios deben realizar informes sociales para validar la necesidad de las ayudas y gestionar los procesos de reintegración en caso de cobros indebidos.",
+  "keywords": [
+    "ayudas sociales",
+    "Canarias",
+    "Ingreso Canario de Emergencia",
+    "PCI",
+    "vulnerabilidad",
+    "COVID-19",
+    "vivienda protegida"
+  ],
+  "key_points": [
+    "Creación del Ingreso Canario de Emergencia (ICE) para unidades de convivencia sin ingresos.",
+    "El ICE se establece en el 150% de las cuantías de la PCI para maximizar su impacto.",
+    "Exoneración del pago de alquiler en viviendas protegidas (ICV y Visocaan) para abril y mayo de 2020.",
+    "Posibilidad de solicitar ayudas por vía telefónica para evitar la brecha digital.",
+    "Se permite la identificación mediante verificación biométrica de la voz en trámites telefónicos.",
+    "Prioridad en la solicitud para familias con menores a cargo y familias monoparentales.",
+    "Actualización al alza de las cuantías de la Prestación Canaria de Inserción (PCI)."
+  ],
+  "legal_references": [
+    "Ley 16/2019, de 2 de mayo, de servicios sociales de Canarias",
+    "Real Decreto-ley 8/2020, de 17 de marzo",
+    "Decreto-ley 6/2020, de 17 de abril",
+    "Ley 1/2007, de 17 de enero, de la PCI",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Real Decreto-ley 11/2020, de 31 de marzo"
+  ],
+  "derogations": [
+    "Decreto-ley 6/2020, de 17 de abril, de medidas urgentes de carácter social dirigidas a las personas en situación de vulnerabilidad como consecuencia de la crisis sanitaria ocasionada por el COVID-19, modificado por el Decreto-ley 9/2020, de 7 de mayo."
+  ],
+  "main_obligations": "Los beneficiarios deben comunicar cualquier cambio en su situación económica o patrimonial en un plazo de 3 días hábiles y están obligados a reintegrar las cantidades percibidas indebidamente.",
+  "effective_date": "2020-10-27",
+  "procedures": [
+    {
+      "name": "Solicitud del Ingreso Canario de Emergencia (ICE)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Tramitación telemática vía sede electrónica o telefónica para personas sin medios digitales.",
+          "start_date": "2020-04-17",
+          "end_date": "2020-04-27",
+          "required_documentation": "Declaración responsable de identidad y datos económicos (verificación mediante sistemas de intermediación)."
+        },
+        {
+          "step": 2,
+          "title": "Orden de presentación por prioridad",
+          "description": "Los primeros 5 días son para familias con 2+ menores o monoparentales; del día 6 al 10 para familias con 1 menor; a partir del día 11 para el resto.",
+          "start_date": "2020-04-17",
+          "end_date": "2020-04-27",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "La administración debe dictar resolución en el plazo de un mes.",
+          "start_date": "Desde la solicitud",
+          "end_date": "1 mes desde el registro",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación extraordinaria de la PCI",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Verificación de requisitos",
+          "description": "Comprobación de la suficiencia económica y cumplimiento de requisitos tras el estado de alarma.",
+          "start_date": null,
+          "end_date": "3 meses desde la concesión",
+          "required_documentation": "Informe favorable de servicios sociales municipales."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

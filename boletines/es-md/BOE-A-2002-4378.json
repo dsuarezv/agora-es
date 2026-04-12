@@ -1,0 +1,107 @@
+{
+  "identifier": "BOE-A-2002-4378",
+  "title": "Ley 15/2001, de 27 de diciembre, de Rentas Mínimas de Inserción en la Comunidad de Madrid",
+  "visible_title": "Ley de Rentas Mínimas de Inserción de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "15/2001",
+  "publication_date": "2002-03-05",
+  "enactment_date": "2001-12-27",
+  "last_updated": "2022-12-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2001/12/27/15",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea un sistema de protección social en la Comunidad de Madrid para combatir la exclusión. Establece un doble derecho: una ayuda económica mensual para cubrir necesidades básicas y un paquete de apoyos personalizados para ayudar a las personas a encontrar empleo e integrarse socialmente. Funciona como una red de seguridad subsidiaria para quienes no tienen otros ingresos o pensiones suficientes.",
+  "citizen_impact": "Las personas en situación de vulnerabilidad económica en Madrid pueden solicitar una ayuda económica mensual y programas de formación o empleo. Para obtenerla, deben cumplir requisitos de residencia, edad y bajos ingresos, además de comprometerse a participar en un plan de inserción social.",
+  "professional_impact": "Los servicios sociales municipales y regionales asumen la carga de gestionar, instruir y supervisar los expedientes y los programas de inserción. Se crean nuevas comisiones de seguimiento y coordinación interadministrativa para asegurar que la ayuda se gestione de forma homogénea entre ayuntamientos y la Comunidad.",
+  "keywords": [
+    "renta mínima",
+    "inserción social",
+    "exclusión social",
+    "ayudas económicas",
+    "Comunidad de Madrid",
+    "servicios sociales",
+    "empleo"
+  ],
+  "key_points": [
+    "Derecho a una prestación económica mensual para cubrir necesidades básicas.",
+    "Derecho a apoyos personalizados para la inserción laboral y social.",
+    "La ayuda es subsidiaria: primero se deben agotar otras pensiones o prestaciones públicas.",
+    "Requisito de residencia: vivir en la Comunidad de Madrid al menos un año.",
+    "Rango de edad general: entre 25 y 65 años (con excepciones para menores con cargas o mayores de 65).",
+    "Obligatoriedad de participar en un programa individual de inserción.",
+    "La prestación no puede superar el Salario Mínimo Interprofesional mensual.",
+    "Se considera unidad de convivencia para calcular los ingresos y la cuantía de la ayuda."
+  ],
+  "legal_references": [
+    "Código Civil (artículo 142)",
+    "Carta de los Derechos Fundamentales de la Unión Europea (artículo 34)",
+    "Tratado de la Comunidad Europea (artículo 137)",
+    "Ley 30/1992 de Régimen Jurídico de las Administraciones Públicas",
+    "Decreto 73/1990 de la Comunidad de Madrid",
+    "Decreto 21/1992 de la Comunidad de Madrid",
+    "Ley Orgánica 3/1983 del Estatuto de Autonomía de la Comunidad de Madrid"
+  ],
+  "derogations": [
+    "Normas de igual o inferior rango que se opongan a la presente Ley",
+    "Normas relativas al Programa Ingreso Madrileño de Integración en lo que se opongan"
+  ],
+  "main_obligations": "Los beneficiarios deben destinar la ayuda a necesidades básicas, informar de cambios en su situación económica o familiar, asistir a entrevistas de servicios sociales y participar activamente en su programa de inserción. El incumplimiento de buscar empleo o rechazar ofertas adecuadas puede conllevar la pérdida de la ayuda.",
+  "effective_date": "2002-01-01",
+  "procedures": [
+    {
+      "name": "Concesión de la Renta Mínima de Inserción",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud",
+          "description": "Presentación de la solicitud en el centro municipal de servicios sociales correspondiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Modelo normalizado y documentos que acrediten residencia, edad, unidad de convivencia y carencia de recursos."
+        },
+        {
+          "step": 2,
+          "title": "Instrucción",
+          "description": "El centro de servicios sociales comprueba los requisitos y la composición de la unidad de convivencia.",
+          "start_date": null,
+          "end_date": "1 mes desde la presentación",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Valoración y Resolución",
+          "description": "La Consejería competente estudia el expediente y dicta resolución de concesión o denegación.",
+          "start_date": null,
+          "end_date": "3 meses desde la entrada del expediente en la Consejería",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación e Instrucción",
+          "description": "Apertura de expediente por infracciones leves, graves o muy graves.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Imposición de sanción (apercibimiento, suspensión o extinción de la prestación).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

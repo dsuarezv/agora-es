@@ -1,0 +1,191 @@
+{
+  "identifier": "BOE-A-2012-5596",
+  "title": "Ley 3/2012, de 2 de abril, del deporte de Galicia",
+  "visible_title": "Ley del deporte de Galicia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "3/2012",
+  "publication_date": "2012-04-27",
+  "enactment_date": "2012-04-02",
+  "last_updated": "2025-12-18",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2012/04/02/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y regula toda la actividad deportiva en Galicia, estableciendo un marco de control más estricto para federaciones y clubes. Su objetivo es garantizar la transparencia en la gestión, la seguridad de los deportistas y la lucha contra la violencia y el dopaje. Introduce responsabilidades personales para directivos y obliga a la profesionalización de los servicios deportivos. Además, busca proteger a los menores y fomentar la accesibilidad en las instalaciones.",
+  "citizen_impact": "Los ciudadanos cuentan con mayores garantías de seguridad gracias a la obligatoriedad de seguros de responsabilidad civil y asistencia sanitaria en licencias. Los deportistas de alto nivel acceden a beneficios en estudios y empleo, mientras que los espectadores tienen protección frente a la violencia en eventos. Además, se prohíbe el cobro de derechos de formación a menores de 16 años en cambios de equipo.",
+  "professional_impact": "Los directivos de clubes y federaciones asumen una responsabilidad personal por su gestión y deudas. Los profesionales del sector (entrenadores, gestores, etc.) deben acreditar obligatoriamente una titulación oficial. Las entidades deportivas deben cumplir con estrictos códigos de buen gobierno, transparencia y controles de dopaje y seguridad.",
+  "keywords": [
+    "deporte Galicia",
+    "federaciones deportivas",
+    "dopaje",
+    "violencia deportiva",
+    "gestión deportiva",
+    "seguros deportivos",
+    "titulación deportiva"
+  ],
+  "key_points": [
+    "Obligatoriedad de seguro de responsabilidad civil y asistencia sanitaria en licencias y eventos.",
+    "Control estricto sobre federaciones con capacidad de intervención o disolución por la Administración.",
+    "Responsabilidad personal de los directivos por gestión ilícita o deudas sin respaldo.",
+    "Exigencia de titulación oficial para cualquier servicio de enseñanza, dirección o entrenamiento.",
+    "Régimen severo de lucha contra el dopaje con controles sorpresa y sanciones de inhabilitación.",
+    "Protocolos contra la violencia en espectáculos deportivos, incluyendo vigilancia por cámaras y prohibición de acceso.",
+    "Prohibición de cobrar derechos de formación a menores de 16 años en cambios de equipo.",
+    "Obligación de accesibilidad en instalaciones deportivas para personas con discapacidad.",
+    "Prohibición total de venta y consumo de alcohol y drogas en instalaciones de competición.",
+    "Los ayuntamientos de más de 5.000 habitantes deben disponer de un área de deportes.",
+    "Sanciones económicas elevadas para clubes y deportistas por infracciones graves (hasta 60.000€).",
+    "Los presidentes de clubes no pueden ser simultáneamente presidentes de su federación."
+  ],
+  "legal_references": [
+    "Ley orgánica 1/1981, de 6 de abril, del Estatuto de autonomía de Galicia",
+    "Ley 11/1997, de 22 de agosto, general del deporte de Galicia",
+    "Ley 1/2002, de 22 de marzo, reguladora del derecho de asociación",
+    "Ley 1/2016, de 18 de enero, de transparencia y buen gobierno",
+    "Ley 16/2010, de 17 de diciembre, de organización y funcionamiento de la Administración general y del sector público autonómico de Galicia",
+    "Ley 30/1992, de 26 de diciembre, de régimen jurídico de las administraciones públicas",
+    "Real Decreto 1398/1983, de 4 de agosto, que aprobó el Reglamento del procedimiento para el ejercicio de la potestad sancionadora",
+    "Ley 39/2015, de 1 de octubre, del procedimiento administrativo común",
+    "Ley orgánica 3/2013, de 20 de junio, de protección de la salud del deportista y lucha contra el dopaje en la actividad deportiva",
+    "Ley orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal",
+    "Estatuto de los trabajadores (Real decreto legislativo 1/1995)",
+    "Ley orgánica 1/1992, de 21 de febrero, de protección de la seguridad ciudadana",
+    "Constitución Española (art. 149.1.29.ª)"
+  ],
+  "derogations": [
+    "Ley 11/1997, de 22 de agosto, general del deporte de Galicia"
+  ],
+  "main_obligations": "Los clubes y federaciones deben mantener libros de contabilidad, registro de socios y publicar calendarios/actas en sus webs. Los profesionales deben acreditar su titulación oficial y los organizadores deben garantizar asistencia sanitaria, responsabilidad civil y medidas de seguridad contra la violencia.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Constitución de una Federación Deportiva Gallega",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciativa y Acta Fundacional",
+          "description": "Mínimo 30 clubes deben presentar una propuesta ante notario como acta fundacional.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de estatutos y acta fundacional"
+        },
+        {
+          "step": 2,
+          "title": "Autorización Provisional",
+          "description": "La Administración otorga una autorización provisional por un periodo de dos años.",
+          "start_date": null,
+          "end_date": "2 años",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ratificación",
+          "description": "Tras el periodo provisional, la Administración comprueba el funcionamiento para ratificar o revocar la federación.",
+          "start_date": "2 años después del paso 2",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Comunicación de Calendario de Competiciones Oficiales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Envío de calendario",
+          "description": "Las federaciones deben comunicar el calendario aprobado por su Asamblea General a la Administración.",
+          "start_date": "Antes del inicio de la temporada",
+          "end_date": "7 días desde la aprobación",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Periodo de observaciones",
+          "description": "La Administración tiene un plazo para realizar observaciones al calendario.",
+          "start_date": "Desde la recepción",
+          "end_date": "10 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Disciplinario Abreviado (Infracciones de reglas de juego)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "description": "Notificación del acta de la prueba o denuncia presentada en un plazo de 2 días hábiles tras la competición.",
+          "start_date": "2 días hábiles tras la competición",
+          "end_date": null,
+          "required_documentation": "Acta de la prueba, anexo o denuncia"
+        },
+        {
+          "step": 2,
+          "title": "Alegaciones y pruebas",
+          "description": "Plazo para formular alegaciones y proponer pruebas.",
+          "start_date": "2 días tras la notificación",
+          "end_date": "2 días hábiles tras la admisión de pruebas",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Dictado de la resolución por el órgano competente.",
+          "start_date": "1 día tras la fase de pruebas",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Disciplinario Ordinario (Infracciones de conducta)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación y notificación",
+          "description": "Acuerdo de inicio con pliego de cargos notificado al interesado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Pliego de cargos"
+        },
+        {
+          "step": 2,
+          "title": "Contestación y pruebas",
+          "description": "Plazo para contestar a los hechos y proponer pruebas.",
+          "start_date": "10 días tras la notificación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Propuesta de resolución",
+          "description": "El instructor redacta la propuesta tras la fase probatoria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Alegaciones a la propuesta",
+          "description": "Plazo para alegar sobre la propuesta de resolución.",
+          "start_date": "10 días tras la notificación de la propuesta",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Resolución final",
+          "description": "Dictado de la resolución definitiva.",
+          "start_date": null,
+          "end_date": "10 días hábiles tras la fase de alegaciones",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

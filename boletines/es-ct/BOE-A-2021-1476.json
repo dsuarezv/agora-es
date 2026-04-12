@@ -1,0 +1,73 @@
+{
+  "identifier": "BOE-A-2021-1476",
+  "title": "Decreto-ley 48/2020, de 1 de diciembre, de medidas de carácter organizativo en el ámbito sanitario, social y de salud pública para hacer frente a la crisis sanitaria provocada por la COVID-19 y de modificación del Decreto-ley 30/2020, de 4 de agosto, y del Decreto-ley 41/2020, de 10 de noviembre",
+  "visible_title": "Medidas organizativas sanitarias, sociales y de salud pública para la gestión de la crisis por COVID-19",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "48/2020",
+  "publication_date": "2021-02-02",
+  "enactment_date": "2020-12-01",
+  "last_updated": "2022-05-18",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2020/12/01/48",
+  "official_journal": "DOGC / BOE",
+  "journal_issue": null,
+  "summary": "Esta norma refuerza la capacidad de respuesta de la administración catalana ante la pandemia de COVID-19. Introduce la creación de un Registro de Vacunación de Cataluña para controlar la cobertura de vacunas y permite que el personal de enfermería acceda a historias clínicas para agilizar la gestión de bajas médicas. Además, obliga a las residencias de mayores y centros de discapacidad a compartir datos de su personal para mejorar el control de brotes.",
+  "citizen_impact": "Los ciudadanos se benefician de una gestión más rápida de sus bajas médicas y un mejor control de la vacunación. Sin embargo, implica que los datos de salud y contacto de trabajadores en residencias serán compartidos con el Departamento de Salud para control epidemiológico.",
+  "professional_impact": "El personal de enfermería del ICAM obtiene nuevas facultades de acceso a datos clínicos para agilizar trámites. Los directores de centros educativos y gestores de residencias asumen la carga de mantener y comunicar sistemas de información y datos de sus empleados a las autoridades sanitarias.",
+  "keywords": [
+    "COVID-19",
+    "salud pública",
+    "vacunación",
+    "incapacidad temporal",
+    "servicios sociales",
+    "residencias",
+    "datos de salud"
+  ],
+  "key_points": [
+    "Creación del Registro de Vacunación de Cataluña para monitorizar la cobertura de vacunas contra COVID-19 y otras enfermedades.",
+    "Habilitación de enfermeras del ICAM para acceder a historias clínicas y agilizar la tramitación de bajas y altas por COVID-19.",
+    "Obligación de las residencias de compartir datos de contacto y de su personal para el seguimiento de pruebas diagnósticas.",
+    "Los centros sanitarios privados deben comunicar datos de vacunación en un plazo máximo de 24 horas para COVID-19.",
+    "Los centros sanitarios no integrados en el SISCAT tienen un plazo de 5 días para registrar vacunaciones generales.",
+    "Se clarifica que los cuerpos de seguridad pueden adoptar medidas cautelares para asegurar el cumplimiento de las normas sanitarias.",
+    "Los directores de centros educativos deben colaborar en la gestión de información sanitaria y educativa para controlar la pandemia."
+  ],
+  "legal_references": [
+    "Decreto-ley 30/2020, de 4 de agosto",
+    "Decreto-ley 41/2020, de 10 de noviembre",
+    "Estatuto de Autonomía de Cataluña",
+    "Ley 13/2008, de la Presidencia de la Generalidad y del Gobierno"
+  ],
+  "derogations": [
+    "Artículo 1 (referente a la habilitación de enfermeras, actualmente indicado como derogado en el texto)"
+  ],
+  "main_obligations": "Los centros de servicios sociales residenciales deben facilitar los datos de contacto de todo su personal (propio y externo) al Departamento de Salud. Los centros sanitarios deben registrar la vacunación contra COVID-19 en un plazo máximo de 24 horas tras la administración.",
+  "effective_date": "2020-12-01",
+  "procedures": [
+    {
+      "name": "Registro de vacunación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de datos de vacunación (SISCAT)",
+          "descrption": "Integración automática de datos en la historia clínica compartida de Cataluña.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos de identificación, antígeno, lote, fecha y profesional administrador."
+        },
+        {
+          "step": 2,
+          "title": "Comunicación de datos de vacunación (Otros centros)",
+          "descrption": "Plazo de 24 horas para COVID-19 o 5 días para otras vacunas.",
+          "start_date": null,
+          "end_date": "24 horas o 5 días según el tipo de vacuna",
+          "required_documentation": "Variables de identificación y detalles del producto suministrado."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

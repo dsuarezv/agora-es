@@ -1,0 +1,175 @@
+{
+  "identifier": "BOE-A-1999-11710",
+  "title": "Ley 19/1998, de 25 de noviembre, de Ordenación y Atención Farmacéutica de la Comunidad de Madrid",
+  "visible_title": "Ordenación y Atención Farmacéutica de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "19/1998",
+  "publication_date": "1999-05-25",
+  "enactment_date": "1998-11-25",
+  "last_updated": "2022-12-22",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1998/11/25/19",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo deben funcionar las farmacias, hospitales y centros sanitarios en la Comunidad de Madrid para garantizar que el paciente reciba una atención segura. Establece reglas estrictas sobre dónde y cómo se pueden abrir nuevas farmacias, prohibiendo la venta de medicamentos por canales no autorizados como internet o domicilio. Además, eleva el papel del farmacéutico de un simple vendedor a un profesional de la salud que debe vigilar la eficacia de los tratamientos. También define los requisitos de infraestructura y las sanciones para asegurar el cumplimiento de la normativa sanitaria.",
+  "citizen_impact": "Garantiza que el ciudadano tenga acceso a medicamentos en puntos de venta seguros y controlados, evitando riesgos por ventas online o ambulantes. Asegura que las farmacias cercanas cumplan con estándares de calidad (superficie, temperatura, personal cualificado) y que en zonas aisladas o turísticas existan botiquines para emergencias. El paciente tiene derecho a un seguimiento profesional que detecte errores en su medicación.",
+  "professional_impact": "Impone cargas operativas estrictas a farmacéuticos y hospitales: control de temperatura, mantenimiento de existencias mínimas y presencia obligatoria de personal cualificado. Regula la planificación de nuevas oficinas de farmacia basándose en la densidad de población y establece incompatibilidades profesionales (no pueden ejercer medicina o veterinaria simultáneamente). Los titulares deben cumplir con requisitos de edad para contratar adjuntos y comunicar cierres a la Consejería.",
+  "keywords": [
+    "farmacia",
+    "atención farmacéutica",
+    "medicamentos",
+    "Comunidad de Madrid",
+    "botiquines",
+    "inspección sanitaria",
+    "seguimiento farmacoterapéutico"
+  ],
+  "key_points": [
+    "El farmacéutico debe realizar seguimiento farmacoterapéutico para detectar errores de prescripción o interacciones.",
+    "Prohibición absoluta de venta de medicamentos por internet, domicilio o de forma ambulante.",
+    "Nuevas farmacias sujetas a densidad de población: 2.800 hab/farmacia en zonas urbanas y 2.000 hab/farmacia en rurales.",
+    "Distancia mínima de 250 metros entre farmacias y 150 metros respecto a centros de salud.",
+    "Obligación de contratar un farmacéutico adjunto para titulares de farmacia mayores de 70 años.",
+    "Las farmacias deben cumplir con una superficie mínima de 75 m² y zonas específicas (almacén, laboratorio, etc.).",
+    "Apertura de botiquines permitida en zonas aisladas (mín. 3.000m), de difícil acceso (mín. 2.000m) o de alta densidad turística.",
+    "Los hospitales con 100 o más camas deben contar con un Servicio de Farmacia con especialista.",
+    "Prohibición de incompatibilidad entre el ejercicio de la farmacia y la medicina, odontología o veterinaria.",
+    "Las inspecciones sanitarias pueden realizarse sin previo aviso y con entrada libre.",
+    "El cierre voluntario de una farmacia no puede superar los dos años antes de la caducidad de su autorización.",
+    "Sanciones por infracciones muy graves pueden incluir el cierre del establecimiento hasta cinco años."
+  ],
+  "legal_references": [
+    "Ley 25/1990, de 20 de diciembre, del Medicamento",
+    "Ley 16/1997, de 25 de abril, de Regulación de Servicios de las Oficinas de Farmacia",
+    "Ley General de Sanidad de 25 de abril de 1986",
+    "Ley Orgánica 3/1983, de 25 de febrero, del Estatuto de Autonomía de la Comunidad de Madrid",
+    "Ley 30/1992, de 30 de diciembre, de Régimen Jurídico de las Administraciones Públicas",
+    "Ley 14/1986, de 25 de abril, General de Sanidad",
+    "Decreto 110/1997, de 11 de septiembre",
+    "Real Decreto 1416/1994",
+    "Ley 26/1994, de 19 de julio, de Consumidores y Usuarios",
+    "Decreto 115/1997, de 18 de septiembre"
+  ],
+  "derogations": [
+    "Ley 19/1998 (derogada por la Ley 13/2022 con efectos el 23 de diciembre de 2022)",
+    "Disposiciones de igual o inferior rango que se opongan a esta Ley"
+  ],
+  "main_obligations": "Los titulares deben garantizar la presencia de un farmacéutico durante el horario de apertura, mantener registros diarios de temperatura y asegurar existencias mínimas. Los hospitales deben garantizar la disponibilidad de medicamentos las 24 horas y comunicar cualquier cierre temporal o definitivo a la Consejería de Sanidad.",
+  "effective_date": "1999-05-25",
+  "procedures": [
+    {
+      "name": "Designación de Farmacéutico Sustituto",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de ausencia",
+          "description": "Comunicar a la Consejería de Sanidad la ausencia del titular por un periodo máximo de 72 horas.",
+          "start_date": "Al inicio de la ausencia",
+          "end_date": "Máximo 72 horas",
+          "required_documentation": "Designación del farmacéutico sustituto"
+        }
+      ]
+    },
+    {
+      "name": "Gestión de fallecimiento del titular",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de voluntad",
+          "description": "Los herederos deben comunicar si cierran la farmacia o la transmiten.",
+          "start_date": "Máximo 10 días desde el fallecimiento",
+          "end_date": "10 días",
+          "required_documentation": "Comunicación a la Consejería de Sanidad"
+        },
+        {
+          "step": 2,
+          "title": "Designación de regente",
+          "description": "Propuesta de un farmacéutico regente para gestionar la oficina.",
+          "start_date": "Máximo 1 mes desde el fallecimiento",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Plazo de transmisión o cierre",
+          "description": "Periodo para decidir el destino final de la oficina de farmacia.",
+          "start_date": "Desde la designación del regente",
+          "end_date": "24 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Traslado de oficina de farmacia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de traslado",
+          "description": "El interesado presenta la solicitud indicando la nueva ubicación propuesta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Expediente de traslado con ubicación del nuevo local"
+        }
+      ]
+    },
+    {
+      "name": "Autorización de obras en la oficina de farmacia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "descrption": "Presentación de la solicitud ante la Consejería de Sanidad para modificaciones de acceso, superficie o distribución.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "No especificado detalladamente en el fragmento"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la Consejería",
+          "descrption": "La autoridad debe autorizar o denegar la obra.",
+          "start_date": "Desde la solicitud",
+          "end_date": "Máximo 1 mes",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Apertura de botiquines",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de condiciones",
+          "descrption": "Demostrar lejanía, dificultad de acceso o incremento de población por turismo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de distancia o incremento poblacional"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del expediente",
+          "descrption": "Apertura de expediente tras detección de infracción por la inspección.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "descrption": "Imposición de sanción según la gravedad (leve, grave o muy grave).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

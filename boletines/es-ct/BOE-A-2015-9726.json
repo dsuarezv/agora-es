@@ -1,0 +1,85 @@
+{
+  "identifier": "BOE-A-2015-9726",
+  "title": "Ley 25/2015, de 30 de julio, del voluntariado y de fomento del asociacionismo",
+  "visible_title": "Ley del voluntariado y el asociacionismo",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "25/2015",
+  "publication_date": "2015-09-09",
+  "enactment_date": "2015-07-30",
+  "last_updated": "2023-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2015/07/30/25",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula y protege el modelo catalán de voluntariado y el asociacionismo como motores de transformación social. Establece un marco jurídico claro para las entidades sin ánimo de lucro, definiendo los derechos y deberes de voluntarios, organizaciones y beneficiarios. Además, crea instrumentos de apoyo como el Consejo del Asociacionismo y el Voluntariado de Cataluña y el Plan Nacional para coordinar las políticas públicas del sector.",
+  "citizen_impact": "Los ciudadanos que deseen colaborar de forma altruista cuentan ahora con un marco que garantiza su seguridad (seguros de riesgos), su formación y el reconocimiento oficial de su experiencia. También asegura que su participación sea libre, sin contraprestación económica y respetando su dignidad.",
+  "professional_impact": "Las entidades sin ánimo de lucro deben adaptar su gestión, creando programas de voluntariado formales y hojas de compromiso por escrito. Los funcionarios de la Generalitat y administraciones locales deben coordinar sus políticas de apoyo y fomentar la colaboración con el tercer sector mediante planes estratégicos.",
+  "keywords": [
+    "voluntariado",
+    "asociacionismo",
+    "tercer sector",
+    "entidades sin ánimo de lucro",
+    "transformación social",
+    "Cataluña"
+  ],
+  "key_points": [
+    "Obligatoriedad de formalizar la relación con el voluntario mediante una 'hoja de compromiso' por escrito.",
+    "Derecho de los voluntarios a recibir formación y contar con un seguro de riesgos y responsabilidad civil.",
+    "Creación del Consejo del Asociacionismo y el Voluntariado de Cataluña como órgano consultivo.",
+    "Establecimiento de un Plan Nacional del asociacionismo y el voluntariado con vigencia de hasta 4 años.",
+    "Reconocimiento de la experiencia adquirida mediante la acreditación de competencias no formales.",
+    "Prohibición de que el voluntariado sustituya puestos de trabajo remunerados.",
+    "Plazos de adaptación para entidades: 1 año para las que tengan más de 100 voluntarios y 2 años para el resto."
+  ],
+  "legal_references": [
+    "Estatuto de autonomía de Cataluña (artículo 166.2)",
+    "Ley 25/1991, de 13 de diciembre",
+    "Ley 7/2004, de 16 de julio"
+  ],
+  "derogations": [
+    "Ley 25/1991, de 13 de diciembre (mencionada como antecedente)",
+    "Registro del Asociacionismo y el Voluntariado de Cataluña (artículo 25 derogado)"
+  ],
+  "main_obligations": "Las entidades deben elaborar programas de voluntariado y hojas de compromiso por escrito. Deben asegurar la cobertura de seguros para los voluntarios y garantizar su formación. Las administraciones deben coordinar sus ayudas y fomentar la participación ciudadana.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Adaptación de entidades al nuevo régimen",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Ajuste para entidades con más de 100 voluntarios",
+          "description": "Las entidades con este volumen de voluntarios deben cumplir con los nuevos deberes y derechos en un plazo de 1 año desde la entrada en vigor.",
+          "start_date": "desde la entrada en vigor",
+          "end_date": "1 año después de la entrada en vigor",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Ajuste para entidades con menos de 100 voluntarios",
+          "description": "Las entidades de menor tamaño disponen de un plazo más amplio para adaptarse a la normativa.",
+          "start_date": "desde la entrada en vigor",
+          "end_date": "2 años después de la entrada en vigor",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Transición de programas de voluntariado público",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Migración a entidades privadas",
+          "description": "Los programas de voluntariado de administraciones públicas deben pasar, preferentemente, a ser gestionados por entidades privadas sin ánimo de lucro.",
+          "start_date": "desde la entrada en vigor",
+          "end_date": "2 años después de la entrada en vigor",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

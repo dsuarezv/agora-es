@@ -1,0 +1,90 @@
+{
+  "identifier": "BOE-A-2025-24011",
+  "title": "Real Decreto 1065/2025, de 26 de noviembre, por el que se desarrolla el régimen del contrato formativo, previsto en el artículo 11 del texto refundido de la Ley del Estatuto de los Trabajadores, aprobado por el Real Decreto Legislativo 2/2015, de 23 de octubre",
+  "visible_title": "Régimen del contrato formativo",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de Trabajo y Economía Social",
+  "official_number": "1065/2025",
+  "publication_date": "2025-11-27",
+  "enactment_date": "2025-11-26",
+  "last_updated": "2025-11-27",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/11/26/1065",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "285",
+  "summary": "Esta norma regula detalladamente las dos nuevas modalidades de contratos formativos: el de formación en alternancia y el de obtención de práctica profesional. Su objetivo es modernizar el acceso de los jóvenes al mercado laboral, permitiendo que la formación teórica y el trabajo práctico se integren de forma coordinada. Establece límites de duración, salarios mínimos y obligaciones de tutorización para evitar que estos contratos se usen para sustituir la contratación ordinaria.",
+  "citizen_impact": "Los jóvenes y estudiantes que busquen formación práctica ahora cuentan con un marco más claro que garantiza que su trabajo esté vinculado a su aprendizaje. Se asegura que reciban una remuneración mínima proporcional al tiempo trabajado y se protege su derecho a recibir tutorización adecuada.",
+  "professional_impact": "Las empresas deben cumplir con límites estrictos sobre el número de contratos formativos permitidos por centro de trabajo y designar tutores cualificados. Además, se establecen obligaciones de comunicación a los servicios públicos de empleo y la necesidad de suscribir convenios de colaboración para la modalidad en alternancia.",
+  "keywords": [
+    "contrato formativo",
+    "formación en alternancia",
+    "práctica profesional",
+    "Estatuto de los Trabajadores",
+    "tutorización",
+    "empleo juvenil"
+  ],
+  "key_points": [
+    "Se crean dos modalidades: formación en alternancia (estudios FP/universitarios o catálogo de especialidades) y práctica profesional (para titulados).",
+    "El contrato de formación en alternancia tiene una duración máxima de 2 años, ampliable un año más para personas con discapacidad o en exclusión social.",
+    "El contrato de práctica profesional dura entre 6 meses y 1 año, ampliable a 2 años para colectivos vulnerables.",
+    "Se prohíbe el periodo de prueba en los contratos de formación en alternancia.",
+    "La remuneración mínima es del 60% del convenio en el primer año y 75% en el segundo para la alternancia, sin bajar nunca del SMI proporcional.",
+    "Se establecen límites de contratos por centro de trabajo según el tamaño de la plantilla (ej. hasta 3 contratos en centros de menos de 10 trabajadores).",
+    "Es obligatorio designar un tutor en la empresa con experiencia y medios para supervisar el plan formativo.",
+    "Los contratos de formación en alternancia no pueden realizar horas extraordinarias ni trabajar en turnos, salvo excepciones muy específicas por la naturaleza de la actividad.",
+    "El fraude en la aplicación de estos contratos conlleva la conversión automática a contrato indefinido.",
+    "Las empresas pueden solicitar información a los servicios públicos de empleo para verificar si el candidato ha tenido contratos formativos previos."
+  ],
+  "legal_references": [
+    "Real Decreto Legislativo 2/2015 (Estatuto de los Trabajadores)",
+    "Real Decreto-ley 32/2021",
+    "Ley Orgánica 3/2022 (Formación Profesional)",
+    "Ley Orgánica 2/2023 (Sistema Universitario)",
+    "Real Decreto 488/1998",
+    "Real Decreto 1529/2012",
+    "Orden ESS/2518/2013",
+    "Ley 44/2007",
+    "Real Decreto-ley 1/2023"
+  ],
+  "derogations": [
+    "Real Decreto 488/1998, de 27 de marzo",
+    "Real Decreto 1529/2012, de 8 de noviembre",
+    "Orden ESS/2518/2013, de 26 de diciembre"
+  ],
+  "main_obligations": "Las empresas deben designar tutores, cumplir con los límites de número de contratos por centro y garantizar que la actividad laboral sea coherente con el plan formativo. El incumplimiento de las obligaciones de tutorización obliga a devolver las bonificaciones aplicadas.",
+  "effective_date": "2025-12-17",
+  "procedures": [
+    {
+      "name": "Formalización del contrato formativo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Verificación de antecedentes",
+          "description": "La empresa puede solicitar a los servicios públicos de empleo información sobre contratos formativos previos del candidato.",
+          "start_date": "Antes de la firma",
+          "end_date": "10 días hábiles para la respuesta del servicio público",
+          "required_documentation": "Solicitud por escrito"
+        },
+        {
+          "step": 2,
+          "title": "Elaboración del Plan Formativo Individual",
+          "description": "Creación conjunta del itinerario formativo-laboral entre empresa, centro formativo y trabajador.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Plan formativo individual"
+        },
+        {
+          "step": 3,
+          "title": "Comunicación de la contratación",
+          "description": "Obligación de comunicar la celebración del contrato a los servicios públicos de empleo.",
+          "start_date": null,
+          "end_date": "10 días hábiles tras la celebración",
+          "required_documentation": "Copia del contrato y anexos"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

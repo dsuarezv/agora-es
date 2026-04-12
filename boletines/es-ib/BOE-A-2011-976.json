@@ -1,0 +1,100 @@
+{
+  "identifier": "BOE-A-2011-976",
+  "title": "Ley 14/2010, de 9 de diciembre, de mediación familiar de las Illes Balears",
+  "visible_title": "Ley de mediación familiar de las Illes Balears",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "14/2010",
+  "publication_date": "2011-01-19",
+  "enactment_date": "2010-12-09",
+  "last_updated": "2019-04-02",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2010/12/09/14",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley establece un marco legal para resolver conflictos familiares en las Illes Balears mediante la mediación, evitando así el desgaste de los procesos judiciales. Introduce la obligación de la Administración de ofrecer un servicio público de mediación gratuito y crea un registro oficial de mediadores y centros para garantizar la calidad del servicio. El objetivo es proteger el interés de los menores y la estabilidad familiar mediante acuerdos voluntarios y profesionales.",
+  "citizen_impact": "Los ciudadanos con conflictos familiares (divorcios, custodias, alimentos o dependencia) tienen ahora derecho a acceder a un servicio de mediación gratuito gestionado por la administración. Esto permite resolver sus problemas de forma más rápida, privada y menos conflictiva que en un juzgado, siempre que no exista violencia de género o familiar.",
+  "professional_impact": "Los mediadores deben estar formados y registrados oficialmente para ejercer, y deben contar con un seguro de responsabilidad civil. Los centros de mediación privados que quieran operar deben inscribirse en el registro oficial y cumplir con normativas de transparencia y reporte de actividades.",
+  "keywords": [
+    "mediación familiar",
+    "resolución de conflictos",
+    "derecho de familia",
+    "servicios sociales",
+    "Illes Balears",
+    "acuerdos familiares"
+  ],
+  "key_points": [
+    "Creación de un servicio público de mediación familiar gratuito en las Illes Balears.",
+    "Prohibición de utilizar la mediación en casos de violencia o malos tratos.",
+    "Obligatoriedad de inscribirse en el Registro de Mediadores para ejercer profesionalmente.",
+    "Los acuerdos alcanzados pueden tener validez ejecutiva si se elevan a escritura pública o se convalidan judicialmente.",
+    "El procedimiento es voluntario y se rige por la confidencialidad y la neutralidad.",
+    "Se establece un régimen sancionador para mediadores y centros que incumplan sus deberes, con multas de hasta 120.000 euros en casos muy graves."
+  ],
+  "legal_references": [
+    "Ley 15/2005, de 8 de julio",
+    "Ley 18/2006, de 22 de noviembre",
+    "Constitución Española",
+    "Estatuto de Autonomía de las Illes Balears",
+    "Ley 39/2006, de 14 de diciembre",
+    "Ley Orgánica 1/1996, de 15 de enero",
+    "Ley 39/2015, de 1 de octubre",
+    "Ley 4/2009, de 11 de julio",
+    "Ley 30/1992, de 26 de diciembre"
+  ],
+  "derogations": [
+    "Ley 18/2006, de 22 de noviembre, de mediación familiar"
+  ],
+  "main_obligations": "Los mediadores deben mantener el secreto profesional y asegurar la imparcialidad, bajo riesgo de inhabilitación o multas. Los centros de mediación deben inscribirse en el registro oficial y remitir una memoria anual de actividades. Las partes deben asistir personalmente a las sesiones de mediación.",
+  "effective_date": "2011-01-29",
+  "procedures": [
+    {
+      "name": "Procedimiento de Mediación Familiar",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "description": "Solicitud por acuerdo mutuo o derivación judicial antes o durante un proceso judicial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud de mediación"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la solicitud (Servicio Público)",
+          "description": "La administración resuelve la solicitud y designa al mediador.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Sesión Informativa",
+          "description": "El mediador asesora a las partes sobre las ventajas y características del proceso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Sesión Constitutiva",
+          "description": "Acreditación de datos, firma del acta inicial y planificación de sesiones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "DNI y documentos de estado civil"
+        },
+        {
+          "step": 5,
+          "title": "Finalización",
+          "description": "El proceso termina por acuerdo, renuncia de las partes o decisión del mediador.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de reunión final o certificado de mediación"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

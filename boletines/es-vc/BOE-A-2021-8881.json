@@ -1,0 +1,81 @@
+{
+  "identifier": "BOE-A-2021-8881",
+  "title": "Decreto-ley 12/2020, de 7 de agosto, por el que se establece el régimen sancionador específico contra los incumplimientos de las disposiciones reguladoras de las medidas de prevención frente a la Covid-19 en los servicios sociales valencianos",
+  "visible_title": "Régimen sancionador por incumplimiento de medidas Covid-19 en servicios sociales valencianos",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Generalitat Valenciana - Conselleria de Igualdad y Políticas Inclusivas",
+  "official_number": "12/2020",
+  "publication_date": "2021-05-28",
+  "enactment_date": "2020-08-07",
+  "last_updated": "2021-12-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/dl/2020/08/07/12",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta norma crea un sistema de sanciones específico para castigar el incumplimiento de las medidas sanitarias contra la Covid-19 dentro del sector de los servicios sociales en la Comunidad Valenciana. Su objetivo es dotar a la administración de herramientas rápidas y eficaces para controlar la propagación del virus en entornos vulnerables. Centraliza la gestión de las sanciones en la Conselleria de Igualdad y Políticas Inclusivas para garantizar seguridad jurídica y agilidad administrativa.",
+  "citizen_impact": "Afecta principalmente a usuarios de servicios sociales, residentes en centros de mayores o personas con diversidad funcional, quienes deben cumplir con las restricciones de aforo, visitas y protocolos sanitarios. El incumplimiento de estas normas por parte de los usuarios o sus tutores puede derivar en sanciones económicas.",
+  "professional_impact": "Los centros de servicios sociales, residencias y directivos asumen una responsabilidad directa y solidaria por las infracciones que ocurran en sus instalaciones. Los inspectores y funcionarios adquieren la condición de agentes de la autoridad, y las empresas del sector deben implementar planes de contingencia y controles de acceso estrictos bajo riesgo de multas elevadas.",
+  "keywords": [
+    "Covid-19",
+    "servicios sociales",
+    "régimen sancionador",
+    "Comunitat Valenciana",
+    "infracciones sanitarias",
+    "residencias"
+  ],
+  "key_points": [
+    "Las sanciones se dividen en leves, graves y muy graves según el riesgo para la salud y el número de personas afectadas.",
+    "Las multas pueden oscilar desde los 60 euros por infracciones leves hasta los 60.000 euros por infracciones muy graves.",
+    "Los directivos y titulares de centros son responsables solidarios si permiten o toleran incumplimientos de residentes o visitantes.",
+    "Se establece la presunción de veracidad de las actas levantadas por los inspectores.",
+    "El pago anticipado de una multa reduce su cuantía en un 40%.",
+    "Los menores de edad o personas con capacidad modificada judicialmente serán sancionados a través de sus progenitores o tutores.",
+    "La competencia para resolver infracciones muy graves recae directamente en la Conselleria."
+  ],
+  "legal_references": [
+    "Ley 33/2011, de 4 de octubre, General de Salud Pública",
+    "Real Decreto-ley 21/2020, de 9 de junio",
+    "Decreto-ley 11/2020, de 24 de julio (Comunitat Valenciana)",
+    "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Estatuto de Autonomía de la Comunidad Valenciana",
+    "Ley 5/1983, de 30 de diciembre, de la Generalitat"
+  ],
+  "derogations": [],
+  "main_obligations": "Los centros deben respetar límites de aforo, mantener planes de contingencia y controlar el acceso mediante certificados Covid. Se prohíbe mantener a trabajadores en su puesto si presentan síntomas o han dado positivo, y se deben seguir protocolos estrictos para el manejo de residuos y cadáveres.",
+  "effective_date": "2020-08-08",
+  "procedures": [
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Actuación inspectora",
+          "description": "Levantamiento de acta por parte de funcionarios con autoridad tras detectar un posible incumplimiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de inspección"
+        },
+        {
+          "step": 2,
+          "title": "Instrucción del expediente",
+          "description": "Tramitación del procedimiento para determinar la responsabilidad y la gravedad de la infracción.",
+          "start_date": null,
+          "end_date": "6 meses (caducidad)",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Dictado de la sanción por el órgano competente (Secretaría Autonómica o Conselleria).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

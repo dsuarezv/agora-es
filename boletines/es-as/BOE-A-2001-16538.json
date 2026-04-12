@@ -1,0 +1,104 @@
+{
+  "identifier": "BOE-A-2001-16538",
+  "title": "Ley 7/2001, de 22 de junio, de Turismo",
+  "visible_title": "Ley de Turismo",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "7/2001",
+  "publication_date": "2001-08-24",
+  "enactment_date": "2001-06-22",
+  "last_updated": "2024-11-19",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2001/06/22/7",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta ley organiza y regula todo el sector turístico en Asturias, adaptándolo a las nuevas necesidades de alojamiento y servicios. Introduce figuras modernas como las viviendas de uso turístico y el turismo rural, estableciendo reglas claras para su funcionamiento. Además, crea un sistema de control e inspección para evitar la competencia desleal y la actividad clandestina. Su objetivo es garantizar la calidad del servicio y proteger el medio ambiente mediante la creación de zonas turísticas protegidas.",
+  "citizen_impact": "Los ciudadanos que quieran alquilar su vivienda para uso turístico deben obtener autorización de su comunidad de propietarios y no pueden hacerlo si la vivienda es de protección oficial. Los turistas ganan seguridad gracias a la obligatoriedad de seguros de responsabilidad civil y la transparencia en la exhibición de precios. Además, se garantiza el derecho a la información mediante la obligatoriedad de entregar facturas y hojas de reclamaciones.",
+  "professional_impact": "Las empresas turísticas deben digitalizarse mediante la presentación de una declaración responsable electrónica antes de abrir. Se imponen cargas de control estrictas, como la instalación de medidores de agua individuales en viviendas turísticas y la obligación de facilitar el acceso a inspectores. El incumplimiento de estas normas puede acarrear multas de hasta 100.000 euros o el cierre del negocio.",
+  "keywords": [
+    "turismo Asturias",
+    "vivienda de uso turístico",
+    "turismo rural",
+    "inspección turística",
+    "declaración responsable",
+    "régimen sancionador"
+  ],
+  "key_points": [
+    "Creación de la figura de 'vivienda de uso turístico', sujeta a autorización de la comunidad de propietarios y prohibida en viviendas de protección oficial.",
+    "Regulación específica del turismo rural (hoteles rurales, casas de aldea y apartamentos rurales) y de los albergues turísticos.",
+    "Reconocimiento de la 'sidrería' como especialidad dentro de la restauración asturiana.",
+    "Obligatoriedad de contratar un seguro de responsabilidad civil para empresas turísticas.",
+    "Implementación de la 'declaración responsable' electrónica para el inicio de la actividad.",
+    "Posibilidad de declarar 'zonas turísticas protegidas' para limitar la oferta y proteger el medio ambiente.",
+    "Los inspectores tienen derecho de acceso a las instalaciones y los titulares deben facilitar la documentación.",
+    "La falta de declaración responsable o la falsedad en la misma se considera una infracción grave.",
+    "Las sanciones económicas pueden alcanzar los 100.000 euros.",
+    "La clausura de un establecimiento sin autorización no es una sanción, sino una medida para restablecer la legalidad.",
+    "Obligación de exhibir precios y hojas de reclamaciones en todos los establecimientos.",
+    "Las viviendas de uso turístico deben contar con medidores individuales de agua y suministros."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía del Principado de Asturias",
+    "Decreto 11/1991, de 24 de enero",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley 17/2009, de 23 de noviembre, sobre el Libre Acceso a las Actividades de Servicios y su Ejercicio",
+    "Ley 2/1986, de 28 de abril, sobre inspección, sanciones y procedimiento sancionador en materia de empresas y actividades turísticas",
+    "Ley 2/2023, de 15 de marzo, de Empleo Público",
+    "Ley 29/1994, de 22 de septiembre, de Arrendamientos Urbanos",
+    "Artículo 25 de la Ley 7/2001",
+    "Artículo 25 bis.2 de la Ley 7/2001"
+  ],
+  "derogatons": [
+    "Ley del Principado de Asturias 2/1986, de 28 de abril, sobre inspección, sanciones y procedimiento sancionador en materia de empresas y actividades turísticas"
+  ],
+  "main_obligations": "Las empresas deben presentar una declaración responsable electrónica antes de iniciar su actividad y contratar un seguro de responsabilidad civil. Los titulares deben facilitar el acceso a los inspectores, mantener el libro de inspección y exhibir claramente los precios y hojas de reclamaciones.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Inicio de la actividad turística mediante declaración responsable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración responsable",
+          "description": "Presentación electrónica ante la Administración turística manifestando el cumplimiento de requisitos (urbanísticos, sanitarios, seguridad, etc.).",
+          "start_date": "Antes del inicio de la actividad",
+          "end_date": null,
+          "required_documentation": "Documentación acreditativa de seguros, garantías y cumplimiento de requisitos de accesibilidad y seguridad."
+        },
+        {
+          "step": 2,
+          "title": "Habilitación de la actividad",
+          "description": "La actividad queda habilitada desde la presentación, salvo que requiera autorización previa.",
+          "start_date": "Desde la presentación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Comprobación administrativa",
+          "description": "La Administración verifica la veracidad de los datos y la disponibilidad de la documentación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Cese de actividad turística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de cese",
+          "description": "Obligación de declarar electrónicamente el fin de la actividad.",
+          "start_date": "Desde el cese",
+          "end_date": "30 días después del cese",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

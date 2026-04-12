@@ -1,0 +1,88 @@
+{
+  "identifier": "BOE-A-1992-22500",
+  "title": "Ley 1/1992, de 7 de mayo, de Pesca Fluvial",
+  "visible_title": "Ley de Pesca Fluvial",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "1/1992",
+  "publication_date": "1992-10-07",
+  "enactment_date": "1992-05-07",
+  "last_updated": "2018-03-26",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/1992/05/07/1",
+  "official_journal": "DOCM",
+  "journal_issue": null,
+  "summary": "Esta ley regula la protección, conservación y el aprovechamiento de los recursos de pesca en aguas fluviales de Castilla-La Mancha. Transforma la visión de la pesca de una actividad económica a una práctica deportiva y de ocio, estableciendo un marco para la gestión sostenible de las especies. Introduce la clasificación de aguas, la protección de hábitats y un régimen sancionador para asegurar el equilibrio ecológico.",
+  "citizen_impact": "Los aficionados a la pesca deben obtener una licencia nominal e intransferible para practicar la actividad en la región. Además, se les imponen restricciones sobre tallas mínimas, épocas de veda y métodos de captura permitidos para evitar la sobreexplotación.",
+  "professional_impact": "Las sociedades de pescadores pueden gestionar cotos de pesca mediante concesiones administrativas. Los titulares de aprovechamientos hidráulicos adquieren obligaciones estrictas, como mantener caudales mínimos ecológicos y construir pasos para peces para no perjudicar la fauna.",
+  "keywords": [
+    "pesca fluvial",
+    "pesca deportiva",
+    "acuicultura",
+    "conservación de especies",
+    "licencia de pesca",
+    "Castilla-La Mancha",
+    "gestión de recursos naturales"
+  ],
+  "key_points": [
+    "Obligatoriedad de poseer una licencia de pesca nominal para cualquier actividad en la región.",
+    "Clasificación de aguas en libres, régimen especial (vedados, cotos, tramos sin muerte) y refugios de pesca.",
+    "Prohibición estricta de usar métodos destructivos como dinamita, venenos, electricidad o armas de fuego.",
+    "Establecimiento de tallas mínimas y épocas de veda que deben respetarse obligatoriamente.",
+    "Creación de los Consejos de Pesca como órganos consultivos de la Administración.",
+    "Obligación de los concesionarios de agua de garantizar el paso de peces y caudales mínimos.",
+    "Régimen sancionador con multas que pueden alcanzar los 60.000 euros para infracciones muy graves.",
+    "Posibilidad de decomiso de los materiales y artes utilizados en la comisión de infracciones."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Castilla-La Mancha",
+    "Real Decreto 1095/1989",
+    "Ley de Aguas",
+    "Ley de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestre"
+  ],
+  "derogatations": [
+    "Todas las disposiciones de igual o inferior rango en Castilla-La Mancha que se opongan a esta ley"
+  ],
+  "main_obligations": "Es obligatorio poseer licencia de pesca y respetar las tallas mínimas, vedas y cupos de captura. Se prohíbe el uso de artes de pesca no autorizadas y la alteración de los cauces o la calidad del agua.",
+  "effective_date": "1992-12-07",
+  "procedures": [
+    {
+      "name": "Obtención de licencia de pesca",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y prueba de aptitud",
+          "descrption": "Presentación de solicitud y superación de pruebas de aptitud para nuevos titulares.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite los requisitos legales exigibles"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación e instrucción",
+          "descrption": "Apertura del expediente administrativo tras la detección de una infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "descrption": "Imposición de la sanción (multa, retirada de licencia o decomiso) tras el trámite de audiencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

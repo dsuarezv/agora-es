@@ -1,0 +1,95 @@
+{
+  "identifier": "BOE-A-2017-7170",
+  "title": "Ley 10/2017, de 11 de mayo, por la que se regula la Iniciativa Legislativa Popular ante Les Corts",
+  "visible_title": "Regulación de la Iniciativa Legislativa Popular ante Les Corts",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "10/2017",
+  "publication_date": "2017-06-23",
+  "enactment_date": "2017-05-11",
+  "last_updated": "2025-05-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2017/05/11/10",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta ley permite que los ciudadanos de la Comunidad Valenciana propongan leyes directamente al Parlamento (Les Corts). Establece un mecanismo para que la sociedad civil pase de ser solo votante a ser impulsora de la agenda legislativa. Define quiénes pueden participar, qué temas están prohibidos y cómo se deben recoger y validar las firmas necesarias.",
+  "citizen_impact": "Otorga a los residentes en la Comunidad Valenciana (españoles y ciudadanos de la UE/EFTA) el derecho de proponer leyes sobre temas de interés general. Facilita la participación política directa más allá de las elecciones, permitiendo que las demandas ciudadanas lleguen al debate parlamentario mediante la recogida de 10.000 firmas.",
+  "professional_impact": "Los promotores de iniciativas pueden solicitar una compensación de hasta 18.000 euros por los gastos directos de recogida de firmas si alcanzan el mínimo requerido. Los funcionarios de la Junta Electoral y de la oficina del censo asumen la carga de validar y contar las firmas para garantizar la legalidad del proceso.",
+  "keywords": [
+    "Iniciativa Legislativa Popular",
+    "Les Corts",
+    "Participación ciudadana",
+    "Democracia participativa",
+    "Comunitat Valenciana",
+    "Recogida de firmas"
+  ],
+  "key_points": [
+    "Se requiere un mínimo de 10.000 firmas para que la propuesta sea tramitada.",
+    "Están prohibidas las iniciativas sobre temas tributarios, presupuestarios o reformas del Estatuto de Autonomía.",
+    "El plazo para recoger firmas es de 8 meses, prorrogables hasta un máximo de 10 meses.",
+    "Se permite la recogida de firmas mediante sistemas de firma electrónica autorizados.",
+    "Existe una subvención máxima de 18.000 euros para compensar gastos de la comisión promotora.",
+    "Las iniciativas en trámite no caducan si se disuelve el Parlamento.",
+    "La Mesa de Les Corts tiene 15 días para decidir si admite la propuesta a trámite."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 23.1)",
+    "Estatuto de Autonomía de la Comunidad Valenciana (artículo 26.2 y 9.4)",
+    "Ley Orgánica 2/1979 del Tribunal Constitucional"
+  ],
+  "derogations": [
+    "Ley 5/1993, de 27 de diciembre, de la Generalitat, reguladora de la iniciativa legislativa popular de la Comunidad Valenciana"
+  ],
+  "main_obligations": "La comisión promotora debe presentar un escrito con al menos tres firmantes y un texto articulado de la ley. Deben recoger y autenticar al menos 10.000 firmas válidas en el plazo establecido para que la propuesta sea admitida.",
+  "effective_date": "2017-06-24",
+  "procedures": [
+    {
+      "name": "Procedimiento de Iniciativa Legislativa Popular",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación y solicitud de admisión",
+          "description": "Presentación de escrito ante la Mesa de Les Corts con la propuesta de ley y la comisión promotora.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escrito de solicitud, texto articulado de la proposición de ley y relación de la comisión promotora."
+        },
+        {
+          "step": 2,
+          "title": "Examen de admisión",
+          "description": "La Mesa de Les Corts decide si la iniciativa cumple los requisitos y no trata materias prohibidas.",
+          "start_date": null,
+          "end_date": "15 días desde la presentación",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Recogida de firmas",
+          "description": "Proceso de recogida de firmas apoyando la propuesta tras la notificación de la Junta Electoral.",
+          "start_date": "Tras la notificación de la Junta Electoral",
+          "end_date": "8 meses (prorrogable hasta 10 meses)",
+          "required_documentation": "Plegos sellados y numerados por la Junta Electoral."
+        },
+        {
+          "step": 4,
+          "title": "Comprobación y recuento",
+          "description": "La oficina del censo y la Junta Electoral verifican la validez de las firmas en acto público.",
+          "start_date": "Tras la entrega de firmas",
+          "end_date": "1 mes desde la entrega",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Tramitación parlamentaria",
+          "description": "Publicación en el Boletín Oficial y debate en el Pleno de Les Corts para su toma en consideración.",
+          "start_date": "Tras recibir el certificado de firmas válidas",
+          "end_date": "Máximo 4 periodos de sesiones para la toma en consideración",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

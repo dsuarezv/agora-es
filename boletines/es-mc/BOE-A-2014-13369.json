@@ -1,0 +1,101 @@
+{
+  "identifier": "BOE-A-2014-13369",
+  "title": "Ley 8/2014, de 21 de noviembre, de Medidas Tributarias, de Simplificación Administrativa y en materia de Función Pública",
+  "visible_title": "Ley de Medidas Tributarias, Simplificación Administrativa y Función Pública de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "8/2014",
+  "publication_date": "2014-12-23",
+  "enactment_date": "2014-11-21",
+  "last_updated": "2022-10-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2014/11/21/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca reactivar la economía de la Región de Murcia mediante incentivos fiscales para el emprendimiento y la creación de empresas. Introduce reducciones significativas en el Impuesto sobre Sucesiones y Donaciones para facilitar el relevo generacional en negocios y explotaciones agrícolas. Además, agiliza la apertura de comercios e industrias sustituyendo licencias previas por declaraciones responsables y crea una unidad especializada para acelerar grandes inversiones.",
+  "citizen_impact": "Los ciudadanos pueden beneficiarse de menores impuestos al recibir herencias destinadas a crear empresas o al recibir donaciones de inmuebles para negocios. También se introduce una bonificación en los servicios de centro de día para personas menores de 65 años con pensiones de orfandad.",
+  "professional_impact": "Los empresarios y autónomos disfrutan de una mayor rapidez para abrir locales (hasta 1.000 m²) mediante la declaración responsable sin necesidad de licencia previa. Los grandes inversores cuentan con la Unidad de Aceleración de Inversiones para agilizar trámites, mientras que los funcionarios de la Agencia Tributaria regional ven transformados sus cuerpos profesionales hacia perfiles más especializados.",
+  "keywords": [
+    "impuesto sobre sucesiones y donaciones",
+    "simplificación administrativa",
+    "emprendimiento",
+    "declaración responsable",
+    "unidad de aceleración de inversiones",
+    "función pública",
+    "transmisiones patrimoniales"
+  ],
+  "key_points": [
+    "Reducción del 99% en el Impuesto sobre Sucesiones para dinero destinado a crear empresas o negocios profesionales.",
+    "Reducción del 99% en el Impuesto sobre Sucesiones para la transmisión de explotaciones agrícolas.",
+    "Tipo reducido del 5% en el Impuesto sobre Transmisiones Patrimoniales para jóvenes empresarios menores de 35 años que adquieran inmuebles para su actividad.",
+    "Sustitución de licencias de actividad y urbanísticas por declaraciones responsables para locales de hasta 1.000 m².",
+    "Creación de la Unidad de Aceleración de Inversiones para proyectos que generen 25 empleos o inviertan más de 3 millones de euros.",
+    "Reducción de los plazos administrativos a la mitad para proyectos gestionados por la Unidad de Aceleración de Inversiones.",
+    "Creación de los cuerpos de Administradores Tributarios y Técnicos Tributarios en la Región de Murcia.",
+    "Bonificación en precios públicos de servicios de dependencia para pensionistas de orfandad menores de 65 años."
+  ],
+  "legal_references": [
+    "Ley Orgánica 8/1980",
+    "Ley 22/2009",
+    "Ley 22/2010",
+    "Ley 12/2012",
+    "Ley 14/2013",
+    "Ley 20/2013",
+    "Ley 38/1992",
+    "Ley 38/1999",
+    "Ley 43/2003",
+    "Ley 29/1987"
+  ],
+  "derogations": [
+    "Disposiciones que se opongan a la presente ley de igual o inferior rango"
+  ],
+  "main_obligations": "Los beneficiarios de reducciones fiscales por creación de empresa deben mantener la actividad durante 5 años y asegurar que el domicilio fiscal esté en Murcia. En el caso de explotaciones agrícolas, la obligación de mantenimiento es de 10 años.",
+  "effective_date": "2014-12-24",
+  "procedures": [
+    {
+      "name": "Tramitación de proyectos de inversión (Unidad de Aceleración de Inversiones)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de asistencia",
+          "description": "Presentación de documentación que acredite la inversión o generación de empleo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite disponibilidad de terrenos y viabilidad económica/técnica."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación acelerada",
+          "description": "Los plazos ordinarios de los trámites administrativos se reducen a la mitad.",
+          "start_date": null,
+          "end_date": "Plazo ordinario / 2",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Acto de seguimiento e impulso",
+          "description": "Reunión tras la fase de consultas ambientales para agilizar la resolución definitiva.",
+          "start_date": "Al finalizar las fases de consulta o evaluación ambiental",
+          "end_date": null,
+          "required_documentation": "Acta de la reunión suscrita por los asistentes."
+        }
+      ]
+    },
+    {
+      "name": "Apertura de actividades comerciales e industriales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de declaración responsable",
+          "description": "Sustituye a la licencia previa para locales de hasta 1.000 m².",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificación de técnico habilitado sobre la adecuación a la normativa técnica."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

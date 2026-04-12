@@ -1,0 +1,97 @@
+{
+  "identifier": "BOE-A-2007-11324",
+  "title": "Ley 5/2007, de 7 de mayo, de emergencias de Galicia",
+  "visible_title": "Ley de Emergencias de Galicia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "5/2007",
+  "publication_date": "2007-06-08",
+  "enactment_date": "2007-05-07",
+  "last_updated": "2021-01-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2007/05/07/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el sistema de protección civil en Galicia para coordinar la respuesta ante catástrofes y riesgos. Crea la Agencia Gallega de Emergencias para centralizar la gestión del 112 y los recursos operativos. La norma obliga a la colaboración ciudadana, la responsabilidad de las empresas en materia de seguridad y la obligación de los medios de comunicación de informar en crisis. Además, reorganiza los servicios de bomberos y la planificación urbanística para garantizar que los municipios estén preparados ante riesgos naturales o tecnológicos.",
+  "citizen_impact": "Los ciudadanos tienen el deber de colaborar en tareas de protección civil si son mayores de edad. En situaciones de emergencia, las autoridades pueden requisar bienes privados (vehículos, locales, combustible) para salvar vidas. Además, los centros educativos garantizan la seguridad mediante simulacros de evacuación anuales obligatorios.",
+  "professional_impact": "Las empresas deben implementar medidas de autoprotección y pueden ser sujetas a tasas de control de seguridad. Los voluntarios de protección civil pueden usar su experiencia como mérito profesional. Los municipios de más de 20.000 habitantes deben mantener servicios propios de bomberos y protección civil, mientras que los más pequeños deben integrarse en consorcios. Los urbanistas deben incluir informes de riesgos en sus planes.",
+  "keywords": [
+    "protección civil",
+    "emergencias",
+    "Agencia Gallega de Emergencias",
+    "catástrofes",
+    "bomberos",
+    "simulacros",
+    "seguridad ciudadana",
+    "Galicia"
+  ],
+  "key_points": [
+    "Creación de la Agencia Gallega de Emergencias para gestionar el 112 y recursos operativos.",
+    "Obligatoriedad de realizar al menos un simulacro de evacuación anual en todos los centros educativos.",
+    "Potestad de la autoridad para la requisa, ocupación temporal o destrucción de bienes privados en emergencias.",
+    "Obligación de los medios de comunicación de difundir información de emergencia de forma gratuita e inmediata.",
+    "Los municipios de más de 20.000 habitantes deben contar con servicios propios de protección civil y bomberos.",
+    "La experiencia de un año en voluntariado de protección civil computa como mérito profesional.",
+    "Los planes urbanísticos deben integrar informes de la Comisión Gallega de Protección Civil ante riesgos de incendio o inundación.",
+    "Los municipios que no tengan planes de protección civil actualizados no podrán recibir ayudas públicas.",
+    "Se establece un régimen sancionador con multas de hasta 600.000 euros por infracciones muy graves.",
+    "Los municipios sin parque de bomberos propio deben integrarse en consorcios provinciales.",
+    "La Xunta debe homogeneizar las condiciones laborales de los bomberos en todo el territorio en un plazo de tres años.",
+    "Se establece una tasa de 60 euros por el control de medidas de autoprotección en centros obligados."
+  ],
+  "legal_references": [
+    "Constitución española",
+    "Estatuto de Autonomía de Galicia",
+    "Sentencias 123/1984 y 133/1990 del Tribunal Constitucional",
+    "Ley 31/1995 de prevención de riesgos laborales",
+    "Ley 9/2004 de seguridad industrial de Galicia",
+    "Ley 3/2000 de voluntariado de Galicia",
+    "Ley 10/1996 de actuación de entes y empresas con participación de la Xunta",
+    "Ley de régimen financiero y presupuestario de Galicia (Texto refundido 1/1999)",
+    "Ley 5/1997 de Administración local de Galicia",
+    "Ley 30/1992, de 26 de noviembre",
+    "Ley 4/1988, de 26 de mayo",
+    "Ley 6/2003, de 9 de diciembre",
+    "Decreto 56/2000, de 3 de marzo"
+  ],
+  "derogations": [
+    "Todas las normas de igual o inferior rango que se opongan a la presente ley"
+  ],
+  "main_obligations": "Los municipios deben actualizar sus planes municipales en el plazo de un año tras la actualización del Plan territorial de protección de Galicia. La Xunta tiene el plazo de 6 meses para elaborar un plan director de servicios contra incendios.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Planificación de servicios y protección",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del Plan Director de servicios contra incendios",
+          "description": "La Xunta debe desarrollar este plan para coordinar los servicios de extinción.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Actualización de planes municipales",
+          "description": "Los municipios deben adaptar sus planes de nivel municipal.",
+          "start_date": "Tras la actualización del Plan territorial de protección de Galicia",
+          "end_date": "1 año",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Homogeneización de condiciones laborales de bomberos",
+          "description": "Proceso para igualar las condiciones de trabajo de los servicios de bomberos en Galicia.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": "3 años",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

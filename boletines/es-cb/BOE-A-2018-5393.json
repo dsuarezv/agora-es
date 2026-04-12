@@ -1,0 +1,159 @@
+{
+  "identifier": "BOE-A-2018-5393",
+  "title": "Ley 1/2018, de 21 de marzo, de Transparencia de la Actividad Pública",
+  "visible_title": "Ley de Transparencia de la Actividad Pública",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "1/2018",
+  "publication_date": "2018-04-20",
+  "enactment_date": "2018-03-21",
+  "last_updated": "2026-01-12",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2018/03/21/1",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "journal_issue": null,
+  "summary": "Esta ley transforma la gestión pública en Cantabria al imponer un modelo de gobierno abierto donde la información debe ser accesible por defecto. Obliga a las instituciones, empresas con ayudas públicas y adjudicatarios de contratos a transparentar sus cuentas, salarios y gestión. Para garantizar que esto se cumpla, se crea el Consejo de Transparencia de Cantabria como vigilante independiente. El objetivo final es que cualquier ciudadano pueda fiscalizar el uso de los fondos públicos y la toma de decisiones de los cargos políticos.",
+  "citizen_impact": "Los ciudadanos ganan el derecho de solicitar cualquier información pública sin necesidad de justificar por qué la quieren. Además, podrán consultar de forma directa y sencilla los sueldos de políticos, sus agendas, los contratos de la administración y el uso de los presupuestos, incluyendo datos sobre medio ambiente y calidad del agua.",
+  "professional_impact": "Las empresas privadas que reciban más de 25.000€ en ayudas anuales o el 40% de sus ingresos de fondos públicos deben cumplir con la ley de transparencia. Los adjudicatarios de contratos públicos tienen la obligación de suministrar información de gestión en un plazo de 15 días hábiles. El incumplimiento puede acarrear sanciones económicas de hasta 12.000€ o la pérdida de subvenciones y contratos.",
+  "keywords": [
+    "transparencia",
+    "gobierno abierto",
+    "acceso a la información",
+    "Cantabria",
+    "rendición de cuentas",
+    "control de gestión pública"
+  ],
+  "key_points": [
+    "Derecho de acceso a la información pública sin necesidad de declarar interés.",
+    "Creación del Consejo de Transparencia de Cantabria para supervisar el cumplimiento y resolver reclamaciones.",
+    "Obligación de publicar currículums, sueldos, gastos de representación y agendas de políticos y altos cargos.",
+    "Las entidades privadas con alta dependencia de fondos públicos (más de 25.000€ o 40% de ingresos) están sujetas a la ley.",
+    "Publicidad obligatoria de contratos, subvenciones, salarios y saldos de cuentas bancarias de la administración.",
+    "Transparencia ambiental obligatoria: informes de impacto ambiental, calidad del agua y gestión de residuos.",
+    "Uso obligatorio de formatos de datos abiertos e interoperables por parte de las administraciones.",
+    "Régimen sancionador: multas de hasta 12.000€ para empresas y riesgo de pérdida de contratos o subvenciones.",
+    "Obligación de publicar versiones actualizadas de la normativa y respuestas a consultas ciudadanas.",
+    "Las administraciones deben publicar la información de publicidad activa de forma inmediata."
+  ],
+  "legal_references": [
+    "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno",
+    "Estatuto de Autonomía para Cantabria",
+    "Ley de Cantabria 6/2002, de 10 de diciembre",
+    "Convenio 205 del Consejo de Europa",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal",
+    "Real Decreto 4/2010",
+    "Real Decreto 3/2010",
+    "Ley 37/2007, de 16 de julio, de reutilización de la información del sector público",
+    "Ley de Cantabria 1/2008, de 2 de julio, reguladora de los conflictos de intereses de los miembros del Gobierno y de los altos cargos de la Administración de Cantabria",
+    "Ley 7/1985, de 2 de abril, de bases del régimen local"
+  ],
+  "derogatons": [],
+  "main_obligations": "Las administraciones deben publicar datos de contratos, salarios y cuentas bancarias de forma inmediata y en formatos abiertos. Las empresas privadas sujetas a la ley deben suministrar la información requerida en un plazo máximo de 15 días hábiles.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Solicitud de acceso a la información pública",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El interesado presenta la solicitud identificándose y detallando la información requerida.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Identidad del solicitante, descripción de la información y dirección de contacto."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y posibles subsanaciones",
+          "description": "Si la solicitud es incompleta, se concede un plazo de 10 días hábiles para concretarla.",
+          "start_date": "Desde la recepción",
+          "end_date": "10 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "La Administración debe dictar resolución concediendo o denegando el acceso.",
+          "start_date": "Desde la recepción o subsanación",
+          "end_date": "1 mes (prorrogable por otro mes)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reclamación ante el Consejo de Transparencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Interposición de la reclamación",
+          "description": "El interesado presenta reclamación contra una resolución expresa o presunta.",
+          "start_date": "1 mes desde la notificación",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución del Consejo",
+          "description": "El Consejo de Transparencia resuelve la reclamación.",
+          "start_date": "Desde la interposición",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acceso a la información pública y resolución de reclamaciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de información",
+          "description": "El ciudadano presenta una solicitud de acceso a la información a la Administración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y resolución",
+          "description": "La Administración debe tramitar la solicitud y resolver dentro de los plazos legales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Reclamación ante el Consejo de Transparencia",
+          "description": "Si la resolución es denegatoria o presuntamente denegatoria, se puede reclamar ante el Consejo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Régimen Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del procedimiento",
+          "description": "El procedimiento se inicia de oficio, por denuncia o por instación del Consejo de Transparencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Imposición de sanción",
+          "description": "Resolución de la sanción (multa, cese de cargo o sanción disciplinaria) por el órgano competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

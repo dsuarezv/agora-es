@@ -1,0 +1,114 @@
+{
+  "identifier": "BOE-A-1998-18466",
+  "title": "Ley 7/1998, de 6 de julio, de Caza de Canarias",
+  "visible_title": "Ley de Caza de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "7/1998",
+  "publication_date": "1998-07-31",
+  "enactment_date": "1998-07-06",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/1998/07/06/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula la actividad cinegética en Canarias con un enfoque de conservación ambiental y gestión sostenible. Establece las reglas para el uso de terrenos (comunes, cotos y zonas protegidas), la clasificación de especies y los requisitos para ser cazador. Además, organiza la gestión de la caza a través de los cabildos insulares y define un régimen sancionador para proteger la fauna y la seguridad pública.",
+  "citizen_impact": "Los ciudadanos que deseen practicar la caza deben obtener una licencia canaria y superar un examen de aptitud. También establece obligaciones de seguridad, como respetar las zonas de protección cerca de núcleos de población y vías públicas, y la obligatoriedad de contratar un seguro de responsabilidad civil.",
+  "professional_impact": "Los cabildos insulares asumen la gestión directa de la caza, la planificación técnica y la administración de cotos. Los propietarios de terrenos y sociedades de cazadores deben cumplir con planes técnicos de gestión y están sujetos a responsabilidades por daños causados por las especies que gestionan.",
+  "keywords": [
+    "caza",
+    "Canarias",
+    "fauna silvestre",
+    "licencia de caza",
+    "conservación",
+    "gestión cinegética",
+    "cotos de caza"
+  ],
+  "key_points": [
+    "Obligatoriedad de examen de aptitud para obtener la primera licencia de caza.",
+    "Creación de nuevas figuras de gestión: cotos intensivos, cotos sociales y zonas de caza controlada.",
+    "Clasificación de terrenos en de aprovechamiento común y de régimen especial.",
+    "Establecimiento de zonas de seguridad (mínimo 50m de carreteras y 100m de núcleos urbanos) donde está prohibido disparar.",
+    "Obligación de contratar un seguro de responsabilidad civil para todos los cazadores.",
+    "Creación del Registro Regional de Infractores de Caza para centralizar sanciones.",
+    "Prohibición de métodos de captura no selectivos (venenos, trampas, etc.).",
+    "Responsabilidad de los titulares de cotos por los daños que causen las especies en sus terrenos."
+  ],
+  "legal_references": [
+    "Estatuto de Autoformía de Canarias",
+    "Ley 4/1989, de 27 de marzo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestre",
+    "Decreto 1095/1989",
+    "Ley 8/1991, de 30 de abril, de protección de los animales",
+    "Ley 14/1990, de 26 de julio, de Régimen Jurídico de las Administraciones Públicas de Canarias",
+    "Decreto 107/1986",
+    "Decreto 190/1990"
+  ],
+  "derogations": [
+    "Ley de 4 de abril de 1970 (implícita por el contexto de sustitución de la normativa anterior)"
+  ],
+  "main_obligations": "Es obligatorio poseer licencia de caza vigente, seguro de responsabilidad civil y permisos específicos para terrenos especiales. Se prohíbe la caza en épocas de veda, en zonas de seguridad y mediante métodos no selectivos como venenos o trampas. Las infracciones pueden conllevar multas de hasta 1.500.000 pesetas y la inhabilitación para cazar.",
+  "effective_date": "1998-08-01",
+  "procedures": [
+    {
+      "name": "Obtención de la Licencia de Caza",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de licencia",
+          "description": "Presentación de la solicitud ante el cabildo insular de residencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación de identidad y certificados según requisitos."
+        },
+        {
+          "step": 2,
+          "title": "Prueba de aptitud",
+          "description": "Realización de examen sobre legislación, armas, especies y ética.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Expedición de licencia",
+          "description": "Entrega del certificado de aptitud y la licencia tras el pago de tasas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Constitución de Cotos Privados de Caza",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta y Plan Técnico",
+          "description": "Elaboración de un plan técnico de caza y solicitud al cabildo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Plan técnico de caza aprobado por facultativo."
+        },
+        {
+          "step": 2,
+          "title": "Dictamen del Consejo Insular",
+          "description": "Informe preceptivo del Consejo Insular de Caza.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Autorización",
+          "description": "Resolución del cabildo insular autorizando el cotos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

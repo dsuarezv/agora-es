@@ -1,0 +1,115 @@
+{
+  "identifier": "BOE-A-1995-13297",
+  "title": "Ley 3/1995, de 21 de marzo, de la infancia de la Región de Murcia",
+  "visible_title": "Ley de la Infancia de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "3/1995",
+  "publication_date": "1995-06-02",
+  "enactment_date": "1995-03-21",
+  "last_updated": "1996-04-12",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/1995/03/21/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco de protección integral para todos los menores de 18 años en la Región de Murcia. Su objetivo es prevenir situaciones de riesgo como el abandono, la explotación o el absentismo escolar, garantizando que el interés del menor sea siempre la prioridad. Regula desde los derechos de identidad y salud hasta los procedimientos de tutela, acogimiento y adopción en casos de desamparo.",
+  "citizen_impact": "Garantiza a los menores de la región derechos específicos como ser escuchados en procesos que les afecten, proteger su identidad y recibir asistencia sanitaria y educativa adecuada. Además, impone a cualquier ciudadano la obligación de informar a las autoridades si detecta situaciones de riesgo o maltrato infantil.",
+  "professional_impact": "Los servicios sociales y profesionales de la salud deben seguir protocolos estrictos de intervención y protección. Las entidades que gestionan centros de menores están sujetas a un régimen de inspección y pueden enfrentar multas de hasta 20 millones de pesetas por infracciones muy graves, como la vulneración de la confidencialidad o el incumplimiento de normas de funcionamiento.",
+  "keywords": [
+    "infancia",
+    "protección de menores",
+    "desamparo",
+    "tutela",
+    "acogimiento",
+    "adopción",
+    "derechos del niño",
+    "Región de Murcia"
+  ],
+  "key_points": [
+    "El interés superior del menor prevalece sobre cualquier otro interés en los procedimientos administrativos.",
+    "Se establece la obligación ciudadana de denunciar situaciones de riesgo o maltrato infantil ante autoridades.",
+    "Los menores tienen derecho a ser escuchados en cualquier decisión que afecte a su esfera personal o familiar.",
+    "Se regula el sistema de acogimiento familiar y residencial como medidas para evitar la separación del núcleo familiar.",
+    "Se prohíbe la difusión de imágenes o datos que vulneren la intimidad del menor, incluso con su consentimiento.",
+    "La administración tiene la potestad de asumir la tutela de forma inmediata en casos de urgencia por riesgo grave.",
+    "Se definen sanciones económicas severas para centros que incumplan la normativa o vulneren la confidencialidad."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Ley 21/1987, de 11 de noviembre",
+    "Código Civil",
+    "Ley de Enjuiciamiento Civil",
+    "Ley Orgánica Reguladora de la Competencia y el Procedimiento de los Juzgados de Menores",
+    "Real Decreto 1113/1984",
+    "Real Decreto 81/1984",
+    "Ley 11/1986, de 19 de diciembre",
+    "Ley 8/1985, de 9 de diciembre"
+  ],
+  "derogations": [],
+  "main_obligations": "Los ciudadanos deben informar a las autoridades sobre situaciones de riesgo o absentismo escolar de menores. Los centros de atención a la infancia deben cumplir estrictamente con las normas de funcionamiento, identificación de recién nacidos y deber de confidencialidad, bajo riesgo de multas de hasta 20.000.000 de pesetas.",
+  "effective_date": "1995-06-22",
+  "procedures": [
+    {
+      "name": "Declaración de situación de desamparo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del procedimiento",
+          "description": "Se realiza un procedimiento administrativo garantizando la audiencia del menor y de sus padres/tutores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informes de equipos técnicos competentes"
+        },
+        {
+          "step": 2,
+          "title": "Resolución motivada",
+          "description": "Emisión de la resolución que decide la medida de protección y se notifica a los interesados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Impugnación",
+          "description": "Los padres o tutores pueden recurrir la medida ante la autoridad competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acogimiento con fines adoptivos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Selección y diagnóstico",
+          "description": "Valoración de la idoneidad de los solicitantes mediante diagnóstico psico-social.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Consentimiento",
+          "description": "Manifestación por escrito del consentimiento de los acogedores y, si procede, del menor (si tiene más de 12 años).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Formalización",
+          "description": "Constitución del acogimiento mediante documento privado normalizado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

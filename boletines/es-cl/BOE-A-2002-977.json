@@ -1,0 +1,178 @@
+{
+  "identifier": "BOE-A-2002-977",
+  "title": "Ley 13/2001, de 20 de diciembre, de Ordenación Farmacéutica de la Comunidad de Castilla y León",
+  "visible_title": "Ordenación Farmacéutica de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "13/2001",
+  "publication_date": "2002-01-17",
+  "enactment_date": "2001-12-20",
+  "last_updated": "2025-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2001/12/20/13",
+  "official_journal": "Boletín Oficial de Castilla y León",
+  "journal_issue": null,
+  "summary": "Esta ley organiza todo el sistema de atención farmacéutica en Castilla y León, regulando desde las farmacias de barrio hasta los servicios de los hospitales y los almacenes de distribución. Su objetivo es garantizar que cualquier ciudadano tenga acceso a medicamentos de forma segura y cercana, controlando dónde y cómo se pueden abrir nuevas farmacias. Además, establece reglas estrictas para evitar la venta ilegal o a domicilio y asegura que los medicamentos estén siempre disponibles mediante la regulación de los almacenes mayoristas. En definitiva, busca equilibrar la actividad privada de las farmacias con el interés público de la salud.",
+  "citizen_impact": "Garantiza el acceso al medicamento mediante la creación de botiquines en pueblos sin farmacia y asegura que siempre haya un profesional cualificado atendiendo. El ciudadano tiene prohibida la compra de medicamentos a domicilio o por vías no oficiales, lo que protege su salud frente a productos de dudosa procedencia. También asegura que los hospitales grandes cuenten con su propio servicio de farmacia para la atención hospitalaria.",
+  "professional_impact": "Las farmacias deben cumplir con ratios de población y distancias mínimas para poder abrir. Los titulares de farmacias mayores de 70 años en zonas no rurales deben contratar un adjunto. Los almacenes mayoristas tienen la carga de mantener stocks mínimos y contar con un Director Técnico. Se prohíbe estrictamente la publicidad de fórmulas magistrales y la propiedad de más de una oficina de farmacia por persona.",
+  "keywords": [
+    "ordenación farmacéutica",
+    "oficinas de farmacia",
+    "distribución de medicamentos",
+    "atención farmacéutica",
+    "Castilla y León",
+    "botiquines",
+    "almacenes mayoristas"
+  ],
+  "key_points": [
+    "Control de apertura de farmacias basado en población (ratios de 1.800 a 2.500 habitantes) y distancias mínimas (150-250 metros).",
+    "Prohibición absoluta de la venta de medicamentos a domicilio o mediante venta indirecta.",
+    "Obligatoriedad de botiquines en municipios sin farmacia para evitar la falta de suministro.",
+    "Los hospitales con más de 100 camas deben tener servicio de farmacia propio.",
+    "Prohibición de que una misma persona sea titular de más de una oficina de farmacia.",
+    "Los almacenes mayoristas deben garantizar stock mínimo y contar con un Director Técnico.",
+    "Prohibición de publicidad de fórmulas magistrales y preparados oficinales.",
+    "Obligación de presencia de un farmacéutico durante la dispensación.",
+    "Los depósitos en centros penitenciarios se consideran de carácter hospitalario.",
+    "Obligación de servicios de guardia y sistemas de emergencia para retirada de productos en almacenes."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 43)",
+    "Ley 14/1986, General de Sanidad",
+    "Ley 1/1993, de Ordenación del Sistema Sanitario de Castilla y León",
+    "Real Decreto 909/1978",
+    "Real Decreto-Ley 11/1996",
+    "Ley 16/1997, de Regulación de Servicios de las Oficinas de Farmacia",
+    "Ley 25/1990, del Medicamento",
+    "Ley 10/2000, de ampliación del servicio farmacéutico en Castilla y León",
+    "Ley Orgánica 11/1994",
+    "Ley Orgánica 4/1999",
+    "Decreto 199/1997",
+    "Ley Orgánica 15/1999 (Protección de Datos)",
+    "Ley 30/1992, de Régimen Jurídico de las Administraciones Públicas"
+  ],
+  "derogations": [
+    "Ley 10/2000, de 9 de diciembre"
+  ],
+  "main_obligations": "Los profesionales deben garantizar la presencia de un farmacéutico en la dispensación y los titulares mayores de 70 años en zonas no rurales deben contar con un adjunto. Los almacenes deben mantener existencias mínimas, contar con un Director Técnico y cumplir con los servicios de guardia.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Autorización de apertura de oficinas de farmacia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y concurso",
+          "description": "El interesado presenta solicitud bajo principios de publicidad y transparencia, siendo adjudicado al que obtenga mayor puntuación por criterios académicos y profesionales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "No especificada detalladamente en el fragmento"
+        },
+        {
+          "step": 2,
+          "title": "Verificación de condiciones",
+          "description": "La Administración comprueba el cumplimiento de los requisitos de local y planificación antes de conceder la autorización.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Transmisión de oficinas de farmacia (Traspaso)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Periodo de titularidad mínima",
+          "description": "Se debe haber mantenido la misma titularidad durante 3 años (o 10 años si fue por concurso).",
+          "start_date": null,
+          "end_date": "3 años o 10 años según el caso",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de autorización",
+          "description": "Tramitación de la transmisión ante la Consejería de Sanidad y Bienestar Social.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de fallecimiento del titular (Transmisión mortis causa)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Designación de regente",
+          "description": "Se nombra un farmacéutico regente para asegurar la continuidad del servicio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de transmisión",
+          "description": "Los herederos o legatarios tienen un plazo máximo para transmitir la oficina.",
+          "start_date": null,
+          "end_date": "18 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Apertura, modificación o cierre de almacenes farmacéuticos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "El interesado solicita la creación o modificación ante la Consejería de Sanidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el cumplimiento de requisitos legales y reglamentarios."
+        },
+        {
+          "step": 2,
+          "title": "Comprobación de requisitos",
+          "description": "La Consejería verifica que el solicitante cumple la normativa estatal y autonómica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Inscripción en el registro",
+          "description": "Una vez concedida la autorización, el centro se inscribe en el registro de la Comunidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de cierre de oficinas de farmacia (Comunicación de cierre)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de voluntad de cierre",
+          "description": "El titular comunica el cierre definitivo o temporal a la Administración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución administrativa",
+          "description": "La Administración debe resolver en un plazo máximo de 2 meses; si no lo hace, se entiende estimado por silencio administrativo.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

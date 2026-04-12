@@ -1,0 +1,113 @@
+{
+  "identifier": "BOE-A-2025-9388",
+  "title": "Real Decreto 391/2025, de 13 de mayo, por el que se establecen los criterios de calidad y segugetIdad de las unidades asistenciales de radioterapia",
+  "visible_title": "Criterios de calidad y seguridad en unidades de radioterapia",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de Sanidad",
+  "official_number": "391/2025",
+  "publication_date": "2025-05-14",
+  "enactment_date": "2025-05-13",
+  "last_updated": "2025-05-14",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/05/13/391",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "116",
+  "summary": "Esta norma actualiza los estándares de seguridad y calidad para todas las unidades de radioterapia en España, adaptándolos a la nueva evidencia científica y a la normativa europea. Su objetivo es garantizar que los tratamientos con radiación ionizante sean lo más precisos y seguros posible, minimizando riesgos para los pacientes. Para ello, obliga a implementar programas estrictos de control de calidad, auditorías y una gestión digitalizada de la información clínica.",
+  "citizen_impact": "Los pacientes oncológicos o que requieran radioterapia obtienen una mayor garantía de seguridad y precisión en sus tratamientos. La norma asegura que los equipos estén mejor controlados y que exista un protocolo estricto para informar al paciente sobre riesgos, beneficios y posibles errores accidentales.",
+  "professional_impact": "Los centros sanitarios y profesionales (médicos oncólogos, radiofísicos y técnicos) deben cumplir con nuevos requisitos de organización, como la creación obligatoria de una Comisión de Garantía de Calidad. Se imponen cargas de registro digital, formación continua obligatoria cada dos años y la realización de auditorías externas periódicas.",
+  "keywords": [
+    "radioterapia",
+    "seguridad radiológica",
+    "calidad asistencial",
+    "protección radiológica",
+    "oncología",
+    "control de calidad",
+    "paciente oncológico"
+  ],
+  "key_points": [
+    "Obligatoriedad de implementar un programa de garantía de calidad y seguridad en todas las unidades de radioterapia.",
+    "Creación obligatoria de una Comisión de Garantía de Calidad y Seguridad integrada por profesionales multidisciplinares.",
+    "Exigencia de auditorías externas realizadas por entidades independientes al menos cada cinco años.",
+    "Digitalización obligatoria de los registros de tratamiento mediante sistemas de información oncológica.",
+    "Obligación de formación continua para todo el personal de la unidad al menos cada dos años.",
+    "Protocolos específicos y protección reforzada para tratamientos en mujeres embarazadas.",
+    "Responsabilidad directa de la unidad de radiofísica en la validación de equipos y dosimetría.",
+    "Archivo digital obligatorio de la información clínica y dosimétrica durante un mínimo de 30 años."
+  ],
+  "legal_references": [
+    "Ley 14/1986, General de Sanidad",
+    "Real Decreto 1841/1997",
+    "Real Decreto 1566/1998",
+    "Real Decreto 1976/1999",
+    "Real Decreto 601/2019",
+    "Directiva 2013/59/Euratom",
+    "Ley 40/2015, de Régimen Jurídico del Sector Público",
+    "Ley 39/2015, del Procedimiento Administrativo Común",
+    "Real Decreto 1277/2003",
+    "Ley 41/2002, de Autonomía del Paciente",
+    "Real Decreto 1090/2015, de Ensayos Clínicos",
+    "Ley 33/2011, General de Salud Pública",
+    "Real Decreto 1217/2024, del Reglamento de Instalaciones Nucleares y Radiactivas",
+    "Ley Orgánica 3/2018, de Protección de Datos Personales"
+  ],
+  "derogations": [
+    "Real Decreto 1566/1998, de 17 de julio, por el que se establecen los criterios de calidad en radioterapia"
+  ],
+  "main_obligations": "Los titulares de centros deben crear una Comisión de Garantía de Calidad, implantar un programa de seguridad escrito y garantizar auditorías externas. Además, deben remitir a la autoridad sanitaria el programa de calidad antes de iniciar la actividad o ante cambios tecnológicos significativos.",
+  "effective_date": "2025-05-15",
+  "procedures": [
+    {
+      "name": "Implementación del Programa de Garantía de Calidad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Confección y aprobación del programa",
+          "descrption": "La Comisión de Garantía de Calidad debe elaborar y aprobar el programa de seguridad y calidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Programa de garantía de calidad y seguridad por escrito"
+        },
+        {
+          "step": 2,
+          "title": "Remisión a la autoridad sanitaria",
+          "descrption": "Envío del programa a la autoridad competente antes de comenzar la actividad o ante cambios relevantes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Ejemplar del programa de garantía de calidad"
+        },
+        {
+          "step": 3,
+          "title": "Adaptación de la Comisión existente",
+          "descrption": "Los centros actuales deben adaptar sus comisiones a la nueva composición legal.",
+          "start_date": null,
+          "end_date": "6 meses desde la entrada en vigor",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Proceso de Auditoría",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Auditoría interna",
+          "descrption": "Revisión periódica realizada por personal de la propia institución.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe anual de la comisión"
+        },
+        {
+          "step": 2,
+          "title": "Auditoría externa",
+          "descrption": "Evaluación por una entidad independiente designada por la autoridad sanitaria.",
+          "start_date": null,
+          "end_date": "Cada 5 años",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

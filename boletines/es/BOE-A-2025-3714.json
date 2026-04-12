@@ -1,0 +1,78 @@
+{
+  "identifier": "BOE-A-2025-3714",
+  "title": "Orden PJC/173/2025, de 21 de febrero, por la que se aprueba la norma específica de peritacación de daños en las producciones de planta ornamental cultivada en contenedor con ciclo de cultivo inferior al año en los cultivos de arbustos, aromáticas, medicinales y culinarias, planta de temporada, trepadoras y planta de interior amparados por el seguro agrario combinado",
+  "visible_title": "Norma de peritacación de daños para producciones de planta ornamental en contenedor con ciclo inferior al año",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes",
+  "official_number": "PJC/173/2025",
+  "publication_date": "2025-02-25",
+  "enactment_date": "2025-02-21",
+  "last_updated": "2025-02-25",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2025/02/21/pjc173",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "48",
+  "summary": "Esta norma establece por primera vez los criterios técnicos para evaluar y tasar los daños en cultivos de planta ornamental (arbustos, aromáticas, plantas de interior, etc.) que se producen en contenedor y tienen un ciclo de vida de menos de un año. Su objetivo es dar seguridad jurídica y transparencia al sistema de Seguro Agrario Combinado, permitiendo que los peritos tengan una metodología clara para calcular pérdidas tanto en cantidad de plantas como en calidad (estética y tamaño). Con esto se busca evitar la arbitrariedad en las indemnizaciones y mejorar la estabilidad del sistema de seguros para este sector específico.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta directamente a agricultores de plantas ornamentales, aseguradoras y peritos agrarios. Los agricultores obtienen un método de valoración más justo y predecible para sus siniestros, mientras que los peritos deben seguir estrictamente los nuevos protocolos de muestreo y cálculo de daños (regenerables vs no regenerables).",
+  "keywords": [
+    "seguro agrario combinado",
+    "peritación de daños",
+    "planta ornamental",
+    "cultivo en contenedor",
+    "tasación de siniestros",
+    "agricultura"
+  ],
+  "key_points": [
+    "Crea una norma de valoración específica para plantas ornamentales de ciclo corto (menos de un año).",
+    "Establece un sistema de muestreo basado en la densidad de plantas por metro cuadrado.",
+    "Diferencia claramente entre productos 'regenerables' (que recuperan su valor tras poda) y 'no regenerables'.",
+    "Define fórmulas matemáticas para calcular la pérdida económica en plantas que requieren intervención para recuperar su tamaño.",
+    "Establece un plazo de 7 días para la inspección inmediata tras la comunicación del siniestro.",
+    "Obliga al asegurado a mantener el cultivo hasta la tasación definitiva para permitir la comprobación."
+  ],
+  "legal_references": [
+    "Ley 87/1978, de 28 de diciembre, de Seguros Agrarios Combinados",
+    "Real Decreto 2329/1979, de 14 de septiembre",
+    "Orden PRE/632/2003, de 14 de marzo",
+    "Ley 39/2015, de 1 de octubre",
+    "Ley 50/1997, de 27 de noviembre"
+  ],
+  "derogations": [],
+  "main_obligations": "El asegurado debe mantener el cultivo intacto hasta que se realice la tasación definitiva, salvo que haya una impugnación en curso. Los peritos deben realizar la inspección inmediata en un plazo de 7 días tras la notificación a Agroseguro.",
+  "effective_date": "2025-02-26",
+  "procedures": [
+    {
+      "name": "Procedimiento de peritacación de daños",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación del siniestro",
+          "description": "El asegurado comunica el siniestro a la entidad aseguradora/Agroseguro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración de siniestro"
+        },
+        {
+          "step": 2,
+          "title": "Inspección inmediata",
+          "description": "Comprobación de documentos y visita de campo para verificar la naturaleza del daño.",
+          "start_date": "7 días desde la recepción de la comunicación",
+          "end_date": null,
+          "required_documentation": "Declaración de seguro y de siniestro"
+        },
+        {
+          "step": 3,
+          "title": "Tasación definitiva",
+          "description": "Valoración final de daños en cantidad y calidad, realizada preferiblemente antes de la recolección.",
+          "start_date": "7 días desde la recepción de la comunicación (si no hay inspección previa)",
+          "end_date": "Antes de la recolección",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

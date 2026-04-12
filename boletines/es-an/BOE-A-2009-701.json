@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-2009-701",
+  "title": "Ley 2/2008, de 10 de diciembre, que regula el acceso de los municipios andaluces al régimen de organización de los municipios de gran población",
+  "visible_title": "Regulación del acceso de municipios andaluces al régimen de gran población",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "2/2008",
+  "publication_date": "2009-01-15",
+  "enactment_date": "2008-12-10",
+  "last_updated": "2008-12-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2008/12/10/2",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": null,
+  "summary": "Esta ley establece el procedimiento para que los municipios de Andalucía (capitales de provincia, sedes de instituciones autonómicas o ciudades de más de 75.000 habitantes con características especiales) soliciten pasar al régimen de organización de 'gran población'. El objetivo es permitir que ciudades con gran volumen de gestión y recursos económicos puedan adoptar una estructura administrativa más compleja y eficiente. La norma evita tener que tramitar una ley individual para cada municipio, permitiendo que el Parlamento de Andalucía decida sobre estas solicitudes mediante un procedimiento regulado.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo que una mejor organización municipal pueda derivar en servicios públicos más eficientes o especializados en sus ciudades.",
+  "professional_impact": "Afecta directamente a los ayuntamientos y funcionarios municipales, que deberán elaborar memorias técnicas exhaustivas y acreditar datos económicos, sociales y culturales para la solicitud. Los técnicos municipales deberán gestionar una carga administrativa significativa para demostrar que el municipio cumple con los requisitos de infraestructura y gestión necesarios.",
+  "keywords": [
+    "municipios de gran población",
+    "régimen local",
+    "Andalucía",
+    "organización municipal",
+    "gestión local",
+    "ayuntamientos"
+  ],
+  "key_points": [
+    "Permite a municipios de más de 75.000 habitantes con características especiales solicitar el régimen de gran población.",
+    "Las capitales de provincia y sedes de instituciones autonómicas tienen acceso simplificado tras constatar requisitos.",
+    "La iniciativa debe ser aprobada por mayoría absoluta del Pleno del Ayuntamiento en sesión extraordinaria.",
+    "Se exige una memoria justificativa detallada que incluya datos económicos, sociales, históricos y culturales.",
+    "El Parlamento de Andalucía es el órgano encargado de decidir la inclusión del municipio en este régimen.",
+    "Una vez aprobada la solicitud, el municipio tiene un plazo de 6 meses para adaptar su organización normativa."
+  ],
+  "legal_references": [
+    "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+    "Ley 57/2003, de 16 de diciembre, de medidas para la modernización del gobierno local",
+    "Estatuto de Autonomía para Andalucía"
+  ],
+  "derogations": [
+    "Cualquier disposición de igual o inferior rango que se oponga a esta ley"
+  ],
+  "main_obligations": "Los ayuntamientos que soliciten el cambio deben obtener el acuerdo por mayoría absoluta del Pleno y presentar una memoria técnica con documentación acreditativa (INE, presupuestos, infraestructuras, etc.) en un plazo de un mes tras el acuerdo.",
+  "effective_date": "2009-01-16",
+  "procedures": [
+    {
+      "name": "Acceso al régimen de organización de municipios de gran población",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo del Pleno Municipal",
+          "description": "El Pleno del Ayuntamiento debe aprobar la solicitud por mayoría absoluta en sesión extraordinaria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificación del acuerdo del Pleno y memoria justificativa."
+        },
+        {
+          "step": 2,
+          "title": "Presentación de la solicitud al Parlamento",
+          "description": "El Alcalde dirige la solicitud al Presidente del Parlamento de Andalucía.",
+          "start_date": "1 mes desde el acuerdo del Pleno",
+          "end_date": null,
+          "required_documentation": "Certificación del acuerdo, certificado de población del INE y memoria justificativa con datos económicos, sociales, históricos y culturales."
+        },
+        {
+          "step": 3,
+          "title": "Tramitación parlamentaria",
+          "description": "El Parlamento de Andalucía valora la solicitud y decide sobre la inclusión del municipio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Adaptación de la organización municipal",
+          "description": "Si la decisión es favorable, el municipio debe adaptar sus normas de organización.",
+          "start_date": "Desde la notificación de la decisión",
+          "end_date": "6 meses",
+          "required_documentation": "Publicación de la nueva organización en el Boletín Oficial de la provincia."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

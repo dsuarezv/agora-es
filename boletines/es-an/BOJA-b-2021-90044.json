@@ -1,0 +1,83 @@
+{
+  "identifier": "BOJA-b-2021-90044",
+  "title": "Decreto-ley 2/2021, de 2 de febrero, por el que se modifican, con carácter urgente, la normativa de admisión del alumnado en los centros docentes públicos y privados concertados de la Comunidad Autónoma de Andalucía y otras disposiciones normativas, y se regulan los estudios con finalidad de diagnóstico precoz o de detección de casos de infección activa (cribados) dentro de la Comunidad Autónoma de Andalucía",
+  "visible_title": "Modificación de la normativa de admisión escolar, regulación de cribados COVID-19 y medidas de apoyo al sector cultural y acuícola en Andalucía",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "2/2021",
+  "publication_date": "2021-02-05",
+  "enactment_date": "2021-02-02",
+  "last_updated": "2021-02-05",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOJA-b-2021-90044",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": "b-2021-90044",
+  "summary": "Esta norma introduce cambios urgentes en la gestión educativa, sanitaria y económica de Andalucía debido a la crisis de la COVID-19. Adapta los criterios de admisión escolar a la nueva normativa estatal, establece un control estricto para la realización de test de detección masiva (cribados) por parte de entidades privadas o locales, y prorroga ayudas para los sectores cultural y acuícola afectados por la pandemia.",
+  "citizen_impact": "Las familias verán actualizados los criterios y procedimientos para solicitar plaza escolar en centros públicos y concertados. Además, se garantiza la continuidad de ayudas económicas para profesionales de la cultura y empresas acuícolas que han perdido ingresos por la pandemia.",
+  "professional_impact": "Los centros educativos deben ajustar sus procesos de admisión. Las entidades privadas o locales que quieran realizar cribados de COVID-19 ahora están obligadas a seguir un protocolo de información y obtener un informe vinculante de Salud Pública. Los profesionales de la cultura y acuicultura tienen extendidos sus plazos de subvención.",
+  "keywords": [
+    "admisión escolar",
+    "cribados COVID-19",
+    "salud pública",
+    "ayudas sector cultural",
+    "acuicultura",
+    "Andalucía"
+  ],
+  "key_points": [
+    "Adaptación de los criterios de admisión de alumnos en centros públicos y concertados a la Ley Orgánica 3/2020.",
+    "Obligatoriedad de informe vinculante de Salud Pública para realizar cribados de COVID-19 por parte de terceros.",
+    "Requisito de enviar documentación técnica a la Dirección General de Salud Pública 5 días antes de iniciar cualquier cribado.",
+    "Prórroga de las medidas de reactivación del sector cultural para el ejercicio 2021.",
+    "Nuevas ayudas para empresas acuícolas para compensar la pérdida de ingresos entre agosto y diciembre de 2020.",
+    "Asignación temporal de la gestión presupuestaria de la Agencia Digital de Andalucía a la Consejería de la Presidencia."
+  ],
+  "legal_references": [
+    "Ley Orgánica 2/2006",
+    "Ley Orgánica 3/2020",
+    "Decreto 21/2020",
+    "Orden de 20 de febrero de 2020",
+    "Ley 16/2003",
+    "Real Decreto-ley 21/2020",
+    "Ley 16/2011",
+    "Decreto-ley 23/2020",
+    "Ley 3/2016",
+    "Decreto-ley 13/2020"
+  ],
+  "derogations": [],
+  "main_obligations": "Los promotores de cribados (públicos o privados) deben remitir documentación detallada a la Dirección General de Salud Pública al menos 5 días antes de su inicio. Los resultados de dichos estudios deben entregarse en un plazo máximo de 24 horas tras su finalización.",
+  "effective_date": "2021-02-05",
+  "procedures": [
+    {
+      "name": "Procedimiento de realización de estudios o cribados poblacionales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Remisión de documentación",
+          "description": "El promotor debe enviar identificación, motivación sanitaria, criterios de selección, protocolo y consentimiento informado.",
+          "start_date": "5 días antes del inicio previsto",
+          "end_date": null,
+          "required_documentation": "Informe de motivación, protocolo de actuación, criterios de selección, medidas de gestión de residuos y requerimientos de consentimiento informado."
+        },
+        {
+          "step": 2,
+          "title": "Evaluación del Comité Territorial",
+          "description": "El Comité emite un informe preceptivo y vinculante sobre la adecuación del estudio.",
+          "start_date": "Tras la recepción de documentos",
+          "end_date": "48 horas",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Entrega de resultados",
+          "description": "Entrega del informe final con los resultados obtenidos a la Dirección General de Salud Pública.",
+          "start_date": null,
+          "end_date": "24 horas tras la finalización",
+          "required_documentation": "Informe final de resultados e incidencias."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

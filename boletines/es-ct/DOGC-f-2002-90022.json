@@ -1,0 +1,103 @@
+{
+  "identifier": "DOGC-f-2002-90022",
+  "title": "Decreto Legislativo 1/2002, de 24 de diciembre, por el que se aprueba el Texto refundido de la Ley de patrimonio de la Generalidad de Cataluña",
+  "visible_title": "Ley de patrimonio de la Generalidad de Cataluña",
+  "rank": "decreto legislativo",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "1/2002",
+  "publication_date": "2002-12-31",
+  "enactment_date": "2002-12-24",
+  "last_updated": "2023-03-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=DOGC-f-2002-90022",
+  "official_journal": "DOGC",
+  "journal_issue": null,
+  "summary": "Esta norma unifica y ordena toda la legislación previa sobre los bienes y derechos que pertenecen a la Generalitat de Catalunya. Establece cómo se clasifican sus propiedades (públicas o privadas), cómo se pueden adquirir, vender o alquilar, y cómo se deben proteger. Su objetivo es dar seguridad jurídica y una gestión eficiente de los recursos materiales del gobierno catalán.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en casos muy específicos de uso de espacios públicos o concesiones administrativas.",
+  "professional_impact": "Afecta directamente a funcionarios de la administración catalana y empresas que contraten con ella, imponiendo reglas estrictas para la gestión de inmuebles, la contratación de seguros y la realización de obras. Las empresas que operen en entornos de investigación o tecnología tienen facilidades para la contratación directa de inmuebles.",
+  "keywords": [
+    "patrimonio público",
+    "bienes de dominio público",
+    "bienes patrimoniales",
+    "gestión de inmuebles",
+    "enajenación de bienes",
+    "Generalitat de Catalunya",
+    "concesiones administrativas"
+  ],
+  "key_points": [
+    "Clasificación clara de los bienes en dominio público (uso general) y dominio privado (patrimoniales).",
+    "Los bienes de dominio público son inalienables, imprescriptibles e inembargables.",
+    "Regulación estricta para la venta (enajenación) de inmuebles, priorizando la subasta pública.",
+    "Procedimiento para la adquisición de bienes mediante donaciones o herencias, siempre a beneficio de inventario.",
+    "Obligación de los departamentos de elaborar planes de mantenimiento para los inmuebles asignados.",
+    "Posibilidad de adjudicación directa en casos específicos como la venta a colindantes o bienes de bajo valor.",
+    "Creación de un inventario general digitalizado para el control de todos los activos de la Generalitat."
+  ],
+  "legal_references": [
+    "Ley 11/1981, de 7 de diciembre, de patrimonio de la Generalidad de Cataluña",
+    "Ley 21/2001, de 28 de diciembre, de medidas fiscales y administrativas",
+    "Ley 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas",
+    "Ley 4/1985, de 29 de marzo, del Estatuto de la empresa pública catalana",
+    "Decreto legislativo 2/2002, de 24 de diciembre"
+  ],
+  "derogations": [
+    "Ley 11/1981, de 7 de diciembre, de patrimonio de la Generalidad de Cataluña (integrada en este texto refundido)"
+  ],
+  "main_obligations": "Los gestores de bienes deben asegurar su custodia y conservación, siendo responsables por negligencia o fraude. Los particulares que usurpen o dañen el dominio público deben reparar el daño y pueden enfrentar multas de hasta el doble del perjuicio causado.",
+  "effective_date": "2002-12-31",
+  "procedures": [
+    {
+      "name": "Enajenación de bienes inmuebles mediante subasta",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación del expediente",
+          "description": "El Consejero de Economía o el Gobierno aprueban la venta según el valor del bien.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Tasación pericial"
+        },
+        {
+          "step": 2,
+          "title": "Constitución de garantía",
+          "description": "Los licitadores deben depositar entre el 5% y el 25% del tipo de licitación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Celebración de la subasta",
+          "description": "Procedimiento público para la adjudicación del bien al mejor postor.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aceptación de herencias o legados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Informe del departamento competente",
+          "description": "El consejero competente emite un informe sobre la utilidad de la herencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Decisión de aceptación",
+          "description": "Se acepta siempre a beneficio de inventario para no asumir deudas del fallecido.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

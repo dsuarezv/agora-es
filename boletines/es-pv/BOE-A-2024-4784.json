@@ -1,0 +1,658 @@
+{
+  "identifier": "BOE-A-2024-4784",
+  "title": "Ley 2/2024, de 15 de febrero, de Infancia y Adolescencia",
+  "visible_title": "Ley de Infancia y Adolescencia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "2/2024",
+  "publication_date": "2024-03-12",
+  "enactment_date": "2024-02-15",
+  "last_updated": "2024-02-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2024/02/15/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley transforma radicalmente el modelo de protección de menores en el País Vasco, pasando de un enfoque de mera protección a uno de reconocimiento de los menores como sujetos plenos de derechos. Introduce mecanismos de intervención temprana para prevenir la desprotección, regula la adopción abierta y garantiza el derecho de los menores a conocer su origen biológico. Además, establece un sistema de información unificado y endurece las prohibiciones sobre el uso de la fuerza y la publicidad dirigida a la infancia. El objetivo es crear un entorno seguro y participativo que priorice el interés superior del menor en todas las decisiones.",
+  "citizen_impact": "Los ciudadanos tienen ahora el deber legal de comunicar cualquier sospecha de violencia o desprotección infantil. Las familias pueden acceder a la 'adopción abierta' para mantener vínculos con la familia de origen y los menores tienen garantizado el derecho a conocer su identidad biológica. Se refuerza la protección de la imagen de menores víctimas y se prohíbe la publicidad infantil explotadora.",
+  "professional_impact": "Profesionales de la educación, salud, deporte y servicios sociales deben seguir nuevos protocolos de detección de violencia y formación especializada obligatoria. Los centros educativos y deportivos deben designar un delegado de protección. Se imponen sanciones administrativas severas (hasta 600.000 €) por incumplimientos y se establece la obligación de acreditar la ausencia de antecedentes de delitos sexuales para trabajar con menores.",
+  "keywords": [
+    "infancia",
+    "adolescencia",
+    "protección de menores",
+    "derechos del menor",
+    "adopción abierta",
+    "violencia infantil",
+    "País Vasco",
+    "acogimiento"
+  ],
+  "key_points": [
+    "Reconocimiento de los menores como sujetos activos de derechos y no solo receptores de protección.",
+    "Creación de la 'adopción abierta' para mantener vínculos con la familia de origen tras la adopción.",
+    "Derecho garantizado de los menores a conocer sus datos de origen biológico con asesoramiento de las Diputaciones Forales.",
+    "Prohibición absoluta de la contención mecánica (sujeción a camas o muebles) en centros de menores.",
+    "Establecimiento de un deber de comunicación de violencia o desprotección para toda la ciudadanía y un deber cualificado para profesionales.",
+    "Creación de la figura de 'declaración de riesgo' para intervenir en familias antes de que se produzca la desprotección.",
+    "Prioridad absoluta del acogimiento familiar frente al residencial, especialmente para menores de 6 años.",
+    "Implementación de contenidos obligatorios de seguridad digital en todas las etapas educativas.",
+    "Creación del Sistema Vasco de Información sobre la Infancia y la Adolescencia para centralizar datos de salud, educación y servicios sociales.",
+    "Prohibición de la publicidad que use elementos de fantasía para explotar la ingenuidad infantil.",
+    "Obligatoriedad de designar una persona delegada de protección en entidades deportivas y centros que trabajen con menores.",
+    "Prohibición de realizar pruebas médicas invasivas para determinar la edad de menores en situación de duda."
+  ],
+  "legal_references": [
+    "Convenio sobre los Derechos del Niño (1989)",
+    "Convenio sobre los Derechos de las Personas con Discapacidad (2006)",
+    "Convenio de La Haya sobre adopción internacional (1993)",
+    "Ley Orgánica 1/1996 de Protección Jurídica del Menor",
+    "Ley Orgánica 5/2000 de responsabilidad penal de menores",
+    "Ley Orgánica 8/2015 de modificación del sistema de protección",
+    "Ley Orgánica 26/2015 de modificación del sistema de protección",
+    "Ley Orgánica 8/2021 de protección integral frente a la violencia",
+    "Ley 3/2005 de Atención y Protección a la Infancia y la Adolescencia (País Vasco)",
+    "Constitución Española",
+    "Sentencia 36/2021, de 18 de febrero, del Tribunal Constitucional",
+    "Código Civil",
+    "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+    "Ley 6/2022, de 30 de junio, del procedimiento de elaboración de las disposiciones de carácter general",
+    "Ley Orgánica 1/1996, de 10 de enero, de Asistencia Jurídica Gratuita",
+    "Observación General del Comité de Derechos del Niño n.º 14 de las Naciones Unidas",
+    "Ley Orgánica 8/1985, de 3 de julio, reguladora del Derecho a la Educación",
+    "Ley 2/2023, de 30 de marzo, de la Actividad Física y el Deporte del País Vasco",
+    "Ley 41/2002, de 14 de julio, básica reguladora de la autonomía del paciente",
+    "Ley 17/2023, de 21 de diciembre, de Educación de la Comunidad Autónoma del País Vasco",
+    "Ley 3/2015, de 18 de junio, de Vivienda",
+    "Ley 20/1997, de 30 de diciembre, de la promoción de la accesibilidad",
+    "Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual",
+    "Ley 1/2016, de 10 de febrero, de Atención Integral de Adicciones y Drogodependencias",
+    "Ley 4/1991, de 24 de junio, reguladora del juego (País Vasco)",
+    "Ley 10/2015, de 23 de diciembre, de Espectáculos Públicos y Actividades Recreativas",
+    "Ley 13/2008, de 12 de diciembre, de Apoyo a las Familias",
+    "Decreto 154/2012, de 24 de julio, sobre el sistema de estandarización de la renta familiar",
+    "Decreto 32/2015, de 17 de marzo, de modificación del Decreto sobre el sistema de estandarización de la renta familiar",
+    "Texto Refundido de la Ley de Gestión de Emergencias (Decreto Legislativo 1/2017)",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Ley 4/2015, de 27 de mayo, del Estatuto de la Víctima del Delito",
+    "Ley 1/2000, de 7 de enero, de Enjuiciamiento Civil",
+    "Ley 12/2008, de 5 de diciembre, de Servicios Sociales",
+    "Ley 20/2013 de Garantía de la Unidad de Mercado",
+    "Ley Orgánica 5/2000, de 15 de enero, de Responsabilidad Penal de los Menores",
+    "Ley 54/2007, de 28 de diciembre, de Adopción Internacional",
+    "Ley Orgánica 10/1995, del Código Penal",
+    "Ley 3/2022, de 12 de mayo, del Sector Público Vasco",
+    "Ley 1/2023, de 16 de marzo, de la potestad sancionadora de las Administraciones Públicas Vascas",
+    "Ley 40/2015, de 1 de diciembre, de Régimen Jurídico del Sector Público",
+    "Decreto Legislativo 1/2023, de 1 de enero, del Texto Refundido de la Ley para la Igualdad de Mujeres y Hombres y para la Vida Libre de Violencia Machista contra las Mujeres"
+  ],
+  "derogatons": [
+    "Ley 3/2005, de 18 de febrero, de Atención y Protección a la Infancia y la Adolescencia"
+  ],
+  "main_obligations": "Los profesionales deben realizar formación especializada anual y acreditar la ausencia de delitos sexuales. Las administraciones deben garantizar la atención temprana gratuita (0-6 años) y los centros educativos deben designar un coordinador de bienestar y un delegado de protección.",
+  "effective_date": "2024-09-12",
+  "procedures": [
+    {
+      "name": "Declaración de situación de riesgo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Detección y valoración",
+          "description": "Identificación de dificultades familiares o sociales que podrían derivar en desprotección.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Adopción de la declaración",
+          "description": "Actuación como agente de cambio de comportamiento en los deberes parentales para evitar la separación del menor.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Valoración e intervención",
+          "description": "Los servicios sociales municipales inician un proyecto de intervención social y educativo familiar.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución administrativa",
+          "description": "El órgano competente dicta la resolución motivada tras audiencia de los interesados.",
+          "start_date": null,
+          "end_date": "Plazo máximo de implementación del proyecto: 6 meses (prorrogables por dos periodos de 6 meses)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Guarda provisional por urgencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Atención inmediata",
+          "description": "Actuación de los servicios sociales para cubrir necesidades básicas ante peligro inminente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de resolución",
+          "description": "Máximo tiempo para proceder a la declaración de desprotección o medida de protección definitiva.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Comunicación de sospechas de violencia o desprotección",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Detección y comunicación inmediata",
+          "description": "Cualquier persona que advierta indicios de violencia o desprotección debe comunicarlo de inmediato a la autoridad competente (Ertzaintza, Policía, Servicios Sociales o Fiscalía).",
+          "start_date": "Inmediata tras la detección",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Evaluación de impacto normativo en la infancia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración de la memoria de impacto",
+          "description": "La administración que promueve una norma debe incluir una evaluación específica sobre cómo afectará a la infancia y adolescencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria de análisis de impacto normativo"
+        },
+        {
+          "step": 2,
+          "title": "Información del Observatorio",
+          "description": "El Observatorio de la Infancia y la Adolescencia verifica la correcta aplicación de la evaluación y propone mejoras.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de escucha y participación del menor",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Identificación de necesidad de participación",
+          "description": "Se determina que la resolución afecta al interés superior del menor.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Designación de asistencia",
+          "description": "Se asigna representante legal o defensor judicial en caso de conflicto de intereses.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Audiencia del menor",
+          "description": "Realización de la comparecencia con lenguaje adaptado, profesional cualificado y respeto a la intimidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Valoración y resolución",
+          "description": "Se integra la opinión del menor en la resolución final, motivando cualquier decisión que la ignore.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Alojamiento de menores en establecimientos hoteleros",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de alojamiento",
+          "description": "El menor de 16 años solicita el alojamiento sin acompañamiento o consentimiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Notificación obligatoria",
+          "description": "El responsable del establecimiento debe informar a los progenitores o a la autoridad policial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Intervención por absentismo o deseccolarización",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Detección",
+          "description": "Identificación de la falta de asistencia o escolarización.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Determinación de causas",
+          "description": "La Administración educativa analiza si la causa es familiar, de acoso o emocional.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aplicación de medidas",
+          "description": "Ejecución de apoyos educativos, psicológicos o de intervención familiar.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Atención y protección ante situaciones de violencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Detección y comunicación",
+          "description": "Comunicación inmediata de indicios de violencia a servicios sociales, policía o fiscalía.",
+          "start_date": "Inmediata",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Atención inmediata y medidas de urgencia",
+          "description": "Intervención de autoridades para asegurar la integridad física o retención en centros sanitarios/educativos si hay peligro inminente.",
+          "start_date": "Inmediata",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Valoración de la situación",
+          "description": "Investigación y valoración por servicios sociales para determinar si existe riesgo o desprotección.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Adopción de medidas de protección",
+          "description": "Implementación de medidas administrativas (guarda provisional) o judiciales según la gravedad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Determinación de la edad de menores",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instancia de duda",
+          "description": "Solicitud al Ministerio Fiscal de diligencias para averiguar la edad ante dudas sobre la identidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Pruebas médicas",
+          "description": "Realización de pruebas médicas bajo principio de celeridad y consentimiento informado, evitando pruebas invasivas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de desamparo (Procedimiento Ordinario)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del procedimiento",
+          "description": "Solicitud de informes a médicos, docentes, policía y servicios sociales, y escucha al menor.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informes de ámbitos educativo, sanitario, policial y social"
+        },
+        {
+          "step": 2,
+          "title": "Trámite de audiencia",
+          "description": "Se pone el expediente a disposición de los interesados para alegaciones.",
+          "start_date": null,
+          "end_date": "10 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Propuesta de resolución",
+          "description": "El servicio territorial emite informe técnico y propuesta al órgano colegiado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución final",
+          "description": "Dictado de la resolución administrativa que declara el desamparo y asume la tutela.",
+          "start_date": null,
+          "end_date": "Plazo máximo de resolución: 6 meses (prorrogables por 3 meses)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración preventiva de desamparo (Procedimiento de Urgencia)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Resolución inmediata",
+          "description": "Tras oír al menor, se dicta resolución de desamparo y medidas provisionales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Tramitación ordinaria",
+          "description": "El expediente continúa el proceso ordinario para confirmar o extinguir la medida.",
+          "start_date": "Inmediato tras la resolución de urgencia",
+          "end_date": "6 meses (según procedimiento ordinario)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Guarda Voluntaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y acreditación",
+          "description": "Los representantes legales solicitan la guarda acreditando circunstancias graves y transitorias.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de circunstancias graves y transitorias"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de asunción",
+          "description": "La diputación formaliza la guarda mediante resolución escrita.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acuerdo de entrega voluntaria firmado"
+        },
+        {
+          "step": 3,
+          "title": "Duración de la medida",
+          "description": "Periodo de la guarda con posibilidad de prórroga excepcional.",
+          "start_date": null,
+          "end_date": "Máximo 2 años (prorrogable por 1 año más)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Elaboración y seguimiento del Plan Individualizado de Protección",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del plan",
+          "description": "Creación de objetivos y medidas de intervención adaptadas a las necesidades del menor.",
+          "start_date": "Al asumir la tutela o guarda",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Revisión periódica",
+          "description": "Evaluación del progreso y adecuación de las medidas.",
+          "start_date": "Cada 3 meses (menores < 3 años) o cada 6 meses (resto)",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reintegración familiar",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Evaluación de condiciones",
+          "description": "Comprobación de evolución positiva de la familia y opinión favorable del menor.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe técnico de servicios sociales municipales (si es necesario)"
+        },
+        {
+          "step": 2,
+          "title": "Seguimiento post-reintegración",
+          "description": "Acompañamiento y apoyo a la familia tras el retorno del menor.",
+          "start_date": "Desde el cese de la medida de protección",
+          "end_date": "Mínimo 6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aplicación de medidas de contención física",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Intento de desescalada",
+          "description": "Uso de técnicas verbales y gestión emocional para reducir la tensión.",
+          "start_date": "Inmediato",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Contención física excepcional",
+          "description": "Interposición, restricción de movimientos o inmovilización por personal especializado.",
+          "start_date": "Tras fracaso de desescalada",
+          "end_date": "Tiempo estrictamente necesario",
+          "required_documentation": "Registro en Libro de Incidencias y expediente individual"
+        },
+        {
+          "step": 3,
+          "title": "Revisión médica",
+          "description": "Exploración física obligatoria por facultativo médico.",
+          "start_date": "Tras la medida",
+          "end_date": "Máximo 48 horas",
+          "required_documentation": "Parte médico"
+        },
+        {
+          "step": 4,
+          "title": "Notificación",
+          "description": "Comunicación inmediata a la Diputación Foral y al Ministerio Fiscal.",
+          "start_date": "Inmediato",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Ingreso en centros de protección específicos (conducta)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "La Diputación Foral o el Ministerio Fiscal solicitan el ingreso ante el juzgado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informes psicoociales del equipo técnico"
+        },
+        {
+          "step": 2,
+          "title": "Autorización judicial",
+          "description": "El juzgado debe autorizar el ingreso de forma previa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ratificación de urgencia (si aplica)",
+          "description": "Si el ingreso es urgente, se comunica al juzgado en 24h para su ratificación en 72h.",
+          "start_date": "Dentro de las 24h tras el ingreso",
+          "end_date": "72 horas tras la comunicación",
+          "required_documentation": "Información justificativa del ingreso"
+        }
+      ]
+    },
+    {
+      "name": "Proceso de Adopción",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Ofrecimiento e Idoneidad",
+          "description": "Presentación de la solicitud y valoración psicosocial de la familia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de convivencia (2 años si es pareja de hecho)"
+        },
+        {
+          "step": 2,
+          "title": "Declaración de Idoneidad",
+          "description": "Emisión de la resolución de idoneidad por la Diputación Foral.",
+          "start_date": null,
+          "end_date": "Válida por 3 años",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Propuesta de adopción",
+          "description": "La Diputación Foral propone la adopción ante la autoridad judicial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Guarda con fines de adopción",
+          "description": "Delegación de la guarda para periodo de adaptación.",
+          "start_date": "Tras resolución administrativa",
+          "end_date": "3 meses (prorrogable hasta 1 año)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Disciplinario en Centros de Internamiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comisión de la infracción",
+          "description": "Se identifica una conducta que infringe las normas del centro (leve, grave o muy grave).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Derecho a ser oído y aportar pruebas",
+          "description": "El menor tiene derecho a defenderse y presentar pruebas antes de la sanción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Imposición de la sanción",
+          "description": "Aplicación de la sanción según la gravedad; las graves y muy graves las impone el director.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Comunicación judicial",
+          "description": "Si la falta es grave o muy grave, se comunica obligatoriamente al Juez de Menores y al Ministerio Fiscal.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acceso a profesiones con contacto con menores",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de antecedentes",
+          "description": "El candidato debe aportar certificación negativa del Registro Central de Delincuentes Sexuales y de Trata.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificación negativa del Registro Central de Delincuentes Sexuales y de Trata de Seres Humanos"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador Administrativo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del expediente",
+          "description": "Apertura del procedimiento por la autoridad competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y resolución",
+          "description": "Tramitación del expediente siguiendo la normativa de la Administración Pública Vasca.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ejecución de la sanción",
+          "description": "Aplicación de la multa, inhabilitación o cierre del centro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Evaluación de impacto de la Ley",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Evaluación periódica",
+          "description": "El Gobierno Vasco debe realizar una evaluación del impacto social, jurídico y económico.",
+          "start_date": "Cada 4 años desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 11
+}

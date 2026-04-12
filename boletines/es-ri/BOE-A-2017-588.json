@@ -1,0 +1,112 @@
+{
+  "identifier": "BOE-A-2017-588",
+  "title": "Ley 1/2017, de 3 de enero, del control del potencial vitícola en la Comunidad Autónoma de La Rioja",
+  "visible_title": "Ley del control del potencial vitícola en La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "1/2017",
+  "publication_date": "2017-01-20",
+  "enactment_date": "2017-01-03",
+  "last_updated": "2024-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2017/01/03/1",
+  "official_journal": "Boletín Oficial de La Rioja",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas para controlar cuántas vides se pueden plantar en La Rioja para evitar la sobreproducción y la especulación. Regula quién puede plantar, cómo se debe registrar el viñedo y qué ocurre si se planta sin permiso. Su objetivo es proteger el prestigio de las Denominaciones de Origen y asegurar la estabilidad del mercado del vino.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes.",
+  "professional_impact": "Afecta directamente a viticultores y empresas del sector agroalimentario, quienes deben obtener autorizaciones previas para plantar o replantar. Impone la obligación de mantener actualizado el Registro de Viñedo y establece sanciones económicas muy elevadas por plantar sin permiso o incumplir compromisos de no comercialización.",
+  "keywords": [
+    "potencial vitícola",
+    "viñedo",
+    "La Rioja",
+    "autorización de plantación",
+    "registro de viñedo",
+    "arranque de viñedo",
+    "sector vitivinícola"
+  ],
+  "key_points": [
+    "Prohibición general de plantar viñedo sin una autorización administrativa previa.",
+    "Creación del Registro de Viñedo como herramienta de control permanente de las superficies y variedades.",
+    "Obligación de notificar con 3 meses de antelación las plantaciones de autoconsumo o experimentales.",
+    "Las plantaciones sin autorización obligan al arranque de las cepas y conllevan multas graves.",
+    "Las sanciones por plantar sin permiso oscilan entre 6.000 y 40.000 euros por hectárea según el plazo de cumplimiento del arranque.",
+    "Se establece un procedimiento para declarar viñedos abandonados (más de 5 años sin cultivo regular).",
+    "Protección de terceros de buena fe en casos de nulidad de autorizaciones por conflictos entre particulares."
+  ],
+  "legal_references": [
+    "Reglamento (UE) n.º 1308/2013",
+    "Real Decreto 740/2015",
+    "Ley 4/2015 de La Rioja",
+    "Ley 39/2015 de Procedimiento Administrativo Común",
+    "Estatuto de Autonomía de La Rioja"
+  ],
+  "derogations": [
+    "Ley 4/2015, de 23 de marzo, de defensa de la calidad de la viña y el vino de la Comunidad Autónoma de La Rioja",
+    "Ley 8/2002, de 18 de octubre, de Vitivinicultura de La Rioja"
+  ],
+  "main_obligations": "Los viticultores deben obtener autorización previa para cualquier nueva plantación o replantación. En caso de plantación no autorizada, existe la obligación de realizar el arranque total de las cepas y, si la producción ya se ha recogido, debe acreditarse su destilación.",
+  "effective_date": "2017-01-21",
+  "procedures": [
+    {
+      "name": "Procedimiento de Orden de Arranque",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del procedimiento",
+          "descrption": "Tramitación de un procedimiento administrativo contradictorio tras detectar una plantación no autorizada.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Notificación de la orden de arranque",
+          "descrption": "Se comunica al viticultor la obligación de eliminar la plantación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ejecución del arranque por el interesado",
+          "descrption": "El viticultor realiza el arranque para evitar sanciones mayores.",
+          "start_date": "Desde la notificación",
+          "end_date": "4 meses (para sanción mínima)",
+          "required_documentation": "Comunicación de arranque"
+        }
+      ]
+    },
+    {
+      "name": "Declaración de Viñedo Abandonado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "descrption": "Se inicia de oficio o por denuncia tras verificar 5 años de falta de cultivo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe técnico de inspección"
+        },
+        {
+          "step": 2,
+          "title": "Notificación y alegaciones",
+          "descrption": "Se notifica al viticultor y propietario para que presenten alegaciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de medidas",
+          "descrption": "Se dictan las medidas a realizar (rehabilitación o arranque) y el plazo para ejecutarlas.",
+          "start_date": "Tras el plazo de alegaciones",
+          "end_date": "3 meses desde el inicio",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

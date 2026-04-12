@@ -1,0 +1,84 @@
+{
+  "identifier": "BOE-A-2021-4805",
+  "title": "Decreto-ley 1/2021, de 25 de enero, por el que se aprueban medidas excepcionales y urgentes en el ámbito del impuesto sobre estancias turísticas en las Illes Baleares para el ejercicio fiscal de 2021, del impuesto sobre transmisiones patrimoniales y actos jurídicos documentados, en materia de renta social garantizada y en otros sectores de la actividad administrativa",
+  "visible_title": "Medidas excepcionales en impuestos turísticos, transmisiones patrimoniales, renta social garantizada y administración en las Illes Baleares",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Baleares",
+  "official_number": "1/2021",
+  "publication_date": "2021-03-27",
+  "enactment_date": "2021-01-25",
+  "last_updated": "2021-01-26",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/dl/2021/01/25/1",
+  "official_journal": "BOIB (Boletín Oficial de las Illes Baleares)",
+  "journal_issue": null,
+  "summary": "Esta norma implementa ayudas económicas y fiscales urgentes para mitigar los efectos de la crisis sanitaria por COVID-19 en las Islas Baleares. Se centra en aliviar la carga fiscal de las empresas turísticas mediante cambios en el impuesto de estancias y reducciones en el impuesto de actos jurídicos documentados. Además, agiliza la gestión de la renta social garantizada y simplifica trámites administrativos en sectores como salud, empleo y medio ambiente.",
+  "citizen_impact": "Los ciudadanos beneficiarios de la renta social garantizada verán una tramitación más rápida y ágil para recibir sus pagos. También se agilizan los pagos de ayudas económicas para sectores afectados por la pandemia.",
+  "professional_impact": "Los empresarios turísticos disponen de mayor flexibilidad para elegir su régimen fiscal y no tienen que realizar pagos anticipados (ingresos a cuenta) en 2021. Las empresas con préstamos avalados por el ICO o ISBA obtienen una reducción masiva del 95% en el impuesto por modificar sus condiciones de financiación. Los funcionarios de salud y empleo cuentan con nuevos regímenes para cubrir guardias y programas de empleo.",
+  "keywords": [
+    "impuesto estancias turísticas",
+    "transmisiones patrimoniales",
+    "medidas COVID-19",
+    "Baleares",
+    "ayudas empresariales",
+    "renta social garantizada",
+    "fiscalidad turística"
+  ],
+  "key_points": [
+    "Supresión del ingreso a cuenta del impuesto de estancias turísticas para el ejercicio 2021.",
+    "Posibilidad de renunciar al régimen de estimación objetiva para pasar al directo solo durante 2021.",
+    "Opción de revocar la renuncia al régimen de estimación objetiva hecha anteriormente.",
+    "Reducción del 95% en el impuesto de actos jurídicos documentados para modificaciones de préstamos con aval ICO o ISBA.",
+    "Agilización de la tramitación y pago de la renta social garantizada.",
+    "Ampliación del umbral para justificar gastos mediante declaración responsable de 3.000 a 6.000 euros.",
+    "Nuevos criterios para la selección de participantes en programas del Servicio de Empleo.",
+    "Régimen especial para la cobertura de guardias en el Servicio de Salud de las Illes Baleares."
+  ],
+  "legal_references": [
+    "Ley 2/2016",
+    "Decreto 35/2016",
+    "Ley 2/2020",
+    "Decreto-ley 10/2020",
+    "Ley 4/2009",
+    "Ley 10/2019",
+    "Ley 7/1998",
+    "Ley 5/2005",
+    "Real Decreto 926/2020"
+  ],
+  "derogations": [
+    "Todas las normas de rango igual o inferior que se opongan a lo dispuesto en este Decreto-ley"
+  ],
+  "main_obligations": "Los sujetos pasivos del impuesto de estancias turísticas que opten por el régimen de estimación directa deben cumplir con todas las obligaciones documentales y registrales específicas de dicho régimen. Las empresas que modifiquen sus préstamos bajo el beneficio fiscal deben cumplir con los requisitos de avales del ICO o ISBA.",
+  "effective_date": "2021-03-27",
+  "procedures": [
+    {
+      "name": "Renuncia al régimen de estimación objetiva (Impuesto estancias turísticas)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de renuncia",
+          "description": "Periodo para que los empresarios decidan pasar del régimen de estimación objetiva al directo.",
+          "start_date": "2021-01-25",
+          "end_date": "2021-03-31",
+          "required_documentation": "Cumplimiento de obligaciones documentales y registrales del régimen directo"
+        }
+      ]
+    },
+    {
+      "name": "Revocación de la renuncia (Impuesto estancias turísticas)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de revocación",
+          "description": "Periodo para que quienes ya habían renunciado puedan volver al régimen de estimación objetiva.",
+          "start_date": "2021-01-25",
+          "end_date": "2021-03-31",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

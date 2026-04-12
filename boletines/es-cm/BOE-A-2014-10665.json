@@ -1,0 +1,114 @@
+{
+  "identifier": "BOE-A-2014-10665",
+  "title": "Ley 2/2014, de 8 de mayo, de Museos de Castilla-La Mancha",
+  "visible_title": "Ley de Museos de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "2/2014",
+  "publication_date": "2014-10-21",
+  "enactment_date": "2014-05-08",
+  "last_updated": "2014-05-28",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2014/05/08/2",
+  "official_journal": "Diario Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza la gestión de los museos en Castilla-La Mancha, transformándolos de simples depósitos de objetos en centros de comunicación y servicios ciudadanos. Establece un nuevo marco para la creación, reconocimiento y gestión de museos, centros de interpretación y colecciones museográficas. Además, introduce mecanismos para atraer inversión privada y patrocinios, buscando la sostenibilidad económica de estas instituciones.",
+  "citizen_impact": "Mejora el acceso a la cultura mediante la obligación de garantizar la accesibilidad física, sensorial e intelectual en los museos. Los ciudadanos pueden disfrutar de servicios culturales más dinámicos y de mayor calidad gracias a la profesionalización de estas instituciones.",
+  "professional_impact": "Los gestores culturales y profesionales de museos cuentan con un marco de cualificación y formación continua. Las empresas privadas tienen nuevas vías para colaborar mediante el mecenazgo y la gestión de servicios, mientras que los museos privados deben cumplir requisitos estrictos para obtener el reconocimiento oficial.",
+  "keywords": [
+    "museos",
+    "patrimonio cultural",
+    "Castilla-La Mancha",
+    "gestión cultural",
+    "colecciones museográficas",
+    "centros de interpretación",
+    "mecenazgo"
+  ],
+  "key_points": [
+    "Creación de un Sistema de Museos de Castilla-La Mancha para coordinar la calidad del servicio.",
+    "Nueva clasificación de instituciones: museos, colecciones museográficas y centros de interpretación.",
+    "Introducción de mecanismos de financiación privada, patrocinios y mecenazgo para asegurar la sostenibilidad.",
+    "Obligatoriedad de garantizar la accesibilidad universal (física, sensorial e intelectual).",
+    "Creación del Registro de Instituciones Museísticas y del Consejo de Museos como órgano consultivo.",
+    "Establecimiento de derechos de tanteo y retracto para la Administración sobre bienes culturales.",
+    "Reconocimiento de la labor investigadora del personal técnico de los museos.",
+    "Regulación de la participación ciudadana a través del voluntariado."
+  ],
+  "legal_references": [
+    "Ley 4/1990, de 30 de mayo, del Patrimonio Histórico de Castilla-La Mancha",
+    "Constitución Española",
+    "Estatuto de Autonomía de Castilla-La Mancha",
+    "Ley 4/1995, de 16 de marzo, del Voluntariado en Castilla-La Mancha",
+    "Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin fines lucrativos",
+    "Ley 4/2013, de 16 de mayo, de Patrimonio Cultural de Castilla-La Mancha",
+    "Real Decreto 3296/1983, de 5 de octubre"
+  ],
+  "derogations": [
+    "Título IV de la Ley 4/1990, de 30 de mayo, del Patrimonio Histórico de Castilla-La Mancha"
+  ],
+  "main_obligations": "Las instituciones deben mantener inventarios actualizados, cumplir horarios de visita y garantizar la conservación de sus fondos. El incumplimiento de deberes como la entrega de materiales arqueológicos o la gestión no autorizada de fondos conlleva multas de hasta 150.000 euros.",
+  "effective_date": "2014-10-21",
+  "procedures": [
+    {
+      "name": "Reconocimiento oficial de instituciones museísticas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "descrption": "Inicio de oficio por la Dirección General o a solicitud de la persona interesada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Situación jurídica, estado de colecciones, esquema de organización, infraestructura, plan de viabilidad económica, memoria gráfica y relación de personal."
+        },
+        {
+          "step": 2,
+          "title": "Resolución administrativa",
+          "descrption": "La Administración debe resolver en un plazo máximo de 6 meses.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Silencio administrativo",
+          "descrption": "Si no hay resolución en 6 meses, la solicitud se entiende estimada.",
+          "start_date": "6 meses tras el inicio",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Creación de instituciones museísticas de titularidad autonómica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta y Plan Director",
+          "descrption": "Presentación de un Plan Director con requisitos de inmueble, colección y personal.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Plan Director"
+        },
+        {
+          "step": 2,
+          "title": "Informe del Consejo de Museos",
+          "descrption": "Se requiere informe favorable del Consejo de Museos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación por Decreto",
+          "descrption": "La creación de museos se realiza mediante Decreto del Consejo de Gobierno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,82 @@
+{
+  "identifier": "BOE-A-2020-7441",
+  "title": "Decreto-ley 10/2020, de 22 de mayo, de medidas urgentes para la reactivación económica en materia de edificación y ordenación del territorio destinadas a dinamizar el tejido económico y social de Extremadura, para afrontar los efectos negativos de la COVID-19",
+  "visible_title": "Medidas urgentes para la reactivación económica en materia de edificación y ordenación del territorio en Extremadura",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "10/2020",
+  "publication_date": "2020-07-08",
+  "enactment_date": "2020-05-22",
+  "last_updated": "2020-05-25",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/dl/2020/05/22/10",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma introduce cambios urgentes en la legislación urbanística de Extremadura para reactivar la economía tras el parón provocado por la pandemia de COVID-19. Su objetivo es agilizar la implantación de actividades económicas, especialmente en suelo rural, eliminando trabas burocráticas y flexibilizando usos del suelo. Busca acelerar la inversión y la construcción mediante la simplificación de trámites y la adaptación de los planes municipales.",
+  "citizen_impact": "Facilita la regularización de asentamientos o edificios que no cumplían estrictamente la normativa anterior, permitiendo que entren en el mercado legal. También busca mejorar la calidad de vida mediante la adaptación de ciudades y pueblos para prevenir futuras crisis sanitarias y combatir la despoblación.",
+  "professional_impact": "Empresas de construcción, sector agropecuario y promotores industriales se benefician de una tramitación más rápida y de una mayor flexibilidad en los usos del suelo. Se reduce la carga burocrática mediante la introducción del silencio positivo en licencias de primera ocupación y la simplificación de trámites en suelo rústico.",
+  "keywords": [
+    "urbanismo",
+    "reactivación económica",
+    "Extremadura",
+    "suelo rústico",
+    "edificación",
+    "COVID-19",
+    "ordenación del territorio"
+  ],
+  "key_points": [
+    "Flexibilización de usos en edificios para permitir diversas actividades y profesiones.",
+    "Eliminación de ciertos estándares mínimos de núcleos de población para clasificar nuevo suelo como urbanizable para industria o servicios.",
+    "Agilización de trámites en suelo rústico para actividades agropecuarias, forestales y cinegéticas, eximiéndolas de calificación rústica.",
+    "Introducción del silencio positivo para el otorgamiento de licencias de primera ocupación o utilización.",
+    "Regularización de actividades implantadas antes de 1975, que no serán consideradas actuaciones disconformes.",
+    "Ampliación de plazos para la adaptación de planes territoriales y municipales a la nueva Ley LOTUS.",
+    "Facilitación de la implantación de actividades en suelo rural para combatir la despoblación.",
+    "Simplificación de la gestión mediante el reconocimiento de las ordenanzas municipales como instrumentos complementarios de ordenación."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020, de 14 de marzo",
+    "Ley 11/2018, de 21 de diciembre, de ordenación territorial y urbanística sostenible de Extremadura (LOTUS)",
+    "Real Decreto Legislativo 7/2015, de 30 de octubre (Ley del suelo y Rehabilitación Urbana)",
+    "Ley 21/2013, de 9 de diciembre, de Evaluación Ambiental",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Ley 11/2019, de 11 de abril, de promoción y acceso a la vivienda de Extremadura",
+    "Ley 7/2018, de 2 de agosto, extremeña de grandes instalaciones de ocio (LEGIO)"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan o contradigan con este Decreto-ley"
+  ],
+  "main_obligations": null,
+  "effective_date": "2020-07-08",
+  "procedures": [
+    {
+      "name": "Otorgamiento de licencia de primera ocupación o utilización",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación de la licencia",
+          "descrption": "Procedimiento para obtener la licencia de ocupación, ahora sujeto a un régimen de silencio positivo para agilizar la entrada de inmuebles al mercado.",
+          "start_date": null,
+          "end_date": "Plazo no especificado (sujeto a silencio positivo)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de Planes Territoriales y Municipales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adaptación a la LOTUS",
+          "descrption": "Los planes deben adaptarse a la nueva normativa de ordenación sostenible.",
+          "start_date": null,
+          "end_date": "2 años para modificaciones de planes territoriales; 6 años para adaptación total de planes municipales",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

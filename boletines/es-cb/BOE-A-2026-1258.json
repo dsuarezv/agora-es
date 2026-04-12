@@ -1,0 +1,100 @@
+{
+  "identifier": "BOE-A-2026-1258",
+  "title": "Ley 1/2026, de 5 de enero, de Participación Ciudadana en la Administración de la Comunidad Autónoma de Cantabria",
+  "visible_title": "Ley de Participación Ciudadana en la Administración de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "1/2026",
+  "publication_date": "2026-01-20",
+  "enactment_date": "2026-01-05",
+  "last_updated": "2026-01-12",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2026/01/05/1",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "journal_issue": "40",
+  "summary": "Esta ley crea un marco legal para que los ciudadanos de Cantabria intervengan directamente en la toma de decisiones de su administración. Introduce herramientas como presupuestos participativos, consultas ciudadanas y la capacidad de proponer políticas públicas mediante la recogida de firmas. El objetivo es pasar de una gestión cerrada a una cultura de colaboración y transparencia mediante un nuevo Portal de Participación Ciudadana.",
+  "citizen_impact": "Los ciudadanos pasan de ser meros receptores de servicios a actores con voz en cómo se gasta el dinero público y qué políticas se implementan. Se otorga el derecho a proponer servicios y a participar en la evaluación de la gestión pública, facilitando el acceso mediante herramientas digitales y medidas contra la brecha digital.",
+  "professional_impact": "Los funcionarios de las distintas consejerías deberán adaptarse a nuevos procesos de consulta y deliberación, creando unidades específicas de participación. La administración tiene la obligación de responder de forma motivada a las propuestas ciudadanas y de integrar la participación en su planificación bienal.",
+  "keywords": [
+    "participación ciudadana",
+    "Cantabria",
+    "presupuestos participativos",
+    "democracia deliberativa",
+    "transparencia",
+    "políticas públicas",
+    "consulta ciudadana"
+  ],
+  "key_points": [
+    "Creación de cinco tipos de procesos: deliberación, iniciativa ciudadana, presupuestos participativos, consultas y evaluación de políticas.",
+    "Derecho de iniciativa ciudadana para proponer políticas con un mínimo de 2.000 firmas.",
+    "Implementación obligatoria de un Portal de Participación Ciudadana de Cantabria.",
+    "Establecimiento de un Programa de Participación Ciudadana bienal que obliga a las consejerías a abrir procesos de participación.",
+    "Los presupuestos participativos se convocarán cada dos años y deberán considerar el factor de la ruralidad.",
+    "Obligación de la Administración de dar respuesta motivada a las propuestas ciudadanas no aceptadas.",
+    "Creación de unidades responsables de participación en cada consejería."
+  ],
+  "legal_references": [
+    "Constitución Española de 1978",
+    "Estatuto de Autonomía para Cantabria",
+    "Tratado de la Unión Europea",
+    "Ley de Cantabria 1/2018, de 21 de marzo, de Transparencia de la Actividad Pública"
+  ],
+  "derogations": [],
+  "main_obligations": "La Administración debe integrar la participación en su actuación, garantizar la accesibilidad universal (especialmente digital) y publicar de forma gratuita toda la información de los procesos. Las consejerías están obligadas a ejecutar los procesos de participación incluidos en el Programa Bienal.",
+  "effective_date": "2026-01-21",
+  "procedures": [
+    {
+      "name": "Elaboración del Programa de Participación Ciudadana",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de las Consejerías",
+          "description": "Las consejerías remiten sus propuestas de proyectos y calendario a la consejería de participación.",
+          "start_date": "Primer mes del año",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Elaboración del Proyecto de Programa",
+          "description": "La consejería de participación elabora el proyecto tras evaluar las propuestas recibidas.",
+          "start_date": "Tras la recepción de propuestas",
+          "end_date": "Primer trimestre del año",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación y Publicación",
+          "description": "El Consejo de Gobierno aprueba el programa y se publica en el BOC y el Portal de Participación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Iniciativa Ciudadana para Proponer Políticas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recogida de firmas",
+          "description": "Los ciudadanos deben reunir un mínimo de 2.000 firmas para presentar una propuesta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Firmas de personas con vecindad administrativa en Cantabria"
+        },
+        {
+          "step": 2,
+          "title": "Tramitación",
+          "description": "La administración tramita la propuesta según los requisitos reglamentarios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

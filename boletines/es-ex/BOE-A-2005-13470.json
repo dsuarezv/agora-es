@@ -1,0 +1,90 @@
+{
+  "identifier": "BOE-A-2005-13470",
+  "title": "Ley 3/2005, de 8 de julio, de información sanitaria y autonomía del paciente",
+  "visible_title": "Ley de información sanitaria y autonomía del paciente",
+  "rank": "ley",
+  "country": "es",
+  "department": "Junta de Extremadura",
+  "official_number": "3/2005",
+  "publication_date": "2005-08-05",
+  "enactment_date": "2005-07-08",
+  "last_updated": "2005-07-16",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2005/07/08/3",
+  "official_journal": "Diario Oficial de Extremadura",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo los pacientes en Extremadura deben ser informados sobre su salud y cómo pueden decidir sobre sus tratamientos. Busca sustituir el modelo médico paternalista por uno donde el paciente tiene la última palabra mediante el consentimiento informado y el testamento vital. Además, establece reglas estrictas para la gestión de la historia clínica y crea órganos de bioética para supervisar la ética en la asistencia y la investigación.",
+  "citizen_impact": "Los ciudadanos ganan el derecho a decidir sobre su propio cuerpo, pudiendo rechazar tratamientos o dejar instrucciones escritas (testamento vital) para cuando no puedan comunicarse. También les otorga el derecho a conocer quién les atiende, recibir información clara sobre su diagnóstico y acceder a su historia clínica o solicitar una segunda opinión.",
+  "professional_impact": "Los profesionales sanitarios (públicos y privados) tienen la obligación de informar de forma comprensible y obtener el consentimiento antes de cualquier intervención. Deben gestionar la historia clínica con máxima confidencialidad y responsabilidad, y enfrentarse a un régimen sancionador si incumplen la privacidad o la autonomía del paciente.",
+  "keywords": [
+    "autonomía del paciente",
+    "consentimiento informado",
+    "testamento vital",
+    "historia clínica",
+    "derecho a la información",
+    "bioética",
+    "confidencialidad"
+  ],
+  "key_points": [
+    "Derecho al consentimiento informado: el paciente debe aceptar un tratamiento tras conocer riesgos y beneficios.",
+    "Creación del Testamento Vital: posibilidad de dejar instrucciones médicas anticipadas ante incapacidad.",
+    "Derecho a la información: el paciente debe conocer su diagnóstico, pronóstico y quién es su médico responsable.",
+    "Protección de la historia clínica: obligación de custodia, confidencialidad y derecho de acceso del paciente.",
+    "Derecho al acompañamiento: los pacientes pueden estar acompañados por familiares o personas de confianza.",
+    "Creación del Consejo Asesor de Bioética y Comités de Ética en Extremadura.",
+    "Derecho a la segunda opinión médica y libertad de elección de centro/médico.",
+    "Régimen sancionador para centros y profesionales que vulneren la privacidad o la autonomía."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 14/1986, de 25 de abril, General de Sanidad",
+    "Ley 10/2001, de 28 de junio, de Salud de Extremadura",
+    "Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal",
+    "Ley 44/2003, de 21 de noviembre, de ordenación de las profesiones sanitarias",
+    "Convenio de Oviedo (1997)"
+  ],
+  "derogatations": [
+    "Apartados específicos de la Ley 10/2001, de 28 de junio, de Salud de Extremadura (apartados g, h, j, k y m del art. 11; apartado 5 del art. 12; y apartado d del art. 12)."
+  ],
+  "main_obligations": "Los centros sanitarios deben garantizar la confidencialidad de los datos y la custodia de la historia clínica durante al menos 15 años. Los profesionales deben obtener el consentimiento informado (por escrito en casos invasivos) y respetar la voluntad del paciente, bajo riesgo de sanciones administrativas por infracciones leves, graves o muy graves.",
+  "effective_date": "2005-07-28",
+  "procedures": [
+    {
+      "name": "Formalización de la expresión anticipada de voluntades",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Redacción y formalización",
+          "description": "El documento debe hacerse por escrito ante notario o ante tres testigos (dos de ellos sin parentesco).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "DNI, domicilio, designación de representante y datos de testigos o notario."
+        },
+        {
+          "step": 2,
+          "title": "Inscripción en el Registro",
+          "description": "Presentación en el Registro de Expresión Anticipada de Voluntades de la Comunidad Autónoma de Extremadura.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento de expresión anticipada de voluntades."
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de la historia clínica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de adecuación técnica",
+          "description": "Los centros deben adaptar sus sistemas para cumplir con los nuevos modelos de historia clínica y seguridad.",
+          "start_date": "2005-07-28",
+          "end_date": "1 año después de la entrada en vigor",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,161 @@
+{
+  "identifier": "BOE-A-2014-884",
+  "title": "Ley 10/2013, de 27 de noviembre, de inclusión social de Galicia",
+  "visible_title": "Ley de inclusión social de Galicia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "10/2013",
+  "publication_date": "2014-01-29",
+  "enactment_date": "2013-11-27",
+  "last_updated": "2022-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2013/11/27/10",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley sustituye la antigua Risga por una nueva Rentas de Inclusión Social diseñada para que trabajar no penalice la ayuda recibida. El sistema se divide en tres tramos (subsistencia, inserción y transición) para acompañar a la persona desde la necesidad básica hasta la estabilidad laboral. Además de la renta, introduce ayudas de emergencia para gastos urgentes como vivienda o alimentación. El objetivo es integrar los servicios sociales con los de empleo para facilitar una salida real de la exclusión.",
+  "citizen_impact": "Los ciudadanos en situación de vulnerabilidad acceden a una ayuda que no se pierde inmediatamente al encontrar trabajo, permitiendo cobrar un complemento durante 6 meses para asegurar la transición. También pueden solicitar ayudas de emergencia (AIS) para deudas de alquiler, suministros o salud. No obstante, el ciudadano tiene la carga de informar de cualquier cambio de ingresos o empleo en plazos muy cortos para evitar sanciones.",
+  "professional_impact": "Las empresas pueden obtener el 'sello de empresa inclusiva' al contratar colectivos vulnerables, lo que actúa como incentivo. Los funcionarios de servicios sociales y empleo deben trabajar de forma coordinada bajo nuevos itinerarios personalizados de inserción.",
+  "keywords": [
+    "inclusión social",
+    "Renta de Inclusión Social",
+    "Galicia",
+    "ayudas de emergencia",
+    "inserción laboral",
+    "vulnerabilidad"
+  ],
+  "key_points": [
+    "Creación de la Rentas de Inclusión Social dividida en tres tramos: Personal/Familiar, Inserción y Transición al empleo.",
+    "El tramo de transición permite cobrar un complemento de ingresos durante 6 meses tras encontrar trabajo para facilitar la estabilidad.",
+    "La ayuda es compatible con ingresos laborales inferiores al mínimo, evitando que buscar empleo sea desincentivador.",
+    "Se establece un complemento de alquiler de hasta el 25% del IPREM para casos de necesidad justificada.",
+    "Las víctimas de violencia de género, doméstica o trata tienen tramitación de urgencia y prioritaria.",
+    "Introducción del 'sello de empresa inclusiva' para incentivar la contratación de colectivos vulnerables.",
+    "Las Ayudas de Inclusión Social (AIS) pueden cubrir deudas de alquiler, suministros básicos, alimentación y salud.",
+    "Las ayudas para vivienda y habitabilidad son subsidiarias de otras ayudas públicas de vivienda.",
+    "El fraude o la ocultación de datos conlleva la retirada total de la prestación y la prohibición de solicitarla durante 12 meses."
+  ],
+  "legal_references": [
+    "Ley 13/2008, de 3 de diciembre, de servicios sociales de Galicia",
+    "Ley 9/1991, de 2 de octubre, gallega de medidas básicas para la inserción social",
+    "Ley 1/1999, de 5 de febrero",
+    "Ley 16/2004, de 29 de diciembre",
+    "Ley estatal 44/2007, de 13 de diciembre",
+    "Ley orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal",
+    "Ley 11/2007, de 27 de junio, para la prevención y tratamiento de la violencia de género",
+    "Ley 30/1992, de 26 de noviembre",
+    "Ley 9/2007, de 13 de junio, de subvenciones de Galicia",
+    "Ley 44/2007, de 13 de diciembre, de regulación del régimen de las empresas de inserción",
+    "Real Decreto legislativo 3/2011"
+  ],
+  "derogations": [
+    "Ley 9/1991, de 2 de octubre, gallega de medidas básicas para la inserción social (en lo relativo a la Risga)"
+  ],
+  "main_obligations": "Los beneficiarios deben comunicar el acceso al empleo en un plazo de 5 días y solicitar la baja de la prestación en 10 días si dejan de cumplir los requisitos. Asimismo, es obligatorio participar en los itinerarios de inserción pactados y escolarizar a los menores.",
+  "effective_date": "2014-01-30",
+  "procedures": [
+    {
+      "name": "Tramitación ordinaria de la Renta de Inclusión Social de Galicia (Risga)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El interesado presenta el modelo normalizado en el registro del ayuntamiento de su residencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración responsable de ingresos y patrimonio y autorización para consulta de datos."
+        },
+        {
+          "step": 2,
+          "title": "Informe de los servicios sociales municipales",
+          "description": "El ayuntamiento debe emitir un informe social y una propuesta de proyecto de integración.",
+          "start_date": "Desde la recepción de la solicitud",
+          "end_date": "1 mes",
+          "required_documentation": "Informe social y propuesta de proyecto de integración social."
+        },
+        {
+          "step": 3,
+          "title": "Resolución de la Administración autonómica",
+          "description": "El órgano competente provincial dicta la resolución de concesión.",
+          "start_date": "Desde la recepción de los informes municipales",
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación abreviada por violencia de género",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Informe urgente del ayuntamiento",
+          "description": "El ayuntamiento debe emitir el informe de valoración social con carácter prioritario.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": "Acreditación de la situación de violencia de género."
+        }
+      ]
+    },
+    {
+      "name": "Concesión de la Renta de Inclusión Social de Galicia (Risga)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El interesado presenta la solicitud ante la administración.",
+          "start_date": "Fecha de presentación",
+          "end_date": null,
+          "required_documentation": "Documentación según modelo normalizado"
+        },
+        {
+          "step": 2,
+          "title": "Informe de valoración social",
+          "description": "Los servicios sociales emiten un informe con propuesta de concesión.",
+          "start_date": "Desde la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Dictado de la resolución de concesión o denegación.",
+          "start_date": "1 mes desde la solicitud",
+          "end_date": "1 mes desde la solicitud",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de Ayudas de Inclusión Social (AIS)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Presentación en registro del ayuntamiento o administración.",
+          "start_date": "Fecha de presentación",
+          "end_date": null,
+          "required_documentation": "Declaración responsable, presupuesto de gastos y otros documentos preceptivos"
+        },
+        {
+          "step": 2,
+          "title": "Informe de valoración social municipal",
+          "description": "El ayuntamiento emite informe de idoneidad.",
+          "start_date": "Desde la solicitud",
+          "end_date": "1 mes desde la solicitud de valoración",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de la ayuda",
+          "description": "Notificación de la resolución de la ayuda.",
+          "start_date": "Desde la entrada de la solicitud",
+          "end_date": "2 meses desde la entrada de la solicitud",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

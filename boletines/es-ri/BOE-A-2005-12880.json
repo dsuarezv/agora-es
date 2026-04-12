@@ -1,0 +1,93 @@
+{
+  "identifier": "BOE-A-2005-12880",
+  "title": "Ley 8/2005, de 30 de junio, reguladora del Transporte Urbano por Carretera de La Rioja",
+  "visible_title": "Ley reguladora del Transporte Urbano por Carretera de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "8/2005",
+  "publication_date": "2005-07-27",
+  "enactment_date": "2005-06-30",
+  "last_updated": "2005-07-12",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2005/06/30/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula todo el transporte público de viajeros que se realiza exclusivamente dentro de los municipios de La Rioja. Su objetivo es llenar el vacío legal dejado por la anulación de la normativa estatal y dar a los Ayuntamientos el control total sobre sus servicios de transporte. Establece las reglas para servicios regulares (autobuses), servicios de taxi (autotaxis) y transporte discrecional (furgonetas o turismo).",
+  "citizen_impact": "Garantiza que los ciudadanos tengan un marco legal claro para el uso de autobuses urbanos y taxis en su municipio. Además, establece el derecho a la accesibilidad para personas con discapacidad en los vehículos de transporte público.",
+  "professional_impact": "Empresas de transporte y taxistas deben cumplir con requisitos estrictos de nacionalidad, capacidad económica y capacitación profesional. Los Ayuntamientos asumen la potestad de gestionar, inspeccionar y sancionar, mientras que las empresas enfrentan multas de hasta 3.000 euros por infracciones muy graves.",
+  "keywords": [
+    "transporte urbano",
+    "La Rioja",
+    "taxi",
+    "autobús urbano",
+    "transporte discrecional",
+    "concesiones de transporte",
+    "competencia municipal"
+  ],
+  "key_points": [
+    "Los Ayuntamientos tienen competencia exclusiva para organizar, gestionar y sancionar el transporte que ocurra dentro de su término municipal.",
+    "Se crea la figura de la licencia de 'autotaxi' para vehículos de turismo.",
+    "Las empresas de transporte deben ser sociedades mercantiles, cooperativas o personas físicas con nacionalidad española o de la UE.",
+    "Se permite la creación de Áreas Territoriales de Prestación Conjunta para coordinar el transporte entre varios municipios.",
+    "Las infracciones se dividen en leves, graves y muy graves, con multas que oscilan entre 300 y 3.000 euros.",
+    "El transporte discrecional en vehículos de más de nueve plazas requiere título habilitante municipal.",
+    "Se establece la obligación de que los titulares de licencias de autotaxi tengan conductores asalariados."
+  ],
+  "legal_references": [
+    "Ley Orgánica número 3/1982, de 9 de junio, de Estatuto de Autonomía de La Rioja",
+    "Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres",
+    "Sentencia del Tribunal Constitucional número 118, de 27 de junio de 1996"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a la presente Ley"
+  ],
+  "main_obligations": "Los prestadores de servicios deben poseer títulos habilitantes (concesiones, autorizaciones o licencias) y cumplir con los requisitos de seguridad y capacidad económica. Las infracciones muy graves, como realizar transporte sin licencia, conllevan multas de hasta 3.000 euros y la posible retirada del título.",
+  "effective_date": "2005-01-27",
+  "procedures": [
+    {
+      "name": "Otorgamiento de títulos habilitantes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de requisitos",
+          "description": "El interesado debe demostrar nacionalidad, capacidad económica, capacitación profesional y cumplimiento de obligaciones fiscales/laborales ante el municipio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación de capacitación profesional, solvencia económica y certificados de estar al corriente con la Seguridad Social y Hacienda."
+        },
+        {
+          "step": 2,
+          "title": "Adjudicación de concesiones",
+          "description": "Para servicios regulares, se realizará mediante procedimiento abierto de concurso público.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Pliego de condiciones jurídicas, económicas, técnicas y administrativas."
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inspección y detección",
+          "description": "Agentes de la Policía Local o inspectores municipales detectan la infracción y levantan acta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de inspección o informe de los servicios de inspección."
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y resolución",
+          "description": "Se tramita el expediente siguiendo las normas de procedimiento administrativo de La Rioja.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,115 @@
+{
+  "identifier": "BOE-A-2005-18359",
+  "title": "Ley 4/2005, de 5 de octubre, de estadística de Cantabria",
+  "visible_title": "Ley de Estadística de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "4/2005",
+  "publication_date": "2005-11-08",
+  "enactment_date": "2005-10-05",
+  "last_updated": "2020-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2005/10/05/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley organiza y moderniza el sistema de recogida y gestión de datos estadísticos en Cantabria. Crea el Instituto Cántabro de Estadística (ICANE) como organismo autónomo para coordinar toda la actividad estadística regional. Establece un marco de transparencia y seguridad para que la información sea fiable, gratuita en sus versiones básicas y esté protegida por el secreto estadístico.",
+  "citizen_impact": "Garantiza que los datos personales recogidos para fines estadísticos sean tratados con estricta confidencialidad y no se usen para otros fines. Además, asegura el acceso gratuito a los datos estadísticos básicos sobre la realidad de Cantabria.",
+  "professional_impact": "Las empresas, autónomos y ciudadanos tienen la obligación legal de suministrar la información requerida para las estadísticas oficiales. El incumplimiento de esta colaboración puede acarrear multas administrativas que oscilan entre los 600 y los 30.000 euros.",
+  "keywords": [
+    "estadística",
+    "Cantabria",
+    "Instituto Cántabro de Estadística",
+    "secreto estadístico",
+    "datos",
+    "planificación estadística"
+  ],
+  "key_points": [
+    "Creación del Instituto Cántabro de Estadística (ICANE) como ente autónomo para gestionar la estadística regional.",
+    "Establecimiento del secreto estadístico para proteger la identidad de personas y empresas.",
+    "Obligatoriedad de suministrar información cuando sea requerida para fines estadísticos oficiales.",
+    "El Plan Estadístico de Cantabria debe ser aprobado mediante Ley por el Parlamento.",
+    "Acceso gratuito a los resultados estadísticos sintéticos para toda la ciudadanía.",
+    "Creación del Consejo Cántabro de Estadística como órgano consultivo y de participación.",
+    "Uso prioritario de registros administrativos para evitar molestias innecesarias a los ciudadanos.",
+    "Régimen sancionador con multas de hasta 30.000 euros por infracciones muy graves."
+  ],
+  "legal_references": [
+    "Ley 3/1990, de 21 de marzo, de estadística de Cantabria",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal",
+    "Directiva 95/46/CE",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Reglamento (CE) n.º 322/97 del Consejo",
+    "Estatuto de Autonomía para Cantabria",
+    "Ley de Cantabria 6/2002, de Régimen Jurídico del Gobierno y de la Administración de la Comunidad Autónoma de Cantabria"
+  ],
+  "derogations": [
+    "Ley de Cantabria 3/1990, de 21 de marzo, de estadística de Cantabria",
+    "Capítulo IV de la Ley de Cantabria 13/1998, de 23 de diciembre, de Medidas Fiscales y Administrativas",
+    "Artículo 12 de la Ley de Cantabria 7/2004, de 27 de diciembre, de Medidas Fiscales y Administrativas"
+  ],
+  "main_obligations": "Es obligatorio suministrar la información estadística solicitada de forma completa y verídica. El incumplimiento de la colaboración puede derivar en multas de hasta 600€ (leves), 3.000€ (graves) o 30.000€ (muy graves).",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Aprobación del Plan Estadístico de Cantabria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del Anteproyecto",
+          "descrption": "El Instituto Cántabro de Estadística elabora el anteproyecto del Plan.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe del Consejo Cántabro de Estadística",
+          "descrption": "El Consejo emite informe preceptivo sobre el anteproyecto.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación por Ley",
+          "descrption": "El Plan debe ser aprobado mediante Ley por el Parlamento de Cantabria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del procedimiento",
+          "descrption": "Se inicia el procedimiento sancionador conforme a la legislación vigente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución de sanciones leves y graves",
+          "descrption": "La sanción es impuesta por el Consejero de Economía y Hacienda.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de sanciones muy graves",
+          "descrption": "La sanción es impuesta por el Gobierno de Cantabria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

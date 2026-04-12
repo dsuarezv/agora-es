@@ -1,0 +1,73 @@
+{
+  "identifier": "BOE-A-2015-9206",
+  "title": "Ley 14/2015, de 21 de julio, del impuesto sobre las viviendas vacías, y de modificación de normas tributarias y de la Ley 3/2012",
+  "visible_title": "Impuesto sobre las viviendas vacías",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "14/2015",
+  "publication_date": "2015-08-15",
+  "enactment_date": "2015-07-21",
+  "last_updated": "2023-03-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2015/07/21/14",
+  "official_journal": "DOGC / BOE",
+  "journal_issue": null,
+  "summary": "Esta ley crea un impuesto en Cataluña para penalizar la desocupación injustificada de viviendas que permanezcan vacías durante más de dos años. El objetivo es presionar a los propietarios para que saquen sus inmuebles al mercado de alquiler, combatiendo la escasez de oferta. Los ingresos recaudados se destinarán prioritariamente a financiar planes de vivienda protegida en los mismos municipios donde se ha cobrado el impuesto.",
+  "citizen_impact": "Los ciudadanos que alquilen viviendas a precios asequibles (al menos un 25% por debajo del mercado) pueden beneficiar a sus propietarios con bonificaciones, lo que podría incentivar la oferta. Por otro lado, los grandes tenedores de viviendas podrían ver incrementados sus costes si mantienen propiedades sin uso.",
+  "professional_impact": "Las personas jurídicas (empresas) y los grandes tenedores físicos (más de 15 viviendas) asumen la obligación de autoliquidar este impuesto. Las empresas del sector inmobiliario y fondos de titulización deben gestionar la comunicación de viviendas desocupadas y cumplir con nuevas obligaciones de registro y declaración.",
+  "keywords": [
+    "vivienda vacía",
+    "impuesto",
+    "Cataluña",
+    "alquiler asequible",
+    "función social de la propiedad",
+    "gran tenedor"
+  ],
+  "key_points": [
+    "Se aplica a viviendas desocupadas permanentemente durante más de dos años sin causa justificada.",
+    "El impuesto afecta principalmente a personas jurídicas y a personas físicas consideradas 'grandes tenedores' (más de 15 viviendas).",
+    "Existe una bonificación de hasta el 75% de la cuota si el propietario pone la vivienda en alquiler asequible.",
+    "Se establece un mínimo exento de 150 metros cuadrados para la base imponible.",
+    "Las viviendas en litigio, en proceso de rehabilitación o con ocupación ilegal se consideran causas justificadas para no pagar.",
+    "Los ingresos se reinvertirán en políticas de vivienda en el mismo municipio donde se generen.",
+    "La desocupación de viviendas de nueva construcción se computa a partir de los tres meses tras el certificado de obra final."
+  ],
+  "legal_references": [
+    "Estatuto de autonomía de Cataluña",
+    "Constitución Española",
+    "Ley 18/2007, de 28 de diciembre, del derecho a la vivienda",
+    "Ley 3/2012, de 22 de febrero, de modificación del texto refundido de la Ley de urbanismo",
+    "Ley 4/1997, de 20 de mayo, de protección civil de Cataluña",
+    "Ley 21/2005, de 29 de diciembre, de medidas financieras",
+    "Ley 5/2015, de 27 de abril, de fomento de la financiación empresarial"
+  ],
+  "derogations": [],
+  "main_obligations": "Los sujetos pasivos deben realizar la autoliquidación y el ingreso del impuesto anualmente. Además, los titulares de viviendas vacías tienen la obligación de comunicar a la Agencia de la Vivienda de Cataluña la relación de inmuebles desocupados.",
+  "effective_date": "2015-07-22",
+  "procedures": [
+    {
+      "name": "Autoliquidación del impuesto sobre viviendas vacías",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Determinación de la base y cuota",
+          "description": "Cálculo de los metros cuadrados totales menos el mínimo exento y aplicación de la escala progresiva.",
+          "start_date": "31-12",
+          "end_date": null,
+          "required_documentation": "Certificación de metros cuadrados y estado de ocupación."
+        },
+        {
+          "step": 2,
+          "title": "Presentación y pago",
+          "description": "Presentación del modelo de autoliquidación y pago de la cuota en el plazo reglamentario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

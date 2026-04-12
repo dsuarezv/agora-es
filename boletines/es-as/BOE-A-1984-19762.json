@@ -1,0 +1,111 @@
+{
+  "identifier": "BOE-A-1984-19762",
+  "title": "Ley 6/1984, de 5 de julio, del Presidente y del Consejo de Gobierno del Principado de Asturias",
+  "visible_title": "Ley del Presidente y del Consejo de Gobierno del Principado de Asturias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "6/1984",
+  "publication_date": "1984-09-04",
+  "enactment_date": "1984-07-05",
+  "last_updated": "2018-09-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1984/07/05/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para el funcionamiento del poder ejecutivo en Asturias. Define cómo se elige al Presidente del Principado, sus atribuciones como representante del Estado y de la Comunidad, y regula la composición y competencias del Consejo de Gobierno. Asimismo, determina el régimen de los Consejeros, sus responsabilidades y los mecanismos de sustitución en caso de incapacidad o cese.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Define la estructura de mando y las competencias de los altos cargos de la Administración asturiana. Afecta directamente a funcionarios de alto nivel y políticos, estableciendo sus derechos, deberes, regímenes de responsabilidad y procedimientos de nombramiento y cese.",
+  "keywords": [
+    "Presidente del Principado",
+    "Consejo de Gobierno",
+    "Administración autonómica",
+    "Asturias",
+    "Elección de presidente",
+    "Competencias ejecutivas",
+    "Consejeros"
+  ],
+  "key_points": [
+    "El Presidente es elegido por la Junta General mediante votación pública y por llamamiento.",
+    "Si tras dos meses de la constitución de la Junta no hay presidente elegido, la Junta se disuelve y se convocan elecciones.",
+    "El Presidente ostenta la representación suprema del Principado y la ordinaria del Estado en Asturias.",
+    "El Consejo de Gobierno es el órgano encargado de dirigir la política regional y la Administración.",
+    "Se establece un procedimiento de sustitución por incapacidad temporal del Presidente mediante mayoría de 4/5 de los Consejeros.",
+    "Los Consejeros son nombrados por el Presidente y su cese está ligado al del Presidente o por decisión propia.",
+    "El Presidente tiene la facultad de dictar Decretos de la Presidencia sin necesidad de refrendo de los Consejeros para ciertos asuntos."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía para Asturias",
+    "Ley 1/1982, de 24 de mayo",
+    "Ley 9/1983, de 12 de diciembre",
+    "Ley 2/1982, de 5 de agosto",
+    "Ley Orgánica 3/1980, de 22 de abril"
+  ],
+  "derogations": [
+    "Apartado 2 del artículo 12 de la Ley 1/1982, de 24 de mayo, de Organización y Funcionamiento de la Administración del Principado de Asturias"
+  ],
+  "main_obligations": null,
+  "effective_date": "1984-09-05",
+  "procedures": [
+    {
+      "name": "Elección del Presidente del Principado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de elección",
+          "descrption": "El Presidente de la Junta convoca al pleno para la elección.",
+          "start_date": "Dentro de los 10 días siguientes a la sesión constitutiva de la Junta",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Propuesta de candidatos",
+          "descrption": "Presentación de candidatos ante la Mesa con antelación mínima.",
+          "start_date": "24 horas antes de la sesión",
+          "end_date": null,
+          "required_documentation": "Propuesta de al menos 5 miembros de la Junta"
+        },
+        {
+          "step": 3,
+          "title": "Debate de programas",
+          "descrption": "Exposición de programas de gobierno y debate.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Votación",
+          "descrption": "Votación pública por llamamiento para obtener mayoría absoluta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Nombramiento del Presidente",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación al Rey",
+          "descrption": "La Junta comunica la elección al Rey para su nombramiento mediante Real Decreto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Toma de posesión",
+          "descrption": "El Presidente toma posesión tras la publicación del nombramiento.",
+          "start_date": "Dentro de los 5 días siguientes a la publicación",
+          "end_date": null,
+          "required_documentation": "Juramento o promesa"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

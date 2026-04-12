@@ -1,0 +1,84 @@
+{
+  "identifier": "BOE-A-2017-2422",
+  "title": "Ley 3/2017, de 3 de febrero, para paliar y reducir la pobreza energética (electricidad, agua y gas) en la Comunitat Valenciana",
+  "visible_title": "Ley para paliar y reducir la pobreza energética en la Comunitat Valenciana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat Valenciana",
+  "official_number": "3/2017",
+  "publication_date": "2017-03-07",
+  "enactment_date": "2017-02-03",
+  "last_updated": "2022-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2017/02/03/3",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta ley busca combatir la pobreza energética en la Comunidad Valenciana mediante ayudas económicas y medidas de eficiencia. Implementa un plan de 'micromediadas' para reducir el consumo en hogares vulnerables y crea un fondo específico para garantizar el suministro de servicios básicos. Además, establece un régimen sancionador para evitar cortes de suministro a familias en situación de precariedad.",
+  "citizen_impact": "Las familias en situación de vulnerabilidad social pueden acceder a ayudas para pagar sus facturas de luz, gas y agua. También se benefician de programas de formación y asesoramiento para reducir su consumo energético y mejorar la eficiencia de sus hogares.",
+  "professional_impact": "Las empresas suministradoras de energía y agua enfrentan sanciones graves (hasta 601.012,10 €) si cortan el suministro a familias en proceso de declaración de vulnerabilidad. Las administraciones locales deben gestionar la solicitud de vulnerabilidad, mientras que la Generalitat debe coordinar la financiación y el plan de eficiencia energética.",
+  "keywords": [
+    "pobreza energética",
+    "eficiencia energética",
+    "vulnerabilidad social",
+    "suministros básicos",
+    "ayudas económicas",
+    "Comunitat Valenciana"
+  ],
+  "key_points": [
+    "Creación del Fondo Valenciano para la eficiencia energética y garantía de suministros básicos.",
+    "Implementación de un plan de micromediadas de eficiencia energética (análisis de facturas, hábitos y formación).",
+    "Prohibición de cortar suministros a familias que estén tramitando su declaración de vulnerabilidad social.",
+    "Sanciones económicas severas para comercializadoras que incumplan la normativa de protección.",
+    "Colaboración obligatoria entre la Generalitat y los ayuntamientos para la gestión de expedientes y pagos."
+  ],
+  "legal_references": [
+    "Directiva 2009/72/CE",
+    "Directiva 2009/73/CE",
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunidad Valenciana",
+    "Real Decreto Legislativo 3/2011"
+  ],
+  "derogations": [
+    "Artículos 3, 4, 5, 6 y 7 de la Ley 3/2017 (derogados)"
+  ],
+  "main_obligations": "Las empresas suministradoras tienen prohibido cortar el suministro a familias con bono social o precios voluntarios mientras se tramita su vulnerabilidad. Las empresas que cometan infracciones graves pueden ser multadas entre 3.005,07 € y 15.025,30 €, y las muy graves hasta 601.012,10 €.",
+  "effective_date": "2017-03-08",
+  "procedures": [
+    {
+      "name": "Declaración de hogar en situación de vulnerabilidad social",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de vulnerabilidad",
+          "descrption": "El ciudadano solicita la declaración ante la administración local de forma presencial o telemática.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe de los servicios sociales municipales que acredite la renta mínima de inserción o renta garantizada de ciudadanía."
+        }
+      ]
+    },
+    {
+      "name": "Plan de micromediadas de eficiencia energética",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración y aprobación del plan",
+          "descrption": "La Agencia Valenciana de la Energía elabora el plan para ser aprobado por el Consell.",
+          "start_date": null,
+          "end_date": "6 meses después de la entrada en vigor",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Evaluación anual",
+          "descrption": "Evaluación de la eficacia del plan mediante una comisión de seguimiento.",
+          "start_date": null,
+          "end_date": "Anual",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

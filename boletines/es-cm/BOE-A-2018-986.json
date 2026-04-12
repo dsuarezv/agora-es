@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-2018-986",
+  "title": "Ley 4/2017, de 30 de noviembre, de Microempresas Cooperativas y Cooperativas Rurales de Castilla-La Mancha y por la que se modifica la Ley 11/2010, de 4 de noviembre, de Cooperativas de Castilla-La Mancha",
+  "visible_title": "Ley de Microempresas Cooperativas y Cooperativas Rurales de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "4/2017",
+  "publication_date": "2018-01-26",
+  "enactment_date": "2017-11-30",
+  "last_updated": "2017-12-11",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2017/11/30/4",
+  "official_journal": "Diario Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley crea un marco jurídico ágil y específico para dos modelos de negocio: las microempresas cooperativas (de 2 a 10 socios) y las cooperativas rurales. Busca simplificar la gestión de estas entidades para que puedan adaptarse mejor a la economía rural y a proyectos de pequeña escala. Además, moderniza la Ley de Cooperativas de la región eliminando trámites burocráticos innecesarios y facilitando la gestión de sus fondos y órganos de administración.",
+  "citizen_impact": "No tiene un impacto directo en la vida cotidiana de la mayoría de los ciudadanos, salvo para aquellos que vivan en zonas rurales y se beneficien de la dinamización económica que estas cooperativas pueden generar.",
+  "professional_impact": "Impacto directo para emprendedores y cooperativistas de Castilla-La Mancha. Reduce la carga administrativa al permitir trámites abreviados de constitución, simplifica la renovación de administradores y ofrece flexibilidad en la contratación de trabajadores no socios para microempresas de trabajo asociado durante sus primeros 7 años.",
+  "keywords": [
+    "cooperativas",
+    "microempresas cooperativas",
+    "cooperativas rurales",
+    "Castilla-La Mancha",
+    "desarrollo rural",
+    "derecho cooperativo"
+  ],
+  "key_points": [
+    "Creación de la figura de 'microempresa cooperativa' con un límite de entre 2 y 10 socios.",
+    "Implementación de un régimen de tramitación abreviada para la constitución de microempresas si usan modelos de estatutos oficiales.",
+    "Permiso para que las microempresas de trabajo asociado contraten trabajadores ajenos sin los límites habituales durante los primeros 7 años.",
+    "Regulación de las 'cooperativas rurales' para permitir la diversificación de actividades (turismo, energía, etc.) mediante un sistema de secciones.",
+    "Simplificación de la gestión administrativa: eliminación de la necesidad de publicidad en prensa para cambios estatutarios y procesos de renovación más ágiles.",
+    "Posibilidad de disolver, liquidar y extinguir una cooperativa de forma simultánea si hay unanimidad y no hay deudas.",
+    "Introducción de criterios de desempate en licitaciones públicas para cooperativas de iniciativa social sin ánimo de lucro.",
+    "Facilidad para que las cooperativas rurales operen con terceros no socios sin límites porcentuales estrictos."
+  ],
+  "legal_references": [
+    "Ley 11/2010, de 4 de noviembre, de Cooperativas de Castilla-La Mancha",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Real Decreto Legislativo 8/2015, de 30 de octubre (Ley General de la Seguridad Social)",
+    "Real Decreto 1972/2008"
+  ],
+  "derogations": [
+    "Modificaciones parciales a la Ley 11/2010, de 4 de noviembre"
+  ],
+  "main_obligations": "Las microempresas cooperativas deben incluir su denominación específica en sus estatutos. Las cooperativas rurales deben acreditar documentalmente la realización de sus actividades para mantener su calificación. Las microempresas de trabajo asociado deben elegir en sus estatutos su régimen de Seguridad Social (autónomos o asalariados).",
+  "effective_date": "2018-01-16",
+  "procedures": [
+    {
+      "name": "Constitución de Microempresa Cooperativa (Tramitación Abreviada)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Redacción de escritura pública",
+          "description": "Elaboración de la escritura de constitución utilizando los modelos de la Consejería.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública y estatutos conforme a modelos oficiales."
+        },
+        {
+          "step": 2,
+          "title": "Inscripción registral",
+          "description": "El Registro de Cooperativas debe tramitar la inscripción en el plazo del día hábil siguiente.",
+          "start_date": null,
+          "end_date": "1 día hábil",
+          "required_documentation": "Documentación completa en la sede registral."
+        }
+      ]
+    },
+    {
+      "name": "Transformación en Microempresa o Cooperativa Rural",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Modificación estatutaria",
+          "description": "Procedimiento para adaptar los estatutos de una cooperativa ordinaria al nuevo régimen.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acuerdo de modificación de estatutos según Ley 11/2010."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

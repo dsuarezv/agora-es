@@ -1,0 +1,109 @@
+{
+  "identifier": "BOE-A-2016-11021",
+  "title": "Ley 8/2016, de 28 de octubre, de Incompatibilidades y Conflictos de Intereses de Personas con Cargos Público de la Generalitat Valenciana",
+  "visible_title": "Ley de Incompatibilidades y Conflictos de Intereses de Cargos Públicos",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "8/2016",
+  "publication_date": "2016-11-23",
+  "enactment_date": "2016-10-28",
+  "last_updated": "2024-07-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2016/10/28/8",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta ley busca frenar la corrupción y el clientelismo en la administración valenciana regulando qué actividades pueden realizar los altos cargos. Establece límites estrictos para evitar que los políticos favorezcan a empresas privadas tras dejar su puesto (puertas giratorias). Para ello, crea una Oficina de Control de Conflictos de Intereses y un registro público de bienes y actividades de estos cargos.",
+  "citizen_impact": "Aumenta la transparencia y la confianza en la gestión pública al permitir que cualquier ciudadano consulte los bienes e intereses de los altos cargos. También ofrece canales para denunciar irregularidades de forma confidencial.",
+  "professional_impact": "Los altos cargos de la Generalitat deben declarar sus bienes y actividades pasadas y presentes, y tienen prohibido trabajar en sectores relacionados con su competencia durante periodos de hasta 3 años tras su cese. Las empresas que contraten con la administración deben tener cuidado de no hacerlo con personas que tengan vínculos de conflicto con los cargos públicos.",
+  "keywords": [
+    "incompatibilidades",
+    "conflictos de intereses",
+    "transparencia",
+    "altos cargos",
+    "corrupción",
+    "puertas giratorias",
+    "Generalitat Valenciana"
+  ],
+  "key_points": [
+    "Creación de la Oficina de Control de Conflictos de Intereses para supervisar y sancionar.",
+    "Obligación de declarar actividades de los dos años anteriores al nombramiento y bienes patrimoniales.",
+    "Prohibición de trabajar en entidades privadas que generen conflicto de intereses durante 2 o 3 años tras el cese.",
+    "Prohibición de contratar con la administración a través de empresas donde el cargo público o su familia tengan participaciones significativas.",
+    "Régimen de dedicación absoluta y exclusiva para cargos remunerados.",
+    "Publicidad de los extractos de las declaraciones de bienes y rentas en el portal de transparencia.",
+    "Sanciones que incluyen desde multas y la publicación del nombre del infractor hasta la prohibición de volver a ocupar cargos públicos por hasta 10 años.",
+    "Protección y canales confidenciales para la denuncia de irregularidades por parte de ciudadanos."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunitat Valenciana",
+    "Ley 3/2015, de 30 de marzo, reguladora del ejercicio del alto cargo de la administración general del Estado",
+    "Ley 1/2015, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones",
+    "Ley 7/1985, de 2 de abril, reguladora de las bases del régimen local",
+    "Ley Orgánica 5/1985, de 19 de junio, del régimen electoral general",
+    "Ley 4/2021, de 16 de abril, de la función pública valenciana",
+    "Ley 1/2022, de 13 de abril, de transparencia y buen gobierno",
+    "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público",
+    "Ley 10/2010, de 9 de julio, de la Generalitat, de la ordenación y gestión de la función pública valenciana"
+  ],
+  "derogatations": [
+    "Normas que se opongan a esta ley"
+  ],
+  "main_obligations": "Los altos cargos deben presentar declaraciones de actividades (incluyendo los 2 años previos) y de bienes/derechos patrimoniales al ser nombrados y anualmente. Deben abstenerse de asuntos donde tengan intereses personales o familiares y, en caso de incompatibilidad detectada, tienen 2 meses para subsanarla.",
+  "effective_date": "2016-11-24",
+  "procedures": [
+    {
+      "name": "Declaración de actividades y bienes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación al nombramiento",
+          "description": "Entrega de la declaración de actividades de los 2 años anteriores y declaración de bienes y derechos patrimoniales.",
+          "start_date": "Desde la fecha de efectos del nombramiento",
+          "end_date": null,
+          "required_documentation": "Declaración de actividades, declaración de bienes, derechos y obligaciones patrimoniales, y copia de la última declaración de IRPF y Patrimonio."
+        },
+        {
+          "step": 2,
+          "title": "Actualización anual",
+          "description": "Presentación anual de la copia de la última declaración tributaria (IRPF/Patrimonio).",
+          "start_date": "Anualmente durante el ejercicio del cargo",
+          "end_date": null,
+          "required_documentation": "Copia de la declaración tributaria o autorización de consulta directa a la administración."
+        },
+        {
+          "step": 3,
+          "title": "Declaración al cese",
+          "description": "Presentación de declaración de actividades previstas tras el cese y nueva declaración de bienes actualizada.",
+          "start_date": "Al producirse el cese",
+          "end_date": null,
+          "required_documentation": "Declaración de actividades post-cese y declaración de bienes actualizada."
+        }
+      ]
+    },
+    {
+      "name": "Subsanación de incompatibilidad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de incompatibilidad",
+          "description": "La Oficina de Control notifica la situación de incompatibilidad detectada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo para retornar a la compatibilidad",
+          "description": "El afectado debe desprenderse de las acciones o participaciones incompatibles.",
+          "start_date": "Desde la notificación",
+          "end_date": "2 meses",
+          "required_documentation": "Acreditación de la transmisión de acciones o cese de actividad."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,89 @@
+{
+  "identifier": "BOE-A-2012-3402",
+  "title": "Ley 3/1989, de 30 de mayo, de Armonización, Coordinación y Colaboración Fiscal",
+  "visible_title": "Ley de Armonización, Coordinación y Colaboración Fiscal",
+  "rank": "ley",
+  "country": "es",
+  "department": "Parlamento Vasco",
+  "official_number": "3/1989",
+  "publication_date": "2012-03-10",
+  "enactment_date": "1989-05-30",
+  "last_updated": "2016-04-14",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1989/05/30/3",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco para que las diferentes Diputaciones Forales del País Vasco actúen de forma coordinada y no contradictoria en materia de impuestos. Busca que los sistemas tributarios de los territorios históricos sean similares para evitar distorsiones económicas y facilitar el cumplimiento de obligaciones. Además, crea un Órgano de Coordinación Tributaria para supervisar que las normas de cada territorio respeten esta armonización.",
+  "citizen_impact": "Facilita la vida de quienes viven o trabajan en varios territorios vascos, permitiéndoles presentar declaraciones únicas en un solo lugar para ciertos impuestos (como Sociedades o IVA). Esto reduce la carga administrativa y la confusión al tener que lidiar con distintas administraciones.",
+  "professional_impact": "Las empresas y autónomos con actividad en múltiples territorios históricos pueden centralizar sus obligaciones fiscales en una sola Diputación. Para los funcionarios de Hacienda, introduce la obligación de realizar planes de inspección conjuntos y compartir información técnica para combatir el fraude de forma más eficiente.",
+  "keywords": [
+    "armonización fiscal",
+    "coordinación tributaria",
+    "Diputaciones Forales",
+    "País Vasco",
+    "centralización de obligaciones",
+    "inspección conjunta"
+  ],
+  "key_points": [
+    "Creación del Órgano de Coordinación Tributaria para supervisar la gestión entre Diputaciones.",
+    "Posibilidad de centralizar el cumplimiento de obligaciones de IVA y Sociedades en un solo territorio.",
+    "Uso de modelos de declaración únicos válidos en cualquier territorio histórico vasco.",
+    "Implementación de planes conjuntos de inspección para evitar duplicidades y mejorar la lucha contra el fraude.",
+    "Obligación de emitir informes previos del Órgano de Coordinación para consultas vinculantes.",
+    "Armonización de elementos sustantivos en IRPF, Impuesto de Sociedades y Transmisiones Patrimoniales."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de la Comunidad Autónoma de Euskadi",
+    "Ley del Concierto Económico",
+    "Ley 27/1983, de 25 de noviembre, de Relaciones entre las Instituciones Comunes de la Comunidad Autónoma y los Órganos Forales de sus Territorios Históricos"
+  ],
+  "derogations": [],
+  "main_obligations": "Las Diputaciones Forales deben remitir anteproyecto de sus normas generales al Órgano de Coordinación Tributaria para su informe. Los sujetos pasivos que opten por la centralización deben presentar una declaración previa ante las Diputaciones afectadas.",
+  "effective_date": "1989-06-01",
+  "procedures": [
+    {
+      "name": "Centralización de obligaciones fiscales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de declaración de centralización",
+          "descrption": "El sujeto pasivo o retenedor debe comunicar su intención de centralizar sus obligaciones ante las Diputaciones Forales afectadas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración ante las Diputaciones Forales afectadas"
+        },
+        {
+          "step": 2,
+          "title": "Remisión de documentación y liquidación",
+          "descrption": "La Diputación donde se centralice debe enviar la documentación y los ingresos a las demás Diputaciones en el plazo establecido.",
+          "start_date": "1 mes tras la presentación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Emisión de informe del Órgano de Coordinación Tributaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Remisión de anteproyecto",
+          "descrption": "Las Diputaciones remiten el anteproyecto de disposición general al Órgano de Coordinación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Anteproyecto de disposición general"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de emisión de informe",
+          "descrption": "El Órgano debe emitir informe en 30 días, o en 10 días si hay urgencia o solicitud de las tres Diputaciones.",
+          "start_date": null,
+          "end_date": "30 días (o 10 días si es urgente)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

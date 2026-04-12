@@ -1,0 +1,105 @@
+{
+  "identifier": "BOE-A-2007-2207",
+  "title": "Ley 13/2006, de 27 de diciembre, de horarios comerciales de Galicia",
+  "visible_title": "Ley de horarios comerciales de Galicia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "13/2006",
+  "publication_date": "2007-02-02",
+  "enactment_date": "2006-12-27",
+  "last_updated": "2013-02-14",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2006/12/27/13",
+  "official_journal": "Diario Oficial de Galicia",
+  "journal_issue": null,
+  "summary": "Esta ley regula los horarios de apertura y cierre de los comercios minoristas en Galicia para equilibrar el abastecimiento con la conciliación familiar. Establece un límite de 90 horas semanales de actividad y un máximo de 10 domingos y festivos de apertura al año. Además, busca proteger el comercio de proximidad frente a las grandes superficies y permite a los ayuntamientos gestionar excepciones locales.",
+  "citizen_impact": "Los ciudadanos dispondrán de un calendario anual de domingos y festivos de apertura para planificar sus compras. También garantiza el descanso en fechas clave como el 1 de enero, 1 de mayo, 25 de julio y 25 de diciembre, asegurando que los comercios cierren en esos días.",
+  "professional_impact": "Los comerciantes tienen libertad para fijar sus horarios dentro de los límites legales (máximo 90h/semana y franja 08:00-24:00). Las empresas deben cumplir con la publicidad visible de sus horarios y enfrentarse a sanciones que pueden llegar al millón de euros en casos muy graves. Los ayuntamientos adquieren nuevas competencias para solicitar cambios en el calendario comercial y para inspeccionar el cumplimiento de la norma.",
+  "keywords": [
+    "horarios comerciales",
+    "comercio minorista",
+    "Galicia",
+    "apertura domingos",
+    "festivos comerciales",
+    "tiendas de conveniencia",
+    "zonas turísticas"
+  ],
+  "key_points": [
+    "Límite máximo de 90 horas de actividad comercial a la semana.",
+    "La actividad comercial debe realizarse preferentemente entre las 08:00 y las 24:00 horas.",
+    "Máximo de 10 domingos y festivos de apertura al año, determinados anualmente.",
+    "Cierre obligatorio los días 1 de enero, 1 de mayo, 17 de mayo, 25 de julio y 25 de diciembre.",
+    "Las tiendas de conveniencia deben abrir al menos 18 horas diarias todo el año.",
+    "Los ayuntamientos pueden solicitar la modificación de hasta dos fechas de apertura para su municipio.",
+    "Exención de horarios para comercios en zonas turísticas, estaciones, gasolineras y tiendas de menos de 300m².",
+    "Posibilidad de prohibir la venta de alcohol de 22:00 a 09:00 por orden municipal.",
+    "Las sanciones por infracciones muy graves pueden alcanzar el millón de euros."
+  ],
+  "legal_references": [
+    "Estatuto de autonomía de Galicia",
+    "Constitución Española",
+    "Ley 10/1988, de 20 de julio, de comercio interior de Galicia",
+    "Decreto 365/1996, de 26 de septiembre"
+  ],
+  "derogatons": [
+    "Artículos 13 y 44.3 de la Ley 10/1988, de 20 de julio, de comercio interior de Galicia",
+    "Decreto 365/1996, de 26 de septiembre"
+  ],
+  "main_obligations": "Los comercios deben exhibir sus horarios de forma visible desde el exterior. Deben respetar el límite de 90 horas semanales y los cierres obligatorios en fechas señaladas. El incumplimiento de horarios o la venta de alcohol en horas prohibidas conlleva multas de hasta 50.000 euros.",
+  "effective_date": "2007-02-03",
+  "procedures": [
+    {
+      "name": "Determinación de domingos y festivos hábiles comercialmente",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación del calendario anual",
+          "descrption": "La Consejería publica en el DOG las fechas de apertura para el año siguiente.",
+          "start_date": "antes del 15 de octubre",
+          "end_date": null,
+          "required_documentation": "Consulta previa a asociaciones de consumidores, cámaras de comercio y organizaciones sindicales/empresariales."
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de modificación municipal",
+          "descrption": "Los ayuntamientos pueden pedir cambiar hasta dos fechas para su municipio.",
+          "start_date": "antes del 15 de noviembre",
+          "end_date": "15 de noviembre",
+          "required_documentation": "Solicitud motivada e informes de la cámara de comercio y organizaciones sectoriales."
+        },
+        {
+          "step": 3,
+          "title": "Resolución de cambios",
+          "descrption": "La Consejería resuelve la petición y publica los cambios definitivos.",
+          "start_date": "15 días tras la solicitud",
+          "end_date": "antes del 15 de diciembre",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de zonas de gran afluencia turística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta municipal",
+          "descrption": "El ayuntamiento propone la zona, el periodo y el horario mediante acuerdo del pleno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informes de Cámara de Comercio, asociaciones de comerciantes, consumidores y sindicatos."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la Consejería",
+          "descrption": "Aprobación o denegación tras informe de la Dirección General de Turismo.",
+          "start_date": null,
+          "end_date": "3 meses tras la presentación",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

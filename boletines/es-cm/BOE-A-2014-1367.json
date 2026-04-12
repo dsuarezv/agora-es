@@ -1,0 +1,104 @@
+{
+  "identifier": "BOE-A-2014-1367",
+  "title": "Ley 7/2013, de 21 de noviembre, de adecuación de procedimientos administrativos y reguladora del régimen general de la declaración responsable y comunicación previa",
+  "visible_title": "Ley de adecuación de procedimientos administrativos y régimen de declaración responsable y comunicación previa",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "7/2013",
+  "publication_date": "2014-02-10",
+  "enactment_date": "2013-11-21",
+  "last_updated": "2025-07-17",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2013/11/21/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma busca simplificar la administración en Castilla-La Mancha eliminando trabas burocráticas para fomentar la actividad económica. Cambia el modelo de control previo por uno de control 'a posteriori' mediante la introducción de declaraciones responsables y comunicaciones previas. Además, reduce los plazos de resolución y establece que, por regla general, el silencio administrativo debe ser estimatorio (positivo) para evitar esperas indefinidas.",
+  "citizen_impact": "Facilita el inicio de actividades económicas o el ejercicio de derechos sin esperar autorizaciones previas lentas, siempre que se cumplan los requisitos. Sin embargo, el ciudadano asume la responsabilidad de que la información aportada sea veraz, bajo riesgo de perder el derecho si se detectan engaños.",
+  "professional_impact": "Empresas y autónomos se benefician de una mayor agilidad para operar mediante declaraciones responsables, reduciendo la incertidumbre de los plazos. Los funcionarios deben adaptarse a nuevos modelos de control y a la obligación de resolver en plazos más estrictos, pasando de un rol de 'autorizador' a uno de 'verificador'.",
+  "keywords": [
+    "simplificación administrativa",
+    "silencio administrativo",
+    "declaración responsable",
+    "comunicación previa",
+    "Castilla-La Mancha",
+    "procedimiento administrativo",
+    "libertad de actividad"
+  ],
+  "key_points": [
+    "Se establece el silencio administrativo estimatorio como regla general para evitar bloqueos administrativos.",
+    "Se crea un régimen de declaraciones responsables que permite actuar antes de recibir una resolución oficial.",
+    "Se fijan plazos máximos de resolución para procedimientos que antes no tenían límite claro.",
+    "Los procedimientos sancionadores simplificados deben resolverse en un máximo de tres meses.",
+    "La Administración tiene la potestad de comprobar la veracidad de los datos en cualquier momento.",
+    "Se permite la suspensión cautelar de una actividad si hay riesgos graves para la seguridad o intereses de terceros.",
+    "Se otorga un plazo de 10 días para subsanar errores en las declaraciones responsables antes de declararlas ineficaces."
+  ],
+  "legal_references": [
+    "Directiva 2006/123/CE",
+    "Ley 2/2011, de 4 de marzo, de Economía Sostenible",
+    "Ley 30/1992, de 26 de diciembre",
+    "Ley 8/2006, de 20 de diciembre",
+    "Ley 17/2009, de 23 de diciembre",
+    "Ley 7/2011, de 21 de marzo, de Espectáculos Públicos, Actividades Recreativas y Establecimientos Públicos de Castilla-La Mancha"
+  ],
+  "derogations": [
+    "Ley 8/2006, de 20 de diciembre, que establece el Régimen Jurídico aplicable a la Resolución Administrativa en determinadas materias"
+  ],
+  "main_obligations": "Los interesados deben aportar datos precisos (NIF, objeto, firma) en sus declaraciones responsables. Si se detecta falsedad o incumplimiento de requisitos, la Administración puede declarar la pérdida de eficacia de la declaración tras un proceso de audiencia o subsanación.",
+  "effective_date": "2014-03-02",
+  "procedures": [
+    {
+      "name": "Declaración responsable o comunicación previa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración",
+          "description": "El interesado presenta la documentación acreditando el cumplimiento de requisitos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos personales, identificación del objeto, firma y acreditación de cumplimiento de normativa vigente."
+        },
+        {
+          "step": 2,
+          "title": "Subsanación de defectos (si procede)",
+          "description": "Plazo para corregir errores en la presentación si la Administración lo requiere.",
+          "start_date": "10 días",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Verificación administrativa",
+          "description": "La Administración comprueba la veracidad de los datos en cualquier momento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Subsanación de incumplimiento sobrevenido",
+          "description": "Si se detecta que se han dejado de cumplir requisitos tras la presentación.",
+          "start_date": "15 días",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador simplificado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Resolución y notificación",
+          "description": "Plazo máximo para finalizar el procedimiento desde su inicio.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

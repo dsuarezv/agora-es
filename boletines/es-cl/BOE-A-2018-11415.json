@@ -1,0 +1,166 @@
+{
+  "identifier": "BOE-A-2018-11415",
+  "title": "Ley 4/2018, de 2 de julio, de ordenación y funcionamiento de la red de protección e inclusión a personas y familias en situación de mayor vulnerabilidad social o económica en Castilla y León",
+  "visible_title": "Ley de ordenación y funcionamiento de la red de protección e inclusión para personas y familias vulnerables en Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "4/2018",
+  "publication_date": "2018-08-10",
+  "enactment_date": "2018-07-02",
+  "last_updated": "2022-10-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2018/07/02/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea una red de protección coordinada en Castilla y León para intervenir de forma inmediata ante situaciones de pobreza, desamparo o riesgo de exclusión. Su objetivo es evitar que las familias caigan en la precariedad extrema mediante ayudas directas para vivienda, alimentación y suministros básicos. Además, flexibiliza la Rentas Garantizada de Ciudadanía para que sea compatible con otras prestaciones y facilita el acceso de refugiados a las ayudas. En definitiva, busca una respuesta rápida y personalizada que actúe antes de que se produzcan desahucios o cortes de suministros.",
+  "citizen_impact": "Los ciudadanos en situación de vulnerabilidad acceden a un sistema de respuesta rápida (alimentación en 24h) y protección frente a desahucios o cortes de luz y agua. Se facilita la supervivencia económica al permitir cobrar la Renta Garantizada junto con el desempleo o maternidad/paternidad, y se protege el patrimonio mínimo (viviendas de bajo valor catastral) para que no impida recibir ayudas.",
+  "professional_impact": "Los profesionales de servicios sociales (trabajadores sociales, pedagogos, etc.) adquieren protección penal al ser considerados autoridad pública. Las administraciones deben garantizar recursos y cumplir plazos de urgencia, mientras que los agentes de la Red tienen la obligación de usar la identificación oficial en su comunicación.",
+  "keywords": [
+    "vulnerabilidad social",
+    "protección económica",
+    "Renta Garantizada de Ciudadanía",
+    "ayudas de vivienda",
+    "prevención de desahucios",
+    "Castilla y León",
+    "exclusión social"
+  ],
+  "key_points": [
+    "Provisión inmediata de alimentos con un plazo máximo de respuesta de 24 horas.",
+    "Ayudas económicas para evitar desahucios, cubriendo deudas de alquiler y cuotas hipotecarias.",
+    "Garantía de suministro de agua y energía mediante acuerdos con operadores para evitar cortes por impago.",
+    "Compatibilidad de la Renta Garantizada con prestaciones de desempleo, maternidad, paternidad e incapacidad temporal.",
+    "Protección de la vivienda habitual al excluir del cómputo patrimonial inmuebles urbanos con valor catastral inferior a 12.000€ y bienes rústicos en municipios pequeños.",
+    "Creación de la 'Red Centinela' para detectar la vulnerabilidad de menores en centros sanitarios y educativos.",
+    "Facilitación de ayudas para refugiados mediante el cobro a través de entidades sin ánimo de lucro.",
+    "Acceso prioritario para personas dependientes o en urgencia social mediante valoración técnica.",
+    "Creación de un Banco de Prácticas Innovadoras y un Mapa de Recursos para la ciudadanía."
+  ],
+  "legal_references": [
+    "Declaración Universal de los Derechos Humanos",
+    "Convenio sobre los Derechos del Niño",
+    "Constitución Española",
+    "Estatuto de Autoayuda de Castilla y León",
+    "Ley 16/2010, de 20 de diciembre, de Servicios Sociales de Castilla y León",
+    "Decreto-Ley 2/2013, de 21 de noviembre",
+    "Acuerdo 51/2014, de 29 de mayo",
+    "Ley 39/2015, de 1 de diciembre, del Procedimiento Administrativo Común",
+    "Ley 3/2015, de 4 de marzo, de Transparencia y de Participación Ciudadana de Castilla y León",
+    "Decreto Legislativo 1/2014, de 27 de febrero",
+    "Ley 4/2016, de 23 de diciembre",
+    "Ley 44/2003, de 20 de diciembre, de Ordenación de las Profesiones Sanitarias"
+  ],
+  "derogatons": [
+    "Artículos 3, 5, 6, 7 y disposiciones adicionales 1ª y 2ª del Decreto-Ley 2/2013",
+    "Disposición adicional única del texto refundido de la Ley de Rentas Garantizada de Ciudadanía (Decreto Legislativo 1/2014)",
+    "Artículo 2 de la Ley 4/2016 (en lo referente a la Rentas Garantizada)",
+    "Disposición adicional primera del Decreto-Ley 2/2013"
+  ],
+  "main_obligations": "Los beneficiarios de la Rentas Garantizada deben comunicar cualquier cambio en su situación económica o familiar de forma fehaciente. Las administraciones están obligadas a dotar de medios suficientes para cumplir los plazos de urgencia social.",
+  "effective_date": "2018-08-10",
+  "procedures": [
+    {
+      "name": "Servicio de provisión inmediata de alimentación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de información",
+          "description": "La persona contacta a través del servicio 012 para solicitar la asistencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Prescripción profesional",
+          "description": "Un profesional de los servicios sociales realiza la prescripción del servicio tras la derivación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Provisión de alimentos",
+          "description": "Se satisface la necesidad de alimentación en un plazo máximo de 24 horas.",
+          "start_date": null,
+          "end_date": "24 horas desde la prescripción",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Prestación económica por deuda hipotecaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación del procedimiento",
+          "description": "Inicio del expediente tras acreditar la situación de riesgo de impago o impago.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe técnico de riesgo de impago"
+        },
+        {
+          "step": 2,
+          "title": "Informe social",
+          "description": "Los equipos de los Centros de Acción Social (CEAS) elaboran el informe de idoneidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución y concesión",
+          "description": "Se concede la ayuda en un plazo máximo de un mes.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de la Renta Garantizada de Ciudadanía tras cambios de situación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de cambios",
+          "description": "El titular debe informar de cambios en la unidad familiar o situación económica.",
+          "start_date": "Inmediato al cambio",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Reanudación de la prestación",
+          "description": "En caso de suspensión por trabajo, el interesado debe solicitar la reanudación comunicando el cese de la actividad.",
+          "start_date": "Al cesar la causa de suspensión",
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el cese de la actividad laboral"
+        }
+      ]
+    },
+    {
+      "name": "Implementación de la Red de Protección",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación del Mapa de Recursos",
+          "description": "La consejería debe aprobar y publicar un mapa con los recursos, titularidad y ámbito territorial.",
+          "start_date": "6 meses desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Publicación de datos en Portal de Gobierno Abierto",
+          "description": "Publicación de datos de gestión, utilización y evolución de la Red.",
+          "start_date": "6 meses desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

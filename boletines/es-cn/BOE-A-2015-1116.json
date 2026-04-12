@@ -1,0 +1,129 @@
+{
+  "identifier": "BOE-A-2015-1116",
+  "title": "Ley 14/2014, de 26 de diciembre, de Armoniacación y Simplificación en materia de Protección del Territorio y de los Recursos Naturales",
+  "visible_title": "Ley de Armonización y Simplificación en materia de Protección del Territorio y de los Recursos Naturales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "14/2014",
+  "publication_date": "2015-02-06",
+  "enactment_date": "2014-12-26",
+  "last_updated": "2017-07-19",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2014/12/26/14",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley transforma la gestión del suelo y el medio ambiente en Canarias para eliminar la burocracia y agilizar trámites. Introduce un sistema de planificación municipal más ágil dividido en planes básicos y pormenorizados, permitiendo que la administración superior intervenga si los ayuntamientos no cumplen sus deberes. Además, moderniza la evaluación ambiental permitiendo la participación de entidades privadas acreditadas y endurece las sanciones para proteger los recursos naturales frente a la saturación turística e industrial.",
+  "citizen_impact": "Los ciudadanos verán una gestión del territorio más rápida gracias a la simplificación de trámites ambientales. Sin embargo, se endurecen las reglas para construir en suelo rústico y se limita la expansión de asentamientos rurales. Los propietarios de terrenos con valor natural pueden recibir beneficios urbanísticos, pero también enfrentan la posibilidad de expropiación si no mantienen el sistema ambiental o la producción tradicional.",
+  "professional_impact": "Empresas y promotores deben adaptarse a nuevos requisitos de evaluación ambiental (ordinaria o simplificada) según el tamaño y ubicación de sus proyectos. Los sectores minero y turístico enfrentan controles más estrictos, como la obligación de demostrar la 'capacidad de carga' de la zona y el pago de cánones municipales por uso de suelo rústico. Los profesionales técnicos y jurídicos deberán integrar equipos multidisciplinares obligatorios para la redacción de planes.",
+  "keywords": [
+    "ordenación del territorio",
+    "protección ambiental",
+    "suelo rústico",
+    "evaluación de impacto ambiental",
+    "Canarias",
+    "simplificación administrativa",
+    "desarrollo sostenible"
+  ],
+  "key_points": [
+    "Nueva división del planeamiento municipal en Plan Básico (estructural) y Plan de Ordenación Pormenorizada (detallado).",
+    "Agilización de trámites mediante la creación de entidades privadas colaboradoras para evaluaciones ambientales.",
+    "Posibilidad de que el Gobierno o Cabildos asuman la planificación si los ayuntamientos incurren en inacción o incumplimiento grave.",
+    "Limitación estricta del crecimiento de asentamientos rurales al crecimiento vegetativo y necesidades de equipamiento.",
+    "Obligatoriedad de pagar un canon municipal (1% al 5% del presupuesto de obra) por cualquier aprovechamiento de suelo rústico para edificación.",
+    "Introducción de la 'capacidad de carga' como requisito técnico para transformar suelo en uso turístico.",
+    "Nuevas figuras de colaboración ciudadana ('colaborador con el medio físico') con incentivos y preferencia en licitaciones.",
+    "Endurecimiento de sanciones: reducción de hasta el 95% si hay reconocimiento voluntario de responsabilidad.",
+    "Facultad de la administración para imponer multas coercitivas de hasta 2.000€ mensuales para forzar la restauración de la legalidad.",
+    "Prohibición de contratar con la administración durante 3 años a empresas con infracciones graves o muy graves en materia ambiental.",
+    "Limitación de instalaciones de energía renovable en suelo rústico de valor económico a 1,5 MW y máximo 10% de la superficie.",
+    "Creación de zonas de ordenación de recursos naturales (A, B y C) según su valor ambiental."
+  ],
+  "legal_references": [
+    "Decreto Legislativo 1/2000",
+    "Ley 6/2009",
+    "Ley estatal 21/2013",
+    "Directiva 2006/123/CE",
+    "Ley 17/2009",
+    "Ley 25/2009",
+    "Ley 11/1990",
+    "Ley 42/2007",
+    "Directiva 2011/92/UE",
+    "Ley 38/1999",
+    "Ley 41/2007",
+    "Ley 30/1992",
+    "Texto Refundido de las Leyes de Ordenación del Territorio de Canarias y de Espacios Naturales de Canarias",
+    "Texto Refundido de la Ley de Contratos del Sector Público",
+    "Ley de Suelo (Real Decreto Legislativo 2/2008)",
+    "Ley 19/2003 de Directrices de Ordenación General y del Turismo de Canarias",
+    "Ley 22/2011 de residuos y suelos contaminados",
+    "Ley 9/1991 de Carreteras de Canarias",
+    "Ley 12/1990 de Aguas",
+    "Ley 43/2003 de Montes",
+    "Ley 40/2010 de almacenamiento geológico de dióxido de carbono",
+    "Ley 48/1960 de Navegación Aérea",
+    "Reglamento técnico sobre seguridad de presas y embalses"
+  ],
+  "derogations": [
+    "Ley 11/1990, de 13 de julio, de Prevención del Impacto Ecológico de Canarias",
+    "Artículos 178, 183 y 224.2 b) del Texto Refundido de las Leyes de Ordenación del Territorio y de Espacios Naturales de Canarias",
+    "Diversas directrices de la Ley 19/2003"
+  ],
+  "main_obligations": "Los titulares de actividades mineras deben regularizar su situación ambiental en un plazo de un año. Los ayuntamientos deben actualizar su plan general cada cuatro años. Los infractores deben restaurar la legalidad en un máximo de dos meses tras la notificación.",
+  "effective_date": "2015-02-26",
+  "procedures": [
+    {
+      "name": "Evaluación de Impacto Ambiental",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Determinación del tipo de evaluación",
+          "description": "Clasificación del proyecto en evaluación ordinaria o simplificada según magnitud, ubicación y características técnicas.",
+          "start_date": "Al inicio del proyecto",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Realización de la evaluación",
+          "description": "Ejecución de la evaluación mediante la administración o entidades privadas colaboradoras acreditadas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Información técnica del proyecto (indicando qué es secreto comercial)"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador y de Restauración",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requerimiento de restablecimiento de la legalidad",
+          "description": "Primer aviso de la administración para corregir la infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Restauración voluntaria",
+          "description": "Plazo para evitar el expediente sancionador mediante la corrección de la ilegalidad.",
+          "start_date": "Tras el primer requerimiento",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Plazo máximo de restauración tras resolución",
+          "description": "Plazo límite para cumplir la resolución de ilegalidad antes de medidas coercitivas.",
+          "start_date": "Tras la notificación de la resolución",
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 5
+}

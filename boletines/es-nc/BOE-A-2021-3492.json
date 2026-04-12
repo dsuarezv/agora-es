@@ -1,0 +1,158 @@
+{
+  "identifier": "BOE-A-2021-3492",
+  "title": "Ley Foral 2/2021, de 11 de febrero, de Tasas y Precios Públicos de la Comunidad Foral de Navarra y de sus Organismos Autónomos",
+  "visible_title": "Tasas y Precios Públicos de la Comunidad Foral de Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "2/2021",
+  "publication_date": "2021-03-06",
+  "enactment_date": "2021-02-11",
+  "last_updated": "2025-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2021/02/11/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley transforma el sistema de cobros de la Comunidad Foral de Navarra, pasando de un modelo basado en departamentos a uno organizado por materias. Su objetivo es modernizar la gestión pública, simplificando trámites educativos y ambientales. Introduce incentivos económicos para empresas con buenas prácticas sostenibles y ajusta las tasas para evitar cobros indebidos a desempleados en procesos de oposición. En definitiva, busca una estructura tributaria más lógica, digital y orientada a la eficiencia ambiental.",
+  "citizen_impact": "Los ciudadanos verán cambios en el coste de trámites educativos (como las pruebas de madurez en FP) y una mayor protección económica para desempleados que se presentan a oposiciones, evitando cobros injustos. Además, el acceso a la información del Registro Fiscal de la Riqueza Territorial es ahora gratuito si se realiza vía internet.",
+  "professional_impact": "Las empresas del sector agroalimentario y ambiental deben adaptarse a nuevas tasas por gestión de residuos y estiércoles, aunque podrán reducir costes si cuentan con certificaciones ISO 14001 o EMAAS. Los funcionarios tienen ahora una responsabilidad directa y sancionable si exigen tasas indebidas. Los productores de Denominaciones de Origen y empresas de etiquetado ecológico deben seguir nuevos criterios de cálculo de tasas.",
+  "keywords": [
+    "tasas",
+    "precios públicos",
+    "Navarra",
+    "gestión ambiental",
+    "residuos",
+    "oposiciones",
+    "educación",
+    "incentivos fiscales"
+  ],
+  "key_points": [
+    "Reorganización del modelo de cobro: las tasas se gestionan ahora por materias y no por departamentos administrativos.",
+    "Incentivos por sostenibilidad: bonificaciones de hasta el 30% en etiqueta ecológica y reducciones de hasta el 15% en tasas ambientales para empresas con ISO 14001 o EMAAS.",
+    "Simplificación educativa: unificación de tarifas para títulos técnicos y nueva tasa de 18€ para pruebas de madurez en FP.",
+    "Protección al desempleado: ajuste de exenciones en oposiciones para evitar cobros indebidos a personas en situación de mejora.",
+    "Nuevas tasas ambientales: creación de cobros específicos por gestión de residuos de estiércoles y autorización ambiental integrada.",
+    "Digitalización y ahorro: eliminación de tasas por ediciones en imprenta de cartografía, priorizando el formato digital o bajo demanda.",
+    "Responsabilidad de la administración: los funcionarios que cobren tasas indebidas incurrirán en falta muy grave y deberán indemnizar a la Comunidad.",
+    "Costes para productores: las tasas de Denominación de Origen se basan en hectáreas o volumen de producción (máximo 1,5%).",
+    "Etiquetado ecológico: coste de 400€, reducido a 200€ para PYMES y microempresas."
+  ],
+  "legal_references": [
+    "Ley Foral 7/2001, de 27 de marzo",
+    "Convenio Económico (artículo 45 de la Ley Orgánica 13/1982)",
+    "Ley Foral General Tributaria",
+    "Ley Foral 13/2007, de 4 de abril, de la Hacienda Pública de Navarra",
+    "Ley Orgánica 2/2006, de 3 de mayo, de Educación",
+    "Decreto Foral 5/2012, de 25 de enero, sobre Servicios de Comunicación Audiovisual",
+    "Ley Foral 5/2007, de 23 de marzo, de Carreteras de Navarra",
+    "Reglamento (UE) 651/2014",
+    "Recomendación 2003/361/CE de la Comisión",
+    "Ley 16/2002, de 1 de julio, de Prevención y Control Integrados de la Contaminación",
+    "Ley Foral del Registro de la Riqueza Territorial y de los Catastros de fincas registrales"
+  ],
+  "derogatons": [],
+  "main_obligations": "Los sujetos pasivos de inspección sanitaria en mataderos deben llevar un registro obligatorio con número de animales, fecha, horario y peso. Para acceder a bonificaciones por gestión ambiental, es imprescindible presentar una declaración responsable de cumplimiento de los requisitos.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Participación en procedimientos selectivos (Oposiciones)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inscripción",
+          "description": "Presentación de la solicitud para participar en el proceso selectivo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de desempleo (si se solicita exención)"
+        },
+        {
+          "step": 2,
+          "title": "Pago de la tasa",
+          "description": "Abono de la tasa correspondiente según la tarifa aplicada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Expedición de títulos y certificados educativos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud del título",
+          "description": "Presentación de la solicitud para la obtención de títulos o certificados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Pago de la tasa",
+          "description": "Liquidación de la tasa según la tarifa de título técnico o superior.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Concesión de etiqueta ecológica de la Unión Europea",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y pago",
+          "description": "Presentación de la solicitud y pago de la tasa (400€ general o 200€ para PYMES).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "No especificada (se requiere compromiso de cumplimiento de criterios de la etiqueta)"
+        }
+      ]
+    },
+    {
+      "name": "Autorización Ambiental Integrada / Gestión de Residuos de Estiércoles",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Presentación de la solicitud por el titular o inicio de oficio por la Administración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración responsable para bonificaciones"
+        },
+        {
+          "step": 2,
+          "title": "Pago de la tasa",
+          "description": "El pago debe efectuarse al presentar la solicitud (si es a instancia de parte) o al emitir la resolución (si es de oficio).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Servicios de Redacción y Dirección de Obras",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aceptación de presupuesto (Redacción)",
+          "description": "La tasa se devenga cuando el interesado acepta el presupuesto de redacción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Certificación (Dirección)",
+          "description": "La tasa por dirección de obra se devenga con la expedición de cada certificación mediante retención.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

@@ -1,0 +1,217 @@
+{
+  "identifier": "BOE-A-2014-4333",
+  "title": "Ley 2/2014, de 28 de marzo, de Centros Museísticos de Castilla y León",
+  "visible_title": "Ley de Centros Museísticos de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "2/2014",
+  "publication_date": "2014-04-23",
+  "enactment_date": "2014-03-28",
+  "last_updated": "2014-04-03",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2014/03/28/2",
+  "official_journal": "Boletín Oficial de Castilla y León",
+  "journal_issue": null,
+  "summary": "Esta ley reorganiza la gestión del patrimonio cultural en Castilla y León mediante la creación de una Red Museística que integra centros públicos y privados. Establece un control estricto sobre los centros privados, exigiendo autorización previa y planes de gestión específicos para garantizar la conservación de los bienes. Además, otorga a la Administración herramientas potentes para intervenir en caso de riesgo, como la expropiación de bienes o el uso de estos para saldar deudas. El objetivo es profesionalizar la divulgación del patrimonio y asegurar que los museos cumplan estándares de seguridad y conservación.",
+  "citizen_impact": "Mejora la calidad de las visitas culturales al garantizar que los centros cumplan con estándares de seguridad y planes museológicos. Los ciudadanos tienen derecho a información clara sobre horarios y condiciones de visita en lugares visibles.",
+  "professional_impact": "Los gestores de centros privados deben someterse a un régimen de autorización previa, presentar planes museológicos y de seguridad, y colaborar con inspecciones que tienen acceso libre a sus instalaciones. Las empresas del sector enfrentan sanciones severas de hasta 600.000 euros y la posible clausura por infracciones graves. También se introduce la obligación de comunicar cualquier venta de bienes culturales para permitir el derecho de tanteo de la Administración.",
+  "keywords": [
+    "centros museísticos",
+    "patrimonio cultural",
+    "Castilla y León",
+    "red museística",
+    "conservación de bienes",
+    "autorización administrativa",
+    "inspección de museos"
+  ],
+  "key_points": [
+    "Creación de la categoría de 'Centro de interpretación del patrimonio cultural' para instituciones de divulgación sin fondos muebles.",
+    "Obligatoriedad de autorización administrativa previa para la apertura de centros museísticos privados.",
+    "Integración en la Red Museística para acceder a ayudas, asesoramiento y prioridad en proyectos culturales.",
+    "Exigencia de un Plan Museológico, un Programa de Viabilidad y un Programa de Seguridad para todos los centros.",
+    "Facultad de la Administración para la expropiación forzosa de bienes culturales si no se garantiza su conservación.",
+    "Posibilidad de utilizar bienes culturales como medio de pago para deudas con la Administración autonómica.",
+    "Derecho de tanteo y retracto de la Administración ante la venta de bienes culturales de un museo.",
+    "Régimen sancionador con multas de hasta 600.000 euros y clausura de centros por infracciones muy graves.",
+    "Los inspectores tienen autoridad para acceder libremente a los centros y solicitar el auxilio de la policía.",
+    "Plazo de 3 años para que los museos privados no reconocidos soliciten su autorización.",
+    "Implementación del Directorio de Centros Museísticos como registro público de control.",
+    "Los centros integrados en la Red tienen prioridad para ser beneficiarios en procesos de expropiación para ampliación de instalaciones."
+  ],
+  "legal_references": [
+    "Ley 10/1994, de 8 de julio, de Museos de Castilla y León",
+    "Estatuto de Autonomía de Castilla y León",
+    "Constitución Española",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley 11/2006, de 26 de junio, de Patrimonio de la Comunidad de Castilla y León"
+  ],
+  "derogatons": [
+    "Ley 10/1994, de 8 de julio, de Museos de Castilla y León"
+  ],
+  "main_obligations": "Los centros privados deben obtener autorización previa, elaborar planes museológicos y de seguridad, y comunicar cualquier venta de bienes culturales. Asimismo, deben mantener actualizados sus instrumentos documentales y permitir el acceso total a los inspectores.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Creación de centros museísticos no dependientes de la Comunidad (Privados)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "El interesado presenta la solicitud con la documentación requerida por la Consejería.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación establecida por orden de la Consejería competente"
+        },
+        {
+          "step": 2,
+          "title": "Informe del Museo Cabeza de Red",
+          "description": "Se solicita informe al museo de ámbito territorial o temático correspondiente.",
+          "start_date": "1 mes desde la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución administrativa",
+          "description": "Resolución de la Consejería. Si no hay respuesta en el plazo, se entiende estimada por silencio administrativo.",
+          "start_date": "6 meses desde la entrada de la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Cambio de condiciones en centros autorizados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Para cambios en inmueble, colección o plan museológico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Plazo máximo de resolución de 6 meses, con silencio administrativo positivo.",
+          "start_date": "6 meses desde la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Disolución de centros museísticos autorizados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de disolución",
+          "description": "El titular debe comunicar la decisión a la Consejería detallando el destino de los bienes.",
+          "start_date": "3 meses antes de la fecha de disolución",
+          "end_date": null,
+          "required_documentation": "Plan de destino de bienes culturales y medidas de seguridad"
+        }
+      ]
+    },
+    {
+      "name": "Integración en la Red Museística de Castilla y León",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de integración",
+          "description": "Los titulares de centros o redes solicitan su incorporación a la Red.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe del Consejo de Museos",
+          "description": "El Consejo de Museos de Castilla y León debe emitir un informe favorable.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "La Consejería resuelve la solicitud mediante una orden.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Formalización",
+          "description": "Se suscribe un instrumento de colaboración que define la duración y el régimen de relaciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Inspección",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Planificación",
+          "description": "La Consejería elabora un Plan Anual de Inspección.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Actuación inspectora",
+          "description": "Los inspectores acceden al centro, examinan instalaciones y documentos, y levantan acta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de inspección"
+        },
+        {
+          "step": 3,
+          "title": "Derecho de alegaciones",
+          "description": "El interesado puede realizar alegaciones en el acto o solicitar un contraperitaje.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación",
+          "description": "Se inicia el procedimiento por la Delegación Territorial (leves) o Direcciones/Consejería (graves/muy graves).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Medidas provisionales",
+          "description": "Se pueden adoptar clausuras temporales o depósito forzoso de fondos antes de la resolución.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Imposición de la sanción (multa, clausura o revocación de autorización).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

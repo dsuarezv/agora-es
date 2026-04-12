@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-2001-2500",
+  "title": "Ley 5/2000, de 15 de diciembre, de Coordinación de las Policías Locales",
+  "visible_title": "Ley de Coordinación de las Policías Locales de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "5/2000",
+  "publication_date": "2001-02-06",
+  "enactment_date": "2000-12-15",
+  "last_updated": "2023-01-04",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2000/12/15/5",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "journal_issue": null,
+  "summary": "Esta norma establece el marco jurídico para coordinar las distintas Policías Locales de Cantabria, buscando la homogeneidad en su actuación y formación. Define la estructura jerárquica, las funciones de seguridad ciudadana y el régimen de carrera de sus miembros. Su objetivo principal es profesionalizar el servicio mediante criterios comunes de selección, formación y equipamiento técnico.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, más allá de garantizar un servicio de policía local más uniforme y profesionalizado en toda la comunidad.",
+  "professional_impact": "Afecta directamente a los agentes de policía local y auxiliares de Cantabria, regulando su acceso mediante oposición, su progresión en la carrera profesional, su formación obligatoria en la Escuela Regional y su régimen disciplinario. Establece también las condiciones para la 'segunda actividad' y la jubilación.",
+  "keywords": [
+    "Policía Local",
+    "Cantabria",
+    "Coordinación policial",
+    "Seguridad ciudadana",
+    "Funcionarios locales",
+    "Régimen estatutario"
+  ],
+  "key_points": [
+    "Creación de la Escuela Regional de Policía Local para unificar la formación.",
+    "Establecimiento de escalas profesionales (Superior, Ejecutiva y Básica) con requisitos de titulación específicos.",
+    "Regulación de la movilidad entre diferentes cuerpos de policía local de la comunidad.",
+    "Definición de la figura del 'Auxiliar de Policía' con funciones limitadas de vigilancia y tráfico.",
+    "Implementación de un régimen disciplinario basado en la normativa del Cuerpo Nacional de Policía.",
+    "Creación de la Comisión de Coordinación de Policías Locales como órgano consultivo."
+  ],
+  "legal_references": [
+    "Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad",
+    "Estatuto de Autonomía para Cantabria",
+    "Ley Orgánica 4/2010, de 20 de mayo, del Régimen Disciplinario del Cuerpo Nacional de Policía",
+    "Ley 50/1998, de 30 de diciembre, de Medidas Fiscales, Administrativas, Tributarias y de Orden Social"
+  ],
+  "derogations": [
+    "Ley 7/1994, de 19 de mayo, de Coordinación de Policía Locales de Cantabria",
+    "Preceptos del Decreto 9/1997, de 4 de septiembre"
+  ],
+  "main_obligations": "Los agentes deben cumplir con la jerarquía y subordinación, guardar secreto profesional y utilizar el arma solo en situaciones de riesgo racionalmente grave. Los Ayuntamientos están obligados a facilitar la formación en la Escuela Regional y ajustar sus reglamentos a las normas-marco autonómicas.",
+  "effective_date": "2001-02-07",
+  "procedures": [
+    {
+      "name": "Ingreso en la Policía Local",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Oposición libre",
+          "description": "Proceso selectivo basado en mérito y capacidad mediante pruebas teóricas y prácticas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación acreditativa de nacionalidad, permiso de conducir clase A/A2 y B, y titulación mínima."
+        },
+        {
+          "step": 2,
+          "title": "Curso de formación básica",
+          "description": "Curso teórico-práctico obligatorio en la Escuela Autonómica para funcionarios en prácticas.",
+          "start_date": "Máximo 1 año tras superar la oposición",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Promoción Interna",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requisitos de antigüedad",
+          "description": "Haber prestado al menos dos años de servicio activo en la categoría inmediatamente inferior.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Concurso-oposición",
+          "description": "Superación de pruebas selectivas y curso de formación en la Escuela Autonómica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Permuta de destinos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y requisitos",
+          "description": "Solicitud de intercambio entre funcionarios de la misma escala y categoría con 5 años de servicio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe del Jefe de Cuerpo sobre idoneidad."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,81 @@
+{
+  "identifier": "BOE-A-2008-12527",
+  "title": "Ley 5/2007, de 16 de marzo, de Creación del Colegio Oficial de Periodistas de la Región de Murcia",
+  "visible_title": "Creación del Colegio Oficial de Periodistas de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "5/2007",
+  "publication_date": "2008-07-22",
+  "enactment_date": "2007-03-16",
+  "last_updated": "2013-07-18",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2007/03/16/5",
+  "official_journal": "Boletín Oficial de la Región de Murcia",
+  "journal_issue": null,
+  "summary": "Esta ley establece la creación del Colegio Oficial de Periodistas de la Región de Murcia como una corporación de derecho público. Su objetivo es garantizar el ejercicio digno de la profesión, proteger la libertad de información y asegurar el cumplimiento de las normas deontológicas. La norma organiza la estructura de la nueva entidad y define quiénes pueden pertenecer a ella.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, más allá de la garantía indirecta de recibir información veraz y profesional a través de un sector regulado.",
+  "professional_impact": "Los periodistas con titulación universitaria en Murcia pasan a tener una estructura colegial que defiende sus derechos y regula su ejercicio. Se establece un proceso de transición para los miembros de la antigua Asociación de la Prensa de Murcia y se definen requisitos de titulación para obtener pleno derecho de colegiado.",
+  "keywords": [
+    "periodismo",
+    "colegio profesional",
+    "Región de Murcia",
+    "derecho a la información",
+    "deontología periodística"
+  ],
+  "key_points": [
+    "Creación del Colegio Oficial de Periodistas de la Región de Murcia como entidad de derecho público.",
+    "La colegiación es de adscripción voluntaria.",
+    "Pueden colegiarse licenciados o graduados en Ciencias de la Información o Periodismo.",
+    "Los estudiantes que hayan superado los dos primeros cursos pueden inscribirse pero no tendrán plenos derechos hasta finalizar.",
+    "Se reconoce la pertenencia automática a los miembros de la Asociación de la Prensa de Murcia previos a la ley.",
+    "Se permite la entrada excepcional de profesionales con experiencia contrastada mediante validación de la Federación de Asociaciones de Prensa de España."
+  ],
+  "legal_references": [
+    "Ley Orgánica 11/1983, de 25 de agosto",
+    "Real Decreto 1497/1987, de 27 de noviembre",
+    "Real Decreto 1428/1991, de 30 de agosto",
+    "Constitución Española",
+    "Ley 2/1974, de 13 de febrero",
+    "Ley 74/1978, de 26 de diciembre",
+    "Ley 7/1997, de 14 de abril",
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Ley 6/1999, de 4 de noviembre"
+  ],
+  "derogations": [],
+  "main_obligations": "La Junta Directiva de la Asociación de la Prensa de la Región de Murcia debe aprobar los estatutos provisionales en un plazo de 10 meses tras la entrada en vigor de la ley.",
+  "effective_date": "2008-07-23",
+  "procedures": [
+    {
+      "name": "Constitución del Colegio de Periodistas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación de estatutos provisionales",
+          "descrption": "La comisión gestora (ex Junta Directiva de la Asociación de la Prensa) debe redactar y aprobar los estatutos provisionales.",
+          "start_date": "Fecha de entrada en vigor",
+          "end_date": "10 meses después de la entrada en vigor",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Asamblea colegial constituyente",
+          "descrption": "Celebración de la asamblea para aprobar estatutos definitivos y elegir órganos colegiados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Admisión excepcional de profesionales",
+          "descrption": "Plazo para solicitar el ingreso mediante acreditación de profesionalidad ante la Federación de Asociaciones de Prensa de España.",
+          "start_date": "Fecha de entrada en vigor",
+          "end_date": "6 meses después de la entrada en vigor",
+          "required_documentation": "Acreditación fehaciente de profesionalidad, antigüedad y continuidad en el ejercicio periodístico"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,179 @@
+{
+  "identifier": "BOE-A-2000-20554",
+  "title": "Ley 5/2000, de 25 de octubre, de Saneamiento y Depuración de Aguas Residuales de La Rioja",
+  "visible_title": "Ley de Saneamiento y Depuración de Aguas Residuales de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "5/2000",
+  "publication_date": "2000-11-14",
+  "enactment_date": "2000-10-25",
+  "last_updated": "2025-07-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2000/10/25/5",
+  "official_journal": "Boletín Oficial de La Rioja",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo se gestionan, limpian y controlan las aguas residuales en La Rioja para evitar la contaminación. Establece la creación del Consorcio de Aguas y Residuos como el ente encargado de coordinar estos servicios entre municipios y la Comunidad Autónoma. Introduce un canon de saneamiento que se paga según el consumo de agua y la suciedad de los vertidos. Además, obliga a los promotores de nuevas urbanizaciones a financiar las infraestructuras necesarias para que el saneamiento sea viable.",
+  "citizen_impact": "El ciudadano verá reflejado el coste del saneamiento en su factura del agua mediante un canon basado en su consumo. Además, los nuevos residentes en urbanizaciones o zonas industriales deberán asegurar que las infraestructuras de saneamiento estén pagadas para poder obtener la cédula de habitabilidad.",
+  "professional_impact": "Las empresas (especialmente industriales y comerciales) deben solicitar autorización previa para vertidos, realizar estudios técnicos de su carga contaminante y permitir inspecciones. Los promotores inmobiliarios tienen la carga de financiar la ampliación de redes y presentar proyectos al Consorcio. Se imponen sanciones económicas severas de hasta 120.000 euros por vertidos ilegales o peligrosos.",
+  "keywords": [
+    "saneamiento",
+    "aguas residuales",
+    "depuración",
+    "canon de saneamiento",
+    "vertidos industriales",
+    "La Rioja",
+    "gestión de aguas"
+  ],
+  "key_points": [
+    "Creación del Consorcio de Aguas y Residuos de La Rioja para la gestión integral de los servicios.",
+    "El canon de saneamiento se calcula según el consumo de agua y la carga contaminante (sólidos, DQO y conductividad).",
+    "Los vertidos no domésticos (industriales o comerciales) requieren autorización previa y estudios técnicos.",
+    "Prohibición estricta de verter aceites, grasas, combustibles, disolventes, sustancias tóxicas o sólidos mayores a 1,5 cm.",
+    "Los promotores de nuevos núcleos urbanos o industriales deben financiar la construcción o ampliación de las redes de saneamiento.",
+    "No se concederá cédula de habitabilidad en nuevos desarrollos hasta que se acredite el pago de la participación en saneamiento.",
+    "Las nuevas urbanizaciones deben implementar sistemas para aprovechar aguas pluviales en el riego de zonas verdes.",
+    "Las empresas con captaciones propias deben declarar su propia cuota de canon.",
+    "En explotaciones de champiñón y seta, se presume que el 5% del agua consumida es para otros usos que tributan como tales.",
+    "Sistema de sanciones con multas de hasta 120.000 euros para infracciones muy graves.",
+    "Obligación de las empresas no domésticas de utilizar relación electrónica para sus trámites.",
+    "El Plan Director de Saneamiento es el instrumento obligatorio de coordinación regional."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 45)",
+    "Ley 29/1985",
+    "Ley 46/1999",
+    "Directiva 91/271/CEE",
+    "Directiva 91/676/CEE",
+    "Directiva 96/61/CEE",
+    "Ley 7/1994 de La Rioja",
+    "Real Decreto-ley 11/1995",
+    "Real Decreto 509/1996",
+    "Ley 7/1985 de Bases del Régimen Local",
+    "Estatuto de Autonomía de La Rioja",
+    "Ley General Tributaria",
+    "Ley 1/1993, de 23 de marzo, de Patrimonio de la Comunidad Autónoma de La Rioja",
+    "Ley de Aguas",
+    "Plan Director de Saneamiento y Depuración"
+  ],
+  "derogations": [
+    "Ley 7/1994, de 19 de julio",
+    "Modificaciones de la Ley 4/1996, de 20 de diciembre",
+    "Modificaciones de la Ley 9/1997, de 22 de diciembre"
+  ],
+  "main_obligations": "Las empresas deben obtener autorización de vertido, presentar estudios técnicos y permitir inspecciones. Los promotores deben remitir proyectos de urbanización al Consorcio para el cálculo de su participación económica.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Elaboración y aprobación del Plan Director de Saneamiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración",
+          "description": "La Consejería de Medio Ambiente elabora el proyecto del Plan.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informes institucionales",
+          "description": "Se solicita informe al Consorcio, Consejo del Agua, Federaciones de Municipios y Confederaciones Hidrográficas.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Información pública",
+          "description": "Periodo para que personas y entidades presenten alegaciones tras anuncio en el BOL.",
+          "start_date": null,
+          "end_date": "1 mes mínimo",
+          "required_documentation": "Alegaciones por escrito"
+        },
+        {
+          "step": 4,
+          "title": "Aprobación definitiva",
+          "description": "El Gobierno de La Rioja aprueba el Plan tras considerar las alegaciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización de vertidos no domésticos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Presentación de la solicitud ante el Ayuntamiento o el Consorcio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudio de características y volumen, acreditación de arqueta de muestras, memoria técnica de instalaciones de tratamiento o medición."
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "La Administración otorga la autorización con una duración de 5 años.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Participación de nuevos desarrollos urbanos en gastos de saneamiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Remisión de proyecto",
+          "description": "El promotor debe enviar el proyecto de urbanización al Consorcio de Aguas y Residuos.",
+          "start_date": "Antes de la conexión",
+          "end_date": null,
+          "required_documentation": "Proyecto de urbanización"
+        },
+        {
+          "step": 2,
+          "title": "Emisión de informe técnico",
+          "description": "El Consorcio calcula la participación de los futuros usuarios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ingreso de la cuantía",
+          "description": "El promotor debe ingresar el importe calculado en la hacienda del Consorcio.",
+          "start_date": null,
+          "end_date": "Previamente a la conexión",
+          "required_documentation": "Documento justificativo del ingreso"
+        },
+        {
+          "step": 4,
+          "title": "Autorización de conexión y habitabilidad",
+          "description": "Se autoriza la conexión a la red y se concede la cédula de habitabilidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Legalización de vertidos no domésticos (Transitoriedad)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de legalización",
+          "description": "Presentar solicitud para legalizar vertidos existentes en redes de alcantarillado o colectores.",
+          "start_date": "Entrada en vigor de la Ley",
+          "end_date": "6 meses después de la entrada en vigor",
+          "required_documentation": "Solicitud según artículo 15"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

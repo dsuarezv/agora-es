@@ -1,0 +1,89 @@
+{
+  "identifier": "BOE-A-2014-11991",
+  "title": "Ley 12/2014, de 10 de octubre, del impuesto sobre la emisión de óxidos de nitrógeno a la atmósfera producida por la aviación comercial, del impuesto sobre la emisión de gases y partículas a la atmósfera producida por la industria y del impuesto sobre la producción de energía eléctrica de origen nuclear",
+  "visible_title": "Impuestos sobre emisiones de aviación, industria y energía nuclear en Cataluña",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "12/2014",
+  "publication_date": "2014-11-20",
+  "enactment_date": "2014-10-10",
+  "last_updated": "2020-04-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2014/10/10/12",
+  "official_journal": "DOGC / BOE",
+  "journal_issue": null,
+  "summary": "Esta ley crea tres nuevos impuestos en Cataluña para combatir la contaminación atmosférica bajo el principio de 'quien contamina paga'. Grava las emisiones de óxido de nitrógeno de la aviación comercial en aeródromos, las emisiones de gases y partículas de grandes industrias, y el riesgo ambiental derivado del uso de combustible nuclear. El objetivo es doble: incentivar la reducción de contaminantes mediante mejoras técnicas y recaudar fondos para la protección del medio ambiente.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, más allá de una posible mejora en la calidad del aire de las zonas industriales o aeroportuarias.",
+  "professional_impact": "Las compañías aéreas, las grandes industrias y las empresas de producción de energía nuclear deben asumir nuevas cargas fiscales. Las empresas industriales pueden obtener bonificaciones si invierten en tecnologías de reducción de emisiones, y las aerolíneas tienen descuentos si usan aviones con tecnología de punta (aletas de extremidad).",
+  "keywords": [
+    "impuesto ambiental",
+    "emisiones aviación",
+    "contaminación industrial",
+    "energía nuclear",
+    "Cataluña",
+    "óxido de nitrógeno",
+    "fiscalidad verde"
+  ],
+  "key_points": [
+    "Creación de un impuesto para la aviación comercial basado en los kg de óxido de nitrógeno emitidos en el ciclo de despegue y aterrizaje.",
+    "Impuesto industrial sobre dióxido de azufre, óxido de nitrógeno, partículas y carbono orgánico.",
+    "Impuesto sobre la producción nuclear basado en las toneladas de combustible nuclear utilizado.",
+    "Bonificación del 5% para aerolíneas con aviones que tengan 'aletas de extremidad'.",
+    "Bonificación del 10% para industrias que inviertan en protección del medio ambiente.",
+    "Los ingresos se destinarán al Fondo para la protección del ambiente atmosférico.",
+    "Exención para vuelos médicos, de servicios públicos y de transporte de enfermos."
+  ],
+  "legal_references": [
+    "Ley 22/1983, de 21 de noviembre, de protección del ambiente atmosférico",
+    "Directiva 2010/75/UE",
+    "Ley 20/2009, de 4 de diciembre, de prevención y control ambiental de las actividades",
+    "Ley General Tributaria",
+    "Ley 4/1997, de 20 de mayo, de protección civil de Cataluña",
+    "Ley 7/2007, de 17 de julio, de la Agencia Tributaria de Cataluña"
+  ],
+  "derogations": [
+    "Parte de la Ley 4/1997 de Protección Civil de Cataluña (en lo relativo al gravamen de centrales nucleares)",
+    "Tasas por la prestación de los servicios de la Agencia Catalana del Agua (letras p, q, r y s del art. 5.1.5 del texto refundido de la Ley de Tasas y Precios Públicos de la Generalitat)"
+  ],
+  "main_obligations": "Las empresas afectadas deben realizar la autoliquidación anual de sus impuestos y efectuar los pagos correspondientes (incluyendo pagos fraccionados trimestrales para el sector nuclear) dentro de los plazos reglamentarios.",
+  "effective_date": "2014-11-01",
+  "procedures": [
+    {
+      "name": "Autoliquidación del impuesto sobre la producción de energía eléctrica de origen nuclear",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Pagos fraccionados",
+          "description": "Realización de pagos a cuenta trimestrales durante el ejercicio.",
+          "start_date": "Cada trimestre natural",
+          "end_date": "20 días naturales de abril, julio y octubre",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Autoliquidación anual",
+          "description": "Presentación de la liquidación definitiva del ejercicio.",
+          "start_date": "1 de enero del año siguiente",
+          "end_date": "28 de febrero del año siguiente",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autoliquidación del impuesto sobre la emisión de gases y partículas (Industria)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Liquidación del ejercicio 2014",
+          "description": "Procedimiento excepcional para regularizar el año de entrada en vigor.",
+          "start_date": "2015-10-01",
+          "end_date": "2015-10-20",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

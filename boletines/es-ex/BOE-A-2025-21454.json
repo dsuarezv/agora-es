@@ -1,0 +1,94 @@
+{
+  "identifier": "BOE-A-2025-21454",
+  "title": "Ley 4/2025, de 15 de octubre, de Concordia de Extremadura",
+  "visible_title": "Ley de Concordia de Extremadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "4/2025",
+  "publication_date": "2025-10-25",
+  "enactment_date": "2025-10-15",
+  "last_updated": "2025-10-17",
+  "status": "in_force",
+  "scope": "Autoonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2025/10/15/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley sustituye la anterior normativa de memoria histórica para centrarse en la 'concordia' y la reconciliación social. Establece un marco para reconocer a víctimas de violencia política, social y terrorismo en Extremadura desde 1931. Regula la búsqueda, exhumación e identificación de restos humanos, creando además una Comisión Técnica especializada y un banco de ADN regional.",
+  "citizen_impact": "Los familiares de víctimas de violencia política o terrorismo pueden solicitar el reconocimiento oficial de su condición y acceder a la localización y exhumación de sus seres queridos. También garantiza el acceso libre a archivos históricos para investigación y la protección de la libertad de cátedra.",
+  "professional_impact": "Los funcionarios de la administración extremeña deberán seguir nuevos protocolos técnicos y científicos para la gestión de restos y archivos. Se crea la Comisión Técnica de la Concordia, un órgano colegiado que requerirá la participación de técnicos en historia, arqueología y archivos.",
+  "keywords": [
+    "concordia",
+    "reconciliación",
+    "víctimas",
+    "exhumación",
+    "memoria histórica",
+    "Extremadura",
+    "terrorismo",
+    "derechos humanos"
+  ],
+  "key_points": [
+    "Sustitución de la Ley de Memoria Histórica por una Ley de Concordia basada en la reconciliación.",
+    "Reconocimiento de víctimas de violencia política, social, religiosa o terrorista desde 1931.",
+    "Creación de un censo de víctimas y un mapa georreferenciado de fosas.",
+    "Creación de un banco de ADN regional para facilitar la identificación de restos.",
+    "Establecimiento de la Comisión Técnica de la Concordia como órgano de apoyo técnico.",
+    "Garantía de la libertad de cátedra y de investigación científica sin interferencias estatales.",
+    "Derecho de los familiares (hasta tercer grado) a solicitar la localización y exhumación de restos.",
+    "Procedimiento de exhumación sujeto a autorización administrativa y opinión de la Comisión Técnica."
+  ],
+  "legal_references": [
+    "Constitución Española de 1978",
+    "Estatuto de Autonomía de Extremadura",
+    "Ley 2/2020, de 4 de marzo, de apoyo, asistencia y reconocimiento a las víctimas de terrorismo de la Comunidad Autónoma de Extremadura",
+    "Ley 1/2019, de 21 de enero, de memoria histórica y democrática de Extremadura",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Ley 16 de diciembre de 1954 sobre expropiación forzosa",
+    "Ley 1/2002, de 28 de febrero, del Gobierno y de la Administración de la Comunidad Autónoma de Extremadura"
+  ],
+  "derogations": [
+    "Ley 1/2019, de 21 de enero, de memoria histórica y democrática de Extremadura"
+  ],
+  "main_obligations": "La Administración debe realizar acciones de búsqueda, localización y exhumación de restos según los protocolos aprobados. Los hallazgos casuales de restos humanos deben comunicarse inmediatamente a las autoridades y al Ayuntamiento correspondiente.",
+  "effective_date": "2025-10-26",
+  "procedures": [
+    {
+      "name": "Procedimiento de localización, exhumación e identificación de víctimas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de intervención",
+          "description": "Presentación de la solicitud por familiares (hasta 3er grado), entidades vinculadas o la Administración de oficio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de intervención o indicio que justifique la solicitud."
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Publicación de la propuesta en el DOE para audiencia de interesados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Valoración técnica",
+          "description": "La Comisión Técnica de la Concordia evalúa la adecuación del proyecto.",
+          "start_date": "3 meses desde que la documentación esté completa",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "Dictado de la resolución administrativa.",
+          "start_date": null,
+          "end_date": "6 meses (en caso de silencio administrativo negativo para interesados)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,150 @@
+{
+  "identifier": "BOE-A-1993-26323",
+  "title": "Ley 2/1993, de 15 de julio, de Caza de Castilla-La Mancha",
+  "visible_title": "Ley de Caza de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "2/1993",
+  "publication_date": "1993-11-02",
+  "enactment_date": "1993-07-15",
+  "last_updated": "2015-03-12",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/1993/07/15/2",
+  "official_journal": "Boletín Oficial de la Comunidad de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley regula la práctica de la caza en Castilla-La Mancha, transformándola de una actividad de subsistencia en una disciplina deportiva y de ocio regulada. Establece las condiciones para la gestión de terrenos, la clasificación de especies y los requisitos de seguridad para los cazadores. Además, define un régimen de vigilancia obligatorio en cotos privados y un sistema de sanciones para garantizar el cumplimiento de la normativa. Su objetivo es equilibrar el disfrute de la actividad cinegética con la conservación de la fauna y la seguridad de las personas y propiedades.",
+  "citizen_impact": "Los ciudadanos que deseen cazar deben cumplir con requisitos estrictos: poseer licencia autonómica, seguro de responsabilidad civil y documento de identidad. Los menores de 14 años tienen prohibido cazar, y los de entre 14 y 18 años necesitan autorización parental. Además, se limita la visibilidad mínima para cazar (250 metros) y se prohíben métodos peligrosos como venenos o armas automáticas.",
+  "professional_impact": "Los titulares de cotos asumen responsabilidades legales y económicas significativas, incluyendo la responsabilidad solidaria por las infracciones de sus guardas y la indemnización por daños que las piezas causen en explotaciones agrarias. Las empresas cinegéticas deben inscribirse en registros específicos y los cotos privados están obligados a mantener un servicio de vigilancia (propio o externo), prohibiendo a los vigilantes cazar durante su servicio.",
+  "keywords": [
+    "caza",
+    "Castilla-La Mancha",
+    "licencia de caza",
+    "gestión de cotos",
+    "infracciones cinegéticas",
+    "conservación de fauna"
+  ],
+  "key_points": [
+    "Obligatoriedad de licencia de caza, seguro de responsabilidad civil y DNI para ejercer la actividad.",
+    "Restricción de edad: prohibido para menores de 14 años y con permiso parental para menores de 18.",
+    "Seguridad en la caza: prohibida la actividad con visibilidad inferior a 250 metros o condiciones climáticas adversas.",
+    "Dimensiones mínimas de cotos: 500 hectáreas para caza mayor y 250 hectáreas para caza menor.",
+    "Prohibición de métodos letales prohibidos: venenos, trampas, redes, explosivos y armas automáticas con cargadores de más de dos cartuchos.",
+    "Obligación de vigilancia: los cotos privados deben contar con servicio de vigilancia obligatorio.",
+    "Responsabilidad del titular: los dueños de cotos responden por los daños de las piezas y por las infracciones de sus dependientes.",
+    "Régimen sancionador: clasificación de infracciones en leves, graves y muy graves con multas y decomisos.",
+    "Medidas cautelares: posibilidad de precintar instrumentos o retirar licencias hasta un año.",
+    "Creación del Registro Regional de Infractores de Caza.",
+    "Obligación de comunicar enfermedades sospechosas en la fauna.",
+    "Prohibición de caza en periodos de veda o zonas de seguridad."
+  ],
+  "legal_references": [
+    "Ley 3/2015, de 5 de marzo",
+    "Ley 9/1999, de 26 de mayo, de Conservación de la Naturaleza",
+    "Ley 7/1990, de 28 de diciembre, de Protección de los Animales Domésticos de Castilla-La Mancha",
+    "Ley 2/1988, de 31 de mayo, de Conservación de Suelos y Protección de Cubiertas Vegetales Naturales de Castilla-La Mancha",
+    "Ley 1/1970, de 4 de abril, de Caza"
+  ],
+  "derogations": [
+    "Ley de Caza de 1970"
+  ],
+  "main_obligations": "Los cazadores deben poseer licencia y seguro vigentes. Los titulares de cotos deben garantizar la vigilancia y responder por los daños causados por la fauna o sus empleados. Es imperativo respetar los periodos de veda y las zonas de seguridad.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Obtención de la licencia de caza",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Pruebas de aptitud",
+          "description": "Superar las pruebas de aptitud determinadas reglamentariamente para la primera vez.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificados de aptitud si proceden de otras CCAA"
+        },
+        {
+          "step": 2,
+          "title": "Expedición de la licencia",
+          "description": "La Consejería de Agricultura emite la licencia con validez de 1 o 5 años.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento de identidad, permiso de armas y guía de pertenencia si aplica"
+        }
+      ]
+    },
+    {
+      "name": "Constitución de un cotos privado de caza",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Solicitud por parte de propietarios o arrendatarios presentando el plan técnico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Plan técnico aprobado"
+        },
+        {
+          "step": 2,
+          "title": "Resolución administrativa",
+          "description": "La Consejería de Agricultura dicta la resolución de declaración del cotos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación e instrucción",
+          "description": "Apertura del expediente sancionador para investigar la posible infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Medidas cautelares",
+          "description": "Adopción de medidas para evitar que la infracción continúe o el daño aumente (ej. precinto de medios).",
+          "start_date": "Durante la instrucción",
+          "end_date": "Máximo 1 año",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Dictado de la sanción o archivo del expediente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Recursos",
+          "description": "Interposición de recursos contra la resolución sancionadora según la legislación vigente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Prescripción de Infracciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de prescripción",
+          "description": "Tiempo transcurrido desde la infracción hasta que la administración pierde la facultad de sancionar.",
+          "start_date": "Día de la comisión de la infracción",
+          "end_date": "6 meses (leves), 2 años (graves) o 3 años (muy graves)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

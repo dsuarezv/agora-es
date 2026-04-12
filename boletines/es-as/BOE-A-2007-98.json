@@ -1,0 +1,93 @@
+{
+  "identifier": "BOE-A-2007-98",
+  "title": "Ley 7/2006, de 3 de noviembre, de Estadística",
+  "visible_title": "Ley de Estadística del Principado de Asturias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "7/2006",
+  "publication_date": "2007-01-03",
+  "enactment_date": "2006-11-03",
+  "last_updated": "2013-05-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2006/11/03/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley organiza el sistema estadístico del Principado de Asturias y crea el Instituto Asturiano de Estadística (IAE). Su objetivo es garantizar que la administración cuente con datos objetivos y de calidad para planificar políticas públicas. Establece las reglas para la recogida, protección y difusión de datos, asegurando el secreto estadístico y la coordinación entre administraciones.",
+  "citizen_impact": "La mayoría de los ciudadanos no verán cambios directos, pero la ley garantiza que sus datos personales sean tratados con estricto secreto estadístico. En casos específicos, si una estadística está incluida en el Plan Asturiano de Estadística, los ciudadanos y empresas tienen la obligación de facilitar la información requerida.",
+  "professional_impact": "Las empresas y autónomos que operen en Asturias pueden verse obligados a suministrar datos si así lo establece el Plan Asturiano de Estadística, bajo riesgo de sanciones. Los funcionarios encargados de la recogida de datos adquieren la condición de agentes de la autoridad y están sujetos a un deber de secreto profesional muy estricto.",
+  "keywords": [
+    "estadística pública",
+    "Instituto Asturiano de Estadística",
+    "secreto estadístico",
+    "Plan Asturiano de Estadística",
+    "recogida de datos",
+    "Asturias"
+  ],
+  "key_points": [
+    "Creación del Instituto Asturiano de Estadística (IAE) como órgano coordinador.",
+    "Establecimiento del Plan Asturiano de Estadística como herramienta de planificación cuatrienal.",
+    "Obligatoriedad de suministrar información solo cuando esté expresamente prevista en dicho Plan.",
+    "Garantía de secreto estadístico para proteger la identidad de los informantes durante 50 años.",
+    "Uso prioritario de registros administrativos para evitar molestias innecesarias a la ciudadanía.",
+    "Régimen sancionador para quienes faciliten datos falsos o incumplan la obligación de colaborar.",
+    "Creación de un Consejo de Estadística como órgano consultivo y de participación."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía del Principado de Asturias",
+    "Constitución Española",
+    "Ley del Principado de Asturias 3/1985, de 26 de diciembre, de Ordenación de la Función Pública",
+    "Decreto Legislativo del Principado de Asturias 2/1998, de 25 de junio"
+  ],
+  "derogations": [
+    "Artículo 6 de la Ley del Principado de Asturias 7/1997, de 31 de diciembre"
+  ],
+  "main_obligations": "Las personas físicas o jurídicas deben suministrar la información requerida si está incluida en el Plan Asturiano de Estadística. El incumplimiento puede acarrear multas de hasta 30.000 € por infracciones muy graves, como el suministro de datos falsos.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Suministro de información estadística obligatoria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requerimiento de información",
+          "description": "La administración solicita los datos mediante correo, visita personal o medios informáticos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos solicitados según el formulario o método indicado"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de respuesta",
+          "description": "El sujeto obligado debe entregar la información en el plazo indicado; de lo contrario, se considera incumplimiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador por infracción estadística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del expediente",
+          "description": "Se inicia un expediente administrativo respetando los principios de la normativa general.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la sanción",
+          "description": "El Director General o el Consejero imponen la multa según la gravedad de la infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

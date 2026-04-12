@@ -1,0 +1,76 @@
+{
+  "identifier": "BOE-A-1994-13735",
+  "title": "Ley 2/1994, de 24 de mayo, de Artesanía",
+  "visible_title": "Ley de Artesanía de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Diputación General de La Rioja",
+  "official_number": "2/1994",
+  "publication_date": "1994-06-16",
+  "enactment_date": "1994-05-24",
+  "last_updated": "1994-05-28",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/1994/05/24/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco legal para proteger, modernizar y fomentar el sector artesanal en La Rioja. Define qué se considera actividad artesana y crea herramientas de gestión como el Consejo Riojano de Artesanía y un Registro General. Su objetivo es mejorar la rentabilidad de los artesanos, recuperar técnicas tradicionales y facilitar su acceso a ayudas y formación.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo que consuman productos con sello de origen o calidad artesanal riojana.",
+  "professional_impact": "Los artesanos y empresas artesanas de La Rioja obtienen un reconocimiento oficial mediante un documento de calificación. Esto les permite acceder a subvenciones, líneas de crédito preferentes y beneficios de la administración, pero les exige inscribirse obligatoriamente en el Registro General para disfrutar de dichas ventajas.",
+  "keywords": [
+    "artesanía",
+    "La Rioja",
+    "empresa artesana",
+    "artesano",
+    "Registro General de Artesanía",
+    "Consejo Riojano de Artesanía",
+    "oficios tradicionales"
+  ],
+  "key_points": [
+    "Creación del Registro General de Artesanía para censar tanto a empresas como a artesanos.",
+    "Obligatoriedad de inscribirse en el Registro para acceder a subvenciones y ayudas regionales.",
+    "Definición de artesanía como actividad predominantemente manual con productos individualizados.",
+    "Creación del Consejo Riojano de Artesanía para asesorar a la Administración y representar al sector.",
+    "Clasificación de la artesanía en cuatro grupos: artística, de consumo, de servicios y tradicional.",
+    "Reconocimiento de la condición de artesano mediante títulos académicos o acreditación de oficio.",
+    "Posibilidad de que asociaciones de artesanos sean consideradas empresas artesanas."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de La Rioja"
+  ],
+  "derogatons": [],
+  "main_obligations": "Para acceder a beneficios, ayudas o certificados de calidad, los artesanos y empresas deben inscribirse obligatoriamente en el Registro General de Artesanía de La Rioja.",
+  "effective_date": "1994-06-17",
+  "procedures": [
+    {
+      "name": "Implementación de la Ley",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta del Decreto del Consejo",
+          "descrption": "La Consejería debe proponer el decreto que regule la composición y funcionamiento del Consejo Riojano de Artesanía.",
+          "start_date": "3 meses desde la publicación de la Ley",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Constitución del Consejo",
+          "descrption": "Propuesta y constitución de los vocalidades del Consejo Riojano de Artesanía.",
+          "start_date": "3 meses tras la aprobación del decreto anterior",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación del Repertorio de Oficios",
+          "descrption": "Aprobación del listado oficial de oficios y actividades artesanas.",
+          "start_date": "6 meses tras la constitución del Consejo",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

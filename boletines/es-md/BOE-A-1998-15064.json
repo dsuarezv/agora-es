@@ -1,0 +1,81 @@
+{
+  "identifier": "BOE-A-1998-15064",
+  "title": "Ley 25/1997, de 26 de diciembre, de Regulación del Servicio de Atención de Urgencias 112",
+  "visible_title": "Ley de Regulación del Servicio de Atención de Urgencias 112",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "25/1997",
+  "publication_date": "1998-06-25",
+  "enactment_date": "1997-12-26",
+  "last_updated": "2005-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1997/12/26/25",
+  "official_journal": "BOE",
+  "journal_issue": "206",
+  "summary": "Esta ley establece el marco jurídico para el funcionamiento del número único de emergencias 112 en la Comunidad de Madrid. Su objetivo es centralizar la recepción de llamadas para coordinar de forma rápida y eficaz la respuesta de todos los servicios de emergencia (sanitarios, bomberos, policía, etc.). La norma define la estructura del Centro de Atención de Llamadas y obliga a todas las entidades implicadas a colaborar y compartir información.",
+  "citizen_impact": "Garantiza que cualquier ciudadano en Madrid pueda acceder de forma gratuita y permanente a un único número de emergencia para cualquier tipo de incidente. Mejora la rapidez y coordinación de la ayuda recibida al unificar la gestión de las llamadas.",
+  "professional_impact": "Obliga a hospitales, servicios de bomberos, policía, empresas de suministros y otras entidades de seguridad a colaborar activamente con el Centro 112. Estas entidades deben facilitar información sobre sus recursos y acusar recibo de los requerimientos de asistencia enviados por el centro.",
+  "keywords": [
+    "emergencias",
+    "112",
+    "atención de urgencias",
+    "coordinación de servicios",
+    "Comunidad de Madrid",
+    "protección civil",
+    "seguridad ciudadana"
+  ],
+  "key_points": [
+    "Creación de un Centro de Atención de Llamadas de Urgencia único para toda la Comunidad de Madrid.",
+    "El acceso al servicio 112 es gratuito y permanente para todos los ciudadanos.",
+    "El servicio se encarga de recibir, evaluar y transmitir la necesidad de asistencia, pero no de prestar la ayuda material directamente.",
+    "Se otorga la condición de agente de la autoridad al Director del Centro y al Jefe de Sala.",
+    "Obligación de colaboración y suministro de información para todas las administraciones y entidades relacionadas con emergencias.",
+    "Posibilidad de tratar datos de salud de forma automatizada sin consentimiento expreso si la urgencia lo requiere para salvar vidas.",
+    "Establecimiento de convenios de colaboración para asegurar la coordinación entre distintos servicios."
+  ],
+  "legal_references": [
+    "Decisión del Consejo de las Comunidades Europeas 91/396/CEE",
+    "Decreto 168/1996",
+    "Real Decreto 903/1997",
+    "Ley 30/1992",
+    "Ley Orgánica 5/1992",
+    "Ley 13/1995"
+  ],
+  "derogations": [],
+  "main_obligations": "Las entidades de emergencia (públicas o privadas) están obligadas a colaborar con el Centro 112, facilitando información sobre sus medios y recursos, y deben acusar recibo de cada requerimiento de asistencia enviado.",
+  "effective_date": "1998-06-25",
+  "procedures": [
+    {
+      "name": "Gestión de llamada de emergencia 112",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recepción y evaluación",
+          "description": "El Centro recibe la llamada y evalúa la situación según los protocolos establecidos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Transmisión del requerimiento",
+          "description": "Se envía la solicitud de asistencia a la entidad competente (bomberos, sanitarios, etc.).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Acuse de recibo y actuación",
+          "description": "La entidad receptora debe confirmar la recepción y proceder a la prestación material de la asistencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,71 @@
+{
+  "identifier": "BOE-A-2013-1427",
+  "title": "Ley 5/2012, de 20 de diciembre, de Viviendas Rurales Sostenibles",
+  "visible_title": "Ley de Viviendas Rurales Sostenibles",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "5/2012",
+  "publication_date": "2013-02-11",
+  "enactment_date": "2012-12-20",
+  "last_updated": "2016-04-15",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2012/12/20/5",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta norma permitía la construcción de viviendas unifamiliares aisladas en terrenos rurales de la Comunidad de Madrid bajo criterios de sostenibilidad. Su objetivo era fomentar la residencia en el medio natural sin necesidad de grandes infraestructuras urbanas. Buscaba evitar el abandono de terrenos rurales mediante un modelo de vivienda de bajo impacto ambiental y sin coste para los municipios.",
+  "citizen_impact": "Permitía a propietarios de grandes parcelas (mínimo 6 hectáreas) construir una vivienda con requisitos de bajo impacto visual y ambiental. Los propietarios debían asumir todos los costes de suministros y servicios, ya que la administración no estaba obligada a llevar infraestructuras urbanas al terreno.",
+  "professional_impact": "Facilitaba a arquitectos y técnicos la gestión de proyectos de viviendas sostenibles y prefabricadas en suelo rural. Para los ayuntamientos, suponía un procedimiento de licencia simplificado con la posibilidad de concesión por silencio positivo tras tres meses.",
+  "keywords": [
+    "vivienda rural sostenible",
+    "suelo no urbanizable",
+    "construcción en el campo",
+    "medio ambiente",
+    "Comunidad de Madrid",
+    "licencia de obra"
+  ],
+  "key_points": [
+    "Se requiere una parcela mínima de 6 hectáreas para construir.",
+    "La vivienda debe ser de una sola planta y con una altura máxima de 3,5 metros.",
+    "La superficie máxima de la casa no puede superar el 1,5% de la superficie total de la parcela.",
+    "Se establece una distancia mínima de 250 metros entre la vivienda y cualquier otra construcción.",
+    "El propietario debe asumir todos los costes de suministros (agua, luz, basura, etc.).",
+    "Existe el derecho al silencio positivo: si el ayuntamiento no responde en 3 meses, se entiende concedida la licencia.",
+    "Es obligatorio conservar el arbolado o compensar con especies autóctonas si es necesario talar."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunidad de Madrid",
+    "Ley del Suelo de la Comunidad de Madrid"
+  ],
+  "derogations": [
+    "Ley 5/2012, de 20 de diciembre, de Viviendas Rurales Sostenibles (derogada por la Ley 1/2016)"
+  ],
+  "main_obligations": "Los propietarios deben cumplir estrictamente con los parámetros de superficie, altura y retranqueos del anexo, además de asumir la totalidad de los costes de infraestructura y servicios. El incumplimiento de estas condiciones conlleva sanciones según la legislación del suelo de Madrid.",
+  "effective_date": "2013-02-12",
+  "procedures": [
+    {
+      "name": "Solicitud de licencia municipal para vivienda rural sostenible",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "descrption": "El interesado presenta la documentación técnica y de identificación ante el Ayuntamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Identificación del propietario, proyecto firmado por técnico competente y documento de no afección ambiental significativa."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y resolución",
+          "descrption": "El Ayuntamiento tramita la solicitud. Si no hay respuesta en 3 meses, se aplica el silencio positivo.",
+          "start_date": null,
+          "end_date": "3 meses desde la presentación",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,110 @@
+{
+  "identifier": "BOE-A-2012-871",
+  "title": "Ley 8/1996, de 8 de noviembre, de Finanzas de la Comunidad Autónoma de Euskadi",
+  "visible_title": "Ley de Finanzas de la Comunidad Autónoma de Euskadi",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "8/1996",
+  "publication_date": "2012-01-20",
+  "enactment_date": "1996-11-08",
+  "last_updated": "2011-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1996/11/08/8",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta ley organiza la gestión del dinero público en el País Vasco, regulando cómo se gestiona la tesorería, cómo se contrae deuda y cómo se otorgan garantías. Su objetivo es dar seguridad jurídica y eficiencia al manejo de los recursos financieros de la Administración vasca. Establece las reglas para que el Gobierno pueda financiar sus actividades, gestionar sus ahorros (remanentes) y apoyar el sector productivo mediante avales.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que regula principalmente la gestión interna de las cuentas y la deuda de la Administración.",
+  "professional_impact": "Afecta a empresas y entidades que soliciten garantías o avales públicos para proyectos de interés o fomento. También impacta a entidades financieras que actúen como mediadoras en la gestión de fondos públicos o en la colocación de la deuda pública vasca.",
+  "keywords": [
+    "finanzas públicas",
+    "tesorería",
+    "endeudamiento",
+    "garantías públicas",
+    "deuda pública",
+    "remanentes de tesorería",
+    "País Vasco"
+  ],
+  "key_points": [
+    "Centralización de la dirección de la Tesorería General para asegurar la unidad de gestión.",
+    "Regulación del uso de los remanentes de tesorería (ahorros de presupuestos anteriores) para financiar nuevos presupuestos.",
+    "Capacidad del Gobierno para emitir 'Deuda Pública de Euskadi' para financiar inversiones.",
+    "Posibilidad de otorgar garantías públicas a personas jurídicas para fomentar el interés público o el desarrollo industrial.",
+    "Permiso para utilizar productos derivados para reducir el coste o el riesgo de la deuda pública.",
+    "Facultad de realizar pagos de deuda mediante la entrega de bienes culturales o derechos (dación en pago) en casos excepcionales.",
+    "Regulación de la autonomía financiera para el Servicio Vasco de Salud-Osakietza y centros docentes."
+  ],
+  "legal_references": [
+    "Ley 12/1983, de 22 de junio, de Principios Ordenadores de la Hacienda General del País Vasco",
+    "Decreto Legislativo 1/1988, de 17 de mayo",
+    "Decreto Legislativo 1/1994, de 27 de septiembre",
+    "Ley de Patrimonio de Euskadi"
+  ],
+  "derogatons": [
+    "Disposición final segunda (referente a la efectividad de los derechos de la Hacienda General)"
+  ],
+  "main_obligations": "Las entidades del sector público deben solicitar autorización previa al departamento de endeudamiento para realizar operaciones de crédito. Los beneficiarios de garantías deben facilitar toda la información financiera que la Administración les requiera para evaluar su solvencia.",
+  "effective_date": "1996-12-01",
+  "procedures": [
+    {
+      "name": "Concesión de garantías",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de concesión",
+          "description": "El departamento interesado propone la garantía al Consejo de Gobierno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe técnico",
+          "description": "El departamento de garantías debe emitir un informe favorable sobre la disponibilidad de límites y viabilidad económica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación y formalización",
+          "description": "El Consejo de Gobierno aprueba la concesión y se procede a su formalización en documento público o ante fedatario.",
+          "start_date": null,
+          "end_date": "1 año desde el acuerdo (si no se formaliza, se considera revocada)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Pago de deudas mediante bienes o derechos (Dación en pago)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud del deudor",
+          "description": "El deudor solicita el pago mediante bienes o derechos ante la Dirección de Patrimonio y Contratación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Descripción y valoración de los bienes, documentación acreditativa de la situación económica"
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y propuesta",
+          "description": "El Director de Patrimonio eleva propuesta al Consejero tras los informes preceptivos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "El Consejo de Gobierno aprueba o deniega la solicitud.",
+          "start_date": null,
+          "end_date": "5 meses desde la solicitud",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

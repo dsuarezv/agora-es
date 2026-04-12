@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-2014-5949",
+  "title": "Ley Foral 8/2014, de 16 de mayo, regula dor de el mecenazgo cultural y de sus incentivos fiscales en la Comunidad Foral de Navarrra",
+  "visible_title": "Ley de Mecenazgo Cultural e Incentivos Fiscales de Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "8/2014",
+  "publication_date": "2014-06-06",
+  "enactment_date": "2014-05-16",
+  "last_updated": "2023-06-13",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2014/05/16/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma busca transformar la financiación de la cultura en Navarra, pasando de un modelo dependiente de la inversión pública a uno que fomente la colaboración privada. Establece un marco de beneficios fiscales para incentivar donaciones, préstamos de uso y convenios de colaboración en proyectos culturales de interés social. Además, introduce herramientas modernas como el micromecenazgo digital y productos financieros específicos para captar fondos para el sector cultural.",
+  "citizen_impact": "Permite que cualquier ciudadano pueda apoyar proyectos culturales locales (como museos, teatros o patrimonio) obteniendo deducciones en su declaración de la renta (IRPF). También facilita el uso de aplicaciones móviles para realizar donaciones directas de forma sencilla.",
+  "professional_impact": "Las empresas y autónomos pueden reducir su carga fiscal mediante deducciones en el Impuesto sobre Sociedades al colaborar con entidades culturales. Los artistas y entidades culturales ganan nuevas vías de financiación, pero deben cumplir con requisitos estrictos de certificación y transparencia para que sus donantes puedan aplicar los beneficios.",
+  "keywords": [
+    "mecenazgo cultural",
+    "incentivos fiscales",
+    "Navarra",
+    "donaciones",
+    "patrimonio cultural",
+    "deducciones IRPF",
+    "impuesto sobre sociedades",
+    "interés social"
+  ],
+  "key_points": [
+    "Creación de deducciones en el IRPF: 80% de los primeros 150€ y 40% del resto.",
+    "Beneficios en Impuesto sobre Sociedades: deducción en la cuota del 30% de los primeros 300€ y 20% del resto, además de considerar la donación como gasto deducible.",
+    "Ampliación de beneficiarios: incluye a administraciones públicas, universidades, entidades sin ánimo de lucro y artistas con facturación inferior a 200.000€.",
+    "Nuevas modalidades: permite el mecenazgo mediante donaciones, préstamos de uso (comodato) y convenios de colaboración.",
+    "Digitalización: se ordena el desarrollo de una aplicación para realizar donaciones electrónicas.",
+    "Productos financieros: posibilidad de crear productos financieros con rentabilidades destinadas a proyectos culturales.",
+    "Declaración de interés social: los proyectos deben ser evaluados por el Consejo Navarro de Cultura para acceder a los beneficios."
+  ],
+  "legal_references": [
+    "Ley Foral 14/2005 del Patrimonio Cultural de Navarra",
+    "Ley Foral 10/1996 del régimen tributario de las fundaciones y actividades de patrocinio",
+    "Decreto Foral Legislativo 153/1986 (Impuesto sobre Sociedades)",
+    "Decreto Foral Legislativo 4/2008 (IRPF)",
+    "Ley Foral 13/1992 del Impuesto sobre el Patrimonio",
+    "Ley Foral 13/2000 General Tributaria",
+    "Constitución Española (Art. 44.1)",
+    "Carta Cultural Iberoamericana de 2006",
+    "Convención de la Unesco sobre la protección de la diversidad de las expresiones culturales"
+  ],
+  "derogations": [
+    "Decreto Foral 118/1999, de 19 de abril"
+  ],
+  "main_obligations": "Las entidades beneficiarias deben emitir certificaciones que acrediten la realidad de la donación y su destino efectivo a proyectos de interés social. Asimismo, deben informar a la Administración tributaria sobre el contenido de dichas certificaciones en los plazos establecidos.",
+  "effective_date": "2014-06-07",
+  "procedures": [
+    {
+      "name": "Declaración de interés social a instancia de los beneficiarios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de declaración",
+          "descrption": "La entidad beneficiaria solicita al departamento de cultura la consideración de interés social para su proyecto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la relevancia y repercusión social del proyecto según los criterios de la ley."
+        },
+        {
+          "step": 2,
+          "title": "Evaluación del Consejo Navarro de Cultura",
+          "descrption": "El Consejo evalúa la solicitud basándose en criterios de impacto social, investigación y promoción cultural.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de la Dirección General",
+          "descrption": "La Dirección General competente resuelve la concesión o denegación basándose en la propuesta del Consejo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

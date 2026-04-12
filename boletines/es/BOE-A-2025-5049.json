@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-2025-5049",
+  "title": "Orden HAC/242/2025, de 13 de marzo, por la que se aprueban los modelos de declaración del Impuesto sobre la Renta de las Personas Físicas y del Impuesto sobre el Patrimonio, ejercicio 2024, se determinan el lugar, forma y plazos de presentación de los mismos, se establecen los procedimientos de obtención, modificación, confirmación y presentación del borrador de declaración del Impuesto sobre la Renta de las Personas Físicas, se determinan las condiciones generales y el procedimiento para la presentación de ambos por medios electrónicos y se desarrolla la disposición final décima sexta de la Ley 7/2024, de 20 de diciembre, por la que se establecen un Impuesto Complementario para garantizar un nivel mínimo global de imposición para los grupos multinacionales y los grupos nacionales de gran magnitud, un Impuesto sobre el margen de intereses y comisiones de determinadas entidades financieras y un Impuesto sobre los líquidos para cigarrillos electrónicos y otros productos relacionados con el tabaco, y se modifican otras normas tributarias",
+  "visible_title": "Modelos de declaración del IRPF e Impuesto sobre el Patrimonio 2024",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio de Hacienda",
+  "official_number": "HAC/242/2025",
+  "publication_date": "2025-03-14",
+  "enactment_date": "2025-03-13",
+  "last_updated": "2025-03-14",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2025/03/13/hac242",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "63",
+  "summary": "Esta norma establece las reglas de juego para la campaña de la Renta 2024 y el Impuesto sobre el Patrimonio. Introduce cambios significativos para facilitar el pago de impuestos mediante métodos modernos como Bizum y simplifica la corrección de errores mediante la autoliquidación rectificativa. Además, ajusta los límites de obligación de declarar y regula nuevos impuestos complementarios para grandes multinacionales y sectores específicos. En definitiva, busca modernizar la gestión tributaria y dar más flexibilidad al contribuyente en sus pagos y rectificaciones.",
+  "citizen_impact": "Los ciudadanos tendrán más opciones para pagar su declaración (Bizum, tarjeta o transferencia instantánea) y podrán corregir errores de forma más ágil. Se establece un nuevo límite de 22.000€ para declarar si solo tienes un pagador. Además, se mantienen deducciones por eficiencia energética y se permite a los autónomos amortizar vehículos eléctricos y puntos de recarga.",
+  "professional_impact": "Las empresas y autónomos deben adaptarse a los nuevos límites de declaración y a las nuevas reglas de amortización de vehículos eléctricos. Los profesionales de la gestión tributaria deberán manejar el nuevo procedimiento de 'autoliquidación rectificativa' y los nuevos modelos de impuestos para grandes grupos multinacionales.",
+  "keywords": [
+    "IRPF 2024",
+    "Impuesto sobre el Patrimonio",
+    "Campaña de la Renta",
+    "Bizum impuestos",
+    "Autoliquidación rectificativa",
+    "Deducciones eficiencia energética",
+    "Impuesto multinacionales"
+  ],
+  "key_points": [
+    "Nuevos métodos de pago: Ahora puedes pagar la Renta mediante Bizum, tarjeta de crédito/débito o transferencias instantáneas.",
+    "Nuevo límite de declaración: Solo estás obligado a declarar si tus ingresos anuales superan los 22.000€ (si tienes un solo pagador).",
+    "Corrección de errores rápida: Se implementa la 'autoliquidación rectificativa' para subsanar errores sin esperar resoluciones de la administración.",
+    "Flexibilidad en pagos: Es posible domiciliar el primer plazo y pagar el segundo de forma manual hasta el 5 de noviembre de 2025.",
+    "Beneficios para autónomos: Posibilidad de amortizar vehículos eléctricos (FCV, BEV, PHEV) y puntos de recarga.",
+    "Obligación para beneficiarios del IMV: Los titulares y unidades de convivencia del Ingreso Mínimo Vital deben declarar.",
+    "Deducciones energéticas: Se mantienen y amplían los plazos para deducciones por eficiencia energética en viviendas.",
+    "Pagos en declaraciones conjuntas: Basta con que la cuenta de domiciliación pertenezca a uno de los declarantes.",
+    "Regla de domiciliación: Si se fracciona el pago, el segundo plazo debe ir obligatoriamente a la misma cuenta y entidad que el primero."
+  ],
+  "legal_references": [
+    "Ley 35/2006 (IRPF)",
+    "Ley 19/1991 (Impuesto sobre el Patrimonio)",
+    "Ley 22/2009 (Financiación de Comunidades Autónomas)",
+    "Ley 7/2024 (Impuesto Complementario)",
+    "Real Decreto-ley 4/2024",
+    "Real Decreto 710/2024",
+    "Ley 19/2021 (Ingreso Mínimo Vital)",
+    "Orden EH/1658/2009",
+    "Reglamento General de Recaudación (Real Decreto 939/2005)",
+    "Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria (Real Decreto 1065/2007)",
+    "Orden HAC/1398/2003"
+  ],
+  "derogations": [],
+  "main_obligations": "La presentación de la declaración debe realizarse entre el 2 de abril y el 30 de junio de 2025. Los autónomos están obligados a declarar siempre que hayan estado de alta en el RETA.",
+  "effective_date": "2025-03-13",
+  "procedures": [
+    {
+      "name": "Pago de la deuda tributaria (IRPF e Impuesto sobre el Patrimonio)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Periodo de domiciliación general",
+          "description": "Plazo para solicitar la domiciliación bancaria de la deuda.",
+          "start_date": "2025-04-02",
+          "end_date": "2025-06-25",
+          "required_documentation": "Datos de cuenta bancaria"
+        },
+        {
+          "step": 2,
+          "title": "Domiciliación exclusiva del segundo plazo (IRPF)",
+          "description": "Plazo si el contribuyente decide domiciliar únicamente la segunda parte del pago.",
+          "start_date": "2025-04-02",
+          "end_date": "2025-06-30",
+          "required_documentation": "Datos de cuenta bancaria"
+        },
+        {
+          "step": 3,
+          "title": "Pago manual del segundo plazo (sin domiciliación)",
+          "description": "Pago mediante modelo 102 si no se domicilió el segundo plazo.",
+          "start_date": null,
+          "end_date": "2025-11-05",
+          "required_documentation": "Modelo 102"
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de devolución por aportaciones a mutualidades (2019 y anteriores)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación del formulario de apoderamiento",
+          "description": "Tramitación electrónica mediante la sede de la AEAT para solicitar la devolución.",
+          "start_date": "2025-04-02",
+          "end_date": "2025-06-30",
+          "required_documentation": "Formulario de apoderamiento y sistemas de identificación electrónica"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

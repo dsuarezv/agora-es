@@ -1,0 +1,101 @@
+{
+  "identifier": "BOE-A-2009-8665",
+  "title": "Ley 7/2008, de 13 de noviembre, de Regulacion de Tasas en materia de Industria, Energia y Minas de Castilla-La Mancha",
+  "visible_title": "Regulación de Tasas en materia de Industria, Energía y Minas de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "7/2008",
+  "publication_date": "2009-05-26",
+  "enactment_date": "2008-11-13",
+  "last_updated": "2019-12-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2008/11/13/7",
+  "official_journal": "Diario Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley actualiza y moderniza el sistema de cobro de tasas por servicios administrativos en los sectores de industria, energía y minería en Castilla-La Mancha. Sustituye normativas obsoletas de mediados del siglo XX para adaptar los costes al volumen de trabajo actual y permitir la gestión telemática. El objetivo es simplificar los trámites, unificar tarifas y garantizar la seguridad jurídica mediante la definición clara de qué servicios generan el pago.",
+  "citizen_impact": "Afecta principalmente a propietarios de viviendas o edificios que necesiten inspecciones de ascensores, instalaciones de calefacción o certificados de eficiencia energética, quienes deberán abonar las tarifas establecidas. También impacta a quienes realicen trámites relacionados con la seguridad de equipos industriales o de medición.",
+  "professional_impact": "Empresas de ingeniería, instaladores, empresas energéticas y explotadores mineros deben ajustar sus presupuestos de gestión administrativa a estas nuevas tarifas. Los profesionales del sector deben cumplir con los nuevos requisitos de inscripción y certificación, pudiendo realizar la autoliquidación de forma telemática.",
+  "keywords": [
+    "tasas administrativas",
+    "industria",
+    "energía",
+    "minería",
+    "Castilla-La Mancha",
+    "instalaciones eléctricas",
+    "ascensores",
+    "eficiencia energética"
+  ],
+  "key_points": [
+    "Creación de nuevas tarifas para servicios modernos como la certificación de eficiencia energética y la gestión telemática.",
+    "Eliminación de tasas por trámites obsoletos, como las inspecciones técnicas de vehículos.",
+    "Establecimiento de límites máximos de pago para evitar cargas excesivas en función del presupuesto de la instalación.",
+    "Unificación y simplificación de los conceptos que generan el pago (hechos imponibles) para evitar confusiones.",
+    "Introducción de la autoliquidación de tasas, permitiendo el uso de medios telemáticos para la gestión.",
+    "Regulación específica de costes para la tramitación de expedientes de expropiación forzosa en sectores energéticos y mineros.",
+    "Actualización de los costes de inspección y certificación de equipos a presión, ascensores y sistemas de climatización."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Castilla-La Mancha",
+    "Ley 3/1990, de 18 de mayo, de Tasas y Precios Públicos",
+    "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "Real Decreto 337/2014, de 9 de mayo",
+    "Decreto 661/1960, de 31 de marzo",
+    "Real Decreto-Ley 26/1977, de 24 de marzo",
+    "Ley 9/1985, de 18 de diciembre, de tasas de la Comunidad Autónoma de Castilla-La Mancha"
+  ],
+  "derogations": [
+    "Decreto 661/1960, de 31 de marzo",
+    "Real Decreto-Ley 26/1977, de 24 de marzo",
+    "Artículos 117, 118, 119, 120 y 121 de la Ley 9/1985, de 18 de diciembre"
+  ],
+  "main_obligations": "Los usuarios de los servicios administrativos deben abonar las cuotas y tarifas establecidas en la ley al momento de solicitar el servicio. Los interesados también deben asumir el coste de la publicidad de los procedimientos (anuncios en boletines oficiales) de forma independiente a la tasa.",
+  "effective_date": "2009-05-26",
+  "procedures": [
+    {
+      "name": "Tramitación de servicios de industria y energía",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud del servicio",
+          "description": "El interesado solicita la autorización, inspección, verificación o certificación administrativa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación técnica, proyectos o memorias según el tipo de instalación."
+        },
+        {
+          "step": 2,
+          "title": "Autoliquidación de la tasa",
+          "description": "El usuario realiza el pago de la tasa mediante impresos normalizados o medios telemáticos.",
+          "start_date": "En el momento de la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de servicios de minería",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de derechos mineros o autorizaciones",
+          "description": "Solicitud de permisos de exploración, investigación, concesiones o cambios de titularidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyectos de exploración, planes de labores o documentación de titularidad."
+        },
+        {
+          "step": 2,
+          "title": "Pago de la tasa minera",
+          "description": "Liquidación de la cuota correspondiente según la tarifa aplicada al expediente.",
+          "start_date": "En el momento de la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

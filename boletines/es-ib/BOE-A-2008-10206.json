@@ -1,0 +1,110 @@
+{
+  "identifier": "BOE-A-2008-10206",
+  "title": "Ley 5/2008, de 14 de mayo, de actuaciones urgentes destinadas a la obtención de suelo para viviendas de protección pública",
+  "visible_title": "Ley de actuaciones urgentes para la obtención de suelo para viviendas de protección pública",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "5/2008",
+  "publication_date": "2008-06-14",
+  "enactment_date": "2008-05-14",
+  "last_updated": "2020-03-05",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2008/05/14/5",
+  "official_journal": "Butlletí Oficial de les Illes Balears",
+  "journal_issue": null,
+  "summary": "Esta ley crea un mecanismo de emergencia para combatir el déficit de vivienda en Baleares mediante la creación de 'reservas estratégicas de suelo'. El Gobierno autonómico convoca concursos públicos para que propietarios privados ofrezcan terrenos, permitiendo una transformación urbanística acelerada. El objetivo es garantizar que una parte significativa de los nuevos desarrollos se destine obligatoriamente a vivienda protegida o de precio tasado.",
+  "citizen_impact": "Busca facilitar el acceso a la vivienda digna aumentando la oferta de pisos protegidos y de precio limitado. Los ciudadanos que figuren en el registro de demandantes de vivienda podrán beneficiarse de estas nuevas adjudicaciones de vivienda pública.",
+  "professional_impact": "Los propietarios de terrenos pueden participar en concursos públicos para integrar sus suelos en reservas estratégicas. Los promotores urbanísticos deben asumir la ejecución de las obras y la cesión gratuita de un porcentaje de suelo urbanizado a la Administración para vivienda pública.",
+  "keywords": [
+    "vivienda de protección pública",
+    "suelo urbanizable",
+    "reservas estratégicas de suelo",
+    "urbanismo",
+    "Illes Balears",
+    "precio tasado"
+  ],
+  "key_points": [
+    "Creación de 'reservas estratégicas de suelo' como actuaciones de interés general.",
+    "Obligación de destinar al menos el 50% de la edificabilidad a vivienda protegida o de precio tasado.",
+    "Los propietarios deben ceder gratuitamente a la Administración el suelo destinado a vivienda protegida.",
+    "Se permite la creación de viviendas de 'precio tasado' con límites de venta y alquiler para agilizar la oferta.",
+    "El procedimiento urbanístico se simplifica mediante normas subsidiarias que evitan la necesidad de planes parciales.",
+    "La ley establece que esta medida excepcional solo puede aplicarse una única vez.",
+    "Los propietarios deben presentar el proyecto de urbanización en un plazo de 5 meses tras la aprobación de las normas."
+  ],
+  "legal_references": [
+    "Ley 6/1999, de 3 de abril, de las directrices de ordenación territorial de las Illes Balears",
+    "Real Decreto 801/2005, de 1 de julio",
+    "Ley 20/2006, de 15 de diciembre, municipal y de régimen local de las Illes Balears",
+    "Ley 8/2007, de suelo"
+  ],
+  "derogations": [],
+  "main_obligations": "Los propietarios-promotores deben presentar el proyecto de urbanización y distribución de beneficios en 5 meses tras la aprobación de las normas. Deben prestar una fianza por el 100% del coste de las obras de urbanización para garantizar su ejecución.",
+  "effective_date": "2008-06-15",
+  "procedures": [
+    {
+      "name": "Creación de Reservas Estratégicas de Suelo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de oferta de suelo",
+          "description": "El Gobierno convoca un concurso público para que propietarios privados presenten sus terrenos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Propuesta de inclusión de suelo en la reserva"
+        },
+        {
+          "step": 2,
+          "title": "Selección de ofertas",
+          "description": "El Gobierno selecciona los suelos más aptos según criterios de ubicación, sostenibilidad y cesiones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Tramitación de normas subsidiarias",
+          "description": "Elaboración de la norma de planeamiento que define la ubicación y usos del suelo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Informe de municipios y consejos insulares",
+          "description": "Los ayuntamientos y consejos deben emitir informe vinculante sobre la conveniencia de la reserva.",
+          "start_date": "1 mes tras el avance de la norma",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Aprobación inicial e información pública",
+          "description": "El Gobierno aprueba inicialmente la norma y se abre un periodo de exposición pública.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Aprobación definitiva",
+          "description": "Tras informes ambientales y locales, el Gobierno aprueba definitivamente las normas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 7,
+          "title": "Presentación de proyectos de urbanización",
+          "description": "El propietario debe presentar el proyecto de urbanización y distribución de cargas.",
+          "start_date": null,
+          "end_date": "5 meses tras la aprobación definitiva",
+          "required_documentation": "Proyecto de urbanización y proyecto de distribución de beneficios y cargas"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,166 @@
+{
+  "identifier": "BOE-A-2000-14000",
+  "title": "Ley 2/2000, de 3 de julio, del Deporte",
+  "visible_title": "Ley del Deporte",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "2/2000",
+  "publication_date": "2000-07-25",
+  "enactment_date": "2000-07-03",
+  "last_updated": "2021-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2000/07/03/2",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "summary": "Esta ley regula todo el ecosistema deportivo en Cantabria, desde la creación de entidades de gestión hasta la organización de clubes y federaciones. Establece un marco de control estricto para garantizar la ética mediante la lucha contra el dopaje y la exigencia de titulaciones oficiales para técnicos. Además, introduce mecanismos para resolver conflictos de forma rápida sin necesidad de acudir a los tribunales ordinarios. Su objetivo es profesionalizar el sector y proteger tanto a los deportistas como a los usuarios de instalaciones.",
+  "citizen_impact": "Protege a los menores de edad prohibiendo el pago de derechos de formación o retención antes de los 16 años. Garantiza la seguridad de los usuarios al exigir seguros de responsabilidad civil en centros con ánimo de lucro y permite resolver disputas deportivas mediante la Junta de Conciliación Extrajudicial y Arbitraje, evitando procesos judiciales largos.",
+  "professional_impact": "Los centros deportivos con fines de lucro deben obtener autorización administrativa previa y contar con seguro de responsabilidad civil. Los técnicos deportivos están obligados a poseer una titulación oficial para ejercer. Los clubes y federaciones deben adaptar sus estatutos para incluir regímenes sancionadores y los profesionales que reciban remuneración son los únicos sujetos a multas económicas.",
+  "keywords": [
+    "deporte cantabria",
+    "clubes deportivos",
+    "federaciones",
+    "disciplina deportiva",
+    "dopaje",
+    "técnicos deportivos",
+    "arbitraje deportivo"
+  ],
+  "key_points": [
+    "Prohibición de exigir o pagar derechos de formación a deportistas menores de 16 años.",
+    "Obligatoriedad de seguro de responsabilidad civil para establecimientos deportivos con ánimo de lucro.",
+    "Exigencia de titulación oficial para cualquier persona que ejerza como técnico deportivo.",
+    "Obligación de someterse a controles antidopaje en competiciones oficiales para federados.",
+    "Creación de la Junta de Conciliación Extrajudicial y Arbitraje para resolver conflictos sin ir a juicio.",
+    "Posibilidad de clausura inmediata de instalaciones por razones de protección al usuario o interés deportivo.",
+    "Las multas económicas solo se aplican a profesionales con remuneración por su actividad.",
+    "Los jueces y árbitros tienen potestad disciplinaria inmediata y sus actas se presumen verdaderas.",
+    "La tercera infracción leve en un periodo de dos años se convierte automáticamente en grave.",
+    "Las infracciones prescriben en 6 meses (leves), 1 año (graves) o 2 años (muy graves).",
+    "Creación de la Escuela Cántabra del Deporte para formación de alto rendimiento.",
+    "El Comité Cántabro de Disciplina Deportiva actúa con independencia y sus resoluciones agotan la vía administrativa."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 43.3)",
+    "Estatuto de Autonomía de Cantabria",
+    "Ley 10/1990, de 15 de octubre, del Deporte",
+    "Orden de 3 de julio de 1989 (Cantabria)",
+    "Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Ley de Cantabria 2/1997, de 28 de abril, de Régimen Jurídico del Gobierno y de la Administración"
+  ],
+  "derogatons": [
+    "Orden de 3 de julio de 1989 (en lo relativo al Registro de Entidades Deportivas)",
+    "Decreto 9/1989, de 2 de junio",
+    "Orden de 3 de julio de 1989 (desarrollo de Asociaciones y Federaciones)",
+    "Orden de 3 de julio de 1989 (inscripción de clubes)",
+    "Decreto 86/1989, de 21 de noviembre (Comité Cántabro de Disciplina Deportiva)",
+    "Orden de 29 de diciembre de 1989 (designación de miembros del Comité)",
+    "Orden 41/2000, de 2 de febrero (elección de órganos de federaciones)",
+    "Decreto 5/2000, de 28 de febrero"
+  ],
+  "main_obligations": "Los clubes deportivos básicos deben otorgar acta fundacional ante notario y las federaciones deben expedir licencias en un plazo máximo de un mes. Los establecimientos deportivos mercantiles requieren autorización administrativa previa y las instalaciones deben adaptarse a los requisitos de idoneidad en un plazo de dos años.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Expedición de licencias deportivas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de licencia",
+          "description": "El deportista solicita la licencia a su federación correspondiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Requisitos establecidos en los estatutos de la federación"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de resolución",
+          "description": "La federación tiene un mes para resolver; durante este tiempo el resguardo actúa como licencia provisional.",
+          "start_date": "Desde la solicitud",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Concesión automática",
+          "description": "Si no hay resolución en un mes, la licencia se entiende concedida definitivamente.",
+          "start_date": "Tras 1 mes",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Constitución de Club Deportivo Básico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acta fundacional",
+          "description": "Otorgamiento de acta ante notario por al menos cinco personas físicas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estatutos provisionales"
+        },
+        {
+          "step": 2,
+          "title": "Inscripción en el Registro",
+          "description": "Inscripción en el Registro de Entidades Deportivas de Cantabria para adquirir personalidad jurídica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta fundacional y estatutos"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador Administrativo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del expediente",
+          "description": "Se inicia de oficio, por inspección, por otros órganos o por denuncia de entidades o ciudadanos.",
+          "start_date": "Día de la comisión de la infracción",
+          "end_date": null,
+          "required_documentation": "Actas de inspección o denuncia"
+        },
+        {
+          "step": 2,
+          "title": "Información previa (opcional)",
+          "description": "Práctica de actuaciones para aclarar los hechos antes de la incoación.",
+          "start_date": "Tras el inicio",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución y notificación",
+          "description": "El procedimiento debe resolverse y notificarse obligatoriamente en un plazo máximo.",
+          "start_date": "Desde la iniciación",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Disciplinario Deportivo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Investigación y tramitación",
+          "description": "Tramitación inspirada en la Ley 39/2015 para investigar conductas de deportistas, técnicos o clubes.",
+          "start_date": "Desde la detección de la infracción",
+          "end_date": "6 meses",
+          "required_documentation": "Actas de jueces y árbitros"
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Notificación de la sanción impuesta.",
+          "start_date": "Tras la instrucción",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

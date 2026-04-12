@@ -1,0 +1,109 @@
+{
+  "identifier": "BOE-A-2019-15519",
+  "title": "Ley 12/2019, de 11 de octubre, del Voluntariado de Extremadura",
+  "visible_title": "Ley del Voluntariado de Extremadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "12/2019",
+  "publication_date": "2019-10-30",
+  "enactment_date": "2019-10-11",
+  "last_updated": "2019-10-15",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2019/10/11/12",
+  "official_journal": "Boletín Oficial de Extremadura",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y regula la actividad voluntaria en Extremadura, adaptándola a la era digital y permitiendo la participación de menores de edad. Establece un marco de seguridad y profesionalidad mediante la obligatoriedad de seguros, acreditaciones y la verificación de antecedentes penales en casos sensibles. Además, crea herramientas de gestión como un Registro Central y un Observatorio para mejorar la coordinación y el apoyo a las entidades. El objetivo es garantizar derechos tanto para quienes prestan el servicio como para las organizaciones que lo gestionan.",
+  "citizen_impact": "Los ciudadanos pueden participar como voluntarios de forma digital (sin presencia física) y los menores de edad ahora tienen un marco legal para hacerlo. Los voluntarios tienen derecho garantizado a recibir certificados de su labor, acreditaciones de identidad y el reembolso de los gastos realizados si se acordó previamente.",
+  "professional_impact": "Las entidades de voluntariado deben adaptarse a nuevos estándares: suscribir acuerdos por escrito, contratar seguros de responsabilidad civil y accidentes, y registrarse obligatoriamente en el Registro Central para acceder a ayudas. Las entidades nacionales que operen en la región deben acreditar una delegación permanente en Extremadura. Los empleados públicos también recibirán formación específica en esta materia.",
+  "keywords": [
+    "voluntariado",
+    "Extremadura",
+    "participación ciudadana",
+    "entidades sin ánimo de lucro",
+    "voluntariado digital",
+    "menores de edad",
+    "registro de entidades"
+  ],
+  "key_points": [
+    "Reconocimiento de la condición de voluntario a menores de edad bajo requisitos específicos.",
+    "Permiso para realizar actividades de voluntariado mediante tecnologías de la información (TIC).",
+    "Obligación de las entidades de entregar acreditación identificativa y certificados de servicios.",
+    "Exigencia de certificados de antecedentes penales para trabajar con menores o colectivos vulnerables.",
+    "Derecho al reembolso de gastos según acuerdo previo entre entidad y voluntario.",
+    "Creación del Consejo Extremeño del Voluntariado para consulta y participación.",
+    "Obligatoriedad de inscripción en el Registro Central para acceder a ayudas y asistencia técnica.",
+    "Creación de un Observatorio para certificar experiencias y buenas prácticas.",
+    "Implementación de una red tecnológica de 'coworking' para proyectos compartidos.",
+    "Obligación de las entidades de contar con seguro de responsabilidad civil y accidentes.",
+    "Exigencia de delegación permanente en Extremadura para entidades nacionales que quieran registrarse.",
+    "Formación obligatoria para empleados públicos en materia de voluntariado."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autoonomía de Extremadura",
+    "Ley 45/2015, de 14 de octubre, de Voluntariado",
+    "Ley 14/2015, de 9 de abril, de Servicios Sociales de Extremadura",
+    "Ley 1/1998, de 5 de febrero, reguladora del Voluntariado Social en Extremadura",
+    "Decreto 43/2009, de 6 de marzo, que regula el Estatuto del Voluntariado Social Extremeño",
+    "Reglamento (UE) núm. 375/2014",
+    "Ley 60/2003, de 23 de diciembre, de Arbitraje"
+  ],
+  "derogations": [
+    "Ley 1/1998, de 5 de febrero, reguladora del Voluntariado Social en Extremadura"
+  ],
+  "main_obligations": "Las entidades de voluntariado tienen un plazo máximo de 18 meses para adaptar su funcionamiento a esta nueva normativa. Deben suscribir acuerdos de incorporación por escrito, mantener un registro de altas/bajas y contratar seguros obligatorios.",
+  "effective_date": "2019-10-31",
+  "procedures": [
+    {
+      "name": "Incorporación de una persona voluntaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de requisitos",
+          "description": "La persona debe aportar certificaciones de antecedentes penales según el tipo de actividad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificación negativa del Registro Central de Delincuentes Sexuales y/o antecedentes penales según el caso."
+        },
+        {
+          "step": 2,
+          "title": "Suscripción del acuerdo",
+          "description": "Firma por escrito del acuerdo de incorporación que define derechos, deberes, funciones y duración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acuerdo de incorporación firmado por ambas partes."
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de entidades de voluntariado a la nueva Ley 12/2019",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Ajuste normativo",
+          "description": "Las entidades que ya cuentan con personal voluntario deben adaptar su funcionamiento a los nuevos requisitos legales.",
+          "start_date": "Fecha de publicación en el DOE",
+          "end_date": "18 meses tras la entrada en vigor",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Desarrollo reglamentario de la Ley",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adaptación del Estatuto del Voluntariado",
+          "description": "El Consejo de Gobierno debe adoptar las disposiciones para desarrollar la ley y adaptar el Estatuto del Voluntariado.",
+          "start_date": "Entrada en vigor",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

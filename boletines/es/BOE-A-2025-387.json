@@ -1,0 +1,79 @@
+{
+  "identifier": "BOE-A-2025-387",
+  "title": "Resolución de 4 de diciembre de 2024, de la Dirección General de la Guardia Civil, por la que se determinan las medidas de seguridad mínimas que deben reunir las cajas fuertes o armeros para guardar las armas en domicilios particulares",
+  "visible_title": "Medidas de seguridad para cajas fuertes y armeros de armas en domicilios particulares",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Ministerio del Interior",
+  "official_number": "BOE-A-2025-387",
+  "publication_date": "2025-01-08",
+  "enactment_date": "2024-12-04",
+  "last_updated": "2025-01-08",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/res/2024/12/04/(3)",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "7",
+  "summary": "Esta norma actualiza los estándares técnicos de seguridad para los contenedores donde se guardan armas en casa. Establece niveles de resistencia específicos (según la norma UNE EN 1143-1) dependiendo del tipo de licencia y categoría del arma. Además, regula cómo pueden compartir una misma caja fuerte los convivientes y define el volumen mínimo necesario para cada tipo de arma.",
+  "citizen_impact": "Afecta directamente a los titulares de licencias de armas (categorías 2.ª2 y tipo F), quienes deberán asegurar que sus cajas fuertes o armeros cumplan con los nuevos grados de resistencia técnica. También permite a los convivientes compartir un mismo contenedor de seguridad si cumplen los requisitos de capacidad y convivencia.",
+  "professional_impact": "Los fabricantes y comercializadores de cajas fuertes y armeros deben adaptar su oferta a los nuevos grados de resistencia y certificaciones exigidas. Los organismos de control deben emitir certificados de producto válidos bajo la norma UNE EN 1143-1 para que los productos puedan ser autorizados por la Guardia Civil.",
+  "keywords": [
+    "guardia civil",
+    "cajas fuertes",
+    "armeos",
+    "seguridad armas",
+    "licencia tipo F",
+    "norma UNE EN 1143-1",
+    "custodia de armas"
+  ],
+  "key_points": [
+    "Las armas de la categoría 2.ª2 y licencias tipo F requieren grados de resistencia específicos según la norma UNE EN 1143-1 (Grado I o III según el caso).",
+    "Se permite el uso compartido de cajas fuertes entre personas que convivan en el mismo domicilio, previa acreditación ante la Guardia Civil.",
+    "Se establece un volumen mínimo de almacenamiento: 4,5 litros para armas cortas y 20 litros para armas largas.",
+    "Las cámaras acorazadas deben dejar al menos un 50% de su volumen para espacio de maniobra.",
+    "Es obligatorio presentar un certificado de producto emitido por un organismo de control habilitado (ENA) para acreditar la seguridad.",
+    "Se concede un periodo de transición de 30 meses para que los productos fabricados bajo normas anteriores puedan seguir comercializándose.",
+    "Las cajas fuertes instaladas siguen siendo válidas hasta que cumplan su finalidad de seguridad (fin de vida útil)."
+  ],
+  "legal_references": [
+    "Reglamento de armas (Real Decreto 137/1993)",
+    "Norma UNE EN 1143-1"
+  ],
+  "derogations": [
+    "Resolución de 26 de noviembre de 1998, de la Dirección General de la Guardia Civil"
+  ],
+  "main_obligations": "Los titulares de armas deben garantizar que sus contenedores cumplan con los grados de resistencia UNE establecidos según su categoría. Deben acreditar la seguridad mediante certificados de organismos habilitados y, en caso de convivencia compartida, comunicar la situación a la Intervención de Armas y Explosivos.",
+  "effective_date": "2025-01-09",
+  "procedures": [
+    {
+      "name": "Acreditación de seguridad y uso compartido",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Certificación del producto",
+          "description": "Obtención de certificado de producto emitido por organismo de control habilitado por la ENAC o CENE.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado de producto de organismo de control habilitado"
+        },
+        {
+          "step": 2,
+          "title": "Acreditación de convivencia",
+          "description": "En caso de uso compartido, acreditar la convivencia ante la Intervención de Armas y Explosivos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la convivencia en el mismo domicilio"
+        },
+        {
+          "step": 3,
+          "title": "Comunicación de cambio de domicilio",
+          "description": "Si un conviviente cambia de domicilio, debe comunicar la situación a la nueva Intervención de Armas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación de la nueva residencia y acreditación de medidas de seguridad"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

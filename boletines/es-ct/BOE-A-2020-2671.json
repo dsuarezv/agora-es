@@ -1,0 +1,81 @@
+{
+  "identifier": "BOE-A-2020-2671",
+  "title": "Resolución INT/383/2020, de 13 de febrero, por la que se establecen las restricciones a la circulación durante el año 2020",
+  "visible_title": "Restricciones a la circulación de vehículos en Cataluña durante el año 2020",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "INT/383/2020",
+  "publication_date": "2020-02-26",
+  "enactment_date": "2020-02-13",
+  "last_updated": "2021-02-12",
+  "status": "derogated",
+  "scope": "Autoonómico",
+  "source": "https://www.boe.es/eli/es-ct/res/2020/02/13/int383",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta resolución establece un calendario detallado de restricciones de circulación para vehículos pesados y de mercancías peligrosas en la red vial de Cataluña durante el año 2020. El objetivo es mejorar la fluidez del tráfico, la seguridad vial y la movilidad en periodos de alta demanda o festividades. La norma define tramos específicos, horarios prohibidos y rutas obligatorias para distintos tipos de transporte.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo por posibles alteraciones en la fluidez del tráfico o cambios en los tiempos de entrega de mercancías.",
+  "professional_impact": "Afecta severamente al sector del transporte de mercancías, especialmente a conductores de vehículos de más de 7.500 kg y transporte de mercancías peligrosas (ADR). Obliga a planificar rutas específicas, respetar horarios de prohibición en túneles y carreteras clave, y realizar comunicaciones previas para ciertos transportes especiales.",
+  "keywords": [
+    "tráfico",
+    "Cataluña",
+    "restricciones de circulación",
+    "transporte de mercancías",
+    "mercancías peligrosas",
+    "seguridad vial",
+    "vehículos pesados"
+  ],
+  "key_points": [
+    "Prohibición de circular para vehículos de mercancías >7.500 kg en tramos y horarios específicos (Anexo B).",
+    "Restricciones estrictas para vehículos de transporte especial y mercancías peligrosas (ADR) en domingos, festivos y túneles críticos como el de Cadí o Vielha.",
+    "Obligatoriedad de usar rutas de largo recorrido (itinerarios europeos o autopistas) para transportes de más de 65 km.",
+    "Restricciones específicas para el acceso a Barcelona en ciertos horarios de viernes, festivos y laborables.",
+    "Limitaciones de circulación en la zona de Val d'Aran (N-230 y C-28) según la temporada.",
+    "Restricciones para vehículos de gran tonelaje (4 ejes o >26 toneladas) en carreteras N-II, N-240 y N-340.",
+    "Exenciones para transporte de productos perecederos, ganado vivo, leche, basura municipal y servicios de emergencia.",
+    "Posibilidad de sanción e incluso retirada del vehículo por parte de los Mossos d'Esquadra si se incumple la norma."
+  ],
+  "legal_references": [
+    "Ley sobre tráfico, circulación de vehículos a motor y seguridad vial (Real Decreto Legislativo 6/2015)",
+    "Reglamento general de circulación (Real Decreto 1428/2003)",
+    "Ley 14/1997 de creación del Servicio Catalán de Tráfico",
+    "Decreto 320/2011 de reestructuración del Departamento de Interior"
+  ],
+  "derogations": [
+    "Resolución INT/593/2019, de 7 de marzo",
+    "Resolución INT/1001/2019, de 16 de abril",
+    "Resolución INT/1674/2019, de 17 de junio"
+  ],
+  "main_obligations": "Los vehículos de transporte de mercancías >7.500 kg y de mercancías peligrosas deben respetar los horarios y tramos prohibidos detallados en la resolución. El incumplimiento conlleva sanciones según la legislación de tráfico y la posible inmovilización o retirada del vehículo por la policía.",
+  "effective_date": "2020-03-05",
+  "procedures": [
+    {
+      "name": "Comunicación previa de transporte especial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Realización de comunicación previa",
+          "descrption": "Los vehículos de transporte especial deben comunicar su circulación a través del enlace web de transit.gencat.cat.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación del vehículo y autorización de transporte especial"
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de autorización para transporte urgente o mercancías peligrosas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación de autorización excepcional",
+          "descrption": "Procedimiento para solicitar permiso de circulación en horarios o tramos restringidos por razones de urgencia o necesidad justificada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Justificación de la urgencia o necesidad ineludible"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

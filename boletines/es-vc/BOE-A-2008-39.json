@@ -1,0 +1,97 @@
+{
+  "identifier": "BOE-A-2008-39",
+  "title": "Ley 13/2007, de 22 de noviembre, de medicamentos veterinarios",
+  "visible_title": "Ley de medicamentos veterinarios",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat Valenciana",
+  "official_number": "13/2007",
+  "publication_date": "2008-01-02",
+  "enactment_date": "2007-11-22",
+  "last_updated": "2007-11-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2007/11/22/13",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo se distribuyen, venden y utilizan los medicamentos para animales en la Comunidad Valenciana. Establece un control estricto sobre quién puede vender estos productos (farmacias, comercios autorizados, agrupaciones ganaderas) y garantiza que se haga bajo supervisión profesional. Su objetivo principal es asegurar el uso racional de los fármacos para proteger tanto la salud animal como la seguridad alimentaria de los humanos.",
+  "citizen_impact": "Los dueños de mascotas y animales de granja deben saber que ciertos medicamentos requieren obligatoriamente receta veterinaria. Además, se garantiza que los productos vendidos cumplan con estándares de calidad y trazabilidad para evitar riesgos sanitarios.",
+  "professional_impact": "Veterinarios, farmacéuticos y ganaderos enfrentan nuevas obligaciones de registro, control de recetas (incluida la electrónica) y mantenimiento de trazabilidad por 5 años. Los distribuidores y comercios deben contar con un director técnico farmacéutico y cumplir estrictas normas de conservación y almacenamiento.",
+  "keywords": [
+    "medicamentos veterinarios",
+    "receta veterinaria",
+    "distribución farmacéutica",
+    "sanidad animal",
+    "uso racional de medicamentos",
+    "Comunidad Valenciana"
+  ],
+  "key_points": [
+    "Obligatoriedad de receta veterinaria para medicamentos sujetos a prescripción.",
+    "Introducción de la receta electrónica mediante firma electrónica segura.",
+    "Autorización necesaria para almacenes mayoristas, comercios detallistas y entidades ganaderas.",
+    "Exigencia de un director técnico farmacéutico en los almacenes de distribución.",
+    "Posibilidad de prescripción excepcional por 'vacío terapéutico' para evitar sufrimiento animal.",
+    "Permiso para que veterinarios y clínicas dispongan de un depósito de medicamentos para su actividad.",
+    "Obligación de conservar la documentación y recetas durante un periodo de 5 años.",
+    "Régimen sancionador con multas que pueden alcanzar el millón de euros en casos muy graves."
+  ],
+  "legal_references": [
+    "Ley 29/2006, de 26 de julio, de Garantías y Uso Racional de los Medicamentos y Productos Sanitarios",
+    "Ley 8/2003, de 24 de abril, de Sanidad Animal",
+    "Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud",
+    "Ley 6/2003, de 4 de marzo, de Ganadería de la Comunidad Valenciana",
+    "Ley 6/1998, de 22 de junio, de Ordenación Farmacéutica de la Comunidad Valenciana",
+    "Ley 59/2003, de 19 de diciembre, de Firma Electrónica",
+    "Estatuto de Autonomía de la Comunidad Valenciana"
+  ],
+  "derogations": [
+    "Todas las normas de igual o inferior rango que la contravengan"
+  ],
+  "main_obligations": "Los establecimientos deben garantizar la trazabilidad y conservación de los fármacos, manteniendo registros por 5 años. Se prohíbe la venta ambulante o por internet de medicamentos sujetos a prescripción y se exige el uso de receta para productos específicos.",
+  "effective_date": "2008-01-12",
+  "procedures": [
+    {
+      "name": "Autorización de almacenes mayoristas de distribución",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "descrption": "Presentación de la solicitud ante la consejería competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite locales acondicionados y nombramiento de director técnico farmacéutico"
+        },
+        {
+          "step": 2,
+          "title": "Resolución administrativa",
+          "descrption": "La administración debe dictar y notificar la resolución.",
+          "start_date": "6 meses desde la fecha de la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación e instrucción",
+          "descrption": "Inicio del proceso tras una inspección o denuncia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "descrption": "Dictamen final con la sanción impuesta según la gravedad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

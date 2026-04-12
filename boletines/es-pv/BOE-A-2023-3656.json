@@ -1,0 +1,85 @@
+{
+  "identifier": "BOE-A-2023-3656",
+  "title": "Resolución de 24 de enero de 2023, de la Dirección de Tráfico, del Departamento de Seguridad, por la que se establecen medidas especiales de regulación de tráfico durante el año 2023 en la Comunidad Autónoma del País Vasco",
+  "visible_title": "Medidas especiales de regulación de tráfico en el País Vasco durante 2023",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "BOE-A-2023-3656",
+  "publication_date": "2023-02-13",
+  "enactment_date": "2023-01-24",
+  "last_updated": "2023-06-16",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/res/2023/01/24/(1)",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta resolución establece restricciones temporales de circulación en el País Vasco para mejorar la seguridad y fluidez del tráfico durante 2023. Regula la prohibición de eventos deportivos en ciertas fechas, limita el tránsito de vehículos de transporte de mercancías peligrosas y de vehículos pesados de más de 7.500 kg en periodos de alta demanda. También coordina la suspensión de obras viales en fechas críticas para evitar atascos.",
+  "citizen_impact": "Los ciudadanos pueden experimentar restricciones de movilidad o cambios en las rutas habituales debido a la prohibición de ciertos vehículos pesados o eventos deportivos en fechas específicas. No impone trámites nuevos para el conductor particular, pero sí altera la fluidez del tráfico en puentes y periodos estivales.",
+  "professional_impact": "Afecta directamente a empresas de transporte de mercancías peligrosas y de carga pesada (>7.500 kg), que deben planificar sus rutas evitando los horarios y días prohibidos. Los organizadores de eventos deportivos deben solicitar autorizaciones específicas y cumplir con las restricciones de ocupación de calzada. Las empresas constructoras deben coordinar la suspensión de obras en periodos de alto tráfico.",
+  "keywords": [
+    "tráfico",
+    "País Vasco",
+    "restricciones de circulación",
+    "mercancías peligrosas",
+    "transporte pesado",
+    "seguridad vial",
+    "movilidad"
+  ],
+  "key_points": [
+    "Prohibición de circulación para vehículos de mercancías peligrosas los domingos, festivos y vísperas de festivos en horarios específicos.",
+    "Restricción de vehículos de transporte de mercancías con masa superior a 7.500 kg en periodos estivales y fechas señaladas.",
+    "Limitación de eventos deportivos y marchas ciclísticas en vías interurbanas durante fechas de alta ocupación.",
+    "Obligatoriedad de usar itinerarios específicos (RIMP) para el transporte de mercancías peligrosas.",
+    "Coordinación para la suspensión de obras viales en fines de semana y periodos de gran movimiento de vehículos.",
+    "Posibilidad de solicitar autorizaciones especiales por razones de urgencia para circular en periodos restringidos."
+  ],
+  "legal_references": [
+    "Real Decreto Legislativo 6/2015",
+    "Real Decreto 1428/2003",
+    "Real Decreto 3256/1982",
+    "Decreto 6/2021",
+    "Real Decreto 97/2014",
+    "Real Decreto 2822/1998"
+  ],
+  "derogations": [],
+  "main_obligations": "Los transportistas de mercancías peligrosas y vehículos >7.500 kg deben respetar los horarios de prohibición en domingos, festivos y periodos estivales. El incumplimiento conlleva sanciones según la Ley de Tráfico y la posible retirada del vehículo.",
+  "effective_date": "2023-02-24",
+  "procedures": [
+    {
+      "name": "Autorización de pruebas deportivas y eventos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "descrption": "Los organizadores deben solicitar permiso para eventos que ocupen calzada o arcenes en vías interurbanas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación del evento y plan de ocupación de vía"
+        },
+        {
+          "step": 2,
+          "title": "Evaluación de la autoridad de tráfico",
+          "descrption": "Se denegará si coincide con fechas de alta intensidad de tráfico o si no hay agentes suficientes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorizaciones especiales de circulación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud por urgencia",
+          "descrption": "Trámite para obtener permiso de circulación en itinerarios o periodos restringidos por necesidad ineludible.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Justificación de la urgencia, matrícula, características del vehículo y tipo de mercancía"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

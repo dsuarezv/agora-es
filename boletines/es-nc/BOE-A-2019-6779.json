@@ -1,0 +1,145 @@
+{
+  "identifier": "BOE-A-2019-6779",
+  "title": "Ley Foral 19/2019, de 4 de abril, de protección de los animales de compañía en Navarra",
+  "visible_title": "Protección de los animales de compañía en Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "19/2019",
+  "publication_date": "2019-05-08",
+  "enactment_date": "2019-04-04",
+  "last_updated": "2022-06-20",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es/nc/lf/2019/04/04/19",
+  "official_journal": "Boletín Oficial de Navarra",
+  "journal_issue": null,
+  "summary": "Esta ley transforma la consideración jurídica de los animales de compañía en Navarra, reconociéndolos como seres sintientes. Establece un marco de protección mucho más estricto que incluye la obligatoriedad de identificación, el control de la reproducción y la prohibición de prácticas crueles como cirugías estéticas innecesarias o mantener perros atados permanentemente. Además, endurece drásticamente las sanciones por maltrato y abandono, llegando a multas de hasta 100.000 euros. El objetivo es garantizar el bienestar animal y evitar la cría ilegal y la venta descontrolada.",
+  "citizen_impact": "Los dueños de mascotas deben asegurar la identificación por microchip y el registro de sus animales. Se prohíben prácticas comunes pero perjudiciales, como tener perros atados siempre o realizarles cirugías estéticas. Los ciudadanos que deseen adoptar o comprar un animal ahora pueden consultar el Registro de Infractores para evitar propietarios no aptos. Además, se garantiza que el dinero de las multas se reinvierta en la protección animal.",
+  "professional_impact": "Los establecimientos de venta de animales tienen nuevas obligaciones de transparencia, debiendo informar sobre el origen del animal y los riesgos de maltrato, quedando prohibida la venta ambulante y la exhibición en escaparates. Los ayuntamientos asumen la responsabilidad de sancionar, salvo falta de medios. Se crea un nuevo control sobre la tenencia de especies exóticas y peligrosas, limitándolas a núcleos zoológicos.",
+  "keywords": [
+    "protección animal",
+    "bienestar animal",
+    "Navarra",
+    "maltrato animal",
+    "microchip",
+    "seres sintientes",
+    "sanciones animales"
+  ],
+  "key_points": [
+    "Reconocimiento de los animales de compañía como seres sintientes.",
+    "Obligatoriedad de identificación mediante microchip para perros, gatos y hurones.",
+    "Prohibición de mantener perros atados de forma permanente.",
+    "Prohibición de cirugías estéticas no terapéuticas (corte de orejas, cola, etc.).",
+    "Obligación de esterilización para animales con contacto no controlado.",
+    "Prohibición de venta ambulante y de exhibir animales en escaparates visibles desde la calle.",
+    "Creación de un Registro de Infractores para verificar la aptitud de nuevos dueños.",
+    "Multas de hasta 100.000 € por infracciones muy graves como maltrato o cría ilegal.",
+    "Restricción de especies exóticas y peligrosas fuera de núcleos zoológicos.",
+    "Posibilidad de decomiso y prohibición de tener animales hasta 4 años o de forma permanente.",
+    "Destino obligatorio de las multas a la protección animal.",
+    "Obligación de informar sobre el origen del animal en puntos de venta."
+  ],
+  "legal_references": [
+    "Ley Foral 7/1994, de 31 de mayo",
+    "Tratado de Lisboa de la Unión Europea",
+    "Convenio Europeo sobre protección de los animales de compañía",
+    "Ley 50/1999, de 23 de diciembre, sobre el régimen jurídico de la tenencia de animales potencialmente peligrosos",
+    "Ley Foral 3/2015, de 2 de febrero",
+    "Decreto Foral 370/1992, de 31 de mayo",
+    "Orden Foral de 19 de septiembre de 1994"
+  ],
+  "derogations": [
+    "Ley Foral 7/1994, de 31 de mayo, de protección de los animales"
+  ],
+  "main_obligations": "Los propietarios deben identificar a sus animales mediante microchip, inscribirlos en el Registro de Animales de Compañía de Navarra y garantizarles alimentación, higiene y libertad de movimiento. Asimismo, es obligatorio comunicar la pérdida o muerte del animal y evitar la reproducción no controlada.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Identificación y Registro de Animales de Compañía",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Identificación veterinaria",
+          "description": "Un veterinario habilitado identifica al animal mediante un sistema reconocido (microchip para perros, gatos y hurones).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Pasaporte oficial del animal"
+        },
+        {
+          "step": 2,
+          "title": "Alta en el Registro",
+          "description": "Se debe solicitar el alta en el Registro de Identificación de Animales de Compañía de Navarra.",
+          "start_date": "Máximo 5 días hábiles tras la identificación",
+          "end_date": null,
+          "required_documentation": "Datos del propietario, del animal y del veterinario"
+        }
+      ]
+    },
+    {
+      "name": "Recuperación de animal extraviado o abandonado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de recogida",
+          "description": "El centro de acogida comunica la entrada del animal al Registro en un plazo máximo de 24 horas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de recuperación",
+          "description": "El propietario tiene un plazo para reclamar al animal tras recibir la notificación.",
+          "start_date": "Desde la recepción de la notificación",
+          "end_date": "10 días hábiles",
+          "required_documentation": "Acreditación de titularidad y pago de gastos de estancia/veterinarios"
+        }
+      ]
+    },
+    {
+      "name": "Regularización de tenencia de animales prohibidos (transitorios)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Informar de la posesión",
+          "description": "Los dueños de especies prohibidas antes de la ley deben informar al departamento competente.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "6 meses tras la entrada en vigor",
+          "required_documentation": "Declaración responsable de condiciones de seguridad, protección y sanidad"
+        },
+        {
+          "step": 2,
+          "title": "Identificación",
+          "description": "Los animales deben estar correctamente identificados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del expediente",
+          "description": "Apertura del procedimiento por parte del municipio competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "description": "Plazo máximo para resolver y notificar la sanción.",
+          "start_date": "Inicio del procedimiento",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

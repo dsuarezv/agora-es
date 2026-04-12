@@ -1,0 +1,74 @@
+{
+  "identifier": "BOE-A-1985-18950",
+  "title": "Ley 1/1985, de 4 de junio, regulaora de la publicación de las normas, así como de las disposiciones y otros actos de los órganos del Principado de Asturias",
+  "visible_title": "Ley reguladora de la publicación de normas y actos del Principado de Asturias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "1/1985",
+  "publication_date": "1985-09-04",
+  "enactment_date": "1985-06-04",
+  "last_updated": "1985-06-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1985/06/04/1",
+  "official_journal": "Boletín Oficial del Principado de Asturias y de la Provincia",
+  "journal_issue": null,
+  "summary": "Esta norma establece el sistema de publicidad oficial para que las leyes, reglamentos y actos de la Administración asturiana tengan validez jurídica. Define qué documentos deben publicarse obligatoriamente en el boletín oficial regional y en qué plazos. Además, regula la forma en que se deben publicar los convenios y conciertos celebrados por el Principado.",
+  "citizen_impact": "Garantiza la seguridad jurídica de los ciudadanos al asegurar que cualquier norma o decisión administrativa que les afecte sea publicada oficialmente antes de ser aplicada. Esto permite que las personas conozcan sus derechos y obligaciones y sepan cómo recurrir decisiones que les perjudiquen.",
+  "professional_impact": "Obliga a los funcionarios y autoridades asturianas a seguir un protocolo estricto de publicación para que sus actos sean válidos. Para abogados y gestores, establece la certeza de que el Boletín Oficial del Principado es la fuente primaria para consultar la normativa y los actos administrativos vigentes en la región.",
+  "keywords": [
+    "publicación de normas",
+    "Boletín Oficial del Principado de Asturias",
+    "seguridad jurídica",
+    "actos administrativos",
+    "convenios",
+    "derecho administrativo asturiano"
+  ],
+  "key_points": [
+    "Ninguna norma o disposición general de Asturias tiene efectos jurídicos si no se publica en el Boletín Oficial del Principado.",
+    "Las leyes aprobadas por la Junta deben publicarse en el boletín regional y también en el Boletín Oficial del Estado en un plazo de 15 días.",
+    "Los actos administrativos que afecten a un grupo indeterminado de personas deben publicarse obligatoriamente.",
+    "Si un acto administrativo es definitivo o impide continuar un trámite, la publicación debe incluir el texto íntegro y los recursos disponibles para impugnarlo.",
+    "Los convenios con otras Comunidades Autónomas o entidades de interés general deben publicarse íntegramente para ser válidos."
+  ],
+  "legal_references": [
+    "Estatuto de Auto-nomía para Asturias (Ley orgánica 7/1981, de 30 de diciembre)",
+    "Código Civil"
+  ],
+  "derogations": [],
+  "main_obligations": "Las autoridades deben ordenar la publicación de las leyes y reglamentos en los plazos establecidos (15 días para leyes). Los actos que produzcan indefensión deben incluir obligatoriamente los recursos y plazos para interponerlos.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Publicación de leyes y reglamentos de la Junta General",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación de la norma",
+          "description": "La Junta General aprueba la ley o reglamento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Promulgación",
+          "description": "El Presidente del Principado promulga la ley en nombre del Rey.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Publicación obligatoria",
+          "description": "Publicación en el Boletín Oficial del Principado y en el BOE.",
+          "start_date": "15 días desde la aprobación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

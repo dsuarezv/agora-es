@@ -1,0 +1,90 @@
+{
+  "identifier": "BOE-A-2012-3948",
+  "title": "Ley 1/1987, de 27 de marzo, de Elecciones para las Juntas Generales de los Territorios Históricos de Araba, Bizkaia y Gipuzkoa",
+  "visible_title": "Ley de Elecciones para las Juntas Generales de Araba, Bizkaia y Gipuzkoa",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "1/1987",
+  "publication_date": "2012-03-22",
+  "enactment_date": "1987-03-27",
+  "last_updated": "2005-03-02",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1987/03/27/1",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta norma establece las reglas para elegir a los representantes de las Juntas Generales en los tres territorios históricos del País Vasco. Define cómo se dividen los territorios en zonas electorales, quiénes pueden votar y quiénes pueden ser candidatos. Además, garantiza la paridad de género en las listas y regula cómo se financian los gastos de las campañas electorales.",
+  "citizen_impact": "Permite a los ciudadanos de Álava, Vizcaya y Guipúzcoa ejercer su derecho al voto para elegir a sus representantes provinciales. Asegura que las listas electorales tengan una representación equilibrada de hombres y mujeres, garantizando la igualdad de género en la política local.",
+  "professional_impact": "Afecta a los partidos políticos y agrupaciones de electores, quienes deben cumplir con requisitos de composición de listas y presentación de candidaturas. También establece las reglas de subvención pública para los gastos derivados de los procesos electorales.",
+  "keywords": [
+    "elecciones",
+    "Juntas Generales",
+    "sistema electoral",
+    "Araba",
+    "Bizkaia",
+    "Gipuzkoa",
+    "paridad de género",
+    "circunscripciones"
+  ],
+  "key_points": [
+    "Composición de las Juntas Generales por 51 miembros en cada territorio.",
+    "División de los territorios en circunscripciones específicas para asegurar la representación local.",
+    "Obligatoriedad de que las listas electorales tengan al menos un 50% de mujeres.",
+    "Sincronización de las elecciones provinciales con las municipales.",
+    "Regulación de la financiación pública de los gastos electorales basada en escaños y votos obtenidos."
+  ],
+  "legal_references": [
+    "Ley Orgánica 5/1985, de 19 de junio, de Régimen Electoral General",
+    "Ley 27/1983, de 25 de noviembre, de Relaciones entre las Instituciones Comunes de la Comunidad Autónoma y los Órganos Forales de sus Territorios Históricos",
+    "Ley 28/1983, de 25 de noviembre, de Elecciones al Parlamento Vasco"
+  ],
+  "derogations": [
+    "Ley 27/1983, de 25 de noviembre (punto 1º del apartado a, del artículo 7)",
+    "Ley 2/1983, de 7 de marzo",
+    "Ley 3/1983, de 7 de marzo",
+    "Ley 4/1983, de 7 de marzo"
+  ],
+  "main_obligations": "Los partidos y agrupaciones deben integrar sus listas con un mínimo del 50% de mujeres. Las candidaturas deben cumplir con los requisitos de inscripción en el censo y las causas de inelegibilidad para poder presentarse.",
+  "effective_date": "1987-03-27",
+  "procedures": [
+    {
+      "name": "Proceso Electoral de las Juntas Generales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de elecciones",
+          "description": "El Diputado General emite el decreto de convocatoria, lo que finaliza el mandato actual.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Asignación de Juntas Electorales de Zona",
+          "description": "La Junta Electoral de cada Territorio asigna las circunscripciones a las Juntas de Zona.",
+          "start_date": "7 días después de la convocatoria",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Presentación de candidaturas",
+          "description": "Presentación de listas por parte de partidos, coaliciones o agrupaciones de electores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Cumplimiento de requisitos de la LOREG y paridad de género"
+        },
+        {
+          "step": 4,
+          "title": "Escrutinio",
+          "description": "Conteo de votos realizado de forma simultánea a las elecciones municipales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

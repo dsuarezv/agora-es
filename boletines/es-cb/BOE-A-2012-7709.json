@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-2012-7709",
+  "title": "Ley 2/2012, de 30 de mayo, de Medidas Administrativas, Económicas y Financieras para la ejecución del Plan de Sostenibilidad de los Servicios Públicos de la Comunidad Autónoma de Cantabria",
+  "visible_title": "Ley de Medidas para la Sostenibilidad de los Servicios Públicos de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "2/2012",
+  "publication_date": "2012-06-09",
+  "enactment_date": "2012-05-30",
+  "last_updated": "2023-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2012/05/30/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley implementa un plan de choque para reducir el déficit público en Cantabria mediante el recorte de gastos y el aumento de ingresos. Aplica medidas de austeridad severas en el sector público, como la limitación de sueldos, la reducción de derechos sindicales y la reorganización de la administración. Asimismo, introduce nuevos impuestos y tasas para financiar la sostenibilidad de las cuentas regionales.",
+  "citizen_impact": "Los ciudadanos verán un aumento en los costes de servicios como el saneamiento de aguas y la gestión de residuos. También se crea una nueva tasa para solicitar la revisión de la situación de dependencia. Por otro lado, se ajustan los requisitos y obligaciones para quienes perciben la Renta Social Básica.",
+  "professional_impact": "Los empleados públicos sufren restricciones en sus derechos sindicales, límites en la prolongación de su actividad tras la jubilación y posibles reducciones salariales por reducción de jornada. El personal sanitario ve incrementada su jornada ordinaria. Las empresas públicas tienen topes salariales estrictos para sus directivos y empleados.",
+  "keywords": [
+    "austeridad",
+    "déficit público",
+    "sector público Cantabria",
+    "Renta Social Básica",
+    "tasas y cánones",
+    "gestión de personal",
+    "sostenibilidad financiera"
+  ],
+  "key_points": [
+    "Establecimiento de topes salariales para el personal de empresas y fundaciones públicas.",
+    "Limitación de la permanencia en activo tras la edad de jubilación, salvo excepciones.",
+    "Aumento del 30% en el canon de saneamiento y en la tasa de residuos sólidos.",
+    "Creación de una tasa por revisión de la valoración de dependencia (30€ o 14€).",
+    "Modificación de la Renta Social Básica, incluyendo nuevas obligaciones de inserción laboral y residencia.",
+    "Supresión de órganos consultivos como el Consejo Económico y Social, el Consejo de la Mujer y el Consejo de la Juventud.",
+    "Reducción de derechos sindicales ajustándolos al mínimo legal permitido.",
+    "Prohibición de nuevas contrataciones en sociedades mercantiles y fundaciones públicas durante 2012."
+  ],
+  "legal_references": [
+    "Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público",
+    "Ley de Cantabria 4/1993, de 10 de marzo, de la Función Pública",
+    "Ley de Cantabria 2/2007, de 27 de marzo, de Derechos y Servicios Sociales",
+    "Real Decreto-ley 14/2012, de 20 de abril",
+    "Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las Personas en Situación de Dependencia"
+  ],
+  "derogations": [
+    "Ley de Cantabria 6/1992 (Consejo Económico y Social)",
+    "Ley de Cantabria 3/1997 (Consejo de la Mujer)",
+    "Ley de Cantabria 4/2001 (Consejo de la Juventud)"
+  ],
+  "main_obligations": "Los beneficiarios de la Renta Social Básica deben cumplir con el Convenio de Incorporación Social y permanecer en Cantabria al menos el 90% del año. Los usuarios de servicios sanitarios deben facilitar datos de terceros obligados al pago en un plazo de 15 días para evitar asumir el coste ellos mismos.",
+  "effective_date": "2012-06-10",
+  "procedures": [
+    {
+      "name": "Solicitud de revisión de la valoración de la situación de dependencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El interesado solicita la revisión de su grado de dependencia o de la prestación asignada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la modificación de la situación de dependencia"
+        },
+        {
+          "step": 2,
+          "title": "Pago de la tasa",
+          "description": "Liquidación de la tasa de 30€ (valoración) o 14€ (prestación) mediante autoliquidación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de reintegración de prestaciones indebidas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio de oficio",
+          "description": "La Subdirección del Instituto Cántabro de Servicios Sociales inicia el proceso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Notificación y alegaciones",
+          "description": "Se notifica al titular el importe y motivos, permitiendo presentar alegaciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Resolución final en un plazo máximo de 6 meses.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

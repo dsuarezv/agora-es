@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-2025-20002",
+  "title": "Real Decreto 905/2025, de 7 de octubre, por el que se modifican el Real Decreto 640/2021, de 27 de julio, de creación, reconocimiento y autorización de universidades y centros universitarios, y acreditación institucional de centros universitarios; el Real Decreto 1509/2008, de 12 de septiembre, por el que se regula el Registro de Universidades, Centros y Títulos; el Real Decreto 1002/2010, de 5 de agosto, sobre expedición de títulos universitarios oficiales; y el Real Decreto 822/2021, de 28 de septiembre, por el que se establece la organización de las enseñanzas universitarias y del procedimiento de aseguramiento de su calidad",
+  "visible_title": "Reforma de la creación, reconocimiento y acreditación de universidades y centros universitarios",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de Ciencia, Innovación y Universidades",
+  "official_number": "905/2025",
+  "publication_date": "2025-10-08",
+  "enactment_date": "2025-10-07",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/10/07/905",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "242",
+  "summary": "Esta norma endurece los requisitos para crear o reconocer nuevas universidades en España, exigiendo una 'masa crítica' de estudiantes y profesorado para garantizar la calidad. Busca frenar la proliferación de centros con poca investigación y asegurar que cualquier universidad, sea pública o privada, cumpla con estándares de excelencia académica y sostenibilidad económica. Además, regula la presencia de centros universitarios españoles en el extranjero y mejora la transparencia sobre la empleabilidad de los graduados.",
+  "citizen_impact": "Los estudiantes tendrán mayor garantía de que los títulos que obtengan tienen un respaldo real de calidad y profesorado cualificado. Además, podrán consultar un comparador público para ver qué carreras ofrecen mejores salarios y tasas de empleo tras graduarse.",
+  "professional_impact": "Las universidades (públicas y privadas) deben adaptarse a nuevos estándares de investigación y sostenibilidad, con plazos de hasta 3 o 5 años según su antigüedad. Los centros virtuales tienen un plazo de 4 años para regularizar su situación, y se impone la obligación de crear comités éticos para el uso de la IA en investigación.",
+  "keywords": [
+    "universidades",
+    "calidad educativa",
+    "investigación",
+    "acreditación institucional",
+    "empleabilidad",
+    "enseñanza virtual"
+  ],
+  "key_points": [
+    "Exigencia de una masa crítica de alumnos y profesores para la creación de nuevas universidades.",
+    "Obligación de realizar investigación y transferencia de conocimiento como actividad esencial.",
+    "Creación de un comparador público de empleabilidad (salarios y tasas de empleo a 3, 6 y 10 años).",
+    "Regulación de centros universitarios españoles en el extranjero.",
+    "Obligatoriedad de indicar en el título si la modalidad es presencial, híbrida o virtual.",
+    "Refuerzo de la sostenibilidad económica mediante avales bancarios.",
+    "Creación de comités éticos para el uso de la Inteligencia Artificial en la investigación.",
+    "Nuevos requisitos de acreditación institucional que incluyen la calidad del profesorado."
+  ],
+  "legal_references": [
+    "Ley Orgánica 2/2023, de 22 de marzo, del Sistema Universitario",
+    "Real Decreto 640/2021, de 27 de julio",
+    "Real Decreto 1509/2008, de 12 de septiembre",
+    "Real Decreto 1002/2010, de 5 de agosto",
+    "Real Decreto 822/2021, de 28 de septiembre",
+    "Constitución Española, artículo 27"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan al Real Decreto 905/2025"
+  ],
+  "main_obligations": "Las universidades deben captar al menos el 2% de su presupuesto en proyectos de I+D+i (en un plazo de 5 años para las actuales y 10 para las nuevas). Los centros virtuales deben cumplir los nuevos requisitos de calidad en un plazo máximo de 4 años.",
+  "effective_date": "2025-10-28",
+  "procedures": [
+    {
+      "name": "Creación o reconocimiento de una universidad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Informe de la Agencia de Calidad",
+          "descrption": "La Comunidad Autónoma o el Ministerio solicita un informe vinculante a la agencia de calidad (ANECA o regional) sobre la calidad del proyecto.",
+          "start_date": "Desde el inicio del procedimiento",
+          "end_date": null,
+          "required_documentation": "Memoria del proyecto de creación"
+        },
+        {
+          "step": 2,
+          "title": "Propuesta del Ministerio",
+          "descrption": "El Ministerio de Ciencia, Innovación y Universidades elabora una propuesta para la Conferencia General de Política Universitaria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de universidades existentes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de adaptación general",
+          "descrption": "Las universidades con actividad económica deben adaptarse a los nuevos requisitos.",
+          "start_date": "Fecha de entrada en vigor",
+          "end_date": "5 años",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo para universidades virtuales",
+          "descrption": "Regularización de la situación de las universidades con docencia virtual.",
+          "start_date": "Fecha de entrada en vigor",
+          "end_date": "4 años",
+          "required_documentation": "Plan de medidas correctoras (si se requiere)"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

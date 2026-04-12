@@ -1,0 +1,70 @@
+{
+  "identifier": "BOE-A-2021-4319",
+  "title": "Decreto-ley 17/2020, de 29 de octubre, de medidas extraordinarias en materia turística para afrontar los efectos de la crisis sanitaria y económica producida por la pandemia ocasionada por la COVID-19",
+  "visible_title": "Medidas extraordinarias en materia turística para afrontar la crisis sanitaria y económica por COVID-19",
+  "rank": "real_decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "17/2020",
+  "publication_date": "2021-03-19",
+  "enactment_date": "2020-10-29",
+  "last_updated": "2020-10-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/dl/2020/10/29/17",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece requisitos sanitarios obligatorios para acceder a alojamientos turísticos en Canarias con el fin de frenar la propagación del COVID-19. Busca proteger la salud pública sin paralizar la actividad económica del sector turístico, que es vital para la economía canaria. Introduce la obligatoriedad de pruebas diagnósticas para viajeros no residentes y regula la responsabilidad de los establecimientos en la verificación de estos controles.",
+  "citizen_impact": "Los turistas que viajen a Canarias (mayores de 6 años) deberán presentar un test negativo de COVID-19 realizado en las 72 horas previas a su llegada. Los residentes en Canarias o personas que hayan estado en las islas los últimos 15 días solo tendrán que firmar una declaración responsable sin necesidad de test.",
+  "professional_impact": "Los hoteles y alojamientos turísticos asumen la carga de informar a los clientes sobre los requisitos, verificar los certificados de salud y facilitar información sobre dónde realizarse los tests. Además, deben informar sobre la necesidad de usar la aplicación Radar Covid y conservar los registros de los clientes para inspecciones sanitarias.",
+  "keywords": [
+    "turismo",
+    "COVID-19",
+    "Canarias",
+    "alojamiento turístico",
+    "test diagnóstico",
+    "salud pública",
+    "medidas sanitarias"
+  ],
+  "key_points": [
+    "Obligatoriedad de test negativo (máximo 72h de antigüedad) para turistas mayores de 6 años no residentes.",
+    "Exención de test para residentes y personas que hayan permanecido en Canarias los últimos 15 días mediante declaración responsable.",
+    "Obligación de los alojamientos de informar sobre los requisitos de acceso antes de la reserva.",
+    "Los hoteles deben informar sobre lugares cercanos para realizarse tests si el cliente no los presenta.",
+    "Uso obligatorio de la aplicación móvil Radar Covid durante la estancia y 15 días tras el regreso.",
+    "Los establecimientos deben colocar carteles informativos en al menos cinco idiomas comunitarios.",
+    "Posibilidad de acceso excepcional si el cliente demuestra disponibilidad para hacerse el test, permaneciendo confinado en la habitación hasta el resultado."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Canarias",
+    "Ley Orgánica 3/1986",
+    "Ley 14/1986",
+    "Ley 33/2011",
+    "Real Decreto-ley 21/2020",
+    "Real Decreto 926/2020",
+    "Ley 7/1995 de Ordenación del Turismo de Canarias",
+    "Ley 7/2011 de actividades clasificadas y espectáculos públicos",
+    "Reglamento (UE) 2016/679",
+    "Ley Orgánica 3/2018 de Protección de Datos Personales"
+  ],
+  "derogations": [],
+  "main_obligations": "Los turistas no residentes deben acreditar un test negativo realizado en las 72 horas previas. Los alojamientos deben verificar estos certificados, informar de los requisitos antes de la contratación y mantener los registros de registro de clientes a disposición de las autoridades sanitarias.",
+  "effective_date": "2020-10-31",
+  "procedures": [
+    {
+      "name": "Implementación de condiciones de acceso a alojamientos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Entrada en vigor de la obligatoriedad de test y declaraciones",
+          "description": "Los requisitos de test y declaración responsable pasan a ser exigibles.",
+          "start_date": "10 días hábiles tras la entrada en vigor del Decreto-ley",
+          "end_date": null,
+          "required_documentation": "Certificado de test negativo o declaración responsable"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

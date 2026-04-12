@@ -1,0 +1,98 @@
+{
+  "identifier": "BOE-A-2010-11731",
+  "title": "Ley 2/2010, de 13 de mayo, de comercio de Castilla-La Manch la",
+  "visible_title": "Ley de comercio de Castilla-La Manch la",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Manch la",
+  "official_number": "2/2010",
+  "publication_date": "2010-07-23",
+  "enactment_date": "2010-05-13",
+  "last_updated": "2014-12-03",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2010/05/13/2",
+  "official_journal": "Diario Oficial de Castilla-La Manch la",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y unifica las reglas del comercio en Castilla-La Manch la, simplificando la apertura de negocios como franquicias o ventas online. Introduce controles estrictos para grandes superficies de más de 2.500 m² y establece límites claros en los horarios comerciales y días de apertura. Además, refuerza la capacidad de inspección para asegurar que se respeten los derechos del consumidor y la accesibilidad universal. El objetivo es equilibrar la libertad de empresa con un control efectivo sobre los grandes establecimientos y la protección del consumidor.",
+  "citizen_impact": "Los consumidores tienen más garantías en las rebajas, ya que es obligatorio ver el precio anterior para comparar. También se asegura que los comercios sean accesibles para personas con movilidad reducida. En cuanto a horarios, se garantiza la previsibilidad de la apertura de tiendas y la posibilidad de comprar en domingos seleccionados.",
+  "professional_impact": "Las empresas de ventas a distancia, franquicias y automáticas pasan de una autorización previa a un sistema de comunicación posterior, reduciendo la carga burocrática inicial. Sin embargo, los grandes establecimientos (≥ 2.500 m²) enfrentan un control más riguroso con informes vinculantes. Los comerciantes deben cumplir estrictamente con la accesibilidad y los nuevos límites de horario semanal.",
+  "keywords": [
+    "comercio",
+    "Castilla-La Manch la",
+    "grandes superficies",
+    "horario comercial",
+    "ventas a distancia",
+    "franquicias",
+    "accesibilidad",
+    "inspección de comercio"
+  ],
+  "key_points": [
+    "Los grandes establecimientos (≥ 2.500 m²) necesitan un informe comercial vinculante de la Junta de Comunidades para abrir, trasladarse o ampliarse.",
+    "El horario comercial general está limitado a un máximo de 90 horas semanales.",
+    "Se permiten 12 domingos y festivos de apertura al año, fijados anualmente por la Consejería.",
+    "Las ventas a distancia, automáticas y franquicias funcionan mediante comunicación posterior al inicio de la actividad, no mediante autorización previa.",
+    "En promociones, es obligatorio mostrar el precio anterior (el menor aplicado en los últimos 30 días) junto al precio rebajado.",
+    "Se prohíbe la venta en pirámide y se endurecen las sanciones según la solvencia de la empresa.",
+    "Todos los comercios deben garantizar la accesibilidad universal y la no discriminación.",
+    "Los inspectores de comercio cuentan con autoridad policial y sus actas tienen valor de prueba plena.",
+    "Las solicitudes de licencias para locales de menos de 2.500 m² que estuvieran pendientes de resolución serán archivadas.",
+    "Los ayuntamientos tienen 3 meses para adaptar sus ordenanzas de venta ambulante."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Castilla-La Manch la",
+    "Constitución Española",
+    "Ley 7/1996 de Ordenación del Comercio Minorista",
+    "Directiva 2006/123/CE del Parlamento Europeo",
+    "Ley 10/2005 de Horarios Comerciales de Castilla-La Manch la",
+    "Ley 30/1992 de Régimen Jurídico de las Administraciones Públicas",
+    "Ley General para la Defensa de los Consumidores y Usuarios",
+    "Artículo 15 de la Ley 2/2010"
+  ],
+  "derogations": [
+    "Ley 7/1998, de 15 de octubre, de Comercio Minorista de Castilla-La Manch la",
+    "Ley 13/2000, de 26 de diciembre",
+    "Ley 1/2004, de 1 de abril",
+    "Ley 10/2005, de 15 de diciembre, de Horarios Comerciales de Castilla-La Manch la"
+  ],
+  "main_obligations": "Los grandes establecimientos deben comunicar cambios de titularidad en 15 días. Las ventas a distancia, automáticas y franquicias deben comunicarse en un plazo de 3 meses tras iniciar la actividad. Las liquidaciones deben informarse con 10 días de antelación.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Adaptación de ordenanzas de venta ambulante",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adecuación normativa municipal",
+          "description": "Los ayuntamientos deben ajustar sus reglamentos de venta ambulante a la nueva Ley de Comercio.",
+          "start_date": "Entrada en vigor de la Ley",
+          "end_date": "3 meses tras la entrada en vigor",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de licencias comerciales en transición",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Resolución de grandes establecimientos",
+          "description": "Tramitación de solicitudes de licencias para grandes establecimientos iniciadas antes de la ley bajo el nuevo marco legal.",
+          "start_date": "Solicitudes iniciadas antes de la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Archivo de locales de superficie inferior a 2.500 m²",
+          "description": "Archivo de solicitudes de autorización para locales de menos de 2.500 m² que estuvieran pendientes de resolución.",
+          "start_date": "Solicitudes presentadas con anterioridad a la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

@@ -1,0 +1,93 @@
+{
+  "identifier": "DOE-e-2006-90037",
+  "title": "Decreto Legislativo 2/2006, de 12 de diciembre, por el que se aprueba el Texto Refundido de las disposiciones legales de la comunidad autónoma de Extremadura en materia de Tributos Propios",
+  "visible_title": "Texto Refundido de Tributos Propios de Extremadura",
+  "rank": "decreto legislativo",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "2/2006",
+  "publication_date": "2006-12-23",
+  "enactment_date": "2006-12-12",
+  "last_updated": "2025-04-07",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=DOE-e-2006-90037",
+  "official_journal": "Diario Oficial de Extremadura",
+  "journal_issue": "90037",
+  "summary": "Esta norma unifica y ordena todas las leyes que regulan los impuestos propios de la Junta de Extremadura en un solo cuerpo legal. Organiza la gestión de tributos sobre aprovechamientos cinegéticos (caza), instalaciones energéticas con impacto ambiental, suelo sin edificar o en ruina, y depósitos de entidades de crédito. Su objetivo es dar seguridad jurídica y evitar la dispersión normativa tras diversas reformas.",
+  "citizen_impact": "Afecta principalmente a propietarios de terrenos de caza, dueños de parcelas urbanas no edificadas y residentes en edificios declarados en ruina. Puede suponer el pago de impuestos si no se edifica el suelo en los plazos previstos o si se gestionan cotos de caza.",
+  "professional_impact": "Impacta directamente en empresas energéticas (por el uso de infraestructuras), entidades de crédito (por la captación de fondos) y promotores inmobiliarios. Estos sectores deben cumplir con nuevas obligaciones de autoliquidación, declaración de bienes y posibles deducciones por inversiones regionales.",
+  "keywords": [
+    "tributos propios",
+    "Extremadura",
+    "impuesto caza",
+    "suelo no urbanizado",
+    "instalaciones energéticas",
+    "entidades de crédito",
+    "fiscalidad autonómica"
+  ],
+  "key_points": [
+    "Unificación de la normativa fiscal propia de Extremadura en un solo texto.",
+    "Regulación del impuesto sobre aprovechamientos cinegéticos según el tipo de cotos (sociales o privados).",
+    "Gravamen a instalaciones de producción, transporte y almacenamiento de energía que afecten al medio ambiente.",
+    "Impuesto sobre suelo sin edificar y edificaciones en ruina para evitar la especulación urbanística.",
+    "Impuesto sobre los depósitos captados por entidades de crédito en la región.",
+    "Posibilidad de bonificaciones por inversiones en mejora de cotos o por proyectos de interés regional.",
+    "Prohibición expresa de repercutir el impuesto de depósitos a los consumidores finales."
+  ],
+  "legal_references": [
+    "Ley 58/2003 General Tributaria",
+    "Ley 8/1990 de Caza de Extremadura",
+    "Ley 7/1997 de Medidas Fiscales sobre Energía",
+    "Ley 9/1998 del Impuesto sobre el Suelo sin edificar",
+    "Ley 14/2001 del Impuesto sobre Depósitos de Entidades de Crédito",
+    "Ley 15/2001 del Suelo y Ordenación Territorial de Extremadura"
+  ],
+  "derogations": [
+    "Artículo 1 y Disposición Adicional Tercera de la Ley 8/2002",
+    "Artículos 30 a 42 de la Ley 8/1990",
+    "Ley 7/1997",
+    "Ley 9/1998",
+    "Ley 14/2001",
+    "Ley 8/2005"
+  ],
+  "main_obligations": "Los contribuyentes deben realizar la autoliquidación y el ingreso de los impuestos en los plazos establecidos (anuales para caza y energía, según el caso). Las entidades de crédito tienen prohibido trasladar el coste del impuesto a sus clientes.",
+  "effective_date": "2006-12-24",
+  "procedures": [
+    {
+      "name": "Solicitud de bonificación por inversión en cotos de caza",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "descrption": "Presentar la solicitud ante la oficina gestora competente para obtener la bonificación por inversiones en mejora o conservación.",
+          "start_date": "1 de enero",
+          "end_date": "20 de enero",
+          "required_documentation": "Facturas justificativas que identifiquen el objeto, lugar y fecha de los trabajos."
+        }
+      ]
+    },
+    {
+      "name": "Liquidación del Impuesto sobre Instalaciones Energéticas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Devengo del impuesto",
+          "descrption": "El impuesto se genera el 30 de junio de cada año.",
+          "start_date": "30-06",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de la declaración",
+          "descrption": "Presentación de la autoliquidación en el mes siguiente al de la fecha de devengo.",
+          "start_date": "Julio",
+          "end_date": "31 de julio",
+          "required_documentation": "Declaración-liquidación según modelos oficiales."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

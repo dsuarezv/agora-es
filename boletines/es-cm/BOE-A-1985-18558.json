@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-1985-18558",
+  "title": "Ley 4/1985, de 26 de junio, sobre designación de Senadores representantes de Castilla-La Manch la",
+  "visible_title": "Designación de Senadores representantes de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Cortes de Castilla-La Mancha",
+  "official_number": "4/1985",
+  "publication_date": "1985-08-28",
+  "enactment_date": "1985-06-26",
+  "last_updated": "2023-08-09",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/1985/06/26/4",
+  "official_journal": "Diario Oficial de la Comunidad Autónoma de Castilla-La Mancha / Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el mecanismo para que las Cortes de Castilla-La Mancha elijan a sus representantes en el Senado. Define quiénes pueden ser candidatos, el proceso de propuesta por parte de los grupos parlamentarios y el sistema de votación secreta. Además, regula la duración de sus mandatos y cómo cubrir las vacantes que puedan surgir.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta específicamente a los diputados y cargos políticos de las Cortes Regionales, quienes deben gestionar incompatibilidades salariales y seguir un procedimiento estricto de postulación y votación para representar a la región en las instituciones estatales.",
+  "keywords": [
+    "Senado",
+    "Castilla-La Mancha",
+    "designación de senadores",
+    "Cortes Regionales",
+    "representación territorial",
+    "procedimiento de elección"
+  ],
+  "key_points": [
+    "La elección la realiza el pleno de las Cortes Regionales mediante votación secreta.",
+    "Los candidatos deben ser mayores de edad, ciudadanos de la región y electores.",
+    "Los grupos parlamentarios tienen un plazo de 20 días para proponer candidatos tras la constitución de la Mesa.",
+    "Para ser elegido, el candidato debe obtener al menos la cuarta parte de los votos de los miembros de derecho de la Cámara.",
+    "Si un diputado es elegido senador, debe renunciar a otras retribuciones públicas o privadas para cobrar solo una remuneración.",
+    "El mandato del senador coincide con la legislatura de las Cortes Regionales, salvo excepciones de sincronización con el Senado.",
+    "Las vacantes se cubren siguiendo el mismo procedimiento y respetando la proporcionalidad de los grupos parlamentarios."
+  ],
+  "legal_references": [
+    "Constitución Española de 1978 (artículo 69)",
+    "Estatuto de Autonomía de Castilla-La Mancha (artículo 9.2 y artículo 12.2)",
+    "Ley Orgánica 9/1982, de 10 de agosto"
+  ],
+  "derogations": [
+    "Cualquier disposición de igual o inferior rango que se oponga a esta ley"
+  ],
+  "main_obligations": "Los candidatos que sean diputados deben presentar un escrito renunciando a otras retribuciones. Los senadores designados tienen la obligación de facilitar información a las Cortes Regionales según la normativa de desarrollo.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Procedimiento de designación de Senadores",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de candidaturas",
+          "description": "Los Grupos Parlamentarios presentan sus candidatos tras la constitución de la Mesa.",
+          "start_date": "20 días tras la constitución de la Mesa y los Grupos Parlamentarios",
+          "end_date": "20 días",
+          "required_documentation": "Propuesta de candidatura por parte del grupo"
+        },
+        {
+          "step": 2,
+          "title": "Dictamen de la Comisión de Estatuto del Diputado",
+          "description": "La Comisión comprueba la elegibilidad e incompatibilidades de los candidatos.",
+          "start_date": "Tras la recepción de candidaturas",
+          "end_date": "15 días",
+          "required_documentation": "Documentación complementaria si la Comisión lo requiere"
+        },
+        {
+          "step": 3,
+          "title": "Publicidad y convocatoria",
+          "description": "El Presidente hace públicos los nombres y convoca el pleno.",
+          "start_date": "Tras el dictamen",
+          "end_date": "30 días tras la emisión del dictamen",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Votación y proclamación",
+          "description": "Votación secreta por papeletas y aceptación del cargo ante el pleno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

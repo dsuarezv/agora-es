@@ -1,0 +1,115 @@
+{
+  "identifier": "BOE-A-2003-6500",
+  "title": "Ley 4/2003, de 28 de febrero, de Asociaciones de Canarias",
+  "visible_title": "Ley de Asociaciones de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "4/2003",
+  "publication_date": "2003-04-01",
+  "enactment_date": "2003-02-28",
+  "last_updated": "2014-11-10",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2003/02/28/4",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley regula y fomenta el movimiento asociativo en Canarias, estableciendo las reglas para su constitución, funcionamiento y relación con la Administración. Busca dar seguridad jurídica a las asociaciones no lucrativas y ofrecerles un marco de apoyo y reconocimiento, como la declaración de interés público. Además, crea órganos de consulta como el Consejo Canario de Asociaciones para integrar la voz ciudadana en las políticas públicas.",
+  "citizen_impact": "Permite a los ciudadanos canarios crear y gestionar asociaciones de forma más clara y democrática. Facilita que grupos de personas se organicen para defender intereses comunes con derechos garantizados de información y participación en la gestión.",
+  "professional_impact": "Las asociaciones deben cumplir con obligaciones de registro, contabilidad y depósito de documentos para ser transparentes. Los gestores de estas entidades deben adaptar sus estatutos y libros obligatorios (socios, bienes, actas y contabilidad) para evitar la pérdida de la inscripción registral.",
+  "keywords": [
+    "asociaciones",
+    "Canarias",
+    "derecho de asociación",
+    "interés público",
+    "sin ánimo de lucro",
+    "participación ciudadana",
+    "estatutos"
+  ],
+  "key_points": [
+    "Requisito de un mínimo de 3 personas para constituir una asociación.",
+    "Obligatoriedad de inscribirse en el Registro de Asociaciones de Canarias para tener personalidad jurídica frente a terceros.",
+    "Posibilidad de obtener la declaración de interés público para acceder a beneficios fiscales y ayudas.",
+    "Creación del Consejo Canario de Asociaciones como órgano consultivo de la Administración.",
+    "Los estatutos deben ser la norma máxima de organización interna, garantizando siempre la democracia.",
+    "Los miembros de la asociación no responden personalmente de las deudas de la entidad una vez inscrita.",
+    "Plazo de 18 meses para que las asociaciones ya existentes adapten sus estatutos a esta nueva ley."
+  ],
+  "legal_references": [
+    "Ley Orgánica 1/2002, de 23 de marzo, reguladora del Derecho de Asociación",
+    "Constitución Española (artículo 22)",
+    "Estatuto de Autonomía de Canarias (artículo 30.7)",
+    "Código Civil (artículo 39)"
+  ],
+  "derogations": [
+    "Capítulo II del título III del Texto Refundido de las disposiciones legales vigentes en materia de tasas y precios públicos de la Comunidad Autónoma de Canarias (aprobado por Decreto legislativo 1/1994, de 29 de julio)"
+  ],
+  "main_obligations": "Las asociaciones deben llevar obligatoriamente libros de socios, de bienes, de actas y de contabilidad. Deben aprobar anualmente la memoria de actividades y la liquidación contable en el primer trimestre de cada año.",
+  "effective_date": "2003-05-01",
+  "procedures": [
+    {
+      "name": "Constitución de una asociación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo fundacional",
+          "description": "Celebración de la reunión para adoptar el acta fundacional con identidad de promotores, estatutos y designación de representantes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta fundacional y estatutos"
+        },
+        {
+          "step": 2,
+          "title": "Inscripción registral",
+          "description": "Presentación de la documentación en el Registro de Asociaciones de Canarias para obtener publicidad y personalidad jurídica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta fundacional, estatutos y certificación de personalidad jurídica si aplica"
+        }
+      ]
+    },
+    {
+      "name": "Declaración de interés público",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de declaración",
+          "description": "Presentación de solicitud ante la Administración cumpliendo requisitos de ámbito autonómico y actividad de interés general.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria de actividades y acreditación de cumplimiento de fines"
+        },
+        {
+          "step": 2,
+          "title": "Informe del Consejo",
+          "description": "El Consejo Canario de Asociaciones emite informe sobre la solicitud.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución por Decreto",
+          "description": "El Gobierno dicta el decreto que otorga la declaración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de estatutos (Transitorio)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de adaptación",
+          "description": "Las asociaciones ya inscritas deben modificar sus estatutos para ajustarse a la nueva ley.",
+          "start_date": "2003-04-01",
+          "end_date": "18 meses desde la entrada en vigor",
+          "required_documentation": "Nuevos estatutos aprobados por Asamblea General"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

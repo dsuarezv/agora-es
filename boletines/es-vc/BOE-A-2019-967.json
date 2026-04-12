@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-2019-967",
+  "title": "Ley 25/2018, de 10 de diciembre, reguladora de la actividad de los grupos de interés de la Comunitat Valenciana",
+  "visible_title": "Ley reguladora de la actividad de los grupos de interés de la Comunitat Valenciana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "25/2018",
+  "publication_date": "2019-01-26",
+  "enactment_date": "2018-12-10",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2018/12/10/25",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta ley establece un marco de transparencia para regular cómo las empresas, asociaciones y otros grupos de presión influyen en las decisiones de la Generalitat Valenciana. Crea un registro público obligatorio para estos grupos y un código de conducta ético que deben seguir. Además, obliga a la administración a publicar un informe de 'huella normativa' que detalle qué grupos han contactado con los responsables durante la creación de leyes o decretos.",
+  "citizen_impact": "Aumenta la transparencia democrática al permitir que cualquier ciudadano sepa quién intenta influir en las leyes que le afectan. Esto ayuda a combatir la percepción de decisiones tomadas 'a puerta cerrada' y garantiza un mayor control social sobre la gestión pública.",
+  "professional_impact": "Las empresas, consultoras de relaciones institucionales, sindicatos y asociaciones deben inscribirse obligatoriamente en un nuevo registro para poder reunirse con cargos públicos. El incumplimiento de estas normas o la falta de transparencia en sus actividades puede acarrear multas de hasta 6.000 euros y la suspensión de su derecho a influir en la administración.",
+  "keywords": [
+    "grupos de interés",
+    "lobby",
+    "transparencia",
+    "influencia",
+    "Generalitat Valenciana",
+    "registro de transparencia",
+    "ética pública"
+  ],
+  "key_points": [
+    "Creación de un Registro de Grupos de Interés electrónico, público y gratuito.",
+    "Obligatoriedad de inscripción para cualquier entidad que quiera influir en políticas públicas de la Generalitat.",
+    "Implementación de un Código de Conducta común para evitar regalos, favores o engaños a cargos públicos.",
+    "Obligación de publicar un informe de 'huella normativa' que detalle los contactos con grupos de interés durante la elaboración de leyes.",
+    "Establecimiento de sanciones económicas de hasta 6.000 euros para grupos de interés que cometan infracciones graves.",
+    "Responsabilidad de los cargos públicos de no reunirse con grupos de interés que no estén inscritos en el registro.",
+    "Creación de un proceso especial de participación previa para consultar a los grupos afectados antes de redactar una norma."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunitat Valenciana",
+    "Ley 2/2015, de 2 de abril, de transparencia, buen gobierno y participación ciudadana de la Comunitat Valenciana",
+    "Ley 8/2016, de 28 de octubre, de la Generalitat, de incompatibilidades y conflictos de intereses de personas con cargos públicos no electos",
+    "Ley 1/2015, de 6 de febrero, de la Generalitat, de hacienda pública, del sector público instrumental y de subvenciones",
+    "Decreto 56/2016, de 6 de mayo, del Consell, por el que se aprueba el Código de buen gobierno de la Generalitat",
+    "Ley 39/2015, de 1 de octubre, del procedimiento común de las administraciones públicas",
+    "Ley 5/1983, de 30 de diciembre, de la Generalitat, del Consell"
+  ],
+  "derogatations": [
+    "Todas las disposiciones de rango igual o inferior que se opongan a esta ley"
+  ],
+  "main_obligations": "Los grupos de interés deben inscribirse en el registro, aportar datos financieros y de representación, y cumplir un código de conducta. Los cargos públicos deben publicar sus reuniones con estos grupos y no atender a quienes no estén registrados.",
+  "effective_date": "2019-10-25",
+  "procedures": [
+    {
+      "name": "Inscripción en el Registro de Grupos de Interés",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inscripción",
+          "description": "Presentación de formulario electrónico con datos de la entidad, objetivos, ámbito de interés y financiación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos de contacto, descripción de finalidad, presupuesto/volumen de negocio, origen de fondos y declaración responsable de aceptación del código de conducta."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la solicitud",
+          "description": "El órgano responsable dicta resolución. Si no hay respuesta en 2 meses, se entiende estimada por silencio administrativo.",
+          "start_date": null,
+          "end_date": "2 meses desde la solicitud",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Detección o denuncia",
+          "description": "Inicio mediante verificación de oficio, alertas de ciudadanos o denuncia formal.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y alegaciones",
+          "description": "Se requiere al interesado para subsanar errores o presentar alegaciones en un plazo de 10 días.",
+          "start_date": null,
+          "end_date": "10 días",
+          "required_documentation": "Documentación acreditativa para subsanar errores"
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Imposición de la sanción (multa, publicación de incumplimiento o suspensión de registro).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

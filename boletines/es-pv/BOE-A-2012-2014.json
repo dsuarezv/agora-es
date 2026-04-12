@@ -1,0 +1,89 @@
+{
+  "identifier": "BOE-A-2012-2014",
+  "title": "Ley 7/1993, de 21 de diciembre, de creación de OSALAN - Instituto Vasco de Seguridad y Salud Laborales",
+  "visible_title": "Creación de OSALAN - Instituto Vasco de Seguridad y Salud Laborales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "7/1993",
+  "publication_date": "2012-02-10",
+  "enactment_date": "1993-12-21",
+  "last_updated": "2011-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1993/12/21/7",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta ley crea OSALAN como un organismo autónomo para unificar la gestión de la seguridad y la salud laboral en el País Vasco. Su objetivo es fusionar las competencias de sanidad y trabajo para ofrecer una respuesta técnica y preventiva más coherente. El instituto actúa como un ente técnico de asesoramiento, investigación y promoción de la prevención, evitando que la gestión sea puramente sancionadora.",
+  "citizen_impact": "Mejora la protección de la salud de los trabajadores en el País Vasco al garantizar un organismo especializado en prevenir accidentes y enfermedades laborales. Los trabajadores de la administración pública vasca y de cooperativas también ganan la misma protección que los empleados por cuenta ajena.",
+  "professional_impact": "Las empresas y cooperativas deben adaptarse a estándares de seguridad más estrictos y técnicos. Los funcionarios públicos vascos y los socios de cooperativas de trabajo asociado quedan bajo el paraguas de la normativa de seguridad laboral general. El personal de OSALAN tiene potestad de inspección, por lo que los centros de trabajo deben facilitar su acceso.",
+  "keywords": [
+    "OSALAN",
+    "seguridad laboral",
+    "salud laboral",
+    "prevención de riesgos",
+    "País Vasco",
+    "cooperativas",
+    "administración pública"
+  ],
+  "key_points": [
+    "Creación de OSALAN como organismo autónomo con personalidad jurídica propia.",
+    "Unificación de las funciones de sanidad y trabajo en un solo ente técnico.",
+    "Extensión de la normativa de seguridad laboral a funcionarios públicos vascos y socios de cooperativas.",
+    "Enfoque preventivo y técnico, separando la labor de asesoramiento de la potestad sancionadora de la autoridad laboral.",
+    "Creación de un Consejo General con participación de sindicatos, empresarios y administración.",
+    "Capacidad de investigación epidemiológica y estadística sobre siniestralidad laboral."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 40.2 y 43.1)",
+    "Convenio 155 de la OIT",
+    "Convenio 161 de la OIT",
+    "Directiva 89/391/CEE",
+    "Estatuto de los Trabajadores",
+    "Ley General de Sanidad",
+    "Estatuto de Autonomía de la Comunidad Autónoma del País Vasco",
+    "Ley 10/83 del Servicio Vasco de Salud-Osakidetza"
+  ],
+  "derogations": [
+    "Artículo 2 c) de la Ley 10/83, de 19 de mayo, del Servicio Vasco de Salud-Osakidetza"
+  ],
+  "main_obligations": "Las cooperativas y administraciones públicas vascas deben adaptar sus sistemas de seguridad laboral a la normativa vigente en un plazo de 6 meses (ampliable a 1 año en casos excepcionales). Los titulares de centros de trabajo están obligados a facilitar el libre acceso al personal de OSALAN en el ejercicio de sus funciones.",
+  "effective_date": "1994-01-01",
+  "procedures": [
+    {
+      "name": "Adaptación normativa para cooperativas y administraciones públicas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de adecuación inicial",
+          "description": "Periodo para que cooperativas y administraciones públicas se ajusten a la legislación de seguridad laboral.",
+          "start_date": "1994-01-01",
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Prórroga excepcional",
+          "description": "Ampliación del plazo en caso de dificultades excepcionales debidamente constatadas.",
+          "start_date": "6 meses",
+          "end_date": "1 año",
+          "required_documentation": "Constatación de dificultades por la autoridad laboral"
+        }
+      ]
+    },
+    {
+      "name": "Puesta en marcha de OSALAN",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio de actividades",
+          "description": "Plazo máximo para que el organismo comience a operar mediante orden del Consejero.",
+          "start_date": "1994-01-01",
+          "end_date": "12 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

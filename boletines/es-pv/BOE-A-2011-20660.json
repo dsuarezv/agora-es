@@ -1,0 +1,80 @@
+{
+  "identifier": "BOE-A-2011-20660",
+  "title": "Ley 17/1998, de 25 de junio, del Voluntariado",
+  "visible_title": "Ley del Voluntariado",
+  "rank": "ley",
+  "country": "es",
+  "department": "Gobierno Vasco",
+  "official_number": "17/1998",
+  "publication_date": "1998-07-13",
+  "enactment_date": "1998-06-25",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1998/06/25/17",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para regular, fomentar y proteger la actividad voluntaria en el País Vasco. Su objetivo es diferenciar claramente el voluntariado de la actividad laboral o profesional, garantizando que la ayuda social no sustituya la responsabilidad de los servicios públicos. Define los derechos y deberes tanto de los voluntarios como de las organizaciones, y crea órganos de participación y control como el Consejo Vasco del Voluntariado.",
+  "citizen_impact": "Los ciudadanos que deseen colaborar de forma desinteresada en proyectos sociales cuentan ahora con un marco que protege sus derechos, como recibir formación, seguro de responsabilidad civil y reconocimiento de su labor. También establece que el voluntariado no puede ser una excusa para que la Administración deje de prestar servicios públicos esenciales.",
+  "professional_impact": "Las organizaciones sin ánimo de lucro deben formalizar la relación con sus voluntarios mediante un acuerdo por escrito y cumplir con obligaciones como la contratación de seguros y la gestión de un registro de altas y bajas. Los profesionales de las entidades no pueden realizar las mismas tareas que los voluntarios para evitar la precarización laboral.",
+  "keywords": [
+    "voluntariado",
+    "participación ciudadana",
+    "organizaciones sin ánimo de lucro",
+    "derechos del voluntario",
+    "País Vasco",
+    "acción social"
+  ],
+  "key_points": [
+    "Se define el voluntariado como una actividad desinteresada, sin retribución económica y sin relación laboral.",
+    "Las organizaciones deben formalizar la incorporación de voluntarios mediante un acuerdo o compromiso por escrito.",
+    "Es obligatorio que las organizaciones contraten un seguro para cubrir daños a terceros causados por el voluntario.",
+    "Se crea el Consejo Vasco del Voluntariado para asesorar al Gobierno y recoger las necesidades del sector.",
+    "Se establece el Censo General de Organizaciones del Voluntariado para coordinar y registrar a las entidades.",
+    "El voluntariado no puede sustituir servicios profesionales remunerados ni cubrir deficiencias de los servicios públicos.",
+    "Las organizaciones tienen la obligación de proporcionar formación y medios adecuados para la tarea del voluntario."
+  ],
+  "legal_references": [
+    "Ley 6/1996, de 15 de enero, del Voluntariado"
+  ],
+  "derogations": [],
+  "main_obligations": "Las organizaciones deben suscribir una póliza de seguro para los voluntarios, llevar un registro de altas y bajas, y formalizar la relación mediante un acuerdo escrito. Los voluntarios están obligados a cumplir los compromisos adquiridos y guardar la confidencialidad de la información conocida.",
+  "effective_date": "1998-07-13",
+  "procedures": [
+    {
+      "name": "Adaptación de organizaciones al nuevo marco legal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Ajuste normativo de las organizaciones",
+          "description": "Las organizaciones que ya contaban con voluntarios deben adaptar su funcionamiento a lo dispuesto en esta ley.",
+          "start_date": "1998-07-13",
+          "end_date": "1 año tras la publicación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Constitución de órganos y registros",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Reglamentación del Censo General",
+          "description": "El Gobierno Vasco debe aprobar el reglamento de funcionamiento del Censo General de Organizaciones del Voluntariado.",
+          "start_date": "6 meses tras la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Reglamentación del Consejo Vasco del Voluntariado",
+          "description": "El Consejo debe elaborar su propio reglamento de funcionamiento para ser aprobado por el Gobierno.",
+          "start_date": "6 meses tras su constitución",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

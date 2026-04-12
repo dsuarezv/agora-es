@@ -1,0 +1,121 @@
+{
+  "identifier": "BOE-A-2020-8009",
+  "title": "Decreto-ley 6/2020, de 1 de abril, por el que se establecen medidas sociales urgentes para paliar los efectos de la situación creada por el COVID-19 y de fomento de la investigación sanitaria",
+  "visible_title": "Medidas sociales urgentes para paliar los efectos del COVID-19 y fomento de la investigación sanitaria",
+  "rank": "real_decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "6/2020",
+  "publication_date": "2020-07-17",
+  "enactment_date": "2020-04-01",
+  "last_updated": "2020-06-16",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/dl/2020/04/01/6",
+  "official_journal": "BOIB",
+  "journal_issue": "107",
+  "summary": "Esta norma implementa medidas de emergencia en las Islas Baleares para mitigar el impacto social y económico de la pandemia de COVID-19. Garantiza la continuidad de servicios sociales esenciales, agiliza la contratación de personal sanitario y de servicios básicos, y acelera el pago de ayudas al alquiler de vivienda. Además, establece mecanismos para financiar rápidamente la investigación científica contra el virus.",
+  "citizen_impact": "Las familias con dificultades económicas pueden recibir ayudas para el alquiler de forma más rápida mediante la comprobación posterior de datos. Los usuarios de servicios sociales esenciales mantienen su atención, aunque algunos servicios pasan a modalidad no presencial. También se permite que las reuniones de organismos públicos se realicen por videoconferencia para evitar desplazamientos.",
+  "professional_impact": "Los profesionales de servicios sociales y sanitarios pueden ser contratados mediante procedimientos de emergencia mucho más ágiles, saltándose trámites ordinarios. Las entidades sociales concertadas mantienen sus pagos y pueden adaptar su facturación a la situación de crisis. Los investigadores sanitarios cuentan con vías de financiación directa y rápida a través de la Fundación Instituto de Investigación Sanitaria.",
+  "keywords": [
+    "COVID-19",
+    "medidas sociales",
+    "ayudas alquiler",
+    "servicios sociales",
+    "investigación sanitaria",
+    "contratación de emergencia",
+    "Islas Baleares"
+  ],
+  "key_points": [
+    "Continuidad obligatoria de servicios sociales residenciales y de apoyo a víctimas de violencia de género.",
+    "Posibilidad de realizar la contratación de personal de emergencia saltándose plazos y trámites de selección ordinarios.",
+    "Agilización de ayudas al alquiler: se permite el pago antes de realizar las comprobaciones administrativas de rigor.",
+    "Financiación inmediata de proyectos de investigación científica contra el COVID-19 sin necesidad de bases de convocatoria previas.",
+    "Autorización de sesiones de órganos colegiados mediante videoconferencia durante el estado de alarma.",
+    "Adaptación de la facturación para entidades sociales concertadas ante la suspensión de actividades presenciales."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020",
+    "Ley 5/2016 de la renta social garantizada",
+    "Orden SND/295/2020",
+    "Decreto 66/2016",
+    "Decreto-ley 4/2020",
+    "Estatuto básico del empleado público",
+    "Ley de subvenciones (Texto refundido)"
+  ],
+  "derogations": [
+    "Disposición final primera del Decreto-ley 4/2020, de 20 de marzo",
+    "Apartado 1 del punto III del anexo 1 del Acuerdo del Consejo de Gobierno de 13 de marzo de 2020"
+  ],
+  "main_obligations": "Las entidades beneficiarias de ayudas a la investigación deben rendir cuentas y presentar justificantes de gastos en un plazo máximo de un año. Las administraciones deben garantizar la continuidad de los servicios sociales declarados esenciales.",
+  "effective_date": "2020-04-01",
+  "procedures": [
+    {
+      "name": "Concesión de ayudas al alquiler",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y resolución",
+          "description": "Tramitación telemática de la ayuda para agilizar la respuesta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación requerida por la administración de vivienda"
+        },
+        {
+          "step": 2,
+          "title": "Pago de la ayuda",
+          "description": "El pago se realiza de forma inmediata tras la resolución, incluso antes de la comprobación de datos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Comprobación posterior",
+          "description": "Verificación de los requisitos y la documentación tras haber efectuado el pago.",
+          "start_date": "Posterior al pago",
+          "end_date": null,
+          "required_documentation": "Documentación justificativa de la ayuda"
+        }
+      ]
+    },
+    {
+      "name": "Financiación de investigación sanitaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de proyectos",
+          "description": "Envío de propuestas de investigación vinculadas a la emergencia sanitaria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Análisis técnico",
+          "description": "Evaluación por una comisión de expertos designada por la Consejería de Salud.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Pago anticipado",
+          "description": "La Fundación realiza el pago de forma anticipada para permitir el inicio de la investigación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Justificación",
+          "description": "Rendición de cuentas y entrega de justificantes de gastos en un plazo máximo de un año.",
+          "start_date": null,
+          "end_date": "1 año desde la concesión",
+          "required_documentation": "Justificantes de gastos"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

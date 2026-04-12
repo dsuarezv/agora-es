@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-1998-10523",
+  "title": "Ley 2/1998, de 6 de abril, de Fundaciones Canarias",
+  "visible_title": "Ley de Fundaciones Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "2/1998",
+  "publication_date": "1998-05-06",
+  "enactment_date": "1998-04-06",
+  "last_updated": "2014-11-10",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/1998/04/06/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula el régimen jurídico de las fundaciones que desarrollan sus actividades principalmente en Canarias. Busca modernizar la gestión de estas entidades, pasando de un modelo puramente fiscalizador a uno de apoyo y asesoramiento por parte del Protectorado. Establece las reglas para su creación, gobierno, patrimonio y extinción, garantizando que sus fines sean siempre de interés general.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo que formen parte de una fundación o sean beneficiarios de sus actividades sociales.",
+  "professional_impact": "Afecta directamente a fundadores, patronos y gestores de fundaciones en Canarias, quienes deben cumplir con requisitos de dotación económica, rendición de cuentas anual y registro. Los patronos asumen una responsabilidad legal rigurosa por su gestión patrimonial.",
+  "keywords": [
+    "fundaciones",
+    "Canarias",
+    "interés general",
+    "patronato",
+    "protectorado",
+    "derecho fundacional",
+    "gestión patrimonial"
+  ],
+  "key_points": [
+    "El Protectorado de Fundaciones Canarias ahora tiene funciones de asesoramiento y apoyo, no solo de control.",
+    "Se permite la gestión remunerada de la fundación por profesionales con solvencia técnica.",
+    "Para crear una fundación es obligatorio acreditar una dotación económica suficiente para su primer programa de actuación.",
+    "Las fundaciones deben destinar al menos el 70% de sus ingresos netos anuales a sus fines fundacionales.",
+    "La personalidad jurídica se adquiere únicamente tras la inscripción en el Registro de Fundaciones de Canarias.",
+    "Se establece un régimen de responsabilidad para los patronos por negligencia en la administración de los bienes.",
+    "Las fundaciones públicas requieren autorización previa del Gobierno de Canarias para su creación o modificación."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 34)",
+    "Estatuto de Autonomía de Canarias (artículo 12.8 y 30.7)",
+    "Ley 1/1990, de Fundaciones Canarias",
+    "Código de Comercio"
+  ],
+  "derogations": [
+    "Ley 1/1990, de 29 de enero, de Fundaciones Canarias"
+  ],
+  "main_obligations": "Las fundaciones deben presentar anualmente ante el Protectorado su inventario, balance, cuenta de resultados y memoria de actividades dentro de los primeros 6 meses del ejercicio siguiente. Además, deben destinar obligatoriamente el 70% de sus rentas anuales al cumplimiento de sus fines.",
+  "effective_date": "1998-05-07",
+  "procedures": [
+    {
+      "name": "Constitución de una fundación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Negocio fundacional",
+          "description": "Manifestación de la voluntad del fundador y dotación de medios económicos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Dotación inicial suficiente"
+        },
+        {
+          "step": 2,
+          "title": "Otorgamiento de escritura pública",
+          "description": "Formalización ante notario de la voluntad de constituir la fundación y sus estatutos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública con fines, estatutos, dotación y programa de actuación"
+        },
+        {
+          "step": 3,
+          "title": "Inscripción registral",
+          "description": "Inscripción en el Registro de Fundaciones de Canarias para adquirir personalidad jurídica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública de constitución"
+        }
+      ]
+    },
+    {
+      "name": "Rendición de cuentas anual",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Confección de documentos",
+          "description": "El Patronato elabora inventario, balance, cuenta de resultados y memoria de actividades.",
+          "start_date": null,
+          "end_date": "6 meses tras el cierre del ejercicio",
+          "required_documentation": "Inventario, balance, cuenta de resultados y memoria"
+        },
+        {
+          "step": 2,
+          "title": "Presentación al Protectorado",
+          "description": "Entrega de la documentación para su examen y depósito en el Registro.",
+          "start_date": null,
+          "end_date": "6 meses tras el cierre del ejercicio",
+          "required_documentation": "Documentación contable y memoria de actividades"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

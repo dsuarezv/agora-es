@@ -1,0 +1,94 @@
+{
+  "identifier": "BOE-A-2005-1576",
+  "title": "Ley Foral 14/2004, de 3 de diciembre, del Gobierno de Navarra y de su Presidente",
+  "visible_title": "Ley Foral del Gobierno de Navarra y de su Presidente",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "14/2004",
+  "publication_date": "2005-02-01",
+  "enactment_date": "2004-12-03",
+  "last_updated": "2021-05-20",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2004/12/03/14",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma reorganiza la estructura del poder ejecutivo en Navarra, separando la regulación del Gobierno de la de la Administración. Define las competencias, el nombramiento y el funcionamiento del Presidente y los Consejeros, dotando al sistema de mayor flexibilidad para adaptar la estructura administrativa a las necesidades políticas. Además, establece mecanismos de transparencia, ética y procedimientos para la creación de normas y decretos legislativos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que regula la organización interna de las instituciones de gobierno.",
+  "professional_impact": "Afecta directamente a los altos cargos y funcionarios de la Administración de Navarra, definiendo sus estatutos, responsabilidades, regímenes de incompatibilidad y deberes de transparencia. Establece nuevas reglas de conducta y la obligación de dimisión ante procesos penales por delitos contra la Administración Pública.",
+  "keywords": [
+    "Gobierno de Navarra",
+    "Presidente de Navarra",
+    "Consejeros",
+    "Administración Foral",
+    "Competencias ejecutivas",
+    "Transparencia",
+    "Decreto Foral"
+  ],
+  "key_points": [
+    "Separación de la regulación del Gobierno y de la Administración para mayor claridad jurídica.",
+    "Creación de la figura de los Vicepresidentes, que deben ser necesariamente Consejeros.",
+    "Introducción de los 'Decretos Forales Legislativos de armonización tributaria' para adaptar la normativa navarra a la estatal rápidamente.",
+    "Establecimiento de la obligación de dimisión de altos cargos si se les notifica la apertura de juicio oral por delitos contra la Administración Pública.",
+    "Regulación de la responsabilidad política solidaria de los miembros del Gobierno ante el Parlamento.",
+    "Creación de la Comisión de Coordinación para mejorar la gestión entre departamentos.",
+    "Garantía de transparencia y rendición de cuentas mediante la obligación de informar sobre la gestión y los recursos públicos.",
+    "Procedimientos de audiencia y participación ciudadana en la elaboración de reglamentos."
+  ],
+  "legal_references": [
+    "Ley Orgánica 13/1982, de 10 de agosto, de Reintegración y Amejoramiento del Régimen Foral de Navarra",
+    "Ley Foral 9/2019, de 4 de marzo",
+    "Ley Foral 23/1983, de 11 de abril",
+    "Ley Foral 2/2011, de 17 de marzo",
+    "Ley Foral 8/1999, de 16 de marzo"
+  ],
+  "derogations": [
+    "Ley Foral 23/1983, de 11 de abril, reguladora del Gobierno y de la Administración de la Comunidad Foral de Navarra",
+    "Artículo 12 de la Ley Foral 13/2000, de 14 de diciembre, General Tributaria",
+    "Disposición adicional tercera de la Ley Foral 19/1992, de 30 de diciembre, del Impuesto sobre el Valor Añadido",
+    "Disposición adicional tercera de la Ley Foral 20/1992, de 30 de diciembre, de Impuestos Especiales"
+  ],
+  "main_obligations": "Los miembros del Gobierno deben abstenerse de asuntos donde tengan conflictos de intereses personales o familiares. Los altos cargos deben dimitir si se les abre juicio oral por delitos contra la Administración Pública. El Gobierno en funciones debe elaborar inventarios detallados para el traspaso de poderes.",
+  "effective_date": "2005-03-01",
+  "procedures": [
+    {
+      "name": "Elaboración de disposiciones reglamentarias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "El Consejero competente inicia la elaboración adjuntando memoria y estudio económico si procede.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Anteproyecto, memorias y estudio económico"
+        },
+        {
+          "step": 2,
+          "title": "Audiencia y participación",
+          "description": "Trámite de audiencia a ciudadanos o entidades representativas.",
+          "start_date": null,
+          "end_date": "mínimo 15 días hábiles (puede reducirse a 7)",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informes técnicos",
+          "description": "Sometimiento a informe de la Secretaría General Técnica y de impacto de género.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe de impacto de género e informe de la Secretaría General Técnica"
+        },
+        {
+          "step": 4,
+          "title": "Aprobación",
+          "description": "El órgano competente aprueba la disposición tras examen de la Comisión de Coordinación si es necesario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,89 @@
+{
+  "identifier": "BOE-A-2008-2491",
+  "title": "Ley 11/2007, de 26 de noviembre, Reguladora del Consejo Genético, de protección de los derechos de las personas que se sometan a análisis genéticos y de los bancos de ADN humano en Andalucía",
+  "visible_title": "Ley Reguladora del Consejo Genético y de los Bancos de ADN Humano en Andalucía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "11/2007",
+  "publication_date": "2008-02-13",
+  "enactment_date": "2007-11-26",
+  "last_updated": "2007-12-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2007/11/26/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco legal para proteger a los ciudadanos en Andalucía frente a los riesgos de los análisis genéticos. Regula el derecho al consejo genético, garantiza que cualquier prueba requiera consentimiento informado por escrito y establece las reglas para la creación y gestión de bancos de ADN. Además, crea el Banco de ADN humano de Andalucía para centralizar y asegurar el uso ético de las muestras biológicas.",
+  "citizen_impact": "Garantiza que nadie sea sometido a un análisis genético sin su permiso explícito y por escrito. Te otorga el derecho a recibir asesoramiento profesional (consejo genético) antes y después de las pruebas para entender las consecuencias para ti y tu familia, y te permite decidir no ser informado de los resultados si así lo prefieres.",
+  "professional_impact": "Obliga a los profesionales sanitarios y de investigación a obtener consentimientos informados rigurosos y a cumplir con estrictos deberes de confidencialidad. Los centros de investigación y salud deben cumplir con requisitos de calidad y autorización para realizar análisis genéticos o gestionar bancos de ADN, bajo riesgo de sanciones económicas de hasta un millón de euros.",
+  "keywords": [
+    "genética",
+    "ADN",
+    "consejo genético",
+    "consentimiento informado",
+    "bioética",
+    "Andalucía",
+    "investigación biomédica",
+    "protección de datos"
+  ],
+  "key_points": [
+    "Obligatoriedad del consentimiento informado por escrito para cualquier análisis genético.",
+    "Derecho al consejo genético previo y posterior a las pruebas.",
+    "Creación del Banco de ADN humano de Andalucía.",
+    "Prohibición de utilizar datos genéticos para fines distintos a la asistencia sanitaria o investigación biomédica.",
+    "Derecho a la revocación del consentimiento en cualquier momento, con destrucción de la muestra.",
+    "Regulación estricta de los programas de cribado genético poblacional.",
+    "Sanciones económicas severas por uso indebido de muestras o datos genéticos.",
+    "Protección especial para menores y personas sin capacidad de consentimiento."
+  ],
+  "legal_references": [
+    "Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal",
+    "Convenio del Consejo de Europa de Oviedo (1997)",
+    "Declaración Universal sobre el Genoma Humano y los Derechos Humanos (UNESCO)",
+    "Ley 14/1986, de 25 de mayo, General de Sanidad",
+    "Ley 2/1998, de 15 de junio, de Salud de Andalucía"
+  ],
+  "derogations": [
+    "Todas las normas de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": "Los centros deben obtener consentimiento escrito para cada análisis y garantizar la confidencialidad de los datos. El incumplimiento de la finalidad autorizada o el uso de muestras sin consentimiento conlleva multas de hasta 1.000.000 de euros y la posible revocación de autorizaciones.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Constitución de bancos de ADN",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Regularización de colecciones existentes",
+          "description": "Las colecciones de muestras y datos existentes deben constituirse como bancos de ADN con los requisitos legales.",
+          "start_date": "2007-12-17",
+          "end_date": "12 meses"
+        },
+        {
+          "step": 2,
+          "title": "Integración en el Banco de ADN de Andalucía",
+          "description": "Aquellas colecciones que no se hayan regularizado pasan a integrarse en el Banco de ADN humano de Andalucía.",
+          "start_date": "Tras el plazo de 12 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Puesta en marcha del Banco de ADN humano de Andalucía",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Entrada en funcionamiento",
+          "description": "El Banco de ADN de Andalucía debe estar operativo.",
+          "start_date": "6 meses desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,75 @@
+{
+  "identifier": "BOE-A-2005-18452",
+  "title": "Ley 3/2005, de 23 de mayo, por la que se regula el ejercicio del derecho a formular instrucciones previas en el ámbito sanitario y se crea el registro correspondiente",
+  "visible_title": "Regulación del derecho a formular instrucciones previas en el ámbito sanitario y creación de su registro",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "3/2005",
+  "publication_date": "2005-11-10",
+  "enactment_date": "2005-05-23",
+  "last_updated": "2017-03-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2005/05/23/3",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley permite que cualquier ciudadano de la Comunidad de Madrid deje por escrito sus deseos sobre qué tratamientos médicos desea recibir o rechazar en el futuro, especialmente si llega a una situación en la que no pueda comunicarse. Establece cómo debe hacerse este documento, quién puede ser su representante y crea un registro oficial para que los médicos puedan consultarlo rápidamente. El objetivo es garantizar que se respete la autonomía y la dignidad de la persona en decisiones críticas de salud.",
+  "citizen_impact": "Otorga a los ciudadanos el derecho de decidir anticipadamente sobre su propio cuerpo y tratamientos médicos, evitando decisiones impuestas por terceros en momentos de vulnerabilidad. Permite también designar a una persona de confianza para que actúe como interlocutor ante el equipo sanitario.",
+  "professional_impact": "Obliga al personal sanitario y a las administraciones de salud a respetar y buscar la aplicación de estas instrucciones en la práctica clínica. Los médicos deben integrar estas voluntades en la historia clínica y los centros sanitarios deben gestionar la inscripción de estos documentos en el Registro de Instrucciones Previas.",
+  "keywords": [
+    "instrucciones previas",
+    "autonomía del paciente",
+    "testamento vital",
+    "derechos sanitarios",
+    "consentimiento informado",
+    "Comunidad de Madrid",
+    "registro sanitario"
+  ],
+  "key_points": [
+    "Derecho a manifestar anticipadamente la voluntad sobre cuidados, tratamientos y destino del cuerpo tras el fallecimiento.",
+    "Posibilidad de designar un representante para que actúe como interlocutor con los médicos.",
+    "Creación del Registro de Instrucciones Previas de la Comunidad de Madrid para asegurar la consulta de los deseos del paciente.",
+    "El documento puede hacerse ante servicios de atención al paciente o ante tres testigos.",
+    "Se permite la revocación o modificación del documento en cualquier momento mientras la persona mantenga su capacidad.",
+    "Los profesionales sanitarios pueden ejercer la objeción de conciencia respecto al cumplimiento de las instrucciones.",
+    "Las instrucciones no pueden contravenir la ley ni la buena práctica médica (lex artis)."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Convenio de Oviedo (1997)",
+    "Ley 14/1986, General de Sanidad",
+    "Ley 12/2001, de Ordenación Sanitaria de la Comunidad de Madrid",
+    "Ley 41/2002, básica reguladora de la autonomía del paciente",
+    "Ley Orgánica 15/1999, de Protección de Datos de Carácter Personal"
+  ],
+  "derogations": [
+    "Artículo 28 de la Ley 12/2001, de 21 de diciembre, de Ordenación Sanitaria de la Comunidad de Madrid"
+  ],
+  "main_obligations": "El personal sanitario tiene la obligación de respetar las instrucciones previas y de incorporarlas a la historia clínica en un lugar visible. Los centros sanitarios deben inscribir los documentos en el Registro de Instrucciones Previas tras la solicitud del interesado.",
+  "effective_date": "2005-08-23",
+  "procedures": [
+    {
+      "name": "Formalización del documento de instrucciones previas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elección de la vía de otorgamiento",
+          "descrption": "El ciudadano elige entre hacerlo en unidades administrativas/servicios de atención al paciente o ante tres testigos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Identificación del autor, firma, fecha y lugar."
+        },
+        {
+          "step": 2,
+          "title": "Inscripción en el Registro",
+          "descrption": "Las instituciones sanitarias deben solicitar la inscripción en el Registro de Instrucciones Previas de la Comunidad de Madrid.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento de instrucciones previas formalizado."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

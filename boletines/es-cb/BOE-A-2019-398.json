@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-2019-398",
+  "title": "Ley 7/2018, de 5 de diciembre, de Iniciativa Legislativa Popular de Cantabria",
+  "visible_title": "Ley de Iniciativa Legislativa Popular de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "7/2018",
+  "publication_date": "2019-01-15",
+  "enactment_date": "2018-12-05",
+  "last_updated": "2018-12-19",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2018/12/05/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza el mecanismo para que los ciudadanos de Cantabria propongan leyes directamente al Parlamento. Facilita la participación ciudadana reduciendo el número de firmas necesarias y permitiendo la recogida de firmas de forma electrónica. Además, establece un sistema de compensación económica para los promotores y garantiza que las iniciativas sigan su curso incluso si se disuelve el Parlamento.",
+  "citizen_impact": "Permite a los ciudadanos cántabros influir directamente en la creación de leyes con menos obstáculos burocráticos. La posibilidad de firmar digitalmente y la reducción de firmas requeridas (4.000) hacen que la participación sea más accesible y rápida.",
+  "professional_impact": "Los promotores de iniciativas (comisiones) pueden recibir una compensación de hasta 3.000 euros para cubrir gastos de difusión y recogida de firmas. Los servicios jurídicos del Parlamento asumen la labor de asesorar a los ciudadanos para asegurar que sus propuestas cumplan los requisitos formales.",
+  "keywords": [
+    "iniciativa legislativa popular",
+    "participación ciudadana",
+    "Cantabria",
+    "firma electrónica",
+    "democracia directa",
+    "proposición de ley"
+  ],
+  "key_points": [
+    "Se reduce el número de firmas necesarias a un mínimo de 4.000 personas.",
+    "Se permite la recogida de firmas mediante sistemas electrónicos y páginas web.",
+    "Se establece una compensación económica para los promotores de hasta 0,60€ por firma (máximo 3.000€) si la propuesta es admitida.",
+    "El plazo para recoger firmas es de 6 meses, prorrogables por 3 meses más.",
+    "Las iniciativas no caducan si se disuelve el Parlamento durante su tramitación.",
+    "Se excluyen materias presupuestarias, tributarias, derechos fundamentales y competencias no autonómicas."
+  ],
+  "legal_references": [
+    "Estatuto de Auto-nomía para Cantabria",
+    "Ley 6/1985, de 5 de julio, de iniciativa legislativa popular",
+    "Constitución Española",
+    "Declaración Universal de los Derechos Humanos",
+    "Ley Orgánica 2/1979, de 3 de diciembre, del Tribunal Constitucional",
+    "Reglamento (UE) n.º 211/2011",
+    "Acuerdo de 10 de mayo de 2012, de la Junta Electoral Central"
+  ],
+  "derogations": [
+    "Ley 6/1985, de 5 de julio, de iniciativa legislativa popular de Cantabria"
+  ],
+  "main_obligations": "La Comisión Promotora debe presentar un texto articulado, exposición de motivos y documentos justificativos. Deben justificar los gastos con facturas para recibir la compensación y garantizar la protección de datos de los firmantes.",
+  "effective_date": "2019-01-16",
+  "procedures": [
+    {
+      "name": "Ejercicio de la Iniciativa Legislativa Popular",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la iniciativa",
+          "description": "Entrega ante la Mesa del Parlamento del texto de la ley, motivos y datos de la Comisión Promotora.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Texto de la proposición, exposición de motivos, razones de la iniciativa y relación de miembros de la Comisión Promotora."
+        },
+        {
+          "step": 2,
+          "title": "Trámite de admisión",
+          "description": "La Mesa del Parlamento examina si la propuesta cumple los requisitos legales.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Presentación de pliegos",
+          "description": "Tras la admisión, los promotores presentan los pliegos para la recogida de firmas.",
+          "start_date": null,
+          "end_date": "15 días hábiles",
+          "required_documentation": "Pliegos sellados y numerados con el texto íntegro de la ley."
+        },
+        {
+          "step": 4,
+          "title": "Recogida de firmas",
+          "description": "Periodo para que los ciudadanos firmen la propuesta de forma física o electrónica.",
+          "start_date": null,
+          "end_date": "6 meses (prorrogables 3 meses más)",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Comprobación y recuento",
+          "description": "La Mesa del Parlamento realiza el recuento de firmas en acto público.",
+          "start_date": null,
+          "end_date": "30 días hábiles tras el fin de la recogida",
+          "required_documentation": "Certificado de inscripción en el censo electoral."
+        },
+        {
+          "step": 6,
+          "title": "Resolución y tramitación",
+          "description": "Emisión del certificado de firmas válidas e inicio de la tramitación parlamentaria.",
+          "start_date": null,
+          "end_date": "15 días tras el recuento",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

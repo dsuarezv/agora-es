@@ -1,0 +1,92 @@
+{
+  "identifier": "BOE-A-2020-16420",
+  "title": "Ley 4/2020, de 26 de noviembre, de medidas extraordinarias de carácter económico, financieras, fiscal y administrativas para afrontar la crisis provocada por el COVID-19",
+  "visible_title": "Medidas económicas, fiscales y administrativas para afrontar la crisis del COVID-19 en Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "4/2020",
+  "publication_date": "2020-12-18",
+  "enactment_date": "2020-11-26",
+  "last_updated": "2020-12-04",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2020/11/26/4",
+  "official_journal": "BOC",
+  "journal_issue": "30",
+  "summary": "Esta ley implementa un paquete de rescate y agilización administrativa en Canarias para mitigar los daños económicos causados por la pandemia. Establece ayudas directas para autónomos que cesaron su actividad y programas de empleo para mejorar condiciones de trabajadores en ERTE. Además, flexibiliza la gestión de la contratación pública, los presupuestos y la gestión de personal para permitir una respuesta rápida de la Administración.",
+  "citizen_impact": "Los autónomos residentes en Canarias que se vieron obligados a parar su actividad por el estado de alarma pueden acceder a una ayuda de asistencia social. También se facilita la regulación del teletrabajo para empleados públicos y se ofrece una carencia de tres meses en el reintegro de anticipos para ciertos trabajadores del sector público.",
+  "professional_impact": "Las empresas y autónomos se benefician de subvenciones directas y procesos de concesión más rápidos. Los funcionarios públicos se ven afectados por nuevas reglas de movilidad funcional (voluntaria o forzosa) y la posibilidad de teletrabajo regulado. Los gestores de la administración pública cuentan con mayores márgenes para modificar presupuestos y agilizar contratos de emergencia.",
+  "keywords": [
+    "COVID-19",
+    "Canarias",
+    "ayudas autónomos",
+    "subvenciones empleo",
+    "gestión administrativa",
+    "medidas fiscales",
+    "teletrabajo"
+  ],
+  "key_points": [
+    "Creación de una ayuda de 11 millones de euros para autónomos canarios que cesaron su actividad por el COVID-19.",
+    "Subvenciones para mejorar las condiciones contractuales de trabajadores en ERTE.",
+    "Flexibilización de la contratación pública permitiendo procedimientos de urgencia y emergencia.",
+    "Autorización de pagos anticipados y ampliación de créditos presupuestarios para sectores sanitario, educativo y social.",
+    "Posibilidad de realizar reuniones de órganos colegiados y negociaciones colectivas de forma telemática.",
+    "Implementación de la movilidad funcional para empleados públicos para cubrir necesidades urgentes.",
+    "Reducción temporal de las cuotas fijas de la tasa fiscal sobre máquinas de juego de azar.",
+    "Suspensión de la devolución de anticipos reintegrables para personal público durante tres meses."
+  ],
+  "legal_references": [
+    "Ley 11/2006",
+    "Real Decreto 463/2020",
+    "Ley 38/2003",
+    "Ley 9/2017",
+    "Ley 19/2019",
+    "Decreto ley 4/2020",
+    "Decreto ley 10/2020"
+  ],
+  "derogations": [
+    "Decreto ley 4/2020, de 2 de abril",
+    "Decreto ley 7/2020, de 23 de abril",
+    "Decreto ley 10/2020, de 11 de junio"
+  ],
+  "main_obligations": "Los entes del sector público autonómico deben suministrar información económica-financiera detallada sobre los gastos derivados de la crisis. Los gastos extraordinarios deben estar identificados y clasificados de forma diferenciada.",
+  "effective_date": "2020-12-18",
+  "procedures": [
+    {
+      "name": "Concesión de ayuda de asistencia social para autónomos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de la ayuda",
+          "description": "Presentación de la solicitud por parte del autónomo interesado mediante régimen de concesión directa.",
+          "start_date": "A determinar por orden reglamentaria",
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el cese de actividad por motivo de la declaración de alarma"
+        }
+      ]
+    },
+    {
+      "name": "Gestión de anticipos reintegrables para personal público",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de carencia",
+          "description": "El empleado público solicita la suspensión del reintegro de sus anticipos.",
+          "start_date": "Mes siguiente a la entrada en vigor de la ley",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aplicación de la carencia",
+          "description": "Se aplica un periodo de carencia de tres meses en el reintegro.",
+          "start_date": "Tras la aprobación de la solicitud",
+          "end_date": "3 meses después",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

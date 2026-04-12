@@ -1,0 +1,381 @@
+{
+  "identifier": "BOE-A-1999-12334",
+  "title": "Ley 4/1999, de 30 de marzo, de Cooperativas de la Comunidad de Madrid",
+  "visible_title": "Ley de Cooperativas de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "4/1999",
+  "publication_date": "1999-06-02",
+  "enactment_date": "1999-03-30",
+  "last_updated": "2023-02-28",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1999/03/30/4",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta norma regula el funcionamiento de las sociedades cooperativas en la Comunidad de Madrid, priorizando su naturaleza de servicio al socio frente al lucro mercantil. Establece las reglas de gestión democrática, los tipos de socios y las estructuras de capital permitidas. Define modelos específicos para cooperativas de trabajo, vivienda y agrarias, garantizando derechos de participación y control. Además, regula los mecanismos de disolución, liquidación y el régimen sancionador para asegurar la transparencia y la estabilidad del sector.",
+  "citizen_impact": "Afecta principalmente a personas que deseen emprender en modelo cooperativo, garantizando que su participación sea democrática y que su responsabilidad económica se limite, por lo general, a su aportación. En cooperativas de vivienda, protege el derecho de los socios mediante periodos de tanteo para la transmisión de derechos. Para trabajadores, asegura que no se les reduzca la remuneración por debajo del SMI debido a pérdidas de la cooperativa.",
+  "professional_impact": "Impacta directamente en emprendedores, administradores y gestores de cooperativas, quienes asumen responsabilidad solidaria por daños causados con dolo o culpa. Impone cargas administrativas como la obligación de llevar libros registro, inscribir nombramientos en el Registro de Cooperativas y someterse a auditorías externas en casos específicos (como cooperativas de vivienda con más de 40 inmuebles o aquellas con secciones autónomas).",
+  "keywords": [
+    "cooperativas",
+    "Comunidad de Madrid",
+    "sociedad cooperativa",
+    "gestión democrática",
+    "cooperativa de trabajo",
+    "cooperativa de vivienda",
+    "capital social",
+    "régimen sancionador"
+  ],
+  "key_points": [
+    "Gestión democrática: El control de la cooperativa es por parte de los socios, no por el capital aportado.",
+    "Responsabilidad limitada: Los socios responden, por regla general, solo hasta el importe de sus aportaciones.",
+    "Protección al socio de trabajo: Las pérdidas no pueden reducir su remuneración por debajo del SMI.",
+    "Figura del asociado: Se permite la entrada de capitalistas (asociados) con límites de voto (35%) y capital (50%).",
+    "Secciones autónomas: Posibilidad de crear secciones con gestión, cuentas y patrimonio independientes.",
+    "Límites en cooperativas de trabajo: No pueden contratar más del 30% de horas con trabajadores asalariados.",
+    "Derechos en vivienda: Los socios tienen un periodo de tanteo de 2 meses para la transmisión de derechos a terceros.",
+    "Voto ponderado en agrarias: El voto puede basarse en la actividad (escala 1 a 5) y no en el capital.",
+    "Responsabilidad de administradores: Responden solidariamente de los perjuicios causados por dolo o culpa.",
+    "Sanciones graves: La inactividad de los órganos sociales durante 2 años puede provocar la descalificación de la cooperativa.",
+    "Beneficios sociales: Las cooperativas con fines sociales pueden solicitar calificación de entidad sin fines lucrativos para ventajas fiscales.",
+    "Derechos de pareja: Los derechos de los cónyuges se extienden a las parejas de hecho."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 129.2)",
+    "Estatuto de Autonomía de la Comunidad de Madrid (artículo 26.1.14)",
+    "Declaración de la Alianza Cooperativa Internacional (Manchester 1995)",
+    "Ley 2/2023, de 24 de febrero",
+    "Ley de Sociedades Anónimas (Real Decreto Legislativo 1564/1989)",
+    "Código de Comercio",
+    "Ley del Mercado de Valores",
+    "Ley 30/1995 de Ordenación y Supervisión de los Seguros Privados",
+    "Ley 1/1997 Reguladora de la Venta Ambulante de la Comunidad de Madrid",
+    "Ley 6/1996 del Voluntariado",
+    "Código Civil",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común"
+  ],
+  "derogations": [
+    "Ley 4/1999 (derogada por la Ley 2/2023 con efectos a 28 de abril de 2023)"
+  ],
+  "main_obligations": "Los administradores deben inscribir sus nombramientos en el Registro de Cooperativas y llevar los libros de actas y registro de socios. Las cooperativas con secciones deben someter sus cuentas a auditoría externa y las asociaciones de cooperativas deben comunicar altas y bajas al Registro semestralmente.",
+  "effective_date": "1999-04-18",
+  "procedures": [
+    {
+      "name": "Constitución de la cooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Asamblea Constituyente",
+          "description": "Los promotores se reúnen para aprobar estatutos y acuerdos de constitución.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de la Asamblea Constituyente con lista de asistentes y estatutos"
+        },
+        {
+          "step": 2,
+          "title": "Otorgamiento de Escritura Pública",
+          "description": "Formalización de la constitución ante notario.",
+          "start_date": "Desde la Asamblea Constituyente",
+          "end_date": "2 meses desde la Asamblea Constituyente",
+          "required_documentation": "Escritura pública"
+        },
+        {
+          "step": 3,
+          "title": "Inscripción Registral",
+          "description": "Presentación en el Registro de Cooperativas de la Comunidad de Madrid.",
+          "start_date": "Desde el otorgamiento de la escritura",
+          "end_date": "2 meses desde la solicitud",
+          "required_documentation": "Escritura de constitución y certificación negativa de denominación"
+        }
+      ]
+    },
+    {
+      "name": "Admisión de socios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de admisión",
+          "description": "El interesado presenta su solicitud por escrito a los Administradores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud por escrito"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la Administración",
+          "description": "Los Administradores deben resolver la solicitud.",
+          "start_date": null,
+          "end_date": "45 días desde la recepción",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Recurso en caso de denegación",
+          "description": "El solicitante puede recurrir ante el Comité de Recursos o la Asamblea.",
+          "start_date": "Desde la notificación de la denegación",
+          "end_date": "30 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Impugnación de acuerdos sociales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adopción del acuerdo",
+          "description": "Se celebra la asamblea o consejo y se adopta el acuerdo.",
+          "start_date": "Fecha de adopción o inscripción en el Registro",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo para impugnar acuerdos nulos",
+          "description": "Ejercicio de la acción de impugnación por socios o terceros con interés legítimo.",
+          "start_date": "Fecha de adopción o inscripción",
+          "end_date": "1 año",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Plazo para impugnar acuerdos anulables",
+          "description": "Ejercicio de la acción por socios que se opusieron o fueron privados del voto.",
+          "start_date": "Fecha de adopción o inscripción",
+          "end_date": "40 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Modificación de Estatutos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta e informe",
+          "description": "Presentación de propuesta con informe escrito justificativo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe escrito de justificación"
+        },
+        {
+          "step": 2,
+          "title": "Convocatoria y examen",
+          "description": "Derecho de los socios a examinar el texto íntegro en el domicilio social.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Texto íntegro de la modificación"
+        },
+        {
+          "step": 3,
+          "title": "Acuerdo de la Asamblea",
+          "description": "Votación de la modificación en la Asamblea General.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Formalización e inscripción",
+          "description": "Elevación a escritura pública e inscripción en el Registro de Cooperativas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública"
+        }
+      ]
+    },
+    {
+      "name": "Fusión de cooperativas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Proyecto de fusión",
+          "description": "Redacción del proyecto de fusión y convenio previo por los administradores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de fusión"
+        },
+        {
+          "step": 2,
+          "title": "Aprobación del proyecto",
+          "description": "Las asambleas deben aprobar el proyecto en un plazo máximo de 4 meses.",
+          "start_date": null,
+          "end_date": "4 meses desde la aprobación del proyecto",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Acuerdo de fusión",
+          "description": "Aprobación por mayoría de dos tercios en las asambleas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Publicidad y oposición",
+          "description": "Publicación en el BOCM y diarios. Plazo para oposición de acreedores.",
+          "start_date": "Tras el acuerdo",
+          "end_date": "1 mes tras el último anuncio",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Transformación de la Cooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de transformación",
+          "description": "La Asamblea adopta el acuerdo y se eleva a escritura pública.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Balance final, informe de expertos (si aplica), certificación del Registro de Cooperativas."
+        },
+        {
+          "step": 2,
+          "title": "Inscripción registral",
+          "description": "Presentación de la escritura en el Registro Mercantil o de Cooperativas según el tipo de sociedad resultante.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública de transformación."
+        }
+      ]
+    },
+    {
+      "name": "Disolución y Liquidación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de Asamblea de disolución",
+          "description": "El órgano de administración debe convocar la Asamblea en un plazo determinado.",
+          "start_date": null,
+          "end_date": "30 días tras la causa de disolución",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Nombramiento de liquidadores",
+          "description": "La Asamblea nombra liquidadores; si no se hace en un mes, se solicita al Juez.",
+          "start_date": null,
+          "end_date": "1 mes desde la disolución",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Información periódica",
+          "description": "Los liquidadores deben enviar el estado de la liquidación a los socios.",
+          "start_date": null,
+          "end_date": "Cada 4 meses",
+          "required_documentation": "Estado de la liquidación"
+        },
+        {
+          "step": 4,
+          "title": "Balance final y adjudicación",
+          "description": "Aprobación del balance final y reparto del haber social tras pagar deudas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Balance final, informe de operaciones y proyecto de adjudicación."
+        }
+      ]
+    },
+    {
+      "name": "Transmisión de derechos en Cooperativas de Vivienda",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de intención de venta",
+          "description": "El socio comunica al Consejo Rector su intención de transmitir sus derechos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Derecho de tanteo",
+          "description": "Periodo en el que otros socios pueden comprar los derechos por el precio de desembolso actualizado.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Libre transmisión",
+          "description": "Si ningún socio ejerce el tanteo, el socio puede vender a terceros.",
+          "start_date": "Tras el plazo de 2 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de descualificación cooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requerimiento de subsanación",
+          "description": "El Registro requiere a la cooperativa para que subsane la causa de descualificación.",
+          "start_date": "Desde que la Administración tiene conocimiento de la causa",
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Incoación del expediente",
+          "description": "Si no se subsana en el plazo, se inicia formalmente el expediente.",
+          "start_date": "Tras el vencimiento de los 6 meses",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informes preceptivos",
+          "description": "Se solicita informe a la Inspección de Trabajo y a la asociación correspondiente.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Trámite de audiencia",
+          "description": "Se requiere la presencia del órgano de Administración, Liquidadores o al menos tres socios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Resolución y ejecución",
+          "description": "Resolución de descualificación. Si no se disuelve o transforma en 6 meses, se procede a la disolución forzosa.",
+          "start_date": null,
+          "end_date": "6 meses tras la resolución firme",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Constitución de asociaciones (Uniones, Federaciones, Confederaciones)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Escritura pública",
+          "description": "Constitución mediante escritura pública con los requisitos legales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estatutos, relación de promotores, certificación de acuerdos"
+        },
+        {
+          "step": 2,
+          "title": "Inscripción en el Registro",
+          "description": "Inscripción en el Registro de Cooperativas de la Comunidad de Madrid para adquirir personalidad jurídica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 4
+}

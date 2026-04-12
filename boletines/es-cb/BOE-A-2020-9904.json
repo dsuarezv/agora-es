@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-2020-9904",
+  "title": "Ley 6/2020, de 15 de julio, de Fundaciones de Cantabria",
+  "visible_title": "Ley de Fundaciones de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "6/2020",
+  "publication_date": "2020-08-21",
+  "enactment_date": "2020-07-15",
+  "last_updated": "2025-04-04",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2020/07/15/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y unifica la regulación de las fundaciones que operan principalmente en Cantabria, sustituyendo la normativa anterior por un marco más ágil. Busca fomentar la iniciativa social y cultural mediante la simplificación de trámites administrativos y la reducción de la intervención directa del Protectorado. Introduce mayores exigencias de transparencia, como la obligación de tener página web y la claridad en la definición de fines estatutarios.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo que formen parte de una fundación o sean beneficiarios de sus actividades.",
+  "professional_impact": "Afecta directamente a patronos, fundadores y gestores de fundaciones en Cantabria, quienes ahora deben cumplir con nuevos requisitos de transparencia digital y contable. Los profesionales que gestionen estas entidades deberán adaptarse a la obligatoriedad de presentar planes de actuación y cuentas anuales bajo nuevos formatos y plazos para evitar el cierre registral.",
+  "keywords": [
+    "fundaciones",
+    "Cantabria",
+    "patronato",
+    "protectorado",
+    "transparencia",
+    "interés general",
+    "sin ánimo de lucro"
+  ],
+  "key_points": [
+    "Obligación de mantener una página web con datos relevantes, cuentas anuales y composición del patronato.",
+    "Los fines y actividades de la fundación no pueden ser genéricos; deben ser concretos y determinados en los estatutos.",
+    "Introducción de la declaración responsable para la enajenación de bienes que superen el 20% del activo, simplificando la autorización previa.",
+    "El silencio administrativo en los procedimientos de inscripción del Registro de Fundaciones es negativo.",
+    "Obligación de auditoría externa si se cumplen ciertos umbrales de activos, ingresos o número de trabajadores.",
+    "Los patronos deben aceptar el cargo de forma expresa mediante medios electrónicos o ante notario.",
+    "Las fundaciones deben destinar al menos el 70% de su resultado contable a la realización de sus fines.",
+    "Se establece la obligación de relacionarse con el Registro y el Protectorado exclusivamente por medios electrónicos."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía para Cantabria",
+    "Ley 50/2002, de 26 de diciembre, de fundaciones",
+    "Ley 39/2015, de 1 de octubre, del procedimiento administrativo común",
+    "Ley 26/2013, de 27 de diciembre, de cajas de ahorro y fundaciones bancarias",
+    "Decreto 26/1997, de 20 de abril"
+  ],
+  "derogations": [
+    "Decreto 26/1997, de 20 de abril, por el que se crea y regula el Protectorado y Registro de Fundaciones de la Comunidad Autónoma de Cantabria",
+    "Orden de 29 de abril de 1997, sobre llevanza del Registro de Fundaciones"
+  ],
+  "main_obligations": "Las fundaciones deben presentar anualmente sus cuentas anuales y planes de actuación ante el Registro. Deben destinar el 70% de sus ingresos a sus fines y mantener una página web con información transparente. El incumplimiento de la presentación de cuentas puede conllevar la extinción de la fundación o el bloqueo de inscripciones.",
+  "effective_date": "2020-08-22",
+  "procedures": [
+    {
+      "name": "Inscripción de actos en el Registro de Fundaciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "descrption": "Entrega de la documentación para la constitución, modificación, fusión o extinción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública, certificados de denominación, etc."
+        },
+        {
+          "step": 2,
+          "title": "Resolución o Silencio",
+          "descrption": "Plazo para que la administración resuelva. Si no hay resolución en 6 meses para actos esenciales, se entiende desestimada.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Enajenación o gravamen de bienes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo del patronato",
+          "descrption": "Decisión por mayoría absoluta para disponer de bienes de la dotación o superiores al 20% del activo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de declaración responsable",
+          "descrption": "Notificación al Protectorado de la decisión tomada.",
+          "start_date": null,
+          "end_date": "1 mes desde el acuerdo",
+          "required_documentation": "Modelo normalizado de declaración responsable"
+        },
+        {
+          "step": 3,
+          "title": "Acreditación de la operación",
+          "descrption": "Presentación de la copia del documento que formaliza la venta o gravamen.",
+          "start_date": null,
+          "end_date": "3 meses desde la declaración responsable",
+          "required_documentation": "Copia del documento de formalización"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

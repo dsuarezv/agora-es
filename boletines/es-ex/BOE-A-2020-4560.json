@@ -1,0 +1,79 @@
+{
+  "identifier": "BOE-A-2020-4560",
+  "title": "Decreto-ley 5/2020, de 3 de abril, por el que se aprueban medidas urgentes y extraordinarias en materia de política social y sanitaria",
+  "visible_title": "Medidas urgentes y extraordinarias en materia de política social y sanitaria",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Junta de Extremadura",
+  "official_number": "5/2020",
+  "publication_date": "2020-04-22",
+  "enactment_date": "2020-04-03",
+  "last_updated": "2022-11-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/dl/2020/04/03/5",
+  "official_journal": "Diario Oficial de Extremadura",
+  "journal_issue": null,
+  "summary": "Esta norma establece ayudas y protecciones sociales de emergencia en Extremadura para mitigar los efectos de la pandemia de COVID-19. Busca garantizar que los colectivos vulnerables no pierdan sus ayudas económicas y asegurar la continuidad de los servicios de atención a la discapacidad. Además, agiliza la financiación de entidades sin ánimo lucro y flexibiliza la contratación de personal sanitario especializado.",
+  "citizen_impact": "Los beneficiarios de la Renta Básica Extremeña de Inserción y la Renta Extremeña Garantizada recibirán sus pagos de forma automática y sin necesidad de trámites complejos durante el estado de alarma. También se flexibilizan los requisitos para solicitar nuevas ayudas sociales para evitar que la movilidad restringida impida el acceso a ellas.",
+  "professional_impact": "Las entidades sin ánimo lucro que gestionan servicios sociales y sanitarios podrán recibir subvenciones de forma más rápida. Las empresas de servicios concertados para personas con discapacidad tendrán un régimen de pagos más ágil para cubrir sus costes operativos. En el sector sanitario, se permite la contratación de médicos extranjeros no comunitarios sin necesidad de poseer la nacionalidad española.",
+  "keywords": [
+    "COVID-19",
+    "Extremadura",
+    "Renta Extremeña Garantizada",
+    "servicios sociales",
+    "discapacidad",
+    "subvenciones",
+    "sanidad"
+  ],
+  "key_points": [
+    "Prórroga automática de la Renta Básica Extremeña de Inserción y la Renta Extremeña Garantizada durante el estado de alarma.",
+    "Exención de cumplir compromisos de inserción laboral mientras dure la emergencia sanitaria.",
+    "Posibilidad de adjudicación directa de conciertos sociales para servicios de discapacidad y estancias hospitalarias hasta fin de 2020.",
+    "Agilización de la tramitación de subvenciones para entidades de atención social y sanitaria.",
+    "Eliminación del requisito de nacionalidad para médicos extranjeros en determinadas especialidades.",
+    "Creación de un sistema de pagos más rápido para entidades que prestan servicios a personas con discapacidad (MADEX)."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020, de 14 de marzo",
+    "Real Decreto 476/2020, de 27 de marzo",
+    "Decreto-ley 1/2020, de 18 de marzo",
+    "Decreto-ley 2/2020, de 25 de marzo",
+    "Decreto-ley 3/2020, de 25 de marzo",
+    "Decreto-ley 4/2020, de 1 de abril",
+    "Ley 5/2019, de 20 de febrero",
+    "Decreto 151/2006, de 31 de julio",
+    "Ley 13/2018, de 26 de diciembre",
+    "Ley 40/2015, de 1 de octubre",
+    "Ley Orgánica 1/2011, de 28 de enero"
+  ],
+  "derogations": [
+    "Disposición adicional tercera del Decreto 151/2006, de 31 de julio"
+  ],
+  "main_obligations": null,
+  "effective_date": "2020-04-22",
+  "procedures": [
+    {
+      "name": "Revisión de prestaciones de renta prorrogadas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Prórroga automática",
+          "description": "Percepción de la prestación de forma automática y de oficio durante el estado de alarma.",
+          "start_date": "Desde el inicio del estado de alarma",
+          "end_date": "Hasta un mes después del levantamiento del estado de alarma",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Revisión de la prestación",
+          "description": "Comprobación de requisitos para confirmar el derecho o solicitar el reintegro de lo cobrado indebidamente.",
+          "start_date": "4 meses después de la finalización del estado de alarma",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

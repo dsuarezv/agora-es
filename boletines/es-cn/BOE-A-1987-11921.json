@@ -1,0 +1,101 @@
+{
+  "identifier": "BOE-A-1987-11921",
+  "title": "Ley 2/1987, de 30 de marzo, de la Función Pública Canaria",
+  "visible_title": "Ley de la Función Pública Canaria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "2/1987",
+  "publication_date": "1987-05-18",
+  "enactment_date": "1987-03-30",
+  "last_updated": "2025-07-01",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/1987/03/30/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo se organiza, accede y gestiona todo el personal que trabaja para la Administración de Canarias. Establece las reglas para funcionarios de carrera, personal laboral y eventual, definiendo sus derechos, sueldos y deberes. Su objetivo es garantizar un sistema de empleo público transparente y estructurado en la región. Con esta norma se asegura que el acceso a puestos públicos sea mediante procesos de selección y se protejan derechos fundamentales de los trabajadores autonómicos.",
+  "citizen_impact": "Para el ciudadano, esto garantiza que los empleados que gestionan los servicios públicos canarios tengan un régimen de estabilidad y formación adecuado. Además, asegura la reserva de plazas para personas con discapacidad y promueve la igualdad de oportunidades en el acceso al empleo público autonómico.",
+  "professional_impact": "Afecta directamente a todos los empleados de la Administración Canaria. Define su carrera administrativa, sus derechos de permiso (nacimiento, enfermedad, asuntos personales), su estructura salarial (incluyendo trienios y pagas extras) y sus obligaciones, como el deber de cumplir órdenes o la prohibición de revelar secretos oficiales. También establece las reglas para la promoción interna y la movilidad mediante comisiones de servicios.",
+  "keywords": [
+    "función pública",
+    "Canarias",
+    "empleo público",
+    "funcionarios",
+    "personal laboral",
+    "promoción interna",
+    "derechos laborales"
+  ],
+  "key_points": [
+    "Reserva del 30% de las plazas de empleo público para la promoción interna de funcionarios.",
+    "Reserva de un mínimo del 2% de la oferta de empleo público para personas con discapacidad.",
+    "Derecho a reducción de jornada (5 a 30 horas semanales) por cuidado de menores o familiares dependientes.",
+    "Permisos por nacimiento o enfermedad de familiares (hasta 2º grado): 2 días si es en la misma localidad o 4 días si es en distinta.",
+    "Posibilidad de disfrutar de 6 días al año de permiso por asuntos personales sin necesidad de justificación.",
+    "Consolidación del grado personal tras 2 años de desempeño continuo o 3 años con interrupciones en el mismo nivel.",
+    "Las comisiones de servicios tienen una duración máxima de 6 meses, prorrogables hasta 18 meses en casos excepcionales.",
+    "El personal laboral administrativo puede acceder a la condición de funcionario mediante pruebas de adaptación hasta un máximo de tres veces.",
+    "Los funcionarios tienen derecho a dos pagas extraordinarias anuales (equivalentes a un mes de sueldo) y al cobro de trienios.",
+    "El personal eventual no tiene derecho a indemnización por cese ni cuenta para la carrera administrativa.",
+    "Los sueldos de los funcionarios del Grupo E no pueden ser inferiores al Salario Mínimo Interprofesional.",
+    "La Administración debe publicar la Oferta de Empleo Público obligatoriamente en el primer trimestre de cada año."
+  ],
+  "legal_references": [
+    "Ley 30/1984, de 2 de agosto",
+    "Estatuto de Autonomía de Canarias",
+    "Ley 4/1984, de 6 de junio",
+    "Ley 40/2015, de 16 de septiembre",
+    "Ley 15/2014, de 16 de septiembre",
+    "Constitución Española",
+    "Ley 30/1984, de 26 de agosto",
+    "Ley 53/1984, de 26 de diciembre, de Incompatibilidades",
+    "III Convenio Colectivo del personal laboral de la Comunidad Autónoma de Canarias",
+    "Ley Territorial 1/1983, de 14 de abril"
+  ],
+  "derogations": [
+    "Artículo 6.2.k de la norma anterior",
+    "Artículo 36.5 de la norma anterior",
+    "Artículo 62.1.d de la norma anterior",
+    "Apartados f) y g) del artículo 9 de la Ley Territorial 1/1983, de 14 de abril"
+  ],
+  "main_obligations": "Los funcionarios deben cumplir las órdenes de servicio, solicitando confirmación por escrito si consideran que son ilegales. La Administración tiene la obligación de publicar la Oferta de Empleo Público durante el primer trimestre de cada año.",
+  "effective_date": "1987-05-19",
+  "procedures": [
+    {
+      "name": "Publicación de la Oferta de Empleo Público",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación anual",
+          "description": "La Administración debe hacer pública la oferta de empleo para el año en curso.",
+          "start_date": "Primer trimestre de cada año",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acceso de personal laboral a la función pública",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Pruebas de adaptación",
+          "description": "Realización de pruebas específicas para aspirar a la condición de funcionario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Límite de intentos",
+          "description": "El proceso de adaptación solo puede realizarse un máximo de tres veces.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

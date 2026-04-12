@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-2012-12814",
+  "title": "Ley 2/2012, de 12 de junio, de Dinamizacón de la Actividad Comercial en la Comunidad de Madrid",
+  "visible_title": "Ley de Dinamización de la Actividad Comercial en la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "2/2012",
+  "publication_date": "2012-10-13",
+  "enactment_date": "2012-06-12",
+  "last_updated": "2012-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2012/06/12/2",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley busca reactivar el comercio y los servicios en Madrid eliminando trabas burocráticas y horarios rígidos. Sustituye las licencias urbanísticas tradicionales por un sistema de declaración responsable para agilizar la apertura de negocios. Además, otorga a los comerciantes la libertad de decidir qué días festivos desean abrir sus establecimientos.",
+  "citizen_impact": "Los ciudadanos se benefician de una mayor oferta comercial y servicios con horarios más flexibles y adaptados a sus necesidades. También mejora la disponibilidad de comercios en días festivos, permitiendo una mayor variedad de opciones de compra.",
+  "professional_impact": "Los autónomos y empresarios del sector comercial y de servicios ven reducida su carga administrativa al no tener que esperar licencias previas, pudiendo operar mediante una declaración responsable. Sin embargo, deben ser extremadamente rigurosos con la veracidad de su documentación para evitar sanciones muy elevadas.",
+  "keywords": [
+    "comercio minorista",
+    "declaración responsable",
+    "libertad de horarios",
+    "actividad comercial",
+    "trámites urbanísticos",
+    "Comunidad de Madrid"
+  ],
+  "key_points": [
+    "Sustitución de licencias urbanísticas por declaración responsable para iniciar actividades y obras.",
+    "Libertad total para que los comerciantes decidan sus días de apertura en festivos.",
+    "Simplificación de trámites para la implantación de actividades sin necesidad de obras.",
+    "Régimen sancionador severo por falsedad en declaraciones o incumplimiento de proyectos técnicos.",
+    "Aplicación de la ley a actividades comerciales, de servicios y de oficinas detalladas en el anexo."
+  ],
+  "legal_references": [
+    "Ley 9/2001, de 17 de julio, del Suelo de la Comunidad de Madrid",
+    "Ley 16/1999, de 29 de abril, de Comercio Interior de la Comunidad de Madrid",
+    "Real Decreto Legislativo 1175/1990",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas",
+    "Ley 5/2002, de 27 de junio, sobre Drogodependencias y otros Trastornos Adictivos"
+  ],
+  "derogations": [
+    "Artículos 18 y 28 de la Ley 16/1999, de 29 de abril, de Comercio Interior de la Comunidad de Madrid",
+    "Apartado 6 del artículo 46 de la Ley 16/1999",
+    "Apartado 3 del artículo 47 de la Ley 16/1999"
+  ],
+  "main_obligations": "Los interesados deben presentar una declaración responsable, un proyecto técnico (si procede) y la liquidación de tasas para iniciar su actividad. El incumplimiento o la falsedad en estos documentos puede acarrear multas de hasta 3.000.000 de euros.",
+  "effective_date": "2012-07-01",
+  "procedures": [
+    {
+      "name": "Inicio de actividad o ejecución de obras mediante declaración responsable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de documentación",
+          "description": "Entrega de declaración responsable, proyecto técnico y pago de tasas ante el Ayuntamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración responsable, proyecto técnico y liquidación de tasa/precio."
+        },
+        {
+          "step": 2,
+          "title": "Verificación y control posterior",
+          "description": "La Administración realiza inspecciones para comprobar que la actividad cumple con la normativa.",
+          "start_date": "Posterior a la presentación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador abreviado (para infracciones de consumo de alcohol)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acta de inspección",
+          "description": "Notificación inmediata del incumplimiento mediante acta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de inspección"
+        },
+        {
+          "step": 2,
+          "title": "Alegaciones",
+          "description": "Plazo para que el interesado presente alegaciones o pruebas.",
+          "start_date": "Desde la notificación",
+          "end_date": "10 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Reconocimiento de responsabilidad",
+          "description": "Si el infractor reconoce la falta, se aplica una reducción del 40% en la multa.",
+          "start_date": "Dentro del plazo de alegaciones",
+          "end_date": "10 días hábiles",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

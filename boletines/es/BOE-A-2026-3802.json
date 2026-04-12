@@ -1,0 +1,72 @@
+{
+  "identifier": "BOE-A-2026-3802",
+  "title": "Resolución de 5 de febrero de 2026, de la Oficina del Censo Electoral, por la que se establecen los procedimientos y se aprueba el modelo de solicitud para la inscripción en el censo electoral de las elecciones al Parlamento Europeo y de las elecciones municipales de los ciudadanos nacionales de otros países de la Unión Europea residentes en España",
+  "visible_title": "Procedimientos e inscripción en el censo electoral para ciudadanos de la Unión Europea residentes en España",
+  "rank": "resolución",
+  "country": "es",
+  "department": "Oficina del Censo Electoral",
+  "official_number": "BOE-A-2026-3802",
+  "publication_date": "2026-02-18",
+  "enactment_date": "2026-02-05",
+  "last_updated": "2026-02-18",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/res/2026/02/05/(3)",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "43",
+  "summary": "Esta norma actualiza la forma en que los ciudadanos de la Unión Europea que viven en España pueden inscribirse para votar en las elecciones municipales y al Parlamento Europeo. Se adapta a una nueva directiva europea que exige datos más precisos (como el lugar de nacimiento) y moderniza el proceso integrando sistemas de identificación electrónica como Cl@ve. El objetivo es facilitar que estos ciudadanos manifiesten su voluntad de votar de forma sencilla, ya sea por correo, internet o presencialmente.",
+  "citizen_impact": "Facilita el ejercicio del derecho al voto para ciudadanos de la UE residentes en España mediante comunicaciones personalizadas. Permite realizar el trámite de forma rápida por internet usando Cl@ve o NIE, o mediante un sobre sin coste postal, evitando desplazamientos innecesarios.",
+  "professional_impact": "Los ayuntamientos deberán gestionar nuevos modelos de solicitud y facilitar la impresión de los mismos. Los funcionarios de la Oficina del Censo Electoral y de las administraciones locales deberán operar con nuevos sistemas de identificación electrónica y modelos de declaración formal actualizados.",
+  "keywords": [
+    "censo electoral",
+    "ciudadanos Unión Europea",
+    "elecciones municipales",
+    "elecciones Parlamento Europeo",
+    "inscripción electoral",
+    "Cl@ve",
+    "derecho al voto"
+  ],
+  "key_points": [
+    "Se implementan comunicaciones personalizadas de la Oficina del Censo Electoral a los ciudadanos de la UE que aún no han manifestado su voluntad de votar.",
+    "La inscripción puede hacerse de tres formas: por correo postal (sin coste de franqueo), de forma telemática (vía Cl@ve o con NIE y clave de tramitación) o presencialmente en el ayuntamiento.",
+    "Se introduce la obligatoriedad de incluir el lugar de nacimiento en la declaración formal para cumplir con la normativa europea.",
+    "Se integra el sistema de identificación electrónica Cl@ve para agilizar el trámite online.",
+    "Los ayuntamientos recibirán los modelos de solicitud en formato digital para su impresión según sea necesario."
+  ],
+  "legal_references": [
+    "Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General",
+    "Real Decreto 147/1999, de 29 de enero",
+    "Real Decreto 157/1996, de 2 de feb",
+    "Directiva (UE) 2025/1788 del Consejo, de 24 de junio de 2025"
+  ],
+  "derogations": [
+    "Resolución de 7 de septiembre de 2010",
+    "Resolución de 12 de abril de 2013"
+  ],
+  "main_obligations": "Los ciudadanos de la UE que deseen votar en España deben realizar una manifestación de voluntad formal mediante los nuevos modelos aprobados. Para el trámite telemático, es necesario acreditar la identidad mediante Cl@ve o mediante el uso del NIE y la clave de tramitación (CTT) proporcionada.",
+  "effective_date": "2026-02-19",
+  "procedures": [
+    {
+      "name": "Inscripción en el censo electoral para ciudadanos de la UE",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recepción de comunicación",
+          "description": "La Oficina del Censo Electoral envía una comunicación personalizada con datos preimpresos y una clave de tramitación (CTT).",
+          "start_date": "Meses previos a la convocatoria de elecciones",
+          "end_date": null,
+          "required_documentation": "Datos personales y de residencia preimpresos"
+        },
+        {
+          "step": 2,
+          "title": "Manifestación de voluntad",
+          "description": "El ciudadano elige entre tres vías: correo postal (sobre sin franquear), telemática (Sede INE con Cl@ve o NIE+CTT) o presencial (Ayuntamiento).",
+          "start_date": "Tras la recepción de la comunicación",
+          "end_date": null,
+          "required_documentation": "Declaración formal (modelo aprobado), NIE o Cl@ve"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

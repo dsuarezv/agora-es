@@ -1,0 +1,83 @@
+{
+  "identifier": "BOE-A-2015-679",
+  "title": "Ley 5/2014, de 30 de diciembre, del Consejo Andaluz de Concertación Local",
+  "visible_title": "Ley del Consejo Andaluz de Concertación Local",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "5/2014",
+  "publication_date": "2015-01-27",
+  "enactment_date": "2014-12-30",
+  "last_updated": "2014-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2014/12/30/5",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": null,
+  "summary": "Esta ley regula el Consejo Andaluz de Concertación Local, un órgano de diálogo entre la Junta de Andalucía y los ayuntamientos y provincias. Su objetivo es garantizar que las decisiones y leyes autonómicas que afecten a los municipios se traten de forma coordinada. Busca evitar conflictos de competencias y fomentar la colaboración institucional para mejorar la gestión de los servicios locales.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta principalmente a gestores públicos, alcaldes y técnicos de la administración local y autonómica. Establece nuevos cauces de consulta obligatoria para que los municipios puedan influir en la creación de leyes y planes que les afecten, mejorando la seguridad jurídica en la gestión de competencias transferidas.",
+  "keywords": [
+    "Concertación Local",
+    "Administración Autonómica",
+    "Gobierno Local",
+    "Andalucía",
+    "Cooperación Institucional",
+    "Competencias Municipales"
+  ],
+  "key_points": [
+    "Creación de un órgano paritario con representación equilibrada entre la Junta de Andalucía y los gobiernos locales.",
+    "Obligatoriedad de consultar al Consejo en la tramitación de leyes y planes que afecten específicamente a las entidades locales.",
+    "El Consejo tiene capacidad para proponer la transferencia o delegación de competencias de la Junta a los municipios.",
+    "Se establece un régimen de toma de decisiones basado en el consenso entre ambas partes.",
+    "El Consejo puede resolver problemas de interpretación sobre la transferencia de competencias.",
+    "Se refuerza la Comisión Permanente para agilizar los trámites de informes y pronunciamientos.",
+    "Los informes del Consejo deben emitirse, por norma general, en un plazo de un mes."
+  ],
+  "legal_references": [
+    "Ley 20/2007, de 17 de diciembre, del Consejo Andaluz de Concertación Local",
+    "Estatuto de Autonomía para Andalucía",
+    "Ley 5/2010, de 11 de junio, de Autoonomía Local de Andalucía",
+    "Ley 9/2007, de 22 de octubre, de la Administración de la Junta de Andalucía",
+    "Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía",
+    "Constitución Española"
+  ],
+  "derogations": [
+    "Ley 20/2007, de 17 de diciembre, del Consejo Andaluz de Concertación Local",
+    "Apartado 2 del artículo 2 del Reglamento de Funcionamiento del Consejo Andaluz de Gobiernos Locales (Decreto 263/2011)"
+  ],
+  "main_obligations": "El Consejo debe emitir informes en un plazo de un mes (ampliable a 15 días más por complejidad). La Junta de Andalucía está obligada a consultar al Consejo en los supuestos previstos por el Estatuto y esta ley.",
+  "effective_date": "2015-01-28",
+  "procedures": [
+    {
+      "name": "Emisión de informes y dictámenes del Consejo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de informe",
+          "description": "El órgano proponente solicita el informe al Consejo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de emisión",
+          "description": "El Consejo debe emitir el dictamen en un plazo máximo de un mes.",
+          "start_date": "Desde la recepción de la solicitud",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ampliación por complejidad",
+          "description": "Posibilidad de ampliar el plazo si la materia es compleja.",
+          "start_date": "Tras el primer mes",
+          "end_date": "15 días adicionales",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

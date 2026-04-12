@@ -1,0 +1,104 @@
+{
+  "identifier": "BOE-A-2015-5489",
+  "title": "Ley 15/2015, de 16 de abril, por la que se ordena el ejercicio de las profesiones del deporte en Extremadura",
+  "visible_title": "Ordenación del ejercicio de las profesiones del deporte en Extremadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "15/2015",
+  "publication_date": "2015-05-19",
+  "enactment_date": "2015-04-16",
+  "last_updated": "2016-12-14",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2015/04/16/15",
+  "official_journal": "Boletín Oficial de Extremadura",
+  "journal_issue": null,
+  "summary": "Esta ley regula y profesionaliza el sector deportivo en Extremadura para evitar el intrusismo y garantizar la seguridad de los usuarios. Define qué titulaciones son necesarias para ejercer como monitor, entrenador, preparador físico, director deportivo o profesor de educación física. Además, establece un marco de derechos para los deportistas y obligaciones de control para la administración regional.",
+  "citizen_impact": "Los ciudadanos que utilicen servicios deportivos en Extremadura ganan seguridad al poder exigir que sus instructores estén cualificados y se identifiquen correctamente. También tienen derecho a recibir información veraz sobre los servicios y a que la publicidad no promueva prácticas perjudiciales para la salud.",
+  "professional_impact": "Los profesionales del deporte deben acreditar su titulación y realizar una comunicación previa ante la Junta de Extremadura para trabajar legalmente. Se les impone la obligación de contratar un seguro de responsabilidad civil y se establecen sanciones económicas por incumplir sus deberes o ejercer sin la cualificación adecuada.",
+  "keywords": [
+    "profesiones del deporte",
+    "Extremadura",
+    "monitor deportivo",
+    "entrenador deportivo",
+    "preparador físico",
+    "intrusismo profesional",
+    "derechos del consumidor deportivo"
+  ],
+  "key_points": [
+    "Reconocimiento de cinco profesiones reguladas: Profesor de Educación Física, Monitor Deportivo, Entrenador Deportivo, Preparador Físico y Director Deportivo.",
+    "Obligatoriedad de realizar una comunicación previa ante la Dirección General de Deportes para ejercer la profesión.",
+    "Exigencia de contar con un seguro de responsabilidad civil para cubrir daños a terceros.",
+    "Obligación de los profesionales de acreditar competencias en asistencia sanitaria inmediata (RCP) en un plazo de 12 meses.",
+    "Derecho de los usuarios a conocer la cualificación profesional de quien les presta el servicio.",
+    "Prohibición de utilizar denominaciones profesionales si no se cuenta con la titulación requerida.",
+    "Creación de un régimen sancionador con multas que pueden alcanzar los 30.000 euros por infracciones muy graves."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Extremadura",
+    "Ley 2/1995, de 6 de abril, del Deporte de Extremadura",
+    "Ley 11/2002, de 12 de diciembre, de Colegios y de Consejo de Colegios Profesionales de Extremadura",
+    "Directiva 2006/123/CE",
+    "Ley 17/2009, de 23 de noviembre",
+    "Ley 25/2009, de 22 de diciembre",
+    "Ley 20/2013, de 9 de diciembre, de garantía de la unidad de mercado",
+    "Ley Orgánica 2/2006, de 3 de mayo, de Educación"
+  ],
+  "derogations": [
+    "Normas de igual o inferior rango que se opongan a la presente ley"
+  ],
+  "main_obligations": "Los profesionales deben poseer la titulación oficial exigida, realizar la comunicación previa ante la Junta de Extremadura y contratar un seguro de responsabilidad civil. Asimismo, deben informar claramente sobre su cualificación y velar por la salud de los usuarios.",
+  "effective_date": "2015-11-19",
+  "procedures": [
+    {
+      "name": "Comunicación previa para el ejercicio profesional",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de comunicación previa",
+          "descrption": "Trámite para informar a la Dirección General de Deportes sobre el inicio de la actividad profesional.",
+          "start_date": "Desde la entrada en vigor de la ley",
+          "end_date": null,
+          "required_documentation": "Datos identificativos y requisitos exigibles para el ejercicio de la profesión"
+        },
+        {
+          "step": 2,
+          "title": "Plazo para profesionales en ejercicio",
+          "descrption": "Los profesionales que ya trabajaban al entrar en vigor la ley deben regularizar su situación.",
+          "start_date": "Desde la entrada en vigor de la ley",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acreditación de competencias en asistencia sanitaria inmediata",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de RCP",
+          "descrption": "Los profesionales cuya formación no incluya asistencia sanitaria inmediata deben acreditar competencias en reanimación.",
+          "start_date": "Desde la entrada en vigor de la ley",
+          "end_date": "12 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Habilitación temporal por experiencia laboral",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración responsable de experiencia",
+          "descrption": "Para quienes no tienen título pero sí experiencia, deben declarar sus años de servicio para solicitar habilitación.",
+          "start_date": "Desde la entrada en vigor de la ley",
+          "end_date": "3 meses",
+          "required_documentation": "Declaración responsable con años y tipo de experiencia profesional"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

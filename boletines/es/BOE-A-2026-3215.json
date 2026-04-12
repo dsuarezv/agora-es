@@ -1,0 +1,148 @@
+{
+  "identifier": "BOE-A-2026-3215",
+  "title": "Real Decreto 90/2026, de 11 de febrero, por el que se regula el procedimiento de financiación selectiva de los productos sanitarios con cargo a la prestación farmacéutica del Sistema Nacional de Salud para pacientes no hospitalizados y se determina los márgenes correspondientes a su distribución y dispensación",
+  "visible_title": "Regulación de la financiación de productos sanitarios para pacientes no hospitalizados y nuevos márgenes de distribución",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de Sanidad",
+  "official_number": "90/2026",
+  "publication_date": "2026-02-12",
+  "enactment_date": "2026-02-11",
+  "last_updated": "2026-02-12",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2026/02/11/90",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "38",
+  "summary": "Esta norma establece un nuevo sistema para que el Sistema Nacional de Salud pague productos sanitarios esenciales (como materiales de cura o sondas) a pacientes que no están ingresados en el hospital. Define cómo las empresas pueden solicitar que sus productos sean financiados, fija precios máximos y regula las ganancias de distribuidores y farmacias. Además, introduce cambios visuales obligatorios en los envases para facilitar la identificación de productos con ayudas especiales. El objetivo es garantizar el suministro y la correcta gestión económica de estos materiales en el ámbito ambulatorio.",
+  "citizen_impact": "Los pacientes que necesiten materiales de cura, protección de lesiones o recogida de excretas podrán recibirlos financiados por el Estado sin estar hospitalizados. El ciudadano verá cambios en el etiquetado de los productos para identificar fácilmente si tiene una aportación reducida (ayuda económica mayor) o si el producto requiere un visado previo para su entrega.",
+  "professional_impact": "Las empresas farmacéuticas y de productos sanitarios deben adaptarse a nuevos procesos de solicitud electrónica, aportación de estudios de impacto y entrega de muestras. Las farmacias y distribuidores deben cumplir con nuevos márgenes económicos y con la obligación de gestionar y entregar un 'cupón precinto' físico junto a la receta, respetando las nuevas marcas gráficas de identificación en el envase.",
+  "keywords": [
+    "productos sanitarios",
+    "financiación selectiva",
+    "Sistema Nacional de Salud",
+    "pacientes no hospitalizados",
+    "cupón precinto",
+    "márgenes de distribución",
+    "dispensación farmacéutica"
+  ],
+  "key_points": [
+    "Financiación de productos para cura, aplicación de medicamentos, recogida de excretas y protección de lesiones para pacientes ambulatorios.",
+    "Obligatoriedad de incluir un 'cupón precinto' físico en el envase para validar la entrega en farmacias.",
+    "Creación de dos niveles de aportación para el usuario: Anejo I (normal) y Anejo II (reducida).",
+    "Identificación visual obligatoria: círculo negro para aportación reducida y recuadro de 1mm para productos con visado previo.",
+    "Las empresas deben garantizar el abastecimiento total una vez que su producto sea financiado.",
+    "Prohibición de publicidad de estos productos dirigida al público general.",
+    "Los productos deben contar obligatoriamente con marcado CE.",
+    "El silencio administrativo ante solicitudes de inclusión de productos se considera desestimatorio (negativo).",
+    "Establecimiento de nuevos márgenes económicos para la distribución y dispensación."
+  ],
+  "legal_references": [
+    "Real Decreto 9/1996",
+    "Ley 25/1990",
+    "Ley 29/2006",
+    "Real Decreto Legislativo 1/2015",
+    "Ley 39/2015",
+    "Real Decreto 177/2014",
+    "Ley 16/2003",
+    "Constitución Española",
+    "Real Decreto 90/2026"
+  ],
+  "derogations": [
+    "Real Decreto 9/1996, de 15 de enero",
+    "Orden SCO/470/2002, de 20 de febrero"
+  ],
+  "main_obligations": "Las empresas deben realizar solicitudes electrónicamente aportando estudios de impacto presupuestario y muestras en 5 días. Las farmacias tienen la obligación de entregar el cupón precinto junto con la receta médica.",
+  "effective_date": "2027-07-01",
+  "procedures": [
+    {
+      "name": "Inclusión de productos sanitarios en la prestación farmacológica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación de la solicitud",
+          "description": "La empresa presenta la solicitud y documentación técnica/económica por vía electrónica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Descripción técnica, propuesta de precio máximo, previsión de ventas, declaración CE, muestras del producto y estudios de calidad/usabilidad."
+        },
+        {
+          "step": 2,
+          "title": "Subsanación de errores",
+          "description": "Si falta documentación, la administración concede un plazo para corregirlo.",
+          "start_date": "Desde la notificación",
+          "end_date": "10 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Evaluación e informe técnico",
+          "description": "La Dirección General elabora un informe sobre innovación, efectividad e impacto presupuestario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Audiencia a la interesada",
+          "description": "Se permite a la empresa alegar y presentar documentos antes de la resolución.",
+          "start_date": null,
+          "end_date": "10 días",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Resolución final",
+          "description": "Dictamen de inclusión o exclusión del producto.",
+          "start_date": null,
+          "end_date": "6 meses desde la entrada en registro",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Exclusión de productos sanitarios (de oficio o solicitud)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "La administración o la empresa inician la retirada de la financiación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Alegaciones",
+          "description": "Plazo para que la empresa presente argumentos contra la exclusión.",
+          "start_date": null,
+          "end_date": "15 días (de oficio) o 10 días (solicitud)",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de exclusión",
+          "description": "Decisión final sobre la exclusión del producto.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Dispensación de productos sanitarios financiados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Identificación del tipo de aportación y visado",
+          "descrption": "Verificación de si el producto requiere aportación reducida o visado previo mediante la inspección de las marcas gráficas en el cupón precinto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Cupón precinto con las marcas reglamentarias"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

@@ -1,0 +1,134 @@
+{
+  "identifier": "BOE-A-1993-1776",
+  "title": "Ley 4/1992, de 30 de julio, de Ordenación y Protección del Territorio de la Región de Murcia",
+  "visible_title": "Ley de Ordenación y Protección del Territorio de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "4/1992",
+  "publication_date": "1993-01-26",
+  "enactment_date": "1992-07-30",
+  "last_updated": "2001-05-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/1992/07/30/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco para organizar y proteger el uso del suelo en la Región de Murcia, integrando lo urbano, lo rural y lo natural. Introduce herramientas de planificación como las directrices de ordenación y los programas de actuación para evitar un crecimiento descontrolado. Además, crea mecanismos de evaluación de impacto ambiental y territorial para prevenir daños en el ecosistema y asegurar un desarrollo económico equilibrado.",
+  "citizen_impact": "Afecta a los ciudadanos mediante la regulación de qué se puede construir o hacer en diferentes zonas (especialmente en entornos rurales y naturales). Establece límites para proteger el paisaje y prevenir riesgos de desastres naturales como inundaciones o sequías.",
+  "professional_impact": "Empresas constructoras, promotores y agricultores deben someter sus proyectos a evaluaciones de impacto ambiental y territorial. Los ayuntamientos deben adaptar sus planes urbanísticos a las directrices regionales, lo que implica una mayor coordinación administrativa y técnica.",
+  "keywords": [
+    "ordenación del territorio",
+    "protección ambiental",
+    "suelo rural",
+    "impacto territorial",
+    "espacios naturales",
+    "planificación regional",
+    "Región de Murcia"
+  ],
+  "key_points": [
+    "Creación de instrumentos de planificación: Directrices, Programas de actuación y Actuaciones de interés regional.",
+    "Obligatoriedad de realizar evaluaciones de impacto ambiental y de impacto territorial para proyectos con incidencia en el territorio.",
+    "Definición y protección del espacio rural como categoría distinta a lo urbano y lo natural.",
+    "Establecimiento del Sistema Territorial de Referencia para la toma de decisiones basada en datos.",
+    "Declaración de espacios naturales protegidos (parques regionales, reservas, monumentos y paisajes).",
+    "Integración de la prevención de riesgos naturales (inundaciones, sequías) en la planificación territorial.",
+    "Obligación de los municipios de adaptar sus planes locales a las directrices regionales."
+  ],
+  "legal_references": [
+    "Ley 4/1989, de 27 de marzo, de conservación de espacios naturales y de la fauna y flora silvestres",
+    "Real Decreto Legislativo 1302/1986",
+    "Real Decreto 1331/1988",
+    "Ley 10/1986, de 19 de diciembre, de la Agencia Regional para el Medio Ambiente y la Naturaleza"
+  ],
+  "derogations": [
+    "Normas que se opongan a la presente Ley"
+  ],
+  "main_obligations": "Los promotores de actividades con incidencia territorial deben realizar estudios de impacto ambiental y territorial. Las administraciones deben cumplir con las directrices de ordenación territorial y adaptar sus planes urbanísticos a las mismas.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Elaboración de Directrices de Ordenación Territorial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "descrption": "El Consejo de Gobierno inicia el proceso y publica el acuerdo en el BORM.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Documento de avance",
+          "descrption": "Se elabora un documento con las líneas principales y objetivos básicos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Información pública (Fase 1)",
+          "descrption": "Se somete el documento de avance a consulta de organismos y ciudadanos.",
+          "start_date": "1 mes tras la publicación",
+          "end_date": "1 mes tras la publicación",
+          "required_documentation": "Observaciones y sugerencias por escrito"
+        },
+        {
+          "step": 4,
+          "title": "Propuesta formal y aprobación inicial",
+          "descrption": "Se redacta la propuesta tras analizar alegaciones y se somete a informes preceptivos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Información pública (Fase 2)",
+          "descrption": "Examen de la propuesta formal por parte de interesados y entidades.",
+          "start_date": "Tras aprobación inicial",
+          "end_date": "2 meses",
+          "required_documentation": "Alegaciones por escrito"
+        },
+        {
+          "step": 6,
+          "title": "Aprobación definitiva",
+          "descrption": "El Consejo de Gobierno aprueba las directrices mediante Decreto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de Actuación de Interés Regional",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud",
+          "descrption": "Persona o entidad presenta escrito justificando la conveniencia de la actuación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Anteproyecto, estudio de impacto, análisis de relación con planeamiento y compromisos del promotor"
+        },
+        {
+          "step": 2,
+          "title": "Informes de organismos afectados",
+          "descrption": "Se remite el expediente a Corporaciones locales y Consejerías para su informe.",
+          "start_date": null,
+          "end_date": "30 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "descrption": "El Consejo de Gobierno resuelve sobre la declaración.",
+          "start_date": null,
+          "end_date": "1 mes tras la resolución de alegaciones",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

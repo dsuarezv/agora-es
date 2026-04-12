@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-2022-12940",
+  "title": "Ley Foral 20/2022, de 1 de julio, para el fomento de un parque de vivienda protegida y asequible en la Comunidad Foral de Navarra",
+  "visible_title": "Ley para el fomento de vivienda protegida y asequible en Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "20/2022",
+  "publication_date": "2022-08-02",
+  "enactment_date": "2022-07-01",
+  "last_updated": "2022-07-14",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2022/07/01/20",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca aumentar la oferta de vivienda protegida y controlar los precios del alquiler en Navarra. Introduce herramientas para identificar zonas con precios excesivos y crea un registro de contratos de arrendamiento para obtener datos reales del mercado. Además, facilita el acceso a la vivienda para jóvenes y personas en entornos rurales mediante ayudas y la ampliación de programas de emancipación.",
+  "citizen_impact": "Los jóvenes tendrán más facilidades para emanciparse (hasta los 35 años) y acceder a ayudas para comprar en zonas rurales. Los inquilinos en zonas tensionadas podrían beneficiarse de límites en el incremento de los precios de alquiler. También se mejora la protección de quienes viven en residencias y quieren ceder su vivienda al alquiler sin perder beneficios.",
+  "professional_impact": "Los propietarios y gestores inmobiliarios deberán inscribir sus contratos en el nuevo Registro de Contratos de Arrendamiento de Navarra. Las empresas de construcción y rehabilitación verán impulsadas sus actividades gracias al nuevo enfoque en la rehabilitación de edificios y la vivienda colaborativa. Los funcionarios de vivienda tendrán nuevas herramientas de diagnóstico y regulación mediante el Índice de Sostenibilidad de Alquileres (ISA).",
+  "keywords": [
+    "vivienda protegida",
+    "alquiler asequible",
+    "zonas tensionadas",
+    "emancipación joven",
+    "Navarra",
+    "registro de contratos",
+    "rehabilitación"
+  ],
+  "key_points": [
+    "Ampliación de la edad del programa de emancipación hasta los 35 años.",
+    "Creación del Índice de Sostenibilidad de Alquileres (ISA) para diagnosticar el mercado.",
+    "Implementación de un Registro de Contratos de Arrendamiento de Vivienda en Navarra.",
+    "Capacidad de la Administración para declarar zonas tensionadas y limitar subidas de alquiler.",
+    "Nuevas ayudas a la compra para jóvenes en entornos rurales.",
+    "Posibilidad de calificación indefinida para la vivienda protegida para asegurar la inversión pública.",
+    "Nuevos mecanismos para fomentar la rehabilitación de viviendas y la vivienda colaborativa.",
+    "Mejora de incentivos fiscales relacionados con la vivienda."
+  ],
+  "legal_references": [
+    "Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda de Navarra",
+    "Decreto Foral Legislativo 1/2017, de 26 de julio (Ordenación del Territorio y Urbanismo)",
+    "Ley Foral 17/2000, de 29 de diciembre (Centros para la Tercera Edad)",
+    "Decreto Foral Legislativo 4/2008, de 2 de junio (IRPF Navarra)"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": "Los propietarios de viviendas de alquiler deberán inscribir sus contratos en el nuevo Registro de Contratos de Arrendamiento una vez que este entre en funcionamiento. Se establece un plazo de tres meses para inscribir contratos vigentes tras la puesta en marcha del registro.",
+  "effective_date": "2022-08-17",
+  "procudeures": [
+    {
+      "name": "Puesta en marcha del Registro de Contratos de Arrendamiento de Vivienda de Navarra",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Lanzamiento del registro",
+          "descrption": "La Administración habilitará el registro mediante resolución oficial.",
+          "start_date": "9 meses desde la entrada en vigor de la ley",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Inscripción de contratos vigentes",
+          "descrption": "Plazo para que los propietarios inscriban sus contratos de alquiler actuales.",
+          "start_date": "Fecha de publicación de la resolución de puesta en marcha",
+          "end_date": "3 meses tras la publicación de la resolución",
+          "required_documentation": "Contratos de arrendamiento vigentes"
+        }
+      ]
+    },
+    {
+      "name": "Aplicación del nuevo baremo de adjudicación de vivienda protegida",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio de procedimientos de adjudicación",
+          "descrption": "Aplicación de las nuevas reglas de baremación para la entrega de viviendas.",
+          "start_date": "2022-12-01",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

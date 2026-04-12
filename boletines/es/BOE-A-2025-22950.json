@@ -1,0 +1,140 @@
+{
+  "identifier": "BOE-A-2025-22950",
+  "title": "Real Decreto 1029/2025, de 12 de noviembre, por el que se aprueba el Reglamento de matriculación de aeronaves civiles y por el que se modifica el Real Decreto 765/2022, de 20 de septiembre, por el que se regula el uso de aeronaves motorizadas ultraligeras (ULM)",
+  "visible_title": "Reglamento de matriculación de aeronaves civiles y modificación de la regulación de aeronaves ultra ligeras (ULM)",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de Transportes y Movilidad Sostenible",
+  "official_number": "1029/2025",
+  "publication_date": "2025-11-13",
+  "enactment_date": "2025-11-12",
+  "last_updated": "2025-11-13",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/11/12/1029",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "273",
+  "summary": "Esta norma moderniza y simplifica el registro de aeronaves civiles en España para hacerlo más competitivo y ágil. Introduce flexibilidad al permitir que aeronaves matriculadas en la UE o países con estándares EASA operen en España sin necesidad de matrícula española bajo ciertas condiciones. Además, eleva el límite de peso para que las aeronaves ultra ligeras (ULM) no requieran matrícula hasta los 120 kg.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes.",
+  "professional_impact": "Afecta directamente a propietarios de aeronaves, operadores aéreos y empresas del sector aeronáutico al reducir costes y trámites burocráticos. Los constructores de aeronaves por aficionados y pilotos de ULM se benefician de la ampliación de límites de peso y de procesos de matrícula de prueba más sencillos.",
+  "keywords": [
+    "matriculación de aeronaves",
+    "aeronaves civiles",
+    "ULM",
+    "ultra ligeras",
+    "registro de aeronaves",
+    "seguridad aérea",
+    "AESA"
+  ],
+  "key_points": [
+    "Se permite operar en España aeronaves con matrícula de la UE o de países con estándares EASA sin necesidad de matricularse en España (bajo límites temporales).",
+    "Las aeronaves ultra ligeras (ULM) ya no requieren matrícula si su masa máxima al despegue es de hasta 120 kg (antes era de 70 kg).",
+    "Se elimina la obligación de inscribir previamente la aeronave en el Registro de Bienes Muebles, agilizando el proceso.",
+    "Se introduce la posibilidad de inscribir autorizaciones internacionales para la cancelación de matrícula y exportación (IDERA).",
+    "Se crean nuevas modalidades de matrícula de prueba para aeronaves de investigación, experimentación o construcción por aficionados.",
+    "Se simplifican los procedimientos de inscripción y anotación en el Registro de Matrícula de Aeronaves Civiles.",
+    "Las aeronaves de construcción por aficionados pueden obtener matrícula de prueba de oficio por la AESA."
+  ],
+  "legal_references": [
+    "Ley 48/1960, de 21 de julio, sobre Navegación Aérea",
+    "Real Decreto 384/2015, de 22 de mayo",
+    "Real Decreto 765/2022, de 20 de septiembre",
+    "Orden TMA/105/2020, de 31 de enero",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Convenio de Chicago de 1944",
+    "Ley 21/2003, de 7 de julio, de Seguridad Aérea"
+  ],
+  "derogations": [
+    "Real Decreto 384/2015, de 22 de mayo, por el que se aprueba el Reglamento de matriculación de aeronaves civiles",
+    "Artículos 13 y 14 de la Orden TMA/105/2020, de 31 de enero"
+  ],
+  "main_obligations": "Los propietarios deben comunicar cambios de titularidad en un plazo de 2 meses (si es obligatorio) o instar la anotación en 6 meses. Las aeronaves deben contar con certificado de matrícula para operar legalmente.",
+  "effective_date": "2025-11-13",
+  "procedures": [
+    {
+      "name": "Reserva de matrícula",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de reserva",
+          "descrption": "Presentación de solicitud con declaración jurada y título jurídico de adquisición.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud, declaración jurada, copia del título jurídico o acuerdo de intención, certificado de baja si es de origen militar."
+        },
+        {
+          "step": 2,
+          "title": "Duración de la reserva",
+          "descrption": "La reserva dura un máximo de un año, prorrogable por 6 meses más.",
+          "start_date": null,
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Matriculación definitiva",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de requisitos",
+          "descrption": "Demostrar aeronavegabilidad, propiedad y ausencia de inscripción en otros registros.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado de tipo o aeronavegabilidad, título de propiedad, certificado de no inscripción o cancelación de matrícula extranjera."
+        },
+        {
+          "step": 2,
+          "title": "Emisión de certificado",
+          "descrption": "Una vez inscrita, se emite el Certificado de Matrícula definitivo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Cambio de titularidad registral",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación del transmitente",
+          "descrption": "El vendedor debe comunicar el cambio a la administración.",
+          "start_date": null,
+          "end_date": "2 meses desde la transmisión",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Instancia del nuevo titular",
+          "descrption": "El comprador debe solicitar la anotación en el registro.",
+          "start_date": null,
+          "end_date": "6 meses desde la transmisión",
+          "required_documentation": "Documentos de identidad, título jurídico, IDERA si procede."
+        }
+      ]
+    },
+    {
+      "name": "Cancelación de la matrícula",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de cancelación (a instancia de parte)",
+          "descrption": "Procedimiento por destrucción, pérdida, venta o matriculación en otro país.",
+          "start_date": null,
+          "end_date": "3 meses para resolución",
+          "required_documentation": "Documento que motive la cancelación (ej. certificado de exportación)."
+        },
+        {
+          "step": 2,
+          "title": "Cancelación de oficio",
+          "descrption": "Procedimiento iniciado por la administración (ej. resolución judicial o falta de revisión de aeronavegabilidad).",
+          "start_date": null,
+          "end_date": "6 meses para resolución",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

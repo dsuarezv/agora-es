@@ -1,0 +1,79 @@
+{
+  "identifier": "BOE-A-2017-5830",
+  "title": "Ley 5/2017, de 8 de mayo, de Cuentas Abiertas para la Administración de La Rioja",
+  "visible_title": "Ley de Cuentas Abiertas para la Administración de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "5/2017",
+  "publication_date": "2017-05-26",
+  "enactment_date": "2017-05-08",
+  "last_updated": "2017-05-12",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2017/05/08/5",
+  "official_journal": "Boletín Oficial de La Rioja",
+  "journal_issue": null,
+  "summary": "Esta ley obliga a las instituciones públicas de La Rioja a hacer públicos los detalles de sus cuentas bancarias y movimientos de dinero. El objetivo es aumentar la transparencia, permitir el control ciudadano sobre el gasto público y prevenir la corrupción. La información debe estar disponible en formatos abiertos y actualizados para que cualquier persona pueda consultar qué, cómo y cuándo gasta el dinero la administración.",
+  "citizen_impact": "Permite a cualquier ciudadano vigilar en qué se gasta el dinero de sus impuestos mediante el Portal de la Transparencia. Esto otorga un mayor control democrático sobre la gestión de los fondos públicos de la región.",
+  "professional_impact": "Los funcionarios y gestores de organismos públicos, empresas públicas y la Universidad deben implementar sistemas de publicación de datos diarios y mensuales. Esto implica una nueva carga de gestión de datos y la obligación de asegurar que la información sea compatible con formatos de datos abiertos y reutilizables.",
+  "keywords": [
+    "transparencia",
+    "cuentas públicas",
+    "La Rioja",
+    "control del gasto",
+    "datos abiertos",
+    "prevención de corrupción"
+  ],
+  "key_points": [
+    "Obligación de publicar datos de cuentas bancarias: titularidad, entidad, saldo y movimientos.",
+    "Los movimientos deben incluir destinatario (anonimizado si es necesario) y concepto del gasto.",
+    "La información debe publicarse en el Portal de la Transparencia de La Rioja en formato de datos abiertos.",
+    "Se exige la actualización diaria de los datos y una revisión mensual de las cuentas.",
+    "Creación de un sistema para conciliar los datos contables con los movimientos bancarios reales.",
+    "Protección de datos: se debe anonimizar información sensible para proteger la intimidad de personas vulnerables."
+  ],
+  "legal_references": [
+    "Ley 3/2014, de 11 de septiembre, de Transparencia y Buen Gobierno de La Rioja",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal",
+    "Real Decreto 3/2010, de 8 de enero, sobre Esquema Nacional de Seguridad",
+    "Real Decreto 4/2010, de 8 de enero, sobre Esquema Nacional de Interoperabilidad",
+    "Real Decreto 1495/2011, de 24 de octubre, sobre reutilización de la información del sector público",
+    "Ley 37/2007, de 16 de junio, sobre reutilización de la información del sector público"
+  ],
+  "derogations": [],
+  "main_obligations": "Las entidades públicas deben publicar los datos básicos de sus cuentas en un plazo de 3 meses y el saldo global en 6 meses. Deben garantizar que la información sea accesible, reutilizable y se actualice diariamente.",
+  "effective_date": "2017-05-27",
+  "procedures": [
+    {
+      "name": "Implementación de la publicación de datos bancarios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación de datos básicos de cuentas",
+          "description": "Publicación de los datos de identificación, titularidad, entidad y número de cuenta.",
+          "start_date": "3 meses desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Publicación del saldo global",
+          "description": "Disponibilidad de la información relativa al saldo global de las cuentas.",
+          "start_date": "6 meses desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Publicación de detalles de movimientos",
+          "description": "Disponibilidad de la información sobre cada movimiento (destinatario, concepto, fecha e importe).",
+          "start_date": "10 meses desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

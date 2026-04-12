@@ -1,0 +1,120 @@
+{
+  "identifier": "BOE-A-2012-1684",
+  "title": "Ley 13/1994, de 30 de junio, por la que se regula la Comisión Arbitral",
+  "visible_title": "Ley de regulación de la Comisión Arbitral",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "13/1994",
+  "publication_date": "2012-02-04",
+  "enactment_date": "1994-06-30",
+  "last_updated": "1994-07-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1994/06/30/13",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el funcionamiento de la Comisión Arbitral en el País Vasco, un órgano diseñado para resolver disputas de competencias entre las instituciones de la Comunidad Autónoma y las de sus territorios históricos. Su objetivo es garantizar el equilibrio institucional y evitar conflictos de poder entre el Gobierno Vasco y las Diputaciones Forales. La norma define la composición paritaria de la Comisión, sus órganos y los procedimientos para resolver tanto cuestiones de competencia como conflictos positivos y negativos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta principalmente a funcionarios de alto nivel, juristas y cargos políticos de la Administración vasca y foral. Establece reglas estrictas de designación, incompatibilidades y procedimientos para la resolución de conflictos institucionales que afectan a la gestión de competencias públicas.",
+  "keywords": [
+    "Comisión Arbitral",
+    "competencias autonómicas",
+    "competencias forales",
+    "conflicto de competencia",
+    "País Vasco",
+    "instituciones públicas"
+  ],
+  "key_points": [
+    "Creación de un órgano paritario para resolver disputas entre el Gobierno Vasco y las Diputaciones Forales.",
+    "La Comisión está presidida por el Presidente del Tribunal Superior de Justicia del País Vasco para garantizar independencia.",
+    "Se distinguen dos tipos de procesos: 'cuestiones de competencia' (control preventivo de leyes/normas) y 'conflictos de competencia' (disputas sobre actos ya realizados).",
+    "Los conflictos positivos ocurren cuando una institución cree que otra está invadiendo su competencia; los negativos, cuando una institución se niega a ejercer una competencia que le corresponde.",
+    "Los miembros de la Comisión tienen un mandato de seis años y deben ser juristas con condición política de vasco.",
+    "Las decisiones de la Comisión sobre conflictos de competencia son definitivas y no admiten recurso alguno."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía del País Vasco",
+    "Ley 27/1983, de 25 de diciembre, de Relaciones entre las Instituciones Comunes de la Comunidad Autónoma y los Órganos Forales de sus territorios históricos"
+  ],
+  "derogatons": [],
+  "main_obligations": "Las instituciones que detecten una invasión de competencias deben realizar un requerimiento previo antes de acudir a la Comisión. En caso de que la Comisión declare que una norma es contraria a las competencias ajenas, el órgano emisor tiene la obligación de retirarla o adaptarla.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Cuestiones de competencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Interposición de la cuestión",
+          "description": "Presentación por escrito de la vulneración competencial respecto a un proyecto de ley o norma foral.",
+          "start_date": "20 días tras la publicación de la iniciativa",
+          "end_date": null,
+          "required_documentation": "Escrito fundado con alegaciones"
+        },
+        {
+          "step": 2,
+          "title": "Admisión a trámite",
+          "description": "La Comisión decide si admite la cuestión en su primera sesión tras recibir el escrito.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Traslado y alegaciones",
+          "description": "Se da traslado al autor del proyecto para que presente sus alegaciones.",
+          "start_date": "Tras la admisión",
+          "end_date": "20 días",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Decisión final",
+          "description": "El Pleno emite su decisión sobre la adecuación de la iniciativa al reparto de competencias.",
+          "start_date": "Tras el último trámite",
+          "end_date": "1 mes (prorrogable por otro mes)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Conflictos positivos de competencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requerimiento previo",
+          "description": "La institución afectada debe requerir formalmente a la otra para que derogue o anule el acto.",
+          "start_date": "20 días tras la publicación/notificación del acto",
+          "end_date": null,
+          "required_documentation": "Escrito motivado"
+        },
+        {
+          "step": 2,
+          "title": "Respuesta al requerimiento",
+          "description": "El órgano requerido debe contestar al requerimiento.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Planteamiento del conflicto",
+          "description": "Si el requerimiento es rechazado, se presenta el conflicto ante la Comisión.",
+          "start_date": "20 días tras el rechazo o fin del plazo de respuesta",
+          "end_date": null,
+          "required_documentation": "Escrito de planteamiento motivado"
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "La Sección Territorial dicta resolución definitiva sobre la titularidad de la competencia.",
+          "start_date": "Tras el último trámite",
+          "end_date": "1 mes (prorrogable por otro mes)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

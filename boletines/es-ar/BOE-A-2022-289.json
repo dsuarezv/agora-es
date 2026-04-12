@@ -1,0 +1,164 @@
+{
+  "identifier": "BOE-A-2022-289",
+  "title": "Ley 8/2021, de 9 de diciembre, de regulación del Impuesto Medioambiental sobre las Aguas Residuales",
+  "visible_title": "Impuesto Medioambiental sobre las Aguas Residuales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "8/2021",
+  "publication_date": "2022-01-07",
+  "enactment_date": "2021-12-09",
+  "last_updated": "2021-12-23",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2021/12/09/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Aragón transforma el antiguo impuesto por contaminación de aguas en un nuevo Impuesto Medioambiental sobre las Aguas Residuales con un enfoque más social y progresivo. La norma busca penalizar el vertido contaminante mientras protege a los colectivos vulnerables mediante una tarifa social y reduce la carga en municipios pequeños. Además, introduce mecanismos para que la Administración pueda recuperar la inversión en infraestructuras de depuración realizadas para contaminadores específicos. El objetivo es transitar hacia un modelo de gestión del agua más sostenible y equitativo.",
+  "citizen_impact": "Los hogares verán cambios en su factura del agua debido a la introducción de tramos de consumo progresivos (pagar más si se consume más). Sin embargo, las familias en situación de vulnerabilidad económica o emergencia social cuentan ahora con una tarifa social para mitigar el impacto. Los residentes en municipios de menos de 20 habitantes sin depuración propia podrían verse beneficiados por la eliminación del impuesto (coeficiente 0,00).",
+  "professional_impact": "Las empresas y sectores industriales deben presentar declaraciones de carga contaminante o someterse a mediciones directas. Las entidades suministradoras de agua adquieren la obligación de reportar datos de consumo periódicamente. Agricultores y ganaderos deben adaptarse a los nuevos requisitos de exención en un plazo de dos años, y los grandes contaminadores podrían enfrentar exacciones anuales para cubrir el coste de obras de depuración realizadas por la Administración.",
+  "keywords": [
+    "impuesto medioambiental",
+    "aguas residuales",
+    "Aragón",
+    "tarifa social",
+    "contaminación de aguas",
+    "gestión del agua"
+  ],
+  "key_points": [
+    "Sustitución del Impuesto sobre la Contaminación de las Aguas por el nuevo Impuesto Medioambiental sobre las Aguas Residuales.",
+    "Implementación de tramos de consumo progresivos para el uso doméstico.",
+    "Creación de una tarifa social para hogares en situación de vulnerabilidad económica o emergencia social.",
+    "Aplicación de coeficientes de reducción para municipios de menos de 20 habitantes sin depuración específica.",
+    "Obligación de las empresas de presentar declaración de carga contaminante o someterse a medición directa.",
+    "Posibilidad de sustituir el impuesto por una exacción anual si la Administración construye infraestructuras para un contaminador concreto.",
+    "Régimen sancionador escalonado por incumplimiento: desde 200€ hasta 10.000€ o 5€ por habitante.",
+    "Los beneficios fiscales por exclusión social tienen fecha límite al 31 de diciembre de 2022.",
+    "Los agricultores y ganaderos exentos no requieren declaración inicial si su uso de agua es exclusivamente para su actividad.",
+    "Las entidades suministradoras pueden ser consultadas para verificar la titularidad de explotaciones ganaderas y aplicar exenciones automáticas."
+  ],
+  "legal_references": [
+    "Ley 10/2014, de 27 de noviembre, de Aguas y Ríos de Aragón",
+    "Ley 2/2014, de 23 de enero, de Medidas Fiscales y Administrativas de la Comunidad Autónoma de Aragón",
+    "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "Ley 9/2016, de 3 de noviembre, de reducción de la pobreza energética de Aragón",
+    "Directiva sobre tratamiento de aguas residuales de 1991",
+    "Decreto 165/2017, de 31 de octubre, del Gobierno de Aragón",
+    "Ley 1/1998, de 16 de febrero, de Revisión administrativa en materia de Tributos propios y otros Recursos de Derecho público de la Comunidad Autónoma de Aragón",
+    "Orden de 3 de agosto de 2015"
+  ],
+  "derogations": [
+    "Capítulo I del título XI de la Ley 10/2014",
+    "Disposiciones adicionales séptima, octava, novena, undécima y duodécima de la Ley 10/2014",
+    "Disposiciones transitorias quinta y sexta de la Ley 10/2014",
+    "Reglamento regulador del Impuesto sobre la Contaminación de las Aguas (Decreto 266/2001), salvo anexos I, II y III"
+  ],
+  "main_obligations": "Las entidades suministradoras deben entregar datos de consumo al órgano gestor con la misma frecuencia que la factura. Los usuarios de captaciones propias tienen un plazo de un mes desde el inicio del uso para presentar su declaración de aprovechamiento.",
+  "effective_date": "2022-01-01",
+  "procedures": [
+    {
+      "name": "Solicitud de Tarifa Social",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "descrption": "El interesado debe solicitar la tarifa aportando documentación de vulnerabilidad y empadronamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "DNI/NIE, Informe de servicios sociales (Ley 9/2016), Certificado de empadronamiento y contrato de alquiler/propiedad."
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "descrption": "El órgano gestor debe resolver la solicitud; si no lo hace en plazo, se entiende desestimada.",
+          "start_date": "Desde la presentación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de Carga Contaminante (Usos no domésticos)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración",
+          "descrption": "Los sujetos pasivos deben presentar la declaración de carga contaminante ante el órgano gestor.",
+          "start_date": "Plazo de 1 mes desde la aplicabilidad del impuesto",
+          "end_date": "1 mes",
+          "required_documentation": "Análisis de aguas realizado por entidad inscrita en el Registro de entidades colaboradoras."
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Rectificación por Consumo Extraordinario (Fugas)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de rectificación",
+          "descrption": "El titular debe solicitar la revisión del consumo derivado de una fuga o avería en el contador.",
+          "start_date": "Dentro de los 2 meses siguientes al fin del periodo de ingreso voluntario",
+          "end_date": "2 meses",
+          "required_documentation": "DNI/NIE, acreditación de la fuga y factura de la reparación de la avería."
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Se inicia por gestión o inspección tributaria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "El órgano competente resuelve según la naturaleza del inicio (gestión o inspección).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reconocimiento de exenciones (Ganadería y Regadío)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Revisión de exenciones antiguas",
+          "description": "La Administración revisa de oficio las exenciones de la Ley 10/2014 para adecuarlas a la nueva ley.",
+          "start_date": "2022-01-01",
+          "end_date": "2 años desde la entrada en vigor",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de nueva exención",
+          "description": "Los titulares deben solicitar la exención bajo los nuevos requisitos para mantener el beneficio tras el periodo de transición.",
+          "start_date": null,
+          "end_date": "2 años desde la entrada en vigor",
+          "required_documentation": "Modelos que regulará la Administración"
+        }
+      ]
+    },
+    {
+      "name": "Determinación de base imponible y tarifas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Resolución del procedimiento",
+          "description": "Plazo máximo para resolver la determinación de la base y las tarifas.",
+          "start_date": null,
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

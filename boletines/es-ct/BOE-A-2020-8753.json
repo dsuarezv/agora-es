@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-2020-8753",
+  "title": "Decreto-ley 23/2020, de 9 de junio, de medidas urgentes en materia tributaria",
+  "visible_title": "Medidas urgentes en materia tributaria",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "23/2020",
+  "publication_date": "2020-07-30",
+  "enactment_date": "2020-06-09",
+  "last_updated": "2020-06-11",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2020/06/09/23",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta norma establece medidas fiscales de emergencia para mitigar los efectos económicos de la pandemia de COVID-19 en Cataluña. Aplaza subidas de impuestos turísticos, redefine los plazos de presentación de diversas autoliquidaciones suspendidas y ofrece bonificaciones en tasas de juegos de azar. Además, flexibiliza la publicación de la lista de deudores tributarios y ajusta trámites para pequeñas empresas y autónomos.",
+  "citizen_impact": "Los ciudadanos ven aplazada la subida de impuestos en alojamientos turísticos hasta 2021. También se establecen nuevos calendarios para pagar impuestos como sucesiones, donaciones o transmisiones patrimoniales, evitando sanciones por los retrasos causados por la pandemia.",
+  "professional_impact": "Las empresas y autónomos se benefician de bonificaciones en la tasa de máquinas recreativas y de azar (100% en el 2º trimestre de 2020). Se clarifican los plazos para presentar autoliquidaciones de diversos impuestos y se modifica el procedimiento para solicitar el aplazamiento del canon del agua.",
+  "keywords": [
+    "tributación",
+    "COVID-19",
+    "Cataluña",
+    "aplazamiento de impuestos",
+    "bonificaciones fiscales",
+    "autoliquidaciones",
+    "canon del agua"
+  ],
+  "key_points": [
+    "Aplazamiento de la subida de tarifas del impuesto sobre estancias en establecimientos turísticos hasta el 1 de enero de 2021.",
+    "Establecimiento de nuevos plazos de presentación e ingreso para impuestos suspendidos (viviendas vacías, protección civil, emisiones industriales, etc.).",
+    "Bonificación del 100% en la tasa de máquinas recreativas y de azar para el segundo trimestre de 2020.",
+    "Bonificación del 10% en la misma tasa para el tercer trimestre de 2020.",
+    "Ampliación del plazo para publicar la lista de deudores tributarios hasta el 21 de septiembre de 2020.",
+    "Clarificación de que la presentación de la autoliquidación del impuesto sobre instalaciones medioambientales es telemática, pero no necesariamente el ingreso inmediato.",
+    "Modificación del procedimiento de solicitud de aplazamiento del canon del agua para autónomos y pequeñas empresas."
+  ],
+  "legal_references": [
+    "Ley 5/2020, de 29 de abril",
+    "Decreto-ley 7/2020, de 17 de marzo",
+    "Decreto-ley 11/2020, de 7 de abril",
+    "Ley 5/2017, de 28 de marzo",
+    "Ley 5/2017, de 28 de marzo",
+    "Real Decreto-ley 19/2020, de 26 de mayo",
+    "Orden VEH/176/2019"
+  ],
+  "derogations": [],
+  "main_obligations": "Los contribuyentes deben cumplir con los nuevos plazos de presentación e ingreso de autoliquidaciones detallados en el artículo 2, que varían según el impuesto (ej. sucesiones, transmisiones patrimoniales, etc.).",
+  "effective_date": "2020-06-09",
+  "procedures": [
+    {
+      "name": "Calendario de autoliquidaciones y pagos tributarios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Impuesto sobre viviendas vacías (2019)",
+          "descrption": "Plazo final para la presentación e ingreso.",
+          "start_date": "2020-07-01",
+          "end_date": "2020-07-07",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Gravamen de protección civil (2019)",
+          "descrption": "Plazo final para la presentación e ingreso.",
+          "start_date": "2020-07-01",
+          "end_date": "2020-07-18",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Impuesto sobre emisiones industriales (2019)",
+          "descrption": "Periodo de presentación e ingreso.",
+          "start_date": "2020-07-01",
+          "end_date": "2020-07-20",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Impuesto sobre activos no productivos (2020)",
+          "descrption": "Periodo de presentación e ingreso.",
+          "start_date": "2020-07-01",
+          "end_date": "2020-07-31",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Impuesto sobre sucesiones y donaciones",
+          "descrption": "Plazos según modalidad y fecha de devengo.",
+          "start_date": "2020-07-01",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Tributo sobre máquinas recreativas (2º Trimestre 2020)",
+          "descrption": "Plazo para la autoliquidación del segundo trimestre.",
+          "start_date": "2020-09-01",
+          "end_date": "2020-09-20",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

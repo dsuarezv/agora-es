@@ -1,0 +1,82 @@
+{
+  "identifier": "BOE-A-2006-13098",
+  "title": "Ley Foral 7/2006, de 20 de junio, de Defensa de los Consumidores y Usuarios",
+  "visible_title": "Ley de Defensa de los Consumidores y Usuarios de Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "7/2006",
+  "publication_date": "2006-07-20",
+  "enactment_date": "2006-06-20",
+  "last_updated": "2022-12-22",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2006/06/20/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece el marco jurídico para proteger los derechos de los consumidores en Navarra, garantizando su salud, seguridad e intereses económicos. Regula la actuación de la administración mediante inspecciones, medidas cautelares y un régimen sancionador para combatir el fraude y la publicidad engañosa. Además, fomenta la educación del consumidor y la resolución extrajudicial de conflictos mediante el arbitraje y la mediación.",
+  "citizen_impact": "Garantiza derechos fundamentales como recibir presupuestos por escrito, facturas desglosadas y protección contra la discriminación en establecimientos. Ofrece mecanismos para reclamar ante abusos comerciales y asegura que los productos en el mercado cumplan estándares de seguridad.",
+  "professional_impact": "Obliga a las empresas y profesionales a actuar con diligencia, informar claramente sobre riesgos y precios, y facilitar las labores de inspección. Introduce sanciones económicas severas (hasta 600.000 €) y medidas como el cierre temporal de negocios ante infracciones muy graves.",
+  "keywords": [
+    "consumidor",
+    "derechos del consumidor",
+    "Navarra",
+    "protección al consumidor",
+    "inspección de consumo",
+    "sanciones",
+    "arbitraje de consumo"
+  ],
+  "key_points": [
+    "Derecho a recibir presupuestos previos por escrito cuando el precio no sea visible.",
+    "Obligación de entregar siempre factura o ticket desglosado en las transacciones.",
+    "Protección especial para colectivos vulnerables como menores, ancianos o personas con discapacidad.",
+    "Facultad de la administración para retirar productos del mercado o cerrar locales si hay riesgo para la salud.",
+    "Prohibición de discriminación en el acceso a establecimientos y la compra de bienes.",
+    "Creación del Consejo Navarro de Consumo para la participación de asociaciones.",
+    "Régimen de sanciones que incluye multas de hasta 600.000 euros y la inhabilitación para contratar con la Administración."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios",
+    "Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra",
+    "Ley Foral 15/2004, de 3 de diciembre, de la Administración de la Comunidad Foral de Navarra",
+    "Ley Foral 34/2022, de 12 de diciembre"
+  ],
+  "derogations": [
+    "Normas anteriores de igual o inferior rango que se opongan a esta Ley Foral"
+  ],
+  "main_obligations": "Las empresas deben informar de forma clara sobre precios, riesgos y condiciones contractuales, además de facilitar la documentación de ventas y permitir el acceso de los inspectores. Se prohíbe el uso de técnicas de venta agresivas y la inclusión de cláusulas abusivas.",
+  "effective_date": "2006-07-10",
+  "procedures": [
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inspección y detección",
+          "description": "Actuación de los inspectores para verificar el cumplimiento de la norma o toma de muestras.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de inspección"
+        },
+        {
+          "step": 2,
+          "title": "Audiencia al interesado",
+          "description": "Plazo para que el presunto infractor presente alegaciones tras una medida cautelar.",
+          "start_date": null,
+          "end_date": "5 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Dictado de la resolución por la autoridad competente.",
+          "start_date": null,
+          "end_date": "10 días hábiles tras la audiencia",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

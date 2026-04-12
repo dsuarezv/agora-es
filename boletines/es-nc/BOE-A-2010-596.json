@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-2010-596",
+  "title": "Ley Foral 15/2009, de 9 de diciembre, de medidas de simplificación administrativa para la puesta en marcha de actividades empresariales o profesionales",
+  "visible_title": "Medidas de simplificación administrativa para la puesta en marcha de actividades empresariales o profesionales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "15/2009",
+  "publication_date": "2010-01-15",
+  "enactment_date": "2009-12-09",
+  "last_updated": "2009-12-18",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2009/12/09/15",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca eliminar la burocracia excesiva en Navarra para facilitar la creación de empresas y el inicio de actividades profesionales. Introduce mecanismos para que los negocios empiecen a operar de forma inmediata mediante declaraciones responsables, pasando de un modelo de control previo a uno de control posterior. Además, crea una oficina única de atención y digitaliza la mayoría de los trámites para agilizar la relación con la Administración.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo que sean emprendedores o dueños de negocios que busquen abrir un establecimiento.",
+  "professional_impact": "Empresarios y autónomos se benefician de una tramitación mucho más rápida y digitalizada, pudiendo iniciar actividades sin esperar licencias previas en ciertos casos. Los colegios profesionales asumen nuevas funciones de validación técnica (visados) para agilizar los expedientes, y los funcionarios deben revisar y simplificar sus propios procedimientos.",
+  "keywords": [
+    "simplificación administrativa",
+    "emprendimiento",
+    "Navarra",
+    "declaración responsable",
+    "administración electrónica",
+    "actividad económica",
+    "licencias"
+  ],
+  "key_points": [
+    "Creación de la 'Declaración Responsable' para iniciar actividades de inmediato bajo responsabilidad del interesado.",
+    "Implementación de la 'Comunicación Previa' como alternativa al control administrativo previo.",
+    "Establecimiento de la 'Oficina de Tramitación de Actividades Económicas' para ofrecer asesoramiento y gestión centralizada.",
+    "Posibilidad de declarar proyectos como 'Inversiones de Interés Foral' para reducir los plazos administrativos a la mitad.",
+    "Obligatoriedad de realizar estudios de carga administrativa antes de aprobar nuevas leyes o reglamentos.",
+    "Digitalización de la presentación de proyectos técnicos y visados a través de repositorios telemáticos.",
+    "Introducción de las 'Licencias Condicionadas' para evitar denegaciones por defectos menores subsanables.",
+    "Creación de un Portal de servicios específico para empresas y profesionales."
+  ],
+  "legal_references": [
+    "Ley Foral 15/2004, de 3 de diciembre, de la Administración de la Comunidad Foral de Navarra",
+    "Ley Foral 11/2007, de 4 de abril, para la implantación de la Administración Electrónica de la Comunidad Foral de Navarra",
+    "Ley Foral 4/2005, de 22 de marzo, de intervención para la protección ambiental"
+  ],
+  "derogations": [
+    "Todas las disposiciones de igual o inferior rango que se opongan a esta Ley Foral"
+  ],
+  "main_obligations": "Los promotores de actividades que utilicen la declaración responsable deben garantizar que cumplen toda la normativa y mantener dicho cumplimiento. La falsedad en los datos conlleva la nulidad de la actividad y posibles sanciones penales o administrativas.",
+  "effective_date": "2010-01-16",
+  "procedures": [
+    {
+      "name": "Puesta en marcha de actividad mediante Declaración Responsable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración",
+          "description": "Suscripción del documento donde se declara cumplir todos los requisitos y se aporta la documentación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el cumplimiento de la normativa vigente."
+        },
+        {
+          "step": 2,
+          "title": "Inicio de la actividad",
+          "description": "La actividad puede comenzar inmediatamente tras la presentación, quedando sujeta a control posterior.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Verificación administrativa",
+          "description": "La Administración comprueba la veracidad de los datos y el cumplimiento de requisitos en cualquier momento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de Inversiones de Interés Foral",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración de interés",
+          "description": "El Gobierno de Navarra acuerda la relevancia del proyecto para el desarrollo económico o social.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Tramitación preferente",
+          "description": "Se aplica un impulso urgente y se reducen los plazos de todos los trámites administrativos a la mitad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-2025-4912",
+  "title": "Ley 4/2024, de 26 de julio, por la que se adoptan medidas urgentes en materia de vivienda protegida para la recuperación económica y social de la isla de La Palma tras la erupción volcánica de Cumbre Vieja",
+  "visible_title": "Medidas urgentes de vivienda protegida para la recuperación de La Palma",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "4/2024",
+  "publication_date": "2025-03-13",
+  "enactment_date": "2024-07-26",
+  "last_updated": "2025-04-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2024/07/26/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley acelera la construcción de viviendas protegidas en La Palma para ayudar a las personas que perdieron su hogar por la erupción volcánica. Establece terrenos específicos, simplifica los trámites administrativos y permite que los afectados tengan prioridad para acceder a estas nuevas viviendas. El objetivo es evitar el despoblamiento de zonas como el Valle de Ariadne y dar una solución permanente a quienes viven en alojamientos temporales.",
+  "citizen_impact": "Las personas que perdieron su vivienda por la lava tienen prioridad para adquirir nuevas viviendas protegidas en régimen de propiedad, a cambio de entregar la parcela que tenían en la zona afectada. Además, se agilizan los procesos para que las familias dejen de vivir en casas modulares o contenedores y pasen a hogares estables.",
+  "professional_impact": "Las constructoras y promotoras se benefician de la posibilidad de contratar proyectos y obras de forma conjunta para reducir tiempos. Los ayuntamientos y la administración autonómica deben agilizar la cesión de suelos y los trámites, ya que se han reducido los plazos administrativos a la mitad y se han eliminado controles municipales previos.",
+  "keywords": [
+    "vivienda protegida",
+    "La Palma",
+    "erupción volcánica",
+    "reconstrucción",
+    "Valle de Ariadne",
+    "recuperación económica",
+    "suelo urbano"
+  ],
+  "key_points": [
+    "Prioridad de acceso para propietarios de viviendas destruidas por la lava en El Paso, Los Llanos de Ariadne y Tazacorte.",
+    "Las viviendas para afectados se adjudican en régimen de propiedad, condicionada a la entrega de la parcela afectada a la Administración.",
+    "Los terrenos destinados a estas viviendas pasan automáticamente a ser suelo urbano consolidado.",
+    "Reducción de todos los plazos administrativos de informes y resoluciones a la mitad.",
+    "Posibilidad de contratar el proyecto y la obra de forma conjunta para ganar rapidez.",
+    "Exclusión de la evaluación de impacto ambiental para estas actuaciones por su carácter urgente.",
+    "Se permite la adquisición directa de suelos y edificios para agilizar la construcción.",
+    "Se autoriza construir con mayor altura de la permitida por el planeamiento actual en ciertos casos."
+  ],
+  "legal_references": [
+    "Decreto ley 9/2023",
+    "Ley 2/2024",
+    "Decreto ley 1/2022",
+    "Ley 6/2006",
+    "Decreto ley 1/2024",
+    "Ley 2/2003",
+    "Decreto ley 24/2020",
+    "Ley de evaluación ambiental"
+  ],
+  "derogations": [
+    "Decreto ley 2/2024, de 11 de marzo"
+  ],
+  "main_obligations": "Los beneficiarios que reciban una vivienda en propiedad deben transmitir la parcela situada en la zona de la colada a la Administración en un plazo máximo de 30 días tras la notificación de la adjudicación.",
+  "effective_date": "2024-07-26",
+  "procedures": [
+    {
+      "name": "Adjudicación de viviendas protegidas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Verificación de requisitos",
+          "description": "Comprobación de la condición de afectado por la lava o inscripción en el Registro de Demandantes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la propiedad o afectación de la vivienda previa a la erupción."
+        },
+        {
+          "step": 2,
+          "title": "Cálculo de renta",
+          "description": "Verificación de que los ingresos familiares no superan 2,5 veces el IPREM.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Adjudicación y transmisión de suelo",
+          "description": "Entrega de la vivienda y obligación de entregar la parcela afectada en 30 días.",
+          "start_date": null,
+          "end_date": "30 días tras la notificación",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,111 @@
+{
+  "identifier": "DOGV-r-2025-90002",
+  "title": "Decreto-ley 20/2024, de 30 de diciembre, del Consell, de medidas urbanísticas urgentes para favorecer las tareas de reconstrucción tras los daños producidos por la DANA",
+  "visible_title": "Medidas urbanísticas urgentes para la reconstrucción tras la DANA",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "20/2024",
+  "publication_date": "2025-01-02",
+  "enactment_date": "2024-12-30",
+  "last_updated": "2025-12-29",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=DOGV-r-2025-90002",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta norma establece un marco urbanístico excepcional para acelerar la reconstrucción de viviendas, polígonos industriales y servicios básicos en los municipios de la Comunidad Valenciana afectados por la DANA. Introduce herramientas de planificación rápida, como los Planes Especiales de Reconstrucción, y permite usos provisionales de suelo para mitigar daños. Su objetivo es evitar que la rigidez de la normativa urbanística ordinaria bloquee la recuperación de las zonas catastróficas.",
+  "citizen_impact": "Facilita que las personas que perdieron su vivienda puedan reconstruirla o repararla con menos trabas burocráticas, permitiendo incluso obras estructurales en edificios que estaban 'fuera de ordenación'. También agiliza la creación de nuevas viviendas mediante el uso de suelos municipales destinados a equipamientos.",
+  "professional_impact": "Arquitectos, constructores y promotores cuentan con procedimientos de 'declaración responsable' para agilizar obras de reconstrucción. Los ayuntamientos disponen de mecanismos para modificar su planeamiento de forma preferente y urgente, aunque deben compensar el uso de suelos de equipamiento para vivienda en un plazo de 3 años.",
+  "keywords": [
+    "urbanismo",
+    "reconstrucción",
+    "DANA",
+    "Comunitat Valenciana",
+    "vivienda",
+    "planes especiales",
+    "suelo inundable"
+  ],
+  "key_points": [
+    "Creación de Planes Especiales Urbanísticos de Reconstrucción de tramitación y aprobación autonómica para agilizar la obtención de suelo.",
+    "Introducción de los Proyectos de Reconstrucción Local (PRL) para convertir suelos de equipamiento municipal en viviendas residenciales.",
+    "Permiso para realizar reparaciones y reconstrucciones estructurales en edificios legalmente implantados aunque estén en situación de 'fuera de ordenación'.",
+    "Uso de la declaración responsable para agilizar la ejecución de obras de reconstrucción y de nueva planta.",
+    "Compatibilidad automática de usos para actuaciones de la Administración Pública en suelo no urbanizable destinadas a paliar daños.",
+    "Suspensión de procedimientos urbanísticos en suelos identificados como inundables hasta que se definan las obras hidráulicas necesarias.",
+    "Reducción de plazos de tramitación para modificaciones de planeamiento municipal en suelos urbanizados."
+  ],
+  "legal_references": [
+    "Real Decreto-ley 7/2024, de 11 de noviembre",
+    "Real Decreto-ley 6/2024, de 5 de noviembre",
+    "Texto Refundido de la Ley de Ordenación del Territorio, Urbanismo y Paisaje (TRLOTUP)",
+    "Decreto 201/2015 (PATRICOVA)",
+    "Constitución Española, artículo 86"
+  ],
+  "derogations": [
+    "Decreto-ley 20/2024 (derogado por el Decreto-ley 14/2025)"
+  ],
+  "main_obligations": "Los ayuntamientos que utilicen suelos de equipamiento para construir viviendas mediante PRL tienen la obligación de promover modificaciones de planeamiento para recuperar ese suelo de dotaciones en un plazo máximo de 3 años.",
+  "effective_date": "2024-12-30",
+  "procedures": [
+    {
+      "name": "Plan Especial Urbanístico de Reconstrucción",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación del expediente",
+          "descrption": "Procedimiento con carácter preferente y urgente en todos los departamentos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria informativa, planos, normas urbanísticas y documentación ambiental."
+        },
+        {
+          "step": 2,
+          "title": "Evaluación ambiental (Consulta)",
+          "descrption": "Trámite de consultas para la evaluación ambiental.",
+          "start_date": null,
+          "end_date": "20 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Emisión de informe ambiental",
+          "descrption": "Plazo para la emisión del documento de alcance o informe estratégico.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Declaración ambiental estratégica",
+          "descrption": "Plazo máximo para la formulación de la declaración en procedimiento ordinario.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Informes sectoriales",
+          "descrption": "Emisión de informes por parte de administraciones autonómicas y locales.",
+          "start_date": null,
+          "end_date": "10 días hábiles",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Proyecto de Reconstrucción Local (PRL)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de Pleno",
+          "descrption": "Aprobación mediante acuerdo de Pleno adoptado por mayoría absoluta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

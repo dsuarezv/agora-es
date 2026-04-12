@@ -1,0 +1,84 @@
+{
+  "identifier": "BOE-A-2008-3180",
+  "title": "Ley 23/2007, de 18 de diciembre, por la que se crea la Agencia Tributaria de Andalucía y se aprueban medidas fiscales",
+  "visible_title": "Creación de la Agencia Tributaria de Andalucía y medidas fiscales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "23/2007",
+  "publication_date": "2008-02-21",
+  "enactment_date": "2007-12-18",
+  "last_updated": "2017-12-15",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2007/12/18/23",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea la Agencia Tributaria de Andalucía como un organismo de régimen especial con autonomía de gestión para profesionalizar la recaudación y la inspección de impuestos en la región. Su objetivo es mejorar la eficiencia en la obtención de recursos, combatir el fraude fiscal y ofrecer un servicio de asistencia de mayor calidad al contribuyente. Además, introduce nuevas tasas para el control sanitario de establecimientos alimentarios y crea la Oficina para la Defensa del Contribuyente.",
+  "citizen_impact": "Los ciudadanos cuentan con una nueva 'Oficina para la Defensa del Contribuyente' para asegurar que se respeten sus derechos frente a la administración fiscal. También se establece una nueva tasa para el control sanitario en mataderos y establecimientos de transformación de caza, lo que podría repercutir en los costes de estos sectores.",
+  "professional_impact": "Los profesionales del sector alimentario (mataderos, salas de despiece, establecimientos lácteos) deberán abonar nuevas tasas por las inspecciones sanitarias oficiales. Los funcionarios de la administración andaluza verán modificada su estructura organizativa y se crean nuevas especialidades técnicas en materia tributaria.",
+  "keywords": [
+    "Agencia Tributaria de Andalucía",
+    "gestión tributaria",
+    "recaudación",
+    "inspección fiscal",
+    "fraude fiscal",
+    "tasas sanitarias",
+    "derechos del contribuyente"
+  ],
+  "key_points": [
+    "Creación de la Agencia Tributaria de Andalucía con personalidad jurídica y patrimonio propios.",
+    "Establecimiento de un modelo de gestión basado en objetivos y responsabilidad por resultados.",
+    "Creación de la Oficina para la Defensa del Contribuyente para proteger los derechos ciudadanos.",
+    "Introducción de una tasa por actividades de control e inspección sanitaria en mataderos y establecimientos alimentarios.",
+    "Capacidad de la Agencia para gestionar tributos propios y tributos estatales cedidos a Andalucía.",
+    "Creación de nuevas especialidades de personal funcionario para la gestión tributaria.",
+    "Posibilidad de colaboración con administraciones locales para la gestión de sus tributos."
+  ],
+  "legal_references": [
+    "Ley Orgánica 2/2007, de 19 de marzo, de reforma del Estatuto de Autonomía para Andalucía",
+    "Ley 28/2006, de 18 de julio, de Agencias estatales para la mejora de los servicios públicos",
+    "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "Ley 7/2007, de 12 de abril, del Estatuto Básico del Empleado Público",
+    "Ley 5/1983, de 19 de julio, General de la Hacienda Pública de la Comunidad Autónoma de Andalucía",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a la presente Ley",
+    "Artículos 48 a 54 de la Ley 8/1997, de 23 de diciembre"
+  ],
+  "main_obligations": "Los operadores de mataderos, salas de despiece y establecimientos lácteos están obligados al pago de la tasa por inspección sanitaria según las tarifas establecidas. El personal de la Agencia tiene la obligación de estricto sigilo respecto a los datos y asuntos que conozca.",
+  "effective_date": "2007-12-19",
+  "procedures": [
+    {
+      "name": "Liquidación de la tasa por inspección sanitaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Realización de la inspección",
+          "description": "Ejecución de los controles sanitarios por parte de los facultativos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Liquidación mensual",
+          "description": "Los órganos gestores del Servicio Andaluz de Salud proceden a la liquidación mensual de la tasa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Impreso de liquidación en modelo oficial"
+        },
+        {
+          "step": 3,
+          "title": "Pago de la tasa",
+          "description": "El sujeto pasivo debe realizar el ingreso a través de entidades colaboradoras o vía telemática.",
+          "start_date": null,
+          "end_date": "Según términos de la Ley 5/1983",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

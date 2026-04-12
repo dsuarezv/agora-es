@@ -1,0 +1,198 @@
+{
+  "identifier": "BOE-A-2020-5250",
+  "title": "Decreto-ley 8/2020, de 24 de abril, por el que se adoptan medidas urgentes y extraordinarias para el mantenimiento y recuperación del empleo frente a la crisis ocasionada por el COVID-19",
+  "visible_title": "Medidas urgentes para el mantenimiento y recuperación del empleo frente a la crisis del COVID-19",
+  "rank": "real_decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "8/2020",
+  "publication_date": "2020-05-23",
+  "enactment_date": "2020-04-24",
+  "last_updated": "2020-06-02",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/dl/2020/04/24/8",
+  "official_journal": "Boletín Oficial de Extremadura",
+  "journal_issue": null,
+  "summary": "Esta norma despliega un paquete de ayudas económicas directas en Extremadura para frenar el impacto del COVID-19 en el mercado laboral. Su objetivo es evitar despidos mediante subvenciones a empresas con ERTE, apoyar la supervivencia de autónomos y microempresas con ingresos caídos, y fomentar la contratación de desempleados. Además, ofrece líneas de crédito para el sector turístico y fondos específicos para la gestión agraria y la economía social. En esencia, busca inyectar liquidez inmediata para mantener la actividad económica y los puestos de trabajo.",
+  "citizen_impact": "Los trabajadores pueden beneficiarse de complementos salariales si su prestación por ERTE es inferior al SMI. Los autónomos y desempleados tienen acceso a subvenciones directas para mantener su actividad o iniciar nuevos proyectos, aunque deben cumplir estrictos periodos de permanencia en el sistema para no tener que devolver el dinero.",
+  "professional_impact": "Las empresas y autónomos deben gestionar nuevas líneas de subvención con plazos estrictos (como solicitar ayudas de contratación en 2 meses). Se imponen obligaciones de mantenimiento de plantilla (de 3 a 24 meses según el caso) y de justificación de gastos exclusivamente mediante transferencia bancaria, prohibiéndose el uso de efectivo.",
+  "keywords": [
+    "ayudas empleo",
+    "ERTE",
+    "autónomos",
+    "subvenciones Extremadura",
+    "contratación desempleados",
+    "economía social",
+    "crisis COVID-19"
+  ],
+  "key_points": [
+    "Ayudas directas de 800€ para autónomos con cese de actividad o reducción drástica de ingresos.",
+    "Subvención de 950€ por trabajador asalariado en microempresas/autónomos con ERTE (máximo 4.500€ por beneficiario).",
+    "Ayuda de 7.500€ para autónomos que se reincorporen al RETA tras el estado de alarma.",
+    "Subvención de 1.254€ mensuales por 6 meses para nuevas contrataciones de desempleados con contrato temporal de jornada completa.",
+    "Complemento salarial para trabajadores en ERTE cuya prestación sea inferior al SMI.",
+    "Ayudas a la economía social de hasta 10.000€ por nueva contratación y 5.000€ por mantenimiento.",
+    "Préstamos turísticos de entre 3.000€ y 20.000€ con intereses totalmente subsidiados.",
+    "Fondos para comunidades de regantes para personal, equipos TIC y mejora de inmuebles (hasta 240.000€).",
+    "Flexibilización de ayudas LEADER: los ERTE no computarán como incumplimiento de mantenimiento de plantilla.",
+    "Uso del correo electrónico como medio oficial para trámites de suspensión de contratos y reducción de jornada."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020",
+    "Real Decreto-ley 7/2020",
+    "Real Decreto-ley 8/2020",
+    "Real Decreto-ley 9/2020",
+    "Real Decreto-ley 10/2020",
+    "Real Decreto-ley 11/2020",
+    "Real Decreto-ley 13/2020",
+    "Real Decreto-ley 15/2020",
+    "Decreto-ley 3/2020 (Extremadura)",
+    "Decreto-ley 4/2020 (Extremadura)",
+    "Decreto-ley 6/2020 (Extremadura)",
+    "Ley 6/2011 de Subvenciones de Extremadura",
+    "Ley 39/2015 del Procedimiento Administrativo Común",
+    "Ley Orgánica 1/2011 del Estatuto de Autoeconomía de Extremadura",
+    "Reglamento (UE) n.º 1407/2013",
+    "Ley 5/2007 de la Comunidad Autónoma de Extremadura",
+    "Ley 40/2015 de Régimen Jurídico del Sector Público",
+    "Reglamento (UE) 1303/2013",
+    "Real Decreto 231/2020",
+    "Reglamento (UE) 1305/2013",
+    "Reglamento (CE) n.º 808/2014",
+    "Decreto 50/2001",
+    "Ley Orgánica 1/2002 del Derecho de Asociación",
+    "Ley 22/2003 Ley Concursal",
+    "Reglamento (UE) 2020/460",
+    "Decreto 184/2016 de ayudas LEADER",
+    "Ley 38/2003 General de Subvenciones"
+  ],
+  "derogations": [],
+  "main_obligations": "Los beneficiarios deben mantener el alta en el RETA o los contratos de trabajo durante periodos de entre 1 y 24 meses según el programa. Es obligatorio justificar todos los gastos mediante transferencias bancarias y conservar la documentación durante 5 años.",
+  "effective_date": "2020-04-24",
+  "procedures": [
+    {
+      "name": "Subvención a la contratación temporal de desempleados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Formalización del contrato",
+          "description": "Contratación de trabajador desempleado mediante contrato temporal de jornada completa y mínimo 6 meses.",
+          "start_date": "Fecha de inicio del contrato",
+          "end_date": null,
+          "required_documentation": "Modelo oficial de contrato y comunicación al SEPE vía contrat@."
+        },
+        {
+          "step": 2,
+          "title": "Presentación de la solicitud",
+          "description": "Solicitud de la ayuda económica tras la contratación.",
+          "start_date": "Fecha de inicio del contrato",
+          "end_date": "2 meses después del inicio del contrato",
+          "required_documentation": "Poder de representación, modelo de datos de contratados, vida laboral de la empresa y del trabajador, certificados de estar al corriente con Hacienda y Seguridad Social."
+        }
+      ]
+    },
+    {
+      "name": "Ayuda para Centros Especiales de Empleo (CEE)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Solicitud de ayuda para el mantenimiento de la plantilla de personas con discapacidad.",
+          "start_date": "Día siguiente a la pérdida de vigencia del Estado de Alarma",
+          "end_date": "2 meses después de la publicación de la convocatoria",
+          "required_documentation": "Vida laboral del centro, certificación nominal de trabajadores, declaración responsable para sociedades civiles/comunidades de bienes."
+        }
+      ]
+    },
+    {
+      "name": "Ayudas a Comunidades de Regantes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Solicitud de fondos para inversión en gestión, personal o equipos.",
+          "start_date": "Publicación de la resolución de convocatoria",
+          "end_date": "1 mes después de la publicación",
+          "required_documentation": "NIF, Estatutos, Certificado de acuerdo de la entidad, derecho de agua, proyecto técnico con memoria descriptiva y justificación de costes."
+        },
+        {
+          "step": 2,
+          "title": "Evaluación y resolución",
+          "description": "Tramitación mediante comisión de valoración y resolución de la ayuda.",
+          "start_date": "Tras el plazo de solicitud",
+          "end_date": "6 meses tras la publicación de la convocatoria",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Concesión de ayudas para empresas turísticas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria",
+          "description": "Publicación de la convocatoria abierta y anual por la Consejería de Cultura, Turismo y Deportes.",
+          "start_date": "Anual",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Suscripción de convenio",
+          "description": "Firma de convenios con entidades colaboradoras (intermediarios financieros).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Solicitud de préstamo",
+          "description": "Formalización del préstamo subvencionable entre 3.000€ y 20.000€.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Ayudas a la economía social (Líneas I y II)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Plazo de tres meses desde la publicación de la convocatoria.",
+          "start_date": "Día siguiente a la publicación en el DOE",
+          "end_date": "3 meses",
+          "required_documentation": "Identidad, poderes, certificado de inscripción, certificados de estar al corriente con Hacienda y SS, contrato laboral y vida laboral."
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Plazo máximo para resolver y notificar la concesión.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Primer pago (50%)",
+          "description": "Abono tras la notificación de la resolución de concesión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud de pago (Anexo III)"
+        },
+        {
+          "step": 4,
+          "title": "Segundo pago (50%)",
+          "description": "Abono tras justificar el cumplimiento del periodo de contratación.",
+          "start_date": "Tras finalizar el periodo de contratación",
+          "end_date": "10 días tras la finalización del periodo",
+          "required_documentation": "Memoria justificativa y vida laboral actualizada de la entidad."
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

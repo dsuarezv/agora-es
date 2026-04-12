@@ -1,0 +1,435 @@
+{
+  "identifier": "BOE-A-2020-615",
+  "title": "Ley 11/2019, de 20 de diciembre, de Cooperativas de Euskadi",
+  "visible_title": "Ley de Cooperativas de Euskadi",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "11/2019",
+  "publication_date": "2020-01-16",
+  "enactment_date": "2019-12-20",
+  "last_updated": "2025-01-14",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2019/12/20/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y unifica toda la normativa cooperativa del País Vasco para adaptarla a los estándares internacionales y a la economía digital. Su objetivo es profesionalizar la gestión de las cooperativas, agilizar la toma de decisiones y ofrecer mayor seguridad jurídica tanto a socios como a terceros. Introduce nuevas figuras como las sociedades cooperativas pequeñas y las junior cooperativas, facilitando el emprendimiento. Además, refuerza la igualdad de género y la prevención de delitos dentro de estas organizaciones.",
+  "citizen_impact": "Los socios de cooperativas en el País Vasco cuentan con mayores garantías de información económica (máximo un mes para recibirla) y estabilidad laboral, con la posibilidad de pasar a contratos indefinidos tras un periodo de tiempo. Además, se facilita la gestión de bajas y se protege la responsabilidad personal, limitándola únicamente a las aportaciones al capital.",
+  "professional_impact": "Las empresas cooperativas deben cumplir con nuevas obligaciones de gobernanza, como implementar protocolos contra la violencia sexista y modelos de prevención de delitos si superan los 50 socios. Se exige la adaptación de estatutos sociales y la elaboración de planes de igualdad con diagnósticos de brecha salarial. Para las pequeñas cooperativas, se simplifican los trámites mediante la digitalización y se flexibiliza la contratación de personal ajeno.",
+  "keywords": [
+    "cooperativas",
+    "Euskadi",
+    "economía social",
+    "sociedad cooperativa pequeña",
+    "derechos de socios",
+    "igualdad",
+    "prevención de delitos"
+  ],
+  "key_points": [
+    "Capital social mínimo de 3.000 euros, totalmente desembolsado al constituirse.",
+    "Obligatoriedad de protocolos contra la violencia sexista y prevención de delitos para cooperativas de más de 50 socios.",
+    "Digitalización total de los trámites ante el Registro de Cooperativas de Euskadi.",
+    "Creación de la figura de 'persona socias en excedencia' con derechos regulados por estatutos.",
+    "Estabilidad laboral: los socios trabajadores con contratos temporales pasan a ser indefinidos tras 3 años (opción) o 5 años (automático).",
+    "Las cooperativas de vivienda pueden operar con terceros no socios hasta un límite del 30%.",
+    "Las 'sociedades cooperativas pequeñas' (2 a 10 socios) pueden contratar hasta 5 trabajadores ajenos durante sus primeros 5 años.",
+    "Las cooperativas de trabajo asociado pueden contratar personal ajeno hasta un 30% de sus horas totales anuales.",
+    "Derecho de separación para socios que voten en contra de una fusión o transformación.",
+    "Creación del Consejo Superior de Cooperativas de Euskadi para arbitraje y consulta.",
+    "El reembolso de aportaciones tras la baja no puede demorarse más de cinco años (un año si es por fallecimiento).",
+    "Las cooperativas de vivienda deben auditar sus cuentas antes de la aprobación de la asamblea general."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 129.2)",
+    "Estatuto de Autoatomía para la Comunidad Autónoma de Euskadi (art. 10.23)",
+    "Ley 5/2011 de Economía Social",
+    "Ley 1/1982 de Cooperativas",
+    "Ley 4/1993 de Cooperativas de Euskadi",
+    "Ley 6/2008 de la Sociedad Cooperativa Pequeña de Euskadi",
+    "Ley 39/2015 del Procedimiento Administrativo Común",
+    "Real Decreto Legislativo 1/2010 (Ley de Sociedades de Capital)",
+    "Ley 11/2018 de información no financiera",
+    "Ley de Sociedades de Capital",
+    "Ley de Enjuiciamiento Civil",
+    "Ley 3/2009 de Modificaciones Estructurales de las Sociedades Mercantiles",
+    "Ley 27/1999, de 16 de julio, de Cooperativas",
+    "Ley Orgánica 4/1981, de 27 de diciembre, del Régimen de Estados de Alarma, Excepción y Sitio",
+    "Real Decreto Legislativo 8/2015, del Texto Refundido de la Ley General de la Seguridad Social",
+    "Ley de Auditoría de Cuentas",
+    "Ley 38/1999, de 5 de diciembre, de Ordenación de la Edificación",
+    "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público",
+    "Código de Comercio",
+    "Ley 5/2012, de 23 de febrero, sobre Entidades de Previsión Social Voluntaria",
+    "Decreto 9/2011, de 25 de junio, sobre registro y depósito de convenios y acuerdos colectivos",
+    "Decreto Legislativo 2/2007, de 6 de noviembre, de aprobación del Texto Refundido de la Ley de Patrimonio de Euskadi"
+  ],
+  "derogations": [
+    "Ley 4/1993, de 24 de junio, de Cooperativas de Euskadi",
+    "Ley 6/2008, de 24 de junio, de la Sociedad Cooperativa Pequeña de Euskadi"
+  ],
+  "main_obligations": "Las cooperativas deben adaptar sus estatutos sociales a la nueva normativa antes del 31 de diciembre de 2023. Asimismo, deben legalizar sus libros en el Registro en un plazo de 6 meses tras el cierre del ejercicio y depositar las cuentas anuales en un mes tras su aprobación.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Constitución de la cooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Asamblea Constituyente",
+          "description": "Las personas promotoras aprueban estatutos y acuerdos de constitución.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de la asamblea"
+        },
+        {
+          "step": 2,
+          "title": "Otorgamiento de Escritura Pública",
+          "description": "Formalización de la constitución ante notario en un plazo máximo tras la asamblea.",
+          "start_date": "Desde la asamblea constituye",
+          "end_date": "2 meses",
+          "required_documentation": "Escritura pública"
+        },
+        {
+          "step": 3,
+          "title": "Inscripción en el Registro",
+          "description": "Inscripción en el Registro de Cooperativas de Euskadi para adquirir personalidad jurídica.",
+          "start_date": "Tras la escritura",
+          "end_date": null,
+          "required_documentation": "Escritura pública y justificantes de impuestos"
+        }
+      ]
+    },
+    {
+      "name": "Admisión de nuevos socios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de admisión",
+          "description": "Presentación de solicitud por escrito a los administradores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud por escrito"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la administración",
+          "description": "Plazo para decidir sobre la admisión o denegación.",
+          "start_date": "Desde la recepción",
+          "end_date": "60 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Recurso en caso de denegación",
+          "description": "Plazo para recurrir ante el comité de recursos o la asamblea.",
+          "start_date": "Desde la notificación",
+          "end_date": "20 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Calificación previa de estatutos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de calificación",
+          "description": "Solicitud al Registro de Cooperativas para validar el proyecto de estatutos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de estatutos"
+        },
+        {
+          "step": 2,
+          "title": "Resolución del Registro",
+          "description": "El Registro debe resolver sobre la calificación.",
+          "start_date": "Desde la solicitud",
+          "end_date": "30 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Subsanación de defectos",
+          "description": "Plazo para corregir errores comunicados por el Registro.",
+          "start_date": "Desde la comunicación",
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Derecho de información y aclaraciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de aclaraciones",
+          "description": "Presentación por escrito de dudas sobre el funcionamiento o resultados.",
+          "start_date": "En cualquier momento",
+          "end_date": "15 días después de la presentación (para ser contestado en la primera asamblea)",
+          "required_documentation": "Escrito dirigido a las administradoras"
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de situación económica",
+          "description": "Pedido de información sobre la situación económica personal respecto a la cooperativa.",
+          "start_date": "En cualquier momento",
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Baja voluntaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de baja",
+          "description": "Comunicación por escrito de la intención de abandonar la cooperativa.",
+          "start_date": "Según plazo estatutario",
+          "end_date": "Máximo 3 meses (personas físicas) o 1 año (personas jurídicas)",
+          "required_documentation": "Comunicación por escrito"
+        },
+        {
+          "step": 2,
+          "title": "Calificación de la baja",
+          "description": "Las administradoras determinan si la baja es justificada o no.",
+          "start_date": "Desde la notificación",
+          "end_date": "3 meses",
+          "required_documentation": "Notificación por escrito"
+        }
+      ]
+    },
+    {
+      "name": "Impugnación de acuerdos de la Asamblea General",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Ejercicio de la acción",
+          "description": "Demanda judicial contra acuerdos contrarios a la ley o estatutos.",
+          "start_date": "Desde la adopción del acuerdo o inscripción",
+          "end_date": "1 año (caducidad)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción de expediente",
+          "description": "Apertura de procedimiento tras una infracción tipificada en estatutos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Audiencia previa",
+          "description": "Derecho del presunto infractor a ser escuchado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reembolso de aportaciones por baja del socio",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de la baja",
+          "description": "El socio comunica su intención de abandonar la cooperativa.",
+          "start_date": "Fecha de la baja",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Cálculo de deducciones y pérdidas",
+          "description": "La administración aplica las deducciones estatutarias y compensa pérdidas del balance.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Balance de cierre del ejercicio"
+        },
+        {
+          "step": 3,
+          "title": "Ejecución del pago",
+          "description": "La cooperativa debe devolver el capital en un plazo máximo de 5 años.",
+          "start_date": "Fecha de la baja",
+          "end_date": "5 años desde la baja",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Transformación de cooperativa a sociedad mercantil",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración de informe",
+          "description": "Las administradoras redactan un informe justificando la necesidad empresarial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe escrito de justificación"
+        },
+        {
+          "step": 2,
+          "title": "Comunicación al Consejo Superior",
+          "description": "Se comunica el informe al Consejo Superior de Cooperativas de Euskadi antes de la asamblea.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Acuerdo de la Asamblea General",
+          "description": "La asamblea debe aprobar la transformación con los requisitos de modificación de estatutos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Ejercicio del derecho de separación",
+          "description": "Los socios que votaron en contra tienen 40 días para solicitar su separación.",
+          "start_date": "Publicación del acuerdo",
+          "end_date": "40 días tras la publicación",
+          "required_documentation": "Escrito de disconformidad"
+        },
+        {
+          "step": 5,
+          "title": "Inscripción registral",
+          "description": "Se eleva a escritura pública e inscribe en el Registro de Cooperativas y Registro Mercantil.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública y balance de transformación"
+        }
+      ]
+    },
+    {
+      "name": "Constitución de Sociedad Cooperativa Pequeña",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Otorgamiento de escritura pública",
+          "description": "Formalización de la constitución mediante escritura pública.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura de constitución y estatutos sociales"
+        },
+        {
+          "step": 2,
+          "title": "Inscripción registral",
+          "description": "Presentación de la solicitud en el Registro de Cooperativas de Euskadi.",
+          "start_date": null,
+          "end_date": "10 días (o 5 días si usa modelos estándar)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Descalificación de Cooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requerimiento de subsanación",
+          "description": "La administración notifica la causa de descalificación y pide subsanar en un plazo determinado.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Incoación de expediente",
+          "description": "Si no se subsana, se inicia formalmente el expediente de descalificación.",
+          "start_date": "Tras el vencimiento de los 6 meses",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Trámite de audiencia",
+          "description": "La cooperativa comparece a través de administradores o al menos 3 socios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución administrativa",
+          "description": "Decisión final de descalificación, revisable en vía judicial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Intervención Temporal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Informe del Consejo Superior",
+          "description": "El departamento competente solicita informe previo al Consejo Superior de Cooperativas.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Adopción de medidas",
+          "description": "Publicación de la resolución de intervención (nombramiento de interventores o administradores provisionales).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de estatutos sociales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Revisión y adaptación",
+          "description": "Las cooperativas deben modificar sus estatutos para cumplir con las normas imperativas de la nueva ley.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "2023-12-31",
+          "required_documentation": "Nuevos estatutos sociales adaptados"
+        },
+        {
+          "step": 2,
+          "title": "Inscripción de la adaptación",
+          "description": "Tras el plazo, no se inscribirá ningún documento si no se ha inscrito previamente la adaptación de los estatutos.",
+          "start_date": "2024-01-01",
+          "end_date": null,
+          "required_documentation": "Acuerdo de adaptación a la ley"
+        }
+      ]
+    },
+    {
+      "name": "Constitución de sociedades cooperativas pequeñas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Asesoramiento inicial",
+          "description": "Acceso gratuito a puntos de asesoramiento e inicio de tramitación en entidades sin ánimo de lucro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Tramitación electrónica",
+          "description": "Uso de medios telemáticos para la puesta en marcha de la cooperativa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Modelo de estatutos sociales proporcionado por el Gobierno"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 5
+}

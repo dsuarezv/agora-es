@@ -1,0 +1,91 @@
+{
+  "identifier": "BOE-A-2026-1640",
+  "title": "Instrucción de 9 de enero de 2026, de la Dirección General de Seguridad Jurídica y Fe Pública, sobre criterios de competencia aplicables a las oficinas consulares del Registro Civil",
+  "visible_title": "Criterios de competencia para las oficinas consulares del Registro Civil",
+  "rank": "instrucción",
+  "country": "es",
+  "department": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes",
+  "official_number": "21",
+  "publication_date": "2026-01-23",
+  "enactment_date": "2026-01-09",
+  "last_updated": "2026-01-23",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/ins/2026/01/09/(1)",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "21",
+  "summary": "Esta instrucción regula cómo deben trabajar las oficinas consulares tras la digitalización total del Registro Civil mediante el sistema DICIREG. Establece quién es responsable de cada trámite (inscripciones principales, complementarias o anotaciones) para evitar duplicidades y asegurar la interoperabilidad. El objetivo es unificar el registro en un sistema único, electrónico y gratuito, definiendo claramente las competencias entre consulados y oficinas en España.",
+  "citizen_impact": "Facilita los trámites para españoles en el extranjero, permitiéndoles usar las oficinas consulares como una 'ventanilla única' para casi cualquier gestión de Registro Civil. Mejora la rapidez y la conexión entre oficinas, aunque los trámites de nacionalidad por Memoria Democrática mantienen sus reglas específicas de cita previa.",
+  "professional_impact": "Los funcionarios del Registro Civil y de consulados ahora operan bajo un modelo digital interoperable (DICIREG), eliminando el uso de libros manuscritos. Se definen reglas estrictas de 'reasignación' de expedientes entre oficinas para evitar que un mismo trámite se abra en dos lugares distintos.",
+  "keywords": [
+    "Registro Civil",
+    "Oficinas Consulares",
+    "DICIREG",
+    "Competencia territorial",
+    "Digitalización",
+    "Inscripciones",
+    "Nacionalidad española"
+  ],
+  "key_points": [
+    "Las oficinas consulares funcionan como ventanilla única para la atención al ciudadano siempre que haya conexión.",
+    "Se prohíbe abrir procedimientos duplicados sobre la misma materia en distintas oficinas.",
+    "Los trámites basados en documentos extranjeros se gestionan en el consulado si el ciudadano reside fuera, o en la Oficina Central si reside en España.",
+    "El sistema DICIREG permite la reasignación automática de expedientes entre oficinas según la competencia.",
+    "Las inscripciones complementarias se realizarán en la oficina donde conste la inscripción principal si esta ya está digitalizada.",
+    "Los trámites de la Ley de Memoria Democrática mantienen su régimen especial de cita previa y herramientas telemáticas específicas."
+  ],
+  "legal_references": [
+    "Ley 20/2011, de 21 de julio",
+    "Ley 20/2022, de 19 de octubre, de Memoria Democrática",
+    "Instrucción de 25 de octubre de 2022",
+    "Instrucción de 5 de noviembre de 2024"
+  ],
+  "derogations": [],
+  "main_obligations": "Las oficinas deben verificar la inexistencia de procedimientos abiertos antes de registrar uno nuevo y asegurar la correcta reasignación de expedientes a través de DICIREG cuando la competencia no sea de su circunscripción.",
+  "effective_date": "2026-01-24",
+  "procedures": [
+    {
+      "name": "Inscripción de hechos y actos en el Registro Civil",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Verificación de duplicidad",
+          "description": "Comprobar que no existe un procedimiento abierto por el mismo objeto en otra oficina.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Determinación de competencia",
+          "description": "Si el hecho ocurrió en la circunscripción, se tramita; si no, se registra y se reasigna vía DICIREG a la oficina correspondiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Práctica de asiento",
+          "description": "Realización de la inscripción principal o complementaria según corresponda.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentos públicos extranjeros, certificaciones o documentos judiciales según el caso."
+        }
+      ]
+    },
+    {
+      "name": "Opción a la nacionalidad española (Ley de Memoria Democrática)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud telemática",
+          "description": "Presentación de la solicitud mediante herramienta telemática en la oficina consular donde se obtuvo la cita.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación establecida en la Ley 20/2022 e Instrucción de 25/10/2022."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

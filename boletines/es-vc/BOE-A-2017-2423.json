@@ -1,0 +1,80 @@
+{
+  "identifier": "BOE-A-2017-2423",
+  "title": "Ley 4/2017, de 3 de febrero, por la que se crea la Agencia Valenciana de Seguridad y Respuesta a las Emergencias",
+  "visible_title": "Creación de la Agencia Valenciana de Seguridad y Respuesta a las Emergencias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "4/2017",
+  "publication_date": "2017-03-07",
+  "enactment_date": "2017-02-03",
+  "last_updated": "2021-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2017/02/03/4",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley crea la Agencia Valenciana de Seguridad y Respuesta a las Emergencias (AVSRE) como un organismo autónomo para centralizar y coordinar la gestión de emergencias en la Comunidad Valenciana. Su objetivo es unificar la respuesta ante catástrofes, incendios y riesgos climáticos, mejorando la coordinación entre las policías locales y los servicios de bomberos. Además, busca modernizar el sistema de atención al ciudadano mediante la gestión del 112 y la creación de un marco estratégico de prevención y protección civil.",
+  "citizen_impact": "Mejora la seguridad ciudadana al garantizar una respuesta más rápida y coordinada ante incendios, inundaciones o accidentes. Los ciudadanos cuentan con un sistema de emergencias (112) más eficiente y una mayor capacidad de la administración para prevenir riesgos en su entorno.",
+  "professional_impact": "Afecta directamente a policías locales, bomberos y técnicos de emergencias, quienes pasan a estar bajo un marco de coordinación y formación unificado. Se crea la categoría profesional de 'bombero forestal' y se establecen nuevos regímenes de disponibilidad y formación para los agentes de intervención.",
+  "keywords": [
+    "seguridad pública",
+    "emergencias",
+    "protección civil",
+    "policía local",
+    "bomberos forestales",
+    "coordinación",
+    "Comunitat Valenciana",
+    "riesgos"
+  ],
+  "key_points": [
+    "Creación de la AVSRE como organismo autónomo con personalidad jurídica propia.",
+    "Unificación de criterios de formación, organización y actuación para las policías locales.",
+    "Creación del Servicio de Bomberos Forestales con la categoría profesional específica de bombero forestal.",
+    "Gestión centralizada del Centro de Coordinación de Emergencias y del 112 de la Comunidad Valenciana.",
+    "Establecimiento de un Observatorio de Seguridad para el análisis y asesoramiento en materia de riesgos.",
+    "Capacidad de la Agencia para ejercer la potestad sancionadora en infracciones graves y muy graves de protección civil.",
+    "Integración de la gestión de la Unidad del Cuerpo Nacional de Policía adscrita a la Comunidad Valenciana."
+  ],
+  "legal_references": [
+    "Ley 13/2010, de 23 de noviembre, de la Generalitat, de protección civil y gestión de emergencias",
+    "Ley 6/1999, de 19 de abril, de policías locales y de coordinación de policías locales de la comunidad",
+    "Ley 7/2011, de 1 de abril, de la Generalitat, de los servicios de prevención, extinción de incendios y salvamento",
+    "Ley Orgánica 2/1986, de 13 de marzo, de fuerzas y cuerpos de seguridad",
+    "Constitución Española"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a la presente ley"
+  ],
+  "main_obligations": "La Agencia debe elaborar el Plan Territorial de Emergencia y gestionar los registros de planes de autoprotección y bomberos. Los servicios de intervención deben cumplir con los estándares de formación y dotación mínima establecidos por la AVSRE.",
+  "effective_date": "2017-03-08",
+  "procedures": [
+    {
+      "name": "Constitución del Consejo de Dirección",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Constitución del Consejo",
+          "description": "Se debe constituir el Consejo de Dirección de la AVSRE.",
+          "start_date": "2017-03-08",
+          "end_date": "1 mes desde la entrada en vigor",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aprobación del Reglamento Orgánico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación por el Consell",
+          "description": "El Consell debe aprobar el reglamento orgánico y funcional de la Agencia.",
+          "start_date": "Tras la constitución del Consejo",
+          "end_date": "3 meses desde la constitución del Consejo",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

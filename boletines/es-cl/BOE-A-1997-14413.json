@@ -1,0 +1,80 @@
+{
+  "identifier": "BOE-A-1997-14413",
+  "title": "Ley 6/1997, de 22 de mayo, de Ferias Comerciales Oficiales de Castilla y León",
+  "visible_title": "Ley de Ferias Comerciales Oficiales de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "6/1997",
+  "publication_date": "1997-07-01",
+  "enactment_date": "1997-05-22",
+  "last_updated": "2009-12-26",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/1997/05/22/6",
+  "official_journal": "Boletín Oficial de Castilla y León",
+  "journal_issue": null,
+  "summary": "Esta ley regula y profesionaliza las ferias comerciales oficiales en Castilla y León para adaptarlas al derecho de la Unión Europea. Establece un sistema de reconocimiento oficial, un registro único y un calendario anual para evitar la duplicidad de eventos. Busca garantizar la libre competencia y la no discriminación de expositores de otros Estados miembros.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en la mejora de la calidad y profesionalidad de los eventos comerciales y exposiciones a los que puedan asistir.",
+  "professional_impact": "Las empresas organizadoras deben cumplir requisitos estrictos de patrimonio, recinto y periodicidad para obtener el sello de 'oficial'. El incumplimiento de las normas de exhibición o el uso indebido de la denominación oficial puede acarrear multas de hasta 30.000 euros y la pérdida de ayudas públicas.",
+  "keywords": [
+    "ferias comerciales",
+    "Castilla y León",
+    "exposiciones oficiales",
+    "organización de ferias",
+    "derecho comunitario",
+    "registro de ferias"
+  ],
+  "key_points": [
+    "Creación de un Registro Oficial de Ferias para centralizar la información y el control.",
+    "Obligatoriedad de obtener el reconocimiento de la Consejería para usar el título de 'Feria Oficial'.",
+    "Las ferias oficiales deben celebrarse al menos una vez al año y no pueden durar más de 10 días.",
+    "Prohibición de discriminar a expositores por su origen o nacionalidad (cumplimiento de normativa UE).",
+    "Las entidades organizadoras deben tener personalidad jurídica propia y patrimonio suficiente para cubrir responsabilidades.",
+    "Inscripción en el registro es requisito indispensable para recibir ayudas de la Junta de Castilla y León.",
+    "Se establecen sanciones económicas de hasta 30.000 euros por infracciones graves."
+  ],
+  "legal_references": [
+    "Estatuto de Autoformía de Castilla y León",
+    "Ley 4/1984, de 5 de octubre, de Ordenación Ferial de la Comunidad de Castilla y León",
+    "Real Decreto 3513/1981, de 18 de diciembre",
+    "Real Decreto 438/1992, de 30 de abril"
+  ],
+  "derogatons": [
+    "Ley 4/1984, de 5 de octubre, de Ordenación Ferial de la Comunidad de Castilla y León"
+  ],
+  "main_obligations": "Las entidades deben solicitar el reconocimiento oficial antes del 30 de septiembre del año anterior a la feria. Deben disponer de un recinto adecuado, un comité organizador y un libro de incidencias. El uso indebido del término 'oficial' o la exhibición de productos no autorizados conlleva sanciones económicas.",
+  "effective_date": "1997-07-02",
+  "procedures": [
+    {
+      "name": "Reconocimiento de la condición de Feria Comercial Oficial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "La entidad organizadora presenta una declaración responsable con todos los datos de la feria.",
+          "start_date": "Antes del 30 de septiembre del año anterior a la celebración",
+          "end_date": null,
+          "required_documentation": "Datos de la entidad, denominación, ámbito, fechas, lugar, naturaleza de bienes/servicios, descripción del recinto, precio entradas y reglamento."
+        },
+        {
+          "step": 2,
+          "title": "Valoración de la Consejería",
+          "description": "La administración evalúa la capacidad del recinto, la tradición de la feria y el nivel de participación.",
+          "start_date": "Desde la presentación",
+          "end_date": "2 meses después de la presentación",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución y Registro",
+          "description": "Si no hay respuesta en 2 meses, se entiende estimada (silencio administrativo positivo). Se procede a la inscripción de oficio en el Registro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

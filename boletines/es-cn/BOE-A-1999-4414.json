@@ -1,0 +1,79 @@
+{
+  "identifier": "BOE-A-1999-4414",
+  "title": "Ley 1/1999, de 29 de enero, de residuos de Canarias",
+  "visible_title": "Ley de residuos de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "1/1999",
+  "publication_date": "1999-02-23",
+  "enactment_date": "1999-01-29",
+  "last_updated": "2015-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/1999/01/29/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco para gestionar todos los tipos de residuos en Canarias, priorizando la reducción, el reciclaje y la valorización sobre la simple eliminación. Introduce una planificación estructurada mediante Planes Integrales y Planes Directores Insulares para proteger el medio ambiente y el paisaje canario. Además, regula la responsabilidad de los productores y define las competencias de ayuntamientos y cabildos en la recogida y tratamiento de desechos.",
+  "citizen_impact": "Los ciudadanos ven afectada su rutina mediante la obligación de participar en sistemas de recogida selectiva (reciclaje) de materiales como papel, vidrio, plástico y aceites. También se facilita el acceso a puntos limpios para la gestión de residuos especiales como electrodomésticos o medicamentos.",
+  "professional_impact": "Las empresas y gestores de residuos deben obtener autorizaciones administrativas previas y cumplir con estrictos estándares tecnológicos y de registro. Los productores de residuos no urbanos tienen la obligación de entregar sus desechos a gestores autorizados y mantener libros registro de sus movimientos.",
+  "keywords": [
+    "residuos",
+    "reciclaje",
+    "gestión de residuos",
+    "Canarias",
+    "medio ambiente",
+    "recogida selectiva",
+    "residuos peligrosos",
+    "valorización"
+  ],
+  "key_points": [
+    "Prioridad de gestión: primero prevenir y minimizar, luego valorizar y finalmente eliminar.",
+    "Obligatoriedad de recogida selectiva para municipios de más de 5.000 habitantes.",
+    "Creación de los Planes Integrales de Residuos (autonómicos) y Planes Directores Insulares (cabildos).",
+    "Exigencia de autorización previa de la Comunidad Autónoma para cualquier actividad de gestión de residuos.",
+    "Responsabilidad de los productores de asegurar que sus residuos sean gestionados correctamente.",
+    "Prohibición de vertidos y depósitos de residuos sin control.",
+    "Establecimiento de sanciones económicas severas por infracciones, llegando hasta las 200 millones de pesetas en casos muy graves.",
+    "Obligación de los cabildos de disponer de puntos limpios y complejos ambientales en cada isla."
+  ],
+  "legal_references": [
+    "Directiva Comunitaria 91/156 CE",
+    "Estatuto de Autonomía de Canarias",
+    "Ley de Bases de Régimen Local",
+    "Ley 11/1997, de 24 de abril",
+    "Decisión de la Comisión (96/350/CE)"
+  ],
+  "derogations": [],
+  "main_obligations": "Los productores de residuos no urbanos deben entregar sus desechos a gestores autorizados y llevar un libro registro. Se prohíbe el abandono o vertido incontrolado de residuos, bajo pena de multas que pueden alcanzar las 200.000.000 de pesetas.",
+  "effective_date": "1999-05-23",
+  "procedures": [
+    {
+      "name": "Autorización para la gestión de residuos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Presentación de la solicitud ante la Consejería de Medio Ambiente para realizar actividades de valorización o eliminación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación técnica que garantice la protección del medio ambiente y cumplimiento del Plan Integral."
+        }
+      ]
+    },
+    {
+      "name": "Declaración de suelo contaminado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Procedimiento de declaración",
+          "description": "Identificación de espacios degradados por descargas incontroladas para su declaración oficial como suelo contaminado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

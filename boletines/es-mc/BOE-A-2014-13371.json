@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-2014-13371",
+  "title": "Ley 10/2014, de 27 de noviembre, regulaora del transporte público de personas en vehículos de turismo por medio de taxi y del arrendamiento de vehículos con conductor de la Comunidad Autónoma de la Región de Murcia.",
+  "visible_title": "Ley reguladora del transporte público de taxi y arrendamiento de vehículos con conductor de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "10/2014",
+  "publication_date": "2014-12-23",
+  "enactment_date": "2014-11-27",
+  "last_updated": "2025-06-14",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2014/11/27/10",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y unifica la regulación del servicio de taxi y el arrendamiento de vehículos con conductor en la Región de Murcia. Su objetivo es acabar con la dispersión normativa y el intrusismo, adaptando el sector a las nuevas demandas tecnológicas y sociales. Establece un marco claro de competencias entre la Comunidad Autónoma y los Ayuntamientos para garantizar un servicio público de calidad, seguro y sostenible.",
+  "citizen_impact": "Los usuarios ganan derechos como la obligación de recibir factura, la posibilidad de elegir itinerarios y la garantía de contar con vehículos adaptados para personas con movilidad reducida. También se asegura la transparencia mediante la obligatoriedad de que las tarifas sean visibles en el vehículo.",
+  "professional_impact": "Los taxistas deben cumplir con requisitos estrictos de titularidad (persona física y una sola licencia) y profesionalidad. Se introducen obligaciones tecnológicas como el uso de taxímetros con impresora y sistemas de pago, además de un régimen sancionador que incluye la inmovilización inmediata del vehículo en caso de transporte sin autorización.",
+  "keywords": [
+    "taxi",
+    "transporte público",
+    "arrendamiento de vehículos con conductor",
+    "Región de Murcia",
+    "licencias de taxi",
+    "tarifas de transporte"
+  ],
+  "key_points": [
+    "Las licencias de taxi solo pueden ser titularidad de personas físicas y no se permite poseer más de una en la región.",
+    "Se establece la obligatoriedad de contar con vehículos adaptados para personas con movilidad reducida según las necesidades del municipio.",
+    "Los ayuntamientos tienen la competencia para gestionar el taxi urbano, mientras que la Región gestiona el interurbano.",
+    "Se introduce la figura del vehículo de sustitución para cubrir averías o periodos de inactividad.",
+    "Los nuevos taxímetros deben incluir obligatoriamente una impresora de facturas.",
+    "Se prohíbe el cobro de suplementos que no estén autorizados por la normativa.",
+    "El transporte sin licencia conlleva la inmovilización inmediata del vehículo y un depósito económico.",
+    "Se fomenta la transición hacia vehículos de bajas o nulas emisiones para reducir la contaminación."
+  ],
+  "legal_references": [
+    "Sentencia del Tribunal Constitucional 118/1996",
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Constitución Española (art. 149.1.21.ª)",
+    "Directiva 2006/123/CE",
+    "Ley 17/2009 de libre acceso a las actividades de servicios",
+    "Real Decreto 763/1979",
+    "Ley 39/2015 de Procedimiento Administrativo Común",
+    "Ley 40/2015 de Régimen Jurídico del Sector Público"
+  ],
+  "derogatons": [],
+  "main_obligations": "Los titulares deben poseer licencias y autorizaciones vigentes, asegurar la presencia de taxímetros homologados con impresora y respetar las tarifas fijadas. El incumplimiento de la normativa de transporte sin autorización conlleva multas de hasta 4.001 euros y la inmovilización del vehículo.",
+  "effective_date": "2014-12-13",
+  "procedures": [
+    {
+      "name": "Adjudicación de licencias de taxi",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de concurso público",
+          "description": "Los ayuntamientos convocan el concurso para otorgar nuevas licencias tras verificar la demanda.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de requisitos de titularidad (nacionalidad, seguro, etc.)"
+        }
+      ]
+    },
+    {
+      "name": "Transmisión de títulos habilitantes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de transmisión",
+          "description": "El interesado solicita la transmisión de la licencia al ayuntamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el cumplimiento de requisitos del adquirente"
+        },
+        {
+          "step": 2,
+          "title": "Informe de la Dirección General de Transportes",
+          "description": "La Región de Murcia emite informe sobre la procedencia de la autorización interurbana.",
+          "start_date": "Tras la solicitud",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de la transmisión",
+          "description": "Resolución expresa de la administración sobre la solicitud.",
+          "start_date": null,
+          "end_date": "3 meses (silencio administrativo negativo)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

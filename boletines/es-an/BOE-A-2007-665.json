@@ -1,0 +1,204 @@
+{
+  "identifier": "BOE-A-2007-665",
+  "title": "Ley 9/2006, de 26 de diciembre, de Servicios Ferroviarios de Andalucía",
+  "visible_title": "Ley de Servicios Ferroviarios de Andalucía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "9/2006",
+  "publication_date": "2007-01-12",
+  "enactment_date": "2006-12-26",
+  "last_updated": "2012-11-28",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2006/12/26/9",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley organiza cómo se gestionan los trenes y las vías en Andalucía, dándole a la Junta de Andalucía el control total sobre los servicios que circulan íntegramente por su territorio. Su objetivo es garantizar que el transporte ferroviario sea seguro, de calidad y que los derechos de los pasajeros estén protegidos. Además, establece un régimen de sanciones severo para evitar abusos y asegura la continuidad de servicios estratégicos como la Alta Velocidad Interior. En definitiva, regula desde la protección de las vías hasta las multas por mal uso de los trenes.",
+  "citizen_impact": "Los usuarios ganan derechos claros: pueden exigir indemnizaciones por retrasos o incumplimientos y tienen derecho a contar con asistencia sanitaria a bordo. También se protege su seguridad mediante la regulación de zonas de protección alrededor de las vías y se les informa de que el uso indebido de mecanismos de emergencia o el acceso a zonas prohibidas conlleva sanciones.",
+  "professional_impact": "Las empresas ferroviarias deben cumplir con estándares estrictos de información (tarifas, horarios), medios de pago y personal cualificado. Para las constructoras, las obras ferroviarias de la Junta no requieren licencia municipal. Las empresas enfrentan riesgos económicos altos, ya que las multas pueden triplicar el beneficio obtenido por una infracción y la administración puede suspender servicios de forma urgente.",
+  "keywords": [
+    "transporte ferroviario",
+    "Andalucía",
+    "servicios ferroviarios",
+    "derechos del usuario",
+    "infraestructura ferroviaria",
+    "régimen sancionador"
+  ],
+  "key_points": [
+    "La Junta de Andalucía tiene competencia exclusiva sobre servicios ferroviarios que transcurran íntegramente por su territorio.",
+    "Se declaran de interés público los Servicios de Alta Velocidad Interior de Andalucía.",
+    "Los usuarios tienen derecho a indemnización por incumplimientos y a asistencia sanitaria en los trenes.",
+    "Se establecen zonas de protección de hasta 70 metros alrededor de las vías para limitar edificaciones.",
+    "Las obras ferroviarias de la Junta están exentas de licencia urbanística municipal.",
+    "Las multas pueden triplicar el beneficio económico obtenido por la infracción cometida.",
+    "La administración puede imponer multas coercitivas de hasta el 10% de la sanción para detener conductas infractoras.",
+    "Se permite la suspensión temporal de servicios o clausura de infraestructuras como medida provisional de urgencia.",
+    "Las infracciones y sanciones prescriben en 3 años (muy graves), 2 años (graves) y 1 año (leves).",
+    "El procedimiento sancionador caduca si no se dicta resolución en un plazo de un año.",
+    "Se prohíbe a los usuarios subir o bajar del tren en movimiento o acceder a zonas restringidas."
+  ],
+  "legal_references": [
+    "Directiva 1991/440/CEE",
+    "Directiva 2001/12/CE",
+    "Directiva 2001/14/CE",
+    "Directiva 2004/49/CE",
+    "Directiva 95/18/CE",
+    "Directiva 2001/13/CE",
+    "Directiva 2004/51/CE",
+    "Estatuto de Autonomía de Andalucía (Art. 12 y 13)",
+    "Ley 2/2003 de Transportes Urbanos y Metropolitano de Andalucía",
+    "Ley 30/1992 de Régimen Jurídico de las Administraciones Públicas",
+    "Ley 4/1986 de Patrimonio de la Comunidad Autónoma de Andalucía",
+    "Ley de Procedimiento Administrativo Común"
+  ],
+  "derogatons": [
+    "Normas de igual o inferior rango que se opongan a esta Ley"
+  ],
+  "main_obligations": "Las empresas deben informar de horarios/tarifas, ofrecer medios de pago no monetarios y disponer de material sanitario. En caso de denuncia, esta debe incluir identidad del denunciante, hechos, fecha e identificación de infractores si es posible. Las medidas provisionales deben confirmarse o modificarse en un plazo de 15 días tras el inicio del procedimiento.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Establecimiento o modificación de líneas ferroviarias (Estudio Informativo)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del estudio informativo",
+          "description": "Análisis de trazados y opciones recomendables para la actuación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación ambiental y técnica"
+        },
+        {
+          "step": 2,
+          "title": "Trámite de audiencia a Administraciones Públicas",
+          "description": "Examen de las administraciones afectadas sobre la adecuación del trazado.",
+          "start_date": "1 mes",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Información pública",
+          "description": "Periodo para que la ciudadanía presente observaciones sobre la concepción global del trazado.",
+          "start_date": "30 días hábiles",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Tramitación ambiental",
+          "description": "Remisión del expediente a la Consejería de Medio Ambiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Resolución de aprobación",
+          "description": "Dictado de la resolución que aprueba el estudio e incluye la línea en la infraestructura.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aprobación de instrumentos de planeamiento urbanístico con afectación ferroviaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de información previa",
+          "description": "El órgano urbanístico solicita información a la Consejería de Transportes.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe vinculante",
+          "description": "Emisión de informe por la Consejería de Transportes tras la aprobación inicial.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "description": "Inicio de oficio por el centro directivo competente o por denuncia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "En caso de denuncia: identidad, hechos, fecha e identificación de infractores."
+        },
+        {
+          "step": 2,
+          "title": "Notificación y alegaciones",
+          "description": "Se notifica al presunto infractor para que presente alegaciones y pruebas.",
+          "start_date": "Desde la notificación",
+          "end_date": "15 días",
+          "required_documentation": "Alegaciones, documentos e información pertinente."
+        },
+        {
+          "step": 3,
+          "title": "Período de prueba",
+          "description": "Apertura de un periodo para practicar pruebas si se acuerda.",
+          "start_date": "Tras alegaciones",
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Propuesta de resolución",
+          "description": "Notificación de la propuesta para que el interesado alegue nuevamente.",
+          "start_date": "Tras pruebas",
+          "end_date": "15 días",
+          "required_documentation": "Alegaciones y documentos adicionales."
+        },
+        {
+          "step": 5,
+          "title": "Actuaciones complementarias",
+          "description": "Posible realización de actuaciones necesarias para resolver.",
+          "start_date": "Antes de la resolución",
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Resolución final",
+          "description": "Dictado de la resolución motivada que pone fin al procedimiento.",
+          "start_date": "Tras propuesta y alegaciones",
+          "end_date": "10 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Medidas Provisionales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adopción de medidas",
+          "description": "Medidas urgentes (suspensión, clausura, fianzas) para proteger intereses.",
+          "start_date": "Antes o durante el procedimiento",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Confirmación",
+          "description": "Obligación de confirmar o modificar las medidas mediante el acuerdo de inicio.",
+          "start_date": "Desde la adopción",
+          "end_date": "15 días",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

@@ -1,0 +1,354 @@
+{
+  "identifier": "BOE-A-1999-12599",
+  "title": "Ley 5/1999, de 8 de abril, de Urbanismo de Castilla y León",
+  "visible_title": "Ley de Urbanismo de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "5/1999",
+  "publication_date": "1999-06-05",
+  "enactment_date": "1999-04-08",
+  "last_updated": "2025-12-05",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/1999/04/08/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley unifica y ordena todas las reglas de construcción y uso del suelo en Castilla y León para acabar con la inseguridad jurídica. Establece un modelo de crecimiento compacto y sostenible que protege el suelo rústico frente a la urbanización descontrolada. Define cómo se clasifican los terrenos y qué se puede construir en cada uno, adaptándose a la realidad de la despoblación regional. Además, regula los mecanismos para que los ayuntamientos gestionen el territorio y controlen el mercado inmobiliario.",
+  "citizen_impact": "Afecta directamente a cualquier persona que quiera comprar, vender o construir. Los ciudadanos tienen derecho a saber la situación urbanística de un terreno mediante una certificación escrita (respuesta en 2 meses) y pueden realizar reformas menores mediante declaración responsable sin esperar licencia. Sin embargo, construir sin licencia puede conllevar multas de hasta 3 millones de euros y la obligación de pagar una fianza por residuos de construcción (18€/tonelada).",
+  "professional_impact": "Las empresas constructoras y promotoras deben adaptarse a cinco sistemas de gestión (concierto, compensación, cooperación, concurrencia y expropiación) y cumplir con estándares de sostenibilidad como la permeabilidad vegetal. Los ayuntamientos de más de 20.000 habitantes asumen nuevas responsabilidades, como la implementación de la Cédula Urbanística y el ejercicio de derechos de tanteo y retracto para controlar el mercado.",
+  "keywords": [
+    "urbanismo",
+    "suelo rústico",
+    "licencia de obra",
+    "planeamiento urbanístico",
+    "Castilla y León",
+    "gestión urbanística",
+    "rehabilitación"
+  ],
+  "key_points": [
+    "Clasificación del suelo en tres categorías: urbano, urbanizable y rústico, con protección reforzada para este último.",
+    "Obligatoriedad de Planes Generales en municipios de más de 20.000 habitantes.",
+    "Crecimiento urbano compacto: al menos el 50% de la vivienda debe situarse en suelo urbano.",
+    "Uso de la 'Declaración Responsable' para reformas no integrales, cambios de uso y obras menores sin espera de licencia.",
+    "Derecho de los ciudadanos a solicitar una certificación de situación urbanística con respuesta en 2 meses.",
+    "Implementación de la 'Cédula Urbanística' en municipios de más de 20.000 habitantes.",
+    "Control del mercado inmobiliario mediante derechos de tanteo y retracto para municipios grandes.",
+    "Exigencia de fianza de 18€/tonelada para la gestión de residuos de construcción en licencias.",
+    "Posibilidad de venta forzosa del inmueble por incumplimiento de deberes de rehabilitación o plazos de licencia.",
+    "Exenciones en obligaciones urbanísticas si las obras de rehabilitación mejoran la eficiencia energética en un 30%.",
+    "Creación del Registro de Urbanismo de Castilla y León para garantizar la publicidad de los planes.",
+    "Límites de edificabilidad según población: desde 10 hasta 70 viviendas por hectárea."
+  ],
+  "legal_references": [
+    "Estatuto de Auto-nomía de Castilla y León",
+    "Constitución Española",
+    "Real Decreto 1346/1976",
+    "Ley 8/1990",
+    "Sentencia del Tribunal Constitucional 61/1997",
+    "Real Decreto-ley 5/1996",
+    "Ley 7/1997",
+    "Ley 6/1998",
+    "Ley 9/1997",
+    "Ley 8/2007 de Suelo",
+    "Ley 3/2008, de 17 de junio, de aprobación de las Directrices Esenciales de Ordenación del Territorio de Castilla y León",
+    "Texto refundido de la Ley de Prevención Ambiental de Castilla y León",
+    "Legislación del Estado en materia de expropiación y registro de la propiedad",
+    "Ley 8/2013, de 26 de junio",
+    "Real Decreto 105/2008, de 1 de febrero"
+  ],
+  "derogations": [
+    "Artículos 81.1 a), b) y c) de la Ley 5/1999",
+    "Ley 9/1997, de 13 de octubre, de medidas transitorias en materia de Urbanismo"
+  ],
+  "main_obligations": "Los propietarios deben mantener sus inmuebles en condiciones de seguridad y salubridad, respetando las distancias en suelo rústico. Quienes soliciten licencias deben constituir una fianza por residuos de construcción y, en caso de venta de bienes sujetos a tanteo, deben notificarlo al Ayuntamiento.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Cumplimiento de deberes urbanísticos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de ejecución",
+          "description": "El planeamiento establece un plazo para cumplir los deberes de urbanización; si no se indica, el plazo es de 8 años.",
+          "start_date": "Desde la aprobación definitiva del instrumento de planeamiento",
+          "end_date": "8 años después",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Incumplimiento y sanción",
+          "description": "Si no se cumplen los plazos, el Ayuntamiento puede conceder una prórroga o iniciar la venta forzosa o expropiación.",
+          "start_date": "Tras el vencimiento del plazo",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización de usos excepcionales en suelo rústicico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de licencia",
+          "description": "Procedimiento para solicitar usos como actividades extractivas o viviendas unifamiliares aisladas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración de impacto ambiental (si procede)"
+        }
+      ]
+    },
+    {
+      "name": "Elaboración de planeamiento urbanístico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del Avance",
+          "description": "Documento inicial con objetivos y propuestas para consulta previa.",
+          "start_date": "Al inicio de la elaboración",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aprobación inicial e información pública",
+          "description": "El Ayuntamiento acuerda la aprobación inicial y abre el plazo de exposición.",
+          "start_date": "Tras la elaboración",
+          "end_date": "2 a 3 meses para planeamiento general; 1 a 3 meses para otros",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informes sectoriales",
+          "description": "Solicitud de informes a organismos del Estado y la Comunidad Autónoma.",
+          "start_date": "Tras la aprobación inicial",
+          "end_date": "3 meses",
+          "required_documentation": "Ejemplar completo del instrumento en formato digital"
+        },
+        {
+          "step": 4,
+          "title": "Aprobación provisional",
+          "description": "El Ayuntamiento resuelve alegaciones y acuerda la aprobación provisional.",
+          "start_date": "Tras la información pública y los informes",
+          "end_date": "12 meses desde la publicación de la aprobación inicial",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Aprobación definitiva",
+          "description": "La Comunidad Autónoma examina la legalidad y aprueba definitivamente.",
+          "start_date": "Tras elevar el expediente a la Comunidad",
+          "end_date": "3 meses desde la recepción",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Sistema de Concierto",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de propiedad",
+          "description": "El proyecto debe demostrar que los terrenos son de los promotores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Convenio de garantía solidaria si hay varios propietarios"
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Periodo de exposición para alegaciones.",
+          "start_date": "1 mes",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Sistema de Compensación (Junta de Compensación)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Constitución de la Junta",
+          "description": "Los propietarios deben constituir la Junta tras la publicación de los estatutos.",
+          "start_date": "1 mes desde la publicación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Elaboración del Proyecto de Actuación",
+          "description": "La Junta presenta el proyecto al Ayuntamiento.",
+          "start_date": "Máximo 6 meses desde la aprobación de estatutos",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Sistema de Concurrencia (Concurso)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Información pública y alegaciones",
+          "description": "Exposición del proyecto y recepción de propuestas económicas.",
+          "start_date": "2 meses",
+          "end_date": null,
+          "required_documentation": "Proposiciones jurídico-económicas en plica cerrada"
+        },
+        {
+          "step": 2,
+          "title": "Apertura de plicas",
+          "description": "Apertura de las propuestas económicas.",
+          "start_date": "5 días hábiles tras el fin de la información pública",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de Licencia Urbanística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Entrega de documentación técnica y administrativa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación técnica necesaria"
+        },
+        {
+          "step": 2,
+          "title": "Informes de otros organismos",
+          "description": "Trámite de informes preceptivos de otras administraciones.",
+          "start_date": "2 meses",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Decisión final del Ayuntamiento sobre la concesión o denegación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración Responsable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación",
+          "description": "El promotor manifiesta bajo su responsabilidad el cumplimiento de la norma.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de obras o memoria descriptiva; autorizaciones de otras administraciones"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Venta o Sustitución Forzosa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Se inicia por incumplimiento de deberes urbanísticos o caducidad de licencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Audiencia de propietarios",
+          "description": "Periodo para que los afectados aleguen.",
+          "start_date": "No inferior a 1 mes",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Convocatoria de concurso",
+          "description": "Publicación para la adjudicación del inmueble.",
+          "start_date": "Inmediatamente tras la resolución",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Ejercicio del derecho de tanteo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de venta",
+          "description": "El propietario debe informar al Ayuntamiento de su decisión de enajenar o permutar el bien, indicando precio y condiciones.",
+          "start_date": "Al decidir la venta",
+          "end_date": null,
+          "required_documentation": "Expresión del precio o contraprestación y condiciones esenciales"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de respuesta del Ayuntamiento",
+          "description": "El Ayuntamiento dispone de un plazo para decidir si ejerce su derecho de compra preferente.",
+          "start_date": "Desde la recepción de la notificación",
+          "end_date": "60 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Pago del bien",
+          "description": "Si se ejerce el derecho, el pago debe realizarse en metálico o mediante terrenos exteriores al área.",
+          "start_date": "Desde el ejercicio del derecho",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Consulta urbanística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de información",
+          "description": "Presentación de la solicitud en el registro municipal para conocer el régimen urbanístico de un terreno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y certificación",
+          "description": "El Ayuntamiento emite una certificación con la clasificación del suelo y posibles deberes urbanísticos.",
+          "start_date": "Desde la solicitud",
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Ejercicio del derecho de retracto",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de la transmisión",
+          "description": "El comprador debe notificar la compra al Ayuntamiento entregando copia de la escritura.",
+          "start_date": "Tras la compra",
+          "end_date": null,
+          "required_documentation": "Copia de la escritura o documentos de la transmisión"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de ejercicio",
+          "description": "El Ayuntamiento puede impugnar la compra y adquirir el bien por el mismo precio si no se notificó correctamente o han pasado más de un año.",
+          "start_date": "Desde la recepción de la notificación",
+          "end_date": "60 días naturales",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 4
+}

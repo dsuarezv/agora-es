@@ -1,0 +1,95 @@
+{
+  "identifier": "BOE-A-2002-10908",
+  "title": "Ley 2/2002, de 25 de abril, de Protección de la Caliidad del Suministro Eléctrico en Extremadura",
+  "visible_title": "Ley de Protección de la Calidad del Suministro Eléctrico en Extremadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "2/2002",
+  "publication_date": "2002-06-06",
+  "enactment_date": "2002-04-25",
+  "last_updated": "2018-11-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2002/04/25/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un marco de protección para los usuarios de electricidad en Extremadura, obligando a las empresas a garantizar un suministro estable y de calidad técnica. Busca evitar cortes inesperados y variaciones de tensión que dañen equipos o afecten la producción. Además, regula los derechos de compensación de los consumidores y las sanciones para las eléctricas que incumplan los estándares.",
+  "citizen_impact": "Los ciudadanos tienen derecho a recibir un suministro eléctrico constante y con niveles de tensión adecuados. Si sufren cortes de luz superiores a una hora o variaciones de tensión, pueden solicitar una reducción automática del 20% en su factura mensual. También se les garantiza información clara y asesoramiento sobre sus contratos.",
+  "professional_impact": "Las empresas distribuidoras y comercializadoras deben cumplir estrictos estándares de calidad y presentar planes de inversión y actuación anuales. Se les impone la obligación de depositar una fianza anual del 1% de su facturación en Extremadura para garantizar el cumplimiento de la norma. El incumplimiento de los índices de calidad o la negativa a suministrar energía conlleva multas de hasta 3 millones de euros.",
+  "keywords": [
+    "suministro eléctrico",
+    "calidad de energía",
+    "consumidores",
+    "Extremadura",
+    "interrupciones de suministro",
+    "compensación factura",
+    "sector eléctrico"
+  ],
+  "key_points": [
+    "Derecho a reducción del 20% en la factura si hay cortes de luz superiores a una hora.",
+    "Obligación de avisar con 48 horas de antelación sobre cortes programados.",
+    "Las interrupciones no programadas de más de 3 minutos se consideran deficiencias de calidad.",
+    "Las empresas deben presentar un Plan de Actuaciones anual con sus medios materiales y personales.",
+    "Obligación de las eléctricas de depositar una fianza del 1% de su facturación anual en la Junta.",
+    "Derecho de los consumidores a instalar sus propios equipos de registro de tensión.",
+    "Las empresas deben comunicar a la Administración cualquier corte que afecte a más de 100 clientes en menos de 24 horas."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Extremadura",
+    "Constitución Española",
+    "Norma UNE-EN 50.160",
+    "Ley 54/1997 del Sector Eléctrico",
+    "Ley 30/1992 de Régimen Jurídico de las Administraciones Públicas",
+    "Decreto 9/1994 de Extremadura",
+    "Real Decreto 1398/1993"
+  ],
+  "derogations": [],
+  "main_obligations": "Las empresas deben garantizar la continuidad del suministro y la calidad técnica (tensión y frecuencia). Deben informar de cortes programados con 48 horas de antelación y depositar una fianza anual del 1% de su facturación. El incumplimiento de estándares de calidad puede derivar en multas de hasta 3.000.000 €.",
+  "effective_date": "2002-06-26",
+  "procedures": [
+    {
+      "name": "Comunicación de interrupciones programadas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "La empresa debe solicitar autorización a la Consejería con al menos 72 horas de antelación.",
+          "start_date": "72 horas antes de la interrupción",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Notificación al consumidor",
+          "description": "Comunicación obligatoria a los usuarios afectados con una antelación mínima de 48 horas.",
+          "start_date": "48 horas antes de la interrupción",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación de expediente",
+          "description": "Inicio del procedimiento ante la detección de una infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Medidas provisionales",
+          "description": "La Administración puede adoptar medidas para asegurar la eficacia de la resolución o garantizar el suministro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

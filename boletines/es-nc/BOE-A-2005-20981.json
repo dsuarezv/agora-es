@@ -1,0 +1,189 @@
+{
+  "identifier": "BOE-A-2005-20981",
+  "title": "Ley Foral 14/2005, de 22 de noviembre, del Patrimonio Cultural de Navarra",
+  "visible_title": "Ley del Patrimonio Cultural de Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "14/2005",
+  "publication_date": "2005-12-21",
+  "enactment_date": "2005-11-22",
+  "last_updated": "2019-01-25",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2005/11/22/14",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley organiza la protección y gestión de toda la riqueza cultural de Navarra, desde monumentos y restos arqueológicos hasta archivos y maquinaria industrial antigua. Establece un sistema de clasificación para que la Administración pueda intervenir en la conservación de bienes clave. Su objetivo es evitar la destrucción o pérdida del patrimonio mediante un régimen estricto de sanciones y obligaciones de custodia. Además, regula cómo se deben actuar ante hallazgos inesperados para asegurar que el beneficio sea compartido y la historia se preserve.",
+  "citizen_impact": "Si encuentras algo antiguo mientras haces obras, tienes derecho a recibir el 50% de su valor junto al dueño del terreno, pero debes avisar de inmediato. Si eres dueño de un edificio o bien protegido, tienes la obligación de mantenerlo en buen estado y avisar si decides venderlo o moverlo. También puedes usar bienes culturales para pagar deudas con la Hacienda Foral.",
+  "professional_impact": "Empresas constructoras y arqueólogos deben paralizar obras ante hallazgos y comunicar el hecho en 48 horas. Comerciantes de arte deben llevar un libro de registro legalizado. Los propietarios de maquinaria industrial anterior a 1900 o de archivos históricos (entidades de +100 años o asociaciones de +40 años) asumen responsabilidades legales de conservación y deben permitir inspecciones de la autoridad.",
+  "keywords": [
+    "patrimonio cultural",
+    "Navarra",
+    "hallazgos arqueológicos",
+    "BIC",
+    "conservación",
+    "sanciones culturales",
+    "maquinaria industrial",
+    "patrimonio documental"
+  ],
+  "key_points": [
+    "Clasificación de bienes en tres niveles: Bienes de Interés Cultural (BIC), Inventariados y de Relevancia Local.",
+    "Reparto del 50% del valor de un hallazgo casual entre el descubridor y el propietario del terreno.",
+    "Obligación de paralizar obras y comunicar hallazgos arqueológicos en un plazo de 48 horas.",
+    "Prohibición de exportar bienes muebles BIC sin autorización estatal.",
+    "Derecho de la Administración a comprar preferentemente (tanteo y retracto) bienes protegidos.",
+    "Protección especial de maquinaria industrial fabricada antes de 1900.",
+    "Protección legal de documentos de entidades privadas con más de 100 años o asociaciones con más de 40 años.",
+    "Posibilidad de realizar pagos de deudas a la Hacienda Foral mediante la entrega de bienes culturales (dación en pago).",
+    "Sanciones económicas muy graves que pueden alcanzar los 600.000 € o el cuádruple del valor del daño.",
+    "Los inspectores de cultura tienen autoridad para entrar en propiedades e inspeccionar bienes."
+  ],
+  "legal_references": [
+    "Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra",
+    "Constitución Española (artículos 44, 45 y 46)",
+    "Convenio sobre la Protección del Patrimonio Mundial de 1972 (UNESCO)",
+    "Convenio Cultural Europeo de 1954",
+    "Tratado de la Unión Europea (artículo 151)",
+    "Ley 347 del Fueros Nuevo de Navarra",
+    "Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español",
+    "Legislación de ordenación del territorio y urbanismo",
+    "Legislación medioambiental",
+    "Legislación foral tributaria"
+  ],
+  "derogations": [
+    "Consejo Navarro de Cultura"
+  ],
+  "main_obligations": "Los propietarios deben conservar los bienes, evitar su deterioro y permitir el acceso a la Administración. Ante hallazgos arqueológicos, la comunicación debe realizarse en un máximo de 48 horas. Los comerciantes de bienes culturales deben mantener un libro de registro legalizado.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Declaración de Bien de Interés Cultural (BIC)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del expediente",
+          "description": "Inicio del procedimiento de oficio o a petición de interesado.",
+          "start_date": "Plazo de 3 meses para notificar la admisión de la solicitud",
+          "end_date": null,
+          "required_documentation": "Informe técnico de descripción y relevancia"
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Periodo de exposición para bienes inmuebles.",
+          "start_date": "30 días tras la publicación en el BON",
+          "end_date": "30 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Dictamen final de la declaración.",
+          "start_date": "Desde la incoación",
+          "end_date": "20 meses",
+          "required_documentation": "Informe preceptivo del Consejo Navarro de Cultura"
+        }
+      ]
+    },
+    {
+      "name": "Declaración de Bienes Inventariados (Inmuebles/Inmateriales/Muebles)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación",
+          "description": "Inicio del trámite de inventariación.",
+          "start_date": "Plazo de 3 meses para notificar la admisión",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Finalización del proceso de declaración.",
+          "start_date": "Desde la incoación",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Comunicación de hallazgo arqueológico casual",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Paralización y comunicación",
+          "description": "Obligación de detener la obra y avisar a la Administración o Fuerzas de Seguridad.",
+          "start_date": "Inmediato al hallazgo",
+          "end_date": "48 horas",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comprobación administrativa",
+          "description": "La Administración determina el valor y decide si reinicia obras o inscribe el bien.",
+          "start_date": "Tras la comunicación",
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Premio por Descubrimiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de tasación",
+          "description": "Los interesados solicitan la tramitación del expediente para tasar el valor del bien hallado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el hallazgo y la propiedad"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Se acuerda el inicio tras detectar una posible infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Medidas cautelares",
+          "description": "La Administración puede ordenar decomisos, suspensiones o fianzas para proteger el bien.",
+          "start_date": "Tras el acuerdo de inicio",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución y pago con reducción",
+          "description": "Si se paga en un mes y se acepta la sanción, se aplica un descuento del 30%.",
+          "start_date": "Desde la notificación de la resolución",
+          "end_date": "1 mes",
+          "required_documentation": "Escrito de conformidad y renuncia a impugnar"
+        }
+      ]
+    },
+    {
+      "name": "Restablecimiento de la legalidad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Orden de reparación",
+          "description": "La autoridad ordena reparar los daños o reconstruir el bien afectado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

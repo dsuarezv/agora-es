@@ -1,0 +1,114 @@
+{
+  "identifier": "BOE-A-2015-944",
+  "title": "Decreto Legislativo 1/2014, de 23 de julio, por el que se aprueba el texto refundido de las disposiciones legales del Principado de Asturias en materia de tributos propios",
+  "visible_title": "Tributos propios del Principado de Asturias",
+  "rank": "decreto legislativo",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "1/2014",
+  "publication_date": "2015-02-03",
+  "enactment_date": "2014-07-23",
+  "last_updated": "2020-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/dlg/2014/07/23/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma unifica todas las leyes de impuestos propios de Asturias en un solo texto para dar claridad y seguridad jurídica. Regula seis impuestos clave que afectan a sectores como la agricultura, el juego, el comercio y la energía. Además, establece un régimen específico para el uso del agua y el control de vertidos industriales. Su objetivo es organizar la recaudación autonómica y fomentar usos más sostenibles de los recursos naturales.",
+  "citizen_impact": "El ciudadano puede verse afectado por impuestos específicos si posee explotaciones agrarias infrautilizadas, realiza apuestas en bingos o utiliza servicios de agua y saneamiento. En el caso del agua, los cambios en la titularidad o errores en contadores se gestionan automáticamente bajo las reglas de tasas de agua.",
+  "professional_impact": "Las empresas de suministros de agua deben cumplir con la obligación de informar mensualmente sobre consumos y contribuyentes. Las industrias tienen la carga de instalar sistemas de medición de caudal y cumplir con fórmulas estrictas de cálculo de vertidos para evitar sanciones de hasta 1.800 euros. Los grandes comercios (≥ 4.000 m²) deben tributar según su superficie de aparcamiento.",
+  "keywords": [
+    "tributos Asturias",
+    "impuesto agua",
+    "vertidos industriales",
+    "explotaciones agrarias",
+    "impuesto bingo",
+    "grandes superficies",
+    "saneamiento"
+  ],
+  "key_points": [
+    "Unificación de la normativa tributaria propia de Asturias para evitar la dispersión de leyes.",
+    "Impuesto para penalizar la infrautilización de fincas o explotaciones agrarias.",
+    "Gravamen sobre los premios obtenidos en locales de juego del bingo.",
+    "Impuesto a grandes superficies comerciales (≥ 4.000 m²) basado en su aparcamiento.",
+    "Impuesto por el impacto ambiental de redes de energía y telecomunicaciones.",
+    "Impuesto sobre los depósitos en entidades de crédito que operan en Asturias.",
+    "Impuesto sobre el uso del agua para incentivar el uso racional y financiar la depuración.",
+    "Obligación de las suministradoras de enviar listados de consumo al Ente Público de Servicios Tributarios cada marzo.",
+    "Sanción de entre 300 y 1.800 euros por no instalar dispositivos de medición de caudal (aforamiento).",
+    "Cálculo complejo del impuesto por vertidos basado en parámetros químicos y físicos (sólidos, nitrógeno, metales, etc.).",
+    "Posibilidad de reducción en el impuesto por vertidos al mar según la distancia a la costa.",
+    "Facultad de la Administración para liquidar de oficio el impuesto si la suministradora no factura."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 157.1.b)",
+    "Estatuto de Autonomía del Principado de Asturias (art. 42 y 11.5)",
+    "Ley Orgánica 8/1980 de Financiación de las Comunidades Autónomas",
+    "Ley del Principado de Asturias 4/1989",
+    "Ley del Principado de Asturias 2/1992",
+    "Ley del Principado de Asturias 15/2002",
+    "Ley del Principado de Asturias 6/2004",
+    "Ley del Principado de Asturias 13/2010",
+    "Ley del Principado de Asturias 3/2012",
+    "Ley del Principado de Asturias 1/2014",
+    "Ley General Tributaria (Ley 58/2003)",
+    "Ley 1/1994, de 21 de febrero, sobre abastecimiento y saneamiento de aguas del Principado de Asturias",
+    "Ley 4/1997, de 18 de diciembre",
+    "Ley 9/1991, de 30 de diciembre",
+    "Decreto 19/1998, de 23 de abril",
+    "Orden de 13 de julio de 1993, del Ministerio de Obras Públicas y Transportes"
+  ],
+  "derogatons": [],
+  "main_obligations": "Las entidades suministradoras deben remitir cada marzo el listado detallado de contribuyentes, consumos y usos. Las industrias están obligadas a instalar dispositivos de aforamiento continuo si su actividad lo requiere.",
+  "effective_date": "2015-01-01",
+  "procedures": [
+    {
+      "name": "Elaboración del Texto Refundido",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de elaboración",
+          "descrption": "El Consejo de Gobierno dispone de un plazo para redactar el texto refundido tras la autorización de la Ley 1/2014.",
+          "start_date": "2014-04-14",
+          "end_date": "6 meses"
+        }
+      ]
+    },
+    {
+      "name": "Liquidación del impuesto por uso de agua",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Autoliquidación",
+          "description": "La entidad suministradora o el usuario realiza la autoliquidación en los plazos reglamentarios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Liquidación de oficio (si hay impago)",
+          "description": "Si en abril del año siguiente no se ha autoliquidado, la Administración liquida usando el censo o datos de altas.",
+          "start_date": "Abril del año siguiente al ejercicio",
+          "end_date": null,
+          "required_documentation": "Información censal o datos de suministro en alta"
+        }
+      ]
+    },
+    {
+      "name": "Reporte anual de consumos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Remisión de listado detallado",
+          "description": "Las suministradoras envían al Ente Público de Servicios Tributarios el desglose de abonados, consumos y cuotas.",
+          "start_date": "Marzo de cada año",
+          "end_date": null,
+          "required_documentation": "Modelo oficial aprobado reglamentariamente"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

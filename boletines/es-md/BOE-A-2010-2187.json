@@ -1,0 +1,70 @@
+{
+  "identifier": "BOE-A-2010-2187",
+  "title": "Ley 6/2009, de 16 de noviembre, de Libertad de Elección en la Sanidad de la Comunidad de Madrid",
+  "visible_title": "Ley de Libertad de Elección en la Sanidad de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "6/2009",
+  "publication_date": "2010-02-11",
+  "enactment_date": "2009-11-16",
+  "last_updated": "2009-11-18",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2009/11/16/6",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley elimina las barreras administrativas que impedían a los pacientes elegir libremente sus centros y profesionales sanitarios en Madrid. Establece que toda la región funciona como un Área de Salud Única para facilitar que cualquier residente pueda decidir su médico de familia, pediatra, enfermero o especialista. El objetivo es poner al paciente en el centro del sistema y mejorar la calidad asistencial mediante la libre elección.",
+  "citizen_impact": "Los ciudadanos de la Comunidad de Madrid ahora tienen el derecho de elegir su médico de cabecera, pediatra y enfermero sin dar explicaciones, así como el hospital y especialista para atención especializada. Esto permite que el paciente decida dónde y con quién quiere tratarse dentro de toda la región, eliminando las limitaciones por zona de residencia.",
+  "professional_impact": "Los profesionales sanitarios deben adaptarse a un sistema donde el paciente tiene mayor capacidad de decisión. Se introduce la posibilidad excepcional de denegar una solicitud de elección de médico, pero solo si el profesional lo justifica por motivos organizativos o para proteger la relación médico-paciente.",
+  "keywords": [
+    "libertad de elección",
+    "sanidad pública",
+    "Comunidad de Madrid",
+    "atención primaria",
+    "atención especializada",
+    "derechos del paciente",
+    "área de salud única"
+  ],
+  "key_points": [
+    "Se crea un Área de Salud Única en toda la Comunidad de Madrid para evitar fronteras administrativas.",
+    "El paciente puede elegir médico de familia, pediatra y enfermero en cualquier momento y sin justificación.",
+    "En atención especializada, se puede elegir libremente el médico y el hospital de la red pública.",
+    "La elección de especialista implica que todo el proceso clínico se realice en el mismo hospital elegido.",
+    "La elección es individual, salvo en menores o personas incapacitadas donde la ejercen sus representantes.",
+    "Se permite la denegación excepcional de la elección de médico solo si el profesional lo solicita y se justifica por causas organizativas o de relación médico-paciente."
+  ],
+  "legal_references": [
+    "Ley 12/2001, de 21 de diciembre, de Ordenación Sanitaria de la Comunidad de Madrid",
+    "Estatuto de Autonomía de la Comunidad de Madrid"
+  ],
+  "derogatons": [
+    "Disposiciones de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": null,
+  "effective_date": "2010-02-12",
+  "procedures": [
+    {
+      "name": "Ejercicio de la libertad de elección",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de elección",
+          "description": "El paciente manifiesta su preferencia por un profesional o centro sanitario específico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "No se especifica, se regulará reglamentariamente."
+        },
+        {
+          "step": 2,
+          "title": "Asignación previa (si no hay elección)",
+          "description": "Si el paciente no elige, la administración asignará automáticamente un médico, pediatra o enfermero.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-2012-9370",
+  "title": "Ley Foral 11/2012, de 21 de junio, de la Transparencia y del Gobierno Abierto",
+  "visible_title": "Ley de la Transparencia y del Gobierno Abierto",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "11/2012",
+  "publication_date": "2012-07-14",
+  "enactment_date": "2012-06-21",
+  "last_updated": "2019-04-01",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2012/06/21/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley transforma la relación entre la Administración de Navarra y la ciudadanía, pasando de un modelo cerrado a uno de transparencia activa. Obliga a las instituciones a publicar de oficio datos clave como sueldos, contratos y presupuestos sin que nadie lo pida. Además, facilita que los ciudadanos participen directamente en la gestión pública y tengan acceso libre a la información sin necesidad de justificar por qué la quieren. Busca reducir la burocracia y garantizar que el uso de los fondos públicos sea totalmente rastreable.",
+  "citizen_impact": "Los ciudadanos ganan el derecho de consultar cualquier dato público (sueldos de cargos, contratos, urbanismo) sin dar explicaciones. También pueden participar en la toma de decisiones mediante foros o proponiendo leyes con 2.000 firmas, y tienen derecho a que la Administración responda a sus observaciones de forma motivada.",
+  "professional_impact": "Los altos cargos deben hacer públicos sus bienes y actividades. Las empresas y entidades que reciban subvenciones públicas tienen la nueva obligación de publicar las retribuciones de sus directivos y sus cuentas anuales. Los funcionarios deben adaptarse a nuevos estándares de publicación proactiva y plazos de respuesta estrictos.",
+  "keywords": [
+    "transparencia",
+    "gobierno abierto",
+    "acceso a la información",
+    "participación ciudadana",
+    "Navarra",
+    "open data",
+    "simplificación administrativa"
+  ],
+  "key_points": [
+    "Derecho de acceso a la información pública sin obligación de motivar la solicitud.",
+    "Obligación de publicidad activa de sueldos, contratos, presupuestos y planes urbanísticos.",
+    "Creación de un Portal de Gobierno Abierto con datos en formatos abiertos (Open Data).",
+    "Derecho a la reutilización de datos públicos para fines comerciales o no comerciales.",
+    "El silencio administrativo en solicitudes de información se entiende como estimación (positivo).",
+    "Creación del Registro de Participación y Colaboración Ciudadana para foros y paneles.",
+    "Derecho a presentar propuestas de iniciativas reglamentarias con 2.000 firmas.",
+    "Obligación de la Administración de responder de forma motivada a las observaciones ciudadanas.",
+    "Implementación de un Plan General de Simplificación Administrativa para reducir trámites.",
+    "Publicidad obligatoria de bienes y actividades de altos cargos y miembros del Gobierno.",
+    "Obligación de los beneficiarios de subvenciones de publicar cuentas anuales y sueldos de directivos."
+  ],
+  "legal_references": [
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Pública y del Procedimiento Administrativo Común",
+    "Ley 27/2006, de 18 de julio, de acceso a la información, participación pública y acceso a la justicia en materia de medio ambiente",
+    "Ley 11/2007, de 4 de abril, para la Implantación de la Administración Electrónica en la Comunidad Foral de Navarra",
+    "Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector público",
+    "Ley Foral 15/2004, de 3 de diciembre, de la Administración de la Comunidad Foral de Navarra",
+    "Ley Foral 21/2005, de 29 de diciembre, de evaluación de las políticas públicas",
+    "Ley Foral 15/2009, de 9 de diciembre, de medidas de simplificación administrativa",
+    "Ley Foral 2/2011, de 17 de marzo, por la que se establece un código de buen gobierno",
+    "LORAFNA (Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra)",
+    "Ley Foral 12/2007, de 4 de abril, de Archivos y Documentos",
+    "Ley Foral 6/2006, de 9 de junio, de Contratos Públicos",
+    "Ley Foral 35/2002, de 20 de diciembre, de Ordenación del Territorio y Urbanismo",
+    "Ley Foral 14/2004",
+    "Ley Foral 19/1996",
+    "Ley Foral 4/2005",
+    "Ley 19/2013"
+  ],
+  "derogations": [
+    "Ley Foral 11/2012 (derogada por la Ley Foral 12/2019)"
+  ],
+  "main_obligations": "La Administración debe responder a solicitudes de información en un plazo de 15 días (ampliable a 30 por complejidad). Los beneficiarios de subvenciones deben comunicar las retribuciones de sus órganos y sus cuentas anuales.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Solicitud de acceso a la información pública",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El ciudadano presenta la petición por cualquier medio indicando su identidad y la información deseada.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": "Identificación del solicitante y descripción de la información"
+        },
+        {
+          "step": 2,
+          "title": "Subsanación de errores (si procede)",
+          "description": "Si la solicitud es imprecisa, se pide al ciudadano que la concrete.",
+          "start_date": "Tras la recepción",
+          "end_date": "10 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de la solicitud",
+          "description": "La Administración concede o deniega la información. El silencio administrativo implica estimación.",
+          "start_date": "Desde la recepción",
+          "end_date": "15 días (general) o 30 días (complejo)",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Reclamación ante el Consejo de Transparencia",
+          "description": "Procedimiento potestativo para impugnar la denegación de la información.",
+          "start_date": "1 mes desde la notificación o silencio",
+          "end_date": "3 meses para resolver",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

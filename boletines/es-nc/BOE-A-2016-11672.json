@@ -1,0 +1,80 @@
+{
+  "identifier": "BOE-A-2016-11672",
+  "title": "Ley Foral 16/2016, de 11 de noviembre, de Cuentas Abiertas",
+  "visible_title": "Ley Foral de Cuentas Abiertas",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "16/2016",
+  "publication_date": "2016-12-08",
+  "enactment_date": "2016-11-11",
+  "last_updated": "2016-11-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2016/11/11/16",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece la obligación de que todas las cuentas bancarias de la Administración de Navarra, sus organismos, sociedades y fundaciones públicas sean de acceso libre para la ciudadanía. El objetivo es combatir la corrupción y garantizar la transparencia mediante la publicación de saldos y datos de las cuentas. Se busca que cualquier persona pueda fiscalizar cómo se gestiona el dinero público en la región.",
+  "citizen_impact": "Otorga a los ciudadanos el derecho de consultar en internet cuánto dinero tienen y cómo lo gestionan las instituciones públicas de Navarra. Esto permite un control social directo sobre el gasto público sin necesidad de solicitar información de forma individual.",
+  "professional_impact": "Los funcionarios y gestores de las entidades públicas navarras deben cumplir con nuevos deberes de transparencia, publicando datos bancarios trimestralmente en formatos abiertos. Las secretarías generales de cada departamento asumen la responsabilidad de vigilar que esta información esté siempre disponible y actualizada.",
+  "keywords": [
+    "transparencia",
+    "cuentas públicas",
+    "Navarra",
+    "rendición de cuentas",
+    "datos abiertos",
+    "control del gasto"
+  ],
+  "key_points": [
+    "Todas las cuentas de la Administración de Navarra y sus organismos vinculados son declaradas 'abiertas y accesibles'.",
+    "Se deben publicar datos específicos: clase de cuenta, titularidad, entidad bancaria (con IBAN codificado), NIF y saldo global.",
+    "La información debe actualizarse cada trimestre, detallando los saldos mensuales.",
+    "Los datos deben publicarse en formato 'abierto' para que puedan ser descargados y reutilizados por cualquier persona.",
+    "El Consejo de Transparencia de Navarra es el encargado de supervisar que se cumpla esta ley.",
+    "Se establece un plazo de 3 meses para la publicación inicial de cuentas y de 6 meses para permitir el acceso a extractos y movimientos."
+  ],
+  "legal_references": [
+    "Ley Foral 11/2012, de 21 de junio, de la Transparencia y del Gobierno Abierto",
+    "Constitución Española (artículo 105)",
+    "Ley Orgánica 15/1999, de 1 de diciembre, de Protección de Datos de Carácter Personal",
+    "Ley 19/2013, de 9 de diciembre, de Transparencia, Acceso a la Información Pública y Buen Gobierno",
+    "Real Decreto 3/2010, de 8 de enero, del Esquema Nacional de Seguridad",
+    "Real Decreto 4/2010, de 8 de enero, del Esquema Nacional de Interoperabilidad",
+    "Ley Foral 6/1990, de 2 de julio, de la Administración Local de Navarra"
+  ],
+  "derogations": [],
+  "main_obligations": "Las entidades públicas deben publicar sus cuentas y saldos en el Portal de Gobierno Abierto cada trimestre. Deben asegurar que los datos sean descargables y reutilizables en formatos abiertos, cumpliendo con los estándares de seguridad y la protección de datos.",
+  "effective_date": "2016-12-09",
+  "procedures": [
+    {
+      "name": "Implementación de la transparencia de cuentas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación inicial de cuentas",
+          "description": "Publicación de la totalidad de las cuentas, entidad bancaria, NIF y saldo.",
+          "start_date": "3 meses desde la publicación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Acceso a extractos y movimientos",
+          "description": "Disposición de mecanismos para acceder a los extractos y movimientos de las cuentas.",
+          "start_date": "6 meses desde la publicación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Actualización trimestral",
+          "description": "Actualización de la información publicada tras el cierre de cada trimestre.",
+          "start_date": "15 días después del fin de cada trimestre",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,103 @@
+{
+  "identifier": "BOE-A-2010-1710",
+  "title": "Ley 9/2009, de 22 de diciembre, regulaora de los Concejos Abiertos",
+  "visible_title": "Ley reguladora de los Concejos Abiertos",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "9/2009",
+  "publication_date": "2010-02-04",
+  "enactment_date": "2009-12-22",
+  "last_updated": "2015-02-03",
+  "status": "in_force",
+  "scope": "Autoonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2009/12/22/9",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley limita la aplicación del régimen de concejo abierto en Aragón para evitar problemas de gestión en municipios que no tienen tradición de democracia directa. Establece que este sistema solo será obligatorio para municipios de menos de 40 habitantes o aquellos con tradición histórica previa a 1985. El objetivo es garantizar que los municipios de mayor tamaño cuenten con un gobierno representativo (Ayuntamiento) más eficiente y técnicamente capaz.",
+  "citizen_impact": "Los vecinos de municipios muy pequeños (menos de 40 habitantes) seguirán decidiendo directamente en asambleas, pero los de entre 40 y 100 habitantes ahora tienen la opción de pasar a un sistema de Ayuntamiento con concejales para una gestión más profesional. Esto evita que la toma de decisiones dependa de la asistencia de unos pocos vecinos a reuniones vecinales.",
+  "professional_impact": "Los alcaldes de estos municipios cuentan con nuevas figuras de apoyo como los Tenientes de Alcalde y Comisiones Informativas para evitar el vacío institucional. Además, se facilita la colaboración con las comarcas para cubrir funciones técnicas como la de Secretario-Interventor, aliviando la carga administrativa de los municipios pequeños.",
+  "keywords": [
+    "Concejo abierto",
+    "Democracia directa",
+    "Aragón",
+    "Municipios",
+    "Régimen local",
+    "Asamblea vecinal",
+    "Alcalde"
+  ],
+  "key_points": [
+    "El régimen de concejo abierto se restringe a municipios de menos de 40 habitantes o con tradición histórica anterior a 1985.",
+    "Los municipios de entre 40 y 100 habitantes pueden solicitar pasar al régimen de Ayuntamiento (democracia representativa).",
+    "Se permite la figura de hasta cuatro Tenientes de Alcalde para sustituir al Alcalde en caso de ausencia o enfermedad.",
+    "Es obligatoria la creación de una Comisión de Cuentas para asegurar la transparencia en la gestión económica.",
+    "Se permite la representación de un miembro de la Asamblea por otros dos mediante poder notarial o ante el secretario.",
+    "Los municipios pueden solicitar la exención del puesto de Secretario-Interventor propio para que la comarca asuma esas funciones.",
+    "La falta de funcionamiento (no celebrar asambleas en 6 meses) puede provocar la fusión o disolución del municipio."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Aragón",
+    "Constitución Española",
+    "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+    "Ley 7/1999, de 9 de abril, de Administración Local de Aragón",
+    "Ley Orgánica del Régimen Electoral General"
+  ],
+  "derogations": [
+    "Sección primera del Capítulo VI del Título II de la Ley 7/1999, de 9 de abril, de Administración local de Aragón"
+  ],
+  "main_obligations": "Los municipios en régimen de concejo abierto deben celebrar sesiones ordinarias de la Asamblea al menos cada tres meses. Es obligatoria la creación de una Comisión de Cuentas para informar sobre las cuentas anuales antes de su aprobación.",
+  "effective_date": "2010-02-05",
+  "procedures": [
+    {
+      "name": "Solicitud de permanencia en régimen de concejo abierto (municipios 40-99 hab.)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de la Asamblea",
+          "description": "La Asamblea debe aprobar por mayoría absoluta la petición de mantener el régimen.",
+          "start_date": "6 meses desde la entrada en vigor de la ley",
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el correcto funcionamiento del concejo abierto"
+        },
+        {
+          "step": 2,
+          "title": "Resolución del Gobierno de Aragón",
+          "description": "El Gobierno de Aragón resuelve mediante Decreto tras los informes oportunos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Cambio de régimen de Concejo Abierto a Ayuntamiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo provisional",
+          "description": "La Asamblea aprueba el cambio por mayoría absoluta con una memoria justificativa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria justificativa de las ventajas del régimen representativo"
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "El acuerdo se somete a consulta ciudadana.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución definitiva",
+          "description": "El Gobierno de Aragón dicta un Decreto tras valorar las alegaciones.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

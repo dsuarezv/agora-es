@@ -1,0 +1,72 @@
+{
+  "identifier": "BOE-A-2012-412",
+  "title": "Ley 5/1997, de 30 de mayo, reguladora de utilización y control de los créditos destinados a gastos reservados",
+  "visible_title": "Regulación de utilización y control de los créditos destinados a gastos reservados",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "5/1997",
+  "publication_date": "2012-01-11",
+  "enactment_date": "1997-05-30",
+  "last_updated": "1997-06-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1997/05/30/5",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta ley establece un régimen especial para el manejo de fondos destinados a operaciones confidenciales de seguridad y lucha contra la criminalidad en el País Vasco. Al ser fondos de naturaleza secreta, se exime a su uso de los procedimientos ordinarios de justificación documental y control contable estándar. Para evitar abusos, la norma impone un control directo por parte de una comisión parlamentaria y exige declaraciones patrimoniales estrictas a los responsables.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta específicamente a los funcionarios del Departamento de Interior y autoridades con acceso a estos fondos, quienes deben cumplir con un régimen de secreto absoluto. Además, les impone la obligación de realizar declaraciones patrimoniales anuales detalladas y presentar sus impuestos de renta y patrimonio para asegurar la transparencia en el uso de estos fondos reservados.",
+  "keywords": [
+    "gastos reservados",
+    "seguridad pública",
+    "control presupuestario",
+    "confidencialidad",
+    "control parlamentario",
+    "País Vasco",
+    "departamento de interior"
+  ],
+  "key_points": [
+    "Los fondos solo pueden usarse para actividades confidenciales de prevención y represión de la criminalidad.",
+    "El uso de estos créditos está limitado exclusivamente al Departamento de Interior.",
+    "Se permite el uso de fondos sin necesidad de presentar justificación documental ordinaria para proteger el secreto de las operaciones.",
+    "Cualquier aumento en la cantidad de dinero asignado a estos gastos requiere autorización previa del Parlamento Vasco.",
+    "El control de estos fondos no lo realiza la contabilidad general, sino una comisión parlamentaria específica.",
+    "Los responsables del gasto deben presentar una declaración de bienes y derechos patrimoniales al tomar posesión y cada año entre junio y julio."
+  ],
+  "legal_references": [
+    "Ley 14/1994, de 30 de junio, de Control económico y contabilidad de la Comunidad Autónoma del País Vasco",
+    "Ley 1/1988, de 5 de febrero, del Tribunal Vasco de Cuentas Públicas",
+    "Decreto Legislativo 1/1994, de 27 de septiembre, por el que se aprueba el Texto Refundido de las disposiciones legales vigentes sobre Régimen Presupuestario de Euaskadi",
+    "Estatuto de Autonomía del País Vasco"
+  ],
+  "derogations": [
+    "Disposición adicional única de la Ley 1/1988, de 5 de febrero, del Tribunal Vasco de Cuentas Públicas / Herri-Kontuen Euaskal Epaitegia"
+  ],
+  "main_obligations": "Los responsables del gasto deben mantener estricto secreto sobre la información y realizar declaraciones patrimoniales anuales entre el 15 de junio y el 15 de julio, adjuntando copias de sus impuestos de renta y patrimonio.",
+  "effective_date": "1997-06-11",
+  "procedures": [
+    {
+      "name": "Control y declaración patrimonial de autoridades",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración al tomar posesión",
+          "description": "Presentación de la declaración especial sobre la situación patrimonial al asumir el cargo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración de bienes y derechos patrimoniales"
+        },
+        {
+          "step": 2,
+          "title": "Declaración anual obligatoria",
+          "description": "Presentación de la declaración patrimonial anual para control de fondos.",
+          "start_date": "06-15",
+          "end_date": "07-15",
+          "required_documentation": "Copias de impuestos sobre la renta (IRPF) y sobre el patrimonio"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,208 @@
+{
+  "identifier": "BOE-A-2006-5208",
+  "title": "Ley 1/2006, de 28 de febrero, de protección de menores de La Rioja",
+  "visible_title": "Protección de menores de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "1/2006",
+  "publication_date": "2006-03-23",
+  "enactment_date": "2006-02-28",
+  "last_updated": "2021-02-01",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2006/02/28/1",
+  "official_journal": "Boletín Oficial de La Rioja",
+  "journal_issue": null,
+  "summary": "Esta ley establece cómo la Administración de La Rioja debe intervenir para proteger a los menores en situaciones de riesgo o desamparo. Su objetivo es garantizar derechos fundamentales como la salud, la educación y la identidad, priorizando siempre el bienestar del niño. La norma diferencia entre ayudar a las familias para que puedan cuidar de sus hijos y asumir la tutela total cuando la familia no es capaz. Además, regula los procesos de acogimiento familiar y adopción, buscando que los menores crezcan en entornos familiares en lugar de centros residenciales.",
+  "citizen_impact": "Los ciudadanos se ven afectados en su capacidad de proteger a menores: los padres pueden recibir ayuda técnica o económica en situaciones de riesgo, pero pueden perder la patria potestad en casos de desamparo. Los ciudadanos que deseen adoptar deben cumplir con procesos de formación obligatorios y declaraciones de idoneidad con caducidad. Asimismo, se prohíbe estrictamente la venta de alcohol y tabaco a menores y su acceso a espectáculos violentos.",
+  "professional_impact": "Los centros educativos y sanitarios tienen la obligación legal de comunicar casos de absentismo o desprotección. Los funcionarios deben mantener estricta confidencialidad. Los profesionales de acogimiento deben realizar informes de seguimiento semestrales, y los centros de menores están sujetos a inspecciones semestrales obligatorias.",
+  "keywords": [
+    "protección de menores",
+    "desamparo",
+    "acogimiento familiar",
+    "adopción",
+    "tutela",
+    "La Rioja",
+    "derechos de la infancia"
+  ],
+  "key_points": [
+    "Diferenciación entre situación de riesgo (apoyo a la familia) y situación de desamparo (tutela de la Administración).",
+    "Prioridad absoluta al acogimiento en familias frente al acogimiento en centros residenciales.",
+    "Derecho de los menores de 12 años a ser oídos en procedimientos que les afecten, según su madurez.",
+    "Obligación de los centros educativos y sanitarios de informar sobre absentismo o desprotección.",
+    "Prohibición de venta de alcohol y tabaco a menores y su entrada en espectáculos violentos o pornográficos.",
+    "El acogimiento de urgencia tras un desamparo tiene un límite máximo de tres meses.",
+    "La declaración de idoneidad para adoptar caduca a los tres años si no se ha seleccionado un menor.",
+    "El silencio administrativo ante una solicitud de guarda de un menor se entiende como desestimación.",
+    "Los padres que soliciten la guarda para sus hijos con recursos económicos deben abonar los gastos de manutención a la Administración.",
+    "Los adoptantes internacionales tienen la obligación de comunicar la llegada del menor a España."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de La Rioja",
+    "Ley 4/1998, de 18 de marzo, del Menor",
+    "Constitución Española",
+    "Ley Orgánica 1/1996, de Protección del Menor",
+    "Ley 3/2003, de organización del sector público de la Comunidad Autónoma de La Rioja",
+    "Código Civil (especialmente art. 172.1 y 172.4)",
+    "Ley Orgánica 5/2000, de responsabilidad penal de los menores",
+    "Ley de Enjuiciamiento Civil",
+    "Ley 2/2002, de 17 de abril, de Salud de La Rioja",
+    "Ley 26/2015, de 28 de julio",
+    "Convenio de La Hayas de 1993 sobre Adopción Internacional"
+  ],
+  "derogations": [
+    "Ley 4/1998, de 18 de marzo, del Menor"
+  ],
+  "main_obligations": "Los centros educativos y sanitarios deben comunicar casos de riesgo o absentismo. Los acogedores deben colaborar con informes de seguimiento semestrales y los centros deben someterse a inspecciones cada seis meses.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Declaración de situación de desamparo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del expediente",
+          "description": "Apertura de expediente administrativo de protección tras detectar la situación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudio pormenorizado de la situación personal y sociofamiliar."
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y audiencia",
+          "description": "Se realiza el estudio y se da audiencia a padres, tutores y al menor (si es mayor de 12 años).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución definitiva",
+          "description": "Dictado de la resolución que declara el desamparo o extingue el expediente.",
+          "start_date": "Desde el inicio del expediente",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Atención inmediata en casos de urgencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Intervención de Servicios Sociales",
+          "description": "Adopción de medidas urgentes para preservar la vida o integridad del menor sin requisitos de forma.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comunicación a la autoridad",
+          "description": "Notificación de la actuación al Ministerio Fiscal y a los representantes legales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Formalización de ingreso (si aplica)",
+          "description": "Si requiere ingreso en centro, el Director puede acordarlo y debe informar al Juez en 48 horas.",
+          "start_date": null,
+          "end_date": "48 horas",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de guarda del menor por parte de padres o tutores",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El interesado presenta la solicitud ante la Dirección General competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Instrucción del expediente",
+          "description": "Se inicia el expediente y se escucha al menor si tiene 12 años o madurez suficiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "La Consejería dicta resolución aceptando o denegando la guarda. El silencio administrativo implica denegación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Proceso de declaración de idoneidad para adopción",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y valoración",
+          "description": "La Administración evalúa la aptitud de los solicitantes en un plazo máximo de 6 meses.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución de idoneidad",
+          "description": "Se notifica la resolución. Si no se resuelve en 6 meses, se entiende como negativa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Vigencia",
+          "description": "La idoneidad caduca a los 3 años si no se ha realizado una adopción.",
+          "start_date": null,
+          "end_date": "3 años",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acogimiento de urgencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración de desamparo de urgencia",
+          "description": "Se procede al acogimiento inmediato tras la declaración de desamparo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comunicación",
+          "description": "Se debe comunicar al Ministerio Fiscal y a los padres en un plazo de 48 horas.",
+          "start_date": null,
+          "end_date": "48 horas",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Duración máxima",
+          "description": "El acogimiento de urgencia no puede exceder los 3 meses.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

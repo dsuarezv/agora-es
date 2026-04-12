@@ -1,0 +1,81 @@
+{
+  "identifier": "BOE-A-2009-7196",
+  "title": "Ley 1/2009, de 30 de marzo, del Consejo Consultivo de Aragón",
+  "visible_title": "Ley del Consejo Consultivo de Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "1/2009",
+  "publication_date": "2009-04-30",
+  "enactment_date": "2009-03-30",
+  "last_updated": "2021-07-02",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2009/03/30/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea y regula el Consejo Consultivo de Aragón como el máximo órgano de asesoramiento jurídico para el Gobierno y la Administración de la Comunidad Autónoma. Sustituye a la antigua Comisión Jurídica Asesora para dotar a la región de una instancia de consulta con mayor independencia y prestigio. Su función principal es garantizar la legalidad de las decisiones administrativas y proteger los derechos de los ciudadanos aragoneses mediante dictámenes técnicos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que es una norma de organización institucional interna de la administración autonómica.",
+  "professional_impact": "Afecta a funcionarios y cargos públicos de Aragón, quienes deben consultar al Consejo en procesos clave como reformas del Estatuto, reglamentos o contratos de gran cuantía. Establece requisitos de prestigio y experiencia para los miembros del Consejo y define sus incompatibilidades con otros cargos políticos o judiciales.",
+  "keywords": [
+    "Consejo Consultivo de Aragón",
+    "asesoramiento jurídico",
+    "administración autonómica",
+    "dictámenes preceptivos",
+    "derecho administrativo aragonés"
+  ],
+  "key_points": [
+    "Creación del Consejo Consultivo como órgano supremo de consulta con autonomía orgánica y funcional.",
+    "Composición mixta: 6 jurisitas de prestigio y 2 miembros con trayectoria en cargos públicos de relevancia.",
+    "Obligatoriedad de dictamen en reformas del Estatuto de Autonomía y proyectos de reglamentos ejecutivos.",
+    "Plazo general de emisión de dictámenes de 30 días, reducible a 15 días por urgencia motivada.",
+    "Los dictámenes no son vinculantes, salvo que una ley específica así lo determine.",
+    "El Consejo cuenta con presupuesto propio dentro de los presupuestos de la Comunidad Autónoma.",
+    "Los miembros tienen prohibido ejercer funciones directivas en partidos, sindicatos o la carrera judicial/fiscal."
+  ],
+  "legal_references": [
+    "Ley 1/1995, de 16 de febrero, del Presidente y del Gobierno de Aragón",
+    "Ley Orgánica 5/2007, de 20 de abril (Estatuto de Autonomía de Aragón)",
+    "Texto Refundido de la Ley del Presidente y del Gobierno de Aragón (Decreto Legislativo 1/2001)",
+    "Ley 26/2001, de 28 de diciembre, de Medidas Tributarias y Administrativas"
+  ],
+  "derogations": [
+    "Título VI del Texto Refundido de la Ley del Presidente y del Gobierno de Aragón (aprobado por Decreto Legislativo 1/2001)",
+    "Artículo 24 de la Ley 26/2001, de 28 de diciembre, de Medidas Tributarias y Administrativas",
+    "Comisión Jurídica Asesora"
+  ],
+  "main_obligations": "El Consejo debe emitir dictámenes en los plazos establecidos (30 días estándar, 15 días por urgencia). Los miembros deben abstenerse en casos de conflicto de intereses o parentesco. El Consejo tiene la obligación de guardar secreto sobre las deliberaciones.",
+  "effective_date": "2009-04-30",
+  "procedures": [
+    {
+      "name": "Emisión de dictamen del Consejo Consultivo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de consulta",
+          "description": "El Gobierno o entes locales remiten la solicitud acompañada del expediente administrativo completo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Expediente administrativo completo"
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y posible ampliación",
+          "description": "El Consejo puede solicitar documentación adicional, lo que interrumpe el plazo.",
+          "start_date": "Desde la recepción de la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Emisión del dictamen",
+          "description": "Resolución técnica del Consejo en un plazo de 30 días (o 15 si es urgente).",
+          "start_date": "Desde la recepción o tras completar documentación",
+          "end_date": "30 días (o 15 si hay urgencia, con prórroga de 15 días por complejidad)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

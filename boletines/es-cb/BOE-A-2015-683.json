@@ -1,0 +1,206 @@
+{
+  "identifier": "BOE-A-2015-683",
+  "title": "Ley 5/2014, de 26 de diciembre, de Vivienda Protegida de Cantabria",
+  "visible_title": "Ley de Vivienda Protegida de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "5/2014",
+  "publication_date": "2015-01-27",
+  "enactment_date": "2014-12-26",
+  "last_updated": "2025-04-04",
+  "status": "in_force",
+  "scope": "Autoonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2014/12/26/5",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas de juego para la vivienda protegida en Cantabria, regulando desde cómo se calcula su precio hasta quién tiene prioridad para acceder a ella. Su objetivo es garantizar que las familias con menos recursos puedan acceder a un hogar estable y evitar abusos en los precios de venta y alquiler. Además, crea herramientas de protección como un fondo de emergencia para evitar desahucios y una oficina para ayudar en problemas hipotecarios. En definitiva, busca organizar el parque de vivienda protegida para que cumpla su función social.",
+  "citizen_impact": "Los ciudadanos que busquen vivienda protegida tienen ahora reglas claras sobre el precio máximo (basado en metros cuadrados y módulos autonómicos) y límites de ingresos (máximo 4,5 veces el IPREM). Se otorga prioridad y beneficios especiales a colectivos vulnerables como víctimas de violencia de género, terrorismo o personas con discapacidad. Además, se protege al comprador frente a sobreprecios y se facilita la gestión de la compraventa mediante notarías.",
+  "professional_impact": "Los promotores deben cumplir con obligaciones estrictas de publicidad informativa y cartelería en obra. Los propietarios que quieran vender viviendas protegidas bajo ciertos incentivos deben reintegrar subvenciones y asegurar el uso de la vivienda como domicilio habitual. Se agilizan los trámites administrativos mediante el silencio positivo en procedimientos que favorecen al interesado.",
+  "keywords": [
+    "vivienda protegida",
+    "Cantabria",
+    "alquiler protegido",
+    "precio máximo",
+    "IPREM",
+    "fondo de emergencia habitacional",
+    "acceso a la vivienda"
+  ],
+  "key_points": [
+    "El precio de venta se calcula multiplicando la superficie útil por el módulo básico de 758€/m² ajustado por coeficientes.",
+    "El alquiler anual máximo se fija en el 5% del precio de venta (o 4% en régimen autonómico).",
+    "Para acceder, los ingresos familiares no deben superar 4,5 veces el IPREM (ponderado).",
+    "Prioridad absoluta para víctimas de terrorismo, violencia de género, personas con discapacidad o afectados por ejecuciones hipotecarias.",
+    "Las viviendas deben ser la residencia habitual, con obligación de ocupación en 6 meses (salvo excepciones de hasta 3 años por estudios, trabajo o enfermedad).",
+    "Se crea un Fondo de Emergencia Habitacional y una Oficina de Intermediación Hipotecaria para prevenir desahucios.",
+    "El régimen de protección suele ser de 30 años, aunque puede reducirse a 20 o 10 años según el suelo y subvenciones.",
+    "Se establece el silencio positivo en trámites que beneficien al interesado y negativo para terceros.",
+    "Límites de superficie: máximo 90 m² útiles, 25 m² para garajes y 8 m² para trastos.",
+    "Los anexos, garajes o trasteros tienen un precio máximo del 60% respecto al de la vivienda."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Cantabria",
+    "Real Decreto-ley 31/1978",
+    "Real Decreto 3148/1978",
+    "Decreto 2114/1968",
+    "Ley 17/2009 de libre acceso a las actividades de servicios",
+    "Real Decreto 233/2013",
+    "Real Decreto 727/1993",
+    "Ley 10/2006 de Subvenciones de Cantabria",
+    "IPREM"
+  ],
+  "derogatons": [
+    "Real Decreto-ley 31/1978 (en lo que afecte a la competencia autonómica)",
+    "Regímenes de vivienda de protección oficial anteriores al RDL 31/1978 (en ciertos supuestos de suelo no expropiado)",
+    "Decreto 34/1998, de 17 de abril, de actividad patrimonial en materia de promoción pública de la Consejería de Obras Públicas, Vivienda y Urbanismo"
+  ],
+  "main_obligations": "Los usuarios deben inscribirse en el Registro de demandantes y utilizar la vivienda como domicilio habitual. Los promotores deben informar claramente sobre la naturaleza de la vivienda en su publicidad y los contratos de compraventa deben elevarse a escritura pública en un plazo de 3 meses tras el requerimiento.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Calificación de la vivienda protegida",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de calificación",
+          "description": "Presentación de la solicitud ante la consejería competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución administrativa",
+          "description": "La administración debe dictar resolución expresa en un plazo máximo de 3 meses.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización para no ocupar temporalmente la vivienda",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Solicitud por motivos laborales, estudios o enfermedad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de la causa (trabajo, estudios o enfermedad)"
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "La administración debe resolver en un plazo máximo de 3 meses. Si no hay respuesta, se entiende estimada.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización o visado de contratos de transmisión",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación del contrato",
+          "description": "Los contratos privados deben presentarse en la Consejería en el plazo de un mes desde su celebración.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la autoridad",
+          "description": "La administración debe resolver en un plazo de 2 meses. Si no hay respuesta, se entiende desfavorable.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de resolución de contrato (Viviendas de la CA)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de inicio",
+          "description": "Se comunica al titular la posible resolución del contrato.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Alegaciones",
+          "description": "El titular tiene 15 días para presentar alegaciones.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Regularización de impagos (si aplica)",
+          "description": "Si la causa es impago, se otorga un mes para regularizar la situación.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Transmisión de vivienda protegida mediante colaboración notarial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de trámites",
+          "description": "El interesado solicita al notario la obtención de autorizaciones, certificados o informes ante la Administración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Obtención de información",
+          "description": "El notario gestiona telemáticamente las autorizaciones y limitaciones de la vivienda ante el órgano competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Remisión de copias",
+          "description": "El notario envía electrónicamente a la Administración copia de las escrituras de los negocios jurídicos realizados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública"
+        }
+      ]
+    },
+    {
+      "name": "Acceso a vivienda protegida por ingresos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cálculo de ingresos",
+          "description": "Se determina la base imponible general y de ahorro de cada miembro de la unidad familiar según el IRPF.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración de la renta (último periodo)"
+        },
+        {
+          "step": 2,
+          "title": "Ponderación por unidad familiar",
+          "description": "Se aplica el coeficiente correspondiente según el número de miembros y si existen colectivos preferentes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

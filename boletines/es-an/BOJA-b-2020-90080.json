@@ -1,0 +1,103 @@
+{
+  "identifier": "BOJA-b-2020-90080",
+  "title": "Decreto-ley 6/2020, de 30 de marzo, por el que se establecen medidas administrativas extraordinarias y urgentes en el ámbito social y económico como consecuencia de la situación ocasionada por el coronavirus (COVID-19)",
+  "visible_title": "Medidas administrativas extraordinarias y urgentes en el ámbito social y económico por COVID-19",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "6/2020",
+  "publication_date": "2020-03-30",
+  "enactment_date": "2020-03-30",
+  "last_updated": "2021-10-18",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOJA-b-2020-90080",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": "90080",
+  "summary": "Esta norma implementa ayudas de emergencia para mitigar el impacto social y económico de la pandemia de COVID-19 en Andalucía. Establece mecanismos para agilizar la concesión de la Renta Mínima de Inserción Social y garantiza la continuidad de los servicios de comedor escolar en centros privados subvencionados. Además, incentiva la investigación científica sobre el virus y flexibiliza la formación de la Policía Local para permitir su incorporación inmediata a los ayuntamientos.",
+  "citizen_impact": "Las familias en situación de vulnerabilidad pueden recibir la Renta Mínima de Inserción de forma provisional y rápida sin esperar los trámites ordinarios. También se agiliza el cobro de ayudas al alquiler para jóvenes y personas con pocos ingresos mediante notificaciones colectivas en el BOJA.",
+  "professional_impact": "Los centros docentes privados mantienen sus subvenciones de comedor aunque no puedan prestar el servicio presencialmente. Los investigadores del Sistema Andaluz del Conocimiento acceden a nuevas subvenciones para proyectos sobre el SARS-CoV-2, y los funcionarios de servicios esenciales ven agilizados sus procesos de contratación y nombramiento.",
+  "keywords": [
+    "COVID-19",
+    "Andalucía",
+    "Renta Mínima de Inserción Social",
+    "ayudas sociales",
+    "investigación científica",
+    "comedor escolar",
+    "emergencia social"
+  ],
+  "key_points": [
+    "Concesión provisional y rápida de la Renta Mínima de Inserción Social para casos de urgencia durante el estado de alarma.",
+    "Prórroga automática de todas las prestaciones sociales que venzan durante el estado de alarma.",
+    "Garantía de subvenciones de comedor escolar para centros privados aunque el servicio no sea presencial por el cierre de centros.",
+    "Creación de fondos de hasta 2,95 millones de euros para investigar el SARS-CoV-2 y el COVID-19.",
+    "Agilización de la notificación de ayudas al alquiler mediante publicación conjunta en el BOJA para evitar retrasos.",
+    "Flexibilización de los cursos de la Escuela de Seguridad Pública para acelerar la incorporación de policías locales.",
+    "Modificación de procedimientos de contratación para asegurar la continuidad de los servicios públicos esenciales."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020",
+    "Decreto-ley 3/2020, de 16 de marzo",
+    "Decreto-ley 3/2017, de 19 de diciembre",
+    "Ley 39/2015, de 1 de octubre",
+    "Estatuto de Autonomía para Andalucía"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan al presente Decreto-ley"
+  ],
+  "main_obligations": null,
+  "effective_date": "2020-03-30",
+  "procedures": [
+    {
+      "name": "Concesión extraordinaria de la Rentas Mínima de Inserción Social (RMISA)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de urgencia o emergencia social",
+          "description": "Presentación de solicitud con acreditación de servicios sociales (Anexo V).",
+          "start_date": "Durante el estado de alarma y sus prórrogas",
+          "end_date": null,
+          "required_documentation": "Anexo V firmado por trabajador/a social"
+        },
+        {
+          "step": 2,
+          "title": "Resolución provisional favorable",
+          "description": "Aprobación inmediata de la ayuda como anticipo a cuenta de la definitiva.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Revisión y resolución definitiva",
+          "description": "Comprobación de requisitos (residencia, ingresos, patrimonio) tras el estado de alarma.",
+          "start_date": "3 meses después de la finalización del estado de alarma",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Subvenciones para investigación SARS-COV-2",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de ayudas",
+          "description": "Publicación de la convocatoria por la Secretaría General de Universidades, Investigación y Tecnología.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Concesión en régimen no competitivo",
+          "description": "Tramitación de urgencia con plazos reducidos a la mitad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

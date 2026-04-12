@@ -1,0 +1,84 @@
+{
+  "identifier": "BOE-A-2017-10294",
+  "title": "Ley 7/2017, de 28 de junio, de Venta Local de Productos Agroalimentarios en Aragón",
+  "visible_title": "Ley de Venta Local de Productos Agroalimentarios en Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "7/2017",
+  "publication_date": "2017-09-08",
+  "enactment_date": "2017-06-28",
+  "last_updated": "2017-07-13",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2017/06/28/7",
+  "official_journal": "Boletín Oficial de Aragón",
+  "journal_issue": null,
+  "summary": "Esta ley busca dinamizar el mundo rural aragonés facilitando que los productores vendan sus alimentos directamente al consumidor o con un solo intermediario. Introduce dos modalidades: la venta directa y la venta en canal corto de comercialización. Además, permite flexibilizar las normas de higiene para adaptarse a pequeños productores y métodos tradicionales sin perder la seguridad alimentaria.",
+  "citizen_impact": "Los consumidores tendrán más facilidades para encontrar y comprar productos locales, frescos y de temporada en Aragón. Se implementará un distintivo único y señalización en carreteras para identificar fácilmente estos puntos de venta de proximidad.",
+  "professional_impact": "Los agricultores y ganaderos pueden aumentar sus ingresos al vender directamente sin grandes intermediarios, aunque deben llevar registros de trazabilidad. Los establecimientos locales (tiendas, restaurantes) que participen en la venta en canal corto deberán realizar una declaración responsable y llevar un registro de sus proveedores.",
+  "keywords": [
+    "venta directa",
+    "canal corto de comercialización",
+    "productos agroalimentarios",
+    "desarrollo rural",
+    "Aragón",
+    "higiene alimentaria",
+    "proximidad"
+  ],
+  "key_points": [
+    "Creación de la modalidad de 'venta en canal corto' con un máximo de un intermediario.",
+    "Flexibilización de requisitos de higiene para pequeños productores y métodos tradicionales.",
+    "Implementación de un distintivo único para identificar puntos de venta local.",
+    "Obligatoriedad de llevar registros de trazabilidad para productores y establecimientos.",
+    "Creación de una base de datos de venta local gestionada por el Gobierno de Aragón.",
+    "Exclusión de productos de caza, pesca y animales vivos (salvo caracoles) de esta ley.",
+    "Desarrollo de un sistema de señalización en carreteras para localizar puntos de venta."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Aragón",
+    "Reglamento (UE) n.º 1305/2013",
+    "Reglamento (CE) n.º 852/2004",
+    "Reglamento (CE) n.º 853/2004",
+    "Reglamento (UE) n.º 1169/2011",
+    "Ley 4/2015, de 25 de marzo, de Comercio de Aragón",
+    "Real Decreto 30/2009"
+  ],
+  "derogations": [
+    "Modificación parcial de la Ley 4/2015, de 25 de marzo, de Comercio de Aragón"
+  ],
+  "main_obligations": "Los productores deben estar inscritos en los registros agrarios/ganaderos correspondientes y llevar un registro de ventas (producto, cantidad, fecha y lugar). Los establecimientos locales deben presentar una declaración responsable y registrar sus adquisiciones para garantizar la trazabilidad.",
+  "effective_date": "2017-09-28",
+  "procedures": [
+    {
+      "name": "Implementación de la Ley",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Desarrollo de guías de buenas prácticas higiénico-sanitarias",
+          "description": "El Gobierno de Aragón debe elaborar guías para adaptar la normativa de higiene a la venta local.",
+          "start_date": "6 meses desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Regulación de cantidades máximas",
+          "description": "Determinación de los volúmenes máximos de productos que pueden comercializarse bajo esta ley.",
+          "start_date": "6 meses desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Sistema de señalización vial",
+          "description": "Desarrollo de señalización en carreteras para identificar unidades de producción y establecimientos.",
+          "start_date": "1 año desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

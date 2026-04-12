@@ -1,0 +1,74 @@
+{
+  "identifier": "BOE-A-2025-22665",
+  "title": "Instrucción 3/2025, de 6 de noviembre, de la Junta Electoral Central, sobre aplicación de los artículos 44.bis, 187.2 y 206 de la LOREG en la redacción dada por la Ley Orgánica 2/2024, de 1 de agosto, de representación paritaria y presencia equilibrada de mujeres y hombres",
+  "visible_title": "Instrucción sobre aplicación de la paridad y presencia equilibrada de mujeres y hombres en las candidaturas electorales",
+  "rank": "instrucción",
+  "country": "es",
+  "department": "Junta Electoral Central",
+  "official_number": "3/2025",
+  "publication_date": "2025-11-10",
+  "enactment_date": "2025-11-06",
+  "last_updated": "2025-11-10",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/ins/2025/11/06/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "270",
+  "summary": "Esta instrucción aclara cómo deben presentarse las listas electorales para cumplir con las nuevas leyes de paridad de género. Establece que la alternancia de sexos debe incluir tanto a titulares como a suplentes y define que la identificación de género en las listas debe coincidir estrictamente con el DNI. Además, regula el procedimiento para corregir errores en las candidaturas antes de las elecciones.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en su derecho a elegir representantes en listas que garantizan una composición equilibrada de hombres y mujeres.",
+  "professional_impact": "Afecta directamente a los partidos políticos y sus representantes, quienes deben asegurar que sus listas incluyan la mención de sexo (hombre/mujer) según el DNI. Los responsables de las candidaturas deben estar atentos a un plazo de subsanación muy breve de solo 48 horas si cometen errores en la composición de la lista.",
+  "keywords": [
+    "paridad electoral",
+    "representación equilibrada",
+    "listas electorales",
+    "Junta Electoral Central",
+    "LOREG",
+    "género en candidaturas"
+  ],
+  "key_points": [
+    "La regla de paridad se aplica al conjunto de la lista, integrando obligatoriamente a titulares y suplentes.",
+    "En las listas debe indicarse explícitamente si el candidato es hombre o mujer, coincidiendo con su DNI.",
+    "No se permiten otras menciones de identidad de género distintas a las registradas en el DNI para efectos de la lista electoral.",
+    "Si una lista no cumple con la paridad, las Juntas electorales darán un plazo de 48 horas para corregirlo.",
+    "La excepción de 'acción positiva' (más del 60% de un sexo) no puede usarse para saltarse las reglas de alternancia en las listas electorales.",
+    "En municipios de entre 3.000 y 5.000 habitantes, ningún sexo puede superar el 60% ni ser inferior al 40%."
+  ],
+  "legal_references": [
+    "Ley Orgánica 2/2024, de 1 de agosto",
+    "Ley Orgánica del Régimen Electoral General (LOREG)",
+    "Ley 20/2011, de 21 de julio, del Registro Civil",
+    "Ley 4/2023, de 28 de febrero",
+    "Instrucción 5/2007 de la JEC",
+    "Instrucción 8/2007 de la JEC"
+  ],
+  "derogatons": [
+    "Instrucción 5/2007, de 12 de abril, de la Junta Electoral Central",
+    "Instrucción 8/2007, de 19 de abril, de la Junta Electoral Central"
+  ],
+  "main_obligations": "Los partidos deben presentar candidaturas con alternancia de sexos que incluya a suplentes y especificar el sexo de cada candidato según su DNI. En caso de error, tienen un plazo máximo de 48 horas para subsanar la irregularidad mediante la modificación del orden o la inclusión/exclusión de candidatos.",
+  "effective_date": "2025-11-11",
+  "procedures": [
+    {
+      "name": "Subsanación de irregularidades en candidaturas electorales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de irregularidad",
+          "description": "La Junta Electoral comunica al representante de la candidatura que la lista no cumple con los requisitos de paridad o forma.",
+          "start_date": "Al detectarse el error",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de subsanación",
+          "description": "El partido debe corregir el error (cambiando el orden, incluyendo o excluyendo personas) para cumplir la ley.",
+          "start_date": "Desde la comunicación",
+          "end_date": "48 horas después",
+          "required_documentation": "Nueva composición de la lista o modificación del orden"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

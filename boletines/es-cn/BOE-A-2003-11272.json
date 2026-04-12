@@ -1,0 +1,120 @@
+{
+  "identifier": "BOE-A-2003-11272",
+  "title": "Ley 14/2003, de 8 de abril, de Puertos de Canarias",
+  "visible_title": "Ley de Puertos de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "14/2003",
+  "publication_date": "2003-06-05",
+  "enactment_date": "2003-04-08",
+  "last_updated": "2017-07-19",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2003/04/08/14",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley transforma la gestión de los puertos canarios mediante la creación de 'Puertos Canarias', una entidad pública diseñada para operar con agilidad empresarial. El nuevo modelo busca que los puertos no solo cubran sus costes, sino que sean rentables y sostenibles ambientalmente. Además, establece reglas estrictas para el uso del dominio público, la concesión de espacios y la gestión de embarcaciones. Con esto, se busca profesionalizar el sector y asegurar que la infraestructura portuaria sea un motor económico eficiente para las islas.",
+  "citizen_impact": "El ciudadano puede verse afectado en su derecho al uso de puertos deportivos, ya que la ley reserva un 15% de amarres para embarcaciones de uso público/transiente. Asimismo, garantiza que los puertos mantengan servicios mínimos y un entorno libre de vertidos contaminantes.",
+  "professional_impact": "Las empresas del sector marítimo y concesionarios enfrentan nuevas exigencias: deben participar en concursos públicos para ocupar el dominio portuario, presentar fianzas (2% provisional y 5% definitiva) y cumplir con estrictas normas de mantenimiento. Cualquier cambio de control en la empresa concesionaria requiere autorización, y el impago de tarifas puede suponer la expulsión del puerto.",
+  "keywords": [
+    "puertos canarios",
+    "Puertos Canarias",
+    "concesiones portuarias",
+    "dominio público marítimo",
+    "tarifas portuarias",
+    "gestión portuaria"
+  ],
+  "key_points": [
+    "Creación de 'Puertos Canarias' como entidad pública con gestión ágil y patrimonio propio.",
+    "División de puertos en de interés general (autonómicos) e interés insular (cabildos).",
+    "Nuevo modelo de tarifas que incluye la rentabilidad de la inversión y costes ambientales.",
+    "Obligatoriedad de concurso público para la ocupación del dominio público portuario.",
+    "El Plan de Puertos tiene rango de Plan Territorial Especial y prevalece sobre el urbanismo municipal.",
+    "Cualquier cambio de control mayoritario en una empresa concesionaria se considera transmisión de la concesión.",
+    "Los herederos tienen un plazo máximo de 4 años para solicitar la subrogación en una concesión tras el fallecimiento del titular.",
+    "Al finalizar la concesión, todas las obras y terrenos deben revertir a la Administración en buen estado y sin cargas.",
+    "Reserva obligatoria del 15% de amarres en puertos deportivos para uso público de embarcaciones transientes.",
+    "El impago de 3 recibos consecutivos o 5 alternos conlleva la suspensión del servicio y prohibición de entrada al puerto.",
+    "Presunción de abandono de embarcación tras 6 meses de inactividad y falta de pago de tarifas.",
+    "Establecimiento de un régimen sancionador para proteger el dominio portuario."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Canarias",
+    "Ley Orgánica 4/1996",
+    "Ley de Puertos del Estado y de la Marina Mercante",
+    "Sentencia del Tribunal Constitucional 40/1998",
+    "Directiva 97/11/CE",
+    "Real Decreto-Ley 9/2000",
+    "Sentencia del Tribunal Constitucional 185/1995",
+    "Ley de la Hacienda Pública de la Comunidad Autónoma de Canarias",
+    "Decreto Legislativo 1/2000",
+    "Legislación reguladora del dominio público marítimo-terrestre",
+    "Ley 14/1990, de 26 de diciembre",
+    "Ley 30/1984, de 28 de agosto",
+    "Ley 27/1992, de 14 de julio",
+    "Ley 62/1997, de 13 de diciembre"
+  ],
+  "derogatons": [],
+  "main_obligations": "Las empresas que ocupen el dominio público deben obtener concesiones o autorizaciones y presentar fianzas (2% provisional y 5% definitiva). Los concesionarios deben mantener las instalaciones en buen estado para su reversión y cumplir con la prohibición de vertidos.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Subrogación de concesión por fallecimiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de voluntad de subrogación",
+          "description": "Los herederos deben comunicar su intención de continuar con la concesión.",
+          "start_date": "Tras el fallecimiento del titular",
+          "end_date": "4 años",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de impagos de servicios portuarios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acumulación de impagos",
+          "description": "Se detecta el impago de 3 recibos consecutivos o 5 alternos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Suspensión y prohibición",
+          "description": "Se procede a la suspensión del servicio y se prohíbe la entrada al puerto.",
+          "start_date": "Tras el cumplimiento de los impagos",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de abandono de embarcación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Periodo de inactividad y falta de pago",
+          "description": "La embarcación permanece sin actividad y sin pagar tarifas.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presunción de abandono",
+          "description": "Se aplica la presunción legal de abandono tras el plazo cumplido.",
+          "start_date": "Al cumplir los 6 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

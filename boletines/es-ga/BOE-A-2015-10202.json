@@ -1,0 +1,120 @@
+{
+  "identifier": "BOE-A-2015-10202",
+  "title": "Ley 7/2015, de 7 de agosto, de iniciativa legislativa popular y participación ciudadana en el Parlamento de Galicia",
+  "visible_title": "Ley de iniciativa legislativa popular y participación ciudadana en el Parlamento de Galicia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "7/2015",
+  "publication_date": "2015-09-23",
+  "enactment_date": "2015-08-07",
+  "last_updated": "2015-08-19",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2015/08/07/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley amplía significativamente las vías para que los ciudadanos gallegos influyan en la política de su región. Además de la clásica iniciativa legislativa mediante firmas, introduce mecanismos para proponer acciones de gobierno (proposiciones no de ley), realizar preguntas directas al Gobierno para controlarlo y participar en la elaboración de leyes en curso. El objetivo es transformar el Parlamento de Galicia en un espacio de participación directa y no solo representativa.",
+  "citizen_impact": "Otorga a los ciudadanos gallegos el derecho de proponer leyes, hacer preguntas al Gobierno y opinar sobre leyes que se están tramitando. Facilita estos procesos mediante el uso de la firma electrónica y mecanismos digitales para peticiones.",
+  "professional_impact": "Los grupos parlamentarios y diputados deben integrar las iniciativas ciudadanas en sus agendas de trabajo. Los funcionarios de la administración parlamentaria y la Junta Electoral de Galicia asumen nuevas responsabilidades en la gestión, validación y recuento de firmas y propuestas ciudadanas.",
+  "keywords": [
+    "participación ciudadana",
+    "iniciativa legislativa popular",
+    "Parlamento de Galicia",
+    "derecho de petición",
+    "control al gobierno",
+    "proposiciones no de ley",
+    "firma electrónica"
+  ],
+  "key_points": [
+    "Para proponer una ley (ILP), se requieren al menos 10.000 firmas de electores gallegos.",
+    "Se permite la recogida de firmas mediante sistemas de firma electrónica.",
+    "Los ciudadanos pueden presentar 'proposiciones no de ley' con solo 2.500 firmas para impulsar la acción del Gobierno.",
+    "Se habilita el derecho de los ciudadanos a dirigir preguntas a la Xunta de Galicia para que informen sobre temas de interés.",
+    "Se crea un mecanismo electrónico para que cualquier persona pueda presentar peticiones al Parlamento.",
+    "Los ciudadanos pueden enviar sugerencias y aportaciones durante la tramitación de leyes en el Parlamento.",
+    "Existe una compensación económica para los promotores de ILP si la ley es tomada en consideración, con un límite de 6.000 euros.",
+    "Las iniciativas ciudadanas no mueren si se disuelve el Parlamento; continúan en la siguiente legislatura."
+  ],
+  "legal_references": [
+    "Estatuto de autonomía de Galicia",
+    "Ley 1/1988, de 19 de enero, de iniciativa legislativa popular",
+    "Ley 9/2014, de 30 de octubre",
+    "Constitución Española (artículo 29)",
+    "Ley 1/1983, de 22 de febrero, reguladora de la Xunta y de su presidencia"
+  ],
+  "derogations": [
+    "Ley 1/1988, de 19 de enero, de iniciativa legislativa popular ante el Parlamento de Galicia"
+  ],
+  "main_obligations": "Los promotores de una ILP deben presentar un escrito con el texto de la ley, motivos y una comisión promotora de al menos 10 personas. La recogida de firmas debe realizarse en un plazo de 4 meses (prorrogable 3 meses más) tras la admisión.",
+  "effective_date": "2015-09-24",
+  "procedures": [
+    {
+      "name": "Iniciativa Legislativa Popular (ILP)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la propuesta",
+          "description": "Entrega del texto de la ley, motivos y lista de promotores ante la Mesa del Parlamento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Texto articulado, exposición de motivos, relación de miembros de la comisión promotora (mín. 10)."
+        },
+        {
+          "step": 2,
+          "title": "Examen de admisibilidad",
+          "description": "La Mesa decide si la propuesta cumple los requisitos legales.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Recogida de firmas",
+          "description": "Tras la admisión, se procede a recoger las 10.000 firmas necesarias.",
+          "start_date": null,
+          "end_date": "4 meses (prorrogable 3 meses)",
+          "required_documentation": "Plegos sellados por la Junta Electoral y firmas (físicas o electrónicas)."
+        },
+        {
+          "step": 4,
+          "title": "Recuento y certificación",
+          "description": "La Junta Electoral realiza el recuento público y certifica el número de firmas válidas.",
+          "start_date": null,
+          "end_date": "15 días hábiles tras el recuento",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Tramitación parlamentaria",
+          "description": "Si se alcanzan las firmas, la propuesta se publica y se debate en el Pleno.",
+          "start_date": null,
+          "end_date": "En los dos siguientes plenos ordinarios",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Proposición no de ley de iniciativa popular",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación y firmas",
+          "description": "Presentación de la propuesta con un mínimo de 2.500 firmas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentos de identidad de los firmantes."
+        },
+        {
+          "step": 2,
+          "title": "Admisión y asunción",
+          "description": "La Mesa decide la admisibilidad. Si es admitida, los grupos parlamentarios tienen 15 días para asumirla.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

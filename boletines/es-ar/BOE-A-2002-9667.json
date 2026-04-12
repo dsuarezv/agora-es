@@ -1,0 +1,154 @@
+{
+  "identifier": "BOE-A-2002-9667",
+  "title": "Ley 6/2002, de 15 de abril, de Salud de Aragón",
+  "visible_title": "Ley de Salud de Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "6/2002",
+  "publication_date": "2002-05-21",
+  "enactment_date": "2002-04-15",
+  "last_updated": "2021-07-02",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2002/04/15/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley redefine el modelo sanitario de Aragón, organizando la gestión a través de áreas de salud descentralizadas para garantizar una atención universal. Su objetivo es asegurar que los ciudadanos tengan control sobre su salud mediante derechos claros como el consentimiento informado y el testamento vital. Además, potencia la investigación científica y establece la colaboración entre la sanidad pública y la privada. En definitiva, busca un sistema más cercano, transparente y eficiente para todos los aragoneses.",
+  "citizen_impact": "Los ciudadanos aragoneses ganan control sobre su tratamiento médico: pueden elegir profesional o centro, solicitar una segunda opinión y decidir sobre sus cuidados futuros mediante el 'Testamento Vital'. También tienen derecho garantizado a la asistencia de urgencia sin importar su residencia y a acceder fácilmente a su historia clínica y a informes de alta tras un ingreso.",
+  "professional_impact": "Los profesionales sanitarios deben cumplir estrictamente con el deber de secreto clínico y la obligación de obtener consentimiento informado (especialmente en cirugías). Los centros sanitarios deben implementar modelos de historia clínica normalizados y proporcionar información clara sobre derechos y reclamaciones. Las entidades privadas que colaboren con el sistema deben armonizar sus sistemas de información con la administración.",
+  "keywords": [
+    "Salud Aragón",
+    "Sistema Sanitario",
+    "Derechos del paciente",
+    "Testamento Vital",
+    "Consentimiento informado",
+    "Gestión sanitaria",
+    "Historia clínica"
+  ],
+  "key_points": [
+    "Derecho a la libre elección de profesional, servicio y centro sanitario.",
+    "Obligatoriedad de consentimiento informado y escrito para cirugías o diagnósticos invasivos.",
+    "Reconocimiento del derecho al 'Testamento Vital' para decidir sobre tratamientos futuros.",
+    "Garantía de atención de urgencia y emergencia para todas las personas.",
+    "Derecho a solicitar una segunda opinión médica.",
+    "Acceso garantizado a la historia clínica y recepción de informe de alta hospitalaria.",
+    "Creación del Instituto Aragonés de Ciencias de la Salud para investigación y formación.",
+    "Posibilidad de acceder a recursos sanitarios de otras áreas o comunidades si los locales son insuficientes.",
+    "Obligación de las entidades privadas colaboradoras de armonizar sus sistemas de información.",
+    "Competencia de los ayuntamientos en el control sanitario de aguas, residuos, alimentos y hostelería."
+  ],
+  "legal_references": [
+    "Constitución Española de 1978",
+    "Ley 14/1986, de 25 de abril, General de Sanidad",
+    "Estatuto de Autonomía de Aragón",
+    "Ley Orgánica 8/1982, de 10 de agosto",
+    "Ley Orgánica 5/1996, de 30 de diciembre",
+    "Convenio de Oviedo (Consejo de Europa)",
+    "Decreto Legislativo 2/2001, de 3 de julio",
+    "Ley 13/2006, de 27 de diciembre, de Derecho de la Persona",
+    "Ley del Servicio Aragonés de Salud",
+    "Ley 2/1989, de 21 de abril, del Servicio Aragonés de Salud",
+    "Ley 8/1999, de 9 de abril",
+    "Ley de Hacienda de la Comunidad Autónoma de Aragón",
+    "Estatuto Marco"
+  ],
+  "derogations": [
+    "Artículos 4.1, 8, 9, 10, 11.2, 12, 13.c), 15.d), 18, 19, 22 a 27, ambos inclusive, y 36 de la Ley 2/1989"
+  ],
+  "main_obligations": "Los centros sanitarios deben adaptar sus historias clínicas a los modelos normalizados en un plazo de un año. Los profesionales deben garantizar el secreto clínico y los centros deben facilitar información accesible sobre derechos y formularios de reclamación.",
+  "effective_date": "2002-05-22",
+  "procedures": [
+    {
+      "name": "Formalización de Voluntades Anticipadas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Manifestación de la voluntad",
+          "description": "La persona con capacidad legal expresa sus deseos por escrito.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento escrito con identificación, firma, fecha y lugar."
+        },
+        {
+          "step": 2,
+          "title": "Elección de vía de formalización",
+          "description": "Puede hacerse ante Notario, ante dos testigos o ante personal habilitado del Departamento de Salud.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Inscripción en el Registro",
+          "description": "Se recomienda la inscripción en el Registro de Voluntades Vitales Anticipadas para garantizar su acceso al equipo sanitario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Inspección Sanitaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Actuación de inspección",
+          "description": "El inspector entra en el centro, realiza pruebas, investigaciones o toma muestras.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Ratificación de medidas cautelares",
+          "description": "Si el inspector toma medidas urgentes, la autoridad competente debe ratificarlas en un plazo máximo de 48 horas.",
+          "start_date": null,
+          "end_date": "48 horas desde la actuación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de historias clínicas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adopción de medidas técnicas y organizativas",
+          "descrption": "Los centros sanitarios deben implementar las medidas necesarias para adaptar el tratamiento de las historias clínicas.",
+          "start_date": "Desde la entrada en vigor de la Ley",
+          "end_date": "1 año",
+          "required_documentation": "Modelos normalizados de historia clínica aprobados"
+        }
+      ]
+    },
+    {
+      "name": "Ordenación de la inspección sanitaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación de Decreto de ordenación",
+          "descrption": "El Gobierno de Aragón debe establecer la organización y funciones de la inspección sanitaria mediante Decreto.",
+          "start_date": "Desde la entrada en vigor de la Ley",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Refundición de textos legales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación de Decreto legislativo",
+          "descrption": "El Gobierno de Aragón aprobará el decreto que refunde la Ley 2/1989 y la Ley 8/1999.",
+          "start_date": "Desde la entrada en vigor de la Ley",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

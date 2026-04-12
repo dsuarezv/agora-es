@@ -1,0 +1,177 @@
+{
+  "identifier": "BOE-A-1995-18545",
+  "title": "Ley 6/1995, de 28 de marzo, de Garantías de los Derechos de la Infancia y la Adolescencia en la Comunidad de Madrid",
+  "visible_title": "Garantías de los Derechos de la Infancia y la Adolescencia en la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "6/1995",
+  "publication_date": "1995-08-02",
+  "enactment_date": "1995-03-28",
+  "last_updated": "2023-03-27",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1995/03/28/6",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley establece un sistema de protección integral para proteger el bienestar de los menores en la Comunidad de Madrid. Regula desde derechos básicos como la salud y la educación hasta la prohibición de acceso de menores a locales de juego. Además, permite que entidades sin ánimo de lucro colaboren en procesos de acogimiento y adopción bajo estricta supervisión. La norma también define sanciones severas para quienes vulneren la confidencialidad de los menores o incumplan sus deberes de protección.",
+  "citizen_impact": "Garantiza a los menores el derecho a ser escuchados en procesos que les afecten (especialmente desde los 12 años) y a obtener un documento de identificación tras nacer. Protege su entorno prohibiendo el acceso a casinos y limitando contenidos violentos en medios de comunicación durante el día.",
+  "professional_impact": "Obliga a profesionales sanitarios y educativos a denunciar cualquier sospecha de desprotección infantil ante el Ministerio Fiscal. Las entidades privadas que colaboren en acogimientos deben cumplir estrictos deberes de confidencialidad y estar debidamente habilitadas, bajo riesgo de multas de hasta 60.101 euros.",
+  "keywords": [
+    "infancia",
+    "adolescencia",
+    "protección de menores",
+    "derechos de la infancia",
+    "Comunidad de Madrid",
+    "acogimiento",
+    "adopción",
+    "tutela"
+  ],
+  "key_points": [
+    "Derecho a la identificación infantil inmediata tras el nacimiento.",
+    "Derecho de los menores a ser oídos en procedimientos que les afecten (especialmente si tienen 12 años o juicio suficiente).",
+    "Obligación de sanitarios y educadores de informar sobre riesgos de desprotección infantil.",
+    "Prohibición de entrada de menores a casinos, bingos y locales de juego de azar.",
+    "Restricción de contenidos audiovisuales violentos o pornográficos en horarios diurnos.",
+    "Obligación de ayuntamientos de más de 50.000 habitantes de tener Servicios Sociales Especializados de Atención a la Infancia.",
+    "Habilitación de entidades sin ánimo de lucro para la guarda y mediación en acogimientos o adopciones.",
+    "Prohibición de mediación en acogimientos/adopciones por parte de entidades no habilitadas.",
+    "Deber de confidencialidad absoluta para el personal de instituciones colaboradoras.",
+    "Sanciones por obstrucción a la asistencia escolar o mala gestión de plazas.",
+    "Multas por infracciones muy graves que pueden alcanzar los 60.101 euros.",
+    "Destino de las multas: programas de atención a la infancia."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Convenio sobre los Derechos del Niño (1989)",
+    "Ley 21/1987 (modificación del Código Civil)",
+    "Ley de Enjuiciamiento Civil",
+    "Ley 4/1992 (Juzgados de Menores)",
+    "Estatuto de Autonomía de la Comunidad de Madrid",
+    "Ley Orgánica 1/1990 (LOE)",
+    "Ley 25/1994 (Directiva 85/522/CEE)",
+    "Convenio de La Hayas sobre Adopción Internacional",
+    "Ley 21/1987, de 11 de noviembre",
+    "Ley 8/1990, de 10 de octubre",
+    "Reglamento para el Ejercicio de la Potestad Sancionadora de la Comunidad de Madrid"
+  ],
+  "derogatons": [
+    "Ley 6/1995 (derogada por la Ley 4/2023 con efectos a 16 de abril de 2023)",
+    "Apartados 7 y 9 del artículo 13.3.b de la Ley 8/1990",
+    "Apartados a) y b) del artículo 11 de la Ley 11/1984"
+  ],
+  "main_obligations": "Los profesionales de salud y educación deben comunicar hechos de desprotección al Ministerio Fiscal o a la Comisión de Tutela. Las instituciones deben guardar secreto profesional y poner a disposición de la autoridad a menores abandonados o extraviados en un plazo de 24 horas.",
+  "effective_date": "1995-08-02",
+  "procedures": [
+    {
+      "name": "Procedimiento ordinario de asunción de tutela",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del expediente",
+          "description": "Apertura del expediente por la Administración al detectar situación de desamparo.",
+          "start_date": "Al detectar la situación",
+          "end_date": null,
+          "required_documentation": "Informes de servicios sociales municipales y otros organismos relevantes"
+        },
+        {
+          "step": 2,
+          "title": "Audiencia del menor y familiares",
+          "description": "Oír al menor (obligatorio si tiene 12 años) y a los padres o tutores.",
+          "start_date": "Durante la instrucción",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Plazo máximo para resolver el expediente.",
+          "start_date": "Desde el inicio del expediente",
+          "end_date": "3 meses (prorrogable 2 meses más)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de asunción de guarda",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud",
+          "description": "Presentación por escrito de la necesidad de guarda temporal por enfermedad o causas graves.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de circunstancias graves y transitorias"
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y audiencia",
+          "description": "Se oye al menor y se solicitan informes necesarios.",
+          "start_date": "Tras la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Formalización",
+          "description": "La guarda se formaliza por escrito.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación",
+          "description": "Inicio del expediente por el Ayuntamiento (si son particulares) o el IMAIN (si son medios o centros).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y Resolución",
+          "description": "Instrucción del expediente y resolución por la autoridad competente (Alcalde, Presidente de Junta o Director del IMAIN).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Publicidad",
+          "description": "Publicación de las sanciones graves y muy graves en el Boletín Oficial de la Comunidad de Madrid.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Habilitación de Instituciones Colaboradoras",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación de expediente",
+          "description": "Presentación de expediente administrativo ante el Instituto Madrileño de Atención a la Infancia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estatutos que figuren la protección de menores y acreditación de medios materiales/humanos."
+        },
+        {
+          "step": 2,
+          "title": "Acuerdo de habilitación",
+          "description": "Resolución mediante Acuerdo del Consejo de Administración del IMAIN.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

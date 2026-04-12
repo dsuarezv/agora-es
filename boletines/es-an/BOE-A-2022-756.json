@@ -1,0 +1,72 @@
+{
+  "identifier": "BOE-A-2022-756",
+  "title": "Ley 8/2021, de 23 de diciembre, de financiación incondiccionada para las entidades locales autónomas",
+  "visible_title": "Ley de financiación inconcondicionada para las entidades locales autónomas",
+  "rank": "ley",
+  "country": "es",
+  "department": "Junta de Andalucía",
+  "official_number": "8/2021",
+  "publication_date": "2022-01-18",
+  "enactment_date": "2021-12-23",
+  "last_updated": "2021-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2021/12/23/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea un fondo de financiación permanente para las entidades locales autónomas de Andalucía para compensar su situación económica estructural. Mediante una dotación mínima anual de 2,5 millones de euros, se busca que estas entidades tengan recursos propios para gestionar sus competencias sin depender exclusivamente del municipio matriz. Además, la norma introduce modificaciones urgentes para ampliar plazos de ayudas COVID-19 y ampliar sectores subvencionables en la industria de la piedra.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo que la mejora en la financiación de estas entidades locales pueda traducirse en una prestación de servicios públicos más eficiente en sus zonas de residencia.",
+  "professional_impact": "Los gestores de entidades locales autónomas andaluzas reciben una nueva vía de ingresos directos y sin condiciones. Por otro lado, las empresas del sector de la industria de la piedra (CNAE 2370) ahora pueden acceder a ayudas por COVID-19, y se amplían plazos para solicitar subvenciones de mantenimiento de empleo.",
+  "keywords": [
+    "entidades locales autónomas",
+    "financiación local",
+    "Andalucía",
+    "transferencias inconcondicionadas",
+    "ayudas COVID-19",
+    "industria de la piedra"
+  ],
+  "key_points": [
+    "Creación de un fondo de financiación inconcondicionada para entidades locales autónomas con una dotación mínima de 2,5 millones de euros anuales.",
+    "El reparto de fondos se hace mediante coeficientes correctores según la población (más ayuda a las entidades más pequeñas).",
+    "Las transferencias son de naturaleza inconcondicionada y no se consideran subvenciones públicas, evitando la normativa general de subvenciones.",
+    "Se incluye el sector de 'Corte, tallado y acabado de la piedra' (CNAE 2370) en las ayudas para el mantenimiento del empleo.",
+    "Se amplían los plazos para la presentación de solicitudes de ayudas relacionadas con la crisis del COVID-19 para favorecer la concurrencia."
+  ],
+  "legal_references": [
+    "Ley 5/2010, de 11 de junio, de Auto autonomía Local de Andalucía",
+    "Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración local",
+    "Ley 3/2020, de 28 de diciembre, del Presupuesto de la Comunidad Autónoma de Andalucía para el año 2021",
+    "Decreto-ley 4/2021, de 23 de marzo",
+    "Decreto-ley 5/2021, de 30 de marzo",
+    "Decreto-ley 6/2021, de 20 de abril"
+  ],
+  "derogations": [
+    "Decreto-ley 8/2021, de 4 de mayo"
+  ],
+  "main_obligations": null,
+  "effective_date": "2022-01-01",
+  "procedures": [
+    {
+      "name": "Abono de la financiación para entidades locales autónomas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de datos bancarios",
+          "description": "Las entidades que no presentaron solicitud anteriormente deben comunicar sus datos bancarios para el ejercicio 2022.",
+          "start_date": "Desde la entrada en vigor de la ley",
+          "end_date": "15 días hábiles",
+          "required_documentation": "Datos de cuenta bancaria en el Registro de Cuentas de Terceros de la Tesorería General de la Junta de Andalucía"
+        },
+        {
+          "step": 2,
+          "title": "Pago de la dotación",
+          "description": "Ingreso de la cuantía asignada en un único pago.",
+          "start_date": "Primer semestre de cada anualidad",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

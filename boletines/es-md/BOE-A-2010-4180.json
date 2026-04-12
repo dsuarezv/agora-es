@@ -1,0 +1,73 @@
+{
+  "identifier": "BOE-A-2010-4180",
+  "title": "Ley 7/2009, de 15 de diciembre, por la que se liberaliza el régimen jurídico de la actividad de inspección técnica de vehículos en la Comunidad de Madrid",
+  "visible_title": "Liberalización de la actividad de inspección técnica de vehículos en la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "7/2009",
+  "publication_date": "2010-03-13",
+  "enactment_date": "2009-12-15",
+  "last_updated": "2009-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2009/12/15/7",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley transforma el modelo de gestión de las estaciones de ITV en la Comunidad de Madrid, pasando de un sistema de concesiones administrativas a uno de autorización administrativa. El objetivo es fomentar la libre competencia entre operadores para mejorar la calidad del servicio. Además, regula la transición de las empresas que ya operaban bajo el modelo anterior para asegurar que el servicio de inspección no se interrumpa.",
+  "citizen_impact": "Para el ciudadano medio, esto supone una mayor oferta de estaciones de ITV debido a la apertura del mercado a nuevos operadores. Esto puede derivar en una mejora de la calidad del servicio y, potencialmente, en una mayor competencia de precios.",
+  "professional_impact": "Las empresas de inspección técnica pasan de ser concesionarias a operar bajo autorización. Los antiguos concesionarios deben manifestar su voluntad de continuar con la actividad con un año de antelación y tienen derecho de adquisición preferente sobre los bienes que revierten a la Comunidad de Madrid.",
+  "keywords": [
+    "ITV",
+    "inspección técnica de vehículos",
+    "liberalización",
+    "autorización administrativa",
+    "Comunidad de Madrid",
+    "competencia"
+  ],
+  "key_points": [
+    "Cambio del modelo de concesión al modelo de autorización administrativa para las estaciones de ITV.",
+    "Garantía de continuidad para las empresas que ya prestaban el servicio, siempre que cumplan los requisitos técnicos.",
+    "Los bienes y equipos de las antiguas concesiones pasan a ser propiedad de la Comunidad de Madrid.",
+    "Los antiguos concesionarios tienen derecho de adquisición preferente sobre los bienes revertidos.",
+    "Prohibición de otorgar nuevos títulos habilitantes hasta el 31 de diciembre de 2010."
+  ],
+  "legal_references": [
+    "Real Decreto-ley 7/2000, de 23 de junio",
+    "Real Decreto 833/2003, de 27 de junio",
+    "Sentencia del Tribunal Constitucional 332/2005, de 15 de diciembre",
+    "Real Decreto 224/2008, de 15 de febrero",
+    "Decreto 223/2003, de 6 de noviembre",
+    "Ley 3/2001, de 21 de junio, de Patrimonio de la Comunidad de Madrid",
+    "Ley 6/1991, de 4 de abril, de Creación del Consejo Económico y Social"
+  ],
+  "derogations": [
+    "Decreto 223/2003, de 6 de noviembre"
+  ],
+  "main_obligations": "Las empresas que quieran mantener su actividad deben manifestar su voluntad ante la Comunidad de Madrid con al menos un año de antelación al fin de su concesión y acreditar el cumplimiento de los requisitos técnicos vigentes.",
+  "effective_date": "2010-03-05",
+  "procedures": [
+    {
+      "name": "Transición al régimen de autorización",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Manifestación de voluntad de continuidad",
+          "description": "Las empresas con concesión vigente deben comunicar su intención de seguir operando bajo el nuevo régimen.",
+          "start_date": "Al menos 1 año antes de la finalización de la concesión",
+          "end_date": null,
+          "required_documentation": "Acreditación del cumplimiento de requisitos técnicos y obligaciones"
+        },
+        {
+          "step": 2,
+          "title": "Periodo de moratoria para nuevos títulos",
+          "description": "No se concederán nuevas autorizaciones para la actividad durante este periodo.",
+          "start_date": "2010-03-05",
+          "end_date": "2010-12-31",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

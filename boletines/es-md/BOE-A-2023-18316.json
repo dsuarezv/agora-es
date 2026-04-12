@@ -1,0 +1,211 @@
+{
+  "identifier": "BOE-A-2023-18316",
+  "title": "Ley 8/2023, de 30 de marzo, de Patrimonio Cultural de la Comunidad de Madrid",
+  "visible_title": "Ley de Patrimonio Cultural de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "8/2023",
+  "publication_date": "2023-08-12",
+  "enactment_date": "2023-03-30",
+  "last_updated": "2025-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2023/03/30/8",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza la protección del patrimonio en Madrid, ampliando su alcance para incluir desde paisajes culturales hasta patrimonio industrial y tecnológico. Introduce un sistema de tres niveles de protección para evitar conflictos de competencias entre la Comunidad y los Ayuntamientos. Establece reglas mucho más estrictas para las intervenciones en edificios históricos y la gestión de hallazgos arqueológicos. Además, endurece significativamente las sanciones por daños al patrimonio, permitiendo incluso el pago de multas mediante la entrega de bienes culturales.",
+  "citizen_impact": "Los ciudadanos que posean bienes protegidos deben cumplir con estrictos deberes de conservación y presentar proyectos técnicos para cualquier obra. Se reconoce el derecho a recibir un premio (50% del valor tasado) por hallazgos arqueológicos casuales. Asimismo, los propietarios de inmuebles protegidos deben permitir visitas públicas. El uso de detectores de metales en zonas protegidas queda prohibido sin autorización.",
+  "professional_impact": "Arquitectos, ingenieros y técnicos que intervengan en bienes catalogados deben poseer titulación oficial y presentar proyectos técnicos y memorias finales. Las empresas de energías renovables solo podrán instalar sistemas si son compatibles con el valor cultural del bien. Los Ayuntamientos tienen la carga administrativa de actualizar sus catálogos de protección en un plazo máximo de tres años bajo riesgo de acciones judiciales.",
+  "keywords": [
+    "patrimonio cultural",
+    "comunidad de madrid",
+    "BIC",
+    "bienes catalogados",
+    "hallazgos arqueológicos",
+    "protección de monumentos",
+    "sanciones patrimonio"
+  ],
+  "key_points": [
+    "Nuevo sistema de tres niveles de protección: BIC, BIP y Bienes Catalogados (que integra los municipales).",
+    "Ampliación de categorías protegidas: patrimonio industrial, científico, tecnológico, etnográfico y paisajes culturales.",
+    "Protección automática para castillos, arte rupestre, palacios (pre-1900) y edificios religiosos o construcciones singulares (pre-1950).",
+    "Prohibición de elementos visuales invasivos (antenas, cables) y publicidad en fachadas de Monumentos y Jardines Históricos.",
+    "Endurecimiento de multas: hasta 1.000.000€ por infracciones muy graves o 5 veces el valor del daño.",
+    "Posibilidad de pagar sanciones mediante la entrega de Bienes de Interés Cultural.",
+    "Obligación de permitir visitas públicas en inmuebles protegidos.",
+    "Prohibición del uso de detectores de metales en zonas protegidas sin permiso previo.",
+    "Derecho a premio del 50% del valor tasado para descubridores de hallazgos casuales.",
+    "La obligación de reparar daños causados a bienes protegidos es imprescriptible.",
+    "Los Ayuntamientos disponen de 3 años para actualizar sus catálogos de protección.",
+    "Permiso para energías renovables siempre que sean compatibles con el valor cultural."
+  ],
+  "legal_references": [
+    "Constitución Española (artículos 44, 46 y 148.1)",
+    "Ley 10/1998, de 9 de julio, de Patrimonio Histórico de la Comunidad de Madrid",
+    "Ley 3/2013, de 18 de junio, de Patrimonio Histórico de la Comunidad de Madrid",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Ley 16/1985, de 25 de agosto, del Patrimonio Histórico Español",
+    "Decreto de 22 de abril de 1949 (Castillos españoles)",
+    "Decreto 571/1963, de 14 de marzo",
+    "Ley 4/1999, de 13 de enero",
+    "Ley 8/1998, de 12 de febrero, de Vías Pecuarias de la Comunidad de Madrid",
+    "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+    "Decreto 79/2002",
+    "Decreto 51/2003",
+    "Decreto 52/2003",
+    "Decreto 53/2003",
+    "Decreto 84/2005",
+    "Decreto 121/2005"
+  ],
+  "derogations": [
+    "Ley 10/1998, de 9 de julio, de Patrimonio Histórico de la Comunidad de Madrid",
+    "Ley 3/2013, de 18 de junio, de Patrimonio Histórico de la Comunidad de Madrid",
+    "Decreto 79/2002",
+    "Decreto 51/2003",
+    "Decreto 52/2003",
+    "Decreto 53/2003",
+    "Decreto 84/2005",
+    "Decreto 121/2005"
+  ],
+  "main_obligations": "Los propietarios de bienes protegidos deben conservar los mismos y presentar proyectos técnicos para cualquier intervención no rutinaria. Los Ayuntamientos deben actualizar sus catálogos de protección en un plazo de 3 años. En caso de hallazgos arqueológicos, se debe paralizar la obra y comunicar el hallazgo de inmediato.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Traslado de Bienes Muebles de Interés Cultural",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de traslado",
+          "description": "Notificar a la Consejería las condiciones del traslado con antelación.",
+          "start_date": "2 meses antes del traslado",
+          "end_date": null,
+          "required_documentation": "Indicación de las condiciones del traslado"
+        },
+        {
+          "step": 2,
+          "title": "Comunicación de retorno",
+          "description": "Notificar cuando el bien regrese al territorio de la Comunidad de Madrid.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de Hallazgos Arqueológicos durante obras",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Paralización inmediata",
+          "description": "El promotor o director de obra debe detener las actuaciones al hallar restos.",
+          "start_date": "En el momento del hallazgo",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comunicación del hallazgo",
+          "description": "Notificar inmediatamente a la Consejería y a la autoridad local.",
+          "start_date": "Inmediatamente",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de la Consejería",
+          "description": "La administración determina el valor y decide si se reanudan las obras o se suspenden.",
+          "start_date": "Desde la comunicación",
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización de actividades arqueológicas/paleontológicas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Presentar proyecto arqueológico firmado por técnico competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto arqueológico/paleontológico"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la Consejería",
+          "description": "La administración debe resolver la solicitud.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Hallazgo Casual",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación del hallazgo",
+          "description": "Comunicar a la Consejería y a las Fuerzas y Cuerpos de Seguridad.",
+          "start_date": "Inmediatamente",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Tasación y reparto de premio",
+          "description": "Se tasa el bien y se reparte el 50% del valor entre descubridor y propietario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador de Patrimonio",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación y tramitación",
+          "description": "Inicio del expediente por la Dirección General competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución del expediente",
+          "description": "Plazo máximo para dictar la resolución de la sanción.",
+          "start_date": "Desde la incoación",
+          "end_date": "9 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Pago mediante entrega de bienes",
+          "description": "Propuesta de entrega de BIC para saldar la multa; la Administración debe responder en 45 días.",
+          "start_date": "Tras la imposición de la sanción",
+          "end_date": "45 días para la respuesta administrativa",
+          "required_documentation": "Identificación del Bien de Interés Cultural propuesto"
+        }
+      ]
+    },
+    {
+      "name": "Actualización de Catálogos Municipales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adaptación de catálogos",
+          "description": "Plazo para que los Ayuntamientos adapten sus catálogos a la nueva normativa.",
+          "start_date": "Entrada en vigor de la Ley",
+          "end_date": "3 años",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

@@ -1,0 +1,99 @@
+{
+  "identifier": "BOE-A-2019-966",
+  "title": "Ley 24/2018, de 5 de diciembre, de mediación de la Comunitat Valenciana",
+  "visible_title": "Ley de mediación de la Comunitat Valenciana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "24/2018",
+  "publication_date": "2019-01-26",
+  "enactment_date": "2018-12-05",
+  "last_updated": "2021-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2018/12/05/24",
+  "official_journal": "DOGV",
+  "journal_issue": null,
+  "summary": "Esta ley crea un marco jurídico integral para la mediación en la Comunitat Valenciana, extendiendo su ámbito más allá de lo familiar hacia materias civiles, mercantiles y administrativas. Su objetivo es ofrecer una alternativa profesional y segura a los procesos judiciales para resolver conflictos mediante el diálogo. Para ello, establece un Registro oficial de mediadores, crea el Centro de Mediación de la Comunitat Valenciana y garantiza la profesionalidad mediante requisitos de formación y seguro de responsabilidad civil.",
+  "citizen_impact": "Los ciudadanos disponen de una vía más rápida, económica y flexible para resolver conflictos sin necesidad de ir a juicio. Además, se garantiza el acceso a la mediación gratuita para quienes tengan derecho a asistencia jurídica gratuita y para víctimas de delitos.",
+  "professional_impact": "Los mediadores profesionales deben inscribirse en un registro oficial, poseer formación específica y contar con un seguro de responsabilidad civil. Las entidades que presten servicios de mediación quedan sujetas a un régimen sancionador por incumplimiento de deberes como la confidencialidad o la imparcialidad.",
+  "keywords": [
+    "mediación",
+    "resolución de conflictos",
+    "justicia alternativa",
+    "Comunitat Valenciana",
+    "mediador profesional",
+    "acuerdo extrajudicial"
+  ],
+  "key_points": [
+    "Creación del Registro de Personas y Entidades Mediadoras de la Comunitat Valenciana.",
+    "Establecimiento de la mediación gratuita para beneficiarios de asistencia jurídica gratuita y víctimas de delitos.",
+    "Obligatoriedad de contar con seguro de responsabilidad civil para mediadores inscritos.",
+    "Creación del Centro de Mediación de la Comunitat Valenciana como órgano coordinador.",
+    "Garantía de confidencialidad absoluta en todo el proceso de mediación.",
+    "Posibilidad de realizar mediaciones mediante medios telemáticos de forma excepcional.",
+    "Implementación de un 'Sello de Calidad Mediadora' para entidades y profesionales.",
+    "Régimen sancionador para mediadores y entidades que incumplan la ley (desde amonestaciones hasta la baja del registro)."
+  ],
+  "legal_references": [
+    "Ley 5/2012, de 6 de julio, de mediación en asuntos civiles y mercantiles",
+    "Ley 20/2013, de 9 de diciembre, de garantía de la unidad de mercado",
+    "Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas",
+    "Ley 40/2015, de 1 de octubre, de régimen jurídico del sector público",
+    "Ley 15/2008, de 5 de diciembre, de integración de las personas inmigrantes en la Comunitat Valenciana",
+    "Ley 4/2015, de 27 de abril, del Estatuto de la víctima del delito",
+    "Real Decreto legislativo 1/2013, de 29 de diciembre"
+  ],
+  "derogations": [
+    "Ley 7/2001, de 26 de noviembre, reguladora de la mediación familiar en el ámbito de la Comunitat Valenciana"
+  ],
+  "main_obligations": "Los mediadores deben mantener la confidencialidad, la imparcialidad y la neutralidad, además de estar inscritos en el registro oficial y disponer de seguro de responsabilidad civil. Las partes deben actuar de buena fe y suscribir una declaración de conocimiento de derechos antes de iniciar el proceso.",
+  "effective_date": "2019-04-26",
+  "procedures": [
+    {
+      "name": "Procedimiento de Mediación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inicio",
+          "description": "Presentación de la solicitud identificando a las partes, el objeto del conflicto y el mediador designado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Identificación de las partes y descripción del objeto de la controversia"
+        },
+        {
+          "step": 2,
+          "title": "Sesión informativa",
+          "description": "Reunión para informar sobre costes, funcionamiento, consecuencias jurídicas y posibles causas de falta de imparcialidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Sesión inicial de constitución",
+          "description": "Firma del acta inicial donde se pacta el programa, calendario, costes y lugar de las sesiones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de la sesión inicial constitutiva"
+        },
+        {
+          "step": 4,
+          "title": "Desarrollo de las sesiones",
+          "description": "Fase de diálogo y negociación para alcanzar un acuerdo. El plazo máximo es de 3 meses.",
+          "start_date": null,
+          "end_date": "3 meses desde la sesión inicial"
+        },
+        {
+          "step": 5,
+          "title": "Finalización y Acta Final",
+          "description": "Redacción del acta final con los acuerdos alcanzados o indicando la imposibilidad de llegar a ellos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta final de la mediación"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

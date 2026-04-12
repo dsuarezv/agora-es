@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-2014-9960",
+  "title": "Ley 6/2014, de 12 de septiembre, de Industria de Castilla y León",
+  "visible_title": "Ley de Industria de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "6/2014",
+  "publication_date": "2014-10-02",
+  "enactment_date": "2014-09-12",
+  "last_updated": "2014-09-19",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2014/09/12/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para regular y fomentar la actividad industrial en Castilla y León. Su objetivo es modernizar el sector, garantizando la seguridad industrial y eliminando trabas burocráticas innecesarias para mejorar la competitividad. Además, introduce herramientas de planificación estratégica y promueve la responsabilidad social empresarial en la región.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en lo relativo a la seguridad de los productos y procesos industriales que consumen o que ocurren en su entorno.",
+  "professional_impact": "Las empresas industriales deben cumplir con nuevos estándares de seguridad, mantenimiento y registro. Los profesionales (proyectistas, directores de obra, instaladores) están sujetos a controles de habilitación y responsabilidad profesional, mientras que las empresas pueden beneficiarse de planes de promoción y proyectos prioritarios.",
+  "keywords": [
+    "industria",
+    "Castilla y León",
+    "seguridad industrial",
+    "competitividad",
+    "promoción industrial",
+    "responsabilidad social empresarial",
+    "inspección industrial"
+  ],
+  "key_points": [
+    "Creación del Plan Director de Promoción Industrial para guiar la política económica regional.",
+    "Implementación de un sistema de control basado en autorizaciones, declaraciones responsables y comunicaciones para agilizar trámites.",
+    "Establecimiento de un Registro Industrial de Castilla y León para centralizar la información de empresas e instalaciones.",
+    "Introducción de la obligación de realizar memorias de impacto normativo para nuevas regulaciones industriales.",
+    "Posibilidad de declarar 'proyectos industriales prioritarios' para facilitar su implantación mediante expropiación o subvenciones directas.",
+    "Regulación estricta de los profesionales de la seguridad industrial y las empresas instaladoras.",
+    "Nuevos regímenes sancionadores con multas que pueden alcanzar el 10% del volumen de negocio en infracciones muy graves."
+  ],
+  "legal_references": [
+    "Ley 21/1992, de 16 de julio, de Industria",
+    "Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio",
+    "Ley 25/2009, de 22 de diciembre",
+    "Ley 2/2011, de 4 de marzo, sobre Economía Sostenible",
+    "Directiva europea de servicios (2006/123/CE)"
+  ],
+  "derogations": [
+    "Ley 3/1990, de 16 de marzo, de Seguridad Industrial de Castilla y León"
+  ],
+  "main_obligations": "Los titulares de industrias deben mantener sus instalaciones bajo normativa de seguridad, conservar documentación técnica y facilitar el acceso a inspectores. El incumplimiento de obligaciones de seguridad o la falta de comunicación de accidentes puede acarrear multas de hasta 600.000 euros o el cierre del establecimiento.",
+  "effective_date": "2014-10-02",
+  "procedures": [
+    {
+      "name": "Procedimiento Sancionador Industrial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Apertura del expediente tras detección de infracción por inspección o denuncia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución del procedimiento",
+          "description": "Plazo máximo para dictar la resolución final.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración Responsable / Comunicación Previa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración",
+          "description": "Manifestación de cumplimiento de requisitos ante la Administración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el cumplimiento de requisitos técnicos y de seguridad."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

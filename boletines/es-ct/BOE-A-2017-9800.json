@@ -1,0 +1,81 @@
+{
+  "identifier": "BOE-A-2017-9800",
+  "title": "Ley 15/2017, de 25 de julio, de la Agencia de Ciberseguidad de Cataluña",
+  "visible_title": "Ley de la Agencia de Ciberseguidad de Cataluña",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "15/2017",
+  "publication_date": "2017-08-17",
+  "enactment_date": "2017-07-25",
+  "last_updated": "2021-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2017/07/25/15",
+  "official_journal": "DOGC / BOE",
+  "journal_issue": null,
+  "summary": "Esta ley crea la Agencia de Ciberseguidad de Cataluña, una entidad de derecho público diseñada para proteger las infraestructuras críticas y los servicios digitales del territorio. Sustituye a la antigua fundación Cesicat para dotar a la Generalitat de una capacidad técnica y jurídica real para responder a ciberataques. Su objetivo es coordinar la defensa digital, investigar incidentes tecnológicos y asegurar la continuidad de los servicios esenciales ante amenazas en la red.",
+  "citizen_impact": "Aumenta la seguridad digital de los ciudadanos al garantizar que los servicios públicos esenciales (suministros, movilidad, administración) tengan una protección especializada contra ataques informáticos. No impone nuevos trámites ni obligaciones directas a la población.",
+  "professional_impact": "Afecta a empresas de servicios esenciales y proveedores de comunicaciones, que deberán colaborar con la Agencia en la gestión de riesgos. Los funcionarios de la administración pública catalana se ven integrados en un nuevo marco de seguridad técnica y normativa obligatoria.",
+  "keywords": [
+    "ciberseguidad",
+    "ciberataques",
+    "infraestructuras críticas",
+    "agencia pública",
+    "seguridad digital",
+    "Cataluña",
+    "CERT",
+    "protección de datos"
+  ],
+  "key_points": [
+    "Creación de la Agencia de Ciberseguidad de Cataluña como entidad con personalidad jurídica propia.",
+    "Sustitución y disolución de la Fundación Centro de Seguridad de la Información de Cataluña (Cesicat).",
+    "Capacidad para actuar como equipo de respuesta ante emergencias (CERT) en el territorio catalán.",
+    "Competencia para investigar ciberataques y colaborar con la policía y la justicia en la obtención de pruebas electrónicas.",
+    "Facultad para establecer normas técnicas de seguridad de obligado cumplimiento para la Administración de la Generalidad.",
+    "Potestad para supervisar la seguridad en los servicios de identificación electrónica y confianza digital."
+  ],
+  "legal_references": [
+    "Ley 29/2010, de 3 de agosto, del uso de los medios electrónicos en el sector público de Cataluña",
+    "Estatuto de autonomía de Cataluña",
+    "Real Decreto Legislativo 2/2002, de 24 de diciembre (Estatuto de la empresa pública catalana)",
+    "Real Decreto Legislativo 3/2011, de 14 de diciembre (Ley de contratos del sector público)"
+  ],
+  "derogations": [
+    "Fundación Centro de Seguridad de la Información de Cataluña (Cesicat)"
+  ],
+  "main_obligations": null,
+  "effective_date": "2017-08-18",
+  "procedures": [
+    {
+      "name": "Constitución de la Agencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación de estatutos",
+          "description": "El Gobierno debe aprobar los estatutos que regularán el funcionamiento de la Agencia mediante decreto.",
+          "start_date": "2017-08-18",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de constitución",
+          "description": "La Agencia debe estar plenamente constituida y operativa en un plazo máximo de un año.",
+          "start_date": "2017-08-18",
+          "end_date": "2018-08-18",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Disolución de Cesicat",
+          "description": "Inicio del procedimiento de disolución de la fundación anterior una vez constituida la nueva Agencia.",
+          "start_date": "Tras la constitución de la Agencia",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

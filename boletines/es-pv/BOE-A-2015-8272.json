@@ -1,0 +1,115 @@
+{
+  "identifier": "BOE-A-2015-8272",
+  "title": "Ley 4/2015, de 25 de junio, para la prevención y corrección de la contaminación del suelo",
+  "visible_title": "Ley para la prevención y corrección de la contaminación del suelo",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "4/2015",
+  "publication_date": "2015-07-24",
+  "enactment_date": "2015-06-25",
+  "last_updated": "2025-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2015/06/25/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un marco estricto para proteger la calidad del suelo en el País Vasco, clasificando las actividades según su riesgo de contaminar. Introduce mecanismos para asegurar que quien contamina se haga cargo de la limpieza, o en su defecto, el propietario del terreno. Además, agiliza la gestión para usos industriales mediante una vía simplificada, pero endurece drásticamente las sanciones y la vigilancia para evitar daños ambientales. El objetivo final es garantizar que el suelo sea seguro para la salud y el medio ambiente.",
+  "citizen_impact": "Afecta principalmente a quienes compran o venden terrenos, ya que es obligatorio informar sobre la actividad contaminante en las escrituras notariales. También protege a los ciudadanos al prohibir estrictamente que se construyan viviendas en zonas con residuos peligrosos o riesgos geotécnicos.",
+  "professional_impact": "Las empresas con actividades potencialmente contaminantes deben presentar informes de situación cada 5 años y ejecutar planes de recuperación si es necesario. Los propietarios y titulares enfrentan una responsabilidad económica directa por la limpieza y pueden recibir sanciones de hasta 1.900.000 euros o el cierre de sus instalaciones por incumplimientos graves.",
+  "keywords": [
+    "contaminación del suelo",
+    "País Vasco",
+    "responsabilidad ambiental",
+    "recuperación de suelos",
+    "uso industrial",
+    "sanciones ambientales"
+  ],
+  "key_points": [
+    "Creación de una vía simplificada de 'declaración de aptitud de uso' para suelos de uso industrial.",
+    "Obligación de informar sobre actividades contaminantes en las escrituras notariales de transmisión de suelos.",
+    "Prohibición absoluta de declarar aptos para uso residencial terrenos con residuos peligrosos o riesgos geotécnicos.",
+    "Responsabilidad de limpieza: primero el causante (de forma solidaria si hay varios) y, subsidiariamente, el propietario o poseedor.",
+    "Necesidad de aprobación de un plan de excavación selectiva para movimientos de tierras en suelos con actividad previa.",
+    "Sanciones económicas muy graves que pueden alcanzar los 1.900.000 euros y el cierre definitivo de instalaciones.",
+    "Potestad de la Administración para realizar inspecciones y tomar muestras, con obligación de colaboración de los afectados.",
+    "Posibilidad de adoptar medidas cautelares, como la suspensión de obras, antes de iniciar un expediente sancionador.",
+    "Obligación de reparar el daño y restaurar el suelo a su estado original tras una contaminación.",
+    "Destino íntegro de las sanciones económicas a la mejora del medio ambiente.",
+    "Implementación de un sistema de tasas para cubrir los costes de la intervención administrativa ambiental."
+  ],
+  "legal_references": [
+    "Ley 1/2005, de 4 de febrero, para la Prevención y Corrección de la Contaminación del Suelo",
+    "Ley 22/2011, de 28 de julio, de residuos y suelos contaminados",
+    "Directiva 2010/75/UE del Parlamento Europeo y del Consejo",
+    "Ley 3/1998, de 27 de febrero, General de Protección del Medio Ambiente del País Vasco",
+    "Decreto 423/1994, de 2 de noviembre, sobre gestión de residuos inertes e inertizados",
+    "Real Decreto 9/2005, de 14 de enero",
+    "Ley 26/2007, de 23 de julio, de Responsabilidad Medioambiental",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley de Tasas y Precios Públicos de la Administración de la Comunidad Autónoma del País Vasco (Decreto Legislativo 1/2007)",
+    "Real Decreto 475/2007",
+    "Real Decreto 363/1995",
+    "Real Decreto 1523/1999",
+    "Decreto 199/2006"
+  ],
+  "derogations": [
+    "Ley 1/2005, de 4 de febrero, para la Prevención y Corrección de la Contaminación del Suelo"
+  ],
+  "main_obligations": "Los titulares de actividades deben presentar informes de situación cada 5 años. Los propietarios deben declarar la actividad del suelo en las transmisiones inter vivos y los causantes están obligados a ejecutar las medidas de recuperación impuestas.",
+  "effective_date": "2015-07-24",
+  "procedures": [
+    {
+      "name": "Declaración de la calidad del suelo (Ámbitos residenciales protegidos)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Emisión de resolución",
+          "description": "El órgano ambiental debe dictar la resolución de calidad del suelo.",
+          "start_date": "Plazo máximo de 3 meses",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aprobación de plan de excavación selectiva",
+          "description": "Trámite para la aprobación del plan de excavación si es necesario.",
+          "start_date": "Plazo máximo de 2 meses",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Emisión de declaración de calidad tras investigación",
+          "description": "Emisión de la declaración tras el informe final acreditativo.",
+          "start_date": "1 mes tras la presentación del informe final",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aprobación de plan de recuperación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Trámite de audiencia",
+          "description": "Audiencia a las personas interesadas sobre el plan de recuperación.",
+          "start_date": "15 días",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución de aprobación",
+          "description": "Dictamen del órgano ambiental sobre el plan presentado.",
+          "start_date": "Plazo máximo de 3 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

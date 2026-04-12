@@ -1,0 +1,85 @@
+{
+  "identifier": "BOE-A-2020-12900",
+  "title": "Decreto-ley Foral 9/2020, de 16 de septiembre, por el que se establece el régimen sancionador por el incumplimiento de las medidas de prevención y contención sanitarias para afrontar la situación de crisis sanitaria ocasionada por COVID-19, en la Comunidad Foral de Navarra",
+  "visible_title": "Régimen sancionador por incumplimiento de medidas de prevención COVID-19 en Navarra",
+  "rank": "decreto-ley foral",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "9/2020",
+  "publication_date": "2020-10-26",
+  "enactment_date": "2020-09-16",
+  "last_updated": "2020-09-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/dlf/2020/09/16/9",
+  "official_journal": "Boletín Oficial de Navarra",
+  "journal_issue": "2013",
+  "summary": "Esta norma unifica y clarifica las sanciones económicas y administrativas aplicables en Navarra por incumplir las medidas sanitarias contra la COVID-19. Su objetivo es dar seguridad jurídica a los ciudadanos al definir claramente qué conductas son sancionables, evitando la dispersión de normas anteriores. Establece un sistema de multas graduadas según la gravedad del riesgo para la salud pública.",
+  "citizen_impact": "Los ciudadanos pueden enfrentarse a multas que van desde los 100€ por faltas leves (como no usar mascarilla o no respetar la distancia) hasta los 600.000€ por infracciones muy graves. Además, los padres o tutores responderán solidariamente de las multas impuestas a menores de edad.",
+  "professional_impact": "Los dueños de locales, organizadores de eventos y empresas turísticas asumen la responsabilidad de las infracciones cometidas por sus empleados o clientes si actúan con negligencia. Los establecimientos pueden sufrir cierres temporales o prohibiciones de actividad de hasta cinco años como sanciones accesorias.",
+  "keywords": [
+    "COVID-19",
+    "Navarra",
+    "sanciones",
+    "multas",
+    "salud pública",
+    "medidas de prevención",
+    "infracciones administrativas"
+  ],
+  "key_points": [
+    "Clasificación de infracciones en leves, graves y muy graves según el riesgo sanitario.",
+    "Multas para infracciones leves: entre 100€ y 3.000€.",
+    "Multas para infracciones graves: entre 3.001€ y 60.000€.",
+    "Multas para infracciones muy graves: entre 60.001€ y 600.000€.",
+    "Posibilidad de cierre de establecimientos o prohibición de actividad hasta por 5 años.",
+    "Descuento del 50% en la multa si se paga voluntariamente antes de la resolución de inicio.",
+    "Responsabilidad solidaria de padres/tutores en caso de infracciones cometidas por menores.",
+    "Los empresarios son responsables de las infracciones de sus trabajadores durante el servicio.",
+    "Las infracciones prescriben en 1 año (leves), 2 años (graves) y 3 años (muy graves)."
+  ],
+  "legal_references": [
+    "Real Decreto-ley 21/2020, de 9 de junio",
+    "Ley 33/2011, de 4 de octubre, General de Salud Pública",
+    "Ley 14/1986, de 25 de abril, General de Sanidad del Estado",
+    "Real Decreto Legislativo 5/2000, de 4 de agosto (Ley sobre Infracciones y Sanciones en el Orden Social)",
+    "Ley Foral 2/1989, de 13 de marzo, de Espectáculos Públicos y Actividades Recreativas",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+    "Ley Foral 16/2006, de 14 de diciembre, del Juego"
+  ],
+  "derogations": [],
+  "main_obligations": "Obligación de cumplir con el uso de mascarillas, distanciamiento físico, aforos y protocolos de higiene. Las multas varían desde 100€ (leves) hasta 600.000€ (muy graves) y pueden incluir el cierre de negocios.",
+  "effective_date": "2020-09-17",
+  "procedures": [
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción y resolución",
+          "description": "El procedimiento se tramita siguiendo la Ley 39/2015 y la Ley 40/2015.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Ratificación de medidas provisionales",
+          "description": "En caso de medidas provisionales (como cierres preventivos), la resolución de inicio debe ratificarlas, rechazarlas o modificarlas.",
+          "start_date": "15 días tras la adopción de la medida",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Pago voluntario con reducción",
+          "description": "El pago antes del plazo de la resolución de inicio reduce la multa en un 50%.",
+          "start_date": "Desde la resolución de inicio",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

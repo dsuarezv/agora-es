@@ -1,0 +1,200 @@
+{
+  "identifier": "BOE-A-2015-4747",
+  "title": "Ley 6/2015, de 24 de marzo, de la Vivienda de la Región de Murcia",
+  "visible_title": "Ley de Vivienda de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "6/2015",
+  "publication_date": "2015-04-30",
+  "enactment_date": "2015-03-24",
+  "last_updated": "2025-11-14",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2015/03/24/6",
+  "official_journal": "Boletín Oficial de la Región de Murcia",
+  "journal_issue": null,
+  "summary": "Esta ley busca garantizar el derecho a una vivienda digna en Murcia mediante la protección de colectivos vulnerables y la lucha contra la ocupación ilegal. Introduce medidas de protección para evitar desahucios, obligando a los grandes propietarios a ofrecer alquileres sociales antes de proceder con ejecuciones. Además, establece un sistema de sanciones severas para ocupaciones ilegales y regula aspectos específicos para la reconstrucción de Lorca. También refuerza la seguridad energética asegurando el suministro básico a familias en riesgo de exclusión.",
+  "citizen_impact": "Las familias en riesgo de exclusión residencial tienen derecho a que sus gastos de vivienda y suministros no superen el 30% de sus ingresos. Se facilita el acceso a la mediación hipotecaria para evitar impagos y se garantiza el suministro de agua, luz y gas. Por otro lado, los ocupantes ilegales se enfrentan a multas de hasta 90.000€.",
+  "professional_impact": "Los grandes tenedores de vivienda tienen la obligación de ofrecer alquiler social a familias vulnerables antes de iniciar procesos judiciales. Las empresas de suministros (luz, agua, gas) deben informar a la Administración sobre posibles ocupaciones ilegales y facilitar la consulta de contratos. Los técnicos de dirección de obra deben entregar las fichas del Libro de Edificio al promotor.",
+  "keywords": [
+    "vivienda",
+    "alquiler social",
+    "desahucios",
+    "ocupación ilegal",
+    "pobreza energética",
+    "mediación hipotecaria",
+    "Lorca",
+    "grandes tenedores"
+  ],
+  "key_points": [
+    "Obligación de grandes tenedores de ofrecer alquiler social (rentas del 10-18% de ingresos) antes de desahucios o ejecuciones hipotecarias.",
+    "Creación del Servicio de Orientación y Mediación Hipotecaria para familias con riesgo de impago.",
+    "Garantía de suministro básico de agua, gas y electricidad para familias en riesgo de exclusión.",
+    "Límite del 30% de los ingresos para gastos de vivienda y suministros en familias vulnerables.",
+    "Sanciones por ocupación ilegal de vivienda pública o falsedad documental de hasta 90.000€.",
+    "Obligación de suministradores de servicios de informar a la Administración sobre sospechas de ocupación.",
+    "Procedimiento de mediación extrajudicial para casos de sobreendeudamiento de la vivienda habitual.",
+    "Plazo de un mes para que copropietarios en Lorca otorguen la escritura de obra nueva tras la licencia.",
+    "Facultad de la Administración para la expropiación forzosa en Lorca ante incumplimientos de pagos o plazos.",
+    "La reiteración de una infracción en un plazo de 4 años aumenta la gravedad de la sanción."
+  ],
+  "legal_references": [
+    "Declaración Universal de los Derechos Humanos (art. 25)",
+    "Constitución Española (art. 40.1, 47, 128.1)",
+    "Estatuto de Auto autonomía de la Región de Murcia",
+    "Ley 3/2022, de 24 de mayo",
+    "Ley 4/1996, de 16 de junio, del Estatuto de los Consumidores y Usuarios de la Región de Murcia",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley 8/2005, de 14 de diciembre, para la calidad en la edificación de la Región de Murcia",
+    "Ley 7/2012, de 20 de julio, reguladora de la reedificación por sustitución forzosa para la urgente reconstrucción de Lorca",
+    "Real Decreto 410/2010, de 31 de marzo",
+    "Ley 5/1995, de 7 de abril, de condiciones de habitabilidad en edificios de viviendas y promociones de la accesibilidad general de la Comunidad Autónoma de la Región de Murcia"
+  ],
+  "derogations": [
+    "Preceptos relativos a la habitabilidad en la Ley 5/1995, de 7 de abril"
+  ],
+  "main_obligations": "Los grandes tenedores deben ofrecer alquiler social con rentas ajustadas al 10-18% de los ingresos familiares antes de ejecutar desahucios. Las empresas de suministros deben comunicar datos de contratos para detectar ocupaciones y los técnicos deben entregar las fichas del Libro de Edificio al promotor.",
+  "effective_date": "2015-04-30",
+  "procedures": [
+    {
+      "name": "Mediación extrajudicial por sobreendeudamiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inicio",
+          "description": "El consumidor o acreedor solicita el procedimiento ante la Consejería de Vivienda.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y coordinación",
+          "description": "La Dirección General de Vivienda coordina el proceso de mediación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Cese por concurso",
+          "description": "Si se inicia un procedimiento judicial concursal, el deudor debe comunicarlo y el proceso se archiva.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Oferta obligatoria de alquiler social (Grandes Tenedores)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Verificación de vulnerabilidad",
+          "description": "El gran tenedor debe comprobar si los afectados están en riesgo de exclusión residencial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Formulación de la propuesta",
+          "description": "Se presenta una propuesta de alquiler social que cumpla los requisitos de renta y duración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Comunicación al Ayuntamiento",
+          "description": "La oferta debe comunicarse al municipio en un plazo de 3 días hábiles.",
+          "start_date": null,
+          "end_date": "3 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Inicio de procedimiento judicial",
+          "description": "Solo si la propuesta es rechazada, el demandante puede iniciar la vía judicial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Emisión de informe de vulnerabilidad por Servicios Sociales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de informe",
+          "description": "Se solicita el informe para determinar la situación de riesgo de exclusión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución del informe",
+          "description": "La Administración debe emitir el informe en un plazo máximo de 15 días.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador de vivienda",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "descrption": "Inicio del expediente por parte de la Dirección General competente en materia de vivienda.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Imposición de sanción",
+          "descrption": "Resolución de la sanción por parte del titular de la Consejería de vivienda.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reedificación en Lorca (Sustitución forzosa)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Concesión de licencia municipal",
+          "descrption": "Otorgamiento de la licencia de obras para la reedificación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Otorgamiento de escritura de obra nueva",
+          "descrption": "Plazo para que los copropietarios otorguen la escritura pública de declaración de obra nueva.",
+          "start_date": "Desde la concesión de la licencia",
+          "end_date": "1 mes",
+          "required_documentation": "Escritura pública de declaración de obra nueva"
+        },
+        {
+          "step": 3,
+          "title": "Ejecución forzosa",
+          "descrption": "En caso de incumplimiento de plazos o pagos, el ayuntamiento puede proceder a la expropiación forzosa.",
+          "start_date": "Tras el vencimiento del plazo de un mes o incumplimiento de pagos",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

@@ -1,0 +1,112 @@
+{
+  "identifier": "BOJA-b-2022-90151",
+  "title": "Decreto-ley 5/2022, de 17 de mayo, para regular la estancia y la acogida de las personas menores de edad desplazadas en Andalucía con motivo del conflicto bélico en Ucrania",
+  "visible_title": "Regulación de la estancia y acogida de menores desplazados por la guerra en Ucrania en Andalucía",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "5/2022",
+  "publication_date": "2022-05-23",
+  "enactment_date": "2022-05-17",
+  "last_updated": "2022-05-23",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOJA-b-2022-90151",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": "b-2022-90151",
+  "summary": "Esta norma crea un marco jurídico excepcional para proteger a los menores ucranianos que llegan a Andalucía sin sus padres debido a la guerra. Permite que familias particulares o entidades sociales asuman la 'guarda provisional' de forma legal y segura. El objetivo es evitar situaciones de desprotección o trata, canalizando la solidaridad ciudadana a través de un control institucional coordinado.",
+  "citizen_impact": "Las familias andaluzas que deseen acoger a menores ucranianos de forma solidaria ahora tienen un procedimiento legal para hacerlo sin que esto suponga una adopción. Se les exige pasar una evaluación de idoneidad y cumplir con requisitos de antecedentes penales para garantizar la seguridad del menor.",
+  "professional_impact": "Los servicios sociales y la administración autonómica deben implementar nuevos protocolos de evaluación de familias, seguimiento de menores y coordinación con el Consulado de Ucrania. Se crean nuevos órganos de coordinación (Comisión y Comité Coordinador) para gestionar la respuesta humanitaria de forma transversal.",
+  "keywords": [
+    "menores ucranianos",
+    "acogida solidaria",
+    "guarda provisional",
+    "crisis humanitaria",
+    "Andalucía",
+    "protección de menores",
+    "desplazados de guerra"
+  ],
+  "key_points": [
+    "Creación de la figura de 'guarda provisional' para familias solidarias.",
+    "La guarda tiene una duración inicial de un año, prorrogable por 6 meses (máximo 2 años en total).",
+    "Obligatoriedad de presentar certificados de antecedentes penales y de delitos sexuales para todos los miembros de la unidad de convivencia.",
+    "Prioridad de acogida para familias con nacionalidad ucraniana o que dominen el idioma.",
+    "La guarda provisional no tiene como fin la adopción, sino la protección temporal hasta el retorno o reagrupación.",
+    "Obligación de registrar a todo menor no acompañado ante la Dirección General de la Policía.",
+    "Garantía de derechos como la escucha del menor y la comunicación con su familia de origen."
+  ],
+  "legal_references": [
+    "Directiva 2001/55/CE",
+    "Reglamento (UE) 2018/1806",
+    "Real Decreto 1325/2003",
+    "Real Decreto-ley 6/2022",
+    "Ley Orgánica 1/1996",
+    "Ley Orgánica 4/2000",
+    "Ley 4/2021 de Infancia y Adolescencia de Andalucía",
+    "Ley 40/2015"
+  ],
+  "derogations": [],
+  "main_obligations": "Las familias que soliciten la guarda deben firmar un compromiso de no buscar la adopción y facilitar el retorno del menor. Las entidades que gestionen programas humanitarios deben verificar antecedentes penales y reportar cualquier riesgo detectado a la administración.",
+  "effective_date": "2022-05-24",
+  "procedures": [
+    {
+      "name": "Ofrecimiento y evaluación de familias para la guarda provisional",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación del ofrecimiento",
+          "description": "La familia o entidad presenta su solicitud mediante el modelo oficial ante la entidad pública o colaboradora.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Modelo de Anexo I cumplimentado y compromisos firmados."
+        },
+        {
+          "step": 2,
+          "title": "Evaluación de idoneidad",
+          "description": "La entidad local o colaboradora realiza un informe sobre la capacidad, estabilidad y medios de la familia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificados de antecedentes penales y registro de delitos sexuales."
+        },
+        {
+          "step": 3,
+          "title": "Instrucción y propuesta de resolución",
+          "description": "La entidad pública competente verifica la documentación y la situación del menor para redactar la propuesta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación de identidad y situación del menor."
+        },
+        {
+          "step": 4,
+          "title": "Resolución administrativa",
+          "description": "El titular de la Delegación Territorial dicta la resolución delegando la guarda provisional.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Regularización de guardas de hecho",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Detección y notificación",
+          "description": "La administración identifica menores que ya conviven con familias sin trámite previo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Tramitación de regularización",
+          "description": "Se exige a la familia cumplir con los mismos requisitos y compromisos que en el procedimiento ordinario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Modelo de Anexo I, informe de entidad local y antecedentes penales."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

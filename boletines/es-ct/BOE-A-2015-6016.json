@@ -1,0 +1,104 @@
+{
+  "identifier": "BOE-A-2015-6016",
+  "title": "Decreto-ley 1/2015, de 24 de marzo, de medidas extraordinarias y urgentes para la movilización de las viviendas provenientes de procesos de ejecución hipotecaria",
+  "visible_title": "Medidas para la movilización de viviendas de ejecuciones hipotecarias",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "1/2015",
+  "publication_date": "2015-06-01",
+  "enactment_date": "2015-03-24",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2015/03/24/1",
+  "official_journal": "Diari Oficial de la Generalitat de Catalunya",
+  "journal_issue": null,
+  "summary": "Esta norma busca evitar que miles de viviendas adjudicadas a bancos tras desahucios se queden vacías o caigan en manos de fondos especulativos. Para ello, otorga a la Administración el derecho preferente de compra (tanteo y retracto) en zonas de alta demanda y permite intervenir para obligar a rehabilitar viviendas en mal estado. El objetivo final es aumentar el parque de vivienda pública y social en Cataluña.",
+  "citizen_impact": "Los ciudadanos pueden beneficiarse de un mayor acceso a vivienda social mediante la intervención pública. Sin embargo, los propietarios de viviendas adquiridas en ejecuciones hipotecarias deben cumplir con nuevas obligaciones de comunicación y mantenimiento de habitabilidad para evitar sanciones.",
+  "professional_impact": "Las entidades financieras y fondos de inversión enfrentan restricciones en la venta de sus carteras hipotecarias debido al derecho de tanteo de la Generalitat. Los propietarios de estos inmuebles ahora tienen la carga burocrática de inscribir sus viviendas en un nuevo registro y pueden ser sancionados con multas de hasta 90.000 euros si no realizan obras de habitabilidad.",
+  "keywords": [
+    "vivienda",
+    "ejecución hipotecaria",
+    "tanteo y retracto",
+    "habitabilidad",
+    "vivienda social",
+    "Cataluña",
+    "viviendas vacías"
+  ],
+  "key_points": [
+    "La Administración tiene derecho preferente de compra (tanteo y retracto) sobre viviendas de ejecuciones hipotecarias en zonas de alta demanda.",
+    "Se crea el Registro de viviendas vacías y de viviendas ocupadas sin título habilitante.",
+    "No realizar obras de habitabilidad en viviendas de ejecuciones hipotecarias se considera una infracción grave con multas de 3.000 a 90.000 euros.",
+    "La Administración puede expropiar temporalmente el uso (usufruto) de una vivienda por un plazo de 4 a 10 años para realizar obras de rehabilitación si el dueño se niega.",
+    "Las compañías de suministros (luz, agua) están obligadas a facilitar datos para identificar viviendas vacías.",
+    "Se permite a personas físicas comprar estas viviendas con derecho de tanteo si se comprometen a convertirlas en vivienda habitual por 10 años."
+  ],
+  "legal_references": [
+    "Ley 18/2007, de 28 de diciembre, del derecho a la vivienda",
+    "Decreto 141/2012, de 30 de octubre",
+    "Estatuto de autonomía de Cataluña",
+    "Ley 13/2008, de 5 de noviembre, de la Presidencia de la Generalidad y del Gobierno"
+  ],
+  "derogations": [],
+  "main_obligations": "Los titulares de viviendas de ejecuciones hipotecarias deben comunicar su situación al Registro de viviendas vacías. Deben mantener condiciones de habitabilidad bajo riesgo de multas de hasta 90.000 euros o la expropiación temporal del uso de la vivienda.",
+  "effective_date": "2015-03-24",
+  "procudeures": [
+    {
+      "name": "Comunicación de viviendas al Registro",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación inicial de titularidades",
+          "description": "Los titulares deben informar a la Agencia de la Vivienda sobre sus viviendas vacías o sin título habilitante.",
+          "start_date": "2015-03-24",
+          "end_date": "3 meses después de la entrada en vigor",
+          "required_documentation": "Datos de titularidad, ubicación, superficie y estado de habitabilidad"
+        }
+      ]
+    },
+    {
+      "name": "Ejercicio del derecho de tanteo y retracto",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de la intención de venta",
+          "description": "El vendedor debe comunicar a la Agencia de la Vivienda su decisión de transmitir la vivienda y el precio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Precio de venta, estado de ocupación y valoración de conservación"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de respuesta de la Administración",
+          "description": "La Administración decide si ejerce su derecho de compra preferente.",
+          "start_date": null,
+          "end_date": "3 meses tras la notificación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Ejecución forzosa de obras de habitabilidad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Orden de ejecución",
+          "description": "La Administración ordena las obras necesarias para cumplir requisitos de habitabilidad.",
+          "start_date": null,
+          "end_date": "6 meses para cumplir",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Inicio de expropiación temporal del usufruto",
+          "description": "Si no se cumplen las obras, se inicia el proceso para que la Administración use la vivienda y haga las obras.",
+          "start_date": "6 meses tras la notificación",
+          "end_date": "Plazo de 4 a 10 años",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

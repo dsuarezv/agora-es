@@ -1,0 +1,76 @@
+{
+  "identifier": "BOE-A-2026-5610",
+  "title": "Orden TED/202/2026, de 27 de febrero, por la que se declaran determinadas sustancias y objetos como subproductos con arreglo a la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular",
+  "visible_title": "Declaración de determinadas sustancias y objetos como subproductos para la economía circular",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio para la Transición Ecológica y el Reto Demográfico",
+  "official_number": "TED/202/2026",
+  "publication_date": "2026-03-11",
+  "enactment_date": "2026-02-27",
+  "last_updated": "2026-03-11",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2026/02/27/ted202",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "62",
+  "summary": "Esta norma permite que ciertos materiales derivados de procesos industriales (como el yeso artificial, restos de madera o papel tisú) dejen de ser considerados 'residuos' para pasar a ser 'subproductos'. Al cambiar su estatus jurídico, se facilita su reutilización directa en otros procesos productivos sin las trabas de la gestión de residuos. El objetivo es fomentar la economía circular y reducir el desperdicio de materiales aprovechables.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Las empresas industriales que generen estos materiales ahora pueden comercializarlos como subproductos en lugar de gestionarlos como residuos, reduciendo costes de eliminación. Sin embargo, deben cumplir con nuevas obligaciones de registro, trazabilidad y presentación de declaraciones responsables ante las comunidades autónomas. Los usuarios de estos materiales también asumen la responsabilidad de verificar su origen y mantener registros de uso durante cinco años.",
+  "keywords": [
+    "subproductos",
+    "economía circular",
+    "residuos",
+    "industria",
+    "sostenibilidad",
+    "gestión de materiales"
+  ],
+  "key_points": [
+    "Cambio de estatus de ciertos materiales de 'residuo' a 'subproducto' para facilitar su reutilización.",
+    "Lista específica de materiales: hidróxido sódico, yeso artificial, ácido nítrico al 60%, sustrato vegetal, restos de madera, papel tisú y ácido sulfúrico diluido.",
+    "Prohibición estricta de mezclar estos subproductos con otros residuos o sustancias durante su transporte y uso.",
+    "Obligación de los productores de presentar una declaración responsable ante la comunidad autónoma.",
+    "Obligación de llevar un registro cronológico de cantidades y destinos, conservándolo durante 5 años.",
+    "Los usuarios deben verificar que el material recibido cumple con los requisitos de seguridad y no contaminantes.",
+    "Facilitación del traslado de estos materiales entre Estados miembros de la UE sin necesidad de los trámites habituales de traslado de residuos.",
+    "Si el material no se usa para el fin específico declarado, vuelve automáticamente a ser considerado residuo."
+  ],
+  "legal_references": [
+    "Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular",
+    "Directiva 2008/98/CE",
+    "Directiva (UE) 2018/851",
+    "Ley 22/2011, de 28 de julio, de residuos y suelos contaminados",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Real Decreto 506/2013",
+    "Reglamento (UE) 2019/1009",
+    "Real Decreto 865/2010",
+    "Reglamento (UE) 2024/1157"
+  ],
+  "derogatations": [],
+  "main_obligations": "Los productores deben presentar una declaración responsable ante la autoridad ambiental autonómica y mantener un registro de cantidades y destinos durante 5 años. Los usuarios deben verificar la calidad del material y llevar también un registro de uso y procedencia por un periodo de 5 años.",
+  "effective_date": "2026-07-01",
+  "procedures": [
+    {
+      "name": "Declaración de subproductos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud y estudio técnico",
+          "description": "Las empresas presentan solicitudes para que sus materiales sean evaluados técnicamente por el Ministerio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud específica por cada sustancia u objeto"
+        },
+        {
+          "step": 2,
+          "title": "Declaración responsable del productor",
+          "description": "Una vez aprobada la condición, el productor debe presentar una declaración responsable ante la comunidad autónoma donde genera el material.",
+          "start_date": "2026-07-01",
+          "end_date": null,
+          "required_documentation": "Declaración responsable (según modelo del Anexo)"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

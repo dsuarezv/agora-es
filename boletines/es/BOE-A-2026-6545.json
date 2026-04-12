@@ -1,0 +1,71 @@
+{
+  "identifier": "BOE-A-2026-6545",
+  "title": "Real Decreto-ley 8/2026, de 20 de marzo, de medidas en el alquiler en respuesta a las consecuencias económicas y sociales de la Guerra de Irán",
+  "visible_title": "Medidas de emergencia en el alquiler por la crisis económica derivada de la Guerra de Irán",
+  "rank": "real_decreto_ley",
+  "country": "es",
+  "department": "Jefatura del Estado",
+  "official_number": "8/2026",
+  "publication_date": "2026-03-21",
+  "enactment_date": "2026-03-20",
+  "last_updated": "2026-03-21",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rdl/2026/03/20/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "71",
+  "summary": "Esta norma establece medidas de emergencia para frenar el encarecimiento de la vivienda provocado por la inflación derivada del conflicto en Irán. Introduce una prórroga obligatoria de los contratos de alquiler actuales y limita el aumento de las rentas. El objetivo es evitar que el coste de la vivienda y suministros supere el 30% de los ingresos medios de los hogares.",
+  "citizen_impact": "Los inquilinos de vivienda habitual tienen derecho a solicitar la prórroga de su contrato hasta dos años más si este finalizaba antes de 2027. Además, se garantiza que las subidas anuales del alquiler no superen el 2% hasta finales de 2027, protegiendo la estabilidad financiera de las familias.",
+  "professional_impact": "Los grandes tenedores pierden capacidad de subir la renta por encima del 2%, incluso si hay acuerdo con el inquilino. Los propietarios particulares deben aceptar la prórroga de contratos si el inquilino la solicita, salvo que decidan ocupar la vivienda o negociar una renta más baja.",
+  "keywords": [
+    "alquiler",
+    "vivienda habitual",
+    "prórroga de contrato",
+    "control de rentas",
+    "inflación",
+    "gran tenedor",
+    "LAU"
+  ],
+  "key_points": [
+    "Prórroga extraordinaria de contratos de alquiler hasta un máximo de dos años adicionales mediante solicitud del inquilino.",
+    "Límite máximo del 2% para la actualización anual de la renta hasta el 31 de diciembre de 2027.",
+    "El límite del 2% es obligatorio para grandes tenedores, con o sin acuerdo entre las partes.",
+    "Para propietarios no tenedores, el límite del 2% se aplica solo si no hay un nuevo pacto entre las partes.",
+    "La prórroga es incompatible con la prórroga por necesidad del propietario (art. 9.3 LAU)."
+  ],
+  "legal_references": [
+    "Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos",
+    "Ley 12/2023, de 24 de mayo, por el derecho a la vivienda",
+    "Constitución Española, artículo 86",
+    "Constitución Española, artículo 149.1.8.ª",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Ley 50/1997, de 27 de mayo, del Gobierno"
+  ],
+  "derogations": [],
+  "main_obligations": "Los arrendadores están obligados a aceptar la prórroga extraordinaria solicitada por el arrendatario si se cumplen los requisitos de temporalidad. Los grandes tenedores tienen prohibido aplicar actualizaciones de renta superiores al 2% anual.",
+  "effective_date": "2026-03-22",
+  "procedures": [
+    {
+      "name": "Solicitud de prórroga extraordinaria de contrato",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "descrption": "El arrendatario debe solicitar formalmente la prórroga de su contrato de vivienda habitual.",
+          "start_date": "A partir de la entrada en vigor de la norma",
+          "end_date": "Antes del 31 de diciembre de 2027",
+          "required_documentation": "Contrato de arrendamiento vigente"
+        },
+        {
+          "step": 2,
+          "title": "Aceptación del arrendador",
+          "descrption": "El arrendador está obligado a aceptar la prórroga, salvo excepciones legales como necesidad de ocupación o nuevo contrato con renta menor.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

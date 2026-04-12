@@ -1,0 +1,105 @@
+{
+  "identifier": "BOE-A-2009-809",
+  "title": "Ley 10/2008, de 9 de diciembre, de carreteras de Castilla y León",
+  "visible_title": "Ley de carreteras de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "10/2008",
+  "publication_date": "2009-01-17",
+  "enactment_date": "2008-12-09",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2008/12/09/10",
+  "official_journal": "Boletín Oficial de Castilla y León",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para la planificación, construcción, mantenimiento y explotación de las carreteras que no son de titularidad estatal pero se encuentran en Castilla y León. Introduce mecanismos modernos de financiación, como las concesiones a particulares, y define claramente las competencias entre la Junta, las Diputaciones y los Ayuntamientos. Además, regula las zonas de protección (dominio público, servidumbre y afección) para garantizar la seguridad vial y el ordenamiento del territorio.",
+  "citizen_impact": "Afecta a los ciudadanos en su movilidad y en el uso de la propiedad colindante a las vías. Establece límites estrictos para construir cerca de carreteras y regula la prohibición de publicidad visual desde la vía para evitar distracciones. También permite el cobro de peajes en carreteras gestionadas por concesionarias.",
+  "professional_impact": "Impacta directamente en constructoras, empresas de transporte y propietarios de fincas. Las empresas pueden participar en la construcción y explotación mediante concesiones. Los propietarios deben solicitar autorizaciones para cualquier obra o cambio de uso en las zonas de afección y servidumbre, bajo riesgo de multas elevadas.",
+  "keywords": [
+    "carreteras",
+    "Castilla y León",
+    "infraestructuras",
+    "tráfico",
+    "concesiones",
+    "seguridad vial",
+    "dominio público",
+    "expropiación"
+  ],
+  "key_points": [
+    "Permite la financiación de carreteras mediante concesiones a empresas privadas para su construcción y explotación.",
+    "Define tres zonas de protección: dominio público (8 o 3 metros), servidumbre (25 u 8 metros) y afección (100 o 30 metros).",
+    "Establece una línea límite de edificación de 50 metros en autopistas/autovías y 18 metros en otras carreteras.",
+    "Prohíbe la publicidad visible desde el dominio público de la carretera para mejorar la seguridad.",
+    "Crea un régimen de sanciones que pueden llegar hasta los 30.000 € por infracciones muy graves.",
+    "Regula la gestión de áreas de servicio tanto públicas como privadas para facilitar el descanso y suministro.",
+    "Faculta a la Junta para establecer contribuciones especiales a propietarios que se beneficien directamente de una obra vial."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Castilla y León",
+    "Ley 2/1990, de 16 de marzo, de Carreteras de la Comunidad de Castilla y León",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley 7/1985, de 2 de diciembre, Reguladora de las Bases del Régimen Local",
+    "Ley de Expropiación Forzosa"
+  ],
+  "derogations": [
+    "Ley 2/1990, de 16 de marzo, de Carreteras de la Comunidad de Castilla y León"
+  ],
+  "main_obligations": "Se prohíbe realizar obras o instalar publicidad en las zonas de dominio público, servidumbre o afección sin autorización previa. El incumplimiento de estas normas o el daño a la infraestructura puede acarrear multas de hasta 30.000 € y la obligación de demoler lo construido.",
+  "effective_date": "2009-01-17",
+  "procedures": [
+    {
+      "name": "Información pública de estudios informativos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Remisión a corporaciones locales",
+          "description": "Se envía el estudio a los ayuntamientos afectados para su examen.",
+          "start_date": "Inicio del trámite",
+          "end_date": "1 mes",
+          "required_documentation": "Estudio informativo"
+        },
+        {
+          "step": 2,
+          "title": "Periodo de información pública",
+          "description": "Apertura de expediente para que los ciudadanos y entidades presenten alegaciones.",
+          "start_date": "Tras el paso 1",
+          "end_date": "30 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Resolución de la administración sobre la aprobación del estudio.",
+          "start_date": "Tras el paso 2",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización de accesos a carreteras",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de acceso",
+          "description": "El interesado solicita permiso para conectar una propiedad o actividad a la vía.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de acceso"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la administración",
+          "description": "La administración evalúa la seguridad vial y la necesidad del acceso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

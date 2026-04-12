@@ -1,0 +1,92 @@
+{
+  "identifier": "BOE-A-1986-24334",
+  "title": "Ley 5/1986, de 28 de julio, del Impuesto Especial de la Comunidad Autónoma de Canarias sobre combustibles derivados del petróleo",
+  "visible_title": "Impuesto Especial de Canarias sobre combustibles derivados del petróleo",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "5/1986",
+  "publication_date": "1986-09-13",
+  "enactment_date": "1986-07-28",
+  "last_updated": "2024-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/1986/07/28/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un impuesto especial en Canarias aplicado al consumo de combustibles derivados del petróleo. Su objetivo es dotar de autonomía financiera a la Comunidad Autónoma mediante la imposición en la fase de venta mayorista. Regula tipos impositivos específicos para gasolinas, gasóleos, fuelóleo y gases, permitiendo además beneficios fiscales para sectores estratégicos.",
+  "citizen_impact": "El coste de los combustibles (gasolina, gasóleo, butano, propano) en Canarias está condicionado por este impuesto. Aunque el ciudadano no lo paga directamente al Estado, lo soporta de forma indirecta en el precio final que paga en la gasolinera.",
+  "professional_impact": "Los mayoristas de combustibles son los sujetos pasivos principales y deben gestionar la recaudación y declaración. Los agricultores y transportistas profesionales pueden beneficiarse de devoluciones parciales si están inscritos en el censo correspondiente. Las empresas industriales tienen acceso a un tipo reducido de gasóleo bajo estrictos controles de uso y registro.",
+  "keywords": [
+    "combustibles",
+    "petróleo",
+    "Canarias",
+    "impuesto especial",
+    "gasóleo industrial",
+    "gasolina profesional",
+    "tributación autonómica"
+  ],
+  "key_points": [
+    "Grava la entrega mayorista de combustibles en el ámbito de Canarias.",
+    "Existe un tipo reducido de gasóleo para uso exclusivamente industrial en calderas y hornos.",
+    "Los agricultores y transportistas pueden solicitar la devolución parcial del impuesto para vehículos profesionales.",
+    "Se establecen exenciones para la exportación y para el transporte marítimo regular entre islas.",
+    "El Gobierno de Canarias tiene potestad para modificar los tipos impositivos hasta un 30% según el precio del crudo.",
+    "El uso indebido del gasóleo industrial o la gasolina/gasóleo profesional conlleva sanciones graves e inmovilización de vehículos."
+  ],
+  "legal_references": [
+    "Ley 47/1980, de 1 de octubre",
+    "Ley 8/1980",
+    "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "Estatuto de Autonomía de Canarias",
+    "Ley de Ordenación del Transporte por Carretera de Canarias (Ley 13/2007)"
+  ],
+  "derogations": [],
+  "main_obligations": "Los mayoristas deben declarar y liquidar el impuesto por cada entrega. Los usuarios de gasóleo industrial deben estar inscritos en el censo y presentar declaraciones electrónicas al transmisor. El uso de combustible profesional en fines distintos a los permitidos conlleva multas de hasta 12.000 euros e inmovilización del vehículo.",
+  "effective_date": "1986-09-13",
+  "procedures": [
+    {
+      "name": "Devolución para agricultores y transportistas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inscripción en el Censo",
+          "description": "Alta obligatoria en el Censo de Agricultores y Transportistas para acceder al derecho de devolución.",
+          "start_date": "1 de enero",
+          "end_date": null,
+          "required_documentation": "Datos de actividad y vehículos afectos"
+        },
+        {
+          "step": 2,
+          "title": "Declaración anual de vehículos",
+          "description": "Comunicación de los vehículos inscritos para que surtan efectos desde el inicio del año.",
+          "start_date": "Enero",
+          "end_date": "31 de marzo",
+          "required_documentation": "Relación de vehículos afectos a la actividad"
+        }
+      ]
+    },
+    {
+      "name": "Régimen especial de gasóleo industrial (Adquisición directa)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inscripción censal",
+          "description": "Registro en el censo del régimen especial de gasóleo industrial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos de actividad industrial y localización"
+        },
+        {
+          "step": 2,
+          "title": "Entrega de declaración al transmisor",
+          "description": "Presentación de declaración con firma electrónica para aplicar el tipo reducido.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración con número de registro censal y firma electrónica"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

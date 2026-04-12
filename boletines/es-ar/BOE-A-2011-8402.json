@@ -1,0 +1,104 @@
+{
+  "identifier": "BOE-A-2011-8402",
+  "title": "Ley 9/2011, de 24 de marzo, de mediación familiar de Aragón",
+  "visible_title": "Ley de mediación familiar de Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "9/2011",
+  "publication_date": "2011-05-14",
+  "enactment_date": "2011-03-24",
+  "last_updated": "2012-03-19",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2011/03/24/9",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un marco legal para resolver conflictos familiares en Aragón mediante la mediación, evitando la vía judicial siempre que sea posible. Busca fomentar el diálogo y el consenso en temas como rupturas de pareja, custodia de hijos o herencias, priorizando el bienestar de menores y personas dependientes. Regula tanto la mediación extrajudicial como la intrajudicial, definiendo los requisitos para ser mediador y el funcionamiento del servicio público.",
+  "citizen_impact": "Ofrece a las familias aragonesas una alternativa más rápida, privada y menos traumática que los juicios para resolver problemas de divorcio, custodia o convivencia. Permite que los acuerdos alcanzados tengan validez legal mediante la ratificación judicial, protegiendo especialmente los intereses de los hijos.",
+  "professional_impact": "Crea un nuevo mercado profesional para mediadores familiares, quienes deben estar titulados y registrados en un registro oficial de la Comunidad Autónoma. Establece un régimen estricto de deberes, confidencialidad y sanciones administrativas (multas de hasta 15.000€ o inhabilitación) para estos profesionales.",
+  "keywords": [
+    "mediación familiar",
+    "Aragón",
+    "resolución de conflictos",
+    "derecho de familia",
+    "divorcio",
+    "custodia de menores",
+    "acuerdos extrajudiciales"
+  ],
+  "key_points": [
+    "La mediación es voluntaria y puede iniciarse antes, durante o después de un proceso judicial.",
+    "Se prohíbe la mediación si existen indicios de violencia de género o procesos penales por delitos contra la integridad física o sexual.",
+    "Los mediadores deben poseer titulación universitaria y estar inscritos en el Registro de Mediadores Familiares de Aragón.",
+    "El proceso de mediación tiene una duración prevista de 60 días, prorrogables si es necesario.",
+    "Los acuerdos sobre ruptura de convivencia deben ser ratificados por un juez para tener plena validez.",
+    "El servicio es gratuito para personas con derecho a asistencia jurídica gratuita o por circunstancias económicas especiales.",
+    "Se establece un régimen de sanciones para mediadores que incumplan la confidencialidad o la neutralidad."
+  ],
+  "legal_references": [
+    "Ley 2/2010, de 26 de mayo, de igualdad en las relaciones familiares ante la ruptura de convivencia de los padres",
+    "Ley 15/2005, de 8 de julio",
+    "Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial",
+    "Ley de Enjuiciamiento Civil",
+    "Estatuto de Autonomía de Aragón"
+  ],
+  "derogations": [],
+  "main_obligations": "Los mediadores deben mantener estricta confidencialidad y neutralidad, bajo riesgo de multas de hasta 15.000€ o suspensión de hasta 3 años. Las partes deben acudir personalmente a las sesiones y los acuerdos de ruptura de pareja requieren aprobación judicial.",
+  "effective_date": "2011-05-15",
+  "procedures": [
+    {
+      "name": "Procedimiento de mediación familiar",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud o inicio",
+          "description": "A petición de ambas partes, de una sola o por indicación de un Juez.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud escrita"
+        },
+        {
+          "step": 2,
+          "title": "Sesión informativa previa",
+          "description": "Reunión con un técnico para explicar ventajas, costes y funcionamiento del proceso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Reunión inicial",
+          "description": "El mediador explica el procedimiento y se planifican las sesiones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de inicio"
+        },
+        {
+          "step": 4,
+          "title": "Desarrollo de la mediación",
+          "description": "Sesiones de diálogo para buscar soluciones consensuadas.",
+          "start_date": null,
+          "end_date": "60 días (prorrogables)",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Finalización y Acta",
+          "description": "Se redacta un acta con los acuerdos alcanzados o la imposibilidad de llegar a ellos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta final"
+        },
+        {
+          "step": 6,
+          "title": "Ratificación judicial",
+          "description": "En casos de ruptura de convivencia, el juez debe aprobar los acuerdos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

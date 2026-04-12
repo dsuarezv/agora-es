@@ -1,0 +1,114 @@
+{
+  "identifier": "BOE-A-1994-7270",
+  "title": "Ley 2/1994, de 9 de marzo, del Procurador del Común de Castilla y León",
+  "visible_title": "Ley del Procurador del Común de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "2/1994",
+  "publication_date": "1994-03-29",
+  "enactment_date": "1994-03-09",
+  "last_updated": "2013-07-03",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/1994/03/09/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea y regula la figura del Procurador del Común como el alto comisionado de las Cortes de Castilla y León. Su función principal es supervisar la actividad de la Administración regional y local para proteger los derechos y libertades de los ciudadanos. Actúa como un mecanismo de control externo e independiente para asegurar que la Administración funcione correctamente y respete el Estatuto de Autonomía.",
+  "citizen_impact": "Permite a cualquier ciudadano de Castilla y León presentar quejas gratuitas ante una autoridad independiente si considera que la Administración le ha vulnerado derechos o ha actuado de forma injusta. No requiere abogado ni procurador, facilitando el acceso a la justicia administrativa.",
+  "professional_impact": "Los funcionarios y autoridades de la Comunidad y sus entes locales están obligados a colaborar con las investigaciones del Procurador, facilitando documentos y acceso a dependencias. El incumplimiento de este deber de auxilio puede derivar en comunicaciones al Ministerio Fiscal o sanciones por negligencia.",
+  "keywords": [
+    "Procurador del Común",
+    "Derechos ciudadanos",
+    "Control de la Administración",
+    "Castilla y León",
+    "Quejas administrativas",
+    "Estatuto de Autonomía"
+  ],
+  "key_points": [
+    "Creación de un defensor independiente para proteger derechos constitucionales y autonómicos.",
+    "Las quejas ante el Procurador son totalmente gratuitas y no requieren asistencia letrada.",
+    "El Procurador tiene potestad para investigar de oficio o por queja de particulares.",
+    "Obligación de las administraciones de responder a los requerimientos en un plazo de un mes.",
+    "El cargo tiene una duración de cuatro años, con posibilidad de una sola reelección.",
+    "El Procurador puede proponer fórmulas de conciliación para resolver conflictos rápidamente.",
+    "Se establece un régimen estricto de incompatibilidades para garantizar la imparcialidad del cargo."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Castilla y León",
+    "Ley Orgánica 3/1981, de 6 de abril"
+  ],
+  "derogations": [],
+  "main_obligations": "Los órganos y entes sujetos a supervisión deben auxiliar al Procurador con carácter preferente y urgente. Las autoridades y funcionarios deben facilitar información, asistencia y entrada en dependencias para las investigaciones.",
+  "effective_date": "1994-03-30",
+  "procedures": [
+    {
+      "name": "Procedimiento de queja ante el Procurador del Común",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la queja",
+          "description": "El interesado presenta un escrito firmado con sus datos y la exposición razonada de los hechos.",
+          "start_date": null,
+          "end_date": "1 año desde el conocimiento de los hechos",
+          "required_documentation": "Escrito firmado, datos de identificación, domicilio y documentos de apoyo."
+        },
+        {
+          "step": 2,
+          "title": "Registro y admisión",
+          "description": "El Procurador registra la queja y decide si la tramita o la rechaza motivadamente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Fase de investigación",
+          "description": "Se solicitan informes a la Administración afectada y se pueden realizar requerimientos al personal implicado.",
+          "start_date": null,
+          "end_date": "1 mes para que la Administración responda",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución e informe",
+          "description": "El Procurador informa del resultado de la investigación al autor de la queja y a la Administración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Elección del Procurador del Común",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de candidatos",
+          "description": "La Comisión Parlamentaria presenta candidatos a la Mesa de las Cortes.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Elevación al Pleno",
+          "description": "La Mesa de las Cortes eleva un candidato al Pleno.",
+          "start_date": null,
+          "end_date": "1 mes tras la presentación de candidatos",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Votación",
+          "description": "Elección por mayoría de tres quintas partes en sesión plenaria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,72 @@
+{
+  "identifier": "BOE-A-1997-8289",
+  "title": "Ley 12/1996, de 19 de diciembre, de Ayuda a las Víctimas del Terrorismo",
+  "visible_title": "Ley de Ayuda a las Víctimas del Terrorismo",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "12/1996",
+  "publication_date": "1997-04-18",
+  "enactment_date": "1996-12-19",
+  "last_updated": "2018-10-25",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1996/12/19/12",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece un sistema de ayudas económicas y asistenciales para las personas y empresas afectadas por actos terroristas en la Comunidad de Madrid. Su objetivo es compensar los daños físicos, psicológicos y materiales sufridos, complementando las ayudas que ya ofrece el Estado. Cubre desde asistencia sanitaria y becas de estudio hasta la reparación de viviendas y ayudas por fallecimiento.",
+  "citizen_impact": "Las víctimas de atentados en Madrid pueden acceder a servicios gratuitos de salud mental, asistencia sanitaria y becas para estudios. También pueden recibir ayudas para reparar su vivienda o, en caso de pérdida total, para alquilar o comprar una nueva. En caso de fallecimiento de un familiar, se establece una ayuda económica directa para los dependientes.",
+  "professional_impact": "Las empresas y comercios afectados pueden solicitar subvenciones para cubrir los costes financieros de créditos necesarios para su reparación. Los funcionarios de las consejerías de Sanidad, Educación, Urbanismo y Economía deben gestionar y tramitar estas solicitudes siguiendo procedimientos específicos de resolución en plazos de tres meses.",
+  "keywords": [
+    "terrorismo",
+    "víctimas",
+    "ayudas económicas",
+    "asistencia sanitaria",
+    "daños materiales",
+    "vivienda",
+    "Comunidad de Madrid"
+  ],
+  "key_points": [
+    "Las ayudas son subsidiarias: si recibes dinero de otro organismo, la Comunidad de Madrid solo te dará la diferencia.",
+    "Asistencia psicológica y sanitaria gratuita para víctimas y sus familiares a través del Servicio Regional de Salud.",
+    "Ayudas para estudios (transporte, comedor, residencia) para estudiantes afectados o hijos de víctimas incapacitadas.",
+    "Cobertura de daños en la vivienda habitual, incluyendo reparación, alojamiento provisional o ayuda para cambio de vivienda.",
+    "Subvención de 3.000.000 de pesetas en caso de muerte de la víctima para sus familiares dependientes.",
+    "Las empresas pueden solicitar ayuda para cubrir los intereses de créditos de reparación (créditos-puente).",
+    "Límite máximo de subvención por siniestro y solicitante de 7.000.000 de pesetas (valor de la época)."
+  ],
+  "legal_references": [
+    "Ley 5/2018, de 17 de octubre",
+    "Ley 30/1992, de 26 de diciembre",
+    "Estatuto de Autonomía de la Comunidad de Madrid"
+  ],
+  "derogations": [
+    "Ley 12/1996, de 19 de diciembre, de Ayuda a las Víctimas del Terrorismo (derogada por la Ley 5/2018)"
+  ],
+  "main_obligations": "El interesado debe presentar una denuncia ante los órganos competentes y obtener una certificación de la Delegación de Gobierno sobre los hechos. Asimismo, debe comprometerse a realizar todas las acciones de resarcimiento legales que procedan.",
+  "effective_date": "1997-01-01",
+  "procedures": [
+    {
+      "name": "Concesión de ayudas a víctimas del terrorismo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El interesado presenta una instancia con sus datos, descripción de los hechos, daños sufridos y la ayuda solicitada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la denuncia, certificación de la Delegación de Gobierno y justificantes de daños."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y resolución",
+          "description": "La Consejería competente tramita el expediente y debe resolver en un plazo máximo de tres meses.",
+          "start_date": null,
+          "end_date": "3 meses desde la solicitud",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

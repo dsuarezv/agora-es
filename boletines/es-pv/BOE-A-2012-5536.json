@@ -1,0 +1,79 @@
+{
+  "identifier": "BOE-A-2012-5536",
+  "title": "Ley 7/1982, de 30 de junio, de Salud Escolar",
+  "visible_title": "Ley de Salud Escolar",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "7/1982",
+  "publication_date": "2012-04-26",
+  "enactment_date": "1982-06-30",
+  "last_updated": "1982-08-13",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1982/06/30/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un sistema integral de prevención y promoción de la salud para el alumnado en el País Vasco. Busca detectar problemas físicos, mentales y sociales de forma temprana mediante exámenes médicos periódicos y educación sanitaria. La norma regula tanto la salud de los estudiantes como las condiciones higiénicas de los centros y la salud del personal docente.",
+  "citizen_impact": "Los padres y tutores deben completar cuestionarios de antecedentes médicos al iniciar la escolarización y recibir los resultados de los exámenes. Los alumnos tienen garantizado el derecho a reconocimientos médicos preventivos y seguimiento de su desarrollo físico y psicopedagógico.",
+  "professional_impact": "Los directores de centros (públicos y privados) deben asegurar la realización de exámenes, gestionar la documentación médica con confidencialidad y vigilar la higiene de las instalaciones. El personal docente y no docente está obligado a someterse a exámenes de salud al inicio de cada curso.",
+  "keywords": [
+    "salud escolar",
+    "prevención sanitaria",
+    "exámenes médicos",
+    "educación sanitaria",
+    "País Vasco",
+    "higiene escolar"
+  ],
+  "key_points": [
+    "Obligatoriedad de exámenes de salud en cursos específicos de EGB (1º, 5º y 8º) y último año de BUP/FP.",
+    "Implementación de programas de educación sanitaria para alumnos, familias y profesores.",
+    "Control de higiene en comedores, cocinas y condiciones de los edificios escolares.",
+    "Obligación de los tutores de registrar datos psicopedagógicos del comportamiento del alumno.",
+    "Exámenes de salud obligatorios para todo el personal docente y no docente al inicio del curso.",
+    "Responsabilidad de los centros privados de financiar sus propios equipos médicos si no usan los públicos.",
+    "Creación de fichas médico-escolares que deben acompañar al alumno en caso de traslado."
+  ],
+  "legal_references": [
+    "Ley de Bases de Sanidad Nacional, de 25 de noviembre de 1944",
+    "Ley Orgánica 5/80, de 19 de junio",
+    "Decreto 2473/1978, de 25 de agosto",
+    "Estatuto de Auto autonomía del País Vasco (Ley Orgánica 3/79)",
+    "R.D. 2.209/1979, de 7 de septiembre"
+  ],
+  "derogations": [],
+  "main_obligations": "Los padres deben entregar cuestionarios de antecedentes médicos; los centros deben garantizar exámenes de salud y condiciones higiénicas; los directores deben asegurar la confidencialidad de la documentación médica y el cumplimiento de las inspecciones sanitarias.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Protocolo de Salud Escolar",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio de vida escolar",
+          "description": "Cumplimentación obligatoria del cuestionario de antecedentes médicos por parte de padres o tutores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Cuestionario de antecedentes médicos"
+        },
+        {
+          "step": 2,
+          "title": "Realización de exámenes de salud",
+          "description": "Ejecución de los reconocimientos médicos según el curso escolar (1º, 5º, 8º EGB y último de BUP/FP).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Ficha médico-escolar"
+        },
+        {
+          "step": 3,
+          "title": "Comunicación de resultados",
+          "description": "Obligación de informar a los padres o tutores sobre los resultados obtenidos en los exámenes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,125 @@
+{
+  "identifier": "BOE-A-2007-3825",
+  "title": "Ley 11/2006, de 11 de diciembre, de la Hacienda Pública Canaria",
+  "visible_title": "Ley de la Hacienda Pública Canaria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "11/2006",
+  "publication_date": "2007-02-23",
+  "enactment_date": "2006-12-11",
+  "last_updated": "2023-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2006/12/11/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas de gestión económica para toda la administración pública de Canarias, organizando cómo se planifica el gasto y se gestionan los ingresos. Introduce una visión a largo plazo mediante presupuestos plurianuales y endurece el control sobre la deuda y la responsabilidad de los gestores. Su objetivo es garantizar la estabilidad financiera y la transparencia en el uso de los fondos públicos. Además, regula estrictamente el reparto de subvenciones y la rendición de cuentas de las entidades públicas.",
+  "citizen_impact": "Afecta principalmente en la gestión de subvenciones, donde se establecen plazos máximos de resolución (12 meses para concursos y 3 meses para concesión directa) para evitar la incertidumbre. También garantiza que los pagos derivados de sentencias judiciales se realicen en un plazo de 3 meses para evitar intereses de demora.",
+  "professional_impact": "Los funcionarios y gestores públicos asumen una responsabilidad directa sobre la veracidad de la contabilidad y pueden responder económicamente por daños a la Hacienda Pública. Las empresas y entidades que operan con el sector público deben cumplir con plazos estrictos de justificación de fondos (3 meses) y están sujetas a auditorías y controles de la Intervención General.",
+  "keywords": [
+    "Hacienda Pública Canaria",
+    "presupuesto plurianual",
+    "gestión de deuda",
+    "subvenciones",
+    "responsabilidad financiera",
+    "sector público Canarias"
+  ],
+  "key_points": [
+    "División del sector público en entidades con presupuesto limitativo (sin ánimo de lucro) y estimativo (empresariales).",
+    "Obligación de planificar ingresos y gastos mediante escenarios presupuestarios para los tres años siguientes.",
+    "Los compromisos de gasto plurianual pueden extenderse hasta un máximo de 4 años con límites decrecientes.",
+    "Prohibición de embargar bienes que sean esenciales para la prestación de servicios o funciones públicas.",
+    "Los pagos por resoluciones judiciales deben efectuarse en un plazo máximo de 3 meses.",
+    "Cualquier aumento de gasto en personal requiere autorización previa del Gobierno de Canarias.",
+    "Los pagos indebidos deben ser restituidos inmediatamente y generan intereses de demora.",
+    "Las universidades públicas tienen límites de deuda anual fijados por el Gobierno.",
+    "La deuda pública solo puede crearse mediante autorización en la Ley de Presupuestos.",
+    "Las solicitudes de subvenciones en concurrencia competitiva se consideran denegadas si no hay resolución en 12 meses.",
+    "Las subvenciones de concesión directa deben resolverse en un máximo de 3 meses.",
+    "La prescripción de derechos, obligaciones y responsabilidad de funcionarios por daños a la Hacienda es de 4 años."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 156)",
+    "Ley Orgánica 8/1980",
+    "Estatuto de Autonomía de Canarias",
+    "Ley 7/1984",
+    "Ley de Estabilidad Presupuestaria (Ley 18/2001)",
+    "Ley Orgánica 5/2001",
+    "Ley 47/2003 General Presupuestaria",
+    "Ley 40/2015 de Régimen Jurídico del Sector Público",
+    "Ley 38/2003 General de Subvenciones",
+    "Ley 2/1998 de Fundaciones Canarias",
+    "Ley de Presupuestos Generales de la Comunidad Autónoma de Canarias",
+    "Ley 30/1992 de Régimen Jurídico de las Administraciones Públicas",
+    "Ley Orgánica 6/2001 de Universidades",
+    "Código Civil",
+    "Sistema Europeo de Cuentas Nacionales y Regionales (SEC)",
+    "Ley Orgánica 2/1982"
+  ],
+  "derogations": [
+    "Ley 7/1984, de 11 de diciembre, de Hacienda Pública de la Comunidad Autónoma de Canarias (parcialmente)",
+    "Ley 4/2001, de 6 de julio, de medidas tributarias, financieras, de organización relativa al personal de la Administración de la Comunidad Autónoma de Canarias"
+  ],
+  "main_obligations": "Los gestores deben elaborar programas de actuación plurianuales y rendir cuentas ante la Audiencia de Cuentas. Los beneficiarios de subvenciones deben justificar los fondos en un plazo de 3 meses (6 meses en el extranjero) y colaborar con los controles financieros.",
+  "effective_date": "2008-01-01",
+  "procedures": [
+    {
+      "name": "Resolución de Subvenciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Subvenciones en concurrencia competitiva",
+          "description": "Plazo máximo para que la administración resuelva la solicitud.",
+          "start_date": "Desde la solicitud",
+          "end_date": "12 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Subvenciones de concesión directa",
+          "description": "Plazo máximo para la resolución de la concesión directa.",
+          "start_date": "Desde la solicitud",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Justificación de pagos y subvenciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Rendición de cuentas estándar",
+          "description": "Plazo para rendir cuentas tras recibir pagos a justificar.",
+          "start_date": "Desde la recepción del pago",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Rendición de cuentas en el extranjero o expropiaciones",
+          "description": "Plazo ampliado para rendición de cuentas en casos especiales.",
+          "start_date": "Desde la recepción del pago",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Pago de resoluciones judiciales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Ejecución del pago",
+          "description": "Plazo para realizar el pago y evitar intereses de demora.",
+          "start_date": "Desde la resolución judicial",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

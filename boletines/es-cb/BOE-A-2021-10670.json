@@ -1,0 +1,97 @@
+{
+  "identifier": "BOE-A-2021-10670",
+  "title": "Ley 4/2021, de 13 de mayo, de Regulacion y Coordinación de los Servicios de Prevención, Extincion de Incendios y Salvamento de la Comunidad Autónoma",
+  "visible_title": "Ley de Regulación y Coordinación de los Servicios de Bomberos y Salvamento de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "4/2021",
+  "publication_date": "2021-06-26",
+  "enactment_date": "2021-05-13",
+  "last_updated": "2021-05-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2021/05/13/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para organizar y coordinar los servicios de bomberos y salvamento en Cantabria, unificando criterios entre los servicios autonómicos y municipales. Busca garantizar que la atención de emergencias sea eficiente y profesional en todo el territorio, independientemente de quién gestione el servicio. Además, regula el estatuto jurídico, las funciones y las condiciones laborales del personal de estos servicios.",
+  "citizen_impact": "Mejora la seguridad ciudadana al asegurar una respuesta de emergencia más coordinada y profesional en toda la región. No impone trámites ni obligaciones directas a los ciudadanos, pero garantiza un servicio público de protección civil más robusto.",
+  "professional_impact": "Afecta directamente a los bomberos y personal de salvamento, definiendo su condición de agentes de la autoridad y regulando su acceso mediante oposición. Introduce la figura de la 'segunda actividad' para personal con disminución de capacidades físicas y establece un régimen disciplinario específico para este sector.",
+  "keywords": [
+    "bomberos",
+    "salvamento",
+    "emergencias",
+    "protección civil",
+    "Cantabria",
+    "prevención de incendios",
+    "agente de la autoridad"
+  ],
+  "key_points": [
+    "Se otorga rango de ley a la regulación de los servicios de bomberos, algo que no existía previamente.",
+    "Se define la condición de agente de la autoridad para el personal funcionario de estos servicios.",
+    "Se crea el Registro de Bomberos de Cantabria para la coordinación de todo el personal.",
+    "Se establece la 'segunda actividad' para permitir que personal con limitaciones físicas siga trabajando en funciones adaptadas.",
+    "Se regula el acceso al servicio mediante sistemas de oposición y cursos selectivos de formación obligatorios.",
+    "Se crean mecanismos de coordinación entre los servicios municipales y el servicio autonómico (SEMCA).",
+    "Se definen funciones que van más allá de apagar fuegos, incluyendo rescate acuático, accidentes de tráfico y prevención técnica.",
+    "Se establece un régimen disciplinario con infracciones específicas como no acudir a una llamada de siniestro estando de servicio."
+  ],
+  "legal_references": [
+    "Ley Orgánica 8/1981, de 30 de diciembre, del Estatuto de Autoonomía para Cantabria",
+    "Ley de Cantabria 3/2019, de 8 de abril, del Sistema de Protección Civil y Gestión de Emergencias de Cantabria",
+    "Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil",
+    "Ley de Cantabria 6/2018, de 22 de noviembre, por la que se crea el Organismo Autónomo Servicio de Emergencias de Cantabria",
+    "Ley de Cantabria 4/1993, de 10 de marzo, de la Función Pública de Cantabria",
+    "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el Texto Refundido del Estatuto Básico del Empleado Público"
+  ],
+  "derogatons": [
+    "Disposiciones de igual o inferior rango que se opongan a la presente ley"
+  ],
+  "main_obligations": "El personal funcionario debe acudir a las llamadas de siniestro estando de servicio y mantener la aptitud física necesaria. Los servicios deben utilizar los sistemas informáticos comunes de gestión de emergencias como el 112 Cantabria.",
+  "effective_date": "2021-12-26",
+  "procedures": [
+    {
+      "name": "Acceso y selección del personal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Proceso de oposición",
+          "description": "Superación de las pruebas selectivas para acceder a los cuerpos del servicio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Permiso de conducción clase B (o C para ciertas categorías)"
+        },
+        {
+          "step": 2,
+          "title": "Curso selectivo de formación",
+          "description": "Curso obligatorio tras superar la oposición para convertirse en funcionario de carrera.",
+          "start_date": "Tras superar la oposición",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acceso a la segunda actividad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Dictamen médico",
+          "description": "Evaluación por un tribunal médico de tres facultativos para determinar la aptitud física/psíquica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución del procedimiento",
+          "description": "Notificación de la decisión sobre la situación de segunda actividad.",
+          "start_date": "Desde la iniciación del procedimiento",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

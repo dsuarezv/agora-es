@@ -1,0 +1,89 @@
+{
+  "identifier": "BOE-A-1993-14881",
+  "title": "Ley 4/1993, de 21 de abril, de Archivos y Patrimonio Documental de la Comunidad de Madrid",
+  "visible_title": "Ley de Archivos y Patrimonio Documental de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "4/1993",
+  "publication_date": "1993-06-10",
+  "enactment_date": "1993-04-21",
+  "last_updated": "2023-04-12",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1993/04/21/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece el marco para la gestión, conservación y difusión del patrimonio documental en la Comunidad de Madrid. Organiza el sistema de archivos autonómicos, municipales y de otros sectores, creando el Consejo de Archivos como órgano asesor. Su objetivo principal es garantizar que los documentos públicos y privados de relevancia histórica sean accesibles para la investigación y la defensa de derechos ciudadanos.",
+  "citizen_impact": "Garantiza el derecho de acceso gratuito a los archivos públicos para la consulta de documentos históricos o administrativos. Permite que los ciudadanos utilicen la documentación como prueba de sus derechos e intereses ante la administración.",
+  "professional_impact": "Impone a los funcionarios y cargos públicos la obligación de entregar la documentación generada al cesar en sus funciones. Obliga a las empresas y entidades privadas con documentos de más de 40 o 100 años de antigüedad a colaborar con la protección del patrimonio documental.",
+  "keywords": [
+    "patrimonio documental",
+    "archivos",
+    "comunidad de madrid",
+    "conservación de documentos",
+    "acceso a la información",
+    "historia",
+    "administración pública"
+  ],
+  "key_points": [
+    "Creación del Consejo de Archivos de la Comunidad de Madrid para asesorar en la gestión documental.",
+    "Definición de fases de vida del documento: archivo de oficina, central, intermedio e histórico.",
+    "Establecimiento de la antigüedad de 40 años para documentos de entidades privadas y 100 años para particulares para ser considerados patrimonio.",
+    "Obligatoriedad de la custodia y conservación de documentos por parte de los titulares de fondos de archivo.",
+    "Derecho de acceso libre y gratuito a los centros de archivo de la Comunidad.",
+    "Prohibición de destruir documentos que formen parte del patrimonio documental sin autorización.",
+    "Régimen sancionador por destrucción, pérdida o falta de custodia de documentos históricos."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de la Comunidad de Madrid",
+    "Real Decreto 680/1985",
+    "Ley 6/2023, de 30 de marzo",
+    "Ley de Procedimiento Administrativo"
+  ],
+  "derogations": [
+    "Normas de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": "Los titulares de archivos deben custodiar, organizar y servir los documentos. Se prohíbe la destrucción de documentos de patrimonio documental sin procedimiento reglamentado y se exige la entrega de documentos públicos al cesar en cargos públicos.",
+  "effective_date": "1993-06-10",
+  "procedures": [
+    {
+      "name": "Gestión del ciclo de vida documental",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Archivo de oficina",
+          "description": "Custodia de documentos en la unidad administrativa mientras dure su trámite o uso frecuente.",
+          "start_date": null,
+          "end_date": "máximo 5 años desde el fin de la tramitación",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Archivo central",
+          "description": "Recepción de expedientes administrativos firmes y documentos de uso menos frecuente.",
+          "start_date": "tras el plazo de archivo de oficina",
+          "end_date": "máximo 10 años",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Archivo intermedio",
+          "description": "Tratamiento en el Archivo Regional para documentos con valor histórico potencial.",
+          "start_date": "tras el plazo de archivo central",
+          "end_date": "máximo 15 años",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Archivo histórico",
+          "description": "Tratamiento definitivo de documentos con valor histórico (mínimo 30 años de antigüedad).",
+          "start_date": "tras el plazo de archivo intermedio",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

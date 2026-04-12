@@ -1,0 +1,99 @@
+{
+  "identifier": "BOE-A-1987-8958",
+  "title": "Ley 5/1987, de 27 de marzo, de Elecciones al Parlamento de Cantabria",
+  "visible_title": "Ley de Elecciones al Parlamento de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "5/1987",
+  "publication_date": "1987-04-10",
+  "enactment_date": "1987-03-27",
+  "last_updated": "2019-03-08",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/1987/03/27/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas de juego para elegir a los diputados del Parlamento de Cantabria. Regula desde quién puede votar y ser elegido, hasta cómo se organizan las campañas y cómo se reparten los escaños mediante un sistema proporcional. Además, define la estructura de la Junta Electoral de Cantabria para garantizar que el proceso sea transparente y objetivo.",
+  "citizen_impact": "Garantiza el derecho de los habitantes de Cantabria a participar en la vida política regional mediante el voto. Asegura que las elecciones se celebren bajo reglas claras de igualdad y transparencia, protegiendo la voluntad popular.",
+  "professional_impact": "Afecta directamente a los partidos políticos y candidatos, quienes deben cumplir estrictos límites de gasto electoral y reglas de incompatibilidad. También establece obligaciones para los funcionarios que integran la Administración Electoral y la Mesa de la Asamblea.",
+  "keywords": [
+    "elecciones autonómicas",
+    "Parlamento de Cantabria",
+    "sistema electoral",
+    "sufragio",
+    "incompatibilidades parlamentarias",
+    "junta electoral"
+  ],
+  "key_points": [
+    "El Parlamento de Cantabria se compone de 35 diputados elegidos en una circunscripción única regional.",
+    "Se exige una lista equilibrada de hombres y mujeres (mínimo 40% de cada sexo) en las candidaturas.",
+    "Los diputados tienen prohibido acumular cargos en otros parlamentos (Congreso, Senado, Europa) o cargos de libre designación en la administración regional.",
+    "Existe un régimen de dedicación absoluta que impide a los diputados realizar cualquier otra actividad pública o privada, salvo excepciones muy limitadas.",
+    "Los partidos deben declarar sus bienes y actividades para evitar conflictos de interés en un Registro de Intereses público.",
+    "Se establece un límite de gasto electoral basado en la población de la Comunidad Autónoma.",
+    "Las candidaturas que no alcancen el 5% de los votos válidos quedan excluidas de la repartición de escaños."
+  ],
+  "legal_references": [
+    "Ley Orgánica 8/1981, del Estatuto de Autonomía para Cantabria",
+    "Ley Orgánica 5/1985, del Régimen Electoral General",
+    "Ley 6/1999, de 24 de marzo",
+    "Ley 7/1984, de Finanzas de la Diputación Regional de Cantabria"
+  ],
+  "derogations": [],
+  "main_obligations": "Los candidatos deben presentar listas con un mínimo de 40% de paridad de género. Los diputados están obligados a presentar una declaración de actividades y bienes ante la Cámara. Los partidos deben designar un administrador electoral y respetar los límites de gasto fijados por la Consejería de Economía.",
+  "effective_date": "1987-04-11",
+  "procedures": [
+    {
+      "name": "Presentación de candidaturas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de listas",
+          "description": "Los partidos o agrupaciones presentan sus listas de candidatos y suplentes.",
+          "start_date": "entre el día 15 y 20 tras la convocatoria",
+          "end_date": "día 20 tras la convocatoria",
+          "required_documentation": "Listas con candidatos, suplentes y orden de colocación"
+        },
+        {
+          "step": 2,
+          "title": "Publicación de candidaturas",
+          "description": "Las candidaturas se exponen en el BOC y en locales de la Junta Electoral.",
+          "start_date": "día 22 tras la convocatoria",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Subsanación de errores",
+          "description": "Plazo para corregir irregularidades detectadas por la Junta Electoral.",
+          "start_date": "2 días después de la publicación",
+          "end_date": "72 horas después de la notificación",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Proclamación de candidatos",
+          "description": "La Junta Electoral oficializa las candidaturas válidas.",
+          "start_date": "día 27 tras la convocatoria",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Campaña Electoral",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Distribución de propaganda",
+          "description": "La Junta Electoral distribuye los tiempos gratuitos en medios públicos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

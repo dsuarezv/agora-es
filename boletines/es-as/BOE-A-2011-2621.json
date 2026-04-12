@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-2011-2621",
+  "title": "Ley 9/2010, de 17 de diciembre, de comercio interior",
+  "visible_title": "Ley de comercio interior",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "9/2010",
+  "publication_date": "2011-02-11",
+  "enactment_date": "2010-12-17",
+  "last_updated": "2014-07-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2010/12/17/9",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y regula la actividad comercial en Asturias para adaptarla al marco europeo. Establece las reglas de juego para los horarios de apertura, las promociones de ventas y la instalación de grandes superficies. Además, define un régimen de sanciones estricto para evitar el fraude y la competencia desleal. Su objetivo es garantizar un mercado equilibrado, protegiendo tanto al consumidor como a la transparencia en las ventas.",
+  "citizen_impact": "El ciudadano se beneficia de una mayor claridad en los horarios comerciales y en la publicidad de rebajas y liquidaciones, evitando engaños. También garantiza que los pequeños comercios de proximidad mantengan su flexibilidad horaria frente a las grandes superficies.",
+  "professional_impact": "Los comerciantes deben cumplir con estrictos deberes de comunicación (inicio de actividad, rebajas, horarios) y responsabilidad legal por actos de sus empleados. Las grandes empresas enfrentan evaluaciones de impacto ambiental y un régimen sancionador que puede alcanzar los 800.000 euros o el cierre del local.",
+  "keywords": [
+    "comercio interior",
+    "Asturias",
+    "horarios comerciales",
+    "rebajas y liquidaciones",
+    "grandes equipamientos",
+    "sanciones comerciales",
+    "tiendas de conveniencia"
+  ],
+  "key_points": [
+    "Los comercios pueden abrir hasta un máximo de 90 horas semanales en días laborables.",
+    "Se permiten hasta 10 domingos o festivos de apertura al año, según lo fijado por la Consejería.",
+    "Las tiendas de conveniencia (máx. 500 m²) y pequeños establecimientos (máx. 300 m²) tienen libertad total de horario.",
+    "Los grandes equipamientos (≥ 2.500 m²) requieren obligatoriamente una evaluación de impacto ambiental.",
+    "Se prohíbe condicionar licencias comerciales a pruebas de necesidad económica individualizada.",
+    "Las rebajas y ventas de saldo deben diferenciar claramente los productos para no confundir al consumidor.",
+    "Las multas se calculan según la facturación, el beneficio obtenido y la reincidencia.",
+    "El titular de la empresa es responsable administrativo de las infracciones de sus empleados.",
+    "Se prohíben las ventas a pérdidas (salvo excepciones) y la publicidad engañosa en promociones.",
+    "Las infracciones muy graves que afecten a la salud pueden suponer el cierre del local hasta un año.",
+    "La administración puede intervenir mercancías si sospecha de fraude o falsificación.",
+    "Las sanciones prescriben en 6 meses (leves), 2 años (graves) y 3 años (muy graves)."
+  ],
+  "legal_references": [
+    "Directiva 2006/123/CE",
+    "Ley 10/2002, de 19 de noviembre, de Comercio Interior (Asturias)",
+    "Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio",
+    "Ley 1/2010, de 1 de marzo, de reforma de la Ley 7/1996",
+    "Ley 29/2009, de 30 de diciembre",
+    "Constitución Española (artículos 38, 131 y 149.1.13.ª, 149.1.6.ª y 8.ª)",
+    "Decreto Legislativo Asturiano 1/2004",
+    "Legislación básica estatal en materia de comercio minorista",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Decreto 79/2004",
+    "Decreto 104/2005",
+    "Decreto 137/2006"
+  ],
+  "derogations": [
+    "Ley del Principado de Asturias 10/2002, de 19 de noviembre, de Comercio Interior"
+  ],
+  "main_obligations": "Los comerciantes deben comunicar el inicio o fin de su actividad al Registro en un plazo de 3 meses y avisar a la Consejería con 10 días de antelación antes de iniciar ventas de saldos o liquidaciones. Asimismo, es obligatorio exhibir el horario de apertura de forma legible desde el exterior.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Comunicación de actividades y promociones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de inicio o fin de actividad",
+          "descrption": "Notificación al Registro de Empresas sobre el estado de la actividad comercial.",
+          "start_date": "Plazo de 3 meses desde el inicio o fin de la actividad",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comunicación de ventas de saldos o liquidaciones",
+          "descrption": "Aviso previo a la Consejería para realizar promociones de este tipo.",
+          "start_date": "10 días de antelación al inicio de la actividad",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

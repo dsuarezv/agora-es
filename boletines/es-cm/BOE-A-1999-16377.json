@@ -1,0 +1,101 @@
+{
+  "identifier": "BOE-A-1999-16377",
+  "title": "Ley 8/1999, de 26 de mayo, de Ordenación del Turismo de Castilla-La Manch la",
+  "visible_title": "Ley de Ordenación del Turismo de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "8/1999",
+  "publication_date": "1999-07-28",
+  "enactment_date": "1999-05-26",
+  "last_updated": "2019-12-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/1999/05/26/8",
+  "official_journal": "Boletín Oficial de la Comunidad de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco legal para organizar, promover y controlar todo el sector turístico en Castilla-La Mancha. Regula desde el funcionamiento de empresas de alojamiento y restauración hasta las actividades de guías de turismo y agencias de viajes. Además, crea un régimen de inspección y sanciones para garantizar la calidad del servicio y la protección del consumidor. Su objetivo es modernizar el sector y convertir a la región en un destino turístico competitivo y equilibrado.",
+  "citizen_impact": "Garantiza a los turistas derechos fundamentales como recibir información veraz, obtener facturas y disponer de mecanismos para presentar reclamaciones. También establece deberes de convivencia y respeto a los reglamentos de los establecimientos.",
+  "professional_impact": "Las empresas turísticas deben realizar una declaración responsable antes de iniciar su actividad y cumplir con requisitos de seguridad, higiene y calidad. Los guías de turismo requieren una habilitación oficial para evitar el intrusismo, y las empresas se enfrentan a sanciones económicas que pueden superar los 60.000 euros o la clausura de sus locales en caso de infracciones muy graves.",
+  "keywords": [
+    "turismo",
+    "Castilla-La Mancha",
+    "empresas turísticas",
+    "guías de turismo",
+    "régimen sancionador",
+    "consumidor turístico",
+    "alojamiento",
+    "restauración"
+  ],
+  "key_points": [
+    "Obligatoriedad de presentar una declaración responsable antes de abrir cualquier negocio turístico.",
+    "Creación de un Registro de Empresas, Establecimientos y Profesiones Turísticas.",
+    "Exigencia de habilitación oficial para el ejercicio de la profesión de Guía de Turismo.",
+    "Establecimiento de un régimen de inspección con agentes de la autoridad.",
+    "Clasificación de infracciones en leves, graves y muy graves con multas de hasta 60.010 euros.",
+    "Posibilidad de clausura de establecimientos por periodos de hasta tres años en infracciones muy graves.",
+    "Definición de derechos específicos para el usuario turístico, como el derecho a la información y la factura.",
+    "Regulación de nuevas modalidades como el turismo activo y el ecoturismo."
+  ],
+  "legal_references": [
+    "Ley 2/1992, de 10 de diciembre, de Ordenación y Disciplina en materia turística",
+    "Ley 21/1995, de 6 de julio, que regula los Viajes Combinados",
+    "Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios",
+    "Ley 3/1995, de 9 de marzo, del Estatuto del Consumidor de Castilla-La Mancha",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Real Decreto 1398/1993, de 4 de agosto, que aprueba el Reglamento del procedimiento para el ejercicio de la potestat sancionadora",
+    "Ley 2/1991, de 14 de marzo, de Coordinación de Diputaciones",
+    "Real Decreto Legislativo 1/2007, de 16 de noviembre"
+  ],
+  "derogations": [
+    "Ley 2/1992, de 10 de diciembre, de Ordenación y Disciplina en materia turística",
+    "Punto del artículo 1 y párrafo tercero del apartado a) del artículo 5 del Decreto 2/1988"
+  ],
+  "main_obligations": "Las empresas deben presentar una declaración responsable antes de operar y exhibir sus distintivos de categoría. Deben mantener seguros de responsabilidad civil (especialmente en turismo activo) y facilitar el acceso a la inspección, bajo riesgo de multas de hasta 60.010 euros o clausura.",
+  "effective_date": "1999-08-17",
+  "procedures": [
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación",
+          "descrption": "Inicio del expediente por acta de inspección, denuncia, queja o iniciativa de oficio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Actas de inspección o documentos que acrediten la infracción"
+        },
+        {
+          "step": 2,
+          "title": "Información previa (Opcional)",
+          "descrption": "Práctica de diligencias para aclarar los hechos antes de abrir el expediente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "descrption": "Decisión de la autoridad competente sobre la existencia de la infracción y la sanción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración Responsable para inicio de actividad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación",
+          "descrption": "El titular manifiesta que cumple los requisitos legales ante el órgano competente.",
+          "start_date": "Antes del inicio de la actividad",
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el cumplimiento de la normativa turística"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

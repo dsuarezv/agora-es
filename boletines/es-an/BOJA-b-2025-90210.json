@@ -1,0 +1,101 @@
+{
+  "identifier": "BOJA-b-2025-90210",
+  "title": "Decreto-ley 3/2025, de 4 de agosto, por el que se articula un periodo transitorio para garantizar la prestación del servicio de Televisión Digital Terrestre de ámbito local en Andalucía gestionado por particulares",
+  "visible_title": "Garantía de la continuidad del servicio de Televisión Digital Terrestre local en Andalucía",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "3/2025",
+  "publication_date": "2025-08-08",
+  "enactment_date": "2025-08-04",
+  "last_updated": "2025-08-08",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOJA-b-2025-90210",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": "BOJA-b-2025-90210",
+  "summary": "Esta norma establece un mecanismo de emergencia para evitar que las televisiones locales de Andalucía dejen de emitir tras la anulación judicial de sus licencias. Permite que las empresas que ya tenían licencias soliciten una habilitación provisional para seguir operando legalmente. El objetivo es evitar el vacío informativo en 45 demarcaciones y proteger la viabilidad económica de las empresas del sector mientras se convoca un nuevo concurso público.",
+  "citizen_impact": "Evita que los ciudadanos de 315 municipios andaluces se queden sin contenidos de televisión local y de proximidad. Esto garantiza la recepción de información relevante y avisos de emergencia en el ámbito local.",
+  "professional_impact": "Las empresas de televisión local que perdieron sus licencias por vía judicial deben solicitar una habilitación provisional en el plazo de un mes para no cesar su actividad. Se les impone la obligación de gestionar todos sus trámites de forma electrónica con la Junta de Andalucía.",
+  "keywords": [
+    "Televisión Digital Terrestre",
+    "TDT local",
+    "Andalucía",
+    "licencias audiovisuales",
+    "periodo transitorio",
+    "comunicación audiovisual"
+  ],
+  "key_points": [
+    "Creación de una habilitación provisional para las empresas que tenían licencias anuladas por sentencia judicial.",
+    "Plazo de un mes para que las empresas soliciten esta habilitación provisional.",
+    "Obligación de realizar todos los trámites de forma electrónica ante la Junta de Andalucía.",
+    "La habilitación provisional es temporal y durará hasta que se resuelva el nuevo concurso público.",
+    "Se establece un plazo de seis meses para convocar el nuevo concurso público de licencias.",
+    "La habilitación no permite realizar negocios jurídicos (como vender la licencia) con terceros."
+  ],
+  "legal_references": [
+    "Ley 1/2021, de 22 de enero",
+    "Ley 10/2018, de 9 de octubre, Audiovisual de Andalucía",
+    "Ley 39/2015, de 1 de diciembre, del Procedimiento Administrativo Común",
+    "Real Decreto 250/2025, de 25 de marzo",
+    "Decreto 90/2025, de 2 de abril"
+  ],
+  "derogations": [
+    "Ley 1/2021, de 22 de enero"
+  ],
+  "main_obligations": "Las empresas interesadas deben presentar su solicitud de habilitación provisional en un plazo máximo de un mes desde la entrada en vigor. Deben operar exclusivamente mediante medios electrónicos para sus relaciones con la Administración.",
+  "effective_date": "2025-08-09",
+  "procedures": [
+    {
+      "name": "Habilitación provisional para la prestación del servicio de TDT local",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Las empresas titulares de licencias anuladas deben solicitar la habilitación provisional.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": "1 mes desde la entrada en vigor",
+          "required_documentation": "Declaración responsable de cumplimiento de requisitos audiovisuales y datos de contacto electrónico."
+        },
+        {
+          "step": 2,
+          "title": "Subsanación de defectos",
+          "description": "Si hay errores en la solicitud, la Administración requerirá su corrección.",
+          "start_date": "Tras la recepción de la solicitud",
+          "end_date": "10 días",
+          "required_documentation": "Documentación necesaria para subsanar el defecto."
+        },
+        {
+          "step": 3,
+          "title": "Resolución de la solicitud",
+          "description": "La autoridad competente dicta la resolución de otorgamiento o denegación.",
+          "start_date": "Tras la presentación o subsanación",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Inicio de la prestación del servicio",
+          "description": "Una vez concedida la habilitación, la empresa debe empezar a emitir.",
+          "start_date": "Tras la notificación de la resolución",
+          "end_date": "1 mes (si ya tiene autorización de estaciones) o 12 meses (en otros casos)",
+          "required_documentation": "Comunicación de inicio de servicio en 2 días tras el comienzo."
+        }
+      ]
+    },
+    {
+      "name": "Concurso público para la adjudicación de licencias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria del concurso",
+          "description": "El Consejo de Gobierno debe convocar el nuevo concurso para licencias vacantes y las actuales.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

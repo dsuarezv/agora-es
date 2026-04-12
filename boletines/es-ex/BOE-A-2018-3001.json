@@ -1,0 +1,97 @@
+{
+  "identifier": "BOE-A-2018-3001",
+  "title": "Ley 2/2018, de 14 de febrero, de coordinación intersectorial y de simplificación de los procedimientos urbanísticos y de ordenación del territorio de Extremadura",
+  "visible_title": "Ley de coordinación y simplificación de procedimientos urbanísticos y de ordenación del territorio de Extremadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "2/2018",
+  "publication_date": "2018-03-03",
+  "enactment_date": "2018-02-14",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2018/02/14/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca eliminar el bloqueo administrativo y la inseguridad jurídica en la gestión del suelo en Extremadura. Introduce un sistema de coordinación entre distintas administraciones para que los informes sectoriales (carreteras, patrimonio, medio ambiente, etc.) se tramiten de forma conjunta y no contradictoria. El objetivo es agilizar la aprobación de planes urbanísticos y territoriales mediante plazos unificados y una mesa de diálogo con capacidad de decisión.",
+  "citizen_impact": "Reduce la incertidumbre para quienes deseen realizar proyectos de construcción o inversión en el territorio, al evitar que los trámites se eternicen por conflictos entre organismos públicos. Esto puede traducirse en una respuesta más rápida de la administración ante solicitudes de uso de suelo.",
+  "professional_impact": "Empresas constructoras, promotores inmobiliarios y técnicos municipales se benefician de plazos de respuesta más claros y predecibles. Los funcionarios de distintas áreas ahora deben trabajar bajo un marco de coordinación obligatoria y plazos de tres meses para emitir informes, evitando la duplicidad de trámites.",
+  "keywords": [
+    "urbanismo",
+    "ordenación del territorio",
+    "simplificación administrativa",
+    "coordinación intersectorial",
+    "Extremadura",
+    "planes generales",
+    "informes sectoriales"
+  ],
+  "key_points": [
+    "Creación de la Comisión de Coordinación Intersectorial con capacidad para resolver discrepancias entre organismos.",
+    "Establecimiento de un plazo máximo de tres meses para la emisión de informes sectoriales.",
+    "Unificación de la tramitación de informes para evitar que las exigencias de un organismo bloqueen las de otro.",
+    "Implementación de la gestión telemática para la comunicación entre administraciones.",
+    "Plazo de cuatro meses para la formulación de la declaración ambiental estratégica.",
+    "Introducción del silencio administrativo favorable si no se emiten informes en los plazos establecidos (en sectores como carreteras o patrimonio)."
+  ],
+  "legal_references": [
+    "Ley 15/2001, de 14 de diciembre, del Suelo y Ordenación Territorial de Extremadura",
+    "Ley 7/1995, de 27 de abril, de Carreteras de Extremadura",
+    "Ley 2/1999, de 29 de marzo, de Patrimonio Histórico y Cultural de Extremadura",
+    "Ley 6/2015, de 24 de marzo, Agraria de Extremadura",
+    "Ley 16/2015, de 23 de abril, de Protección Ambiental de la Comunidad Autónoma de Extremadura"
+  ],
+  "derogations": [
+    "Disposiciones de rango igual o inferior que se opongan a la presente ley"
+  ],
+  "main_obligations": "Los organismos sectoriales deben emitir sus informes en un plazo máximo de tres meses. En caso de informes vinculantes (carreteras, patrimonio, regadíos, etc.), si no se responden en dicho plazo, se entenderá que el informe es favorable.",
+  "effective_date": "2018-06-01",
+  "procedures": [
+    {
+      "name": "Procedimiento de coordinación intersectorial para instrumentos de ordenación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación inicial",
+          "description": "El organismo promotor aprueba inicialmente el plan o proyecto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de informes por la Comisión",
+          "description": "La Comisión de Coordinación Intersectorial solicita los informes a los organismos afectados.",
+          "start_date": "Tras la aprobación inicial",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Emisión de informes sectoriales",
+          "description": "Los organismos deben aportar un borrador y emitir su informe definitivo.",
+          "start_date": "Desde la solicitud",
+          "end_date": "3 meses",
+          "required_documentation": "Borrador de informe con determinaciones legales y recomendaciones"
+        },
+        {
+          "step": 4,
+          "title": "Declaración ambiental estratégica",
+          "description": "El órgano ambiental debe formular la declaración tras la consulta.",
+          "start_date": "Desde la solicitud de la Comisión",
+          "end_date": "4 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Conclusión de la intervención",
+          "description": "La Comisión traslada los informes al promotor y finaliza su actuación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

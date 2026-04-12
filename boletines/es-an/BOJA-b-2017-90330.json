@@ -1,0 +1,105 @@
+{
+  "identifier": "BOJA-b-2017-90330",
+  "title": "Decreto-ley 1/2017, de 28 de marzo, de medidas urgentes para favorecer la escolarización en el primer ciclo de la educación infantil en Andalucía",
+  "visible_title": "Medidas para favorecer la escolarización en el primer ciclo de educación infantil en Andalucía",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "1/2017",
+  "publication_date": "2017-03-29",
+  "enactment_date": "2017-03-28",
+  "last_updated": "2019-12-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOJA-b-2017-90330",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": "90330",
+  "summary": "Esta norma crea un nuevo sistema de ayudas económicas para que las familias puedan costear la escolarización de niños menores de 3 años en centros privados o concertados. Sustituye el antiguo modelo de convenios por un 'Programa de ayuda' que permite a más centros participar. El objetivo es facilitar la conciliación familiar y garantizar la igualdad de oportunidades mediante bonificaciones basadas en la renta.",
+  "citizen_impact": "Las familias con menores de 3 años pueden recibir descuentos directos en las cuotas de atención socioeducativa y comedor escolar. El pago se gestiona mediante una bonificación que se aplica directamente en la factura del centro, reduciendo el coste mensual según la renta familiar.",
+  "professional_impact": "Los centros de educación infantil no públicos pasan a ser 'entidades colaboradoras', asumiendo la gestión de las ayudas y la recepción de fondos públicos. Esto les obliga a cumplir requisitos de admisión específicos y a certificar mensualmente la asistencia de los alumnos para cobrar las subvenciones.",
+  "keywords": [
+    "educación infantil",
+    "primer ciclo",
+    "ayudas escolares",
+    "bonificaciones",
+    "escolarización",
+    "menores de 3 años",
+    "Andalucía"
+  ],
+  "key_points": [
+    "Creación del Programa de ayuda para familias con niños menores de 3 años.",
+    "Las ayudas se calculan mediante bonificaciones sobre el precio del centro, no mediante pagos directos a la familia.",
+    "Los centros privados/concertados actúan como entidades colaboradoras gestionando el cobro de la ayuda.",
+    "Se desvincula el precio del servicio de comedor del servicio de atención socioeducativa para dar más flexibilidad.",
+    "La gestión de los fondos se centraliza en la Agencia Pública Andaluza de Educación.",
+    "Las bonificaciones se determinan según la renta per cápita familiar (basada en el IPREM).",
+    "Se establece un sistema de admisión basado en criterios objetivos como la renta y la edad."
+  ],
+  "legal_references": [
+    "Ley Orgánica 2/2006, de 3 de mayo, de Educación",
+    "Ley 17/2007, de 10 de diciembre, de Educación de Andalucía",
+    "Decreto 149/2009, de 12 de mayo",
+    "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+    "Ley 3/2004, de 28 de diciembre, de Medidas Tributarias, Administrativas y Financieras"
+  ],
+  "derogations": [
+    "Sección Primera del Capítulo V del Decreto 137/2002",
+    "Capítulo II del Título III del Decreto 149/2009",
+    "Apartado primero y Anexo 1 del Acuerdo de 7 de julio de 2009 del Consejo de Gobierno"
+  ],
+  "main_obligations": "Los centros adheridos deben aplicar los criterios de admisión de la Junta, fijar precios no superiores al precio público y certificar mensualmente la asistencia diaria de los alumnos. Las familias deben abonar mensualmente la diferencia entre el precio del centro y la bonificación concedida.",
+  "effective_date": "2017-03-30",
+  "procedures": [
+    {
+      "name": "Adhesión de centros al Programa de ayuda",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de adhesión",
+          "description": "Los centros deben solicitar su incorporación al programa a través de la web de la Junta.",
+          "start_date": "2017-03-30",
+          "end_date": "2017-04-07",
+          "required_documentation": "Formulario telemático de adhesión"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de admisión para el curso 2017-2018",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Reserva de plaza",
+          "description": "Periodo para solicitar la reserva de plaza en el centro.",
+          "start_date": "2017-04-24",
+          "end_date": "2017-05-08",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Publicación de plazas vacantes",
+          "description": "Se informará de las plazas disponibles por tramos de edad.",
+          "start_date": "2017-05-09",
+          "end_date": "2017-05-09",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Presentación de solicitudes de admisión",
+          "description": "Plazo para presentar la solicitud formal de ingreso.",
+          "start_date": "2017-05-10",
+          "end_date": "2017-05-26",
+          "required_documentation": "Documentación acreditativa de renta y datos de familia"
+        },
+        {
+          "step": 4,
+          "title": "Formalización de matrícula",
+          "description": "Periodo para confirmar la plaza obtenida.",
+          "start_date": "2017-06-22",
+          "end_date": "2017-07-05",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-2023-9292",
+  "title": "Ley 1/2023, de 23 de febrero, por la que se regula el reconocimiento de la condición de familia monoparental en la Región de Murcia",
+  "visible_title": "Ley de reconocimiento de la condición de familia monoparental en la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "1/2023",
+  "publication_date": "2023-04-17",
+  "enactment_date": "2023-02-23",
+  "last_updated": "2023-03-08",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2023/02/23/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea un marco jurídico para que las familias monoparentales en la Región de Murcia puedan acreditar oficialmente su condición mediante un título oficial. El objetivo es facilitar el acceso a ayudas y beneficios sociales, equiparándolos en muchos aspectos a los de las familias numerosas. La norma define quiénes entran en este grupo, establece los requisitos de convivencia y renta, y clasifica a las familias en categorías (especial o general) para ajustar la ayuda.",
+  "citizen_impact": "Los ciudadanos que vivan solos con sus hijos (por viudedad, divorcio, custodia o acogimiento) podrán obtener un carné oficial que les dará acceso a beneficios fiscales, ayudas en vivienda de protección oficial y ventajas en administraciones públicas similares a las de las familias numerosas. Implica realizar un trámite administrativo de solicitud y presentar documentación que acredite su situación familiar y económica.",
+  "professional_impact": "Los funcionarios de la administración regional deberán gestionar un nuevo procedimiento de emisión y renovación de títulos, con un plazo máximo de resolución de tres meses. Las empresas privadas y administraciones públicas deberán aplicar los beneficios derivados de la categoría de la familia (especial o general) en sus servicios y programas de apoyo.",
+  "keywords": [
+    "familia monoparental",
+    "Región de Murcia",
+    "ayudas sociales",
+    "reconocimiento oficial",
+    "beneficios fiscales",
+    "vivienda protección oficial"
+  ],
+  "key_points": [
+    "Creación de un título oficial (colectivo e individual) para acreditar la condición de familia monoparental.",
+    "Clasificación en dos categorías: 'Especial' (para casos de mayor vulnerabilidad, violencia de género o más hijos) y 'General'.",
+    "Los hijos pueden ser beneficiarios hasta los 21 años, o hasta los 26 si están estudiando.",
+    "Se incluye como familia monoparental a quienes no perciban la pensión de alimentos tras tres meses de impago reclamado judicialmente.",
+    "Los beneficios para familias monoparentales serán, como mínimo, los mismos que para las familias numerosas de categoría general.",
+    "El silencio administrativo tras tres meses de espera se entenderá como resolución favorable (estimada).",
+    "Es obligatorio comunicar cualquier cambio en la situación familiar en el plazo de un mes.",
+    "Las familias deben presentar su declaración de ingresos anualmente durante el segundo trimestre."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 39)",
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Ley 5/2019 de la Comunidad Foral de Navarra",
+    "Decreto 19/2018 de la Comunidad Valenciana",
+    "Ley 18/2003 de Cataluña",
+    "Ley 39/2015 del Procedimiento Administrativo Común",
+    "Ley Orgánica 3/2018 de Protección de Datos",
+    "Decreto Legislativo 1/2010 de la Región de Murcia"
+  ],
+  "derogations": [
+    "Cualquier disposición de igual o inferior rango que se oponga a esta ley"
+  ],
+  "main_obligations": "Los titulares deben comunicar cualquier cambio en su situación familiar en un plazo de un mes. Además, tienen la obligación de presentar la declaración de la renta o de ingresos de la unidad familiar durante el segundo trimestre de cada año.",
+  "effective_date": "2023-10-17",
+  "procedures": [
+    {
+      "name": "Reconocimiento y expedición del título de familia monoparental",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El interesado presenta la solicitud junto con la documentación requerida (DNI, libro de familia, certificado de empadronamiento, etc.) de forma presencial o telemática.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "DNI/NIE, Libro de familia o sentencia de custodia, Certificado de empadronamiento, documentación específica según el caso (ej. certificado de estudios, sentencia de impago de alimentos, etc.)."
+        },
+        {
+          "step": 2,
+          "title": "Subsanación de errores",
+          "description": "Si la documentación es insuficiente, se otorga un plazo para corregirlo.",
+          "start_date": "10 días desde el requerimiento",
+          "end_date": null,
+          "required_documentation": "Documentación faltante o errónea"
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "La administración dicta una resolución aprobando o denegando la solicitud.",
+          "start_date": "Desde la entrada en registro",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Expedición del título",
+          "description": "Entrega del título colectivo y los carnés individuales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Renovación del título",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de renovación",
+          "description": "Presentación de la solicitud de renovación por caducidad o cambio de circunstancias.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación específica que acredite el cumplimiento de los requisitos actuales."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

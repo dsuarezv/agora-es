@@ -1,0 +1,182 @@
+{
+  "identifier": "BOE-A-2016-6088",
+  "title": "Ley 9/2016, de 2 de junio, de Fundaciones del País Vasco",
+  "visible_title": "Ley de Fundaciones del País Vasco",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "9/2016",
+  "publication_date": "2016-06-23",
+  "enactment_date": "2016-06-02",
+  "last_updated": "2016-06-13",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2016/06/02/9",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y simplifica la gestión de las fundaciones en el País Vasco, adaptándolas al Derecho Civil Vasco y a las exigencias actuales. Sustituye trámites lentos por mecanismos más ágiles como la declaración responsable y permite nuevas formas de gestión, como la remuneración de patronos por servicios profesionales. Al mismo tiempo, endurece el control sobre el uso del patrimonio y la transparencia, otorgando al Protectorado mayores facultades para intervenir en caso de mala gestión o irregularidades graves.",
+  "citizen_impact": "El impacto es indirecto, afectando principalmente a los beneficiarios de las actividades fundacionales, quienes cuentan con mayores garantías de que el patrimonio de la fundación se gestione correctamente y no se desvíe para fines privados.",
+  "professional_impact": "Afecta directamente a patronos, gestores y profesionales del sector sin ánimo de lucro. Introduce nuevas obligaciones de transparencia (informar sobre participaciones en empresas), requisitos de auditoría externa según umbrales de activos o empleados, y la necesidad de gestionar trámites de forma electrónica. Los patronos deben vigilar estrictamente los conflictos de intereses y las reglas de autocontratación.",
+  "keywords": [
+    "fundaciones",
+    "País Vasco",
+    "patronato",
+    "protectorado",
+    "gestión de patrimonio",
+    "transparencia",
+    "derecho civil vasco"
+  ],
+  "key_points": [
+    "Simplificación de trámites mediante la introducción de la 'declaración responsable' para la disposición de bienes.",
+    "Posibilidad de que los patronos reciban retribución por servicios profesionales distintos a sus funciones de gobierno.",
+    "Los cambios en el patronato son declarativos si se inscriben en un plazo de 3 meses; de lo contrario, requieren trámite constitutivo.",
+    "Obligación de auditoría externa si se superan umbrales específicos (ej. más de 50 trabajadores o mayoría de activos públicos).",
+    "Prohibición de autocontratación de patronos sin autorización previa del Protectorado (salvo excepciones en ciencia e innovación).",
+    "Obligación de informar al Protectorado si la fundación posee más del 20% de participación en sociedades mercantiles.",
+    "El Protectorado puede asumir la gestión provisional de una fundación ante irregularidades graves o riesgo de subsistencia.",
+    "Se permite la transformación de fundaciones en otras entidades sin ánimo de lucro manteniendo su personalidad jurídica.",
+    "Sanciones severas por desvío de beneficios hacia familiares o personas vinculadas.",
+    "El incumplimiento en la presentación de cuentas anuales conlleva el cierre registral y la pérdida de ayudas públicas."
+  ],
+  "legal_references": [
+    "Ley 12/1994, de 27 de junio, de Fundaciones del País Vasco",
+    "Directiva 2006/123/CE",
+    "Ley 5/2015, de 25 de junio, de Derecho Civil Vasco",
+    "Ley 39/2015, de 1 de diciembre, del Procedimiento Administrativo Común",
+    "Ley 26/2013, de 27 de diciembre, de cajas de ahorro y fundaciones bancarias",
+    "Ley 2/1998, de 20 de febrero, de la Potestad Sancionadora de las Administraciones Públicas de la Comunidad Autónoma del País Vasco",
+    "Ley 4/2005, de 20 de marzo, para la Igualdad de Mujeres y Hombres",
+    "Ley Orgánica 3/2007, de la Igualdad Efectiva de Mujeres y Hombres",
+    "Decreto Legislativo 1/2007, que aprueba el texto refundido de la Ley de Tasas y Precios Públicos de la Comunidad Autónoma del País Vasco"
+  ],
+  "derogations": [
+    "Ley 12/1994, de 16 de junio, de Fundaciones del País Vasco"
+  ],
+  "main_obligations": "Presentar las cuentas anuales dentro de los 6 meses siguientes al cierre del ejercicio y remitir un plan de actuación anual al Protectorado en los últimos tres meses de cada año. Asimismo, se debe informar de cualquier participación en sociedades mercantiles superior al 20%.",
+  "effective_date": "2016-06-24",
+  "procedures": [
+    {
+      "name": "Inscripción de cambios en el patronato",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adopción del acuerdo",
+          "description": "El patronato acuerda el nombramiento o cese de miembros.",
+          "start_date": "Fecha del acuerdo",
+          "end_date": null,
+          "required_documentation": "Acta del acuerdo"
+        },
+        {
+          "step": 2,
+          "title": "Comunicación al Registro",
+          "description": "Presentación de la solicitud para que tenga carácter declarativo.",
+          "start_date": "Fecha del acuerdo",
+          "end_date": "3 meses",
+          "required_documentation": "Certificado de aceptación o documento de nombramiento"
+        }
+      ]
+    },
+    {
+      "name": "Disposición o gravamen de bienes patrimoniales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo del patronato",
+          "description": "Aprobación del acto de disposición por mayoría absoluta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de declaración responsable",
+          "description": "Notificación al Protectorado de la necesidad y motivación del acto.",
+          "start_date": "Fecha del acuerdo",
+          "end_date": "1 mes",
+          "required_documentation": "Modelo normalizado de declaración responsable"
+        },
+        {
+          "step": 3,
+          "title": "Acreditación de la formalización",
+          "description": "Presentación de la copia del documento que formaliza la operación.",
+          "start_date": "Fecha de la declaración responsable",
+          "end_date": "3 meses",
+          "required_documentation": "Copia del documento de disposición o gravamen"
+        }
+      ]
+    },
+    {
+      "name": "Modificación de estatutos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo del patronato",
+          "description": "El patronato acuerda la modificación motivada de los estatutos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública"
+        },
+        {
+          "step": 2,
+          "title": "Formalización e inscripción",
+          "description": "Inscripción en el Registro de Fundaciones en un plazo máximo de 6 meses.",
+          "start_date": "Desde la adopción del acuerdo",
+          "end_date": "6 meses",
+          "required_documentation": "Escritura pública"
+        }
+      ]
+    },
+    {
+      "name": "Proceso de Liquidación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Apertura de liquidación",
+          "description": "Acuerdo del patronato para nombrar comisión liquidadora o por resolución judicial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Ejecución de la liquidación",
+          "description": "Realización de actos necesarios para cobrar créditos y pagar deudas.",
+          "start_date": null,
+          "end_date": "3 años",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Cierre y cancelación",
+          "description": "Presentación del balance de liquidación y aprobación por el Protectorado para inscripción en el Registro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Balance de liquidación y escritura pública"
+        }
+      ]
+    },
+    {
+      "name": "Verificación de actividades e inspección",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación de expediente",
+          "description": "El Protectorado inicia el expediente ante indicios de irregularidades o falta de presentación de cuentas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Archivo, inclusión en plan de inspección, acciones judiciales o remisión al Ministerio Fiscal.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

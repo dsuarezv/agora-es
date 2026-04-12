@@ -1,0 +1,104 @@
+{
+  "identifier": "BOE-A-2024-15709",
+  "title": "Ley 2/2024, de 29 de mayo, de medidas en materia territorial y urbanística para la recuperación económica y social de la isla de La Palma tras la eruption volcánica de Cumbre Vieja",
+  "visible_title": "Medidas de recuperación territorial y urbanística para La Palma tras la erupción volcánica",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "2/2024",
+  "publication_date": "2024-07-31",
+  "enactment_date": "2024-05-29",
+  "last_updated": "2024-07-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2024/05/29/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley permite a los afectados por la erupción de Cumbre Vieja reconstruir, rehabilitar o reubicar sus viviendas, negocios y explotaciones agrícolas en las zonas afectadas por la lava. Establece reglas específicas según el espesor de la colada y la seguridad del terreno para garantizar que la recuperación sea técnica y económicamente viable. Además, crea un Consejo de participación ciudadana para supervisar que la reconstrucción responda a las necesidades reales de la población.",
+  "citizen_impact": "Los propietarios de viviendas o negocios destruidos por la lava ahora tienen un marco legal claro para volver a sus lugares de origen o reubicarse en otras parcelas aptas. Esto les otorga el derecho a recuperar su modo de vida y sus propiedades bajo condiciones de seguridad técnica supervisadas por el Cabildo.",
+  "professional_impact": "Arquitectos, ingenieros y constructores deberán obtener informes científico-técnicos favorables del Cabildo para cualquier proyecto en zona de colada. Los ayuntamientos asumen la competencia de otorgar licencias, pero con la obligación de informar semestralmente al pleno sobre las autorizaciones concedidas.",
+  "keywords": [
+    "La Palma",
+    "recuperación volcánica",
+    "urbanismo",
+    "reconstrucción",
+    "Cumbre Vieja",
+    "territorio",
+    "vivienda"
+  ],
+  "key_points": [
+    "Permite la reconstrucción en zonas con menos de 10 metros de espesor de lava tras informe técnico.",
+    "Facilita la reubicación de edificaciones en parcelas distintas si la zona original es inviable por el espesor de la lava.",
+    "Crea el Consejo para la Recuperación Económica y Social de La Palma para la participación ciudadana.",
+    "Establece que las nuevas edificaciones son compatibles con la ordenación urbanística actual, aunque no se hayan adaptado los planes aún.",
+    "Define cuatro zonas de actuación según la seguridad, el espesor de la lava y la protección ambiental.",
+    "Permite la segregación de parcelas en suelo rústico para las nuevas construcciones sin cumplir la unidad mínima de cultivo.",
+    "Exime de evaluación de impacto ambiental a las obras de recuperación por razones de interés general.",
+    "Obliga a los promotores a garantizar la conexión de servicios (agua, luz, saneamiento) mediante garantías económicas."
+  ],
+  "legal_references": [
+    "Decreto-ley 9/2023",
+    "Decreto-ley 1/2022",
+    "Decreto-ley 3/2024",
+    "Decreto-ley 2/2024",
+    "Ley 14/2019",
+    "Ley 4/2017",
+    "Ley 42/2007",
+    "Ley 21/2013",
+    "Decreto-ley 2/2022",
+    "Decreto-ley 12/2021"
+  ],
+  "derogations": [
+    "Decreto-ley 9/2023"
+  ],
+  "main_obligations": "Los promotores deben asegurar la ejecución de servicios básicos (depuradoras, energía renovable) hasta la conexión a la red pública y prestar una garantía económica suficiente antes de iniciar las obras. Los ayuntamientos deben informar al pleno cada seis meses sobre las licencias otorgadas bajo esta ley.",
+  "effective_date": "2024-07-31",
+  "procedures": [
+    {
+      "name": "Otorgamiento de licencia de recuperación (construcción, reconstrucción o rehabilitación)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud inicial",
+          "description": "Presentación de solicitud con proyecto básico/ejecución y acreditación de titularidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto, título de propiedad o derecho suficiente, anexo de servicios necesarios."
+        },
+        {
+          "step": 2,
+          "title": "Admisión a trámite y subsanación",
+          "description": "La alcaldía admite la solicitud; si hay defectos, se concede un plazo de 10 días para subsanar.",
+          "start_date": null,
+          "end_date": "10 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Instrucción e informes",
+          "description": "Emisión de informes técnicos, jurídicos y el informe científico-técnico obligatorio del Cabildo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Alegaciones",
+          "description": "En caso de informe desfavorable, se permite al interesado presentar alegaciones o solicitar estimación condicionada.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Resolución",
+          "description": "Decisión final de la alcaldía sobre la concesión de la licencia.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

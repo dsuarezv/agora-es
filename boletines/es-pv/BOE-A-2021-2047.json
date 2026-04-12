@@ -1,0 +1,64 @@
+{
+  "identifier": "BOE-A-2021-2047",
+  "title": "Resolución de 3 de febrero de 2021, de la Dirección de Tráfico, del Departamento de Seguridad, por la que se establecen medidas especiales de regulación de tráfico durante el año 2021 en la Comunidad Autónoma del País Vasco",
+  "visible_title": "Medidas especiales de regulación de tráfico en el País Vasco durante 2021",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "BOE-A-2021-2047",
+  "publication_date": "2021-02-12",
+  "enactment_date": "2021-02-03",
+  "last_updated": "2022-01-31",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/res/2021/02/03/(1)",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta resolución establece restricciones temporales de circulación en el País Vasco para mejorar la seguridad y fluidez del tráfico durante el año 2021. Regula la prohibición de eventos deportivos en fechas críticas, limita el tránsito de vehículos de transporte de mercancías peligrosas y de vehículos pesados de más de 7.500 kg en periodos de alta demanda. Además, coordina la suspensión de obras viales en fines de semana de verano para evitar atascos.",
+  "citizen_impact": "El impacto es indirecto, principalmente mediante la mejora de la seguridad vial y la reducción de atascos en periodos vacacionales o festivos. Los ciudadanos pueden experimentar cambios en la disponibilidad de rutas debido a las restricciones de vehículos pesados.",
+  "professional_impact": "Afecta directamente a empresas de transporte de mercancías peligrosas y de carga general (más de 7.500 kg), quienes deben ajustar sus rutas y horarios de entrega para evitar prohibiciones. También impacta a organizadores de eventos deportivos y empresas constructoras, que deben coordinar la suspensión de obras en fechas señaladas.",
+  "keywords": [
+    "tráfico",
+    "País Vasco",
+    "restricciones de circulación",
+    "mercancías peligrosas",
+    "transporte de carga",
+    "seguridad vial",
+    "movilidad"
+  ],
+  "key_points": [
+    "Prohibición de circulación de mercancías peligrosas los domingos, festivos y vísperas de festivos en horarios específicos.",
+    "Restricción de circulación para vehículos de transporte de mercancías de más de 7.500 kg de MMA en periodos estivales y fechas concretas.",
+    "Limitación de eventos deportivos y marchas ciclísticas en vías interurbanas durante fechas de alta ocupación.",
+    "Obligatoriedad de uso de itinerarios específicos (RIMP) para el transporte de mercancías peligrosas.",
+    "Suspensión de obras en carretera durante los fines de semana de verano para garantizar la fluidez del tráfico.",
+    "Posibilidad de solicitar autorizaciones especiales para servicios indispensables."
+  ],
+  "legal_references": [
+    "Real Decreto Legislativo 6/2015 (Ley sobre Tráfico, Circulación de Vehículos a Motor y Seguridad Vial)",
+    "Real Decreto 1428/2003 (Reglamento General de Circulación)",
+    "Real Decreto 3256/1982",
+    "Decreto 6/2021",
+    "Real Decreto 97/2014",
+    "Real Decreto 2822/1998"
+  ],
+  "derogations": [],
+  "main_obligations": "Los vehículos de mercancías peligrosas no pueden circular domingos y festivos de 08:00 a 24:00, ni vísperas de festivos (no sábados) de 16:00 a 24:00. Los vehículos de carga >7.500 kg deben respetar las prohibiciones de los anexos I y II según el periodo estival o fechas específicas.",
+  "effective_date": "2021-02-22",
+  "procudeures": [
+    {
+      "name": "Autorizaciones especiales de circulación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Trámite para obtener permiso de circulación en periodos restringidos por servicios indispensables.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Matrícula, características del vehículo, tipo de mercancía, vías afectadas y condiciones del transporte."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

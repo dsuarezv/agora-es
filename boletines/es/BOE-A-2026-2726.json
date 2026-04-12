@@ -1,0 +1,141 @@
+{
+  "identifier": "BOE-A-2026-2726",
+  "title": "Real Decreto 67/2026, de 4 de febrero, por el que se regula la gestión de la incapacidad temporal del personal del Cuerpo de la Guardia Civil",
+  "visible_title": "Gestión de la incapacidad temporal del personal de la Guardia Civil",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio del Interior",
+  "official_number": "67/2026",
+  "publication_date": "2026-02-06",
+  "enactment_date": "2026-02-04",
+  "last_updated": "2026-02-06",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2026/02/04/67",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "33",
+  "summary": "Esta norma establece por primera vez un reglamento específico para gestionar las bajas médicas (incapacidad temporal) de los miembros de la Guardia Civil. Busca unificar criterios de control, seguimiento y recuperación de la salud, adaptando el modelo de la Seguridad Social a las necesidades de este cuerpo. Introduce medidas de prevención de riesgos, especialmente en salud mental, y regula la gestión electrónica de los partes médicos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes.",
+  "professional_impact": "Afecta directamente a los agentes de la Guardia Civil, quienes ahora tienen un procedimiento más estructurado para sus bajas. Introduce la obligación de comunicar tratamientos psiquiátricos para garantizar la seguridad en el manejo de armas y vehículos, y establece nuevos protocolos de inspección médica y control de absentismo.",
+  "keywords": [
+    "Guardia Civil",
+    "incapacidad temporal",
+    "baja médica",
+    "sanidad militar",
+    "salud mental",
+    "gestión de personal",
+    "inspección sanitaria"
+  ],
+  "key_points": [
+    "Obligación de notificar tratamientos psiquiátricos o psicofarmacológicos en un plazo de 2 días para evaluar riesgos en el uso de armas y vehículos.",
+    "Creación de un sistema de gestión electrónica para agilizar la tramitación de partes de baja, confirmación y alta.",
+    "Posibilidad de realizar adaptaciones en el puesto de trabajo para permitir una reincorporación progresiva tras una baja.",
+    "Establecimiento de cuatro tipos de procesos según duración: muy corta (1-4 días), corta (5-30), media (31-60) y larga (+60 días).",
+    "Implementación de informes de control obligatorios cuando la baja alcance los tres meses de duración.",
+    "Regulación de las retribuciones complementarias para evitar pérdidas económicas en ciertos casos de enfermedad o embarazo.",
+    "Facultad de la Sanidad de la Guardia Civil para realizar reconocimientos médicos de control en cualquier momento de la baja."
+  ],
+  "legal_references": [
+    "Ley Orgánica 11/2007",
+    "Ley 29/2014",
+    "Real Decreto Legislativo 1/2000",
+    "Real Decreto 625/2014",
+    "Ley 39/2015",
+    "Real Decreto 274/2018",
+    "Reglamento (UE) 2016/679",
+    "Ley Orgánica 3/2018",
+    "Ley 41/2002",
+    "Ley 14/1986",
+    "Real Decreto Legislativo 8/2015"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a este Real Decreto"
+  ],
+  "main_obligations": "El personal debe comunicar su incapacidad antes de 24 horas de iniciada la incidencia y presentar los partes médicos en un plazo de 3 días hábiles. Asimismo, es obligatorio notificar en 2 días naturales cualquier tratamiento psiquiátrico prescrito por médicos ajenos a la Sanidad de la Guardia Civil.",
+  "effective_date": "2026-02-26",
+  "procedures": [
+    {
+      "name": "Gestión de la Incapacidad Temporal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de la incidencia",
+          "descrption": "El agente debe informar a su unidad de la imposibilidad de prestar servicio.",
+          "start_date": "Antes de las 24 horas de la incidencia",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Emisión del parte médico de baja",
+          "descrption": "El facultativo extiende el parte de baja temporal.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Parte médico de incapacidad temporal"
+        },
+        {
+          "step": 3,
+          "title": "Tramitación y registro",
+          "descrption": "Entrega del original a la unidad y registro en la aplicación informática.",
+          "start_date": "Dentro de los 3 días hábiles siguientes a la recepción",
+          "end_date": null,
+          "required_documentation": "Parte médico original y copia"
+        },
+        {
+          "step": 4,
+          "title": "Confirmación de la baja",
+          "descrption": "Valoración médica para confirmar la continuidad de la incapacidad.",
+          "start_date": "Según duración estimada (7, 14, 28 o 35 días)",
+          "end_date": null,
+          "required_documentation": "Parte de confirmación"
+        },
+        {
+          "step": 5,
+          "title": "Informe de control",
+          "descrption": "Revisión médica obligatoria para procesos de larga duración.",
+          "start_date": "Al alcanzar los 3 meses de baja",
+          "end_date": null,
+          "required_documentation": "Informe de control"
+        },
+        {
+          "step": 6,
+          "title": "Alta médica",
+          "descrption": "Extinción del proceso de incapacidad y notificación a la unidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Parte de alta médica"
+        }
+      ]
+    },
+    {
+      "name": "Reconocimiento Médico por solicitud de mando",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de reconocimiento",
+          "descrption": "El mando de unidad formaliza la solicitud ante la Sanidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe de control o informe complementario"
+        },
+        {
+          "step": 2,
+          "title": "Comunicación de cita",
+          "descrption": "Se comunica al agente el lugar, fecha y hora de la cita.",
+          "start_date": "Con al menos 4 días hábiles de antelación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Realización del reconocimiento",
+          "descrption": "El profesional emite un informe clínico con el diagnóstico y propuesta de alta o continuidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informes médicos previos del interesado"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

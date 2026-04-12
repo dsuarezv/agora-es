@@ -1,0 +1,92 @@
+{
+  "identifier": "BOE-A-2002-13250",
+  "title": "Ley 13/2002, de 10 de junio, de creación de la Comarca de la Ribera Baja del Ebro",
+  "visible_title": "Creación de la Comarca de la Ribera Baja del Ebro",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "13/2002",
+  "publication_date": "2002-07-05",
+  "enactment_date": "2002-06-10",
+  "last_updated": "2002-06-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2002/06/10/13",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece oficialmente la Comarca de la Ribera Baja del Ebro como una nueva entidad local en Aragón. Su objetivo es agrupar a varios municipios para gestionar de forma más eficiente servicios públicos que superan la capacidad de un solo ayuntamiento. La norma define su territorio, su capital (Quinto), su estructura de gobierno y sus competencias en áreas como urbanismo, medio ambiente y acción social.",
+  "citizen_impact": "Los ciudadanos de los municipios integrados (como Alborge, Escatrón o Quinto) verán una gestión más profesional y cercana de servicios como la recogida de residuos, la sanidad, el transporte o la cultura. Esto busca mejorar la calidad de los servicios públicos locales mediante la unión de recursos.",
+  "professional_impact": "Los ayuntamientos de la zona pasan a colaborar con una estructura superior, lo que implica la posible transferencia de competencias y recursos. Los funcionarios locales podrán integrarse en la estructura comarcal y se crea la figura del Gerente Comarcal para la gestión técnica.",
+  "keywords": [
+    "Comarca de la Ribera Baja del Ebro",
+    "Aragón",
+    "Entidad Local",
+    "Organización territorial",
+    "Gestión de servicios públicos"
+  ],
+  "key_points": [
+    "Creación de la Comarca de la Ribera Baja del Ebro integrada por 10 municipios.",
+    "Designación de Quinto como capital de la comarca.",
+    "Atribución de competencias en 19 áreas, incluyendo medio ambiente, transporte, cultura y acción social.",
+    "Establecimiento de un Consejo Comarcal de 19 miembros elegidos por los concejales.",
+    "Creación de un Servicio de Cooperación y Asistencia para asesorar a los municipios.",
+    "Sucesión de la Mancomuidad de Meandro del Ebro por la nueva entidad comarcal.",
+    "Posibilidad de crear un puesto de Gerente para la gestión ejecutiva."
+  ],
+  "legal_references": [
+    "Ley 10/1993, de 4 de noviembre, de Comarcalización de Aragón",
+    "Ley 8/1996, de 2 de diciembre, de Delimitación Comarcal de Aragón",
+    "Ley 7/1999, de 9 de abril, de Administración Local de Aragón",
+    "Estatuto de Autonomía de Aragón"
+  ],
+  "derogations": [
+    "Mancomuidad de Meandro del Ebro (en lo que coincida con las funciones de la nueva comarca)"
+  ],
+  "main_obligations": "Los municipios integrantes están obligados a realizar aportaciones económicas anuales al presupuesto comarcal, calculadas según su población y uso de servicios. En caso de impago superior a un trimestre, la comarca puede solicitar la retención de transferencias autonómicas o provinciales del municipio deudor.",
+  "effective_date": "2002-07-06",
+  "procedures": [
+    {
+      "name": "Constitución del Consejo Comarcal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elección de Consejeros",
+          "description": "La Junta Electoral convoca a los concejales para designar a los miembros del Consejo Comarcal.",
+          "start_date": "dentro de los 5 días siguientes a la asignación de puestos",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Proclamación y acreditación",
+          "description": "La Junta Electoral proclama a los miembros y entrega las credenciales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Sesión constitutiva",
+          "description": "El Consejo Comarcal se reúne en la capital para su constitución oficial.",
+          "start_date": "dentro de un mes tras la proclamación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Transferencia de competencias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Creación de Comisión Paritaria",
+          "description": "Se crea una comisión entre la Comunidad Autónoma y la Comarca para planificar traspasos.",
+          "start_date": "dentro del mes siguiente a la constitución del Consejo",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

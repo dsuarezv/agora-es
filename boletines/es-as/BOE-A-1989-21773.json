@@ -1,0 +1,250 @@
+{
+  "identifier": "BOE-A-1989-21773",
+  "title": "Ley 4/1989, de 21 de julio, de Ordenación Agraria y Desarrollo Rural",
+  "visible_title": "Ordenación Agraria y Desarrollo Rural",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "4/1989",
+  "publication_date": "1989-09-07",
+  "enactment_date": "1989-07-21",
+  "last_updated": "2014-07-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1989/07/21/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca modernizar y revitalizar el sector agrario en Asturias para evitar el abandono de las tierras y la desertificación rural. Para ello, otorga a la Administración la capacidad de intervenir en la propiedad privada si esta no cumple su función social, permitiendo desde arrendamientos forzosos hasta la expropiación. Introduce herramientas como el Banco de Tierras para redistribuir fincas y la concentración parcelaria para mejorar la rentabilidad de los cultivos. Además, regula estrictamente el uso de pastos y el registro de explotaciones para garantizar un aprovechamiento sostenible y ordenado.",
+  "citizen_impact": "Los agricultores y propietarios rurales ven limitada su autonomía sobre la tierra: si una finca está abandonada o infrautilizada, la Administración puede intervenir su uso o dominio. Además, para acceder a cualquier ayuda pública, es obligatorio estar inscrito en el registro de explotaciones agrarias. Los propietarios de tierras colindantes tienen derecho preferente de compra si se realizan divisiones de fincas que no respeten la unidad mínima de cultivo.",
+  "professional_impact": "Los profesionales del sector deben cumplir con estrictas normas técnicas de cultivo y rotación para evitar sanciones. Los ganaderos enfrentan un control riguroso sobre el uso de pastos, con la posibilidad de que la Administración retire o incluso sacrifique ganado abandonado o sin dueño conocido. Los ayuntamientos deben adaptar su normativa local de pastos a los modelos dictados por la Consejería de Agricultura.",
+  "keywords": [
+    "ordenación agraria",
+    "desarrollo rural",
+    "banco de tierras",
+    "concentración parcelaria",
+    "pastos",
+    "explotaciones agrarias",
+    "Asturias"
+  ],
+  "key_points": [
+    "Creación del Banco de Tierras para redistribuir fincas y ayudar a nuevos agricultores.",
+    "Intervención administrativa sobre fincas abandonadas mediante arrendamiento forzoso (12 años) o expropiación.",
+    "Obligatoriedad de la concentración parcelaria para agrupar fincas dispersas y mejorar la rentabilidad.",
+    "Imposición de un impuesto a las explotaciones agrarias que no alcancen un rendimiento óptimo.",
+    "Prohibición de dividir fincas rústicas por debajo de la unidad mínima de cultivo establecida.",
+    "Derecho de adquisición preferente para colindantes en caso de divisiones indebidas.",
+    "Control estricto de pastos con capacidad de la Administración para retirar ganado infractor.",
+    "Posibilidad de subastar o sacrificar ganado abandonado o sin dueño conocido.",
+    "Obligatoriedad de inscripción en el registro de explotaciones para recibir ayudas públicas.",
+    "Obligación de los ayuntamientos de seguir ordenanzas tipo para la regulación de pastos."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía para Asturias (Ley Orgánica 7/1981)",
+    "Ley de Arrendamientos Rústicos",
+    "Ley de Procedimiento Administrativo",
+    "Ley de Patrimonio del Estado",
+    "Normativa urbanística vigente"
+  ],
+  "derogations": [
+    "Cualquier otra disposición de igual o inferior rango que contradiga esta Ley emanada de órganos de la Comunidad Autónoma del Principado de Asturias"
+  ],
+  "main_obligations": "Es obligatorio inscribirse en el registro de explotaciones agrarias para acceder a ayudas públicas y cumplir con las normas técnicas de cultivo para evitar sanciones. Los ganaderos deben retirar su ganado inmediatamente tras una infracción en el uso de pastos para evitar costes adicionales de retirada por parte de la Administración.",
+  "effective_date": "1989-09-07",
+  "procedures": [
+    {
+      "name": "Declaración de finca manifiestamente mejorable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del expediente",
+          "description": "De oficio por el Consejero o por denuncia de Ayuntamientos o Consejos Rurales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Dictado de Decreto",
+          "description": "El Consejo de Gobierno dicta el decreto declarando la finca como mejorable y la necesidad de ocupación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ejecución de la expropiación",
+          "description": "Se procede a la expropiación del dominio o del uso según lo determinado en el decreto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Concentración Parcelaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud o inicio de oficio",
+          "description": "Petición de la mayoría de propietarios o inicio por la Consejería por interés público.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Estudio de la zona",
+          "description": "La Consejería realiza un estudio de viabilidad, recursos y situación jurídica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación del Decreto de zona",
+          "description": "Se delimita el perímetro y se declara la utilidad pública.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Constitución de la Comisión Local",
+          "description": "Se crea el órgano colegiado con representantes de la administración y propietarios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Redacción y aprobación de bases provisionales",
+          "description": "Se elabora el proyecto de bases y se somete a información pública.",
+          "start_date": "30 días de información pública",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Aprobación de bases definitivas",
+          "description": "Tras las alegaciones, se aprueban las bases y se publica en el BOPr.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 7,
+          "title": "Proyecto de concentración",
+          "description": "Redacción del plano parcelario con la nueva distribución de la propiedad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 8,
+          "title": "Resolución de Concentración",
+          "description": "Aprobación final de la nueva organización de la propiedad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Plan de Mejora de Explotación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta del plan",
+          "description": "Iniciativa del propietario o de oficio por la Consejería.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aceptación del propietario",
+          "description": "El propietario tiene un plazo para aceptar o sugerir modificaciones.",
+          "start_date": "2 meses",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ejecución de mejoras",
+          "description": "El propietario debe realizar al menos el 50% de las mejoras acordadas.",
+          "start_date": "1 año",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de retirada de ganado por incumplimiento de ordenanzas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Infracción y requerimiento",
+          "description": "Se detecta el incumplimiento de las ordenanzas de aprovechamiento de pastos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Retirada por la Administración",
+          "description": "Si el propietario no retira el ganado de inmediato, la Administración lo hace y traslada los costes al dueño.",
+          "start_date": "Inmediato tras el incumplimiento",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Recogida por el propietario",
+          "description": "El propietario puede hacerse cargo del ganado en un lugar idóneo tras pagar los gastos.",
+          "start_date": "Desde la retirada",
+          "end_date": "15 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de aprehensión de ganado de dueño desconocido",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprehensión y depósito",
+          "description": "El Ayuntamiento o la Consejería retira el ganado y lo deposita en un lugar idóneo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Anuncio público",
+          "description": "Se comunica la aprehensión mediante boletines oficiales y diarios regionales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Plazo de reclamación",
+          "description": "El propietario puede acreditar la propiedad y recuperar el ganado pagando los gastos.",
+          "start_date": "Desde el día siguiente a la publicación en el BOPA",
+          "end_date": "20 días",
+          "required_documentation": "Acreditación de propiedad y pago de gastos"
+        },
+        {
+          "step": 4,
+          "title": "Subasta o sacrificio",
+          "description": "Si no se reclama, se subasta el ganado (si es sano) o se sacrifica (si no es apto).",
+          "start_date": "Tras finalizar el plazo de 20 días",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

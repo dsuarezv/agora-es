@@ -1,0 +1,104 @@
+{
+  "identifier": "BOE-A-2016-3192",
+  "title": "Ley 3/2016, de 1 de marzo, de medidas en materia de proyectos públicos de urgencia o de excepcional interés",
+  "visible_title": "Medidas en materia de proyectos públicos de urgencia o de excepcional interés",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "3/2016",
+  "publication_date": "2016-04-04",
+  "enactment_date": "2016-03-01",
+  "last_updated": "2016-03-08",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2016/03/01/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley permite a la Administración gallega ejecutar proyectos de infraestructura o servicios que no encajen con el planeamiento urbanístico actual, siempre que se justifique su urgencia o interés excepcional. El objetivo es evitar que obras estratégicas para el desarrollo económico y social de Galicia se paralicen por la nulidad de planes urbanísticos o la lentitud de los trámites de modificación de suelo. Para ello, establece un procedimiento ágil que permite aprobar el proyecto y, al mismo tiempo, iniciar la modificación del plan urbanístico necesario.",
+  "citizen_impact": "Evita la paralización de obras públicas importantes (como infraestructuras o servicios sociales) que podrían retrasarse años por problemas burocráticos o legales en el urbanismo. Esto asegura que el desarrollo de la comunidad no se detenga, aunque implica que los proyectos pueden avanzar de forma más rápida que los procesos de planificación habituales.",
+  "professional_impact": "Las empresas constructoras y de ingeniería obtienen mayor seguridad jurídica para proyectos de interés público, ya que se establece un cauce claro para actuar incluso si el planeamiento es desfavorable. Los ayuntamientos pierden parte de su capacidad de veto, ya que si no emiten su informe en el plazo establecido, este se considera favorable por defecto.",
+  "keywords": [
+    "urbanismo",
+    "proyectos de urgencia",
+    "interés público",
+    "Galicia",
+    "modificación de planeamiento",
+    "infraestructuras",
+    "expropiación"
+  ],
+  "key_points": [
+    "Permite ejecutar proyectos que contradicen el planeamiento urbanístico vigente si hay urgencia o interés excepcional.",
+    "La aprobación del proyecto por el Conseillo de la Xunta activa automáticamente el inicio del trámite para cambiar el plan urbanístico.",
+    "El acuerdo de aprobación es inmediatamente ejecutivo, permitiendo el inicio de obras sin esperar a la nueva ordenación.",
+    "Se establece un mecanismo de información pública de 20 días gestionado por el ayuntamiento.",
+    "Si el ayuntamiento no responde en 10 días tras la información pública, el informe se considera favorable automáticamente.",
+    "La aprobación del proyecto conlleva la declaración de utilidad pública para facilitar expropiaciones.",
+    "El ayuntamiento actúa como entidad expropiante y luego transfiere la titularidad al promotor del proyecto."
+  ],
+  "legal_references": [
+    "Estatuto de autonomía de Galicia",
+    "Constitución española",
+    "Ley del suelo de Galicia"
+  ],
+  "derogations": [
+    "Cuantas disposiciones de igual o inferior rango se opongan o contradigan lo establecido en esta ley."
+  ],
+  "main_obligations": "El órgano promotor debe presentar un proyecto con detalle suficiente sobre ubicación y fines. El ayuntamiento está obligado a realizar la información pública en 20 días y emitir un informe razonado en 10 días tras dicho periodo.",
+  "effective_date": "2016-03-20",
+  "procedures": [
+    {
+      "name": "Procedimiento de aprobación de proyectos de urgencia o excepcional interés",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Traslado a la Consejería competente",
+          "description": "El órgano promotor envía el proyecto detallado a la Consejería para solicitar el inicio del procedimiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto con detalle de carácter, extensión, ubicación y fines."
+        },
+        {
+          "step": 2,
+          "title": "Traslado al Ayuntamiento",
+          "description": "La Consejería envía el proyecto al municipio donde se ejecutará la obra.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Información pública",
+          "description": "El ayuntamiento somete el proyecto a consulta ciudadana mediante anuncio oficial.",
+          "start_date": null,
+          "end_date": "20 días",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Emisión de informe municipal",
+          "description": "El ayuntamiento valora los resultados de la información pública y emite informe sobre intereses locales.",
+          "start_date": null,
+          "end_date": "10 días tras la información pública",
+          "required_documentation": "Respuesta razonada a las alegaciones presentadas."
+        },
+        {
+          "step": 5,
+          "title": "Informes sectoriales y de urbanismo",
+          "description": "Se recaban informes preceptivos y el dictamen de la Comisión Superior de Urbanismo de Galicia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Aprobación por el Conseillo de la Xunta",
+          "description": "El órgano máximo de la Xunta aprueba el proyecto y ordena simultáneamente la modificación del planeamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

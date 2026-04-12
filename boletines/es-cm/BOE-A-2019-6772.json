@@ -1,0 +1,214 @@
+{
+  "identifier": "BOE-A-2019-6772",
+  "title": "Ley 3/2019, de 22 de marzo, del Estatuto de las Persona Consumiendo en Castilla-La Manch",
+  "visible_title": "Estatuto de las Personas Consumidoras en Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "3/2019",
+  "publication_date": "2019-05-08",
+  "enactment_date": "2019-03-22",
+  "last_updated": "2019-04-01",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2019/03/22/3",
+  "official_journal": "Diario Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza la protección de los consumidores en Castilla-La Mancha para hacer frente a los retos de la era digital y la sostenibilidad. Introduce derechos clave como la lucha contra la obsolescencia programada, la transparencia en precios algorítmicos y la soberanía alimentaria. Refuerza la protección de colectivos vulnerables y garantiza que los procesos de baja de servicios no sean más complicados que los de alta. Además, endurece drásticamente las sanciones para las empresas que cometan fraudes o prácticas discriminatorias.",
+  "citizen_impact": "El ciudadano gana herramientas para combatir productos que duran poco (obsolescencia), tiene derecho a saber por qué un precio cambia por un algoritmo y puede grabar las llamadas de atención al cliente si la empresa las usa para contratar. También se garantiza que dar de baja un servicio sea tan fácil como contratarlo y se asegura el acceso a piezas de repuesto durante 5 años. En caso de estafa, la administración puede publicar la identidad de la empresa infractora.",
+  "professional_impact": "Las empresas deben adaptarse a estándares de transparencia mucho más estrictos, incluyendo la acreditación científica de propiedades ambientales o terapéuticas. Se imponen obligaciones de trazabilidad de productos (3 años) y atención al cliente gratuita en ventas online. El incumplimiento de normas graves puede suponer multas de hasta un millón de euros, la pérdida de ayudas públicas durante 4 años y la publicación de la sanción en medios.",
+  "keywords": [
+    "consumidores",
+    "Castilla-La Mancha",
+    "obsolescencia programada",
+    "derechos digitales",
+    "soberanía alimentaria",
+    "protección de vulnerables",
+    "sanciones consumo"
+  ],
+  "key_points": [
+    "Protección contra la obsolescencia programada para evitar la reducción artificial de la vida útil de productos.",
+    "Derecho a la soberanía alimentaria y fomento del consumo de productos locales y estacionales.",
+    "Transparencia obligatoria en precios dinámicos fijados por algoritmos.",
+    "Garantía de que el proceso de baja de un servicio no sea más difícil que el de alta.",
+    "Derecho del consumidor a grabar conversaciones si la empresa las utiliza para la contratación.",
+    "Obligación de las empresas de ofrecer atención al cliente gratuita (teléfono y email) en ventas no presenciales.",
+    "Derecho a disponer de piezas de repuesto durante al menos 5 años tras la compra.",
+    "Prohibición de la discriminación de precios por razón de género (infracción muy grave).",
+    "Obligación de acreditar científicamente cualquier propiedad ambiental, social o terapéutica de un producto.",
+    "Derecho a recibir grabaciones de llamadas de forma gratuita en un plazo de 15 días tras la solicitud.",
+    "Las empresas deben entregar manuales de instrucciones de reparación al momento de la compra.",
+    "Responsabilidad directa de la firma que figura en la etiqueta del producto."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 51)",
+    "Real Decreto Legislativo 1/2007",
+    "Estatuto de Autonomía de Castilla-La Mancha",
+    "Ley 3/1995, de 9 de marzo",
+    "Ley 11/2005, de 15 de diciembre",
+    "Ley 40/2015, de 1 de octubre",
+    "Real Decreto 897/2017, de 6 de octubre",
+    "Orden ETU/943/2017",
+    "Ley 39/2015, de 15 de diciembre, de Procedimiento Administrativo Común de las Administraciones Públicas"
+  ],
+  "derogations": [
+    "Ley 3/1995, de 9 de marzo",
+    "Ley 11/2005, de 15 de diciembre"
+  ],
+  "main_obligations": "Las empresas deben responder a reclamaciones en un plazo máximo de un mes y mantener la documentación de trazabilidad durante 3 años (o 1 año en productos caducables). Deben facilitar modelos de contrato antes de la contratación si se solicita y entregar resguardos de depósito al recibir bienes para reparación.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Solicitud de grabación de llamada comercial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de la grabación",
+          "description": "El consumidor solicita a la empresa la grabación de la conversación mantenida durante la oferta o contratación.",
+          "start_date": "Desde la solicitud",
+          "end_date": "15 días",
+          "required_documentation": "Identificación del consumidor"
+        }
+      ]
+    },
+    {
+      "name": "Gestión de baja de servicios de tracto continuado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación de la baja",
+          "description": "El consumidor solicita la baja, la cual debe tener la misma dificultad que el proceso de alta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de vulnerabilidad económica (Pobreza Energética)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de informe de servicios sociales",
+          "description": "Ante aviso de interrupción de suministro, el consumidor presenta informe de servicios sociales.",
+          "start_date": "Desde la recepción del aviso",
+          "end_date": "15 días hábiles",
+          "required_documentation": "Informe de servicios sociales básicos o solicitud registrada"
+        },
+        {
+          "step": 2,
+          "title": "Emisión de informe por la Administración",
+          "description": "La administración emite el informe de vulnerabilidad.",
+          "start_date": "Desde la solicitud",
+          "end_date": "15 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de inspección y vigilancia de mercado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Actuación inspectora",
+          "description": "Acceso a locales, toma de muestras o realización de compras de prueba.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación industrial, fiscal, mercantil y contable"
+        },
+        {
+          "step": 2,
+          "title": "Levantamiento de acta",
+          "description": "Documentación de los hechos y manifestaciones de la parte inspeccionada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de inspección"
+        },
+        {
+          "step": 3,
+          "title": "Medidas cautelares (si procede)",
+          "description": "Adopción inmediata de medidas para evitar riesgos a la salud o seguridad.",
+          "start_date": null,
+          "end_date": "15 días para la ratificación o levantamiento por el órgano competente",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Resolución extrajudicial de conflictos (Mediación)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de mediación",
+          "description": "Las partes acuden a la mediación para evitar la vía judicial, especialmente en ejecuciones hipotecarias o sobreendeudamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Acuerdo de mediación",
+          "description": "Documentación por escrito de los acuerdos que resultan vinculantes para ambas partes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento de acuerdo por escrito"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador de Consumo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del procedimiento",
+          "description": "Inicio del expediente tras una inspección o denuncia.",
+          "start_date": "Desde la notificación del acuerdo de iniciación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Alegaciones iniciales",
+          "description": "Plazo para que el interesado presente documentos, pruebas o alegaciones.",
+          "start_date": "15 días desde la notificación",
+          "end_date": "15 días",
+          "required_documentation": "Documentos, información y propuesta de pruebas"
+        },
+        {
+          "step": 3,
+          "title": "Instrucción y pruebas",
+          "description": "Fase de examen de hechos, toma de muestras y análisis técnicos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Propuesta de resolución",
+          "description": "Notificación de la propuesta de sanción para que el interesado se defienda.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Alegaciones a la propuesta",
+          "description": "Plazo para formular alegaciones contra la propuesta de resolución.",
+          "start_date": "15 días desde la notificación",
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Resolución final",
+          "description": "Decisión definitiva de la autoridad competente.",
+          "start_date": "Debe dictarse antes de 9 meses desde la incoación (caducidad)",
+          "end_date": "9 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 4
+}

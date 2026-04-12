@@ -1,0 +1,524 @@
+{
+  "identifier": "BOE-A-2025-3873",
+  "title": "Orden TED/181/2025, de 13 de febrero, por la que se aprueban las Normas de Gestión Técnica del Sistema Gasista de competencia ministerial",
+  "visible_title": "Normas de Gestión Técnica del Sistema Gasista",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio para la Transición Ecológica y el Reto Demoográfico",
+  "official_number": "TED/181/2025",
+  "publication_date": "2025-02-27",
+  "enactment_date": "2025-02-13",
+  "last_updated": "2025-09-30",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2025/02/13/ted181",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "50",
+  "summary": "Esta norma moderniza y reorganiza la gestión del sistema gasista en España, repartiendo funciones entre el Ministerio y la CNMC para mejorar la seguridad de suministro. Introduce requisitos técnicos estrictos para la digitalización de equipos de medida y la integración de nuevos gases como el hidrógeno y el biometano. Además, establece protocolos de actuación ante crisis energéticas y estandariza la medición y certificación del Gas Natural Licuado (GNL) en buques. El objetivo final es garantizar un suministro estable, de calidad y adaptado a la transición energética.",
+  "citizen_impact": "Protección del suministro en situaciones de crisis, estableciendo que los clientes vulnerables serán los últimos en sufrir cortes de suministro. También asegura la calidad del gas que llega a los hogares mediante controles técnicos más estrictos.",
+  "professional_impact": "Impacto alto para empresas del sector energético (transportistas, distribuidores, comercializadores y productores de biometano/hidrógeno). Deben cumplir con nuevos estándares de digitalización de equipos, presentar planes de mantenimiento y emergencia en fechas específicas, y seguir protocolos rigurosos de medición y certificación de GNL y cisternas.",
+  "keywords": [
+    "sistema gasista",
+    "gestión técnica",
+    "GNL",
+    "biometano",
+    "hidrógeno",
+    "seguridad de suministro",
+    "CNMC",
+    "medición de gas",
+    "crisis energética"
+  ],
+  "key_points": [
+    "Reparto de competencias: el Ministerio garantiza la seguridad y calidad, mientras la CNMC gestiona balances y conexiones internacionales.",
+    "Digitalización obligatoria: los equipos de análisis de calidad deben ser digitales y almacenar datos durante al menos 31 días.",
+    "Integración de nuevos gases: se regulan los límites de inyección de hidrógeno (máximo 5% mol) y la acreditación de biometano.",
+    "Protocolo de crisis: en caso de emergencia, se prioriza a los clientes protegidos, seguidos de clientes de bajo consumo, dejando a los grandes consumidores como los primeros en sufrir restricciones.",
+    "Control de GNL: se endurecen los protocolos de toma de muestras y medición de temperatura/presión en buques para evitar discrepancias.",
+    "Gestión de mantenimiento: los operadores deben informar de sus planes de mantenimiento antes del 15 de agosto para validación del gestor.",
+    "Plan de Actuación Invernal (PAI): debe aprobarse obligatoriamente antes del 15 de octubre de cada año.",
+    "Obligación de gas colchón: los titulares de instalaciones deben proporcionar gas propio para garantizar existencias mínimas.",
+    "Creación del Comité de Gestión Técnica: un órgano para actualizar las normas técnicas según el avance tecnológico.",
+    "Sistema de reclamaciones digital: implementación del SLATR para gestionar errores en emisiones o calidad de gas.",
+    "Control de saturación: las estaciones de regulación deben informar sobre su nivel de saturación antes del 1 de julio.",
+    "Previsiones de cisternas: los distribuidores deben reportar previsiones de carga antes del 15 de junio."
+  ],
+  "legal_references": [
+    "Real Decreto-ley 1/2019, de 11 de enero",
+    "Ley 34/1998, de 7 de octubre, del sector de hidrocarburos",
+    "Real Decreto 949/2001, de 3 de agosto",
+    "Real Decreto 1434/2002, de 27 de diciembre",
+    "Circular 2/2020, de 9 de enero, de la CNMC",
+    "Circular 8/2019, de 12 de diciembre, de la CNMC",
+    "Ley 39/2015, de 1 de octubre",
+    "Ley 3/2013, de 4 de junio",
+    "Real Decreto 244/2016, de 3 de junio",
+    "Orden ICT/155/2020, de 7 de febrero",
+    "UNE-EN ISO 15112:2020",
+    "UNE-EN ISO/IEC 17025:2017",
+    "ISO 18132",
+    "Resolución de la CNMC de 10 de noviembre de 2022",
+    "UNE-EN ISO 12213-3:2010",
+    "UNE-EN ISO 6976:2017",
+    "ISO 8310",
+    "ISO 10976",
+    "ISO 8943",
+    "ISO 6974",
+    "UNE-EN ISO 19739",
+    "ASTM D 5504",
+    "UNE-EN ISO 6978-1:2006",
+    "UNE-EN ISO 6978-2:2006",
+    "ISO 6142",
+    "UNE 60555:2024",
+    "LNG Custody Transfer Handbook",
+    "Circular de la CNMC 8/2019",
+    "Reglamento (UE) 2017/1938",
+    "Real Decreto 1716/2004",
+    "Circular 6/2020 de la CNMC",
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Ley Orgánica 3/2018",
+    "Real Decreto 919/2006",
+    "Reglamento (UE) 2017/2398",
+    "Comunicación de la Comisión Europea 'Ahorrar gas para un invierno seguro' (2022)"
+  ],
+  "derogations": [
+    "Orden ITC/3126/2005, de 5 de octubre"
+  ],
+  "main_obligations": "Los titulares de equipos de medida no conformes deben presentar un plan de adaptación en 6 meses. Los transportistas y comercializadores deben enviar sus planes de emergencia antes del 1 de octubre, y los operadores deben informar de sus planes de mantenimiento antes del 15 de agosto.",
+  "effective_date": "2025-02-28",
+  "procedures": [
+    {
+      "name": "Adecuación de equipos de medida no conformes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación del plan de adecuación",
+          "description": "Los titulares de equipos que no cumplan las nuevas características deben presentar un plan de sustitución o adaptación.",
+          "start_date": "6 meses desde la entrada en vigor de la orden",
+          "end_date": null,
+          "required_documentation": "Plan de sustitución o adaptación con plazos justificados"
+        },
+        {
+          "step": 2,
+          "title": "Comunicación de resultados",
+          "description": "El plan debe ser comunicado al Gestor Técnico del Sistema (GTS) y publicado en el SLATR.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de equipos de análisis de calidad no conformes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación del plan de sustitución o adaptación",
+          "descrption": "Presentar a la Secretaría de Estado de Energía y al GTS un plan con plazos justificados para actualizar los equipos.",
+          "start_date": "Desde la entrada en vigor de la orden",
+          "end_date": "6 meses desde la entrada en vigor",
+          "required_documentation": "Plan de sustitución o adaptación con plazos de implantación"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de medida diaria provisional (d+1)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Envío de medida diaria",
+          "descrption": "Facilitar la cantidad medida en los puntos de medida a los operadores.",
+          "start_date": "Día d",
+          "end_date": "4 horas tras el cierre del día de gas d",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de revisión",
+          "descrption": "Los usuarios, el GTS o los operadores pueden solicitar la revisión de la medida.",
+          "start_date": "Día d",
+          "end_date": "7 horas y 30 minutos tras el cierre del día de gas d",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Comunicación de revisiones",
+          "descrption": "Comunicar las cantidades que deban ser modificadas tras la revisión.",
+          "start_date": "Día d",
+          "end_date": "7 horas y 45 minutos tras el cierre del día de gas d",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de medida final provisional (m+3)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Envío de medidas finales provisionales",
+          "descrption": "Facilitar las medidas de cada uno de los días del mes m.",
+          "start_date": "Mes m",
+          "end_date": "Día 5 del mes m+3",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Rectificaciones",
+          "descrption": "Posibilidad de enviar rectificaciones diarias para los días del mes m.",
+          "start_date": "Mes m",
+          "end_date": "Día 20 del mes m+3",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de medida final definitiva (m+15)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Envío de medidas finales definitivas",
+          "descrption": "Facilitar las medidas definitivas de cada uno de los días del mes m.",
+          "start_date": "Mes m",
+          "end_date": "Día 5 del mes m+15",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Rectificaciones definitivas",
+          "descrption": "Posibilidad de enviar rectificaciones diarias para los días del mes m.",
+          "start_date": "Mes m",
+          "end_date": "Día 20 del mes m+15",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inspección de buques (Vetting)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Realización de inspección",
+          "descrption": "Inspección por inspectores acreditados OCIMF bajo programa SIRE.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe de inspección SIRE"
+        },
+        {
+          "step": 2,
+          "title": "Trámites de autorización",
+          "descrption": "Inicio de trámites para la operación de buque.",
+          "start_date": null,
+          "end_date": "10 días antes de la operación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Protocolo de determinación de la calidad del GNL",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Toma de muestra representativa",
+          "description": "Extracción de la muestra de GNL siguiendo la norma ISO 8943.",
+          "start_date": "Durante la operación de carga/descarga",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Vaporización y acondicionamiento",
+          "description": "Conversión de la muestra líquida a gas y preparación para el analizador.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Verificación del cromatógrafo",
+          "description": "Inyección de gas patrón en presencia del representante del usuario antes de la llegada del buque.",
+          "start_date": "Antes de la llegada del buque",
+          "end_date": null,
+          "required_documentation": "Acta de verificación"
+        },
+        {
+          "step": 4,
+          "title": "Retención de muestras",
+          "description": "Guardado de muestras duplicadas hasta la firma del Informe de Carga/Descarga.",
+          "start_date": null,
+          "end_date": "Hasta la firma del acuerdo",
+          "required_documentation": "Informe de Carga/Descarga"
+        }
+      ]
+    },
+    {
+      "name": "Operación de carga y descarga de GNL",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Certificación de carga/descarga",
+          "description": "Emisión de certificados de cantidad, calidad y mermas utilizando los modelos técnicos de la norma.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificados de cantidad, informes de composición química, análisis de cromatógrafo y partes de carga (provisional, propuesto o definitivo)."
+        }
+      ]
+    },
+    {
+      "name": "Gestión de la Información de Clientes y Criticidad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Envío de datos de criticidad por usuarios",
+          "description": "Los usuarios envían a transportistas/distribuidores datos de clientes (CNAE, criticidad, caudal mínimo) vía plataformas.",
+          "start_date": "6 meses desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": "Certificación de caudal mínimo técnico y datos CNAE"
+        },
+        {
+          "step": 2,
+          "title": "Comunicación de previsión de demanda máxima",
+          "description": "Transportistas y distribuidores comunican la previsión de demanda de clientes protegidos al GTS y usuarios.",
+          "start_date": "7 meses desde la entrada en vigor",
+          "end_date": "Anualmente antes del 1 de septiembre",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informe de idoneidad de medios",
+          "description": "El GTS emite informe sobre si los medios de los usuarios son suficientes para cubrir la demanda de clientes protegidos.",
+          "start_date": "8 meses desde la entrada en vigor",
+          "end_date": "Anualmente antes del 15 de octubre",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Protocolo de Restricción de Consumo en Crisis (SOE/Emergencia)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración de situación",
+          "description": "El GTS declara la situación de operación excepcional o nivel de crisis y comunica a los afectados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Evaluación y medidas de mercado",
+          "description": "Se evalúan causas y se activan medidas de mercado (incremento de entradas, gestión de regasificación).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aplicación de restricciones de suministro firme",
+          "description": "Si las medidas de mercado fallan, se ejecutan cortes siguiendo el orden de prioridad (Protegidos > No protegidos < 15GWh > >15GWh).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de interrupción de suministro",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de la orden",
+          "description": "El GTS comunica el Plan de Restricción a usuarios, transportistas y distribuidores.",
+          "start_date": "24 horas antes (interrupción normal)",
+          "end_date": null,
+          "required_documentation": "CUPS, nombre, fecha/hora, caudal mínimo, duración y causa."
+        },
+        {
+          "step": 2,
+          "title": "Ejecución del corte",
+          "description": "El transportista o distribuidor realiza el cierre de válvulas o control de consumo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Confirmación y lectura",
+          "description": "Se confirma la ejecución al GTS y se registra la lectura de consumo en el momento del corte.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Lectura de telemedida o manual."
+        },
+        {
+          "step": 4,
+          "title": "Normalización",
+          "description": "Tras el restablecimiento, se realiza una nueva lectura para verificar consumos durante la interrupción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Lectura de equipo de medida."
+        }
+      ]
+    },
+    {
+      "name": "Planificación anual de mantenimiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Programación de actividades",
+          "description": "Transportistas y distribuidores elaboran la programación de restricciones para el año siguiente.",
+          "start_date": "Antes del 15 de julio",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Envío al GTS",
+          "description": "Los transportistas remiten sus planes de mantenimiento al GTS.",
+          "start_date": "Antes del 15 de agosto",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Validación del GTS",
+          "description": "El GTS confirma la viabilidad o propone modificaciones.",
+          "start_date": "Antes del 1 de septiembre",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Comunicación a afectados",
+          "description": "Se informa a los sujetos que sufrirán las restricciones.",
+          "start_date": "Antes del 15 de septiembre",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Evaluación de saturación/infrautilización de ERM/EM",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Información a titulares aguas abajo",
+          "description": "El titular de la ERM/EM envía formularios de información a los conectados aguas abajo.",
+          "start_date": "Antes del 1 de abril",
+          "end_date": null,
+          "required_documentation": "Formularios de anexo"
+        },
+        {
+          "step": 2,
+          "title": "Envío de estimaciones de red",
+          "description": "Titulares aguas abajo envían estimaciones de crecimiento/decrecimiento de su red.",
+          "start_date": "Antes del 1 de mayo",
+          "end_date": null,
+          "required_documentation": "Previsiones de variación de consumo"
+        },
+        {
+          "step": 3,
+          "title": "Informe de saturación/infrautilización",
+          "description": "El titular de la ERM/EM envía el informe final al GTS.",
+          "start_date": "Antes del 1 de julio",
+          "end_date": null,
+          "required_documentation": "Estudio de grado de utilización"
+        },
+        {
+          "step": 4,
+          "title": "Informe final al Ministerio",
+          "description": "El GTS remite el informe final consolidado a la Secretaría de Estado de Energía.",
+          "start_date": "Antes del 30 de septiembre",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Análisis de funcionamiento de carga de cisternas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Envío de previsiones de consumo",
+          "descrption": "Los distribuidores y usuarios envían previsiones de consumo desglosadas por instalación y alcance diario.",
+          "start_date": null,
+          "end_date": "15 de junio",
+          "required_documentation": "Previsiones de consumo por instalación de carga y alcance diario"
+        },
+        {
+          "step": 2,
+          "title": "Remisión de informe de propuestas de adecuación",
+          "descrption": "El titular de la instalación envía informe de saturación y propuestas de acción al GTS, CNMC y Secretaría de Estado.",
+          "start_date": null,
+          "end_date": "15 de noviembre",
+          "required_documentation": "Informe con estado actual, previsión de saturación y propuesta de acciones"
+        },
+        {
+          "step": 3,
+          "title": "Valoración del GTS",
+          "descrption": "El GTS analiza la información y elabora un informe de valoración para las autoridades y el titular.",
+          "start_date": null,
+          "end_date": "15 de diciembre",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Integración de nuevas instalaciones de otros gases",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Informe de proyectos de inyección",
+          "descrption": "Transportistas y distribuidores informan al GTS sobre proyectos de inyección de otros gases (corto y medio plazo).",
+          "start_date": null,
+          "end_date": "15 de octubre",
+          "required_documentation": "Informe de proyectos de inyección (Tabla 1 y Tabla 2 del anexo)"
+        },
+        {
+          "step": 2,
+          "title": "Informe final de análisis de integración",
+          "descrption": "El GTS elabora un informe sobre el impacto de los proyectos en la red y propone adecuaciones técnicas.",
+          "start_date": null,
+          "end_date": "31 de diciembre",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Modificación de las Normas de Gestión Técnica (NGTS)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación del plan anual de trabajo",
+          "descrption": "El GTS presenta al Comité el plan de trabajo y lista de modificaciones para el año siguiente.",
+          "start_date": "Octubre",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Elaboración de propuestas por subgrupos",
+          "descrption": "Se crean subgrupos de redacción para elaborar el texto de la modificación y su informe de impacto.",
+          "start_date": "Tras designación",
+          "end_date": "Entre 1 y 3 meses",
+          "required_documentation": "Informe de implicaciones económicas, legales, técnicas y de descarbonización"
+        },
+        {
+          "step": 3,
+          "title": "Debate y decisión en el Comité",
+          "descrption": "El Comité debate la propuesta tras un periodo de revisión de tres semanas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Remisión a autoridades",
+          "descrption": "El presidente remite la propuesta final a la Dirección General de Política Energética y a la CNMC.",
+          "start_date": null,
+          "end_date": "Máximo 1 mes tras debate",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 7
+}

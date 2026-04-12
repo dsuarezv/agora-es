@@ -1,0 +1,100 @@
+{
+  "identifier": "BOJA-b-2021-90167",
+  "title": "Decreto-ley 8/2021, de 4 de mayo, por el que se aprueba una línea de subvenciones destinadas a las Entidades Locales Autónomas Andaluzas para la financiación de actuaciones relacionadas con el desarrollo y ejecución de sus competencias, y se modifican varios decretos-leyes",
+  "visible_title": "Subvenciones para Entidades Locales Autónomas Andaluzas",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "8/2021",
+  "publication_date": "2021-05-04",
+  "enactment_date": "2021-05-04",
+  "last_updated": "2021-12-30",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOJA-b-2021-90167",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": "b-2021-90167",
+  "summary": "Esta norma establece una ayuda económica extraordinaria de 2,5 millones de euros para las Entidades Locales Autónomas (ELA) de Andalucía. El objetivo es compensar el impacto económico de la pandemia de COVID-19 y permitir que estas entidades sigan financiando sus servicios esenciales. Además, el decreto modifica otros decretos-leyes previos para ampliar plazos de solicitud y ampliar sectores subvencionables (como la industria de la piedra) para proteger el empleo.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que es una transferencia de fondos entre administraciones para asegurar la continuidad de servicios públicos locales.",
+  "professional_impact": "Afecta directamente a gestores de Entidades Locales Autónomas, quienes deben solicitar ayudas en un plazo muy breve (15 días hábiles). También beneficia a empresas del sector de la industria de la piedra y otros sectores afectados por la crisis sanitaria al ampliar sus posibilidades de recibir ayudas por mantenimiento de empleo.",
+  "keywords": [
+    "subvenciones",
+    "entidades locales autónomas",
+    "Andalucía",
+    "ayudas económicas",
+    "COVID-19",
+    "administración local",
+    "mantenimiento de empleo"
+  ],
+  "key_points": [
+    "Creación de una línea de subvenciones de 2.500.000 € para Entidades Locales Autónomas andaluzas.",
+    "Reparto de fondos basado en la población de la entidad y coeficientes correctores para favorecer a las más pequeñas.",
+    "Las ayudas se conceden mediante procedimiento de concesión directa para agilizar el proceso.",
+    "Ampliación del plazo de solicitud para ayudas de mantenimiento de empleo a 15 días hábiles tras la publicación.",
+    "Inclusión del sector de la industria de la piedra (CNAE 2370) en las actividades subvencionables para el mantenimiento de empleo.",
+    "Los pagos de las subvenciones a las entidades locales se realizarán en un único pago tras la resolución.",
+    "Se permite la ejecución de los gastos hasta el 31 de diciembre de 2021."
+  ],
+  "legal_references": [
+    "Real Decreto 926/2020",
+    "Real Decreto 956/2020",
+    "Decreto del Presidente 2/2021",
+    "Ley 5/2010 de Autonomía Local de Andalucía",
+    "Ley 27/2013 de racionalización y sostenibilidad de la Administración Local",
+    "Ley 38/2003 General de Subvenciones",
+    "Decreto-ley 4/2021",
+    "Decreto-ley 5/2021",
+    "Decreto-ley 6/2021"
+  ],
+  "derogations": [],
+  "main_obligations": "Las entidades locales deben presentar la solicitud electrónicamente en un plazo de 15 días hábiles. Deben aportar un Programa de Actuaciones aprobado por mayoría absoluta de la Junta Vecinal y justificar el gasto en un plazo de 3 meses tras finalizar las actuaciones.",
+  "effective_date": "2021-05-04",
+  "procedures": [
+    {
+      "name": "Concesión de subvenciones a Entidades Locales Autónomas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Las entidades deben presentar la solicitud de forma electrónica mediante el modelo establecido.",
+          "start_date": "2021-05-04",
+          "end_date": "15 días hábiles tras la publicación",
+          "required_documentation": "Modelo de solicitud (Anexo II), Programa de Actuaciones aprobado por mayoría absoluta, Certificado de la Secretaría/Intervención (Anexo III) y Memoria descriptiva con presupuesto."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación e instrucción",
+          "description": "La Dirección General de Administración Local instruye el expediente siguiendo el orden de entrada.",
+          "start_date": null,
+          "end_date": "2 meses desde la entrada en registro",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Dictado de la resolución de concesión o desestimación por silencio administrativo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Pago de la subvención",
+          "description": "Abono íntegro de la cuantía tras la notificación de la resolución.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Justificación",
+          "description": "Presentación de la certificación justificativa de la realización de la actividad y el uso de los fondos.",
+          "start_date": null,
+          "end_date": "3 meses tras la finalización de las actuaciones",
+          "required_documentation": "Certificación emitida por Secretaría o Intervención detallando el desglose de partidas."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

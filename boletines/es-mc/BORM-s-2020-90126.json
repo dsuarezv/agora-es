@@ -1,0 +1,70 @@
+{
+  "identifier": "BORM-s-2020-90126",
+  "title": "Decreto-ley 3/2020, de 23 de abril, de mitigación del impacto socioeconómico del COVID-19 en el área de vivienda e infraestructuras",
+  "visible_title": "Mitigación del impacto socioeconómico del COVID-19 en vivienda e infraestructuras",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "3/2020",
+  "publication_date": "2020-04-28",
+  "enactment_date": "2020-04-23",
+  "last_updated": "2020-04-28",
+  "status": "amended",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2020-90126",
+  "official_journal": "Boletín Oficial de la Región de Murcia",
+  "journal_issue": null,
+  "summary": "Esta norma implementa medidas de emergencia para frenar el daño económico causado por la pandemia de COVID-19 en la Región de Murcia. Se centra en agilizar la gestión de infraestructuras portuarias, flexibilizar el sector del taxi, facilitar el acceso a la vivienda protegida y simplificar los trámites urbanísticos. Además, busca proteger el derecho a la vivienda y acelerar la reconstrucción tras el terremoto de Lorca.",
+  "citizen_impact": "Facilita que familias vulnerables accedan a la propiedad de viviendas sociales tras años de alquiler y agiliza la obtención de ayudas de alquiler. También ofrece mayor flexibilidad en los servicios de taxi y simplifica trámites para la reconstrucción de viviendas en Lorca.",
+  "professional_impact": "Los taxistas pueden ahora trabajar con vehículos de hasta 9 plazas y sin obligación de dedicación exclusiva, permitiendo compatibilizar la actividad. Las empresas del sector portuario y constructor cuentan con trámites administrativos más rápidos y criterios de sostenibilidad para nuevos proyectos.",
+  "keywords": [
+    "COVID-19",
+    "vivienda protegida",
+    "taxi",
+    "puertos deportivos",
+    "urbanismo",
+    "Lorca",
+    "infraestructuras",
+    "mitigación económica"
+  ],
+  "key_points": [
+    "Los taxis pueden usar vehículos de hasta 9 plazas y ya no requieren dedicación exclusiva.",
+    "Se permite a familias que llevan 25 años pagando alquiler en vivienda social acceder a la propiedad.",
+    "Se agilizan los trámites para la construcción de vivienda protegida eliminando registros de demandantes.",
+    "Los puertos deportivos pueden ampliar sus usos y agilizar la concesión de espacios para actividades náuticas.",
+    "Se introducen medidas de sostenibilidad y adaptación al cambio climático en la normativa urbanística.",
+    "Se amplía el plazo para presentar certificaciones de obra de las ayudas por el terremoto de Lorca hasta octubre de 2022.",
+    "Se flexibilizan las licencias urbanísticas mediante el uso de la declaración responsable para cambios menores."
+  ],
+  "legal_references": [
+    "Ley 3/1996 de Puertos de la Región de Murcia",
+    "Ley 10/2014 de transporte de taxi de la Región de Murcia",
+    "Ley 6/2015 de la Vivienda de la Región de Murcia",
+    "Ley 13/2015 de Ordenación Territorial y Urbanística de la Región de Murcia",
+    "Real Decreto-ley 463/2020",
+    "Real Decreto-ley 15/2020",
+    "Real Decreto-ley 6/2011"
+  ],
+  "derogations": [
+    "Ley 8/2018, de 23 de julio, de ayudas de Lorca",
+    "Ley 8/2019, de 25 de julio, que modifica la Ley 8/2018"
+  ],
+  "main_obligations": null,
+  "effective_date": "2020-04-28",
+  "procedures": [
+    {
+      "name": "Justificación de ayudas por reconstrucción en Lorca",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de certificaciones de obra",
+          "description": "Presentar las certificaciones de las obras realizadas para el cobro de la subvención pendiente.",
+          "start_date": "2020-04-28",
+          "end_date": "2022-10-31",
+          "required_documentation": "Certificación de obra realizada"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

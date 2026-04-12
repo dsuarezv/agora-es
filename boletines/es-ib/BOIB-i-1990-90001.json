@@ -1,0 +1,98 @@
+{
+  "identifier": "BOIB-i-1990-90001",
+  "title": "Decreto Legislativo 79/1990, de 6 de septiembre, por el que se aprueba el texto refundido de la compilación del derecho civil de las Islas Baleares",
+  "visible_title": "Compilación del Derecho Civil de las Islas Baleares",
+  "rank": "decreto legislativo",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Islas Baleares",
+  "official_number": "79/1990",
+  "publication_date": "1990-10-02",
+  "enactment_date": "1990-09-06",
+  "last_updated": "2022-11-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOIB-i-1990-90001",
+  "official_journal": "BOIB",
+  "journal_issue": null,
+  "summary": "Esta norma unifica y ordena las leyes de derecho civil específicas de las Islas Baleares en un solo texto. Establece las reglas de aplicación del derecho propio frente al estatal y regula aspectos clave como el régimen económico matrimonial, las sucesiones y los derechos reales tradicionales. Su objetivo es dar seguridad jurídica al integrar las leyes históricas de las islas con las nuevas reformas legislativas.",
+  "citizen_impact": "Afecta directamente a los residentes de Baleares en temas de herencias, matrimonios y propiedades. Por ejemplo, determina qué bienes son propios en un matrimonio bajo separación de bienes o cómo se reparten las herencias según la isla donde se resida. También protege derechos tradicionales como el 'estatge' o la 'sociedad rural'.",
+  "professional_impact": "Es la norma de referencia obligatoria para abogados, notarios y jueces que operen en el ámbito civil de las Islas Baleares. Los profesionales deben distinguir entre las reglas generales de Mallorca, Menorca o Ibiza/Formentera para aplicar correctamente el régimen económico o sucesorio. Introduce la necesidad de conocer la costumbre y la tradición jurídica insular para la interpretación de instituciones.",
+  "keywords": [
+    "derecho civil baleares",
+    "sucesiones",
+    "régimen económico matrimonial",
+    "herencias",
+    "derechos reales",
+    "sociedad rural",
+    "espòlits",
+    "estatge"
+  ],
+  "key_points": [
+    "El derecho civil propio de Baleares tiene prioridad de aplicación sobre el derecho estatal en la comunidad.",
+    "En Mallorca, si no hay pacto matrimonial, el régimen por defecto es la separación de bienes.",
+    "En Ibiza y Formentera existe la figura de los 'espòlits' para pactar el régimen económico matrimonial.",
+    "En Menorca se regula la 'sociedad rural' para la explotación conjunta de fincas entre propietario y cultivador.",
+    "Se establece la figura del 'estatge' como un derecho de habitación gratuito en casas tradicionales.",
+    "Las sucesiones en Ibiza y Formentera siguen el Código Civil, pero con protecciones específicas para el cónyuge viudo.",
+    "Se definen causas específicas de indignidad para heredar, como delitos contra la vida o la integridad del causante.",
+    "El derecho de la 'cuarta falcidia' permite al heredero reclamar su parte si los legados consumen demasiado activo hereditario."
+  ],
+  "legal_references": [
+    "Ley 8/1990, de 28 de junio",
+    "Ley 5/61, de 19 de abril",
+    "Estatuto de Autonomía de las Islas Baleares",
+    "Ley 5/84, de Régimen Jurídico de la Administración de la C.A.I.B.",
+    "Código Civil español",
+    "Ley 35/2011, de 4 de octubre"
+  ],
+  "derogatons": [
+    "Ley 5/61, de 19 de abril (en lo que sea incompatible con este texto refundido)"
+  ],
+  "main_obligations": "Los cónyuges están obligados a contribuir al levantamiento de las cargas del matrimonio en proporción a sus recursos. Los fiduciares en sucesiones deben realizar un inventario de los bienes para garantizar la restitución de los mismos.",
+  "effective_date": "1990-10-02",
+  "procedures": [
+    {
+      "name": "Liquidación de la sociedad rural (Menorca)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Finalización del contrato",
+          "descrption": "Terminación del plazo pactado o desdida con tres meses de antelación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Proceso de estims",
+          "descrption": "Valoración de bienes y ganancias mediante expertos (estimaders) para la liquidación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Pago de la legítima en metálico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación fehaciente",
+          "descrption": "El heredero debe comunicar a los legitimarios la decisión de pagar en dinero.",
+          "start_date": null,
+          "end_date": "1 año desde la apertura de la sucesión",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Ejecución del pago",
+          "descrption": "Plazo para realizar el ingreso efectivo del dinero.",
+          "start_date": "Desde la comunicación",
+          "end_date": "1 año si la legítima es < 1/3 de la herencia; 2 años si es > 1/3",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

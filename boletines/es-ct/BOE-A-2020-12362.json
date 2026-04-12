@@ -1,0 +1,83 @@
+{
+  "identifier": "BOE-A-2020-12362",
+  "title": "Decreto-ley 30/2020, de 4 de agosto, por el que se establece el régimen sancionador específico por el incumplimiento de las medidas de prevención y contención sanitarias para hacer frente a la crisis sanitaria provocada por la COVID-19",
+  "visible_title": "Régimen sancionador por incumplimiento de medidas de prevención y contención sanitaria COVID-19",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "30/2020",
+  "publication_date": "2020-10-16",
+  "enactment_date": "2020-08-04",
+  "last_updated": "2020-12-03",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2020/08/04/30",
+  "official_journal": "Diari Oficial de la Generalitat de Catalunya",
+  "journal_issue": null,
+  "summary": "Esta norma unifica y clarifica las sanciones aplicables en Cataluña por incumplir las medidas sanitarias adoptadas contra la COVID-19. Busca evitar la dispersión de sanciones en distintas leyes y dar seguridad jurídica tanto a ciudadanos como a la Administración. Establece un sistema de multas graduadas según la gravedad del riesgo para la salud pública.",
+  "citizen_impact": "Los ciudadanos pueden enfrentarse a multas económicas si incumplen el uso de mascarillas, el distanciamiento social, los horarios de apertura o las órdenes de confinamiento y aislamiento. La cuantía de la multa dependerá de si el incumplimiento supone un riesgo para pocas o muchas personas.",
+  "professional_impact": "Empresas y autónomos deben cumplir estrictamente con los aforos, protocolos de higiene, horarios y deber de información a trabajadores. El incumplimiento grave o muy grave puede conllevar no solo multas elevadas (hasta 600.000 €), sino también el cierre de locales o la suspensión de la actividad comercial.",
+  "keywords": [
+    "COVID-19",
+    "sanciones sanitarias",
+    "Cataluña",
+    "multas",
+    "salud pública",
+    "medidas de prevención",
+    "incumplimiento"
+  ],
+  "key_points": [
+    "Clasificación de infracciones en leves, graves y muy graves según el número de personas en riesgo de contagio.",
+    "Las infracciones leves se consideran cuando el riesgo de contagio es para un máximo de 15 personas.",
+    "Las infracciones graves afectan a riesgos de contagio de entre 16 y 150 personas.",
+    "Las infracciones muy graves implican un riesgo de contagio para más de 150 personas.",
+    "Multas para infracciones leves pueden llegar hasta los 3.000 euros (con excepciones específicas).",
+    "Las infracciones muy graves pueden alcanzar multas de hasta 600.000 euros y cierres de hasta 5 años.",
+    "Se permite la aplicación de sanciones accesorias como la clausura de locales o la inhabilitación para actividades.",
+    "Se modifica la Red de Vigilancia Epidemiológica para permitir personal sanitario multidisciplinar en el SUVEC."
+  ],
+  "legal_references": [
+    "Real Decreto ley 21/2020, de 9 de junio",
+    "Ley orgánica 3/1986, de 14 de abril",
+    "Ley 14/1986, de 25 de abril",
+    "Ley 18/2009, del 22 de octubre",
+    "Ley 4/1997, de 20 de mayo",
+    "Decreto 63/2020, de 18 de junio",
+    "Ley 33/2011, de 4 de octubre",
+    "Ley 20/1985, de 25 de julio",
+    "Real Decreto legislativo 5/2000",
+    "Decreto 203/2015, de 15 de septiembre",
+    "Ley 13/2008, del 5 de noviembre",
+    "Ley 18/2009, del 22 de octubre de salud pública",
+    "Ley 22/1998, de 30 de diciembre",
+    "Ley 5/2019, de 31 de julio",
+    "Ley 1/2015, del 5 de febrero"
+  ],
+  "derogations": [],
+  "main_obligations": "Obligación de cumplir con el uso de mascarillas, distanciamiento, aforos y órdenes de aislamiento. Las multas varían desde 100€ (mascarilla) hasta 600.000€ por infracciones muy graves.",
+  "effective_date": "2020-08-05",
+  "procedures": [
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del expediente",
+          "description": "Inicio del procedimiento por parte de los órganos competentes tras detectar una infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "description": "Plazo máximo para dictar y notificar la resolución final del expediente.",
+          "start_date": null,
+          "end_date": "9 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

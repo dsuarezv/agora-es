@@ -1,0 +1,148 @@
+{
+  "identifier": "DOGC-f-2002-90024",
+  "title": "Decreto Legislativo 3/2002, de 24 de diciembre, por el que se aprueba el Texto refundido de la Ley de finanzas públicas de Cataluña",
+  "visible_title": "Ley de finanzas públicas de Cataluña",
+  "rank": "decreto legislativo",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "3/2002",
+  "publication_date": "2002-12-31",
+  "enactment_date": "2002-12-24",
+  "last_updated": "2023-10-19",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=DOGC-f-2002-90024",
+  "official_journal": "DOGC",
+  "journal_issue": null,
+  "summary": "Esta norma establece las reglas maestras para la gestión del dinero público en Cataluña, unificando toda la normativa financiera previa. Regula desde cómo se crea la deuda y se gestiona el presupuesto hasta el control estricto de las subvenciones y la responsabilidad de los cargos públicos. Su objetivo es garantizar la transparencia, la digitalización de la gestión económica y la rendición de cuentas de todas las entidades vinculadas a la Generalitat. Además, introduce mecanismos de evaluación de políticas públicas para asegurar que el gasto tenga un impacto social y económico real.",
+  "citizen_impact": "Protege al ciudadano frente a errores administrativos, impidiendo que se cobren intereses o recargos si la administración devuelve erróneamente prestaciones de servicios sociales. También garantiza mayor transparencia sobre el uso de tributos con fines específicos y asegura que las empresas que reciben ayudas públicas cumplan con medidas de prevención de acoso sexual y de género.",
+  "professional_impact": "Para funcionarios y directivos, implica una responsabilidad civil, penal y disciplinaria directa por daños a la Hacienda pública y la obligación de suministrar información al sistema fiscal corporativo. Las empresas públicas y universidades deben cumplir con una rendición de cuentas mensual y anual muy estricta. Los gestores de fondos públicos están obligados a prestar fianza y las empresas que reciban subvenciones deben evitar donaciones a partidos vinculados a la administración.",
+  "keywords": [
+    "finanzas públicas",
+    "gestión presupuestaria",
+    "subvenciones",
+    "responsabilidad patrimonial",
+    "control fiscal",
+    "transparencia",
+    "deuda pública",
+    "Cataluña"
+  ],
+  "key_points": [
+    "Obligatoriedad de pagar intereses de demora si una deuda no se abona en 3 meses tras su reconocimiento o notificación judicial.",
+    "Las deudas de la Generalitat no pueden cobrarse mediante el procedimiento de apremio (cobro coactivo directo).",
+    "Las empresas con 25 o más empleados deben acreditar medidas de prevención de acoso sexual y de género para acceder a subvenciones.",
+    "Prohibición de realizar donaciones a partidos o fundaciones vinculadas a la administración para beneficiarios de subvenciones.",
+    "Régimen de sanciones por incumplimiento de subvenciones: multas de hasta el triple de lo percibido y prohibición de contratar con la Administración hasta 5 años.",
+    "Uso obligatorio de sistemas digitales corporativos para cualquier procedimiento con incidencia económica o financiera.",
+    "Plazo de prescripción de 4 años para que la administración reclame derechos o liquide deudas.",
+    "Obligación de realizar informes de impacto económico y social para nuevas intervenciones públicas relevantes.",
+    "Protección contra intereses y recargos en la devolución de prestaciones de servicios sociales por error de la administración.",
+    "Las empresas públicas y entidades vinculadas deben informar obligatoriamente sobre su nivel de endeudamiento al Departamento de Economía.",
+    "Los funcionarios y particulares que custodien fondos públicos están obligados a prestar fianza.",
+    "Las empresas y universidades públicas deben remitir información financiera mensualmente a la Intervención General."
+  ],
+  "legal_references": [
+    "Ley 21/2001, de 28 de diciembre",
+    "Ley 10/1982, de 12 de julio",
+    "Decreto legislativo 9/1994, de 13 de julio",
+    "Ley 9/1997, de 23 de junio",
+    "Ley 17/1997, de 24 de diciembre",
+    "Ley 25/1998, de 31 de diciembre",
+    "Ley 4/2000, de 26 de mayo",
+    "Ley 15/2000, de 29 de diciembre",
+    "Ley de presupuestos anuales de la Generalidad",
+    "Sistema Europeo de Cuentas (SEC)",
+    "Ley 19/2014 de transparencia, acceso a la información pública y buen gobierno",
+    "Ley 26/2001 de cooperación al desarrollo",
+    "Ley 38/2003 General de subvenciones",
+    "Ley 30/1992 de Régimen Jurídico de las Administraciones Públicas",
+    "Ley 4/1985, de 29 de marzo, del Estatuto de la Empresa Pública Catalana",
+    "Estatuto de la Generalidad",
+    "Ley 12/2004, de 27 de diciembre, de medidas financieras"
+  ],
+  "derogations": [
+    "Disposición adicional tercera de la Ley 12/2004, de 27 de diciembre, de medidas financieras"
+  ],
+  "main_obligations": "Las entidades públicas deben presentar cuentas anuales antes del 30 de junio y remitir información financiera mensual a la Intervención General. Los beneficiarios de subvenciones deben justificar el gasto y permitir inspecciones, mientras que los gestores de fondos públicos deben prestar fianza.",
+  "effective_date": "2002-12-31",
+  "procedures": [
+    {
+      "name": "Cobro de deudas y reclamación de intereses",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Vencimiento de la deuda",
+          "description": "La deuda debe ser abonada en la fecha establecida.",
+          "start_date": "Fecha de vencimiento",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Reclamación por escrito",
+          "description": "El acreedor debe reclamar por escrito para que empiecen a computarse los intereses de demora si pasan 3 meses sin pago.",
+          "start_date": "A partir del mes 3 tras el reconocimiento",
+          "end_date": null,
+          "required_documentation": "Reclamación por escrito"
+        }
+      ]
+    },
+    {
+      "name": "Prescripción de derechos y obligaciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del plazo",
+          "description": "Comienza el cómputo de los 4 años desde que la deuda puede ejercitarse.",
+          "start_date": "Fecha de reconocimiento o liquidación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Interrupción",
+          "description": "El plazo se reinicia si el deudor reconoce la deuda o la administración exige el pago por escrito.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Reconocimiento de deuda o requerimiento escrito"
+        }
+      ]
+    },
+    {
+      "name": "Devolución de cobros indebidos o copagos en servicios sociales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Reintegro de la deuda",
+          "description": "Devolución de cantidades percibidas indebidamente o impagadas sin intereses ni recargos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Fraccionamiento del pago",
+          "description": "Opción de pagar la deuda en plazos máximos de 48 meses sin intereses.",
+          "start_date": null,
+          "end_date": "48 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Evaluación de impacto de nuevas intervenciones públicas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración de informe de impacto",
+          "description": "Realización de un análisis de coste-beneficio sobre los efectos económicos y sociales de la medida.",
+          "start_date": "Antes de la aprobación de la intervención",
+          "end_date": null,
+          "required_documentation": "Informe de impacto económico y social"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

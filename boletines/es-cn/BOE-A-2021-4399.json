@@ -1,0 +1,89 @@
+{
+  "identifier": "BOE-A-2021-4399",
+  "title": "Decreto-ley 24/2020, de 23 de diciembre, de medidas extraordinas y urgentes en los ámbitos de vivienda, transportes y puertos de titularidad de la Comunidad Autónoma de Canarias",
+  "visible_title": "Medidas extraordinarias y urgentes en vivienda, transportes y puertos de Canarias",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "24/2020",
+  "publication_date": "2021-03-22",
+  "enactment_date": "2020-12-23",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/dl/2020/12/23/24",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma implementa medidas de choque para mitigar el impacto económico y social de la pandemia de COVID-19 en Canarias. Se centra en facilitar el acceso a la vivienda protegida mediante la regulación de precios máximos de venta y alquiler, y en apoyar la reactivación de sectores clave como el transporte por carretera y el sector portuario mediante exenciones y ampliaciones de plazos administrativos.",
+  "citizen_impact": "Los ciudadanos con menos recursos pueden acceder a viviendas protegidas con precios de alquiler y venta limitados por la administración. Además, se agiliza el cobro de ayudas al alquiler para personas en desempleo o situación de ERTE.",
+  "professional_impact": "Las empresas de transporte ganan un margen temporal para renovar sus visados sin perder la autorización de actividad. El sector náutico y turístico recibe exenciones en los cánones portuarios para aliviar la carga económica tras el confinamiento.",
+  "keywords": [
+    "vivienda protegida",
+    "alquiler social",
+    "Canarias",
+    "transporte por carretera",
+    "cánones portuarios",
+    "ayudas COVID-19",
+    "precio máximo de vivienda"
+  ],
+  "key_points": [
+    "Establecimiento de precios máximos de venta y alquiler para viviendas protegidas usando el Módule Básico Canario (MBC).",
+    "Simplificación de los regímenes de vivienda protegida en uno solo (especial y general).",
+    "Ampliación excepcional del plazo para el visado de autorizaciones de transporte por carretera.",
+    "Exención del 100% de cánones portuarios para embarcaciones de recreo durante el estado de alarma.",
+    "Exención del 50% de cánones para embarcaciones comerciales de excursiones turísticas en 2021.",
+    "Posibilidad de realizar dación en pago de viviendas protegidas para evitar desahucios en situaciones de vulnerabilidad.",
+    "Autorización de abono anticipado de ayudas al alquiler para desempleados y personas en ERTE.",
+    "Creación de ámbitos territoriales con precios máximos de vivienda superiores en zonas de alta demanda."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Canarias",
+    "Real Decreto-ley 21/2020",
+    "Ley 2/2003 de Vivienda de Canarias",
+    "Real Decreto-ley 11/2020",
+    "Real Decreto 463/2020",
+    "Ley 39/2015 de Procedimiento Administrativo Común"
+  ],
+  "derogations": [
+    "Decreto 138/2007, de 24 de mayo (en lo que se oponga a la nueva regulación de adjudicación de vivienda pública)"
+  ],
+  "main_obligations": "Los propietarios de viviendas protegidas deben respetar los precios máximos de venta y renta establecidos. Las viviendas protegidas de promoción privada no pueden ser vendidas o cedidas sin autorización del Instituto Canario de la Vivienda durante los primeros 10 años.",
+  "effective_date": "2021-03-23",
+  "procedures": [
+    {
+      "name": "Calificación de vivienda o alojamiento protegido",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de calificación provisional",
+          "description": "El promotor solicita la declaración de actuación protegida para acceder a financiación.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": "Documentación determinada por el Instituto Canario de la Vivienda"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de calificación",
+          "description": "Notificación de la resolución de calificación provisional o definitiva.",
+          "start_date": null,
+          "end_date": "6 meses desde la solicitud",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Dación en pago de vivienda protegida",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "El titular solicita al Instituto Canario de la Vivienda la autorización para la dación en pago.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de residencia habitual, situación de desempleo/vulnerabilidad y cuantía de ingresos"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,100 @@
+{
+  "identifier": "BOE-A-2026-1681",
+  "title": "Orden INT/25/2026, de 19 de enero, por la que se regula la habilitación de instructor de tiro del personal de seguridad privada",
+  "visible_title": "Regulación de la habilitación de instructor de tiro del personal de seguridad privada",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio del Interior",
+  "official_number": "INT/25/2026",
+  "publication_date": "2026-01-24",
+  "enactment_date": "2026-01-19",
+  "last_updated": "2026-01-24",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2026/01/19/int25",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "22",
+  "summary": "Esta norma establece el marco legal completo para que profesionales puedan convertirse en instructores de tiro para el sector de la seguridad privada. Sustituye una regulación insuficiente para garantizar que los ejercicios de tiro obligatorios de los vigilantes sean dirigidos por personal cualificado y supervisado. Define desde la formación necesaria hasta los requisitos de las licencias de armas y los procedimientos de acreditación ante la Guardia Civil.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes.",
+  "professional_impact": "Afecta directamente a empresas de seguridad privada, instructores de tiro y centros de formación. Los instructores deben cumplir con una formación previa de 50 horas y obtener una tarjeta de habilitación válida por 5 años. Las empresas deben asegurar que sus ejercicios de tiro sean dirigidos por personal con esta acreditación específica.",
+  "keywords": [
+    "seguridad privada",
+    "instructor de tiro",
+    "Guardia Civil",
+    "habilitación",
+    "armas de fuego",
+    "formación profesional"
+  ],
+  "key_points": [
+    "Creación de una formación previa obligatoria de 50 horas impartida en centros autorizados.",
+    "Obligatoriedad de poseer una licencia de armas (clases A, B, C, D, E o F) para ser instructor.",
+    "La tarjeta de habilitación tiene una validez de 5 años y debe renovarse.",
+    "Se establece un límite de 10 tiradores por línea de tiro (ampliable a 20 con autorización).",
+    "Los instructores pueden perder la habilitación por falta de pericia, mal trato al personal o falsear resultados.",
+    "Los instructores actuales tienen un plazo de 5 años para adaptarse y solicitar la nueva tarjeta.",
+    "Los centros de formación tienen un plazo de 2 años para adaptarse a la nueva normativa de profesorado."
+  ],
+  "legal_references": [
+    "Ley 5/2014, de 4 de abril, de Seguridad Privada",
+    "Real Decreto 2364/1994, de 9 de diciembre, por el que se aprueba el Reglamento de Seguridad Privada",
+    "Resolución de 28 de febrero de 1996, de la Secretaría de Estado de Interior",
+    "Resolución de 19 de marzo de 2019, de la Dirección General de la Guardia Civil",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Ley 50/1997, de 27 de noviembre, del Gobierno",
+    "Orden INT/318/2011, de 1 de febrero",
+    "Ley 40/2015, de 1 de octubre, del Régimen Jurídico del Sector Público",
+    "Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-administrativa",
+    "Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales",
+    "Ley Orgánica 3/2007, de 14 de marzo, para la igualdad efectiva de mujeres y hombres"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a esta orden"
+  ],
+  "main_obligations": "Los instructores deben dirigir los ejercicios de tiro garantizando la seguridad y anotando los resultados por duplicado. Es obligatorio que los centros de formación cumplan con la declaración responsable ante la Guardia Civil y que los instructores mantengan su aptitud psicofísica y sus licencias de armas en vigor.",
+  "effective_date": "2026-09-01",
+  "procedures": [
+    {
+      "name": "Obtención de la habilitación como instructor de tiro",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Formación previa",
+          "descrption": "Superar un ciclo de 50 horas de formación teórica y práctica en un centro autorizado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Título expedido por el centro de formación habilitado"
+        },
+        {
+          "step": 2,
+          "title": "Pruebas de habilitación",
+          "descrption": "Superar las pruebas de selección y aptitud convocadas por la Guardia Civil.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de formación previa y licencias de armas"
+        },
+        {
+          "step": 3,
+          "title": "Solicitud de tarjeta de habilitación",
+          "descrption": "Presentar la solicitud tras ser declarado apto en el BOE.",
+          "start_date": null,
+          "end_date": "3 meses para la resolución",
+          "required_documentation": "Fotografías, certificado psicofísico, referencia del BOE y DNI"
+        }
+      ]
+    },
+    {
+      "name": "Renovación de la habilitación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "descrption": "Solicitar la renovación ante la Intervención de Armas y Explosivos.",
+          "start_date": "6 meses antes de la caducidad",
+          "end_date": null,
+          "required_documentation": "Modelo establecido en el portal de la Guardia Civil"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

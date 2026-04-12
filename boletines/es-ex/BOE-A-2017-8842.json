@@ -1,0 +1,79 @@
+{
+  "identifier": "BOE-A-2017-8842",
+  "title": "Ley 6/2017, de 10 de julio, del Plan de Estadística de Extremadura 2017-2020",
+  "visible_title": "Plan de Estadística de Extremadura 2017-2020",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "6/2017",
+  "publication_date": "2017-07-26",
+  "enactment_date": "2017-07-10",
+  "last_updated": "2017-07-12",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2017/07/10/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece la hoja de ruta para la producción y difusión de datos estadísticos oficiales en Extremadura durante el periodo 2017-2020. Su objetivo es mejorar el conocimiento de la realidad demográfica, económica, social y medioambiental de la región para facilitar la toma de decisiones. El plan organiza las tareas de diversas administraciones bajo la coordinación del Instituto de Estadística de Extremadura.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, más allá de garantizar su derecho a acceder a información pública de calidad, clara y actualizada sobre su entorno.",
+  "professional_impact": "Las empresas, instituciones y sujetos designados como 'informantes' tienen la obligación de suministrar los datos requeridos para las estadísticas oficiales. El incumplimiento de esta obligación conlleva las responsabilidades y sanciones previstas en la Ley 4/2003 de Estadística de la Comunidad Autónoma de Extremadura.",
+  "keywords": [
+    "estadística pública",
+    "Extremadura",
+    "planificación estadística",
+    "datos demográficos",
+    "información económica",
+    "Instituto de Estadística de Extremadura"
+  ],
+  "key_points": [
+    "Establece un modelo de planificación por objetivos (organizativos, instrumentales, de producción, de difusión y de calidad).",
+    "Obliga a la coordinación de todas las entidades que forman el sistema estadístico regional.",
+    "Impulsa el uso de internet como canal preferente para que los datos sean accesibles y fáciles de usar.",
+    "Introduce la perspectiva de género como requisito en las estadísticas que traten datos de personas.",
+    "Fomenta la colaboración con organismos nacionales e internacionales para evitar duplicidades y costes innecesarios.",
+    "Define un catálogo específico de operaciones estadísticas clasificadas por temas y responsables."
+  ],
+  "legal_references": [
+    "Ley 4/2003, de 20 de marzo, de Estadística de la Comunidad Autónoma de Extremadura",
+    "Ley Orgánica 1/2011, de 28 de enero, de reforma del Estatuto de Autonomía de la Comunidad Autónoma de Extremadura",
+    "Ley 4/2013, de 21 de mayo, del Gobierno Abierto de Extremadura",
+    "Código de Buenas Prácticas de las Estadísticas Europeas"
+  ],
+  "derogations": [
+    "Ley 1/2013, de 20 de febrero, del Plan de Estadística de Extremadura 2013-2016"
+  ],
+  "main_obligations": "Los sujetos designados como informantes están obligados a suministrar la información necesaria para las estadísticas oficiales. Los requerimientos deben cumplimentarse en un plazo máximo de un mes, salvo que se especifique lo contrario en los programas anuales.",
+  "effective_date": "2017-01-01",
+  "procedures": [
+    {
+      "name": "Ejecución del Plan de Estadística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación de programas anuales",
+          "description": "El Consejo de Gobierno aprueba los programas anuales que desarrollan el Plan.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Suministro de información",
+          "description": "Los sujetos informantes deben remitir los datos solicitados.",
+          "start_date": null,
+          "end_date": "1 mes desde la recepción",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Seguimiento y evaluación",
+          "description": "El Instituto de Estadística elabora informes de ejecución anuales y una memoria final.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

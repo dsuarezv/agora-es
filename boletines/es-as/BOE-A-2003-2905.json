@@ -1,0 +1,101 @@
+{
+  "identifier": "BOE-A-2003-2905",
+  "title": "Ley 15/2002, de 27 de diciembre, de Medidas Presupuestarias, Administrativas y Fiscales",
+  "visible_title": "Ley de Medidas Presupuestarias, Administrativas y Fiscales del Principado de Asturias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "15/2002",
+  "publication_date": "2003-02-13",
+  "enactment_date": "2002-12-27",
+  "last_updated": "2014-10-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2002/12/27/15",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley adapta la normativa asturiana para permitir la ejecución del presupuesto de 2003. Introduce cambios estructurales en la gestión de impuestos mediante la creación del Ente Público de Servicios Tributarios. Además, modifica leyes de función pública, patrimonio, pesca y carreteras para actualizar sanciones, competencias y procedimientos administrativos.",
+  "citizen_impact": "Los ciudadanos ven cambios en su declaración de la renta con nuevas deducciones para mayores de 65 años, personas con discapacidad y alquiler de vivienda. También se actualizan las tasas por servicios como la expedición de títulos académicos o la gestión de hojas de reclamaciones.",
+  "professional_impact": "Las empresas y autónomos deben atender nuevas deducciones fiscales y cambios en el impuesto de sucesiones. Los funcionarios ven modificadas sus escalas y derechos, mientras que los operadores de juegos de azar y grandes establecimientos comerciales se enfrentan a nuevas tasas y regulaciones específicas.",
+  "keywords": [
+    "presupuestos",
+    "Asturias",
+    "medidas fiscales",
+    "deducciones IRPF",
+    "servicios tributarios",
+    "función pública",
+    "tasas administrativas"
+  ],
+  "key_points": [
+    "Creación del Ente Público de Servicios Tributarios para modernizar la recaudación autonómica.",
+    "Nuevas deducciones en el IRPF para mayores de 65 años, personas con discapacidad y alquiler de vivienda habitual.",
+    "Establecimiento de un cupo mínimo del 5% en la oferta de empleo público para personas con discapacidad.",
+    "Creación de nuevas escalas de funcionarios en sanidad, turismo y medio ambiente.",
+    "Modificación de las competencias para la enajenación de bienes inmuebles del patrimonio asturiano.",
+    "Regulación de técnicas submarinas para la explotación sostenible de recursos de marisqueo.",
+    "Creación de tasas por servicios en materia de casinos, juegos y apuestas.",
+    "Introducción de la tasa por expedición de hojas de reclamaciones (0,15 € por hoja)."
+  ],
+  "legal_references": [
+    "Ley 18/2001, de 12 de diciembre, general de estabilidad presupuestaria",
+    "Ley 6/1984, de 5 de julio, del Presidente y del Consejo de Gobierno del Principado de Asturias",
+    "Ley 3/1985, de 26 de diciembre, de ordenación de la función pública del Principado de Asturias",
+    "Ley 13/1986, de 28 de noviembre, de ordenación y defensa de las carreteras del Principado de Asturias",
+    "Ley 1/1991, de 21 de febrero, de patrimonio del Principado de Asturias",
+    "Ley 2/1993, de 29 de octubre, de pesca marítima en aguas interiores",
+    "Ley 3/1995, de 13 de marzo, de sanciones en materia de vivienda",
+    "Ley 21/2001, de 27 de diciembre, de medidas fiscales y administrativas",
+    "Ley 20/2002, de 1 de julio, de régimen de cesión de tributos del Estado",
+    "Ley 1/1994, de 21 de febrero, sobre abastecimiento y saneamiento de aguas"
+  ],
+  "derogatons": [
+    "Disposiciones de igual o inferior rango que se opongan a la presente ley"
+  ],
+  "main_obligations": "Las empresas y entes públicos del sector administraciones públicas deben informar trimestralmente sobre su deuda viva a la Consejería de Economía. La Universidad de Oviedo tiene la misma obligación de reporte trimestral de deuda.",
+  "effective_date": "2003-01-01",
+  "procedures": [
+    {
+      "name": "Expedición de títulos académicos y profesionales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de título",
+          "descrption": "El interesado solicita la expedición del título académico correspondiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación acreditativa de la superación de las enseñanzas"
+        },
+        {
+          "step": 2,
+          "title": "Pago de la tasa",
+          "descrption": "Abono de la tasa según el tipo de título (ej. Bachiller 44,58 €).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de servicios en materia de juegos y apuestas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "descrption": "Presentación de solicitud para apertura de casino, bingo o salón recreativo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación según el tipo de establecimiento"
+        },
+        {
+          "step": 2,
+          "title": "Auto liquidación e ingreso",
+          "descrption": "El sujeto pasivo debe realizar el pago de la tasa de forma previa a la solicitud.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

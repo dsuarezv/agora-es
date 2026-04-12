@@ -1,0 +1,248 @@
+{
+  "identifier": "BOE-A-2007-189",
+  "title": "Ley Foral 12/2006, de 21 de noviembre, del Registro de la Riqueza Territorial y de los Catastros de Navarra",
+  "visible_title": "Ley del Registro de la Riqueza Territorial y de los Catastros de Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "12/2006",
+  "publication_date": "2007-01-04",
+  "enactment_date": "2006-11-21",
+  "last_updated": "2023-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2006/11/21/12",
+  "official_journal": "Boletín Oficial de Navarra",
+  "journal_issue": null,
+  "summary": "Esta ley unifica la información sobre la propiedad inmobiliaria en Navarra, integrando los catastros municipales en un único Registro de la Riqueza Territorial. Su objetivo es que tanto la administración como los ciudadanos tengan una referencia única y fiable para identificar y valorar cualquier inmueble. Con esto se busca mejorar la gestión de impuestos y la seguridad jurídica en trámites de compraventa o herencias. La norma garantiza que los datos de los inmuebles estén siempre actualizados para evitar errores en la valoración de bienes.",
+  "citizen_impact": "Afecta directamente a cualquier propietario de un inmueble en Navarra. Obliga a los ciudadanos a informar de cualquier cambio en su propiedad (obras, escrituras, etc.) en plazos muy estrictos para evitar sanciones. Además, otorga el derecho de saber quién ha consultado sus datos inmobiliarios y facilita la obtención de certificados catastrales digitales.",
+  "professional_impact": "Notarios y registradores deben remitir mensualmente la información de los actos que afecten a la riqueza inmobiliaria. Los ayuntamientos asumen la responsabilidad de conservar sus catastros pero bajo los estándares del Registro de la Riqueza Territorial. Los profesionales del sector inmobiliario y jurídico deben asegurar la aportación de la cédula parcelaria vigente en cualquier escritura para garantizar la coordinación con el Registro de la Propiedad.",
+  "keywords": [
+    "Registro de la Riqueza Territorial",
+    "Catastro Navarra",
+    "valoración inmobiliaria",
+    "cédula parcelaria",
+    "referencia catastral",
+    "impuesto territorial"
+  ],
+  "key_points": [
+    "Creación de un inventario único de la riqueza inmobiliaria de Navarra mediante el Registro de la Riqueza Territorial.",
+    "Obligatoriedad de usar la referencia catastral única para cualquier trámite administrativo o judicial.",
+    "Distinción clara entre el valor registral (administrativo) y el valor catastral (fiscal).",
+    "Obligación de declarar cambios físicos en la propiedad en un plazo de 1 mes tras su finalización.",
+    "Obligación de declarar cambios jurídicos (escrituras) al día siguiente de su firma.",
+    "Exigencia de la cédula parcelaria vigente para cualquier escritura ante Notario.",
+    "Derecho de los propietarios a consultar qué personas han accedido a sus datos inmobiliarios durante el año.",
+    "Uso de certificados catastrales con firma electrónica y código de verificación por parte de los Ayuntamientos.",
+    "Establecimiento de un margen de tolerancia del 10% en la diferencia de superficie entre la realidad y el registro.",
+    "Régimen sancionador de 6 a 600 euros por falta de colaboración o datos falsos."
+  ],
+  "legal_references": [
+    "Ley 113 de las Cortes de 1817 y 1818",
+    "Reglamento para la imposición y cobranza de la Contribución Urbana de 1943",
+    "Acuerdo Foral de 28 de diciembre de 1978",
+    "Acuerdo del Parlamento Foral de 8 de junio de 1981",
+    "Norma para la Exacción de la Contribución Territorial Urbana de 14 de junio de 1982",
+    "Ley Foral 12/1983, de 25 de febrero",
+    "Decreto Foral 216/1984, de 10 de octubre",
+    "Decreto Foral 54/1991, de 7 de febrero",
+    "Ley Foral 2/1995, de 10 de marzo",
+    "Ley Foral 3/1995, de 10 de marzo",
+    "Ley Orgánica 15/1999, de 13 de diciembre (Protección de Datos)",
+    "Ley Foral 7/2001, de 27 de marzo (Tasas y Precios Públicos)",
+    "Ley Foral 1/2002, de 7 de marzo (Infraestructuras Agrícolas)",
+    "Ley Foral 2/1995 de Hacienda Local de Navarra",
+    "Ley 33/2003 de Patrimonio de las Administraciones Públicas",
+    "Ley Foral 6/1990, de 2 de julio, de la Administración Local de Navarra",
+    "Real Decreto Legislativo 1/1996, de 4 de abril, por el que se aprueba el Texto Refundido de la Ley de Propiedad Intelectual",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Texto Refundido del Impuesto sobre Transmisiones Patrimoniales y Actos Jurídicos Documentados"
+  ],
+  "derogatons": [
+    "Normativa precedente sobre la distinción entre Contribución Territorial Rústica y Urbana",
+    "Sistemas de información inmobiliaria anteriores basados en las Leyes Forales de 1995",
+    "Ley Foral 3/1995, de 10 de marzo, del Registro Fiscal de la Riqueza Territorial de Navarra",
+    "Artículo 18 del Reglamento del Recurso de Reposición y de las impugnaciones económico-administrativas (inciso b)",
+    "Artículo 53 de la Ley Foral 9/1992"
+  ],
+  "main_obligations": "Los ciudadanos deben declarar cambios físicos en sus inmuebles en un plazo de 1 mes y los cambios jurídicos al día siguiente de la escritura. Asimismo, es obligatorio aportar la cédula parcelaria vigente en cualquier acto notarial.",
+  "effective_date": "2007-01-05",
+  "procedures": [
+    {
+      "name": "Modificación de datos por declaración del titular",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración",
+          "description": "El titular comunica al Ayuntamiento cambios físicos, económicos o jurídicos.",
+          "start_date": "Al día siguiente de la modificación (según tipo)",
+          "end_date": "Plazo de 1 mes",
+          "required_documentation": "Escrituras, sentencias, documentos privados o planos según el caso"
+        },
+        {
+          "step": 2,
+          "title": "Remisión al Registro",
+          "description": "El Ayuntamiento remite la información a la Hacienda Tributaria de Navarra.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Renovación colectiva de datos (Área municipal)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Resolución de Alcaldía",
+          "description": "Inicio del proceso de renovación de un área determinada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Periodo declaratorio",
+          "description": "Los afectados pueden aportar títulos de propiedad.",
+          "start_date": "Desde la publicación de la resolución",
+          "end_date": "1 mes",
+          "required_documentation": "Títulos de propiedad y documentación adicional"
+        },
+        {
+          "step": 3,
+          "title": "Elaboración de delimitación y valoración",
+          "description": "El Ayuntamiento realiza el trabajo técnico de nueva delimitación y caracterización.",
+          "start_date": "Tras el periodo declaratorio",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Exposición pública",
+          "description": "Anuncio en el BON y exposición en dependencias municipales para alegaciones.",
+          "start_date": "Tras finalizar la delimitación",
+          "end_date": "15 días + 15 días adicionales",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Resolución final",
+          "description": "Aprobación de la renovación por el Director del Servicio.",
+          "start_date": "Tras resolver alegaciones",
+          "end_date": "Máximo 12 meses desde el inicio (ampliable a 18)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Modificación de lindes y superficie (Solicitud de interesado)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud formal",
+          "description": "El interesado solicita el cambio aportando descripción gráfica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Descripción gráfica de los linderos y título de propiedad"
+        },
+        {
+          "step": 2,
+          "title": "Requerimiento de documentación",
+          "description": "El Ayuntamiento solicita títulos si no se han aportado.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Decisión de Alcaldía sobre la modificación.",
+          "start_date": null,
+          "end_date": "9 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Modificación de titularidad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de cambio de titular",
+          "description": "El interesado solicita la corrección de la titularidad con título jurídico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Título jurídico suficiente"
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Decisión sobre la titularidad.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de información del Registro o Catastro",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Formalización de la solicitud",
+          "description": "Presentación de escrito con información solicitada, causa, identificación y compromiso de no cesión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escrito de solicitud y acreditación de identidad"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de entrega inmediata",
+          "description": "Entrega de la información en el mismo momento de la solicitud si es posible.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Plazo para documentos complejos",
+          "description": "Plazo máximo para documentos que requieran elaboración específica.",
+          "start_date": null,
+          "end_date": "20 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Prórroga de plazo",
+          "description": "Ampliación motivada para solicitudes extensas o complejas.",
+          "start_date": "Desde la recepción",
+          "end_date": "20 días hábiles adicionales",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación",
+          "description": "Inicio de oficio del expediente por la autoridad competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Plazo máximo para dictar la resolución tras la adopción del acto de incoación.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

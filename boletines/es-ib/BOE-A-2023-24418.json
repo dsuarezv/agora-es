@@ -1,0 +1,90 @@
+{
+  "identifier": "BOE-A-2023-24418",
+  "title": "Decreto-ley 6/2023, de 2 de octubre, de medidas urgentes en materia de vivienda",
+  "visible_title": "Medidas urgentes en materia de vivienda",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "6/2023",
+  "publication_date": "2023-11-30",
+  "enactment_date": "2023-10-02",
+  "last_updated": "2024-05-09",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/dl/2023/10/02/6",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta norma busca frenar la crisis de vivienda en Baleares creando la figura de la 'Vivienda de Precio Limitado' (VPL), que permite aprovechar edificios existentes o aumentar la edificabilidad para ofrecer alquileres y ventas más asequibles. Introduce cambios urbanísticos para convertir locales en viviendas y permite nuevos modelos de convivencia como el coliving. Además, endurece el control sobre el alquiler turístico ilegal mediante la posibilidad de clausura temporal de la vivienda.",
+  "citizen_impact": "Los ciudadanos (especialmente jóvenes y familias) podrán acceder a viviendas con precios máximos controlados y destinados a su uso habitual. Se facilita la conversión de locales en viviendas y se crean nuevos modelos de alojamiento compartido. Sin embargo, para acceder a estas viviendas, los beneficiarios deben cumplir requisitos estrictos de residencia y no poseer otra vivienda.",
+  "professional_impact": "Promotores y constructores tienen nuevas oportunidades para rehabilitar edificios o aumentar alturas y densidades bajo condiciones de precio controlado. Los ayuntamientos mantienen su capacidad de decidir sobre la aplicación de estas medidas en sus municipios. Los propietarios de viviendas turísticas enfrentan un mayor riesgo de sanciones y clausuras si operan de forma ilegal.",
+  "keywords": [
+    "vivienda de precio limitado",
+    "alquiler asequible",
+    "rehabilitación urbana",
+    "cambio de uso",
+    "alojamiento turístico",
+    "Baleares",
+    "urbanismo"
+  ],
+  "key_points": [
+    "Creación de la Vivienda de Precio Limitado (VPL) con precios máximos de compra y alquiler vinculados a la vivienda protegida.",
+    "Las VPL tienen un límite de superficie de 90 m² útiles y deben ser la residencia habitual del usuario.",
+    "Permite la reconversión de locales comerciales en viviendas de forma temporal.",
+    "Facilita el aumento de la altura y densidad de edificaciones para crear más oferta.",
+    "Introduce el modelo de 'alojamiento con espacios comunes complementarios' (coliving/cohousing).",
+    "Posibilidad de clausura temporal de viviendas que realicen alquiler turístico ilegal.",
+    "Creación de un Registro autonómico de viviendas de precio limitado para controlar su uso y evitar fraudes.",
+    "Los ayuntamientos pueden decidir no aplicar estas medidas en sus territorios mediante acuerdo del Pleno."
+  ],
+  "legal_references": [
+    "Decreto-ley 3/2020",
+    "Ley 5/2018",
+    "Ley 12/2017",
+    "Ley 8/2012",
+    "Decreto 145/1997",
+    "Ley 6/2001",
+    "Ley 39/2015"
+  ],
+  "derogations": [
+    "Disposición adicional primera de la Ley 2/2020"
+  ],
+  "main_obligations": "Los beneficiarios de una VPL deben presentar una declaración responsable acreditando que es su vivienda habitual y que no poseen otra propiedad. El incumplimiento de las condiciones de uso o la falsedad en la declaración conlleva sanciones administrativas y posibles responsabilidades penales.",
+  "effective_date": "2023-10-03",
+  "procedures": [
+    {
+      "name": "Inscripción en el Registro de Viviendas de Precio Limitado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de declaración responsable",
+          "description": "El beneficiario comunica la adquisición o uso de la vivienda aportando la documentación necesaria.",
+          "start_date": "En el momento de la formalización del contrato",
+          "end_date": "30 días después de la formalización",
+          "required_documentation": "Identidad de las partes, superficie útil, precio, modalidad de uso y acreditación de residencia/no propiedad de otra vivienda."
+        },
+        {
+          "step": 2,
+          "title": "Inscripción registral",
+          "description": "La inscripción se produce desde el día de la presentación de la documentación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Obtención de Licencia de Primera Ocupación para VPL",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inscripción previa en el Registro",
+          "description": "Es requisito indispensable estar inscrito en el Registro de VPL para obtener la cédula.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

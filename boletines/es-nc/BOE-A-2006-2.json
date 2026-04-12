@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-2006-2",
+  "title": "Ley Foral 16/2005, de 5 de diciembre, de ordenación vitivinícola",
+  "visible_title": "Ley Foral de ordenación vitiwinícola",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "16/2005",
+  "publication_date": "2006-01-02",
+  "enactment_date": "2005-12-05",
+  "last_updated": "2005-12-14",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2005/12/05/16",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley organiza toda la actividad de la viña y el vino en Navarra, estableciendo un sistema de niveles de calidad para proteger el origen de los productos. Introduce la figura de los 'vinos de pago' y transforma los Consejos Reguladores en corporaciones de derecho público para darles mayor autonomía. Además, regula desde la plantación de viñedos hasta los controles de inspección y sanciones para garantizar la veracidad de lo que se etiqueta.",
+  "citizen_impact": "Garantiza al consumidor que los vinos etiquetados como 'Navarra', 'Calificada Rioja' o 'Vinos de Pago' cumplen con estándares de calidad y origen estrictamente controlados. Proporciona seguridad jurídica sobre la información nutricional y de origen que aparece en las etiquetas de vino.",
+  "professional_impact": "Los productores y bodegas deben cumplir con registros vitícolas, declaraciones de cosecha anuales (antes del 10 de diciembre) y mantener documentación por 4 años. Los Consejos Reguladores pasan a ser entidades de derecho público, lo que cambia su gestión administrativa y su relación con el Gobierno de Navarra.",
+  "keywords": [
+    "vitiwinicultura",
+    "Navarra",
+    "denominación de origen",
+    "vinos de pago",
+    "viticultura",
+    "control de calidad",
+    "sector vinícola"
+  ],
+  "key_points": [
+    "Creación de la figura de 'Vinos de Pago' como nivel de protección superior basado en microclimas específicos.",
+    "Transformación de los Consejos Reguladores en corporaciones de derecho público con autonomía propia.",
+    "Establecimiento de un escalonamiento de calidad: Vinos de mesa (Vino de la tierra) < Denominaciones de Origen < Vinos de Pago.",
+    "Obligatoriedad de presentar la declaración de cosecha antes del 10 de diciembre de cada año.",
+    "Creación de un Registro Vitícola público para controlar plantaciones y derechos de replantación.",
+    "Prohibición de aumentar artificialmente la graduación alcohólica mediante azúcares ajenos a la uva.",
+    "Facultad de los inspectores para realizar visitas, tomar muestras e incluso inmovilizar mercancías de forma cautelar.",
+    "Imposición de multas coercitivas de hasta 3.000 euros por hectárea en caso de incumplimiento de arranques de viñedo."
+  ],
+  "legal_references": [
+    "Ley 25/1970 (Estatuto de la Viña, del Vino y de los Alcoholes)",
+    "Constitución Española de 1978",
+    "Ley Orgánica 13/1982 (LORAFNA)",
+    "Ley 24/2003, de 10 de julio, de la Viña y del Vino",
+    "Reglamento (CE) 1282/2001"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a esta Ley Foral"
+  ],
+  "main_obligations": "Los productores deben declarar la cosecha anualmente antes del 10 de diciembre y conservar la documentación de sus transacciones durante al menos 4 años. Los operadores deben permitir las inspecciones, la toma de muestras y el acceso a instalaciones y registros contables.",
+  "effective_date": "2006-01-03",
+  "procedures": [
+    {
+      "name": "Reconocimiento de niveles de protección (Vino de la tierra o Vinos de Pago)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de reconocimiento",
+          "descrption": "Presentación de solicitud ante el Departamento de Agricultura, Ganadería y Alimentación incluyendo estudios técnicos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudio de justificación de nombre, delimitación geográfica, variedades autorizadas, técnicas de cultivo, métodos de elaboración, estudio de mercado y sistema de trazabilidad."
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "descrption": "El expediente se somete a consulta pública para posibles alegaciones.",
+          "start_date": null,
+          "end_date": "1 mes"
+        },
+        {
+          "step": 3,
+          "title": "Informe técnico",
+          "descrption": "Emisión de informe por la Estación de Viticultura y Enología de Navarra.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "descrption": "Decisión final del Consejero de Agricultura, Ganadería y Alimentación.",
+          "start_date": null,
+          "end_date": "Si no hay resolución en 6 meses, se entiende desestimada"
+        }
+      ]
+    },
+    {
+      "name": "Declaración de cosecha",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de declaración",
+          "descrption": "Obligación de declarar la producción de uvas ante el órgano competente.",
+          "start_date": null,
+          "end_date": "10 de diciembre de cada año",
+          "required_documentation": "Modelos de suministro oficial"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

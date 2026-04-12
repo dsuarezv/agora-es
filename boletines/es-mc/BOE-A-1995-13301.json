@@ -1,0 +1,154 @@
+{
+  "identifier": "BOE-A-1995-13301",
+  "title": "Ley 7/1995, de 21 de abril, de la fauna silvestre, caza y pesca fluvial",
+  "visible_title": "Ley de fauna silvestre, caza y pesca fluvial",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "7/1995",
+  "publication_date": "1995-06-02",
+  "enactment_date": "1995-04-21",
+  "last_updated": "2023-04-10",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/1995/04/21/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula la protección de la biodiversidad y la actividad de caza y pesca en la Región de Murcia bajo criterios de sostenibilidad. Establece un control estricto sobre el uso de especies amenazadas y la gestión de los terrenos de caza para evitar la sobreexplotación. Introduce medidas de seguridad obligatorias para los cazadores y regula el comercio de pieles y el transporte de animales. En definitiva, busca equilibrar el aprovechamiento de los recursos naturales con la conservación del ecosistema murciano.",
+  "citizen_impact": "Los ciudadanos que practiquen la caza o la pesca deben contratar obligatoriamente un seguro de responsabilidad civil y cumplir con normativas de seguridad (no cazar en vías públicas o núcleos urbanos). Los propietarios de perros de caza deben asegurar la identificación, vacunación y matriculación de sus animales, siendo responsables de los daños que estos causen a la fauna. Además, se establece un régimen de indemnizaciones por daños causados por fauna silvestre en zonas protegidas.",
+  "professional_impact": "Los propietarios de cotos privados deben cumplir con superficies mínimas (300-600 ha) y planes de ordenación, teniendo prohibido el subarriendo o cesión de los mismos. Los taxidermistas y peleteros deben inscribirse en un registro oficial para comercializar pieles. Los transportistas de caza viva deben gestionar guías veterinarias oficiales para certificar el origen y estado sanitario de los animales.",
+  "keywords": [
+    "fauna silvestre",
+    "caza",
+    "pesca fluvial",
+    "biodiversidad",
+    "especies amenazadas",
+    "seguridad en la caza",
+    "gestión de cotos"
+  ],
+  "key_points": [
+    "Creación del Catálogo de Especies Amenazadas de la Región de Murcia para obligar a planes de recuperación.",
+    "Prohibición absoluta de subarrendar o ceder cotos de caza o pesca, ya sea de forma gratuita u onerosa.",
+    "Obligatoriedad de seguro de responsabilidad civil para todo cazador que utilice armas.",
+    "Prohibición de caza con armas en vías públicas, carreteras, vías férreas, cauces de ríos y núcleos urbanos.",
+    "Los perros de caza deben estar identificados con nombre y dirección del dueño, vacunados y matriculados.",
+    "El transporte de caza viva requiere obligatoriamente una guía veterinaria oficial.",
+    "Prohibición de métodos de captura masivos o no selectivos como trampas, redes o explosivos.",
+    "Obligación de los propietarios de cotos de presentar controles anuales de presas.",
+    "Creación de un Registro de Taxidermistas y Peleteros para controlar el comercio de pieles.",
+    "Los vallados rurales deben permitir la libre circulación de la fauna no cinegética.",
+    "Establecimiento de un régimen de indemnizaciones por daños causados por fauna silvestre en zonas protegidas.",
+    "Obligación de auxiliar a animales amenazados que se encuentren heridos."
+  ],
+  "legal_references": [
+    "Ley 7/2003, de 12 de noviembre",
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Ley 4/1989, de 27 de marzo",
+    "Ley Orgánica 4/1994, de 24 de marzo",
+    "Ley 4/1992, de Ordenación y Protección del Territorio de la Región de Murcia",
+    "Ley 1/1970, de 4 de abril, de Caza",
+    "Ley 4/1989, de 24 de mayo, de Conservación de los Espacios Naturales y de la Flora y Fauna Silvestre"
+  ],
+  "derogatons": [
+    "Disposiciones relativas a la caza y pesca fluvial de los títulos I, II, IV y V según la Ley 7/2003",
+    "Secciones 5.ª (Art. 75), 6.ª (Art. 76), Capítulo IV (Art. 77, 78, 87) y Anexo III"
+  ],
+  "main_obligations": "Los cazadores deben contratar un seguro de responsabilidad civil y cumplir con la encuesta cinegética/piscícola anual. Los propietarios de cotos deben gestionar planes de ordenación y controles de presas, mientras que los dueños de perros de caza deben garantizar su identificación y sanidad.",
+  "effective_date": "1995-06-02",
+  "procedures": [
+    {
+      "name": "Obtención de licencia de caza",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de aptitud",
+          "description": "Superar el examen teórico-práctico de conocimientos y aptitud.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado de aptitud"
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de licencia",
+          "description": "Solicitar la licencia nominal e intransferible ante la Consejería de Medio Ambiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación de identidad y permisos de armas si procede"
+        }
+      ]
+    },
+    {
+      "name": "Autorización administrativa para actividades con especies protegidas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Presentación de la solicitud ante la Consejería de Medio Ambiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "La Administración debe responder en un plazo máximo de 3 meses.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Presentación de memoria",
+          "description": "Tras finalizar la actividad, se debe entregar una memoria con los resultados y ejemplares utilizados.",
+          "start_date": "Al finalizar la actividad",
+          "end_date": "Plazo indicado por la Consejería",
+          "required_documentation": "Memoria de resultados"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del expediente",
+          "description": "Inicio del procedimiento tras la detección de una infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Copia de la denuncia (derecho del denunciado)"
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "description": "Dictamen de la sanción (leve, grave o muy grave) y la autoridad competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Pago con reducción",
+          "description": "Reducción del 30% de la multa si se paga en 15 días hábiles, se acepta la sanción y se renuncia a impugnar.",
+          "start_date": "15 días hábiles tras la notificación",
+          "end_date": null,
+          "required_documentation": "Escrito de conformidad y renuncia a la impugnación"
+        }
+      ]
+    },
+    {
+      "name": "Obtención de Licencia de Caza (Examen)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Superación del examen acreditaivo",
+          "description": "Obligatoriedad de aprobar examen de aptitud y conocimientos.",
+          "start_date": "01/01 del año siguiente a la publicación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

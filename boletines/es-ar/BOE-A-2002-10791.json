@@ -1,0 +1,85 @@
+{
+  "identifier": "BOE-A-2002-10791",
+  "title": "Ley 8/2002, de 3 de mayo, de Creación de la Comarca del Maestrazgo",
+  "visible_title": "Creación de la Comarca del Maestrazgo",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "8/2002",
+  "publication_date": "2002-06-05",
+  "enactment_date": "2002-05-03",
+  "last_updated": "2002-05-08",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2002/05/03/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece oficialmente la Comarca del Maestrazgo como una nueva entidad local en Aragón, integrada por 15 municipios. Su objetivo es permitir una gestión conjunta y eficiente de servicios públicos que los municipios pequeños no podrían asumir por separado. La norma define su capitalidad en Cantaviéja, su estructura de gobierno, sus competencias y su régimen financiero.",
+  "citizen_impact": "Los ciudadanos de los municipios integrados verán una mejora en la gestión de servicios como recogida de residuos, acción social, turismo y protección civil. Al centralizar estas funciones, se busca una mayor calidad y eficiencia en los servicios públicos locales.",
+  "professional_impact": "Los ayuntamientos de la zona pasan de gestionar ciertos servicios de forma aislada a colaborar con la Comarca, lo que implica cambios en la gestión de personal y presupuestos. Los funcionarios locales podrán contar con un Servicio de Cooperación y Asistencia para asesoramiento técnico y jurídico.",
+  "keywords": [
+    "Comarca del Maestrazgo",
+    "Aragón",
+    "Entidad Local",
+    "Administración Local",
+    "Gestión de servicios",
+    "Municipios"
+  ],
+  "key_points": [
+    "Creación de la Comarca del Maestrazgo con sede en Cantaviéja.",
+    "Integración de 15 municipios específicos en la nueva entidad.",
+    "Atribución de competencias en urbanismo, transporte, medio ambiente, sanidad, acción social y turismo.",
+    "Creación de un Consejo Comarca con 19 miembros elegidos por los concejales.",
+    "Establecimiento de un Servicio de Cooperación y Asistencia para asesorar a los ayuntamientos.",
+    "Posibilidad de que la Comarca asuma funciones que antes realizaban las mancomunidades.",
+    "Obligatoriedad de los municipios de realizar aportaciones económicas para financiar la Comarca."
+  ],
+  "legal_references": [
+    "Ley 10/1993, de 4 de noviembre, de Comarcalización de Aragón",
+    "Ley 8/1996, de 2 de diciembre, de Delimitación Comarcal de Aragón",
+    "Ley 7/1999, de 9 de abril, de Administración Local de Aragón",
+    "Estatuto de Autonomía de Aragón"
+  ],
+  "derogations": [
+    "Las mancomunidades cuyos fines coincidan con los de la nueva Comarca serán sucedidas por esta."
+  ],
+  "main_obligations": "Los municipios integrantes tienen la obligación de realizar aportaciones económicas anuales al presupuesto comarcal, calculadas según su población y uso de servicios. En caso de impago superior a un trimestre, la Comarca puede solicitar la retención de transferencias autonómicas o provinciales del municipio deudor.",
+  "effective_date": "2002-06-06",
+  "procedures": [
+    {
+      "name": "Constitución del Consejo Comarca",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elección de Consejeros",
+          "description": "La Junta Electoral convoca a los concejales para designar a los miembros del Consejo Comarcal.",
+          "start_date": "dentro de 1 mes tras la entrada en vigor de la ley",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Sesión Constitutiva",
+          "description": "Celebración de la sesión pública para constituir formalmente el Consejo en la capital.",
+          "start_date": "15 días hábiles después de la proclamación de electos",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Transferencia de competencias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Creación de Comisión Paritaria",
+          "description": "Constitución de una comisión entre la Comunidad Autónoma y la Comarca para planificar traspasos.",
+          "start_date": "dentro de 1 mes tras la constitución del Consejo",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

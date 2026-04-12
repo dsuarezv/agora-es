@@ -1,0 +1,821 @@
+{
+  "identifier": "DOGV-r-2021-90283",
+  "title": "Decreto Legislativo 1/2021, de 18 de junio, del Consell de aprobación del texto refundido de la Ley de ordenación del territorio, urbanismo y paisaje",
+  "visible_title": "Ley de ordenación del territorio, urbanismo y paisaje de la Comunidad Valenciana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "1/2021",
+  "publication_date": "2021-07-16",
+  "enactment_date": "2021-06-18",
+  "last_updated": "2025-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=DOGV-r-2021-90283",
+  "official_journal": "DOGV",
+  "journal_issue": null,
+  "summary": "Esta norma unifica toda la normativa de urbanismo y territorio de la Comunidad Valenciana en un solo texto para modernizar la gestión del suelo. Introduce el paisaje y la infraestructura verde como ejes centrales de la planificación, priorizando la rehabilitación de viviendas frente a la expansión urbana. Establece mecanismos para acelerar grandes inversiones estratégicas y endurece el control sobre el uso de suelos protegidos y forestales. Además, busca mejorar la calidad de vida mediante estándares de proximidad de servicios y una planificación con perspectiva de género.",
+  "citizen_impact": "Los ciudadanos verán cambios en la calidad de sus barrios: se exige que los servicios básicos (escuelas, salud, comercios) estén a menos de 10 minutos a pie. Los propietarios de viviendas en zonas forestales ahora tienen obligaciones estrictas de mantenimiento para prevenir incendios. También se refuerza el derecho a la vivienda protegida (mínimo 30% en nuevos suelos) y se establecen reglas claras para la rehabilitación de edificios antiguos y la gestión de la ruina.",
+  "professional_impact": "Empresas y promotores enfrentan nuevas exigencias de sostenibilidad, como la obligación de incluir árboles y zonas verdes específicas en nuevos desarrollos. Los grandes inversores (>50M€) pueden acceder a la vía rápida de los Proyectos de Interés Autonómico (PIA) con plazos administrativos reducidos a la mitad. Los agentes urbanizadores asumen mayores riesgos financieros y responsabilidades de ejecución, mientras que los suministradores de servicios (luz, agua) deben cumplir con la obligación de cortar suministros ante ilegalidades urbanísticas.",
+  "keywords": [
+    "urbanismo",
+    "territorio",
+    "paisaje",
+    "vivienda protegida",
+    "infraestructura verde",
+    "rehabilitación",
+    "suelo no urbanizable",
+    "incendios forestales"
+  ],
+  "key_points": [
+    "Prioridad absoluta a la rehabilitación de viviendas existentes y al uso de viviendas vacías para frenar la dispersión urbana.",
+    "Creación de los Proyectos de Interés Autonómico (PIA) para inversiones de más de 50M€ con trámites acelerados y protección contra suspensiones municipales.",
+    "Obligatoriedad de integrar el paisaje y la infraestructura verde en toda la planificación urbana y territorial.",
+    "Prohibición de urbanizar terrenos forestales que hayan sufrido incendios durante los 30 años siguientes a su extinción.",
+    "Nuevos estándares de calidad urbana: servicios básicos a menos de 10 minutos a pie y presencia obligatoria de carriles bici y aceras anchas.",
+    "Reserva de suelo para vivienda protegida de al menos el 30% en suelos urbanizables.",
+    "Inspecciones técnicas obligatorias cada 10 años para edificios residenciales con más de 50 años de antigüedad.",
+    "Endurecimiento de sanciones: multas de hasta el 200% del valor de la obra por construcciones ilegales en zonas protegidas.",
+    "Obligación de las empresas de suministros de cortar servicios en 10 días tras orden de suspensión por ilegalidad.",
+    "Nuevas reglas para la regularización de actividades en suelo no urbanizable con plazo límite hasta el 31 de diciembre de 2027.",
+    "Implementación de la perspectiva de género en la planificación urbana para atender necesidades de cuidados e infancia.",
+    "Responsabilidad solidaria de propietarios en zonas de interfaz urbano-forestal para la prevención de incendios."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de la Comunidad Valenciana",
+    "Ley 9/2019, de 23 de diciembre, de la Generalitat, de medidas fiscales, de gestión administrativa y financiera y de organización de la Generalitat",
+    "Ley 5/2014, de 25 de julio, de la Generalitat, de ordenación del territorio, urbanismo y paisaje",
+    "Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas",
+    "Real Decreto 840/2015, de 21 de septiembre",
+    "Ley 6/2014, de la Generalitat, de prevención, calidad y control ambiental de actividades en la Comunidad Valenciana",
+    "Ley 21/2013 de evaluación ambiental",
+    "Ley 29/1998 de la jurisdicción contencioso-administrativa",
+    "Directiva 2001/42/CE",
+    "Ley 8/2012, de la Generalitat, de organismos de certificación administrativa",
+    "Ley de Expropiación Forzosa",
+    "Ley de Suelo y Rehabilitación Urbana (RD Legislativo 7/2015)",
+    "Ley 6/1994 (Reguladora de la Actividad Urbanística)",
+    "Ley 7/1985 (Bases del Régimen Local)",
+    "Ley 17/2015 del Sistema Nacional de Protección Civil",
+    "Ley 19/1975, de 2 de mayo, de reforma de la Ley sobre el régimen del suelo y ordenación urbana",
+    "Ley de Protección y Ordenación de la Costa Valenciana",
+    "Ley 3/1993, de 25 de junio, Forestal de la Comunidad Valenciana",
+    "Ley 1/2015, de 22 de febrero, de la Generalitat, de Hacienda Pública, del Sector Público Instrumental y de Subvenciones",
+    "Ley 3/2004, de 30 de junio, de ordenación y fomento de la calidad de la edificación",
+    "Ley 8/2004 de la Vivienda de la Comunidad Valenciana",
+    "Ley 4/1992 de Ordenación del Territorio y Protección del Paisaje",
+    "Ley 4/2004 de Ordenación del Territorio y Protección del Paisaje",
+    "Ley 10/2004 del Suelo No Urbanizable",
+    "Ley 16/2005 Urbanística Valenciana",
+    "Ley 9/2006 Reguladora de los Campos de Golf",
+    "Ley 1/2012 de medidas urgentes de impulso a la implantación de actuaciones territoriales estratégicas",
+    "Real Decreto 893/2013",
+    "Ley 13/2010 de la Generalitat (Protección Civil)",
+    "Decreto 62/2011 de la Generalitat (Patrimonio Cultural Valenciano)",
+    "Norma UNE 23033",
+    "Real Decreto 2267/2004"
+  ],
+  "derogations": [
+    "Ley 5/2014, de 25 de julio, de ordenación del territorio, urbanismo y paisaje",
+    "Artículos 114 al 120 de la Ley 10/2015",
+    "Artículos 95 al 99 de la Ley 13/2016",
+    "Artículo 42 de la Ley 21/2017",
+    "Artículo 84 de la Ley 27/2018",
+    "Ley 1/2019, de 5 de febrero",
+    "Disposición final cuarta de la Ley 3/2019",
+    "Artículos 95, 96, 104 y 105 de la Ley 9/2019",
+    "Artículos 97 y 98 de la Ley 3/2020",
+    "Disposición final cuarta del Decreto ley 6/2021",
+    "Disposición adicional tercera de la Ley 4/1992",
+    "Ley 4/2004 de Ordenación del Territorio y Protección del Paisaje",
+    "Ley 10/2004 del Suelo No Urbanizable",
+    "Ley 16/2005 Urbanística Valenciana",
+    "Ley 9/2006 Reguladora de los Campos de Golf",
+    "Ley 1/2012 de medidas urgentes de impulso a la implantación de actuaciones territoriales estratégicas",
+    "Reglamento de Ordenación y Gestión Territorial y Urbanística (Decreto 67/2006)",
+    "Reglamento de Paisaje de la Comunidad Valenciana (Decreto 120/2006)"
+  ],
+  "main_obligations": "Los propietarios de edificios en zonas forestales deben realizar el desbroce de la banda de protección cada 2 años y el mantenimiento total cada 4 años. Las industrias en suelo no urbanizable deben solicitar su regularización antes del 31 de diciembre de 2027. Los nuevos desarrollos deben garantizar un mínimo de 35 m² de dotaciones públicas por cada 100 m² edificables en suelo residencial.",
+  "effective_date": "2021-07-17",
+  "procedures": [
+    {
+      "name": "Adaptación del planeamiento municipal a planes de acción territorial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración de memoria justificativa",
+          "descrption": "El ayuntamiento redacta una memoria justificando la adaptación al plan de acción territorial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria justificativa con usos, intensidad, ocupación de suelo y parcela"
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "descrption": "Sometimiento del documento a consulta pública.",
+          "start_date": null,
+          "end_date": "20 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación definitiva",
+          "descrption": "El Pleno del Ayuntamiento aprueba el documento definitivo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento definitivo de memoria justificativa"
+        }
+      ]
+    },
+    {
+      "name": "Evaluación ambiental y territorial estratégica ordinaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inicio",
+          "description": "El órgano promotor presenta la solicitud con un borrador y documento inicial estratégico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Borrador del plan, documento inicial estratégico, diagnóstico ambiental y efectos previsibles."
+        },
+        {
+          "step": 2,
+          "title": "Consulta a administraciones y público",
+          "description": "Se consulta a las administraciones afectadas y al público interesado.",
+          "start_date": "30 días hábiles",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Documento de alcance o informe ambiental",
+          "description": "El órgano ambiental determina el nivel de detalle del estudio o si el procedimiento es simplificado.",
+          "start_date": "4 meses desde la solicitud",
+          "end_date": "Prorrogable 2 meses más",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Versión inicial e información pública",
+          "description": "El promotor elabora la versión inicial y se somete a participación pública.",
+          "start_date": "45 días hábiles",
+          "end_date": null,
+          "required_documentation": "Versión inicial del plan y estudio ambiental y territorial estratégico."
+        },
+        {
+          "step": 5,
+          "title": "Declaración ambiental y territorial estratégica",
+          "description": "El órgano ambiental emite su análisis técnico y declaración final.",
+          "start_date": "3 meses desde la documentación completa",
+          "end_date": "Prorrogable 3 meses más",
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Aprobación definitiva",
+          "description": "El órgano competente aprueba el plan tras integrar las determinaciones ambientales.",
+          "start_date": "3 meses desde la recepción de documentación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Evaluación ambiental simplificada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio y consulta",
+          "description": "Procedimiento reducido para planes con efectos ambientales no significativos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Motivación de la aplicación del procedimiento simplificado y medidas de mitigación."
+        }
+      ]
+    },
+    {
+      "name": "Declaración de Proyecto de Interés Autonómico (PIA)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y admisión",
+          "description": "Presentación de memoria con justificación estratégica, técnica y económica ante la Conselleria.",
+          "start_date": "Desde la presentación",
+          "end_date": "15 días para la admisión",
+          "required_documentation": "Memoria técnica, económica, ambiental y de viabilidad"
+        },
+        {
+          "step": 2,
+          "title": "Informes y consulta pública",
+          "description": "Recabo de informes de consellerías competentes y realización de información pública.",
+          "start_date": "Tras la admisión",
+          "end_date": "1 mes de información pública",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Intervención administrativa ambiental",
+          "description": "Tramitación de la evaluación ambiental y declaraciones de impacto.",
+          "start_date": "Tras la admisión",
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Declaración del Consell",
+          "description": "Decisión final del Consell sobre la declaración de interés autonómico.",
+          "start_date": "Tras la fase ambiental",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Ejecución y licencias",
+          "description": "Solicitud de licencias urbanísticas y ambientales para inicio de obras.",
+          "start_date": "Tras la publicación de la declaración",
+          "end_date": "1 mes para licencias urbanísticas",
+          "required_documentation": "Certificado de conformidad de una ECUV"
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de Planes de Reforma Interior (Rehabilitación/Regeneración)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Delimitación del ámbito",
+          "description": "El ayuntamiento delimita el área y somete a información pública.",
+          "start_date": "Desde la delimitación",
+          "end_date": "1 mes de exposición pública",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aprobación del instrumento",
+          "description": "Aprobación del plan que establece la ordenación y la gestión.",
+          "start_date": "Tras la exposición",
+          "end_date": null,
+          "required_documentation": "Memoria de viabilidad y estudio ambiental"
+        }
+      ]
+    },
+    {
+      "name": "Reparcelación Forzosa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Anuncio de información pública",
+          "description": "Publicación en el DOGV y notificación individual a los propietarios.",
+          "start_date": "1 mes desde el acuerdo de la administración",
+          "end_date": "1 mes de plazo de exposición",
+          "required_documentation": "Certificación del Registro de la Propiedad"
+        },
+        {
+          "step": 2,
+          "title": "Audiencia de titulares",
+          "description": "Plazo para que titulares no incluidos o afectados por modificaciones presenten alegaciones.",
+          "start_date": "Tras la información pública",
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación del proyecto",
+          "description": "Resolución motivada del Ayuntamiento.",
+          "start_date": "Tras la información pública",
+          "end_date": "6 meses desde la publicación del anuncio",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Exprópiación Rogada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Anuncio de propósito de iniciar expediente",
+          "description": "El propietario comunica a la administración su intención de iniciar el justiprecio.",
+          "start_date": "Tras 5 años de vigencia del plan sin ejecución",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Tramitación de justiprecio",
+          "description": "La administración debe ejecutar el proceso por ministerio de la ley.",
+          "start_date": "Tras el anuncio",
+          "end_date": "2 años tras el anuncio",
+          "required_documentation": "Hojas de apreciación"
+        }
+      ]
+    },
+    {
+      "name": "Ocupación Directa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de ocupación y oferta",
+          "description": "La administración notifica la ocupación y los aprovechamientos correspondientes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Contraoferta del propietario",
+          "description": "Plazo para que el propietario proponga una compensación económica o integración distinta.",
+          "start_date": "Desde la notificación",
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Selección de la alternativa técnica y designación del agente urbanizador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciativa y solicitud",
+          "description": "Presentación de la propuesta con objetivos, alcance y efectos ambientales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento de solicitud con características esenciales, alcance, desarrollo y efectos ambientales."
+        },
+        {
+          "step": 2,
+          "title": "Admisión a trámite",
+          "description": "La alcaldía decide si admite la iniciativa.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación de bases de programación",
+          "description": "El ayuntamiento aprueba las reglas para contratar al urbanizador.",
+          "start_date": "1 mes desde la admisión",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Convocatoria de alternativas técnicas",
+          "description": "Publicación en el DOGV y la Unión Europea para recibir propuestas técnicas.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Elección de la alternativa técnica",
+          "description": "Selección de la mejor propuesta tras información pública y evaluación ambiental.",
+          "start_date": null,
+          "end_date": "6 meses desde el fin del plazo de ofertas",
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Designación del agente urbanizador",
+          "description": "Licitación de la propuesta jurídico-económica para ejecutar el programa.",
+          "start_date": null,
+          "end_date": "52 días",
+          "required_documentation": "Proposición jurídico-económica en plica cerrada."
+        },
+        {
+          "step": 7,
+          "title": "Nombramiento y convenio",
+          "description": "Designación definitiva y firma del convenio de programación.",
+          "start_date": null,
+          "end_date": "10 días tras la designación provisional",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adhesión de propietarios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de emplazamiento",
+          "description": "La administración comunica a los propietarios las condiciones económicas y urbanísticas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Manifestación de adhesión",
+          "description": "El propietario decide si participa (en suelo o dinero) o no.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": "Documento público ante secretario municipal o notario, título de propiedad y garantías."
+        }
+      ]
+    },
+    {
+      "name": "Recepción de obras de urbanización",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Ofrecimiento formal",
+          "description": "El agente urbanizador ofrece las obras a la administración.",
+          "start_date": "Día del ofrecimiento",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de resolución",
+          "description": "La administración debe emitir acto expreso de recepción.",
+          "start_date": "Desde el ofrecimiento",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de incumplimiento del deber de edificar/rehabilitar",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Orden individualizada",
+          "description": "El ayuntamiento dicta la orden de edificación o rehabilitación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Se somete la orden a exposición pública.",
+          "start_date": "Tras la orden",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Plazo de alegaciones/compromiso",
+          "description": "El propietario puede alegar o comprometerse a solicitar licencia con fianza.",
+          "start_date": "Tras la información pública",
+          "end_date": "2 meses",
+          "required_documentation": "Proyecto básico y fianza del 5% del coste de obras"
+        },
+        {
+          "step": 4,
+          "title": "Resolución final",
+          "description": "Se admite el compromiso o se declara el incumplimiento para iniciar sustitución/venta/expropiación.",
+          "start_date": "Tras el plazo de alegaciones",
+          "end_date": "1 año desde la orden inicial",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Concurso de sustitución forzosa (Programa de actuación aislada)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Fase 1: Alternativas técnicas",
+          "description": "Presentación de propuestas técnicas en plica abierta.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Exposición pública de alternativas",
+          "description": "Las propuestas técnicas se hacen públicas.",
+          "start_date": "Tras la fase 1",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Fase 2: Propuestas económicas",
+          "description": "Presentación de propuestas de convenio y viabilidad en plica cerrada.",
+          "start_date": "Tras la exposición",
+          "end_date": "2 meses",
+          "required_documentation": "Propuesta de convenio, propuesta jurídico-económica, estudio de viabilidad y sostenibilidad"
+        },
+        {
+          "step": 4,
+          "title": "Adjudicación",
+          "description": "El ayuntamiento adjudica el programa a la mejor propuesta.",
+          "start_date": "Tras la apertura de plicas",
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de situación legal de ruina",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación",
+          "description": "El ayuntamiento inicia el proceso de oficio o por denuncia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificación registral"
+        },
+        {
+          "step": 2,
+          "title": "Citación",
+          "description": "Se cita a ocupantes legítimos y titulares de derechos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Dictamen de la alcaldía tras audiencia de interesados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de interés comunitario",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud",
+          "description": "Presentación ante la consejería con memoria informativa y estudios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria informativa, planos y estudio de integración paisajística"
+        },
+        {
+          "step": 2,
+          "title": "Admisión a trámite",
+          "description": "Plazo para admitir la solicitud y convocar información pública.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Información pública",
+          "description": "Periodo de consulta pública.",
+          "start_date": null,
+          "end_date": "20 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución definitiva",
+          "description": "Resolución de la consejería.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Minimización de impacto territorial (Vivienda aislada)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración de situación individualizada",
+          "description": "El ayuntamiento declara la situación de la vivienda.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite imposibilidad de incluirse en plan especial"
+        },
+        {
+          "step": 2,
+          "title": "Licencia de minimización",
+          "description": "Obtención de licencia tras presentar proyectos técnicos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudio de integración paisajística, análisis ambiental y proyecto básico"
+        },
+        {
+          "step": 3,
+          "title": "Licencia de ocupación",
+          "description": "Solicitud tras finalizar las obras de minimización.",
+          "start_date": "Máximo 4 años desde la licencia de minimización",
+          "end_date": null,
+          "required_documentation": "Certificado de finalización de obras y documentos técnicos"
+        }
+      ]
+    },
+    {
+      "name": "Concesión de Licencia Urbanística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "El interesado presenta solicitud acompañada de proyecto técnico o certificado de una ECUV.",
+          "start_date": "Fecha de presentación",
+          "end_date": null,
+          "required_documentation": "Proyecto técnico, informes sectoriales y/o certificado de conformidad de ECUV."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y resolución",
+          "description": "El ayuntamiento debe resolver según el tipo de obra.",
+          "start_date": "Desde la presentación",
+          "end_date": "1 mes (parcelación), 2 meses (obra mayor/derribo), 3 meses (intervención en edificios protegidos)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración Responsable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación y acreditación",
+          "description": "Se presenta la declaración con la documentación técnica y de identidad.",
+          "start_date": "Fecha de presentación",
+          "end_date": null,
+          "required_documentation": "Identidad de promotores, descripción gráfica/escrita, proyecto técnico (si procede) e informe de cumplimiento."
+        },
+        {
+          "step": 2,
+          "title": "Inicio inmediato",
+          "description": "La obra puede comenzar inmediatamente tras la presentación.",
+          "start_date": "Tras la presentación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Restauración de la Legalidad Urbanística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requerimiento de legalización",
+          "description": "La administración ordena subsanar la ilegalidad o solicitar licencia.",
+          "start_date": "Tras detección de infracción",
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Instrucción del expediente",
+          "description": "Si no se legaliza, se inicia el procedimiento de restauración.",
+          "start_date": "Tras el plazo de 2 meses",
+          "end_date": "1 año",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de medidas",
+          "description": "Se ordena la demolición, reconstrucción o medidas de restauración.",
+          "start_date": "Tras la instrucción",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Implementación de Proyectos Habitacionales Locales (PHL)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación del proyecto",
+          "description": "El Pleno municipal aprueba el PHL por mayoría absoluta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de edificación, proyecto de obra ordinaria y estudio de integración en el entorno."
+        },
+        {
+          "step": 2,
+          "title": "Modificación de planeamiento",
+          "description": "El ayuntamiento debe iniciar la modificación para sustituir el equipamiento ocupado.",
+          "start_date": "6 meses tras la aprobación del PHL",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Restablecimiento del equilibrio dotacional",
+          "description": "Plazo para equilibrar las dotaciones públicas y el aprovechamiento lucrativo.",
+          "start_date": null,
+          "end_date": "3 años tras la aprobación del PHL",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Delimitación de zonas de riesgo de incendio forestal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración de cartografía",
+          "description": "Los ayuntamientos deben identificar y delimitar cartográficamente las zonas de riesgo.",
+          "start_date": "Desde la entrada en vigor de la norma",
+          "end_date": "2 años",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Cumplimiento de obligaciones de prevención",
+          "description": "Los sujetos obligados deben ejecutar las medidas de limpieza y mantenimiento.",
+          "start_date": "6 meses tras la aprobación municipal de la cartografía",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Regularización de actividades industriales y terciarias en suelo no urbanizable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de Declaración de Interés Comunitario (DIC)",
+          "descrption": "Presentación de la solicitud de regularización ante la administración.",
+          "start_date": "Hasta el 31 de diciembre de 2027",
+          "end_date": null,
+          "required_documentation": "Documentación necesaria para acreditar la actividad y cumplimiento de condiciones"
+        },
+        {
+          "step": 2,
+          "title": "Obtención de autorización ambiental",
+          "descrption": "Plazo para obtener la autorización ambiental tras la DIC.",
+          "start_date": "Desde la obtención de la DIC",
+          "end_date": "3 años",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Regularización de instalaciones ganaderas avícolas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "descrption": "Entrega de solicitud ante el ayuntamiento con proyecto básico.",
+          "start_date": "1 de enero de 2021",
+          "end_date": "3 meses después (abril 2021)",
+          "required_documentation": "Proyecto básico con medidas correctoras ambientales, paisajísticas y de bienestar animal"
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "descrption": "Exposición del expediente al público.",
+          "start_date": "Tras la solicitud",
+          "end_date": "20 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Elevación a órgano ambiental",
+          "descrption": "Trámite ante el órgano ambiental y territorial estratégico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Planificación de actuaciones de rehabilitación, regeneración y renovación urbana",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración de memoria de viabilidad económica",
+          "descrption": "Realizar análisis comparado de valores de suelo mediante método residual estático con estudio de mercado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudio de mercado actualizado y acreditado por sociedad de tasación homologada o perito especializado."
+        },
+        {
+          "step": 2,
+          "title": "Identificación de inmuebles y propietarios",
+          "descrption": "Identificar todos los inmuebles, propietarios y ocupantes legales dentro del ámbito de actuación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Estudio comparado de parámetros",
+          "descrption": "Comparar los parámetros urbanísticos actuales frente a los propuestos (edificabilidad, usos, etc.).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inscripción en el Registro de Instrumentos de Planeamiento Urbanístico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Remisión de documentación al Registro",
+          "descrption": "El órgano aprobador envía el certificado de aprobación y el documento técnico completo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado de acuerdo de aprobación definitiva y documento técnico en soporte electrónico/informático."
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 11
+}

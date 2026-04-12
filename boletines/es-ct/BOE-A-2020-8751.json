@@ -1,0 +1,103 @@
+{
+  "identifier": "BOE-A-2020-8751",
+  "title": "Decreto-ley 21/2020, de 2 de junio, de medidas urgentes de carácter económico, cultural y social",
+  "visible_title": "Medidas urgentes de carácter económico, cultural y social",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "21/2020",
+  "publication_date": "2020-07-30",
+  "enactment_date": "2020-06-02",
+  "last_updated": "2022-05-18",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2020/06/02/21",
+  "official_journal": "Diari Oficial de la Generalitat de Catalunya",
+  "journal_issue": null,
+  "summary": "Esta norma implementa un paquete de ayudas de emergencia para mitigar los efectos económicos de la COVID-19 en Cataluña. Se centra en tres pilares: apoyo financiero al sector cultural, protección social para profesionales de las artes con ingresos perdidos y fomento del ocio educativo para niños y jóvenes durante el verano. Además, busca reactivar el empleo juvenil mediante contratos de prácticas en el sector del ocio.",
+  "citizen_impact": "Las familias con ingresos bajos pueden recibir ayudas directas para actividades de ocio de verano para sus hijos. Los profesionales de la cultura que perdieron ingresos entre marzo y mayo de 2020 pueden solicitar una ayuda única para cubrir suministros básicos.",
+  "professional_impact": "Las empresas culturales acceden a préstamos garantizados por la Generalitat para mejorar su liquidez. Las entidades de ocio educativo reciben subvenciones para adaptarse a los nuevos protocolos sanitarios y pueden contratar jóvenes mediante programas de prácticas subvencionados.",
+  "keywords": [
+    "ayudas COVID-19",
+    "sector cultural",
+    "ocio educativo",
+    "prestación suministros básicos",
+    "empleo juvenil",
+    "Cataluña"
+  ],
+  "key_points": [
+    "Garantía de 22 millones de euros para préstamos a proyectos culturales a través del ICF.",
+    "Creación de una ayuda única para profesionales de la cultura con ingresos inferiores al SMI entre el 14 de marzo y el 6 de mayo de 2020.",
+    "Ayudas de 80 a 100 euros para familias con ingresos anuales inferiores a 25.180,44 € para actividades de ocio infantil.",
+    "Subvenciones para empresas de ocio para cubrir gastos de adaptación sanitaria (material de protección, higiene, etc.).",
+    "Programa de contratación de 136 jóvenes en prácticas con una ayuda de 11.000 € por cada contrato."
+  ],
+  "legal_references": [
+    "Decreto-ley 6/2020, de 12 de marzo",
+    "Decreto-ley 20/2020, de 26 de mayo",
+    "Decreto-ley 2/2020, de 21 de enero",
+    "Real Decreto-ley 17/2020, de 5 de mayo",
+    "Real Decreto-ley 19/2020, de 26 de mayo",
+    "Decreto 267/2016",
+    "Ley 39/2015",
+    "Decreto-ley 7/2020, de 17 de marzo"
+  ],
+  "derogations": [
+    "Artículo 1.5.d del Decreto-ley 2/2020, de 21 de enero"
+  ],
+  "main_obligations": null,
+  "effective_date": "2020-06-02",
+  "proceduers": [
+    {
+      "name": "Prestación extraordinaria para suministros básicos (profesionales cultura)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Presentación de formulario normalizado por vía telemática.",
+          "start_date": "2020-06-02",
+          "end_date": "2020-08-31",
+          "required_documentation": "Documentación que acredite actividad profesional y cuantía de ingresos en el periodo indicado."
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Dictamen de concesión o denegación en un plazo de 15 días hábiles.",
+          "start_date": "Tras la presentación",
+          "end_date": "15 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Abono",
+          "description": "Pago mediante transferencia bancaria tras la resolución.",
+          "start_date": "Tras la resolución",
+          "end_date": "15 días hábiles",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Ayuda económica para actividades de ocio (familias)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de la ayuda",
+          "description": "Solicitud telemática por parte de la unidad familiar.",
+          "start_date": "A partir de la convocatoria",
+          "end_date": "Hasta agotar fondos",
+          "required_documentation": "Acreditación de ingresos familiares inferiores a 25.180,44 € y empadronamiento."
+        },
+        {
+          "step": 2,
+          "title": "Pago a la entidad",
+          "description": "La ayuda se paga directamente a la empresa u organización de ocio.",
+          "start_date": "Tras resolución",
+          "end_date": null,
+          "required_documentation": "Documento acreditativo de la concesión para entregar a la entidad."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

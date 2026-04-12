@@ -1,0 +1,133 @@
+{
+  "identifier": "BOE-A-2025-3781",
+  "title": "Real Decreto 141/2025, de 25 de febrero, por el que se establecen los requisitos esenciales de aeronavegabildad de las aeronaves ultraligeras motorizadas (ULM) y por el que se modifica tanto la Orden de 31 de mayo de 1982 por la que se aprueba un nuevo Reglamento para la Construcción de Aeronaves por Aficionados, como el propio reglamento",
+  "visible_title": "Requisitos esenciales de aeronavegabilidad de las aeronaves ultraligeras motorizadas (ULM)",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de Transportes y Movilidad Sostenible",
+  "official_number": "141/2025",
+  "publication_date": "2025-02-26",
+  "enactment_date": "2025-02-25",
+  "last_updated": "2025-02-26",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/02/25/141",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "49",
+  "summary": "Esta norma moderniza el marco de seguridad para las aeronaves ultraligeras motorizadas (ULM), adaptándolo a la tecnología actual y al mercado internacional. Introduce un sistema de certificación mucho más ágil basado en declaraciones de cumplimiento del diseño, facilitando la producción en serie para fabricantes sin diseños inusuales. Además, establece reglas claras sobre el mantenimiento, las modificaciones y la responsabilidad de los propietarios para garantizar la seguridad en vuelo. El objetivo es reducir la burocracia técnica sin comprometer la seguridad aérea.",
+  "citizen_impact": "Los propietarios de aeronaves ULM deben asegurar que sus vehículos cumplan con los nuevos estándares de masa y mantenimiento. Aquellos con aeronaves que excedan los nuevos límites de peso (más de 145kg en biplazas o 75kg en monoplazas) disponen de un plazo de dos años para regularizar su situación.",
+  "professional_impact": "Los fabricantes y diseñadores deben adaptarse a nuevos protocolos de certificación (declaración de cumplimiento del diseño) y cumplir con la obligación de contar con Manuales de Diseño y de Producción. Las organizaciones deben reportar fallos de seguridad a la AESA en un máximo de 72 horas y los propietarios asumen la responsabilidad legal del mantenimiento y la conservación de la aeronavegabilidad.",
+  "keywords": [
+    "ULM",
+    "aeronavegabilidad",
+    "aeronaves ultraligeras",
+    "certificación aeronáutica",
+    "AESA",
+    "mantenimiento aeronáutico",
+    "diseño de aeronaves"
+  ],
+  "key_points": [
+    "Implementación de la 'declaración de cumplimiento del diseño' para agilizar la certificación frente al antiguo certificado de tipo restringido.",
+    "Creación de un régimen simplificado para aviones ULM monoplaza con masa en vacío inferior a 120 kg.",
+    "Validación de diseños ya certificados por autoridades de otros países del Espacio Económico Europeo o países con equivalencia.",
+    "Los certificados de tipo restringido ahora tendrán vigencia indefinida siempre que se cumplan los requisitos.",
+    "Periodo de transición de dos años para aeronaves que superen los nuevos límites de masa (145kg en biplazas / 75kg en monoplazas).",
+    "Obligatoriedad de poseer un certificado de aeronavegabilidad restringido para volar.",
+    "Las modificaciones menores se gestionan por declaración de cumplimiento, mientras que las mayores requieren una nueva declaración de diseño.",
+    "El certificado de revisión de la aeronavegabilidad tendrá una validez de 2 años (o 5 años en régimen simplificado) y se renueva mediante declaración responsable.",
+    "Obligación de identificar cada aeronave con una placa ignífuga grabada de forma indeleble.",
+    "Los certificados de revisión deben renovarse estrictamente en plazo para mantener la legalidad del vuelo."
+  ],
+  "legal_references": [
+    "Real Decreto 765/2022",
+    "Reglamento (UE) 2018/1139",
+    "Reglamento (UE) 748/2012",
+    "Reglamento Delegado (UE) 2022/1358",
+    "Ley 39/2015",
+    "Ley 21/2003",
+    "Orden de 31 de mayo de 1982",
+    "Orden de 14 de noviembre de 1988",
+    "Ley 48/1960",
+    "Real Decreto 98/2009"
+  ],
+  "derogations": [
+    "Orden de 14 de noviembre de 1988"
+  ],
+  "main_obligations": "Los fabricantes deben presentar documentación técnica detallada (planos, manuales, informes) ante la AESA y comunicar fallos de seguridad en 72 horas. Los propietarios deben realizar inspecciones, mantener registros de mantenimiento durante al menos dos años y renovar el certificado de revisión de aeronavegabilidad en los plazos establecidos.",
+  "effective_date": "2025-02-26",
+  "procedures": [
+    {
+      "name": "Registro de la declaración de cumplimiento del diseño",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración",
+          "description": "El interesado presenta la declaración con datos de identificación, especificaciones técnicas y documentación de diseño a través del portal de la AESA.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Hoja de datos, planos, especificaciones, plan de demostración de cumplimiento, informes de ensayos, manual de vuelo y manual de mantenimiento."
+        },
+        {
+          "step": 2,
+          "title": "Inspección y pruebas de vuelo",
+          "description": "La AESA acuerda la inspección física y supervisa las pruebas de vuelo de la primera aeronave en configuración final.",
+          "start_date": "Tras la presentación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Registro y notificación",
+          "description": "Si no hay desviaciones, la AESA registra la declaración y notifica al interesado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Obtención del certificado de aeronavegabilidad restringido",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de certificado",
+          "description": "El propietario solicita el certificado ante la AESA aportando la base de diseño válida.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración de conformidad de aeronave completa, informe de configuración, manuales actualizados y propuesta de licencia de estación de aeronave."
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "La AESA resuelve la solicitud tras la inscripción en el Registro de Matrícula.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Renovación del certificado de revisión de la aeronavegabilidad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de declaración de mantenimiento",
+          "description": "El responsable presenta una declaración responsable de que se han realizado las tareas de mantenimiento y la comprobación física.",
+          "start_date": "Dentro de los 3 meses previos al fin de validez",
+          "end_date": "10 días hábiles tras la firma",
+          "required_documentation": "Declaración de mantenimiento de la aeronavegabilidad."
+        },
+        {
+          "step": 2,
+          "title": "Extensión de validez",
+          "description": "La declaración renueva el certificado por 2 años (o 5 años en régimen simplificado).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

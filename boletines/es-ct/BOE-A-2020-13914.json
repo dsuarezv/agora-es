@@ -1,0 +1,90 @@
+{
+  "identifier": "BOE-A-2020-13914",
+  "title": "Decreto-ley 33/2020, de 30 de septiembre, de medidas urgentes en el ámbito del impuesto sobre las emisiones de dióxido de carbono de los vehículos de tracción mecánica y del impuesto sobre las estancias en establecimientos turísticos, y en el ámbito presupuestario y administrativo",
+  "visible_title": "Medidas urgentes en el impuesto sobre emisiones de CO2 de vehículos e impuesto sobre estancias turísticas",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "33/2020",
+  "publication_date": "2020-11-10",
+  "enactment_date": "2020-09-30",
+  "last_updated": "2020-10-01",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2020/09/30/33",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma introduce alivios fiscales en Cataluña para mitigar los efectos económicos de la pandemia de la COVID-19. Reduce la carga del impuesto sobre emisiones de CO2 de vehículos aplicando la tarifa más baja y establece facilidades de pago para el impuesto sobre estancias turísticas. Además, gestiona fondos de contingencia para la administración y modifica la lista de zonas con mercado de vivienda tenso.",
+  "citizen_impact": "Los propietarios de vehículos sujetos al impuesto de CO2 verán una reducción de costes al aplicarse la tarifa más baja de 2019. Los residentes en Mollet del Vallès obtienen protección adicional frente a la subida de alquileres al ser declarado zona de mercado de vivienda tenso.",
+  "professional_impact": "Los empresarios del sector turístico pueden solicitar el aplazamiento o fraccionamiento de sus deudas fiscales de los periodos afectados por la pandemia. Las empresas de transporte y propietarios de vehículos clásicos se benefician de bonificaciones y reglas de cálculo específicas.",
+  "keywords": [
+    "impuesto CO2",
+    "impuesto estancias turísticas",
+    "COVID-19",
+    "Cataluña",
+    "alivio fiscal",
+    "vivienda tensa",
+    "vehículos de tracción mecánica"
+  ],
+  "key_points": [
+    "Aplicación de la tarifa más baja del impuesto de CO2 para el ejercicio 2020.",
+    "Posibilidad de aplazar o fraccionar el pago del impuesto de estancias turísticas de los periodos 2019-2020.",
+    "Bonificación en la cuota del impuesto de CO2 para vehículos con calificación de clásico.",
+    "Inclusión de Mollet del Vallès como zona de mercado de vivienda tenso.",
+    "Exigibilidad del impuesto de CO2 a partir del 31 de diciembre de 2020.",
+    "Permiso para incorporar remanentes del Fondo COVID-19 al presupuesto de 2021."
+  ],
+  "legal_references": [
+    "Decreto ley 14/2020",
+    "Decreto ley 6/2020",
+    "Ley 16/2017 (Cambio Climático)",
+    "Ley 58/2003 (General Tributaria)",
+    "Real decreto ley 22/2020",
+    "Ley 4/2020",
+    "Decreto ley 8/2020",
+    "Ley 11/2020",
+    "Ley 16/1984"
+  ],
+  "derogations": [
+    "El impuesto de CO2 devengado en el ejercicio 2019 queda sin efecto."
+  ],
+  "main_obligations": "Los sujetos pasivos del impuesto de estancias turísticas deben solicitar formalmente el aplazamiento o fraccionamiento siguiendo la normativa general tributaria si desean acogersi a la excepción. El impuesto de CO2 será exigible para todos los vehículos sujetos a partir del 31 de diciembre de 2020.",
+  "effective_date": "2020-10-01",
+  "procedures": [
+    {
+      "name": "Liquidación del Impuesto sobre emisiones de CO2 (Ejercicio 2020)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Exposición del Padrón Provisional",
+          "description": "Periodo de consulta pública de los datos de emisiones para el impuesto de CO2.",
+          "start_date": "2021-05-01",
+          "end_date": "2021-05-15",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Exposición del Padrón Definitivo",
+          "description": "Publicación de los datos finales tras el periodo de alegaciones.",
+          "start_date": "2021-09-01",
+          "end_date": "2021-09-15",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de aplazamiento/fraccionamiento (Impuesto Estancias Turísticas)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Solicitud excepcional para deudas de los periodos 01/10/2019-31/03/2020 y 01/04/2020-30/09/2020.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación según normativa general tributaria"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

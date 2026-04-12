@@ -1,0 +1,101 @@
+{
+  "identifier": "BOE-A-2003-17779",
+  "title": "Ley 18/2003, de 11 de julio, sobre designación de Senadores en representación de la Comunidad Autónoma de Aragón",
+  "visible_title": "Designación de Senadores en representación de la Comunidad Autónoma de Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "18/2003",
+  "publication_date": "2003-09-22",
+  "enactment_date": "2003-07-11",
+  "last_updated": "2003-07-12",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2003/07/11/18",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el mecanismo para que las Cortes de Aragón elijan a los senadores que representarán a la comunidad en las Cortes Generales. Sustituye una norma de 1983 para adaptar la designación a la realidad política actual, permitiendo que los senadores no tengan por obligación ser también diputados regionales. Regula desde la propuesta de candidatos hasta su elección y duración del mandato.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta a los grupos parlamentarios de las Cortes de Aragón, quienes deben seguir un procedimiento estricto de propuesta y verificación de candidatos. Los profesionales políticos designados deben gestionar posibles incompatibilidades con otros cargos públicos.",
+  "keywords": [
+    "Senado",
+    "Aragón",
+    "designación de senadores",
+    "Cortes de Aragón",
+    "representación autonómica",
+    "elección de senadores"
+  ],
+  "key_points": [
+    "Los senadores designados no necesitan ser obligatoriamente diputados de las Cortes de Aragón.",
+    "La asignación de senadores por grupo parlamentario se realiza mediante la regla D'Hondt.",
+    "Los candidatos deben ser ciudadanos aragoneses y cumplir los requisitos de la legislación electoral.",
+    "El mandato de los senadores coincide con la legislatura de las Cortes de Aragón.",
+    "Se establece un procedimiento de control de incompatibilidades por parte de la Comisión de Reglamento y Estatuto de los Diputados."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 69.5)",
+    "Estatuto de Autonomía de Aragón (artículo 20.1 y 16.b)",
+    "Ley 3/1983, de 28 de septiembre, de designación de Senadores representantes de la Comunidad Autónoma"
+  ],
+  "derogations": [
+    "Ley de Cortes de Aragón 3/1983, de 28 de septiembre, de designación de Senadores representantes de la Comunidad Autónoma"
+  ],
+  "main_obligations": "Los grupos parlamentarios deben presentar sus propuestas de candidatos en un plazo máximo de 30 días tras la constitución de la Mesa. Los candidatos deben declarar sus actividades para verificar incompatibilidades y elegir entre el cargo de senador o el que genera la incompatibilidad en un plazo de 5 días.",
+  "effective_date": "2003-09-22",
+  "procedures": [
+    {
+      "name": "Designación de Senadores en representación de Aragón",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Determinación de número de senadores",
+          "description": "La Mesa de la Cámara fija el número de senadores según el censo de población.",
+          "start_date": "Tras las elecciones a Cortes de Aragón",
+          "end_date": null,
+          "required_documentation": "Censo de población de derecho"
+        },
+        {
+          "step": 2,
+          "title": "Reparto proporcional por grupos",
+          "description": "La Mesa fija cuántos senadores propone cada grupo usando la regla D'Hondt.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Propuesta de candidatos",
+          "description": "Los grupos presentan por escrito sus candidatos al Porta voz.",
+          "start_date": "Constitución de la Mesa",
+          "end_date": "Máximo 30 días desde la constitución de la Mesa",
+          "required_documentation": "Escrito firmado, datos personales, aceptación de candidatura y declaración de incompatibilidades"
+        },
+        {
+          "step": 4,
+          "title": "Examen de incompatibilidades",
+          "description": "La Comisión de Reglamento examina si los candidatos pueden ejercer el cargo.",
+          "start_date": "Tras la recepción de propuestas",
+          "end_date": "15 días tras recibir la documentación",
+          "required_documentation": "Documentación acreditativa de elegibilidad"
+        },
+        {
+          "step": 5,
+          "title": "Elección en el Pleno",
+          "description": "Votación única y secreta de los diputados para ratificar a los candidatos.",
+          "start_date": "Dentro de los 20 días siguientes a la publicación de candidatos",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Aceptación del cargo",
+          "description": "Los designados manifiestan su aceptación para ser proclamados.",
+          "start_date": "En la sesión de elección",
+          "end_date": "5 días si no se hace en la sesión",
+          "required_documentation": "Escrito dirigido al Presidente"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

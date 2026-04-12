@@ -1,0 +1,77 @@
+{
+  "identifier": "BOE-A-2025-6004",
+  "title": "Real Decreto 250/2025, de 25 de marzo, por el que se aprueba el Plan Técnico Nacional de la Televisión Digital Terrestre y se regulan determinadas medidas de impulso de la evolución tecnológica de la televisión digital terrestre",
+  "visible_title": "Plan Técnico Nacional de la Televisión Digital Terrestre y medidas de evolución tecnológica",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio para la Transformación Digital y de la Función Pública",
+  "official_number": "250/2025",
+  "publication_date": "2025-03-26",
+  "enactment_date": "2025-03-25",
+  "last_updated": "2025-03-26",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/03/25/250",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "73",
+  "summary": "Esta norma establece la hoja de ruta para modernizar la televisión en España, pasando de la tecnología actual a estándares más avanzados (DVB-T2). El objetivo principal es permitir la llegada de la Ultra Alta Definición (UHD) y mejorar la eficiencia del uso del espectro radioeléctrico. Para ello, se planifica una transición en dos fases que comenzará con un canal de prueba en UHD y terminará con la actualización de todos los canales.",
+  "citizen_impact": "Los ciudadanos podrán disfrutar de una calidad de imagen superior (Ultra Alta Definición o 4K) en la televisión abierta. Sin embargo, esto implicará que, a medio plazo, será necesario actualizar los televisores o decodificadores para que sean compatibles con la nueva tecnología DVB-T2.",
+  "professional_impact": "Las operadoras de televisión deben adaptar sus infraestructuras y contenidos para cumplir con los nuevos estándares técnicos. Los fabricantes de televisores y equipos de recepción tienen nuevas obligaciones de etiquetado y requisitos de compatibilidad técnica para los productos que vendan en España.",
+  "keywords": [
+    "televisión digital terrestre",
+    "TDT",
+    "DVB-T2",
+    "Ultra Alta Definición",
+    "UHD",
+    "espectro radioeléctrico",
+    "plan técnico nacional"
+  ],
+  "key_points": [
+    "Transición tecnológica hacia el estándar DVB-T2 para permitir contenidos en Ultra Alta Definición (UHD).",
+    "Implementación en dos fases: la primera comienza con el múltiple RGE2 para emisiones UHD simultáneas.",
+    "La fase 2 (generalización a todos los canales) solo se activará cuando el 95% de los televisores sean compatibles con DVB-T2 y el 90% con UHD.",
+    "Obligación para fabricantes de informar claramente sobre la capacidad de recepción de HD y UHD en sus productos.",
+    "Los nuevos televisores de más de 40 pulgadas deberán ser compatibles con UHD desde su comercialización.",
+    "Se garantiza la continuidad de todos los canales de televisión actuales durante el proceso de cambio.",
+    "Se permite el uso de parte de la capacidad de los canales para servicios interactivos y de accesibilidad (máximo 20%)."
+  ],
+  "legal_references": [
+    "Ley 11/2022, de 28 de junio, General de Telecomunicaciones",
+    "Real Decreto 391/2019, de 21 de junio",
+    "Decisión de Ejecución (UE) 2016/687",
+    "Decisión (UE) 2017/899",
+    "Ley 13/2022, de 7 de julio, General de Comunicación Audiovisual",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Real Decreto 346/2011, de 11 de marzo"
+  ],
+  "derogations": [
+    "Artículos 1, 2, 3.1, 7, 8, 9 y 10 del Real Decreto 391/2019",
+    "Disposiciones adicionales primera, octava, novena y decimotercera del Real Decreto 391/2019"
+  ],
+  "main_obligations": "Los fabricantes de televisores deben cumplir con requisitos específicos de compatibilidad técnica y etiquetado según el tamaño de pantalla. Los operadores de TDT deben seguir el calendario de evolución tecnológica y mantener los niveles de cobertura de población establecidos.",
+  "effective_date": "2025-03-27",
+  "procedures": [
+    {
+      "name": "Evolución tecnológica de la TDT",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Fase 1: Implementación en RGE2",
+          "descrption": "Inicio de emisiones en tecnología DVB-T2 y resolución UHD en el múltiple estatal RGE2.",
+          "start_date": "A partir de la resolución de la Secretaría de Estado de Telecomunicaciones",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Fase 2: Generalización tecnológica",
+          "descrption": "Implementación de DVB-T2 en todos los múltiples digitales de la TDT.",
+          "start_date": "Cuando se alcancen los indicadores de adaptación del parque de receptores (95% DVB-T2 y 90% UHD)",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

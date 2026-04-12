@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-2003-10622",
+  "title": "Ley 8/2003, de 3 de abril, de Becas y Ayudas a los Estudios Universitarios",
+  "visible_title": "Ley de Becas y Ayudas a los Estudios Universitarios",
+  "rank": "ley",
+  "country": "es",
+  "department": "Gobierno de Canarias",
+  "official_number": "8/2003",
+  "publication_date": "2003-05-28",
+  "enactment_date": "2003-04-03",
+  "last_updated": "2003-04-15",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2003/04/03/8",
+  "official_journal": "Boletín Oficial de Canarias",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza el sistema de ayudas económicas para estudiantes universitarios en Canarias, dotándolo de mayor flexibilidad para adaptarse a los cambios del sistema educativo. Su objetivo es garantizar que el acceso a la universidad dependa de la capacidad y vocación, y no de la situación económica del alumno. Introduce un modelo de gestión más ágil que evita los retrasos burocráticos de la normativa anterior.",
+  "citizen_impact": "Facilita que los estudiantes canarios accedan a ayudas para transporte, alojamiento, material y matrícula universitaria. Mejora la rapidez de los cobros y permite que las becas se adapten mejor a la realidad económica de cada familia y a los nuevos planes de estudio.",
+  "professional_impact": "Los funcionarios de la administración educativa deben gestionar un nuevo procedimiento de concesión más flexible y coordinado con otras administraciones. Se establece la obligación de crear una ventanilla única digital y un fichero informático para el control de beneficiarios.",
+  "keywords": [
+    "becas universitarias",
+    "ayudas al estudio",
+    "Canarias",
+    "educación superior",
+    "estudiantes",
+    "ayudas económicas"
+  ],
+  "key_points": [
+    "Flexibilidad en las cuantías y requisitos: El Gobierno puede decidir cada año cuánto se da y qué requisitos pedir según la situación actual.",
+    "Cobertura amplia: Las ayudas pueden cubrir transporte, alojamiento, material y tasas universitarias.",
+    "Ventanilla única digital: Se implementará un sistema en internet para facilitar la solicitud desde cualquier isla.",
+    "Pago anticipado: Se permite establecer convenios para que los alumnos reciban el dinero antes de que la administración complete todo el proceso.",
+    "Prioridad a la necesidad económica: El rendimiento académico no será el único factor; si la renta familiar es muy baja, se dará prioridad.",
+    "Coordinación interadministrativa: Se busca que las becas de Canarias no se solapen con las del Estado, sino que se complementen."
+  ],
+  "legal_references": [
+    "Ley 3/1995, de 6 de febrero, de Medidas de apoyo a los estudios universitarios",
+    "Ley 10/1989, de 13 de julio",
+    "Decreto 156/2001, de 23 de julio"
+  ],
+  "derogatons": [
+    "Ley 3/1995, de 6 de febrero, de Medidas de apoyo a los estudios universitarios",
+    "Decreto 156/2001, de 23 de julio, sobre becas y ayudas a los estudiantes universitarios"
+  ],
+  "main_obligations": "Los beneficiarios deben destinar las ayudas exclusivamente a los fines concedidos y acreditar el cumplimiento de los requisitos. La Administración debe publicar la relación de beneficiarios y garantizar la transparencia en la selección.",
+  "effective_date": "2003-05-29",
+  "procedures": [
+    {
+      "name": "Convocatoria de becas y ayudas universitarias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación de la convocatoria",
+          "descrption": "El Consejero de Educación dicta una Orden detallando requisitos, cuantías y plazos.",
+          "start_date": "Segundo semestre de cada año",
+          "end_date": null,
+          "required_documentation": "Documentación específica que se detalle en la Orden"
+        },
+        {
+          "step": 2,
+          "title": "Solicitud y tramitación",
+          "descrption": "Presentación de solicitudes a través de la ventanilla única en internet.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación académica y económica según convocatoria"
+        },
+        {
+          "step": 3,
+          "title": "Resolución y publicación",
+          "descrption": "Selección de beneficiarios por comisiones mixtas y publicación de la lista de admitidos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Pago de la ayuda",
+          "descrption": "Abono de la cuantía correspondiente al alumno.",
+          "start_date": "Primer trimestre de cada curso académico",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

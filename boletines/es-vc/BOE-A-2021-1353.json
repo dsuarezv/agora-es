@@ -1,0 +1,98 @@
+{
+  "identifier": "BOE-A-2021-1353",
+  "title": "Ley 2/2020, de 2 de diciembre, de la Información Geográfica y del Institut Cartogràfic Valencià",
+  "visible_title": "Ley de la Información Geográfica y del Institut Cartogràfic Valencià",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "2/2020",
+  "publication_date": "2021-01-30",
+  "enactment_date": "2020-12-02",
+  "last_updated": "2022-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2020/12/02/2",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza la gestión de los datos geográficos en la Comunidad Valenciana, transformando el antiguo instituto en una agencia de geomática integral. Establece el Sistema Cartográfico Valenciano para coordinar la información espacial entre todas las administraciones públicas de la región. Además, regula la creación de infraestructuras de datos, redes geodésicas y la gestión de la cartografía oficial y municipal.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en la mejora de la precisión de los mapas y servicios digitales que utilizan para la navegación o la consulta de información territorial.",
+  "professional_impact": "Afecta a técnicos de administraciones locales y autonómicas, quienes deberán seguir nuevos estándares técnicos y coordinarse con el Institut Cartogràfic Valencià. Las empresas del sector geomático y de ingeniería civil se benefician de una mayor interoperabilidad y acceso a datos oficiales, aunque el uso de información de la Generalitat puede requerir licencias específicas.",
+  "keywords": [
+    "geomática",
+    "cartografía",
+    "información geográfica",
+    "Institut Cartogràfic Valencià",
+    "red geodésica",
+    "infraestructura de datos espaciales",
+    "mapa municipal"
+  ],
+  "key_points": [
+    "Creación del Sistema Cartográfico Valenciano como eje de la información espacial regional.",
+    "Transformación del Institut Cartogràfic Valencià en un organismo especializado en geomática (cartografía, geodesia, sísmica, etc.).",
+    "Implementación de la Infraestructura de Datos Espaciales Valenciana (IDEV) para compartir datos entre administraciones.",
+    "Creación de un Registro de Cartografía para oficializar los mapas elaborados por el sector público.",
+    "Establecimiento de un Mapa Municipal para mejorar la precisión de los límites de los ayuntamientos.",
+    "Creación de la Cartoteca Digital para preservar el patrimonio cartográfico histórico.",
+    "Uso obligatorio de la cartografía oficial para procedimientos administrativos de la Generalitat.",
+    "Integración del Nomenclátor Geográfico Valenciano basado en las normas de la Acadèmia Valenciana de la Llengua."
+  ],
+  "legal_references": [
+    "Ley 9/1997, de 9 de diciembre, de la Generalitat, de creación del Institut Cartogràfic Valencià",
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunidad Valenciana",
+    "Ley 39/2015, de 1 de diciembre, del Procedimiento Administrativo Común",
+    "Ley 14/2010, de 5 de julio, sobre las infraestructuras y los servicios de información geográfica en España",
+    "Ley 8/2010, de 23 de junio, de régimen local de la Comunidad Valenciana",
+    "Real Decreto 1.071/2007, de 27 de julio",
+    "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres"
+  ],
+  "derogations": [
+    "Ley 9/1997, de 9 de diciembre, de creación del Institut Cartogràfic Valencià"
+  ],
+  "main_obligations": "Las administraciones públicas valencianas deben coordinar sus actividades geomáticas con el Institut Cartogràfic Valencià y utilizar la cartografía oficial en sus procedimientos. Los ayuntamientos deben comunicar cualquier intención de delimitar o alterar sus términos municipales antes de actuar.",
+  "effective_date": "2021-01-31",
+  "procedures": [
+    {
+      "name": "Elaboración del Estatuto del Institut Cartogràfic Valencià",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación del Estatuto",
+          "description": "El Consell debe aprobar el estatuto que desarrollará la estructura administrativa del organismo.",
+          "start_date": "2021-01-31",
+          "end_date": "6 meses"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Delimitación, Alteración o Mejora de Líneas de Término Municipal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación previa",
+          "description": "Los ayuntamientos o diputaciones deben comunicar al Institut Cartogràfic Valencià su intención de proceder a la delimitación o alteración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe preceptivo",
+          "description": "El Institut Cartogràfic Valencià emite un informe sobre la corrección de la delimitación propuesta y designa un representante técnico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Inscripción en el Registro",
+          "description": "Las líneas resultantes deben inscribirse en el Registro de Cartografía.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

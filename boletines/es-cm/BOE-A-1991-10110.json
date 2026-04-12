@@ -1,0 +1,76 @@
+{
+  "identifier": "BOE-A-1991-10110",
+  "title": "Ley 2/1991, de 14 de marzo, de Coordinación de Diputaciones",
+  "visible_title": "Ley de Coordinación de Diputaciones",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "2/1991",
+  "publication_date": "1991-04-25",
+  "enactment_date": "1991-03-14",
+  "last_updated": "1991-03-27",
+  "status": "in_force",
+  "scope": "Autoonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/1991/03/14/2",
+  "official_journal": "DOCM",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas de juego para que la Junta de Comunidades de Castilla-La Mancha y las Diputaciones Provinciales trabajen juntas sin pisarse las funciones. Define qué materias son de interés regional (como urbanismo, agricultura o sanidad) para asegurar que las actuaciones sean coherentes en toda la región. Además, crea el Consejo Regional de Provincias como mesa de diálogo permanente y permite que la Junta delegue tareas específicas en las Diputaciones.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que regula la organización interna de la administración pública.",
+  "professional_impact": "Afecta directamente a funcionarios de la Junta y de las Diputaciones, quienes deben seguir nuevos protocolos de coordinación, intercambio de información y elaboración de planes conjuntos. Las empresas que operen en sectores de interés regional (como construcción o agricultura) verán una gestión más integrada entre la administración autonómica y la provincial.",
+  "keywords": [
+    "coordinación administrativa",
+    "Diputaciones Provinciales",
+    "Castilla-La Mancha",
+    "competencias",
+    "interés general regional",
+    "delegación de funciones",
+    "Consejo Regional de Provincias"
+  ],
+  "key_points": [
+    "Declaración de materias de interés general regional (urbanismo, agricultura, sanidad, etc.) para evitar duplicidades.",
+    "Creación del Consejo Regional de Provincias como órgano de consulta y coordinación entre la Junta y las Diputaciones.",
+    "Posibilidad de que la Junta delegue competencias en las Diputaciones (ej. obras públicas en municipios pequeños o carreteras provinciales).",
+    "Obligación de las Diputaciones de presentar memorias justificativas y estudios económicos para obtener autorizaciones de la Junta en materias de interés regional.",
+    "Establecimiento de convenios de cooperación para mejorar servicios públicos mediante la unión de recursos técnicos y económicos."
+  ],
+  "legal_references": [
+    "Constitución Española de 1978",
+    "Estatuto de Auto-nomía de Castilla-La Mancha",
+    "Ley Reguladora de las Bases de Régimen Local"
+  ],
+  "derogations": [],
+  "main_obligations": "Las Diputaciones deben informar recíprocamente a la Junta sobre sus actuaciones en materias de interés general y presentar estudios económico-financieros cuando soliciten autorización para planes sectoriales.",
+  "effective_date": "1992-01-01",
+  "procedures": [
+    {
+      "name": "Autorización de actuaciones de las Diputaciones en materias de interés general",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "La Diputación debe presentar una solicitud ante el Consejo de Gobierno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria justificativa, objetivos, medidas a implantar y estudio económico-financiero."
+        },
+        {
+          "step": 2,
+          "title": "Informe del Consejo Regional de Provincias",
+          "description": "El Consejo emite un informe previo a la decisión del Consejo de Gobierno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución del Consejo de Gobierno",
+          "description": "El Consejo de Gobierno dicta la autorización expresa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

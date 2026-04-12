@@ -1,0 +1,76 @@
+{
+  "identifier": "BOE-A-1998-7945",
+  "title": "Ley 15/1997, de 25 de junio, de Ordenación de Actividades Feriales de la Comunidad de Madrid",
+  "visible_title": "Ley de Ordenación de Actividades Feriales de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "15/1997",
+  "publication_date": "1998-04-03",
+  "enactment_date": "1997-06-25",
+  "last_updated": "2008-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1997/06/25/15",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco legal para organizar, regular y promocionar todas las ferias y exposiciones comerciales en la Comunidad de Madrid. Su objetivo es profesionalizar el sector, garantizando la seguridad de asistentes y la calidad de las exhibiciones. Clasifica las actividades en ferias comerciales, exposiciones y ferias-mercados, definiendo quiénes pueden organizarlas y bajo qué condiciones.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo que asistan a eventos comerciales, donde la ley garantiza estándares de seguridad y calidad en los recintos.",
+  "professional_impact": "Afecta directamente a organizadores de eventos, expositores y ayuntamientos. Las empresas organizadoras deben cumplir con la comunicación previa, contratar seguros de responsabilidad civil y seguir reglas estrictas de gestión para evitar sanciones que pueden llegar a los 20 millones de pesetas o la inhabilitación.",
+  "keywords": [
+    "actividades feriales",
+    "ferias comerciales",
+    "exposiciones",
+    "Comunidad de Madrid",
+    "organización de eventos",
+    "promoción comercial"
+  ],
+  "key_points": [
+    "Clasificación de actividades en ferias comerciales (periódicas), exposiciones (no periódicas) y ferias-mercados (con venta directa).",
+    "Obligación de realizar una comunicación previa a la Comunidad de Madrid con al menos dos meses de antelación.",
+    "Creación del Registro Oficial de Actividades Feriales para controlar y dar publicidad a los eventos.",
+    "Requisito de contar con seguro de responsabilidad civil para cubrir daños a personas y bienes.",
+    "Establecimiento de la categoría de 'Feria u Exposición Oficial' para eventos con mayores estándares de representatividad.",
+    "Diferenciación entre Instituciones Feriales (sin ánimo de lucro) y otras entidades organizadoras.",
+    "Régimen sancionador que distingue entre infracciones leves, graves y muy graves."
+  ],
+  "legal_references": [
+    "Estatuto de Autoformía de la Comunidad de Madrid",
+    "Real Decreto 1455/1984",
+    "Decreto 115/1986",
+    "Convención de París de 1928",
+    "Ley 30/1992"
+  ],
+  "derogations": [],
+  "main_obligations": "Los organizadores deben presentar una comunicación previa con 2 meses de antelación, constituir un comité organizador con representantes del sector, contratar un seguro de responsabilidad civil y remitir una memoria de resultados tras cada evento. El incumplimiento puede acarrear multas de hasta 20.000.000 de pesetas.",
+  "effective_date": "1997-06-25",
+  "procedures": [
+    {
+      "name": "Comunicación previa de actividades feriales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la comunicación",
+          "description": "Envío de la documentación identificativa y detalles del evento a la Comunidad de Madrid.",
+          "start_date": "Mínimo 2 meses antes de la fecha del evento",
+          "end_date": null,
+          "required_documentation": "Datos de la entidad organizadora, nombre, fechas, sector comercial, lugar y si hay venta directa."
+        }
+      ]
+    },
+    {
+      "name": "Calificación de Feria o Exposición Oficial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cumplimiento de requisitos",
+          "description": "El organizador debe demostrar que el evento se realiza en recinto permanente, tiene reglamento interno y supera los umbrales de expositores y superficie.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Reglamento interno de participación y acreditación de recinto."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

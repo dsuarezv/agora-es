@@ -1,0 +1,75 @@
+{
+  "identifier": "BOE-A-2025-4085",
+  "title": "Resolución ISP/430/2025, de 11 de febrero, por la que se establecen las restricciones a la circulación durante el año 2025",
+  "visible_title": "Restricciones a la circulación de vehículos en Cataluña durante 2025",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "ISP/430/2025",
+  "publication_date": "2025-03-01",
+  "enactment_date": "2025-02-11",
+  "last_updated": "2026-02-11",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/res/2025/02/11/isp430",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta resolución establece las limitaciones de tráfico para vehículos pesados y de transporte especial en la red interurbana de Cataluña durante el año 2025. El objetivo es garantizar la fluidez de la movilidad y la seguridad vial, especialmente en periodos de alta demanda o festivos. Regula horarios, rutas obligatorias para mercancías peligrosas y restricciones específicas en zonas críticas como los accesos a Barcelona o la Val d'Aran.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo que se utilicen vías sujetas a restricciones por eventos deportivos o de mantenimiento.",
+  "professional_impact": "Afecta directamente a empresas de transporte de mercancías, conductores de vehículos pesados (>7.500 kg) y transportistas de mercancías peligrosas (ADR). Deben cumplir con horarios de circulación restringidos, rutas obligatorias específicas y limitaciones de velocidad en ciertos tramos para evitar sanciones o la inmovilización del vehículo por parte de los Mossos d'Esquadra.",
+  "keywords": [
+    "tráfico",
+    "restricciones de circulación",
+    "transporte de mercancías",
+    "vehículos pesados",
+    "mercancías peligrosas",
+    "Cataluña",
+    "seguridad vial"
+  ],
+  "key_points": [
+    "Prohibición de circular para vehículos de mercancías de más de 7.500 kg en tramos específicos según el Anexo A.",
+    "Restricciones horarias para conjuntos euromodulares en la autopista AP-7 (viernes tarde, sábados mañana y domingos tarde).",
+    "Rutas obligatorias para vehículos con transporte de mercancías peligrosas (ADR) según el Anexo D.",
+    "Limitaciones de velocidad de 80 km/h para vehículos pesados y autobuses en tramos de restricción.",
+    "Restricciones especiales de acceso a la Val d'Aran (N-230 y C-28) para vehículos de más de 7.500 kg.",
+    "Prohibición de realizar obras de mantenimiento en accesos a Barcelona en horarios de alta densidad.",
+    "Exenciones para transporte de productos perecederos, alimentos esenciales, ganado vivo y servicios de emergencia.",
+    "Posibilidad de detención o retirada de vehículos por la policía si incumplen las restricciones y causan riesgo."
+  ],
+  "legal_references": [
+    "Real Decreto Legislativo 6/2015 (Ley sobre tráfico, circulación de vehículos a motor y seguridad vial)",
+    "Real Decreto 1428/2003 (Reglamento general de circulación)",
+    "Ley 14/1997 de creación del Servicio Catalán de Tráfico",
+    "Resolución INT/741/2011"
+  ],
+  "derogations": [
+    "Resolución INT/360/2024, de 8 de febreru, por la que se establecen las restricciones a la circulación durante el año 2024",
+    "Resolución INT/2064/2024, de 7 de junio, que modifica la anterior"
+  ],
+  "main_obligations": "Los vehículos de mercancías >7.500 kg deben respetar los horarios y rutas indicados en los anexos; el incumplimiento conlleva sanciones de tráfico y la posible inmovilización o retirada del vehículo por la policía.",
+  "effective_date": "2025-03-09",
+  "procedures": [
+    {
+      "name": "Vigencia de la resolución",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Entrada en vigor",
+          "descrption": "La resolución surte efectos ocho días después de su publicación en el DOGC.",
+          "start_date": "2025-03-09",
+          "end_date": "2025-12-31",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Prórroga automática",
+          "descrption": "El contenido se prorroga automáticamente hasta la entrada en vigor de la resolución de 2026.",
+          "start_date": "2026-01-01",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,103 @@
+{
+  "identifier": "BOE-A-2026-7169",
+  "title": "Orden APA/284/2026, de 18 de marzo, por la que se aprueban los Estatutos del Consejo Regulador de la Denominación de Origen Protegida «Jumilla»",
+  "visible_title": "Estatutos del Consejo Regulador de la Denominación de Origen Protegida «Jumilla»",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio de Agricultura, Pesca y Alimentación",
+  "official_number": "APA/284/2026",
+  "publication_date": "2026-03-28",
+  "enactment_date": "2026-03-18",
+  "last_updated": "2026-03-28",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2026/03/18/apa284",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "77",
+  "summary": "Esta norma establece el nuevo marco de funcionamiento para el Consejo Regulador de la DOP Jumilla, adaptándolo a la normativa europea vigente. El cambio principal es la creación de un nuevo texto estatutario integral para garantizar la seguridad jurídica. Se moderniza la gestión de registros, se simplifica el sistema de financiación mediante cuotas y se clarifica el régimen de control y sanciones.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta directamente a productores de uva, bodegas y operadores del sector vinícola de la zona Jumilla. Estos profesionales deben adaptarse a nuevas reglas de gestión de registros, nuevos procedimientos de comunicación de etiquetas y un régimen disciplinario actualizado que incluye multas de hasta 15.000 euros por faltas muy graves.",
+  "keywords": [
+    "DOP Jumilla",
+    "Consejo Regulador",
+    "vinos",
+    "estatutos",
+    "denominación de origen",
+    "sector vitivinícola",
+    "control de calidad"
+  ],
+  "key_points": [
+    "Adaptación total al Reglamento (UE) 2024/1143 sobre indicaciones geográficas.",
+    "Reestructuración de los estatutos para mejorar la claridad y seguridad jurídica.",
+    "Simplificación en el cálculo de las cuotas obligatorias para financiar al Consejo.",
+    "Refuerzo de la estructura de control para garantizar la calidad del producto.",
+    "Establecimiento de un régimen disciplinario con sanciones económicas de hasta 15.000 euros.",
+    "Obligatoriedad de adoptar prácticas sostenibles si se incluyen en el pliego de condiciones.",
+    "Nuevos requisitos para la inscripción en los registros de viñas y bodegas."
+  ],
+  "legal_references": [
+    "Ley 6/2015, de 12 de mayo",
+    "Real Decreto 267/2017, de 17 de marzo",
+    "Reglamento (UE) 2024/1143 del Parlamento Europeo y del Consejo",
+    "Reglamento (UE) 2017/625 del Parlamento Europeo y del Consejo",
+    "Orden APM/839/2017, de 28 de agosto"
+  ],
+  "derogations": [
+    "Orden APM/839/2017, de 28 de agosto"
+  ],
+  "main_obligations": "Los operadores deben inscribirse en los registros oficiales, comunicar etiquetas 15 días antes de su uso y conservar la documentación técnica durante al menos 5 años. El impago de cuotas por más de tres meses (bodegas) o un año (viti-cultores) constituye una falta grave.",
+  "effective_date": "2026-03-29",
+  "procedures": [
+    {
+      "name": "Procedimiento Disciplinario",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del expediente",
+          "description": "El Secretario decide abrir un expediente tras conocer una posible infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Pliego de cargos y alegaciones",
+          "description": "Se notifican los cargos y el interesado tiene 15 días para presentar su defensa y pruebas.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": "Escrito de descargos y propuesta de pruebas"
+        },
+        {
+          "step": 3,
+          "title": "Instrucción y audiencia",
+          "description": "Práctica de pruebas y nueva audiencia del interesado tras la instrucción.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "El Pleno (o la Comisión Permanente para faltas leves) dicta la resolución motivada.",
+          "start_date": null,
+          "end_date": "10 días hábiles tras la resolución",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inscripción en Registros",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inscripción",
+          "description": "Notificación de datos al Consejo Regulador para alta en registros de viñas o bodegas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Registro Vitícola (para viñas) o datos de identificación de la empresa (para bodegas)"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-2011-2908",
+  "title": "Ley 10/2009, de 30 de noviembre, de Creación del Sistema Integrado de Transporte Público de la Región de Murcia y modernización de las concesiones de transporte público regular permanente de viajeros por carretera",
+  "visible_title": "Creación del Sistema Integrado de Transporte Público de la Región de Murcia y modernización de concesiones de transporte por carretera",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "10/2009",
+  "publication_date": "2011-02-15",
+  "enactment_date": "2009-11-30",
+  "last_updated": "2015-03-11",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2009/11/30/10",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley unifica y moderniza el transporte público de autobús en la Región de Murcia mediante la creación de un Sistema Integrado. Busca que el servicio sea más eficiente, tecnológico y sostenible, obligando a las empresas concesionarias a renovar sus flotas y mejorar la accesibilidad. Para lograrlo, se establecen nuevos contratos-programa que garantizan la coordinación de rutas y tarifas bajo la gestión de la Entidad Pública del Transporte.",
+  "citizen_impact": "Los usuarios se benefician de un sistema de transporte más conectado, con posibilidad de usar un único título de transporte para distintos trayectos y transbordos sin penalización económica. Además, se garantiza una mejora en la calidad de los autobuses, mayor información en tiempo real sobre horarios y una red mucho más accesible para personas con movilidad reducida.",
+  "professional_impact": "Las empresas de transporte deben asumir importantes inversiones en tecnología (sistemas inteligentes), renovación de flota (menos edad media) y sostenibilidad (biocombustibles) a cambio de una ampliación de sus contratos. Se les exige cumplir con estándares de calidad específicos (UNE EN 13816) y adoptar una identidad corporativa común definida por la administración.",
+  "keywords": [
+    "transporte público",
+    "Región de Murcia",
+    "concesiones de transporte",
+    "sistema integrado",
+    "movilidad sostenible",
+    "autobús",
+    "accesibilidad"
+  ],
+  "key_points": [
+    "Creación del Sistema Integrado de Transporte Público de la Región de Murcia.",
+    "Introducción de sistemas inteligentes para información en tiempo real y monética integrada.",
+    "Obligación de renovar la flota para reducir la edad media de los vehículos en al menos un 2%.",
+    "Incremento del 40% en la capacidad de accesibilidad para personas con discapacidad.",
+    "Uso de combustibles alternativos en al menos el 25% de la flota.",
+    "Implementación de una identidad corporativa única para todos los autobuses de la red.",
+    "Exigencia de certificación de calidad UNE EN 13816 para los servicios.",
+    "Ampliación de los plazos de las concesiones actuales hasta 10 años (prorrogables 5 más) para financiar las mejoras.",
+    "Prohibición de repercutir el coste de las inversiones de modernización en las tarifas de los usuarios."
+  ],
+  "legal_references": [
+    "Ley 3/2006, de 8 de mayo, de la Entidad Pública del Transporte de la Región de Murcia",
+    "Ley estatal 11/2007, de 22 de junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos",
+    "Ley estatal 51/2003, de 2 de diciembre, de Igualdad de Oportunidades, No Discriminación y Accesibilidad Universal de las Personas con Discapacidad",
+    "Norma UNE EN 13816"
+  ],
+  "derogations": [],
+  "main_obligations": "Los concesionarios deben suscribir contratos-programa que incluyan inversiones en tecnología, flota y accesibilidad en un plazo de 6 meses. Deben garantizar la conexión en tiempo real con el Centro de Control y cumplir con los estándares de sostenibilidad y calidad exigidos.",
+  "effective_date": "2009-12-01",
+  "procedures": [
+    {
+      "name": "Integración en el Sistema Integrado y firma de contratos-programa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Firma de contratos-programa",
+          "descrption": "Los operadores deben suscribir los nuevos contratos que definen las condiciones de prestación y modernización.",
+          "start_date": "Desde la entrada en vigor de la ley",
+          "end_date": "6 meses tras la entrada en vigor",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Implementación de mejoras",
+          "descrption": "Plazo para que las empresas ejecuten las inversiones tecnológicas, de flota y accesibilidad acordadas.",
+          "start_date": "Desde la firma del contrato-programa",
+          "end_date": "6 años",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Asunción de competencias por la Entidad Pública del Transporte",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Transición de funciones",
+          "descrption": "La Entidad Pública del Transporte asume plenamente las funciones y competencias en materia de servicios regulares.",
+          "start_date": "Desde la entrada en vigor de la ley",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

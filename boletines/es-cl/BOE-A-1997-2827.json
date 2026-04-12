@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-1997-2827",
+  "title": "Ley 8/1996, de 27 de diciembre, de Medidas Financieras, Presupuestarias y Económicas",
+  "visible_title": "Ley de Medidas Financieras, Presupuestarias y Económicas de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "8/1996",
+  "publication_date": "1997-02-10",
+  "enactment_date": "1996-12-27",
+  "last_updated": "2012-02-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/1996/12/27/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca dar estabilidad y claridad a la gestión económica de Castilla y León, evitando que las reglas financieras dependan de cada presupuesto anual. Introduce cambios estructurales en la gestión de la Hacienda autonómica, regula la concesión de subvenciones y establece criterios para la transferencia de competencias. Además, organiza el funcionamiento económico del Consejo Económico y Social y la Agencia de Desarrollo Económico.",
+  "citizen_impact": "Para el ciudadano común, la norma mejora la transparencia y seguridad jurídica en la gestión de ayudas públicas. Establece que las subvenciones deben convocarse con criterios claros de publicidad y objetividad, garantizando que el beneficiario sepa exactamente qué requisitos cumplir.",
+  "professional_impact": "Las empresas y entidades que solicitan subvenciones deben cumplir con requisitos estrictos de estar al corriente con Hacienda y la Seguridad Social. Los funcionarios ven modificadas sus competencias de delegación y se establecen reglas claras sobre la prohibición de percibir ingresos atípicos o comisiones por servicios públicos.",
+  "keywords": [
+    "presupuestos",
+    "hacienda pública",
+    "subvenciones",
+    "Castilla y León",
+    "gestión financiera",
+    "transferencia de competencias"
+  ],
+  "key_points": [
+    "Se permite la anulación de deudas de cuantía insuficiente para ahorrar costes de recaudación.",
+    "Se regula la ejecución de embargos sobre pagos que la Administración deba realizar.",
+    "Se limitan los compromisos de gasto para ejercicios futuros a un máximo de cuatro años.",
+    "Se establece un régimen estricto de transparencia y requisitos para la concesión de subvenciones.",
+    "Se permite el pago de anticipos de hasta el 50% en subvenciones a entidades sin ánimo de lucro y empresas públicas.",
+    "Se prohíbe a los empleados públicos recibir comisiones o parte de multas como ingreso extra.",
+    "Se definen nuevas reglas para la gestión de fondos de la Unión Europea y transferencias de competencias."
+  ],
+  "legal_references": [
+    "Ley 7/1986, de 23 de diciembre, de la Hacienda de la Comunidad",
+    "Ley 13/1990, de 28 de noviembre, del Consejo Económico y Social",
+    "Ley 21/1994, de 15 de diciembre, de creación de la Agencia de Desarrollo Económico de Castilla y León",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Decreto Legislativo 1/1988, de 21 de julio"
+  ],
+  "derogations": [],
+  "main_obligations": "Los beneficiarios de subvenciones deben acreditar estar al corriente de obligaciones tributarias y de la Seguridad Social antes del cobro. Asimismo, tienen la obligación de justificar el uso de los fondos según los plazos establecidos, bajo riesgo de reintegro con intereses de demora.",
+  "effective_date": "1997-01-01",
+  "procedures": [
+    {
+      "name": "Concesión de subvenciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación de la convocatoria",
+          "description": "Publicación en el BOCyL con requisitos, plazos y criterios de resolución.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación definida en la orden de convocatoria"
+        },
+        {
+          "step": 2,
+          "title": "Presentación de solicitudes",
+          "description": "Plazo para que los interesados presenten su petición.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentos acreditativos de requisitos"
+        },
+        {
+          "step": 3,
+          "title": "Resolución del procedimiento",
+          "description": "Plazo máximo para resolver, que en defecto será de 6 meses.",
+          "start_date": null,
+          "end_date": "6 meses desde la recepción",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Justificación de la ayuda",
+          "description": "Obligación del beneficiario de acreditar el cumplimiento de la finalidad de la subvención.",
+          "start_date": null,
+          "end_date": "Según plazo establecido en la resolución",
+          "required_documentation": "Justificación de la correcta aplicación de fondos"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

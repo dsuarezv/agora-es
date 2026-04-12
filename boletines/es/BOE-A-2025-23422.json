@@ -1,0 +1,88 @@
+{
+  "identifier": "BOE-A-2025-23422",
+  "title": "Real Decreto 1040/2025, de 19 de noviembre, por el que se establece el procedimiento para la confección del Catálogo de símbolos y elementos contrarios a la memoria democrática y se crea la Comisión técnica sobre símbolos y elementos contrarios a la memoria democrática",
+  "visible_title": "Procedimiento para la confección del Catálogo de símbolos y elementos contrarios a la memoria democrática y creación de su Comisión técnica",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de Política Territorial y Memoria Democrática",
+  "official_number": "1040/2025",
+  "publication_date": "2025-11-20",
+  "enactment_date": "2025-11-19",
+  "last_updated": "2025-11-20",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/11/19/1040",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "279",
+  "summary": "Esta norma regula cómo se creará y gestionará el catálogo oficial de símbolos, escudos o placas que exaltan la dictadura franquista y deben ser retirados. Establece un procedimiento para que comunidades autónomas, ayuntamientos, víctimas o investigadores soliciten la inclusión de elementos en dicho catálogo. Además, crea una Comisión técnica de expertos que asesorará al Gobierno sobre qué elementos deben eliminarse y cuáles pueden conservarse por su valor artístico o arquitectónico.",
+  "citizen_impact": "Los ciudadanos, especialmente víctimas de la dictadura o asociaciones memorialistas, pueden solicitar formalmente que se incluyan símbolos ofensivos en el catálogo para su retirada. También permite a cualquier persona denunciar el incumplimiento de la obligación de retirar elementos contrarios a la memoria democrática.",
+  "professional_impact": "Las administraciones públicas (ayuntamientos y comunidades autónomas) deberán colaborar en el suministro de datos y ejecutar las retiradas. Los propietarios de edificios (públicos, privados o religiosos) donde se ubiquen estos símbolos son responsables de su retirada o eliminación según lo que dicte el catálogo.",
+  "keywords": [
+    "memoria democrática",
+    "catálogo de símbolos",
+    "dictadura franquista",
+    "retirada de símbolos",
+    "comisión técnica",
+    "patrimonio histórico"
+  ],
+  "key_points": [
+    "Creación de un catálogo oficial con la relación de símbolos y elementos que deben ser retirados o eliminados.",
+    "Constitución de una Comisión técnica con expertos en historia, arte, arquitectura y ciencias políticas para evaluar los casos.",
+    "Posibilidad de mantener elementos si se demuestra que tienen un valor artístico o arquitectónico excepcional, obligando en ese caso a una 'reinterpretación'.",
+    "Cualquier persona puede comunicar el posible incumplimiento de la retirada de símbolos para que se inicie un procedimiento de oficio.",
+    "Las solicitudes de inclusión deben incluir descripción física, fotografía, ubicación exacta y razones historiográficas.",
+    "Plazo máximo de 6 meses para resolver los procedimientos de inclusión en el catálogo.",
+    "El catálogo será público y se actualizará anualmente en la web del Ministerio."
+  ],
+  "legal_references": [
+    "Ley 20/2022, de 19 de octubre, de Memoria Democrática",
+    "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Ley 16/1985, de 25 de julio, del Patrimonio Histórico Español",
+    "Real Decreto 273/2024, de 19 de marzo",
+    "Real Decreto 462/2002, de 25 de mayo"
+  ],
+  "derogations": [],
+  "main_obligations": "Los propietarios de edificios (públicos, privados o religiosos) donde se ubiquen símbolos que exaltan la dictadura están obligados a retirarlos o eliminarlos una vez incluidos en el catálogo. Las administraciones deben ejecutar las órdenes de retirada y, en caso de edificios públicos, asegurar el depósito de los elementos retirados.",
+  "effective_date": "2025-11-21",
+  "procedures": [
+    {
+      "name": "Procedimiento para la inclusión de símbolos y elementos en el catálogo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "El procedimiento comienza de oficio por la Dirección General o a solicitud de un interesado (víctimas, entidades, etc.).",
+          "start_date": "Desde la presentación de la solicitud o acuerdo de oficio",
+          "end_date": null,
+          "required_documentation": "Descripción física, fotografía, ubicación exacta (coordenadas UTM) y razones historiográficas."
+        },
+        {
+          "step": 2,
+          "title": "Informe de la Comisión Técnica",
+          "description": "La Comisión técnica emite un informe sobre si el elemento es contrario a la memoria democrática o si tiene valor artístico/arquitectónico.",
+          "start_date": "5 días hábiles tras recibir el expediente completo",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Trámite de audiencia",
+          "description": "Se da audiencia a los interesados y se recaban informes de la comunidad autónoma y el ayuntamiento.",
+          "start_date": "Tras el informe de la Comisión",
+          "end_date": "15 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución final",
+          "description": "La Dirección General dicta la resolución determinando la inclusión en el catálogo y si procede la retirada o la reinterpretación.",
+          "start_date": "Tras los trámites anteriores",
+          "end_date": "6 meses desde la incoación",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

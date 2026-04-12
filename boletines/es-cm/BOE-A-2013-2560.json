@@ -1,0 +1,98 @@
+{
+  "identifier": "BOE-A-2013-2560",
+  "title": "Ley 11/2012, de 21 de diciembre, de Estabilidad Presupuestaria y Sostenibilidad Financiera de la Junta de Comunidades de Castilla-La Mancha",
+  "visible_title": "Ley de Estabilidad Presupuestaria y Sostenibilidad Financiera de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "11/2012",
+  "publication_date": "2013-03-08",
+  "enactment_date": "2012-12-21",
+  "last_updated": "2019-12-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2012/12/21/11",
+  "official_journal": "Diario Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas de disciplina financiera que deben seguir todas las instituciones y entidades públicas de Castilla-La Mancha para evitar el déficit excesivo y el endeudamiento descontrolado. Introduce mecanismos de control preventivo, como un marco presupuestario a medio plazo, y crea fondos específicos para gestionar imprevistos y reducir la deuda. Su objetivo es garantizar que la región pueda pagar sus deudas y mantener la estabilidad económica a largo plazo.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que regula la gestión interna de las cuentas públicas y la administración regional.",
+  "professional_impact": "Afecta directamente a gestores públicos, funcionarios de hacienda y directivos de empresas, universidades y fundaciones públicas regionales. Estos deberán cumplir con estrictos controles de gasto, remitir información periódica a la Consejería de Hacienda y enfrentar retenciones de presupuesto si no cumplen los objetivos de estabilidad.",
+  "keywords": [
+    "estabilidad presupuestaria",
+    "sostenibilidad financiera",
+    "control de gasto",
+    "deuda pública",
+    "Castilla-La Mancha",
+    "presupuesto público",
+    "déficit estructural"
+  ],
+  "key_points": [
+    "Obligación de elaborar un marco presupuestario a medio plazo (mínimo 3 años) antes de aprobar los presupuestos anuales.",
+    "Creación del 'Fondo de Contingencia' para cubrir gastos imprevistos no discrecionales.",
+    "Creación del 'Fondo de Reserva para Deuda' para usar excedentes en reducir la deuda neta.",
+    "Prioridad absoluta al pago de intereses y capital de la deuda pública sobre cualquier otro gasto.",
+    "Posibilidad de retener hasta un 10% de las dotaciones presupuestarias a entidades que no remitan información o incumplan objetivos.",
+    "Implementación de medidas correctoras forzosas por parte del Consejo de Gobierno si no se alcanzan los objetivos de estabilidad.",
+    "Obligación de las universidades públicas de integrar la sostenibilidad financiera en su programación."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 135)",
+    "Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera",
+    "Estatuto de Autonomía de Castilla-La Mancha",
+    "Ley Orgánica 6/2001, de 21 de diciembre, de Universidades",
+    "Decreto Legislativo 1/2002, de 19 de noviembre (Ley de Hacienda de Castilla-La Mancha)"
+  ],
+  "derogations": [
+    "Normas de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": "Los órganos y entidades deben ajustar sus ingresos y gastos para cumplir con el objetivo de estabilidad estatal. Deben remitir información a la Consejería de Hacienda en un plazo máximo de 15 días cuando se les solicite y presentar planes de reequilibrio en 30 días si se detecta un desequilibrio financiero.",
+  "effective_date": "2013-03-09",
+  "procedures": [
+    {
+      "name": "Ciclo de Elaboración Presupuestaria y Control",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración del Marco Presupuestario a Medio Plazo",
+          "description": "La Consejería de Hacienda define el escenario de referencia para los próximos 3 ejercicios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Remisión de Programación Plurianual (Universidades y Entidades)",
+          "description": "Las universidades y entidades con presupuesto estimativo deben enviar su programación a Hacienda.",
+          "start_date": null,
+          "end_date": "15 de julio de cada año",
+          "required_documentation": "Programación plurianual"
+        },
+        {
+          "step": 3,
+          "title": "Control de Riesgo en Ejecución",
+          "description": "Si hay riesgo de incumplimiento, Hacienda emite una advertencia motivada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Propuesta de Medidas Correctoras",
+          "description": "Ante riesgo de incumplimiento, la entidad debe proponer medidas de ajuste.",
+          "start_date": "Tras la advertencia de Hacienda",
+          "end_date": "15 días",
+          "required_documentation": "Propuesta de medidas correctoras"
+        },
+        {
+          "step": 5,
+          "title": "Plan de Medidas de Reequilibrio",
+          "description": "En caso de desequilibrio tras la liquidación, se debe presentar un plan para recuperar el equilibrio en un año.",
+          "start_date": "Tras comunicación de desequilibrio",
+          "end_date": "30 días",
+          "required_documentation": "Plan de medidas de reequilibrio cuantificado"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

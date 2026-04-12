@@ -1,0 +1,70 @@
+{
+  "identifier": "BOE-A-2022-9851",
+  "title": "Ley 4/2022, de 19 de mayo, del Recurso de Casación Civil Vasco",
+  "visible_title": "Ley del Recurso de Casación Civil Vasco",
+  "rank": "ley",
+  "country": "es",
+  "department": "Parlamento Vasco",
+  "official_number": "4/2022",
+  "publication_date": "2022-06-15",
+  "enactment_date": "2022-05-19",
+  "last_updated": "2022-06-01",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2022/05/19/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea un nuevo sistema para que el Tribunal Superior de Justicia del País Vasco pueda unificar la interpretación del Derecho Civil Vasco. Elimina la barrera de la cuantía económica para permitir que asuntos de gran importancia social, como los de familia o el régimen del caserío, puedan llegar a casación. El objetivo es asegurar que la jurisprudencia vasca sea coherente y se adapte a la realidad social y a las fuentes consuetudinarias de la región.",
+  "citizen_impact": "Facilita que ciudadanos que tengan conflictos sobre temas clave (como custodias de hijos, parejas de hecho o herencias de caseríos) puedan recurrir ante el Tribunal Superior de Justicia sin que el valor económico del conflicto sea un impedimento. Esto garantiza una mayor protección de sus derechos civiles específicos.",
+  "professional_impact": "Los abogados y operadores jurídicos disponen de un cauce procesal más claro y especializado para defender el derecho civil vasco. Se simplifica el acceso al recurso mediante el criterio de 'interés casacional' y se amplía la posibilidad de recurrir ciertos autos de contenido sustantivo que antes quedaban fuera del alcance.",
+  "keywords": [
+    "Derecho Civil Vasco",
+    "Recurso de Casación",
+    "Tribunal Superior de Justicia del País Vasco",
+    "Unificación de doctrina",
+    "Interés casacional",
+    "Derecho Foral"
+  ],
+  "key_points": [
+    "Eliminación del requisito de cuantía económica para acceder al recurso.",
+    "Introducción del concepto de 'interés casacional' como vía principal de acceso.",
+    "Posibilidad de recurrir autos con contenido sustantivo (no solo sentencias).",
+    "Ampliación de la definición de derecho civil vasco para incluir normas consuetudinarias y jurisprudenciales.",
+    "Capacidad del tribunal para modificar su propia doctrina si la realidad social ha evolucionado.",
+    "Facilita la unificación de la doctrina histórica previa a la creación del TSJ de forma más efectiva."
+  ],
+  "legal_references": [
+    "Ley 5/2015, de 25 de junio, de Derecho Civil Vasco",
+    "Ley de Enjuiciamiento Civil",
+    "Constitución Española",
+    "Ley Orgánica del Poder Judicial",
+    "Estatuto de Autonomía del País Vasco"
+  ],
+  "derogations": [],
+  "main_obligations": null,
+  "effective_date": "2022-07-05",
+  "procedures": [
+    {
+      "name": "Interposición del Recurso de Casación Civil Vasco",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación del recurso",
+          "description": "Interposición del recurso ante la Sala de lo Civil y Penal del TSJ ante la existencia de interés casacional.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escrito de interposición fundamentado en la infracción de normas de derecho civil vasco o interés casacional."
+        },
+        {
+          "step": 2,
+          "title": "Examen de admisibilidad",
+          "description": "La Sala aprecia si concurre el interés casacional objetivo o la presunción de este.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

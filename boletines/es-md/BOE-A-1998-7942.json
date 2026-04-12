@@ -1,0 +1,88 @@
+{
+  "identifier": "BOE-A-1998-7942",
+  "title": "Ley 12/1997, de 4 de junio, regulaforas de las Actuaciones Inspectoras y de la Potestad Sancionadora en Materia de Depósito de Fianzas de Arrendamiento de la Comunidad de Madrid",
+  "visible_title": "Ley de Inspección y Sanción del Depósito de Fianzas de Arrendamiento de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "12/1997",
+  "publication_date": "1998-04-03",
+  "enactment_date": "1997-06-04",
+  "last_updated": "1997-06-11",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1997/06/04/12",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma otorga al Instituto de la Vivienda de Madrid la capacidad de vigilar, inspeccionar y sancionar a quienes no cumplan con el depósito obligatorio de las fianzas de alquiler. El objetivo es asegurar que el dinero de las fianzas de viviendas y suministros se deposite correctamente para que la Administración pueda usar esos fondos en la promoción de vivienda pública y rehabilitación urbana. Establece un régimen de multas y procedimientos de inspección para garantizar que los propietarios y suministradoras cumplan su deber.",
+  "citizen_impact": "Garantiza que el dinero de la fianza que el inquilino entrega al propietario esté debidamente protegido y depositado ante la Administración. Esto ofrece una mayor seguridad jurídica al arrendatario sobre la disponibilidad de su garantía al finalizar el contrato.",
+  "professional_impact": "Los arrendadores, subarrendadores y empresas de suministros de servicios asumen la obligación estricta de depositar las fianzas y colaborar con las inspecciones. El incumplimiento puede acarrear multas graves (hasta 15 millones de pesetas) y la exclusión de regímenes especiales de depósito.",
+  "keywords": [
+    "fianzas de arrendamiento",
+    "depósito de fianzas",
+    "inspección de vivienda",
+    "sanciones administrativas",
+    "Comunidad de Madrid",
+    "Instituto de la Vivienda de Madrid"
+  ],
+  "key_points": [
+    "Obligatoriedad de depositar las fianzas de alquiler de vivienda y suministros ante la autoridad autonómica.",
+    "Los inspectores tienen la consideración de Agentes de la Autoridad.",
+    "Las infracciones graves incluyen no depositar la fianza o no exigir la cuantía obligatoria.",
+    "Las infracciones leves incluyen no colaborar con la inspección o retrasos en declaraciones anuales.",
+    "Se pueden imponer multas coercitivas del 2% de la cantidad no depositada cada cuatro meses.",
+    "Los fondos recaudados por sanciones se destinan íntegramente a la promoción pública de vivienda.",
+    "Las infracciones graves prescriben a los dos años y las leves al año."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 29/1994, de 24 de noviembre (Ley de Arrendamientos Urbanos)",
+    "Ley Orgánica 3/1983, de Estatuto de Autoonomía de la Comunidad de Madrid",
+    "Ley 30/1992, de 26 de noviembre",
+    "Decreto 54/1984, de 17 de mayo",
+    "Ley 1/1993, de 14 de enero"
+  ],
+  "derogations": [],
+  "main_obligations": "Los arrendadores y suministradoras deben exigir y depositar la fianza legal. El incumplimiento de la obligación de depósito o la obstrucción a la inspección conlleva multas que pueden alcanzar los 15.000.000 de pesetas.",
+  "effective_date": "1998-04-03",
+  "proceduers": [
+    {
+      "name": "Procedimiento de Inspección y Regularización",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Actuación Inspectora",
+          "description": "Comprobación de datos y cumplimiento de obligaciones por parte de los funcionarios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentos contables y de contratos de arrendamiento"
+        },
+        {
+          "step": 2,
+          "title": "Propuesta de Regularización",
+          "description": "En caso de incumplimiento, se propone al interesado que subsane la falta.",
+          "start_date": null,
+          "end_date": "30 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Alegaciones",
+          "description": "Plazo para que el interesado presente documentos o argumentos ante la propuesta de resolución.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": "Documentos e informaciones pertinentes"
+        },
+        {
+          "step": 4,
+          "title": "Procedimiento Sancionador",
+          "description": "Si no se acepta la regularización o se constata infracción, se inicia el expediente de sanción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

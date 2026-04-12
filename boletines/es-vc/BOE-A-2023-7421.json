@@ -1,0 +1,227 @@
+{
+  "identifier": "BOE-A-2023-7421",
+  "title": "Ley 2/2023, de 13 de marzo, de Protección, Bienestar y Tenencia de animales de compañía y otras medidas de bienestar animal",
+  "visible_title": "Ley de Protección, Bienestar y Tenencia de animales de compañía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "2/2023",
+  "publication_date": "2023-03-22",
+  "enactment_date": "2023-03-13",
+  "last_updated": "2025-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2023/03/13/2",
+  "official_journal": "Boletín Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta ley transforma radicalmente la convivencia con los animales en la Comunidad Valenciana, priorizando su bienestar sobre cualquier interés económico. Introduce el principio de 'sacrificio cero' y endurece drásticamente las sanciones por maltrato, abandono o falta de control reproductivo. Además, regula estrictamente la cría y venta de animales para evitar la explotación y garantiza un control de identidad más riguroso mediante un nuevo registro. En definitiva, busca que la tenencia de mascotas sea una responsabilidad consciente y regulada, no un simple derecho sin obligaciones.",
+  "citizen_impact": "Los dueños de mascotas ahora tienen obligaciones más estrictas: deben identificar obligatoriamente a perros, gatos y hurones, usar correas de máximo 2 metros y recoger inmediatamente los excrementos. Se prohíbe la venta de animales a menores y su uso como premios. Además, los ciudadanos con especies prohibidas deben regularizar su situación en plazos cortos, y los ayuntamientos podrán limitar el número de animales por vivienda o aplicar tasas municipales por la tenencia.",
+  "professional_impact": "Los criadores y vendedores enfrentan un control mucho más severo: la venta de perros, gatos y hurones debe ser directa (sin intermediarios), requiere contrato escrito y tiene restricciones de edad para la comercialización de las crías. Los ayuntamientos asumen nuevas responsabilidades, como ofrecer servicios de recogida y atención veterinaria de urgencia 24/7 y gestionar el registro de animales. Las multas por incumplimiento pueden ser muy elevadas, alcanzando los 45.000 euros para infracciones muy graves.",
+  "keywords": [
+    "bienestar animal",
+    "tenencia de mascotas",
+    "sacrificio cero",
+    "protección animal",
+    "sanciones maltrato",
+    "cría de animales",
+    "identificación animal"
+  ],
+  "key_points": [
+    "Prohibición absoluta de sacrificar animales por falta de espacio o motivos económicos.",
+    "Obligatoriedad de esterilización para perros y gatos sin control reproductivo.",
+    "Creación de un Registro Supra-municipal de Identificación para garantizar la trazabilidad.",
+    "Venta de perros, gatos y hurones prohibida a través de intermediarios; debe ser directa del criador.",
+    "Obligación de contrato escrito de compraventa con información sanitaria detallada.",
+    "Prohibición de la venta de animales a menores de 18 años y de regalarlos como premios.",
+    "Nuevos límites de edad para la venta de crías (2 o 4 meses según el lugar de nacimiento).",
+    "Servicio municipal de recogida y urgencias veterinarias disponible 24/7/365.",
+    "Prohibición total de tener primates como mascotas o usarlos en espectáculos.",
+    "Posibilidad de que los ayuntamientos limiten el número de animales por vivienda mediante informes técnicos.",
+    "Régimen sancionador severo con multas de hasta 45.000 euros.",
+    "Creación de un registro de personas inhabilitadas para la tenencia de animales."
+  ],
+  "legal_references": [
+    "Ley 8/2003, de 24 de abril, de sanidad animal",
+    "Ley 32/2007, de 7 de noviembre, para la atención de los animales",
+    "Ley 4/1994, de 8 de julio, de la Generalitat, sobre protección de los animales de compañía",
+    "Ley 7/2023, de 28 de marzo, en materia de protección y bienestar animal",
+    "Ley 8/2010, de 23 de junio, de régimen local de la Comunitat Valenciana",
+    "Real Decreto 630/2013, de 2 de agosto",
+    "Real Decreto 1.118/1989, de 15 de septiembre",
+    "Ley 50/1999, de 23 de diciembre",
+    "Código Civil",
+    "Reglamento (UE) 2016/429",
+    "Ley 6/2003, de 4 de marzo, de la Generalitat",
+    "Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas",
+    "Código Penal (artículos 337 y 337 bis)"
+  ],
+  "derogations": [
+    "Ley 4/1994, de 8 de julio, de la Generalitat, sobre protección de los animales de compañía"
+  ],
+  "main_obligations": "Los propietarios deben identificar a sus mascotas y comunicar extravíos en 72 horas o defunciones en 3 días. Los dueños de especies prohibidas deben informar de su titularidad en 6 meses, y los criadores deben registrar la esterilización previa en el pasaporte en un plazo de 6 meses.",
+  "effective_date": "2023-03-23",
+  "procedures": [
+    {
+      "name": "Identificación y alta en el Registro Supra-municipal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Identificación veterinaria",
+          "description": "Un veterinario colegiado realiza la identificación mediante el método más adecuado.",
+          "start_date": "Previa a cualquier transmisión o vacunación",
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la identidad del responsable y el origen del animal"
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de alta telemática",
+          "description": "El veterinario solicita el alta en el Registro Supra-municipal.",
+          "start_date": "Inmediatamente tras la identificación",
+          "end_date": "3 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Validación del registro",
+          "description": "El registro valida los datos introducidos.",
+          "start_date": "Desde el alta",
+          "end_date": "5 días hábiles desde la cesión efectiva",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Comunicación de extravío o sustracción",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Denuncia y comunicación",
+          "description": "El responsable debe presentar denuncia ante las fuerzas de seguridad y comunicar al registro.",
+          "start_date": "Desde el momento del extravío",
+          "end_date": "72 horas",
+          "required_documentation": "Denuncia ante fuerzas de seguridad"
+        }
+      ]
+    },
+    {
+      "name": "Recuperación de animales sin identificación tras abandono",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de recuperación para el responsable",
+          "descrption": "El propietario acreditado tiene un plazo para recoger al animal tras la entrada en el centro.",
+          "start_date": "Desde el ingreso en el centro",
+          "end_date": "20 días hábiles",
+          "required_documentation": "Identificación del animal"
+        },
+        {
+          "step": 2,
+          "title": "Certificación de abandono",
+          "descrption": "Si no se recupera en el plazo, el ayuntamiento emite el certificado de abandono para proceder a la adopción.",
+          "start_date": "Tras los 20 días hábiles",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Recuperación de animales con identificación tras pérdida/abandono",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación al responsable",
+          "descrption": "Se comunica al dueño la localización del animal identificado.",
+          "start_date": "Inmediatamente tras la localización",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de recogida",
+          "descrption": "El responsable debe recoger al animal tras ser notificado.",
+          "start_date": "Desde la notificación",
+          "end_date": "10 días hábiles",
+          "required_documentation": "Documentación de identificación"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del procedimiento",
+          "descrption": "Se inicia el trámite para determinar la responsabilidad y la sanción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Pago voluntario y reducción",
+          "descrption": "El pago antes de la resolución permite reducciones de entre el 20% y el 40%.",
+          "start_date": "En cualquier momento anterior a la resolución",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador administrativo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación y tramitación",
+          "descrption": "Inicio del expediente por parte de la autoridad competente (Ayuntamientos o Consejería).",
+          "start_date": "Desde la detección de la infracción",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "descrption": "Plazo máximo para dictar y notificar la resolución final.",
+          "start_date": "Desde la incoación",
+          "end_date": "9 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adecuación de condiciones de tenencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio de trámites",
+          "descrption": "Plazo para iniciar los procedimientos necesarios para cumplir la ley.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Ejecución de obras o reformas",
+          "descrption": "Plazo para realizar las reformas tras obtener la resolución administrativa.",
+          "start_date": "Tras la resolución de autorización",
+          "end_date": "18 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de especies prohibidas (transitorio)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de titularidad",
+          "descrption": "Informar a la consejería sobre la posesión de especies prohibidas adquiridas previamente.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "6 meses",
+          "required_documentation": "Declaración responsable y documento de identificación del animal"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

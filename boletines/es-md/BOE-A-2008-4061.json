@@ -1,0 +1,94 @@
+{
+  "identifier": "BOE-A-2008-4061",
+  "title": "Ley 6/2007, de 21 de diciembre, Reguladora del Consejo Consultivo de la Comunidad de Madrid",
+  "visible_title": "Ley Reguladora del Consejo Consultivo de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "6/2007",
+  "publication_date": "2008-03-03",
+  "enactment_date": "2007-12-21",
+  "last_updated": "2015-12-29",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2007/12/21/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma crea y organiza el Consejo Consultivo de la Comunidad de Madrid como un órgano de asesoramiento independiente y colegiado. Su objetivo es aportar rigor jurídico y objetividad a las decisiones del Gobierno autonómico, actuando como un filtro de legalidad previo. Además, le otorga funciones de protección del derecho de acceso a la información pública y de control del buen gobierno de los altos cargos.",
+  "citizen_impact": "Aunque es una norma de organización institucional, refuerza indirectamente los derechos de los ciudadanos al garantizar que las leyes y reglamentos madrileños se redacten con mayor rigor jurídico. También ofrece un mecanismo para reclamar el acceso a la información pública frente a la Administración regional.",
+  "professional_impact": "Afecta directamente a los altos cargos de la Comunidad de Madrid, quienes quedan sujetos a un régimen de control de buen gobierno y posibles sanciones. Para los abogados y juristas, establece un nuevo marco de actuación en materia de transparencia y resolución de reclamaciones de acceso a la información.",
+  "keywords": [
+    "Consejo Consultivo",
+    "Comunidad de Madrid",
+    "asesoramiento jurídico",
+    "transparencia",
+    "acceso a la información pública",
+    "buen gobierno",
+    "administración pública"
+  ],
+  "key_points": [
+    "Creación de un órgano de asesoramiento con autonomía orgánica y funcional.",
+    "Los ex Presidentes de la Comunidad de Madrid tienen derecho a ser Consejeros permanentes vitalicios.",
+    "El Consejo actúa como autoridad para resolver reclamaciones de acceso a la información pública.",
+    "Se establece la capacidad de sancionar a altos cargos por infracciones de buen gobierno.",
+    "Los dictámenes del Consejo no son vinculantes, salvo que una ley específica así lo determine.",
+    "El plazo general para emitir dictámenes es de 30 días hábiles, reduciéndose a 15 en casos de urgencia."
+  ],
+  "legal_references": [
+    "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno",
+    "Ley 14/1995, de 21 de abril, de Incompatibilidades de Altos Cargos",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas",
+    "Estatuto de Autonomía de la Comunidad de Madrid",
+    "Ley 3/1999, de 30 de marzo, de Ordenación de los Servicios Jurídicos de la Comunidad de Madrid"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a la ley"
+  ],
+  "main_obligations": "Los miembros del Consejo deben guardar estricto secreto sobre las deliberaciones y propuestas. Los altos cargos de la Comunidad de Madrid están sujetos a procedimientos sancionadores por parte del Consejo en caso de infracciones de buen gobierno.",
+  "effective_date": "2008-01-01",
+  "procedures": [
+    {
+      "name": "Emisión de dictámenes del Consejo Consultivo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de dictamen",
+          "description": "El Presidente de la Comunidad, el Consejo de Gobierno o titulares de organismos autónomos solicitan el informe.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Expediente completo con todos los antecedentes e informes necesarios."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y plazo de emisión",
+          "description": "El Consejo estudia el asunto y emite su dictamen en un plazo estándar o de urgencia.",
+          "start_date": "Desde la recepción del expediente",
+          "end_date": "30 días hábiles (o 15 días si es urgente)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reclamación de acceso a la información pública",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Interposición de la reclamación",
+          "description": "El ciudadano presenta la reclamación contra la resolución de la Administración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución por el Pleno",
+          "description": "El Pleno del Consejo Consultivo resuelve la reclamación y notifica a las partes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

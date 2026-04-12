@@ -1,0 +1,85 @@
+{
+  "identifier": "BOE-A-2010-9420",
+  "title": "Ley 12/2010, de 19 de mayo, del Consejo de Gobiernos Locales",
+  "visible_title": "Ley del Consejo de Gobiernos Locales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "12/2010",
+  "publication_date": "2010-06-15",
+  "enactment_date": "2010-05-19",
+  "last_updated": "2011-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2010/05/19/12",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea y regula el Consejo de Gobiernos Locales de Cataluña, un órgano destinado a representar los intereses de los municipios y las veguerías ante la Generalitat. Establece cómo se compone el Consejo, cómo se eligen sus miembros y cuáles son sus funciones de participación y defensa de la autonomía local. Busca asegurar que las administraciones locales tengan voz en la creación de leyes y planes que les afecten directamente.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta directamente a alcaldes, presidentes de consejos de veguería y representantes de partidos políticos locales. Estos profesionales adquieren nuevas funciones de representación política y participación en la tramitación legislativa autonómica, además de reglas específicas sobre incompatibilidades con cargos parlamentarios.",
+  "keywords": [
+    "Consejo de Gobiernos Locales",
+    "Cataluña",
+    "administración local",
+    "municipios",
+    "veguerías",
+    "autonomía local",
+    "representación política"
+  ],
+  "key_points": [
+    "Creación de un órgano de 100 miembros para representar a municipios y veguerías.",
+    "Garantía de participación de los entes locales en la tramitación de leyes y reglamentos que les afecten.",
+    "Establecimiento de funciones de defensa de la autonomía local ante la Generalitat.",
+    "Prohibición de que los miembros del Consejo ocupen cargos en el Parlamento de Cataluña, Congreso o Senado.",
+    "Obligación de los partidos políticos con más del 5% de votos municipales de designar representantes.",
+    "Implementación de criterios de paridad de género y representación territorial en la composición.",
+    "Creación de una Comisión Permanente para el seguimiento y gestión ordinaria del Consejo."
+  ],
+  "legal_references": [
+    "Estatuto de autonomía de Cataluña (artículo 85)",
+    "Constitución Española"
+  ],
+  "derogations": [],
+  "main_obligations": "El Consejo debe aprobar su propio reglamento de organización y funcionamiento en un plazo máximo de seis meses tras su constitución. Los partidos con más del 5% de votos municipales deben designar a sus miembros según los criterios de proporcionalidad establecidos.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Constitución del Consejo de Gobiernos Locales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Celebración de elecciones municipales",
+          "descrption": "Punto de partida para el ciclo de mandato del Consejo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comunicación de designaciones",
+          "descrption": "El departamento competente comunica a los partidos el número de miembros que deben designar.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Sesión Constitutiva",
+          "descrption": "Celebración de la primera sesión para elegir órganos y presidente.",
+          "start_date": "dentro de los 6 meses posteriores a las elecciones municipales",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación del Reglamento",
+          "descrption": "El Consejo debe aprobar su reglamento de organización y funcionamiento.",
+          "start_date": "desde la constitución del Consejo",
+          "end_date": "6 meses después de la constitución",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

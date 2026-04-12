@@ -1,0 +1,107 @@
+{
+  "identifier": "BOE-A-2006-9009",
+  "title": "Ley 6/2006, de 2 de mayo, del Defensor del Pueblo Riojanos",
+  "visible_title": "Ley del Defensor del Pueblo Riojano",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "6/2006",
+  "publication_date": "2006-05-24",
+  "enactment_date": "2006-05-02",
+  "last_updated": "2020-01-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2006/05/02/6",
+  "official_journal": "Boletín Oficial de La Rioja",
+  "journal_issue": null,
+  "summary": "Esta ley crea la figura del Defensor del Pueblo Riojano como un Alto Comisionado del Parlamento para proteger los derechos fundamentales de los ciudadanos en La Rioja. Su función principal es supervisar la actividad de la Administración autonómica y local para evitar abusos de poder o negligencias. Actúa como un mediador y controlador que busca garantizar la transparencia y la legalidad en el funcionamiento de las instituciones públicas riojanas.",
+  "citizen_impact": "Los ciudadanos riojanos cuentan con un nuevo canal gratuito para presentar quejas contra la Administración si consideran que sus derechos han sido vulnerados. No requiere abogado ni procurador, lo que facilita el acceso a la justicia administrativa sin costes.",
+  "professional_impact": "Los funcionarios y autoridades de la Administración de La Rioja tienen la obligación de colaborar con las investigaciones del Defensor, facilitando documentos y acceso a dependencias. El incumplimiento de este deber de auxilio puede derivar en responsabilidad penal y ser expuesto en el informe anual al Parlamento.",
+  "keywords": [
+    "Defensor del Pueblo Riojano",
+    "derechos fundamentales",
+    "administración pública",
+    "quejas ciudadanas",
+    "control parlamentario",
+    "La Rioja"
+  ],
+  "key_points": [
+    "Creación de una institución autónoma e independiente para la defensa de derechos en La Rioja.",
+    "El procedimiento de queja es totalmente gratuito y no requiere asistencia letrada.",
+    "El Defensor tiene potestad para investigar de oficio o a petición de cualquier persona con interés legítimo.",
+    "Obligación de auxilio para la Administración: deben responder a los requerimientos en plazos determinados.",
+    "El mandato del Defensor es de cinco años, con posibilidad de una única reelección.",
+    "Posibilidad de proponer fórmulas de conciliación para resolver conflictos rápidamente.",
+    "El Defensor puede recomendar cambios en leyes o reglamentos si detecta que causan injusticias."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de La Rioja",
+    "Ley 2/2020, de 30 de enero",
+    "Ley 9/2013, de 21 de octubre"
+  ],
+  "derogations": [],
+  "main_obligations": "La Administración y sus agentes están obligados a auxiliar al Defensor con carácter preferente y urgente. Los funcionarios deben responder por escrito a las investigaciones en un plazo de 10 días si la queja afecta a su conducta.",
+  "effective_date": "2006-05-25",
+  "procedures": [
+    {
+      "name": "Procedimiento de elección del Defensor del Pueblo Riojano",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de candidatos",
+          "description": "La Comisión parlamentaria presenta candidatos a la Mesa del Parlamento.",
+          "start_date": "1 mes desde la iniciativa",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Elevación al Pleno",
+          "description": "La Mesa eleva un candidato al Pleno de la Cámara.",
+          "start_date": "15 días tras la propuesta",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Votación",
+          "description": "Elección por mayoría de 3/5 partes o mayoría absoluta tras tres votaciones.",
+          "start_date": null,
+          "end_date": "3 meses desde el inicio del proceso",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de quejas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la queja",
+          "description": "El interesado presenta la queja por escrito, medios electrónicos o de forma oral en la sede.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escrito firmado con datos de identificación y hechos razonados"
+        },
+        {
+          "step": 2,
+          "title": "Valoración de admisibilidad",
+          "description": "El Defensor registra la queja y decide si la tramita o la rechaza.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Investigación",
+          "description": "Se requieren informes a los órganos afectados.",
+          "start_date": null,
+          "end_date": "20 días hábiles para responder a la Administración",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,79 @@
+{
+  "identifier": "BOE-A-2005-14495",
+  "title": "Ley 6/2005, de 7 de julio, sobre la Declaración de Voluntades Anticipadas en materia de la propia salud",
+  "visible_title": "Ley sobre la Declaración de Voluntades Anticipadas en materia de la propia salud",
+  "rank": "ley",
+  "country": "es",
+  "department": "Junta de Comunidades de Castilla-La Mancha",
+  "official_number": "6/2005",
+  "publication_date": "2005-08-25",
+  "enactment_date": "2005-07-07",
+  "last_updated": "2005-07-15",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2005/07/07/6",
+  "official_journal": "Boletín Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley permite a los ciudadanos de Castilla-La Mancha dejar por escrito qué tratamientos médicos desean recibir o rechazar en el futuro si pierden la capacidad de decidir por sí mismos. Establece un registro oficial para custodiar estas decisiones y garantiza que la voluntad del paciente prevalezca sobre la de sus familiares o médicos. El objetivo es proteger la autonomía personal y la dignidad del paciente en situaciones clínicas extremas.",
+  "citizen_impact": "Permite a cualquier persona mayor de edad y capaz decidir sobre su futuro sanitario, evitando decisiones impuestas por terceros cuando no pueda comunicarse. Ofrece la opción de nombrar a un representante para que actúe en su nombre y asegura que sus deseos sobre la donación de órganos también sean respetados.",
+  "professional_impact": "Obliga a los profesionales sanitarios a consultar el Registro de Voluntades Anticipadas antes de actuar en situaciones de incapacidad del paciente. Proporciona un marco legal seguro para que los médicos actúen conforme a la voluntad del paciente, protegiéndolos de posibles conflictos con familiares.",
+  "keywords": [
+    "voluntades anticipadas",
+    "autonomía del paciente",
+    "instrucciones previas",
+    "derechos sanitarios",
+    "Castilla-La Mancha",
+    "consentimiento informado"
+  ],
+  "key_points": [
+    "Cualquier persona mayor de edad y no incapacitada judicialmente puede redactar este documento.",
+    "Se puede elegir a un representante para que gestione la voluntad ante el equipo médico.",
+    "El documento puede formalizarse ante notario, ante un funcionario del Registro o ante tres testigos.",
+    "La voluntad expresada en el documento es obligatoria para médicos y centros sanitarios.",
+    "La decisión del paciente prevalece sobre la opinión de familiares o allegados.",
+    "Se crea un Registro de Voluntades Anticipadas para garantizar la custodia y acceso a la información.",
+    "El documento puede ser modificado, sustituido o revocado en cualquier momento por escrito."
+  ],
+  "legal_references": [
+    "Convenio del Consejo de Europa de Oviedo (1997)",
+    "Constitución Española (Artículos 10 y 43)",
+    "Ley 14/1986, General de Sanidad",
+    "Ley 41/2002, Básica Reguladora de la Autonomía del Paciente",
+    "Estatuto de Autonomía de Castilla-La Mancha"
+  ],
+  "derogations": [],
+  "main_obligations": "Los profesionales sanitarios tienen la obligación de consultar el Registro de Voluntades Anticipadas cuando atiendan a una persona incapaz de decidir. Los centros sanitarios deben garantizar el cumplimiento de las instrucciones contenidas en el documento una vez que este sea comunicado o localizado.",
+  "effective_date": "2005-09-01",
+  "procedures": [
+    {
+      "name": "Formalización de la Declaración de Voluntades Anticipadas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elección de la vía de formalización",
+          "description": "El interesado decide si otorga el documento ante notario, ante funcionario del Registro o ante tres testigos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento Nacional de Identidad o documento oficial con efectos legales."
+        },
+        {
+          "step": 2,
+          "title": "Redacción y firma",
+          "description": "Se consignan los datos de identidad, las instrucciones médicas y la designación de representante si procede, procediendo a la firma.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento escrito con datos de identidad y voluntad expresa."
+        },
+        {
+          "step": 3,
+          "title": "Inscripción en el Registro",
+          "description": "Entrega del documento en el Registro de Voluntades Anticipadas para su custodia y eficacia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Copia del documento otorgado ante notario o testigos."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

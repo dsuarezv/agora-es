@@ -1,0 +1,75 @@
+{
+  "identifier": "BOE-A-1990-5372",
+  "title": "Ley 1/1990, de 1 de febrero, de Protección de los Animales Domésticos",
+  "visible_title": "Ley de Protección de los Animales Domésticos",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "1/1990",
+  "publication_date": "1990-03-02",
+  "enactment_date": "1990-02-01",
+  "last_updated": "2016-08-10",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1990/02/01/1",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": "39",
+  "summary": "Esta norma establecía el marco de protección para animales domésticos y de compañía en la Comunidad de Madrid. Regulaba desde las obligaciones de higiene y sanidad de los dueños hasta las condiciones de los criaderos y centros de recogida. Su objetivo era prevenir el maltrato, el abandono y garantizar la seguridad ciudadana mediante la regulación de la tenencia y el transporte de animales.",
+  "citizen_impact": "Obligaba a los dueños de mascotas a mantener condiciones higiénicas, contratar un seguro de responsabilidad civil y censar a sus perros y gatos. También prohibía conductas como el abandono, el maltrato o la venta de animales a menores de 14 años.",
+  "professional_impact": "Exigía a criaderos, tiendas de mascotas y centros de acogida registrarse como núcleos zoológicos y cumplir estrictos controles sanitarios. Los veterinarios debían mantener fichas clínicas obligatorias y los establecimientos de venta debían ofrecer garantías de salud de al menos ocho días.",
+  "keywords": [
+    "protección animal",
+    "animales de compañía",
+    "maltrato animal",
+    "tenencia de animales",
+    "núcleos zoológicos",
+    "Comunidad de Madrid"
+  ],
+  "key_points": [
+    "Obligatoriedad de contratar un seguro de responsabilidad civil para dueños de perros.",
+    "Prohibición de abandonar animales o realizar mutilaciones sin control veterinario.",
+    "Necesidad de censar y marcar a perros y gatos en los ayuntamientos.",
+    "Regulación estricta de los criaderos y tiendas de animales como núcleos zoológicos.",
+    "Prohibición de utilizar animales en espectáculos que impliquen crueldad.",
+    "Establecimiento de un plazo de garantía de 8 días para la compra de animales.",
+    "Clasificación de infracciones en leves, graves y muy graves con multas de hasta 15.025,30 euros."
+  ],
+  "legal_references": [
+    "Ley 4/2016, de 22 de julio",
+    "Ley de Procedimiento Administrativo"
+  ],
+  "derogations": [
+    "Ley 1/1990, de 1 de febrero, de Protección de los Animales Domésticos (derogada por la Ley 4/2016)"
+  ],
+  "main_obligations": "Los dueños deben garantizar el bienestar sanitario de sus mascotas, contratar seguro de responsabilidad civil y cumplir con el censo municipal. Se prohíbe estrictamente el abandono, el maltrato y la venta ambulante de animales.",
+  "effective_date": "1990-03-02",
+  "procedures": [
+    {
+      "name": "Recuperación de animal abandonado con identificación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación al propietario",
+          "descrption": "Tras la recogida del animal identificado, se avisa al dueño para que proceda a su recuperación.",
+          "start_date": "Día de la identificación",
+          "end_date": "10 días después",
+          "required_documentation": "Acreditación de propiedad"
+        }
+      ]
+    },
+    {
+      "name": "Recuperación de animal abandonado sin identificación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Periodo de retención",
+          "descrption": "El ayuntamiento retiene al animal en instalaciones adecuadas sin identificación.",
+          "start_date": "Día de la recogida",
+          "end_date": "10 días después",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

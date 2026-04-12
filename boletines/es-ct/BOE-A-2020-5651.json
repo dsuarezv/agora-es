@@ -1,0 +1,105 @@
+{
+  "identifier": "BOE-A-2020-5651",
+  "title": "Decreto-ley 14/2020, de 28 de abril, por el que se adoptan medidas en relación al Sistema sanitario integral de utilización pública de Cataluña, en el ámbito tributario y social, para paliar los efectos de la pandemia generada por la COVID-19 y de adopción de otras medidas urgentes con el mismo objetivo",
+  "visible_title": "Medidas sanitarias, tributarias y sociales para paliar los efectos de la pandemia de la COVID-19 en Cataluña",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "14/2020",
+  "publication_date": "2020-06-04",
+  "enactment_date": "2020-04-28",
+  "last_updated": "2020-06-11",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2020/04/28/14",
+  "official_journal": "DOGC / BOE",
+  "journal_issue": null,
+  "summary": "Esta norma implementa ayudas económicas y ajustes administrativos para mitigar el impacto de la crisis sanitaria por COVID-19 en Cataluña. Introduce una ayuda directa de 200 euros para familias vulnerables, aplaza plazos de impuestos sobre emisiones de CO2 y modifica la gestión de fondos sanitarios y de contratación pública. Además, permite agilizar obras de infraestructura escolar y campañas de turismo para reactivar la economía.",
+  "citizen_impact": "Las familias en Cataluña con ingresos reducidos drásticamente por la pandemia (más del 30%) y con cargas familiares pueden recibir una ayuda única de 200 euros para gastos básicos. También se aplazan los plazos de presentación de los padrones del impuesto de emisiones de CO2.",
+  "professional_impact": "Los autónomos y trabajadores con reducción de ingresos pueden acceder a la prestación social. Las empresas y entidades sanitarias ven ajustadas sus tarifas de compensación, y el sector de la construcción y turismo recibe medidas para agilizar licitaciones y campañas de reactivación.",
+  "keywords": [
+    "ayuda económica COVID-19",
+    "prestación suministros básicos",
+    "Cataluña",
+    "impuesto emisiones CO2",
+    "contratación de emergencia",
+    "vulnerabilidad económica"
+  ],
+  "key_points": [
+    "Creación de una ayuda de 200 euros para familias con ingresos inferiores a 2.098,37 € brutos mensuales de media.",
+    "Requisito de reducción de ingresos superior al 30% en marzo y abril de 2020 para acceder a la ayuda social.",
+    "Aplazamiento de los plazos de publicación de los padrones del impuesto sobre emisiones de CO2 de los ejercicios 2019 y 2020.",
+    "Autorización de contratación de emergencia para el Instituto Catalán de Finanzas para apoyar a autónomos y empresas.",
+    "Agilización de licitaciones de obras de escolarización (obras RAM) para asegurar su finalización antes del curso escolar.",
+    "Uso excepcional de bienes de sucesiones intestadas para financiar gastos sanitarios y asistenciales por la COVID-19.",
+    "Autorización de campaña publicitaria de emergencia por parte de la Agencia Catalana del Turismo para el mercado doméstico."
+  ],
+  "legal_references": [
+    "Decreto-ley 12/2020, de 10 de abril",
+    "Ley 5/2017, de 28 de marzo",
+    "Ley 16/2017, del 1 de agosto",
+    "Ley 9/2019, del 23 de diciembre",
+    "Ley 13/2008, del 5 de noviembre",
+    "Real Decreto 463/2020, de 14 de marzo",
+    "Ley 9/2017, de 8 de noviembre",
+    "Ley 10/2008, del 10 de julio",
+    "Decreto 145/2017, del 26 de julio",
+    "Ley 39/2015, del 1 de octubre"
+  ],
+  "derogations": [],
+  "main_obligations": "Los solicitantes de la ayuda de 200 euros deben declarar responsablemente el cumplimiento de los requisitos. La inexactitud o falsedad en la documentación conlleva la obligación de reintegrar las cantidades percibidas.",
+  "effective_date": "2020-04-28",
+  "procedures": [
+    {
+      "name": "Prestación extraordinaria para suministros básicos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Rellenar y presentar el formulario normalizado para solicitar la ayuda de 200 euros.",
+          "start_date": "A partir de la resolución de la convocatoria",
+          "end_date": "Hasta agotar la dotación presupuestaria",
+          "required_documentation": "Documentación que acredite la reducción de ingresos y la composición de la unidad familiar"
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Dictar resolución de otorgamiento o denegación de la prestación.",
+          "start_date": "7 días hábiles tras la presentación",
+          "end_date": "7 días hábiles tras la resolución",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Abono",
+          "description": "Pago de la ayuda mediante transferencia bancaria.",
+          "start_date": "7 días hábiles tras la resolución",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Impuesto sobre emisiones de CO2 (Ejercicio 2019)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Exposición de padrón provisional",
+          "description": "Publicación del padrón provisional para el ejercicio 2019.",
+          "start_date": "2020-11-01",
+          "end_date": "2020-11-15",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Exposición de padrón definitivo",
+          "description": "Publicación del padrón definitivo para el ejercicio 2019.",
+          "start_date": "2021-03-01",
+          "end_date": "2021-03-15",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,80 @@
+{
+  "identifier": "BOE-A-2012-539",
+  "title": "Ley 18/1997, de 21 de noviembre, de ejercicio de profesiones tituladas y de colegios y consejos profesionales",
+  "visible_title": "Ley de ejercicio de profesiones tituladas y de colegios y consejos profesionales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "18/1997",
+  "publication_date": "2012-01-14",
+  "enactment_date": "1997-11-21",
+  "last_updated": "2014-10-28",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1997/11/21/18",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo se ejercen las profesiones que requieren un título universitario en el País Vasco, tanto para quienes están colegiados como para los que no. Establece un marco común de derechos y deberes, define qué es una profesión titulada y organiza el funcionamiento de los colegios y consejos profesionales. Además, busca proteger el interés público y la seguridad de los ciudadanos mediante la vigilancia del ejercicio profesional y la creación de un registro oficial.",
+  "citizen_impact": "Garantiza a los ciudadanos que los profesionales que contraten en el País Vasco cumplen con requisitos académicos y éticos. Ofrece un mecanismo de información (Registro de Profesiones Tituladas) para verificar la habilitación de un profesional y un servicio de atención para presentar quejas o reclamaciones.",
+  "professional_impact": "Los profesionales titulados deben cumplir con requisitos de formación continua, seguro de responsabilidad civil y deber de secreto profesional. Los colegiados están sujetos a un régimen disciplinario que puede incluir multas o inhabilitación, mientras que los funcionarios públicos de la Administración vasca quedan exentos de la colegiación obligatoria para su ejercicio en la administración.",
+  "keywords": [
+    "profesiones tituladas",
+    "colegios profesionales",
+    "consejos profesionales",
+    "País Vasco",
+    "ejercicio profesional",
+    "deontología",
+    "régimen disciplinario"
+  ],
+  "key_points": [
+    "Regulación tanto de profesiones colegiadas como no colegiadas.",
+    "Obligatoriedad de poseer título académico universitario o equivalente para ejercer.",
+    "Exención de colegiación obligatoria para profesionales de la Administración Pública vasca bajo derecho administrativo o laboral.",
+    "Creación del Registro de Profesiones Tituladas para consulta pública.",
+    "Obligación de contratar un seguro de responsabilidad civil para cubrir riesgos del ejercicio.",
+    "Establecimiento de un régimen de sanciones que incluye desde apercibimientos hasta la inhabilitación profesional.",
+    "Deber de los profesionales de comunicar casos de intrusismo o actuaciones irregulares.",
+    "Los colegios profesionales deben ofrecer servicios de atención al consumidor para quejas y reclamaciones."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía para el País Vasco",
+    "Constitución Española",
+    "Ley 3/1990 de Tasas y precios públicos de la Administración de la Comunidad Autónoma del País Vasco",
+    "Ley 17/2009 sobre el Libre Acceso a las Actividades de Servicios y su Ejercicio",
+    "Ley de Defensa de la Competencia",
+    "Ley de Competencia Desleal",
+    "Ley General de Publicidad"
+  ],
+  "derogations": [],
+  "main_obligations": "Los profesionales deben mantener su formación continua, cumplir con el secreto profesional y contar con un seguro de responsabilidad civil. El incumplimiento de deberes graves o el ejercicio sin título puede acarrear multas de hasta 5.000.000 de pesetas (ajustables) e inhabilitación de hasta 20 años.",
+  "effective_date": "1997-11-21",
+  "procedures": [
+    {
+      "name": "Adaptación de estatutos colegiales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de adaptación",
+          "descrption": "Los colegios y consejos deben adaptar sus estatutos a la nueva ley.",
+          "start_date": "1997-11-21",
+          "end_date": "1 año después de la entrada en vigor",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inscripción en el Registro de Profesiones Tituladas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de inscripción",
+          "descrption": "Los colegios y consejos deben cumplir con sus obligaciones registrales.",
+          "start_date": "6 meses después de la adaptación de estatutos",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

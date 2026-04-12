@@ -1,0 +1,83 @@
+{
+  "identifier": "BOE-A-2025-2576",
+  "title": "Real Decreto 87/2025, de 11 de febrero, por el que se fija el salario mínimo interprofesional para 2025",
+  "visible_title": "Salario Mínimo Interprofesional 2025",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de Trabajo y Economía Social",
+  "official_number": "87/2025",
+  "publication_date": "2025-02-12",
+  "enactment_date": "2025-02-11",
+  "last_updated": "2026-01-28",
+  "status": "expired",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/02/11/87",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "37",
+  "summary": "Esta norma establece las nuevas cuantías del salario mínimo en España para todo el año 2025. El objetivo es aumentar la capacidad adquisitiva de los trabajadores mediante un incremento del 4,41% respecto al año anterior. Además, busca cumplir con los objetivos europeos de alcanzar el 60% del salario medio y reducir la pobreza laboral.",
+  "citizen_impact": "Los trabajadores con salarios bajos verán un aumento directo en sus ingresos mensuales. Para los empleados de hogar que trabajan por horas, el salario mínimo se fija en 9,26 euros por hora trabajada.",
+  "professional_impact": "Las empresas deben ajustar sus nóminas para cumplir con los nuevos mínimos legales, asegurando que el salario en especie no reduzca la parte en dinero. Se establece un mecanismo de compensación y absorción para evitar que el aumento del SMI desequilibre la estructura salarial de las empresas.",
+  "keywords": [
+    "salario mínimo",
+    "SMI",
+    "remuneración",
+    "trabajadores",
+    "empleo de hogar",
+    "nóminas"
+  ],
+  "key_points": [
+    "El salario mínimo mensual se fija en 1.184 euros.",
+    "El salario mínimo diario se fija en 39,47 euros.",
+    "El salario mínimo para empleados de hogar por horas es de 9,26 euros.",
+    "El incremento respecto al año anterior es del 4,41%.",
+    "El salario en especie no puede utilizarse para reducir la cuantía mínima en dinero.",
+    "Se establece un suelo de 16.576 euros anuales para el cómputo de compensación y absorción.",
+    "El aumento no afecta automáticamente a prestaciones de comunidades autónomas o contratos privados que usen el SMI como referencia, salvo acuerdo o necesidad de equiparación."
+  ],
+  "legal_references": [
+    "Real Decreto Legislativo 2/2015 (Estatuto de los Trabajadores)",
+    "Real Decreto 145/2024",
+    "Real Decreto-ley 28/2018",
+    "Real Decreto 1620/2011",
+    "Ley 39/2015",
+    "Ley 50/1997",
+    "Constitución Española"
+  ],
+  "derogatations": [
+    "Real Decreto 145/2024 (en lo relativo a las cuantías del SMI)"
+  ],
+  "main_obligations": "Los empleadores están obligados a pagar como mínimo 1.184 euros mensuales (o 39,47 euros diarios) a todos los trabajadores. En el caso de trabajadores eventuales, deben asegurar que la jornada legal no resulte inferior a 56,08 euros diarios incluyendo la parte proporcional de extras y festivos.",
+  "effective_date": "2025-01-01",
+  "procedures": [
+    {
+      "name": "Fijación anual del SMI",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Informe de la Comisión Asesoría",
+          "description": "Presentación del informe técnico para el análisis del SMI.",
+          "start_date": "2025-01-15",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aprobación en Consejo de Ministros",
+          "description": "Deliberación y aprobación del Real Decreto.",
+          "start_date": "2025-02-11",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Publicación en el BOE",
+          "description": "Publicación oficial para su entrada en vigor.",
+          "start_date": "2025-02-12",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

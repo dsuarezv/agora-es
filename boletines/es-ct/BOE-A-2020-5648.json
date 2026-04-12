@@ -1,0 +1,114 @@
+{
+  "identifier": "BOE-A-2020-5648",
+  "title": "Decreto-ley 11/2020, de 7 de abril, por el que se adoptan medidas económicas, sociales y administrativas para paliar los efectos de la pandemia generada por la COVID-19 y otras complementarias",
+  "visible_title": "Medidas económicas, sociales y administrativas para paliar los efectos de la pandemia de la COVID-19",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "11/2020",
+  "publication_date": "2020-06-04",
+  "enactment_date": "2020-04-07",
+  "last_updated": "2020-07-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2020/04/07/11",
+  "official_journal": "DOGC / BOE",
+  "journal_issue": null,
+  "summary": "Esta norma implementa un paquete de ayudas y flexibilizaciones para mitigar el impacto económico y social de la crisis sanitaria por COVID-19 en Cataluña. Incluye aplazamientos y reducciones de impuestos, ayudas económicas para la acogida de menores separados de sus familias y medidas para mantener los sueldos del sector público. También agiliza la contratación pública y la infraestructura de telecomunicaciones para responder a la emergencia.",
+  "citizen_impact": "Los ciudadanos se benefician de la creación de una ayuda económica para familias que acojan temporalmente a menores separados de sus padres por la pandemia. Además, se facilita la realización de trámites administrativos mediante opciones telemáticas para evitar desplazamientos y riesgos sanitarios.",
+  "professional_impact": "Las empresas y autónomos cuentan con nuevos plazos para pagar impuestos (sucesiones, bebidas azucaradas, canon del agua) y reducciones en cánones de residuos. Los funcionarios de la Generalitat ven garantizados sus incrementos salariales, mientras que el sector de la construcción y telecomunicaciones tiene vías de contratación de emergencia para infraestructuras de fibra óptica.",
+  "keywords": [
+    "COVID-19",
+    "medidas económicas",
+    "ayudas sociales",
+    "tributos",
+    "acogida familiar",
+    "Cataluña",
+    "gestión de residuos",
+    "canon del agua"
+  ],
+  "key_points": [
+    "Aplazamiento de pagos de impuestos y cánones para evitar sanciones durante el estado de alarma.",
+    "Reducción del 50% en los cánones por deposición de residuos industriales y de construcción (abril-mayo 2020).",
+    "Creación de una ayuda económica de emergencia para familias que realicen acogida de menores (326€ a 362€ mensuales).",
+    "Posibilidad de aplazar el pago del canon del agua para pequeñas empresas y autónomos hasta 6 meses.",
+    "Garantía de incrementos salariales del 2% para el personal de la administración autonómica.",
+    "Procedimiento simplificado para donaciones de dinero o bienes a la Generalidad para combatir la pandemia.",
+    "Habilitación de contratación de emergencia para el despliegue de red de fibra óptica en municipios con baja cobertura."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020",
+    "Decreto-ley 7/2020",
+    "Ley 13/2006",
+    "Ley 14/2010",
+    "Ley 13/1997",
+    "Ley 4/2017",
+    "Decreto-ley 3/2020",
+    "Real Decreto-ley 2/2020",
+    "Ley 9/2017",
+    "Ley 58/2003"
+  ],
+  "derogations": [
+    "Disposición adicional sexta (Derogada)"
+  ],
+  "main_obligations": "Los sujetos pasivos deben cumplir con los nuevos plazos de presentación e ingreso en periodo voluntario para sucesiones, bebidas azucaradas y cánones tras el fin del estado de alarma. Las entidades suministradoras de agua deben acreditar que han otorgado aplazamientos sin intereses a autónomos para poder solicitar el aplazamiento del canon.",
+  "effective_date": "2020-04-07",
+  "procedures": [
+    {
+      "name": "Pago de tributos y cánones (periodo post-alarma)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de sucesiones y donaciones",
+          "description": "Plazo original restante más dos meses adicionales tras el fin del estado de alarma.",
+          "start_date": "Fin del estado de alarma",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Liquidación de bebidas azucaradas (1er trimestre 2020)",
+          "description": "Presentación e ingreso obligatorio en julio.",
+          "start_date": "2020-07-01",
+          "end_date": "2020-07-20",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Liquidación de canon del agua (mensual)",
+          "description": "Presentación e ingreso el mes siguiente al fin del estado de alarma.",
+          "start_date": "Mes siguiente al fin del estado de alarma",
+          "end_date": "Día 20 del mes siguiente",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Prestación económica de emergencia para acogida familiar",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de la prestación",
+          "description": "Gestión a través del ICAA para menores en situación de guarda por emergencia sanitaria.",
+          "start_date": "Fecha de la emergencia",
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la situación de guarda por la Generalidad"
+        }
+      ]
+    },
+    {
+      "name": "Donaciones para la lucha contra la COVID-19",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Ingreso de donaciones dinerarias",
+          "description": "Realizar transferencia a la cuenta del Tesoro con el concepto 'Donacions COVID-19'.",
+          "start_date": "2020-04-07",
+          "end_date": "3 meses tras el fin del estado de alarma",
+          "required_documentation": "Nombre, apellidos/razón social y NIF/CIF"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

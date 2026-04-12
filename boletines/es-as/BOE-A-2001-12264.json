@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-2001-12264",
+  "title": "Ley 3/2001, de 4 de mayo, de Juego y Apuestas",
+  "visible_title": "Ley de Juego y Apuestas",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "3/2001",
+  "publication_date": "2001-06-26",
+  "enactment_date": "2001-05-04",
+  "last_updated": "2014-06-27",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2001/05/04/3",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece el marco legal para regular todas las actividades de juego y apuestas dentro del Principado de Asturias. Su objetivo es ordenar el sector, garantizar la transparencia, proteger a menores e incapacitados y asegurar la libre competencia. Para ello, crea herramientas de control como el Catálogo General de Juegos, un Registro General y el Consejo del Juego.",
+  "citizen_impact": "Protege a los ciudadanos mediante la prohibición de acceso a menores y personas con incapacidad judicial, además de garantizar el derecho a la información y al cobro de premios. También establece mecanismos de reclamación para los usuarios de casinos, bingos y salas de juego.",
+  "professional_impact": "Las empresas del sector deben obtener autorizaciones administrativas previas, inscribirse en un registro oficial y cumplir con requisitos de capital y solvencia estrictos. Los empleados del sector requieren un documento profesional específico y las empresas deben constituir garantías económicas para responder ante posibles sanciones.",
+  "keywords": [
+    "juego y apuestas",
+    "Asturias",
+    "casinos",
+    "bingo",
+    "máquinas de juego",
+    "autorización administrativa",
+    "protección de menores"
+  ],
+  "key_points": [
+    "Obligatoriedad de autorización administrativa previa para organizar o explotar cualquier juego o apuesta.",
+    "Creación del Catálogo General de Juegos y Apuestas para definir qué actividades están permitidas.",
+    "Prohibición estricta de acceso a menores de edad e incapacitados judiciales a locales de juego.",
+    "Clasificación de máquinas de juego en tipos A (recreativas), B (con premio) y C (de azar).",
+    "Exigencia de capital mínimo para titulares de casinos (1.202.024,21 €) y bingos (120.202,42 €).",
+    "Creación de un Registro General para el control y publicidad de todas las actividades del sector.",
+    "Establecimiento de un régimen sancionador con multas que pueden alcanzar los 601.012,10 €.",
+    "Obligación de los empleados de juego de poseer un documento profesional habilitante."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía del Principado de Asturias",
+    "Constitución Española",
+    "Real Decreto 847/1995"
+  ],
+  "derogations": [
+    "Ley 6/2014, de 13 de junio"
+  ],
+  "main_obligations": "Las empresas deben obtener autorización previa, inscribirse en el Registro General y constituir garantías económicas. Se prohíbe terminantemente el juego a menores y la explotación de juegos no catalogados, bajo riesgo de multas de hasta 601.012,10 € y clausura de locales.",
+  "effective_date": "2001-06-27",
+  "procedures": [
+    {
+      "name": "Autorización administrativa para la organización y explotación de juegos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Presentación de la solicitud para obtener la licencia de explotación de un juego o apuesta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el cumplimiento de requisitos legales y disponibilidad del local."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la solicitud",
+          "description": "Plazo para que la Administración resuelva la solicitud de forma expresa.",
+          "start_date": null,
+          "end_date": "3 meses (6 meses si es mediante concurso público)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Homologación de material de juego",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de homologación",
+          "description": "Procedimiento para que fabricantes o importadores validen sus máquinas o materiales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

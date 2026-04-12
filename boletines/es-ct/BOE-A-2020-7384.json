@@ -1,0 +1,71 @@
+{
+  "identifier": "BOE-A-2020-7384",
+  "title": "Decreto-ley 20/2020, de 26 de mayo, por el que se adoptan varias medidas en materia de deportes como consecuencia del estado de alarma decretado por razón del COVID-19",
+  "visible_title": "Medidas en materia de deportes por la crisis del COVID-19",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "20/2020",
+  "publication_date": "2020-07-07",
+  "enactment_date": "2020-05-26",
+  "last_updated": "2020-05-28",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2020/05/26/20",
+  "official_journal": "Diari Oficial de la Generalitat de Catalunya",
+  "journal_issue": null,
+  "summary": "Esta norma implementa medidas de emergencia para el sector deportivo catalán ante la crisis sanitaria del COVID-19. Permite la gestión remota de entidades deportivas, habilita a las juntas directivas para tomar decisiones críticas sin asambleas y flexibiliza los procesos de fusión para evitar la quiebra de clubes. Además, suspende sanciones para socorristas ante la incertidumbre de la apertura de instalaciones acuáticas.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo para aquellos que sean socios o deportistas vinculados a entidades deportivas catalanas que se verán beneficiados por la continuidad de sus clubes.",
+  "professional_impact": "Los profesionales del salvamento y socorrismo acuático cuentan con una moratoria de sanciones administrativas. Los directivos de entidades deportivas ganan autonomía para tomar decisiones urgentes por videoconferencia o voto telemático, y las entidades pueden simplificar su estructura mediante fusiones rápidas vía declaración responsable.",
+  "keywords": [
+    "deportes",
+    "COVID-19",
+    "entidades deportivas",
+    "socorrismo",
+    "fusiones",
+    "videoconferencia",
+    "Cataluña"
+  ],
+  "key_points": [
+    "Se permite la celebración de reuniones de órganos de gobierno mediante videoconferencia o medios telemáticos.",
+    "Las juntas directivas pueden tomar acuerdos sin reunión física mediante voto por correo o medios electrónicos.",
+    "Se restringe el objeto de las asambleas generales durante el estado de alarma a temas estrictamente esenciales para la supervivencia de la entidad.",
+    "Las juntas directivas de federaciones pueden aprobar provisionalmente calendarios deportivos para la temporada 2020-2021.",
+    "Se facilita la fusión de entidades deportivas mediante un proceso simplificado basado en una declaración responsable.",
+    "Se suspende el régimen sancionador para profesionales del salvamento y socorrismo acuático ante la incertidumbre de la apertura de playas y piscinas."
+  ],
+  "legal_references": [
+    "Ley 3/2008, de 23 de abril, del ejercicio de las profesiones del deporte",
+    "Decreto-ley 10/2020, de 27 de marzo",
+    "Código civil de Cataluña (artículo 314.1, 2 y 3)",
+    "Ley 4/2008, de 24 de abril, del libro tercero del Código civil de Cataluña",
+    "Decreto Legislativo 1/2000, de 31 de julio"
+  ],
+  "derogations": [],
+  "main_obligations": "Las decisiones extraordinarias tomadas por las juntas directivas deben ser ratificadas por la asamblea general en un plazo máximo de 60 días naturales tras el fin del estado de alarma. En el caso de federaciones, la ratificación debe ocurrir antes del inicio de la nueva temporada.",
+  "effective_date": "2020-05-26",
+  "procedures": [
+    {
+      "name": "Fusión de entidades deportivas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de la Asamblea General",
+          "description": "La asamblea de cada entidad debe aprobar el acuerdo de fusión por mayoría de votos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comunicación al Registro",
+          "description": "Comunicar la nueva entidad mediante declaración responsable para iniciar actividad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración responsable, estatutos de la nueva entidad, acuerdo de fusión de las asambleas y balance económico cerrado al menos un mes antes del acuerdo."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

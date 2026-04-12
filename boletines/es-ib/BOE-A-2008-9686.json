@@ -1,0 +1,91 @@
+{
+  "identifier": "BOE-A-2008-9686",
+  "title": "Ley 4/2008, de 14 de mayo, de medidas urgentes para un desarrollo territorial sostenible en las Illes Balears",
+  "visible_title": "Medidas urgentes para un desarrollo territorial sostenible en las Illes Balears",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "4/2008",
+  "publication_date": "2008-06-05",
+  "enactment_date": "2008-05-14",
+  "last_updated": "2014-12-06",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2008/05/14/4",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley busca frenar la urbanización descontrolada en las Islas Baleares para proteger el paisaje y los recursos naturales. Establece reglas estrictas sobre qué es suelo urbano, obliga a reservar un porcentaje de suelo para vivienda protegida y limita drásticamente la creación de nuevos campos de golf. Además, amplía la protección de áreas naturales y obliga a los ayuntamientos a proteger su patrimonio histórico.",
+  "citizen_impact": "Los ciudadanos verán un mayor control sobre el uso del suelo, lo que busca preservar el entorno natural y el paisaje de las islas. Por otro lado, se garantiza que un 30% de las nuevas urbanizaciones residenciales se destinen a vivienda protegida, facilitando el acceso a la vivienda.",
+  "professional_impact": "Promotores y constructores enfrentan mayores restricciones, como la obligación de ceder el 15% de suelo para patrimonio público y la reserva del 30% para vivienda protegida. Los ayuntamientos deben actualizar sus catálogos de patrimonio histórico y cumplir con nuevos estándares de protección ambiental y paisajística.",
+  "keywords": [
+    "desarrollo sostenible",
+    "urbanismo",
+    "vivienda protegida",
+    "protección del paisaje",
+    "campos de golf",
+    "suelo urbano",
+    "medio ambiente"
+  ],
+  "key_points": [
+    "Obligación de reservar el 30% de la edificabilidad residencial para vivienda protegida en suelos urbanizables y no consolidados.",
+    "Exigencia de ceder el 15% de los terrenos para el patrimonio público municipal en actuaciones de transformación urbanística.",
+    "Prohibición de nuevos campos de golf en terrenos que no lo permitan y restricción de usos residenciales o turísticos en ellos.",
+    "Ampliación de las áreas de especial protección ambiental en Mallorca y Eivissa.",
+    "Obligación de los ayuntamientos de aprobar su Catálogo de Protección del Patrimonio Histórico.",
+    "Definición clara de suelo urbano consolidado y no consolidado para evitar la especulación.",
+    "Creación de un consorcio para la recuperación paisajística en zonas específicas de Eivissa."
+  ],
+  "legal_references": [
+    "Ley 8/2007, de 28 de mayo, del suelo",
+    "Ley 1/1991, de 30 de enero, de régimen urbanístico de las áreas de especial protección de las Illes Balears",
+    "Ley 12/1988, de 17 de noviembre, de campos de golf",
+    "Ley 2/2006, de 10 de marzo, de reforma de la Ley 12/1998, de patrimonio histórico de las Illes Balears",
+    "Estatuto de Autonomía de las Illes Balears"
+  ],
+  "derogations": [
+    "Ley 12/1988, de 17 de noviembre, de campos de golf",
+    "Artículo 16 bis de la Ley 1/1991",
+    "Disposición adicional decimoctava de la Ley 10/2003",
+    "Disposición adicional vigésima primera de la Ley 10/2003",
+    "Disposición decimoctava de la Ley 25/2006"
+  ],
+  "main_obligations": "Los promotores deben reservar el 30% de edificabilidad para vivienda protegida y ceder el 15% de suelo al ayuntamiento. Los ayuntamientos deben integrar sus catálogos de patrimonio histórico en sus planes generales antes de fechas límite específicas.",
+  "effective_date": "2008-06-06",
+  "procedures": [
+    {
+      "name": "Reconversión territorial y paisajística de zonas de Eivissa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Constitución del consorcio",
+          "description": "El Gobierno de las Illes Balears y el Consejo Insular de Eivissa deben crear un consorcio para la ordenación y recuperación de zonas.",
+          "start_date": "6 meses desde la entrada en vigor de la ley",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Propuesta de medidas de compensación",
+          "description": "El consorcio debe proponer medidas para compensar la pérdida de aprovechamiento urbanístico en terrenos de transición.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudio económico y financiero"
+        }
+      ]
+    },
+    {
+      "name": "Redacción de Catálogos de Protección del Patrimonio Histórico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo para la aprobación de catálogos",
+          "description": "Los ayuntamientos sin catálogo aprobado deben incluirlo en sus instrumentos de planeamiento.",
+          "start_date": null,
+          "end_date": "2009-01-01",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

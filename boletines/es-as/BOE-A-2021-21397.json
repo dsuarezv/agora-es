@@ -1,0 +1,85 @@
+{
+  "identifier": "BOE-A-2021-21397",
+  "title": "Ley 4/2021, de 1 de diciembre, de Medidas Administrativas Urgentes",
+  "visible_title": "Ley de Medidas Administrativas Urgentes",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "4/2021",
+  "publication_date": "2021-12-27",
+  "enactment_date": "2021-12-01",
+  "last_updated": "2023-03-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2021/12/01/4",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta ley busca agilizar la actividad económica en Asturias mediante la simplificación de trámites administrativos y la reducción de trabas burocráticas. Introduce criterios claros para la evaluación ambiental de proyectos y flexibiliza la gestión de los fondos europeos de recuperación. El objetivo es evitar que la complejidad administrativa frene la reactivación social y económica tras la pandemia.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo que se beneficien indirectamente de una gestión pública más ágil y de una ejecución más rápida de los fondos de recuperación.",
+  "professional_impact": "Empresas y promotores de proyectos (especialmente en energía eólica, urbanismo y medio ambiente) se benefician de procesos de evaluación ambiental más predecibles y de la posibilidad de usar declaraciones responsables. Los funcionarios y gestores públicos disponen de mayor flexibilidad para ejecutar presupuestos de fondos europeos y tramitar gastos de forma anticipada.",
+  "keywords": [
+    "simplificación administrativa",
+    "evaluación ambiental",
+    "fondos europeos",
+    "urbanismo",
+    "declaración responsable",
+    "Asturias",
+    "reactivación económica"
+  ],
+  "key_points": [
+    "Establece umbrales del 15% para considerar que una modificación de proyecto requiere nueva evaluación ambiental (emisiones, vertidos, residuos, recursos).",
+    "Define qué cambios en parques eólicos (área de barrido, altura de postes, movimiento de tierras) obligan a una nueva evaluación ambiental.",
+    "Clasifica como 'modificaciones menores' en urbanismo ciertos cambios (como aumentos de edificabilidad inferiores al 25%) para permitir evaluaciones ambientales simplificadas.",
+    "Permite la tramitación anticipada de expedientes de gasto para proyectos financiados con fondos de recuperación (MRR y REACT-EU).",
+    "Facilita la incorporación de remanentes de crédito de fondos europeos al ejercicio siguiente.",
+    "Promueve el uso de la declaración responsable y la comunicación como métodos de intervención administrativa.",
+    "Autoriza a la Administración a colaborar con Cámaras de Comercio y Colegios Profesionales para labores de inspección y control."
+  ],
+  "legal_references": [
+    "Ley 21/2013, de 9 de diciembre, de Evaluación Ambiental",
+    "Ley 42/2007, de 13 de diciembre, de Patrimonio Natural y de la Biodiversidad",
+    "Decreto Legislativo 2/1998, de 25 de junio (TRREPPA)",
+    "Ley 5/1991, de 5 de abril, de Protección de Espacios Naturales",
+    "Ley 1/2001, de 6 de marzo, de Patrimonio Cultural",
+    "Decreto Legislativo 2/2004, de 22 de abril (Ordenación del Territorio y Urbanismo)",
+    "Ley 8/2006, de 13 de noviembre, de Carreteras",
+    "Ley 12/2018, de 23 de noviembre, de Transportes y Movilidad Sostenible"
+  ],
+  "derogations": [
+    "Artículos 11 y 12 de la Ley 5/1991 de Protección de Espacios Naturales",
+    "Apartados 7.2 y 7.3 del Plan de ordenación de los recursos naturales del Principado de Asturias (Decreto 38/1994)",
+    "Apartado 9.6 de los Criterios para la protección del medio ambiente y para ordenación y protección del medio físico de las Directrices Regionales de Ordenación del Territorio",
+    "Artículo 3 del Decreto 71/1992 de régimen general de concesión de subvenciones"
+  ],
+  "main_obligations": null,
+  "effective_date": "2021-12-28",
+  "procedures": [
+    {
+      "name": "Evaluación ambiental estratégica ordinaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Consulta pública",
+          "description": "Sometimiento del borrador del plan y documento inicial a consulta de administraciones y personas interesadas.",
+          "start_date": "Desde la recepción del borrador",
+          "end_date": "30 días hábiles",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Evaluación ambiental estratégica simplificada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Consulta pública simplificada",
+          "description": "Plazo para que las administraciones y personas interesadas se pronuncien sobre la solicitud de informe.",
+          "start_date": "Desde la recepción de la solicitud",
+          "end_date": "20 días hábiles",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

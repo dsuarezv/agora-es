@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-2012-2265",
+  "title": "Ley 2/2011, de 2 de marzo, de admisión en espectáculos públicos, actividades recreativas y establecimientos públicos de la Región de Murcia",
+  "visible_title": "Ley de admisión en espectáculos públicos, actividades recreativas y establecimientos públicos de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "2/2011",
+  "publication_date": "2012-02-15",
+  "enactment_date": "2011-03-02",
+  "last_updated": "2023-11-25",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2011/03/02/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo los locales de ocio y espectáculos en Murcia pueden decidir quién entra y quién no, poniendo límites estrictos para evitar la discriminación. Establece que el derecho de admisión no puede usarse para excluir a personas por su raza, sexo, religión o apariencia física. Además, profesionaliza el control de acceso mediante la obligatoriedad de un carné habilitante para los controladores y define las sanciones para los locales que incumplan estas reglas.",
+  "citizen_impact": "Garantiza que no te nieguen la entrada a un bar, discoteca o concierto por motivos discriminatorios como tu origen, religión o aspecto físico. También te otorga el derecho a reclamar mediante hojas oficiales si consideras que se ha aplicado un derecho de admisión arbitrario o ilegal.",
+  "professional_impact": "Los dueños de locales deben someter sus condiciones de admisión a aprobación administrativa y asegurar que su personal de control esté debidamente formado y habilitado con un carné oficial. Los controladores de acceso deben superar pruebas de aptitud y formación específica, mientras que los ayuntamientos asumen la competencia de inspección y sanción de infracciones leves.",
+  "keywords": [
+    "derecho de admisión",
+    "espectáculos públicos",
+    "actividades recreativas",
+    "control de acceso",
+    "no discriminación",
+    "Región de Murcia",
+    "seguridad en locales"
+  ],
+  "key_points": [
+    "Prohibición absoluta de discriminar por raza, sexo, religión, opinión o apariencia estética.",
+    "Obligatoriedad de tener personal de control de acceso habilitado con carné oficial en locales con aforo igual o superior a 300 personas (en ciertos tipos de actividad).",
+    "Los controladores deben superar una prueba de aptitud y contar con formación teórica y práctica.",
+    "Los titulares deben solicitar visado administrativo para cualquier condición específica de admisión que no sea la general.",
+    "Se establece un régimen de sanciones que llega hasta los 300.000 euros para infracciones muy graves.",
+    "Los ayuntamientos tienen competencia para inspeccionar y sancionar infracciones leves.",
+    "Obligación de exhibir carteles informativos con las limitaciones de acceso en lugares visibles."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Constitución Española (artículos 10 y 14)",
+    "Ley Orgánica 4/1982",
+    "Ley Orgánica 9/1992",
+    "Real Decreto 1279/1994",
+    "Directiva 2006/123/CE",
+    "Ley 30/1992",
+    "Ley 23/1992 de Seguridad Privada",
+    "Decreto Legislativo 1/2004",
+    "Ley 7/1985 de Bases de Régimen Local"
+  ],
+  "derogations": [],
+  "main_obligations": "Los titulares deben impedir el acceso por aforo completo, horario de cierre o edad mínima, y no pueden discriminar por condiciones personales. El personal de control debe estar identificado con un distintivo que incluya su nombre y número de carné. El incumplimiento de estas normas puede acarrear multas de hasta 300.000 euros y la revocación de licencias.",
+  "effective_date": "2011-03-22",
+  "procedures": [
+    {
+      "name": "Aprobación de condiciones específicas de admisión",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de aprobación",
+          "descrption": "El titular presenta ante la Consejería las condiciones particulares que desea aplicar.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Copia del texto del cartel informativo"
+        },
+        {
+          "step": 2,
+          "title": "Resolución administrativa",
+          "descrption": "La administración examina y notifica la decisión.",
+          "start_date": null,
+          "end_date": "3 meses (o 3 días para condiciones temporales)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Habilitación de personal de control de acceso",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Formación",
+          "descrption": "Realización de cursos teóricos y prácticos en entidades autorizadas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Prueba de aptitud",
+          "descrption": "Superación de examen de conocimientos ante la Consejería.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Expedición del carné",
+          "descrption": "Entrega del carné acreditativo tras superar las pruebas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

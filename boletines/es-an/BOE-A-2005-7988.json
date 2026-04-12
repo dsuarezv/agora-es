@@ -1,0 +1,82 @@
+{
+  "identifier": "BOE-A-2005-7988",
+  "title": "Ley 4/2005, de 8 de abril, del Consejo Consultivo de Andalucía",
+  "visible_title": "Ley del Consejo Consultivo de Andalucía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "4/2005",
+  "publication_date": "2005-05-17",
+  "enactment_date": "2005-04-08",
+  "last_updated": "2024-07-31",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2005/04/08/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece la estructura, funciones y composición del Consejo Consultivo de Andalucía, actuando como el máximo órgano de asesoramiento jurídico para la Junta de Andalucía y las entidades locales. Su objetivo es garantizar la legalidad de las decisiones administrativas y ofrecer seguridad jurídica mediante dictámenes técnicos. La ley define quiénes integran el Consejo (Presidente, consejeros permanentes, electivos y natos) y en qué casos su opinión es obligatoria para la Administración.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta principalmente a funcionarios de la Administración de la Junta de Andalucía, ayuntamientos y universidades públicas, quienes deben solicitar dictámenes obligatorios en procesos críticos como reformas de estatutos, grandes contratos o modificaciones urbanísticas. Proporciona un marco de seguridad jurídica para la actuación de estos profesionales.",
+  "keywords": [
+    "Consejo Consultivo de Andalucía",
+    "asesoramiento jurídico",
+    "administración pública",
+    "entidades locales",
+    "dictámenes preceptivos",
+    "derecho administrativo andaluz"
+  ],
+  "key_points": [
+    "Se establece la autonomía orgánica y funcional del Consejo para garantizar su independencia.",
+    "El Consejo actúa como asesor supremo de las entidades locales y universidades públicas andaluzas.",
+    "Se crea la figura de Consejeros Permanentes para ex Presidentes de la Junta de Andalucía.",
+    "Se definen supuestos de consulta obligatoria, como anteproyectos de leyes o recursos de inconstitucionalidad.",
+    "Los dictámenes no son vinculantes, salvo que una ley específica así lo determine.",
+    "Se fija un plazo general de 30 días para emitir dictámenes, reduciéndose a 20 o 15 días en casos urgentes o específicos.",
+    "Se establece la sede del organismo en la ciudad de Granada."
+  ],
+  "legal_references": [
+    "Ley 8/1993, de 19 de octubre",
+    "Constitución Española",
+    "Estatuto de Autonomía de Andalucía",
+    "Ley Orgánica del Tribunal Constitucional",
+    "Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley 2/2024, de 19 de julio"
+  ],
+  "derogations": [
+    "Ley 8/1993, de 19 de octubre, de creación del Consejo Consultivo de Andalucía"
+  ],
+  "main_obligations": "La Administración debe solicitar dictamen preceptivo en supuestos específicos (como reformas del Estatuto o grandes contratos). El Consejo tiene la obligación de evacuar las consultas en plazos de 30, 20 o 15 días según la urgencia y materia.",
+  "effective_date": "2005-05-17",
+  "procedures": [
+    {
+      "name": "Procedimiento de consulta al Consejo Consultivo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de dictamen",
+          "description": "Remisión del expediente administrativo completo al Consejo Consultivo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Toda la documentación que requiera el expediente administrativo de la cuestión planteada."
+        },
+        {
+          "step": 2,
+          "title": "Subsanación de defectos",
+          "description": "Si el expediente está incompleto, el Consejo puede solicitar documentación adicional.",
+          "start_date": "10 días desde la petición",
+          "end_date": null,
+          "required_documentation": "Antecedentes, informes y pruebas necesarios."
+        },
+        {
+          "step": 3,
+          "title": "Evacuación del dictamen",
+          "description": "Emisión del informe técnico por parte del Consejo.",
+          "start_date": "Desde la recepción de la solicitud o subsanación",
+          "end_date": "30 días (general), 20 días (reformas/recursos) o 15 días (urgente)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

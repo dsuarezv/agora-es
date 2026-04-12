@@ -1,0 +1,390 @@
+{
+  "identifier": "BOE-A-2025-20206",
+  "title": "Real Decreto 899/2025, de 9 de octubre, por el que se aprueba el Reglamento General de Carreteras",
+  "visible_title": "Reglamento General de Carreteras",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de Transportes y Movilidad Sostenible",
+  "official_number": "899/2025",
+  "publication_date": "2025-10-10",
+  "enactment_date": "2025-10-09",
+  "last_updated": "2025-10-10",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2025/10/09/899",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "244",
+  "summary": "Este nuevo reglamento transforma la gestión de las carreteras estatales para asegurar que se utilicen exclusivamente para el tráfico de largo recorrido, dejando la distribución local a otras administraciones. Introduce protecciones estrictas para los corredores de carreteras frente a proyectos industriales y de energías renovables, evitando interferencias en la seguridad vial. Además, regula con precisión el uso del espacio público, prohibiendo la publicidad convencional y endureciendo los controles sobre nuevos accesos y obras. Finalmente, introduce cambios en la movilidad permitiendo la creación de carriles bici mediante la posible supresión de arcenes.",
+  "citizen_impact": "Los ciudadanos verán carreteras más seguras y menos saturadas por tráfico local, pero también podrían notar cambios en la infraestructura, como la posible reducción de arcenes para crear carriles bici. Se prohíbe la publicidad visual invasiva en las zonas de protección, lo que mejora la visibilidad, y se restringen los locales de juego en áreas de servicio para mejorar la convivencia.",
+  "professional_impact": "Las empresas de energías renovables, constructoras y promotores urbanísticos enfrentan requisitos mucho más estrictos: deben financiar sus propias conexiones, cumplir con distancias de seguridad para evitar deslumbramientos y someterse a informes de la Dirección General de Carreteras que son vinculantes. Existe un riesgo administrativo elevado, ya que el silencio de la Administración tras 6 meses implica la denegación de la solicitud.",
+  "keywords": [
+    "carreteras estatales",
+    "seguridad vial",
+    "infraestructuras",
+    "energías renovables",
+    "movilidad ciclística",
+    "dominio público vial",
+    "urbanismo"
+  ],
+  "key_points": [
+    "La Red de Carreteras del Estado se reserva exclusivamente para tráfico de largo recorrido.",
+    "Se prohíbe la publicidad convencional en zonas de protección, permitiendo solo cartelería informativa limitada.",
+    "Los informes de la Dirección General de Carreteras sobre proyectos urbanísticos o ambientales son vinculantes.",
+    "Se permite la supresión de arcenes en carreteras estatales para la creación de vías ciclistas.",
+    "Las instalaciones de energía renovable deben cumplir restricciones de distancia y orientación para evitar deslumbramientos.",
+    "El silencio administrativo tras 6 meses de espera en solicitudes de autorización se entiende como denegación.",
+    "Los nuevos accesos a autopistas y autovías deben realizarse obligatoriamente a través de sus nudos (enlaces).",
+    "Se prohíbe la instalación de locales de juegos de azar o apuestas en las áreas de servicio.",
+    "Los daños a la carretera pueden ser reparados por el titular y facturados directamente al causante con todos los costes asociados.",
+    "Los cierres perimetrales fuera del dominio público deben ser totalmente diáfonos (malla metálica sin cimientos sobresalientes).",
+    "Se prohíben los cruces de tuberías a cielo abierto en autopistas y autovías, exigiendo métodos mecánicos.",
+    "Los promotores de urbanizaciones deben financiar y ejecutar las infraestructuras de conexión con la red general."
+  ],
+  "legal_references": [
+    "Ley 37/2015, de 29 de septiembre, de carreteras",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Real Decreto Legislativo 7/2015, de 30 de octubre (Ley de Suelo y Rehabilitación Urbana)",
+    "Ley 21/2013, de 21 de diciembre, de evaluación ambiental",
+    "Ley 8/2007, de 28 de abril, de suelo",
+    "Real Decreto 1812/1994, de 2 de septiembre",
+    "Ley de 16 de diciembre de 1954 sobre expropiación forzosa",
+    "Ley 50/1997, de 27 de diciembre",
+    "Ley 9/2017, de 8 de noviembre",
+    "Ley Orgánica 2/1986, de 13 de marzo",
+    "Ley de Hacienda Locales (TRLHFU 2/2004)",
+    "Ley 33/2003, de 11 de marzo",
+    "Ley 25/1988, de 29 de julio",
+    "Ley 34/1988, de 11 de mayo, General de Publicidad",
+    "Real Decreto 1373/2009",
+    "Real Decreto 1890/2008",
+    "Ley 40/2015, de 1 de octubre"
+  ],
+  "derogations": [
+    "Real Decreto 1812/1994, de 2 de septiembre, por el que se aprueba el Reglamento General de Carreteras (salvo la disposición transitoria primera.1)"
+  ],
+  "main_obligations": "Los solicitantes de autorizaciones deben esperar un máximo de 6 meses para obtener respuesta, tras lo cual el silencio administrativo será negativo. Los titulares de obras deben avisar con 10 días de antelación para el replanteo y la terminación, además de restaurar la carretera a su estado original de seguridad y aspecto.",
+  "effective_date": "2025-10-30",
+  "procedures": [
+    {
+      "name": "Adecuación de cartelería publicitaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de adecuación",
+          "description": "Los titulares de carteles deben adaptar sus anuncios a las exigencias del reglamento o retirarlos.",
+          "start_date": "2025-10-10",
+          "end_date": "12 meses desde la entrada en vigor",
+          "required_documentation": "Solicitud de autorización administrativa conforme al Título VIII"
+        }
+      ]
+    },
+    {
+      "name": "Aprobación del Plan Estratégico de Carreteras del Estado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración de avance",
+          "description": "La Dirección General de Carreteras prepara el diagnóstico, objetivos y actuaciones previstas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación para evaluación ambiental estratégica"
+        },
+        {
+          "step": 2,
+          "title": "Consulta a Administraciones y sectores",
+          "description": "Se remite la documentación a Ministerios, Comunidades Autónomas y sectores afectados para observaciones.",
+          "start_date": "45 días hábiles",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Propuesta final y aprobación",
+          "description": "Se incorpora la declaración ambiental y se eleva al Consejo de Ministros para su aprobación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de información pública de estudios de carreteras",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación del anuncio",
+          "description": "Anuncio en el BOE, boletín oficial de la provincia/CCAA y sede electrónica.",
+          "start_date": "Tras la aprobación provisional del estudio",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Periodo de alegaciones",
+          "description": "Plazo para que los ciudadanos examinen el estudio y presenten observaciones.",
+          "start_date": "Primer día hábil tras la última publicación",
+          "end_date": "30 días hábiles",
+          "required_documentation": "Escritos de alegaciones"
+        },
+        {
+          "step": 3,
+          "title": "Análisis y resolución",
+          "description": "La Dirección General analiza alegaciones y emite informe único para propuesta de resolución.",
+          "start_date": "Tras el fin del periodo de información pública",
+          "end_date": "6 meses (ampliable por resolución motivada)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reposición de servicios afectados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Audiencia al titular",
+          "description": "Comunicación al titular del servicio para que aporte información actualizada.",
+          "start_date": "Fase de proyecto",
+          "end_date": "2 meses",
+          "required_documentation": "Información técnica de las instalaciones"
+        },
+        {
+          "step": 2,
+          "title": "Redacción del proyecto de reposición",
+          "description": "El titular puede redactar el proyecto a su costa o la Administración lo hace según su criterio.",
+          "start_date": "Tras el plazo de audiencia",
+          "end_date": null,
+          "required_documentation": "Proyecto de reposición (planos, pliego, presupuesto)"
+        },
+        {
+          "step": 3,
+          "title": "Aprobación y ejecución",
+          "description": "Inclusión del proyecto de reposición en el proyecto de la actuación principal.",
+          "start_date": "Tras la aprobación del proyecto de reposición",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Deslinde del Dominio Público Vario",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de iniciación",
+          "description": "Publicación en el BOE, sede electrónica y ayuntamientos para informar sobre el inicio del deslinde.",
+          "start_date": "Día de la publicación",
+          "end_date": "20 días para alegaciones",
+          "required_documentation": "Alegaciones y documentos de prueba"
+        },
+        {
+          "step": 2,
+          "title": "Trámite de apeo",
+          "description": "Reconocimiento sobre el terreno de los límites con la presencia de la Administración e interesados.",
+          "start_date": "Tras el plazo de alegaciones",
+          "end_date": "Mínimo 20 días de antelación para la cita",
+          "required_documentation": "Títulos de propiedad"
+        },
+        {
+          "step": 3,
+          "title": "Propuesta de resolución",
+          "description": "Elevación de la propuesta tras el informe de la Abogacía del Estado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución final",
+          "description": "Dictada por el titular del Ministerio y publicada oficialmente.",
+          "start_date": "Máximo 18 meses desde el inicio",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Recuperación Posesoria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio de oficio",
+          "description": "La Dirección General de Carreteras inicia el expediente para recuperar bienes del dominio público.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Paralización de Obras o Usos no Autorizados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Audiencia al interesado",
+          "description": "Se notifica el inicio del procedimiento contradictorio para permitir alegaciones.",
+          "start_date": null,
+          "end_date": "Entre 10 y 15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Acuerdo de paralización",
+          "description": "Dictado tras valorar alegaciones, pudiendo usar la fuerza pública para su ejecución.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Liquidación de daños a la carretera",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Reparación de daños",
+          "descrption": "La Dirección General de Carreteras repara el daño (directamente si es urgente o mediante requerimiento al interesado).",
+          "start_date": "Inmediato en caso de urgencia",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Formulación de propuesta de liquidación",
+          "descrption": "Se elabora una propuesta detallada de los gastos soportados.",
+          "start_date": "Tras la reparación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Audiencia al interesado",
+          "descrption": "Se permite al causante alegar antes de la fijación definitiva.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de autorización de obras o actividades",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Consulta de viabilidad (opcional)",
+          "descrption": "El interesado consulta si su proyecto es viable antes de solicitar la autorización formal.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": "Acreditación de derecho de propiedad, descripción y esquema gráfico de la actuación."
+        },
+        {
+          "step": 2,
+          "title": "Presentación de solicitud",
+          "descrption": "Presentación formal de la solicitud con toda la documentación técnica y registral.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificación registral, proyecto técnico, estudio de tráfico (si aplica), relación de terceros afectados."
+        },
+        {
+          "step": 3,
+          "title": "Tramitación e informes",
+          "descrption": "La administración examina la documentación y solicita informes (ej. al Ayuntamiento en tramos urbanos).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Información pública (si procede)",
+          "descrption": "Se abre un periodo para alegaciones si hay reordenación de accesos o terceros afectados.",
+          "start_date": null,
+          "end_date": "20 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Resolución",
+          "descrption": "Dictamen final que concede o deniega la autorización con sus condiciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de autorización de obras o accesos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y entrada en registro",
+          "description": "Presentación de la solicitud ante la Dirección General de Carreteras.",
+          "start_date": "Fecha de entrada en registro",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la solicitud",
+          "description": "Dictado de resolución expresa por la Administración.",
+          "start_date": "Desde la entrada en registro",
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Reconocimiento del replanteo",
+          "description": "Inspección previa para autorizar el inicio de obras tras aviso del interesado.",
+          "start_date": "Aviso con 10 días de antelación",
+          "end_date": null,
+          "required_documentation": "Acta de conformidad de replanteo"
+        },
+        {
+          "step": 4,
+          "title": "Ejecución de las obras",
+          "description": "Realización de los trabajos según el proyecto aprobado.",
+          "start_date": "Tras acta de replanteo",
+          "end_date": "Plazo determinado en la autorización",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Terminación y recepción de obra",
+          "description": "Inspección final para permitir el uso de la instalación.",
+          "start_date": "Aviso con 10 días de antelación",
+          "end_date": null,
+          "required_documentation": "Planos detallados de la actuación finalizada"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de modificación, suspensión o revocación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Inicio de oficio o a instancia de parte por causas de interés público o incumplimiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Audiencia de afectados",
+          "description": "Periodo para que el interesado presente alegaciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución final",
+          "description": "Decisión de la Dirección General de Carreteras.",
+          "start_date": "Desde el acuerdo de inicio",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 5
+}

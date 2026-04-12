@@ -1,0 +1,150 @@
+{
+  "identifier": "BOE-A-2013-11497",
+  "title": "Ley 4/2013, de 1 de octubre, de medidas para asegurar el cumplimiento de la función social de la vivienda",
+  "visible_title": "Medidas para asegurar el cumplimiento de la función social de la vivienda",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "4/2013",
+  "publication_date": "2013-11-02",
+  "enactment_date": "2013-10-01",
+  "last_updated": "2025-12-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2013/10/01/4",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley busca combatir el problema de la vivienda vacía en Andalucía para facilitar el acceso al hogar. Su objetivo principal es identificar y sancionar a las entidades que mantienen inmuebles desocupados sin necesidad, especialmente bancos y fondos de inversión. Para ello, utiliza datos de consumo de agua y luz para detectar viviendas sin uso y obliga a las empresas a colaborar con la Administración. Además, refuerza la protección de los inquilinos mediante un control estricto de las fianzas de alquiler.",
+  "citizen_impact": "Los ciudadanos se benefician de un mayor control sobre el stock de viviendas vacías, lo que podría aumentar la oferta en el mercado. Los inquilinos tienen la garantía de que sus fianzas de alquiler y suministros se depositen obligatoriamente en efectivo. Por otro lado, los propietarios deben ser conscientes de que el uso de sus viviendas será monitorizado mediante sus consumos de suministros.",
+  "professional_impact": "Las entidades financieras y fondos de inversión asumen una carga administrativa y económica alta, con multas de hasta 9.000€ por mantener viviendas vacías. Las compañías suministradoras de agua y electricidad están obligadas a compartir datos de consumo con la Administración. Los arrendadores deben cumplir con el plazo de un mes para depositar las fianzas, y los notarios/registradores deben colaborar activamente informando sobre actos de interés para la inspección.",
+  "keywords": [
+    "vivienda deshabitada",
+    "función social de la vivienda",
+    "fianzas de alquiler",
+    "sanciones bancarias",
+    "Andalucía",
+    "consumo de suministros"
+  ],
+  "key_points": [
+    "Se presume que una vivienda está deshabitada si no tiene uso residencial durante más de 6 meses consecutivos en un año.",
+    "El bajo consumo de agua (< 0,21 m³/mes) o electricidad (< 24 kWh/mes) sirve como prueba de desocupación.",
+    "Las personas jurídicas (bancos y fondos) pueden recibir multas de hasta 9.000€ por mantener viviendas vacías, mientras que las personas físicas están exentas de estas sanciones.",
+    "Se crea el Registro de Viviendas Deshabitadas para el control estatal.",
+    "La Administración puede acceder a datos de padrón y suministros sin consentimiento para investigar inmuebles vacíos.",
+    "Es obligatorio depositar las fianzas de alquiler y suministros en efectivo en un plazo máximo de un mes.",
+    "Las entidades financieras deben informar de la adquisición de viviendas protegidas en un plazo de un mes.",
+    "Se contempla la expropiación temporal de uso en procesos de ejecución hipotecaria para evitar desahucios en emergencias sociales."
+  ],
+  "legal_references": [
+    "Constitución Española (Art. 25.1, 33, 47, 128)",
+    "Declaración Universal de Derechos Humanos",
+    "Pacto Internacional de Derechos Económicos, Sociales y Culturales",
+    "Estatuto de Autonomía para Andalucía",
+    "Ley 1/2010 de Andalucía",
+    "Decreto-ley 6/2013 de Andalucía",
+    "Ley 13/2005 de Vivienda Protegida",
+    "Ley 8/1997 de materia tributaria y fianzas",
+    "Ley 9/2001 de silencio administrativo",
+    "Sentencia TJUE 14 de marzo de 2013 (Asunto C-415-11)",
+    "Ley 4/2013, de 4 de junio",
+    "Ley 17/1999, de 28 de diciembre",
+    "Decreto 1/2012, de 10 de enero",
+    "Decreto 225/2005"
+  ],
+  "derogations": [
+    "Ley 4/2013 (derogada por la Ley 5/2025 con efectos desde el 24 de enero de 2026)"
+  ],
+  "main_obligations": "Los arrendadores deben depositar la fianza en efectivo en un plazo de un mes. Las entidades financieras deben comunicar la adquisición de viviendas protegidas en un mes y los suministradores deben remitir datos de consumo cuando la Administración lo requiera.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Procedimiento para la declaración de vivienda deshabitada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación",
+          "description": "Acuerdo de la Consejería de Vivienda tras detectar indicios de no habitación.",
+          "start_date": "Desde el acuerdo de inicio",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Trámite de audiencia",
+          "description": "Periodo para que los interesados aleguen y aporten pruebas.",
+          "start_date": "10 días desde la notificación",
+          "end_date": "10 días",
+          "required_documentation": "Pruebas de uso residencial (ej. facturas, padrón)"
+        },
+        {
+          "step": 3,
+          "title": "Ofrecimiento de medidas de fomentos",
+          "description": "Se ofrecen ayudas para facilitar el alquiler antes de seguir con la sanción (solo para personas físicas).",
+          "start_date": "Tras el trámite de audiencia",
+          "end_date": "1 mes para manifestar aceptación",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "Decisión final que declara la vivienda como deshabitada e inscribe en el Registro.",
+          "start_date": "Desde la incoación",
+          "end_date": "Máximo 1 año (luego caduca)",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Tramitación y resolución",
+          "description": "Procedimiento contradictorio para determinar si una vivienda se considera deshabitada.",
+          "start_date": null,
+          "end_date": "1 año",
+          "required_documentation": "Datos de consumo de agua y electricidad"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador en materia de vivienda",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Notificación del acuerdo de inicio del procedimiento sancionador.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "description": "El procedimiento debe concluir con la notificación de la resolución expresa.",
+          "start_date": "Desde la notificación del inicio",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de depósito de fianzas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Constitución del depósito",
+          "description": "Ingreso de la fianza en efectivo en la Tesorería.",
+          "start_date": "Desde la celebración del contrato",
+          "end_date": "1 mes",
+          "required_documentation": "Resguardo conforme al modelo de la Consejería"
+        },
+        {
+          "step": 2,
+          "title": "Devolución de la fianza",
+          "description": "Devolución del depósito al finalizar el contrato tras la solicitud.",
+          "start_date": "Desde la solicitud de devolución",
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

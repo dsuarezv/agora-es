@@ -1,0 +1,90 @@
+{
+  "identifier": "BOE-A-2016-5204",
+  "title": "Ley 5/2016, de 6 de mayo, de cuentas abiertas para la Generalitat Valenciana",
+  "visible_title": "Ley de cuentas abiertas para la Generalitat Valenciana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "5/2016",
+  "publication_date": "2016-06-01",
+  "enactment_date": "2016-05-06",
+  "last_updated": "2016-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2016/05/06/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley obliga a las instituciones de la Generalitat Valenciana a hacer públicas sus cuentas bancarias y saldos de forma proactiva. El objetivo es combatir la corrupción y mejorar la transparencia mediante la publicación trimestral de movimientos y saldos en formatos de datos abiertos. La medida permite que cualquier ciudadano consulte en qué se gasta el dinero público sin necesidad de solicitarlo.",
+  "citizen_impact": "Los ciudadanos ganan un derecho de control directo sobre el dinero público, pudiendo consultar en internet los saldos y movimientos de las cuentas de la administración. Esto permite una fiscalización social más efectiva sobre la gestión de los recursos comunes.",
+  "professional_impact": "Los funcionarios y gestores de las entidades públicas afectadas deben implementar sistemas de publicación trimestral de datos bancarios en formatos abiertos y reutilizables. Esto implica una nueva carga de gestión de datos y la obligación de asegurar la anonimización de datos sensibles para cumplir con la protección de datos.",
+  "keywords": [
+    "transparencia",
+    "cuentas públicas",
+    "rendición de cuentas",
+    "datos abiertos",
+    "corrupción",
+    "Generalitat Valenciana",
+    "publicidad activa"
+  ],
+  "key_points": [
+    "Obligación de publicar cuentas bancarias y saldos actualizados de la Generalitat y su sector público.",
+    "La información debe publicarse trimestralmente en el portal de transparencia GV A Oberta.",
+    "Los datos deben estar en formato abierto, descargables y reutilizables.",
+    "Se deben publicar los movimientos bancarios incluyendo destinatario (anonimizado si es necesario), concepto, fecha e importe.",
+    "El número de cuenta se publicará de forma codificada (solo los 4 primeros y 4 últimos dígitos) por seguridad.",
+    "Se establece un límite de 9 meses para la administración de la Generalitat y 12 meses para el resto del sector público para cumplir la ley."
+  ],
+  "legal_references": [
+    "Ley 2/2015, de 2 de abril, de la Generalitat, de transparencia, buen gobierno y participación ciudadana de la Comunitat Valenciana",
+    "Ley Orgánica 5/1982, de 1 de julio, del Estatuto de Autonomía de la Comunitat Valenciana",
+    "Ley 8/2010, de 23 de junio, de la Generalitat, de régimen local de la Comunitat Valenciana",
+    "Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal",
+    "Real Decreto 3/2010, de 8 de enero, del Esquema Nacional de Seguridad",
+    "Real Decreto 4/2010, de 8 de enero, del Esquema Nacional de Interoperabilidad",
+    "Ley 37/2007, de 16 de diciembre, de reutilización de la información del sector público"
+  ],
+  "derogations": [],
+  "main_obligations": "Las entidades públicas deben publicar trimestralmente sus cuentas, saldos y movimientos en formatos abiertos. La administración de la Generalitat tiene un plazo de 9 meses para la totalidad de sus cuentas, mientras que el sector público instrumental dispone de 12 meses.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Implementación de la transparencia de cuentas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Estudio de impacto en la protección de datos",
+          "description": "Realización de un análisis para determinar qué datos deben anonimizarse para proteger a colectivos vulnerables.",
+          "start_date": "1 mes desde la publicación",
+          "end_date": "3 meses después del inicio",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Ejecución de medidas técnicas",
+          "description": "Puesta en marcha de los sistemas para la publicación de datos.",
+          "start_date": "1 día después de la publicación",
+          "end_date": "6 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Publicación de cuentas de la Generalitat",
+          "description": "Plazo máximo para que la administración de la Generalitat haga públicas todas sus cuentas.",
+          "start_date": "1 día después de la publicación",
+          "end_date": "9 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Cumplimiento íntegro del sector público instrumental",
+          "description": "Plazo para que el resto de entidades del sector público cumplan con la ley.",
+          "start_date": "1 día después de la publicación",
+          "end_date": "12 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

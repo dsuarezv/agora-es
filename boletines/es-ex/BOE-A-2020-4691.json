@@ -1,0 +1,73 @@
+{
+  "identifier": "BOE-A-2020-4691",
+  "title": "Decreto-ley 6/2020, de 17 de abril, de medidas extraordinarias y urgentes para la tramitación de las bases reguladoras y normativa específica de subvenciones, la ejecución de determinadas prestaciones de contratos administrativos y la selección de personal temporal mediante bolsas de trabajo, como consecuencia de la crisis ocasionada por el COVID-19",
+  "visible_title": "Medidas extraordinarias y urgentes para la tramitación de subvenciones, contratos administrativos y selección de personal temporal por crisis COVID-19",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Junta de Extremadura",
+  "official_number": "6/2020",
+  "publication_date": "2020-04-28",
+  "enactment_date": "2020-04-17",
+  "last_updated": "2020-04-20",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/dl/2020/04/17/6",
+  "official_journal": "Diario Oficial de Extremadura",
+  "journal_issue": null,
+  "summary": "Esta norma acelera la respuesta de la Junta de Extremadura ante la crisis sanitaria del COVID-19. Permite agilizar la creación de ayudas y subvenciones eliminando trámites burocráticos lentos, autoriza la formación online en contratos de asesoramiento y protege la posición en las bolsas de trabajo de quienes acepten empleos temporales para combatir la pandemia.",
+  "citizen_impact": "Los ciudadanos que trabajen temporalmente en la administración para combatir la crisis sanitaria no perderán su antigüedad ni su posición en las bolsas de trabajo al finalizar su contrato. Además, se facilita el acceso a programas de formación y asesoramiento mediante modalidades telemáticas.",
+  "professional_impact": "Las empresas y autónomos se benefician de una tramitación de subvenciones mucho más rápida al omitirse fases de consulta pública y audiencia. Los profesionales de la formación y consultoría pueden ejecutar sus contratos de forma telemática si la presencialidad es imposible, y los trabajadores públicos temporales ganan seguridad laboral en sus listas de espera.",
+  "keywords": [
+    "subvenciones",
+    "COVID-19",
+    "Extremadura",
+    "bolsas de trabajo",
+    "contratación administrativa",
+    "ayudas económicas",
+    "I+D+i"
+  ],
+  "key_points": [
+    "Agilización de subvenciones: Se eliminan trámites de consulta pública, audiencia e información pública para ayudas de desarrollo económico y social.",
+    "Informes automáticos: Los informes sobre pagos anticipados o exención de garantías se consideran favorables si no hay oposición en 5 días.",
+    "Formación telemática: Se permite la ejecución de contratos de formación, asesoramiento o consultoría a distancia si la presencialidad es imposible.",
+    "Protección en bolsas de trabajo: Los trabajadores que acepten empleos temporales por la crisis sanitaria mantienen su posición en la bolsa al terminar el contrato, incluso si este dura más de tres meses."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020, de 14 de marzo",
+    "Decreto-ley 3/2020, de 25 de marzo",
+    "Estatuto de Autonomía de la Comunidad Autónoma de Extremadura (Ley Orgánica 1/2011)",
+    "Ley 6/2011, de 23 de marzo, de Subvenciones de la Comunidad Autónoma de Extremadura",
+    "Ley 3/2003, de 13 de marzo, de Participación Institucional de los Agentes Sociales más representativos de Extremadura",
+    "Decreto 201/1995, de 26 de diciembre",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común"
+  ],
+  "derogations": [
+    "Cualquier disposición de igual o inferior rango que se oponga o contradiga a este decreto-ley"
+  ],
+  "main_obligations": null,
+  "effective_date": "2020-04-28",
+  "procedures": [
+    {
+      "name": "Tramitación de subvenciones y ayudas públicas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de informes",
+          "description": "Solicitud de informes sobre pagos anticipados o exención de garantías.",
+          "start_date": null,
+          "end_date": "5 días",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución por silencio positivo",
+          "description": "Si no hay oposición expresa en 5 días, los informes se consideran favorables.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

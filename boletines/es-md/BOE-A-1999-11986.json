@@ -1,0 +1,84 @@
+{
+  "identifier": "BOE-A-1999-11986",
+  "title": "Ley 9/1999, de 9 de abril, de Museos de la Comunidad de Madrid",
+  "visible_title": "Ley de Museos de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "9/1999",
+  "publication_date": "1999-05-28",
+  "enactment_date": "1999-04-09",
+  "last_updated": "2024-12-26",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1999/04/09/9",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley organiza y regula todos los museos y colecciones de interés regional en la Comunidad de Madrid. Su objetivo es transformar los museos de simples depósitos de objetos en centros de servicio público dinámicos, didácticos y de investigación. Establece un Sistema Regional de Museos para coordinar la oferta cultural y garantiza la protección del patrimonio mediante la supervisión de la administración autonómica.",
+  "citizen_impact": "Mejora el acceso a la cultura al exigir que los museos sean accesibles para personas con movilidad reducida y ofrezcan actividades educativas. Además, garantiza que los ciudadanos tengan al menos un día de acceso gratuito a la semana en los museos integrados en el sistema regional.",
+  "professional_impact": "Los gestores de museos y colecciones deben cumplir con requisitos estrictos de personal técnico especializado, inventarios actualizados y planes de seguridad. Las empresas o particulares que posean colecciones de interés pueden acceder a ayudas y asesoramiento técnico si se inscriben en el Registro de Museos.",
+  "keywords": [
+    "museos",
+    "patrimonio cultural",
+    "Comunidad de Madrid",
+    "colecciones",
+    "gestión cultural",
+    "sistema regional de museos"
+  ],
+  "key_points": [
+    "Creación del Sistema Regional de Museos de Madrid para coordinar la oferta cultural.",
+    "Obligatoriedad de contar con personal técnico especializado y un director cualificado.",
+    "Exigencia de un día de acceso gratuito a la semana para los museos del sistema regional.",
+    "Obligación de garantizar la accesibilidad para personas con movilidad reducida.",
+    "Creación de un Registro de Museos y Colecciones para el control y concesión de ayudas.",
+    "Derecho de tanteo y retracto de la Comunidad de Madrid sobre la venta de bienes de museos.",
+    "Posibilidad de expropiación de museos si no se cumplen las obligaciones de conservación.",
+    "Necesidad de autorización previa para cualquier restauración de los fondos."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Madrid",
+    "Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español",
+    "Ley 10/1998, de 9 de julio, de Patrimonio Histórico de la Comunidad de Madrid",
+    "Decreto 163/1997, de 27 de noviembre"
+  ],
+  "derogations": [],
+  "main_obligations": "Los museos deben mantener inventarios actualizados, garantizar la seguridad de los fondos y facilitar el acceso a investigadores. Se prohíbe la salida o traslado de colecciones sin autorización y la realización de restauraciones sin permiso de la Consejería de Educación y Cultura.",
+  "effective_date": "1999-05-29",
+  "procedures": [
+    {
+      "name": "Creación de un Museo o Colección",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Garantizar requisitos mínimos",
+          "description": "Disponer de inmueble adecuado, colección suficiente, personal cualificado y presupuesto fijo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estatutos, inventario y plan de funcionamiento"
+        },
+        {
+          "step": 2,
+          "title": "Inscripción en el Registro",
+          "description": "Inscribirse en el Registro de Museos y Colecciones para obtener reconocimiento oficial y acceso a ayudas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos del titular, director y descripción de fondos"
+        }
+      ]
+    },
+    {
+      "name": "Integración en el Sistema Regional de Museos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Suscripción de Convenio",
+          "description": "Formalizar un convenio con la Comunidad de Madrid para integrarse voluntariamente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Convenio de integración"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

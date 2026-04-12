@@ -1,0 +1,122 @@
+{
+  "identifier": "BOE-A-2014-3560",
+  "title": "Ley 1/2014, de 13 de marzo, de Artesanía de la Región de Murcia",
+  "visible_title": "Ley de Artesanía de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "1/2014",
+  "publication_date": "2014-04-03",
+  "enactment_date": "2014-03-13",
+  "last_updated": "2015-03-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2014/03/13/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y regula el sector artesano en Murcia, clasificando la actividad en creativa, de alimentación y social. Establece un nuevo marco de calidad y transparencia mediante un Registro Artesano voluntario y un etiquetado obligatorio muy detallado. Además, endurece el control mediante un régimen sancionador que busca proteger tanto al productor como al consumidor final. La norma también otorga competencias de inspección a los ayuntamientos para controlar la venta ambulante.",
+  "citizen_impact": "El consumidor tiene ahora más garantías de saber exactamente qué está comprando gracias al etiquetado obligatorio (origen, composición y fabricante). Los artesanos deben adaptarse a nuevas reglas de identificación de sus productos para evitar sanciones elevadas.",
+  "professional_impact": "Los artesanos deben cumplir con estrictos requisitos de etiquetado y conservar documentación durante 5 años. Se introduce un régimen de sanciones que puede alcanzar los 100.000 euros o el cierre del negocio, además de la posibilidad de que las sanciones se publiquen en el boletín oficial a costa del infractor. Los ayuntamientos adquieren nuevas facultades de inspección.",
+  "keywords": [
+    "artesanía",
+    "Región de Murcia",
+    "etiquetado artesanal",
+    "registro de artesanos",
+    "régimen sancionador",
+    "artesanía de alimentación",
+    "artesanía creativa"
+  ],
+  "key_points": [
+    "Clasificación de la actividad en tres tipos: creativa, de alimentación y social.",
+    "Creación de un Registro Artesano de la Comunidad Autónoma de carácter voluntario y público.",
+    "Obligatoriedad de etiquetado con naturaleza, composición, fabricante, instrucciones de uso y origen.",
+    "Uso permitido de 'declaración artesana' para productos de tamaño reducido.",
+    "Posibilidad de usar bases no artesanas siempre que se indique claramente la parte artesana en la etiqueta.",
+    "Sanciones graves que pueden incluir multas de hasta 100.000 euros y el cierre de establecimientos.",
+    "Publicación de sanciones muy graves en el BORM a costa del infractor.",
+    "Multas coercitivas de hasta 500 euros mensuales para forzar el cumplimiento de resoluciones.",
+    "Plazo de prescripción de sanciones: 5 años (muy graves), 3 años (graves) y 1 año (leves).",
+    "Plazo máximo de 9 meses para resolver y notificar un expediente sancionador.",
+    "Los ayuntamientos tienen capacidad de inspección y control de la venta ambulante.",
+    "Periodo de adaptación de 2 años para artesanos ya inscritos mediante declaración responsable."
+  ],
+  "legal_references": [
+    "Constitución Española de 1978",
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Directiva 2006/123/CE",
+    "Ley 11/1988, de 30 de noviembre, de Artesanía de la Región de Murcia",
+    "Ley 12/2009, de 11 de diciembre",
+    "Decreto n.º 101/2002, de 14 de junio",
+    "Reglamento (UE) n.º 1151/2012",
+    "Ley General para la Defensa del Consumidor y Usuarios"
+  ],
+  "derogations": [
+    "Ley 11/1988, de 30 de noviembre, de Artesanía de la Región de Murcia"
+  ],
+  "main_obligations": "Los artesanos deben cumplir con el etiquetado obligatorio y conservar los originales de las declaraciones artesanas durante 5 años. Los artesanos ya inscritos deben presentar una declaración responsable de cumplimiento de requisitos en un plazo de 2 años para mantener su registro.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Inscripción en el Registro Artesano",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de declaración responsable",
+          "descrption": "El interesado presenta un modelo normalizado manifestando que cumple los requisitos de la ley.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Modelo normalizado de declaración responsable"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del expediente",
+          "descrption": "Se inicia la investigación de la posible infracción para garantizar el derecho de defensa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación del procedimiento",
+          "description": "Comienzo del expediente por la administración competente.",
+          "start_date": "Inicio del procedimiento",
+          "end_date": "9 meses después",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "description": "La administración debe dictar y comunicar la decisión final.",
+          "start_date": "Dentro de los 9 meses siguientes",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación al Registro Artesano",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de declaración responsable",
+          "description": "Los artesanos inscritos deben declarar que cumplen los nuevos requisitos de la ley.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "2 años tras la entrada en vigor",
+          "required_documentation": "Declaración responsable ante la Dirección General competente"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

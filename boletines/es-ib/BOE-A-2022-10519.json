@@ -1,0 +1,89 @@
+{
+  "identifier": "BOE-A-2022-10519",
+  "title": "Ley 2/2022, de 6 de junio, de medidas urgentes en determinados sectores de actividad administrativa",
+  "visible_title": "Medidas urgentes en sectores de actividad administrativa",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "2/2022",
+  "publication_date": "2022-06-25",
+  "enactment_date": "2022-06-06",
+  "last_updated": "2022-06-09",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2022/06/06/2",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley implementa una serie de reformas urgentes en las Islas Baleares para adaptar la administración a la situación post-pandemia y ejecutar fondos europeos. Introduce cambios en la gestión de cámaras de comercio, regulación de energías renovables, ordenación farmacéutica y transporte marítimo. Además, establece medidas para agilizar la rehabilitación de viviendas mediante la declaración responsable y suspende nuevas licencias de juego para permitir una nueva planificación del sector.",
+  "citizen_impact": "Los ciudadanos se benefician de una vía más rápida (declaración responsable) para realizar reformas de eficiencia energética en sus viviendas gracias a los fondos europeos. También se clarifican las bonificaciones en el transporte marítimo para residentes y se busca proteger a menores y colectivos vulnerables mediante la regulación del juego.",
+  "professional_impact": "Las empresas de construcción y rehabilitación tienen menos trámites burocráticos para proyectos de eficiencia energética. Los farmacéuticos cuentan con nuevas reglas de protección ante la nulidad de adjudicaciones, y los operadores de juego ven suspendida la concesión de nuevas licencias hasta que se reforme su ley específica.",
+  "keywords": [
+    "medidas urgentes",
+    "rehabilitación energética",
+    "fondos europeos",
+    "declaración responsable",
+    "energías renovables",
+    "sector del juego",
+    "transporte marítimo",
+    "Baleares"
+  ],
+  "key_points": [
+    "Agilización de reformas de eficiencia energética mediante declaración responsable hasta el 31 de diciembre de 2025.",
+    "Suspensión de la concesión de nuevos títulos habilitantes para casinos, bingos y salas de juego.",
+    "Recuperación de parámetros urbanísticos para facilitar la instalación de energías renovables en espacios construidos.",
+    "Garantía de financiación anual para las Cámaras de Comercio de las Illes Balears.",
+    "Nuevas reglas de prelación para farmacéuticos que pierden su oficina por nulidad de adjudicación.",
+    "Clarificación de las bonificaciones de transporte marítimo para residentes de las islas.",
+    "Introducción de sanciones por incumplir el control de certificados COVID en establecimientos (según nivel de alerta)."
+  ],
+  "legal_references": [
+    "Decreto ley 11/2020",
+    "Ley 1/2017",
+    "Ley 2/2011",
+    "Ley 10/2019",
+    "Ley 7/1998",
+    "Decreto 20/2019",
+    "Ley 3/2015",
+    "Ley 4/2021",
+    "Ley 8/2014",
+    "Ley 12/2017",
+    "Real decreto 853/2021"
+  ],
+  "derogations": [
+    "Decreto ley 9/2021, de 23 de diciembre"
+  ],
+  "main_obligations": "Los promotores de obras de rehabilitación bajo el régimen de declaración responsable deben presentar un proyecto técnico visado y manifestar expresamente el cumplimiento de requisitos de eficiencia energética y ahorro de agua. Las obras deben iniciarse en un plazo máximo de 4 meses tras la presentación.",
+  "effective_date": "2022-06-26",
+  "procedures": [
+    {
+      "name": "Régimen excepcional de declaración responsable para obras de rehabilitación (Plan de Recuperación)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración responsable",
+          "description": "Presentación ante el ayuntamiento de la declaración junto con proyecto técnico visado y justificantes de pago.",
+          "start_date": "Antes del 31-12-2025",
+          "end_date": null,
+          "required_documentation": "Proyecto técnico completo, motivación de no requerir licencia previa, justificante de pago de tributos y, si aplica, póliza de seguro de responsabilidad civil."
+        },
+        {
+          "step": 2,
+          "title": "Plazo para inicio de obras",
+          "description": "Obligación de comenzar la ejecución de las obras tras la presentación.",
+          "start_date": "Tras la presentación",
+          "end_date": "4 meses después de la presentación",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Plazo de ejecución total",
+          "description": "Periodo máximo para finalizar las actuaciones permitidas por la declaración.",
+          "start_date": null,
+          "end_date": "2 años",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

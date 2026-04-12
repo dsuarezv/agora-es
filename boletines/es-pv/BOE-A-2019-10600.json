@@ -1,0 +1,85 @@
+{
+  "identifier": "BOE-A-2019-10600",
+  "title": "Ley 10/2019, de 27 de junio, de ordenación territorial de grandes establecimientos comerciales",
+  "visible_title": "Ley de ordenación territorial de grandes establecimientos comerciales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "10/2019",
+  "publication_date": "2019-07-19",
+  "enactment_date": "2019-06-27",
+  "last_updated": "2019-07-09",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2019/06/27/10",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas para abrir o ampliar grandes superficies comerciales en el País Vasco, buscando equilibrar el desarrollo económico con la protección de los centros urbanos. Su objetivo principal es evitar el vaciamiento de los centros de las ciudades y fomentar un modelo de ciudad compacta y sostenible. Para ello, prioriza la ubicación de comercios en zonas residenciales y limita la expansión de grandes superficies en la periferia, salvo para comercios de productos voluminosos.",
+  "citizen_impact": "Los ciudadanos se benefician de una mayor oferta de servicios de proximidad en sus barrios y de la protección de la vida comercial en los centros de sus ciudades. Además, la norma busca reducir la necesidad de desplazamientos largos en coche, fomentando la movilidad sostenible y peatonal.",
+  "professional_impact": "Las empresas de gran distribución deben cumplir con criterios de ubicación mucho más estrictos, dependiendo de la categoría del municipio (A, B o C). Los promotores enfrentan límites de edificabilidad más rigurosos y deben demostrar que sus proyectos no colapsarán las redes de transporte o carreteras existentes.",
+  "keywords": [
+    "grandes establecimientos comerciales",
+    "ordenación territorial",
+    "País Vasco",
+    "urbanismo",
+    "comercio de proximidad",
+    "movilidad sostenible",
+    "edificabilidad"
+  ],
+  "key_points": [
+    "Clasificación de municipios en tres categorías (A, B y C) para determinar los límites de tamaño de los comercios.",
+    "Prioridad de implantación de comercios en la trama urbana residencial para revitalizar los barrios.",
+    "Creación de la figura de 'comercio singular' (muebles, coches, construcción) con permiso para ubicarse preferentemente en la periferia.",
+    "Límites estrictos de edificabilidad para evitar la saturación de grandes superficies en municipios pequeños.",
+    "Prohibición de nuevos proyectos que requieran ampliar o saturar las redes de carreteras existentes.",
+    "Restricciones para la ampliación de locales ya existentes, exigiendo justificación de rehabilitación urbana.",
+    "Regulación de comercios en polígonos industriales, limitándolos a un 30% de la edificabilidad para que sean complementarios."
+  ],
+  "legal_references": [
+    "Directiva 2006/123/CE del Parlamento Europeo y del Consejo",
+    "Ley 17/2009, de 23 de noviembre, sobre el libre acceso a las actividades de servicios y su ejercicio",
+    "Decreto 262/2004, de 21 de diciembre",
+    "Real Decreto Legislativo 7/2015",
+    "Ley 2/2006, de 30 de junio, de Suelo y Urbanismo",
+    "Ley 7/1994, de 27 de mayo, de la Actividad Comercial",
+    "Ley 7/2008, de 25 de junio"
+  ],
+  "derogations": [
+    "Artículo 13 de la Ley 7/1994, de 27 de mayo, de la Actividad Comercial",
+    "Disposición final tercera de la Ley 7/2008, de 25 de junio"
+  ],
+  "main_obligations": "Los promotores deben asegurar que la implantación no sature la red vial y obtener informes favorables de las administraciones de carreteras. Los comercios no singulares deben ubicarse preferentemente en la trama urbana residencial, respetando los topes de superficie y edificabilidad según el municipio.",
+  "effective_date": "2019-07-20",
+  "procedures": [
+    {
+      "name": "Implantación o ampliación de grandes establecimientos comerciales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de licencia o comunicación",
+          "description": "Presentación del proyecto ante la administración correspondiente para su evaluación urbanística y territorial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto técnico que justifique el cumplimiento de límites de edificabilidad y compatibilidad con la red de movilidad."
+        },
+        {
+          "step": 2,
+          "title": "Informe de la administración de carreteras",
+          "description": "Si afecta a la red vial, se requiere informe favorable de la administración titular de la carretera.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informe de la Comisión de Ordenación del Territorio",
+          "description": "Necesario para casos excepcionales de implantación fuera de la trama urbana residencial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

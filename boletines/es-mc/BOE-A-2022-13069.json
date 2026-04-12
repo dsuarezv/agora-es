@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-2022-13069",
+  "title": "Ley 4/2022, de 16 de junio, de mecenazgo de la Región de Murcia y de modificación del Decreto Legislativo 1/2010, de 5 de noviembre, por el que se aprueba el texto refundido de las disposiciones legales vigentes en la Región de Murcia en materia de tributos cedidos",
+  "visible_title": "Ley de Mecenazgo de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "4/2022",
+  "publication_date": "2022-08-03",
+  "enactment_date": "2022-06-16",
+  "last_updated": "2023-04-14",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2022/06/16/4",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley busca incentivar la inversión privada en proyectos de cultura, ciencia, deporte, medio ambiente y acción social en la Región de Murcia. Introduce beneficios fiscales para personas y empresas que realicen donaciones o convenios de colaboración. Además, regula nuevas figuras como el micromecenazgo (crowdfunding) y crea un Consejo Asesor para gestionar y certificar estos proyectos.",
+  "citizen_impact": "Los ciudadanos pueden beneficiarse de deducciones del 50% en su IRPF por donaciones a proyectos de interés social, cultural o científico. También permite participar en proyectos de micromecenazgo digital con reconocimiento social y beneficios fiscales.",
+  "professional_impact": "Artistas, científicos, deportistas y entidades sin ánimo de lucro tienen nuevas vías de financiación privada. Las empresas pueden utilizar convenios de colaboración para obtener créditos fiscales, permitiéndoles compensar pagos de impuestos regionales, tasas y precios públicos.",
+  "keywords": [
+    "mecenazgo",
+    "incentivos fiscales",
+    "cultura",
+    "ciencia",
+    "deporte",
+    "micromecenazgo",
+    "crowdfunding",
+    "Región de Murcia",
+    "donaciones",
+    "crédito fiscal"
+  ],
+  "key_points": [
+    "Deducción del 50% en la cuota autonómica del IRPF por donaciones a proyectos elegibles.",
+    "Creación del 'micromecenazgo' (crowdfunding) como modalidad de colaboración con beneficios fiscales.",
+    "Introducción del 'crédito fiscal' del 40% para convenios de colaboración empresarial y donaciones a universidades o centros de investigación.",
+    "El crédito fiscal puede usarse para pagar impuestos, tasas y precios públicos de la Región de Murcia durante 4 años.",
+    "Creación del Consejo Asesor Regional de Mecenazgo y una Oficina de Mecenazgo para certificar proyectos 'mecenables'.",
+    "Ampliación del ámbito de aplicación para incluir proyectos medioambientales (como la protección del Mar Menor) y bienestar animal.",
+    "Inclusión de la acción social (discapacidad, infancia, mayores, etc.) como materia susceptible de mecenazgo.",
+    "Creación de los Premios 'Mecenas Región Murcia' para reconocer la colaboración privada."
+  ],
+  "legal_references": [
+    "Decreto Legislativo 1/2010, de 5 de noviembre",
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Ley 49/2002, de 23 de diciembre",
+    "Real Decreto 1270/2003, de 10 de octubre",
+    "Ley 5/1996, de 30 de julio, de Museos de la Región de Murcia",
+    "Ley Orgánica 8/1980, de 22 de septiembre",
+    "Ley 22/2009, de 18 de diciembre",
+    "Ley 22/2010, de 16 de julio",
+    "Ley 58/2003, General Tributaria",
+    "Ley 9/1985, de 10 de diciembre, de los Órganos Consultivos de la Región de Murcia",
+    "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público"
+  ],
+  "derogations": [],
+  "main_obligations": "Las entidades beneficiarias deben obtener la certificación de la Oficina de Mecenazgo para que los donantes accedan a los incentivos. Los mecenas deben justificar las aportaciones realizadas para validar la deducción o el crédito fiscal.",
+  "effective_date": "2023-01-01",
+  "procedures": [
+    {
+      "name": "Certificación de proyecto mecenable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de certificación",
+          "description": "Los titulares de proyectos deben presentar su propuesta ante la Oficina de Mecenazgo para obtener el sello de proyecto 'mecenable'.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la naturaleza del proyecto (cultural, científico, etc.) y su impacto regional."
+        }
+      ]
+    },
+    {
+      "name": "Reconocimiento de crédito fiscal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación del crédito",
+          "description": "La consejería de Hacienda debe reconocer el crédito fiscal tras la donación o convenio.",
+          "start_date": null,
+          "end_date": "6 meses desde la fecha efectiva de la donación",
+          "required_documentation": "Justificante de la aportación y certificación de la entidad beneficiaria."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

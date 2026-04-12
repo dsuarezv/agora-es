@@ -1,0 +1,83 @@
+{
+  "identifier": "BOE-A-2006-3160",
+  "title": "Ley 16/2005, de 29 de diciembre, del Impuesto sobre determinadas actividades que inciden en el medio ambiente y del tipo autonómico del Impuesto sobre las Ventas Minoristas de determinados Hidrocaburos",
+  "visible_title": "Impuesto sobre actividades que inciden en el medio ambiente y sobre ventas de hidrocarburos",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "16/2005",
+  "publication_date": "2006-02-23",
+  "enactment_date": "2005-12-29",
+  "last_updated": "2013-04-10",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2005/12/29/16",
+  "official_journal": "Boletín Oficial de la Comunidad de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley establece un impuesto en Castilla-La Mancha para gravar actividades que contaminan el aire o generan riesgos ambientales, como la emisión de gases, la producción termoeléctrica y el almacenamiento de residuos radiactivos. El objetivo es doble: desincentivar la contaminación mediante costes económicos y recaudar fondos destinados exclusivamente a la mejora y conservación del medio ambiente. Además, regula el tipo autonómico del impuesto sobre la venta minorista de hidrocarburos para financiar gastos sanitarios.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo de forma indirecta a través de la financiación de la protección ambiental y la sanidad con los fondos recaudados.",
+  "professional_impact": "Afecta directamente a empresas industriales, centrales eléctricas y gestoras de residuos radiactivos, quienes deben autoliquidar el impuesto anualmente y realizar pagos trimestrales a cuenta. Las empresas que emitan gases deben disponer de sistemas de medición continua para acceder a posibles deducciones fiscales.",
+  "keywords": [
+    "medio ambiente",
+    "impuesto ambiental",
+    "contaminación atmosférica",
+    "residuos radiactivos",
+    "hidrocarburos",
+    "Castilla-La Mancha",
+    "emisiones de gases"
+  ],
+  "key_points": [
+    "Grava la emisión de dióxido de azufre y dióxido de nitrógeno con tipos progresivos según la cantidad de toneladas.",
+    "Aplica un impuesto a la producción de energía eléctrica termoeléctrica por megaわりo hora.",
+    "Establece gravámenes específicos para el almacenamiento de residuos radiactivos (alta, media y baja actividad).",
+    "Permite deducciones de hasta el 7% en la cuota si las empresas mantienen un alto rendimiento en sus sistemas de medición de emisiones.",
+    "Los ingresos del impuesto ambiental se destinan íntegramente a la conservación y mejora del medio ambiente.",
+    "Los ingresos del impuesto sobre hidrocarburos se destinan íntegramente a gastos sanitarios.",
+    "Obliga a la realización de pagos a cuenta trimestrales en abril, julio y octubre."
+  ],
+  "legal_references": [
+    "Ley 11/2000, de 26 de diciembre",
+    "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "Ley 26/2002, de 1 de julio",
+    "Ley 21/2001, de 27 de diciembre",
+    "Ley 54/1997, de 27 de noviembre",
+    "Ley 24/2001, de 27 de diciembre"
+  ],
+  "derogations": [
+    "Ley 11/2000, de 26 de diciembre, del impuesto sobre determinadas actividades que inciden en el medio ambiente"
+  ],
+  "main_obligations": "Los sujetos pasivos deben realizar la autoliquidación anual en enero y presentar pagos a cuenta trimestrales (abril, julio y octubre). Las empresas emisoras de gases deben mantener sistemas de registro y medición de emisiones para determinar su base imponible.",
+  "effective_date": "2006-01-01",
+  "procedures": [
+    {
+      "name": "Autoliquidación y pago del impuesto ambiental",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Pagos a cuenta trimestrales",
+          "description": "Presentación e ingreso de la cuarta parte de la cuota líquida anual estimada.",
+          "start_date": "Abril",
+          "end_date": "20 de abril, 20 de julio y 20 de octubre",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Liquidación anual",
+          "description": "Declaración y autoliquidación definitiva del impuesto correspondiente al año natural.",
+          "start_date": "Enero",
+          "end_date": "31 de enero",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Cese de actividad",
+          "description": "En caso de cese de la actividad, la liquidación debe realizarse en el plazo de un mes.",
+          "start_date": null,
+          "end_date": "1 mes desde el cese",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

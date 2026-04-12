@@ -1,0 +1,74 @@
+{
+  "identifier": "BOE-A-2002-13017",
+  "title": "Ley 4/2002, de 23 de mayo, de Parejas Estables",
+  "visible_title": "Ley de Parejas Estables",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "4/2002",
+  "publication_date": "2002-07-02",
+  "enactment_date": "2002-05-23",
+  "last_updated": "2002-05-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2002/05/23/4",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta ley reconoce y protege jurídicamente a las parejas que conviven de forma estable y afectiva en Asturias, sin importar su sexo. Su objetivo es eliminar la discriminación de estas uniones frente al matrimonio en el ámbito de la administración autonómica. Permite regular la convivencia y establece las condiciones para que estas uniones sean legalmente reconocidas.",
+  "citizen_impact": "Las personas que viven en pareja de hecho en Asturias ganan derechos similares a los de los matrimonios en servicios públicos, ayudas sociales y vivienda de la administración autonómica. También facilita el acogimiento de menores de forma conjunta y permite pactar reglas de convivencia y económicas.",
+  "professional_impact": "Los funcionarios de la Administración del Principado de Asturias deben tratar a los convivientes de estas parejas como si fueran cónyuges para efectos de permisos, licencias y puestos de trabajo. Los administradores de servicios sociales y vivienda deben aplicar la equiparación legal en sus procesos de adjudicación y prestaciones.",
+  "keywords": [
+    "parejas de hecho",
+    "uniones estables",
+    "derechos de convivencia",
+    "Asturias",
+    "no discriminación",
+    "familia"
+  ],
+  "key_points": [
+    "Reconocimiento de la pareja estable como unión pública con afectividad similar a la conyugal.",
+    "Requisito de convivencia mínima de un año, salvo que haya hijos comunes o inscripción en el Registro.",
+    "Equiparación de derechos en la Administración de Asturias (permisos, ayudas, vivienda) con los del matrimonio.",
+    "Posibilidad de regular la convivencia y compensaciones económicas mediante documentos públicos o privados.",
+    "Derecho al acogimiento familiar conjunto de menores.",
+    "La disolución puede ser por muerte, matrimonio de uno, mutuo acuerdo, voluntad unilateral o cese de convivencia por más de un año."
+  ],
+  "legal_references": [
+    "Constitución Española (artículos 9.2, 14 y 39)",
+    "Estatuto de Autonomía del Principado de Asturias",
+    "Ley Orgánica 7/1981",
+    "Ley Orgánica 1/1999"
+  ],
+  "derogatons": [],
+  "main_obligations": "Los miembros de la pareja están obligados a dejar sin efecto documentos públicos o cancelar inscripciones en el Registro de Uniones de Hecho en caso de disolución. La disolución de la pareja conlleva la revocación automática de los poderes otorgados entre ellos.",
+  "effective_date": "2002-07-03",
+  "procedures": [
+    {
+      "name": "Acreditación de la condición de pareja estable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Demostración de la unión",
+          "descrption": "Se puede acreditar la convivencia mediante cualquier medio de prueba admitido en Derecho, inscripción en el Registro o documento público.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento público, inscripción en el Registro de Uniones de Hecho o pruebas de convivencia de al menos un año."
+        }
+      ]
+    },
+    {
+      "name": "Disolución de la pareja estable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación o acuerdo de ruptura",
+          "descrption": "La pareja puede disolverse por mutuo acuerdo, voluntad unilateral notificada fehacientemente o por escritura pública.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Notificación fehaciente, escritura pública o acuerdo mutuo."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

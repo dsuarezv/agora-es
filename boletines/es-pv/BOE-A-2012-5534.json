@@ -1,0 +1,82 @@
+{
+  "identifier": "BOE-A-2012-5534",
+  "title": "Ley 5/1982, de 20 de mayo, de creación del Ente Público Radio Televisión Vasca",
+  "visible_title": "Ley de creación del Ente Público Radio Televisión Vasca",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "5/1982",
+  "publication_date": "2012-04-26",
+  "enactment_date": "1982-05-20",
+  "last_updated": "2008-01-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1982/05/20/5",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta ley establece la estructura y el funcionamiento del ente público encargado de gestionar los servicios de radio y televisión en el País Vasco. Define su naturaleza jurídica, los principios de objetividad y pluralismo que deben regir sus contenidos, y su organización interna mediante un Consejo de Administración y un Director General. Además, regula los derechos de antena para grupos políticos y sociales, y garantiza el derecho de réplica y rectificación para los ciudadanos.",
+  "citizen_impact": "Garantiza a los ciudadanos vascos el acceso a medios de comunicación públicos que promuevan la cultura y la lengua vasca. Ofrece un mecanismo legal claro (derecho de réplica) para que cualquier persona que se sienta perjudicada por una información pueda rectificarla gratuitamente.",
+  "professional_impact": "Establece un régimen estricto de incompatibilidades para los directivos y miembros del Consejo de Administración, prohibiéndoles trabajar en empresas de publicidad o producción audiovisual privada. Para los profesionales de la información, impone la obligación de emitir rectificaciones en horarios y espacios similares a los de la información original.",
+  "keywords": [
+    "Radio Televisión Vasca",
+    "Eusko Irrati",
+    "ETB",
+    "servicio público de comunicación",
+    "derecho de réplica",
+    "derecho de antena",
+    "cultura vasca",
+    "euskeras"
+  ],
+  "key_points": [
+    "Creación del Ente Público Radio Televisión Vasca con personalidad jurídica propia.",
+    "Obligación de promover la cultura y la lengua vasca (euskera) en la programación.",
+    "Garantía de pluralismo político, social y cultural en los contenidos.",
+    "Derecho de antena para grupos políticos y sociales según su representación.",
+    "Derecho de réplica gratuito para personas o entidades perjudicadas por informaciones.",
+    "Prohibición de captar imágenes o palabras en lugares privados sin consentimiento.",
+    "Régimen de incompatibilidades para directivos con el sector de la producción y publicidad.",
+    "Control parlamentario sobre la actuación de las sociedades públicas del ente."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de la Comunidad Autónoma del País Vasco",
+    "Ley de 10 de enero de 1980, núm. 4/80",
+    "Estatuto del Consumidor"
+  ],
+  "derogatations": [
+    "Radio Vitorias, S. A. (integrada en el nuevo ente)"
+  ],
+  "main_obligations": "Los directores de los medios deben emitir rectificaciones en un plazo de un día tras recibirlas. El personal directivo tiene prohibido realizar actividades remuneradas en locales públicos o trabajar para empresas de producción audiovisual privadas.",
+  "effective_date": "1982-05-21",
+  "procedures": [
+    {
+      "name": "Ejercicio del derecho de réplica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de réplica",
+          "description": "El afectado dirige la solicitud al Director del Medio con la documentación de apoyo.",
+          "start_date": "Dentro de los 7, 15 o 30 días naturales según la residencia del afectado",
+          "end_date": null,
+          "required_documentation": "Documentación que sustente la rectificación"
+        },
+        {
+          "step": 2,
+          "title": "Resolución del Director",
+          "description": "El Director debe emitir la réplica al día siguiente (si es diario) o en 7 días.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Recurso ante el Consejo de Administración",
+          "description": "En caso de denegación, se puede recurrir ante el Consejo en un plazo de 5 días.",
+          "start_date": "5 días tras la notificación de denegación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

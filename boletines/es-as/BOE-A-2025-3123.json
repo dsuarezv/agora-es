@@ -1,0 +1,107 @@
+{
+  "identifier": "BOE-A-2025-3123",
+  "title": "Ley 7/2024, de 20 de diciembre, de Proyectos de Interés Estratégico",
+  "visible_title": "Ley de Proyectos de Interés Estratégico",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "7/2024",
+  "publication_date": "2025-02-18",
+  "enactment_date": "2024-12-20",
+  "last_updated": "2024-12-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2024/12/20/7",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta ley crea la figura de los Proyectos de Interés Estratégico (PIER) en Asturias para atraer y acelerar grandes inversiones industriales y tecnológicas. El objetivo es modernizar la economía regional hacia modelos sostenibles, digitales y descarbonizados, ofreciendo a las empresas una vía rápida de aprobación administrativa. Mediante esta norma, se busca evitar que las inversiones se desvíen a otras regiones debido a la lentitud burocrática o la falta de incentivos.",
+  "citizen_impact": "El impacto directo es indirecto, centrándose en la creación de empleo estable y de calidad y el fortalecimiento del modelo social asturiano. Al fomentar la industria sostenible, también contribuye a la mejora del entorno medioambiental y la cohesión territorial.",
+  "professional_impact": "Las empresas con proyectos de gran envergadura (mínimo 30 millones de euros o 100 empleos) se benefician de una 'ventanilla única' y plazos de resolución administrativos reducidos a la mitad. Los funcionarios de la administración autonómica y local deberán adoptar procedimientos de urgencia y coordinación reforzada para gestionar estos expedientes.",
+  "keywords": [
+    "inversión industrial",
+    "Asturias",
+    "PIER",
+    "tramitación urgente",
+    "descarbonización",
+    "empleo de calidad",
+    "desarrollo económico"
+  ],
+  "key_points": [
+    "Creación de la figura PIER para proyectos con alto impacto económico o social.",
+    "Reducción de plazos administrativos a la mitad para proyectos declarados PIER.",
+    "Establecimiento de una 'ventanilla única' gestionada por la Consejería de Industria.",
+    "Acceso preferente a incentivos económicos y líneas de financiación autonómicas.",
+    "Requisitos mínimos: 30 millones de € en inversión o 100 empleos indefinidos (reducidos al 50% en zonas de crisis demográfica).",
+    "Posibilidad de declarar utilidad pública para facilitar expropiaciones si es necesario.",
+    "Prevalencia del proyecto PIER sobre el planeamiento urbanístico actual para facilitar su ejecución.",
+    "Obligación de depositar una garantía del 1% de la inversión (máximo 300.000 €) para asegurar el cumplimiento."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía del Principado de Asturias",
+    "Decreto Legislativo del Principado de Asturias 1/2004",
+    "Ley 40/2015 de Régimen Jurídico del Sector Público",
+    "Ley 39/2015 del Procedimiento Administrativo Común",
+    "Ley 2/2024 de Impulso Demográfico",
+    "Ley Orgánica 3/2007 de Igualdad",
+    "Ley Orgánica 1/2004 de Violencia de Género"
+  ],
+  "derogations": [],
+  "main_obligations": "Los promotores deben depositar una garantía del 1% de la inversión en 5 días hábiles tras la notificación. Deben mantener los compromisos de empleo e inversión y presentar actualizaciones trimestrales de avance a la Agencia de Ciencia, Competitividad Empresarial e Innovación Asturiana.",
+  "effective_date": "2025-02-19",
+  "procedures": [
+    {
+      "name": "Declaración de Proyecto de Interés Estratégico (PIER)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de declaración",
+          "description": "El promotor presenta la solicitud ante la Consejería con memoria técnica, económica, ambiental y de igualdad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria técnica, económica, de empleo, ordenación del territorio, ambiental, patrimonio y de igualdad."
+        },
+        {
+          "step": 2,
+          "title": "Análisis previo y subsanación",
+          "description": "La Agencia analiza la documentación y puede requerir subsanaciones en un plazo de 10 días.",
+          "start_date": null,
+          "end_date": "10 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informes preceptivos",
+          "description": "La Agencia solicita informes a los ayuntamientos y otros organismos necesarios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Propuesta de resolución",
+          "description": "La Agencia elabora la propuesta de declaración o denegación para la Consejería.",
+          "start_date": null,
+          "end_date": "3 meses desde la solicitud",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Decisión del Consejo de Gobierno",
+          "description": "El Consejo de Gobierno aprueba, deniega o revoca la declaración de PIER.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Depósito de garantía",
+          "description": "El promotor debe depositar el 1% de la inversión tras la notificación del acuerdo.",
+          "start_date": null,
+          "end_date": "5 días hábiles tras notificación",
+          "required_documentation": "Garantía financiera"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

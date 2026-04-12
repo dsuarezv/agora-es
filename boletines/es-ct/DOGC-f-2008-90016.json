@@ -1,0 +1,100 @@
+{
+  "identifier": "DOGC-f-2008-90016",
+  "title": "Decreto Legislativo 2/2008, de 15 de abril, por el que se aprueba el Texto refundido de la Ley de protección de los animales",
+  "visible_title": "Ley de protección de los animales",
+  "rank": "decreto legislativo",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "2/2008",
+  "publication_date": "2008-04-17",
+  "enactment_date": "2008-04-15",
+  "last_updated": "2023-03-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=DOGC-f-2008-90016",
+  "official_journal": "DOGC",
+  "journal_issue": null,
+  "summary": "Esta norma unifica la protección animal en Cataluña reconociendo a los animales como seres con sensibilidad física y psíquica. Establece un marco de deberes estrictos para los dueños de mascotas y protege la fauna silvestre mediante un catálogo de especies con distintos niveles de conservación. El objetivo es erradicar el maltrato, el abandono y la explotación de animales en espectáculos o peleas. Además, regula la comercialización de animales para asegurar que se vendan en condiciones óptimas de salud y seguridad.",
+  "citizen_impact": "Los dueños de perros, gatos y hurones deben cumplir con la identificación obligatoria por microchip y el registro en el censo municipal. Se prohíbe la venta de animales a menores de 16 años y se garantiza que las mascotas de compañía no puedan ser embargadas judicialmente. Para los ciudadanos interesados en la naturaleza, la ley restringe la captura o molestia de especies protegidas según su categoría.",
+  "professional_impact": "Los centros de venta de animales deben asegurar que sus ejemplares estén ya esterilizados e identificados antes de la venta. Los veterinarios y propietarios deben cumplir con protocolos de atención básica y comunicación de desapariciones. Las empresas de espectáculos y circos tienen prohibido el uso de fauna salvaje o animales en actividades que causen sufrimiento.",
+  "keywords": [
+    "protección animal",
+    "bienestar animal",
+    "microchip obligatorio",
+    "especies protegidas",
+    "censos municipales",
+    "maltrato animal"
+  ],
+  "key_points": [
+    "Reconocimiento legal de los animales como seres con sensibilidad física y psíquica.",
+    "Identificación obligatoria mediante microchip para perros, gatos y hurones.",
+    "Prohibición de embargo judicial para animales de compañía.",
+    "Restricción de venta de animales a menores de 16 años.",
+    "Obligación de que los centros de venta entreguen animales ya esterilizados e identificados.",
+    "Prohibición de espectáculos con fauna salvaje, circos con animales salvajes o peleas.",
+    "Protección estricta de especies catalogadas (mamíferos, aves, reptiles, etc.) según niveles de conservación (A, B, C, D).",
+    "Prohibición de mutilaciones sin fines terapéuticos y obligación de atención veterinaria."
+  ],
+  "legal_references": [
+    "Ley 17/2007, de 21 de diciembre, de medidas fiscales y financieras",
+    "Ley 22/2003, de 4 de julio, de protección de los animales",
+    "Ley 3/1988, de 4 de marzo, de protección de los animales",
+    "Ley 12/2006, de 27 de julio, de medidas en materia de medio ambiente",
+    "Ley 12/1985, de espacios naturales",
+    "Ley 9/1995, del acceso motorizado al medio natural",
+    "Ley 4/2004, relativa al proceso de adecuación de las actividades con incidencia ambiental"
+  ],
+  "derogations": [
+    "Ley 3/1988, de 4 de marzo, de protección de los animales",
+    "Ley 22/2003, de 4 de julio, de protección de los animales",
+    "Disposiciones de la Ley 12/2006 relativas a la protección de animales"
+  ],
+  "main_obligations": "Los propietarios deben registrar a sus animales en el censo municipal en un plazo de 3 meses desde el nacimiento o 30 días desde la adquisición. Es obligatorio comunicar la desaparición de cualquier animal en un plazo máximo de 48 horas.",
+  "effective_date": "2008-04-18",
+  "procedures": [
+    {
+      "name": "Registro y Censo de Animales de Compañía",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Identificación",
+          "description": "Implantación de microchip homologado al animal.",
+          "start_date": "Previo a la inscripción",
+          "end_date": null,
+          "required_documentation": "Documento acreditativo de la identificación"
+        },
+        {
+          "step": 2,
+          "title": "Comunicación al censo municipal",
+          "description": "Inscribir al animal en el censo del municipio de residencia.",
+          "start_date": "3 meses desde el nacimiento o 30 días desde la adquisición/cambio de residencia",
+          "end_date": null,
+          "required_documentation": "Datos de identificación del animal y del propietario"
+        }
+      ]
+    },
+    {
+      "name": "Recuperación de animales perdidos o abandonados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de hallazgo",
+          "description": "Si el animal tiene identificación, el ayuntamiento debe notificar al propietario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de recuperación",
+          "description": "El propietario tiene un plazo para recoger al animal y abonar los gastos.",
+          "start_date": "Desde la notificación",
+          "end_date": "20 días",
+          "required_documentation": "Identificación del animal y pago de gastos"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

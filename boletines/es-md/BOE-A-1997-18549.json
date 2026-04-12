@@ -1,0 +1,104 @@
+{
+  "identifier": "BOE-A-1997-18549",
+  "title": "Ley 1/1997, de 8 de enero, Reguladora de la Venta Ambulante de la Comunidad de Madrid",
+  "visible_title": "Ley Reguladora de la Venta Ambulante de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "1/1997",
+  "publication_date": "1997-08-20",
+  "enactment_date": "1997-01-08",
+  "last_updated": "2015-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1997/01/08/1",
+  "official_journal": "BOCM",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas para que los comerciantes puedan vender productos fuera de un local fijo en la Comunidad de Madrid. Organiza las distintas formas de venta (mercadillos, fiestas o puestos aislados) y busca que haya un control sanitario y comercial estricto. Su objetivo es profesionalizar el sector, evitar la competencia desleal con el comercio establecido y garantizar la seguridad de los consumidores.",
+  "citizen_impact": "Para el ciudadano común, esta norma garantiza que los productos vendidos en la calle cumplan con estándares de higiene y seguridad. Además, asegura que los mercadillos estén ordenados y no bloqueen el paso en zonas públicas o accesos a hospitales y colegios.",
+  "professional_impact": "Los comerciantes ambulantes deben cumplir requisitos estrictos: estar inscritos en un registro autonómico, poseer un Carné Profesional, tener seguro de responsabilidad civil y obtener una autorización municipal. También se les imponen límites de ocupación (máximo 5% de puestos por persona) y obligaciones de limpieza y horarios.",
+  "keywords": [
+    "venta ambulante",
+    "mercadillos",
+    "comercio no sedentario",
+    "autorización municipal",
+    "Comunidad de Madrid",
+    "comerciante ambulante"
+  ],
+  "key_points": [
+    "Obligatoriedad de poseer el Carné Profesional de Comerciante Ambulante de la Comunidad de Madrid.",
+    "Las autorizaciones municipales para mercadillos tienen una duración mínima de 15 años para permitir la amortización de la inversión.",
+    "Prohibición de vender productos alimenticios frescos no transformados en puestos aislados de la vía pública urbana.",
+    "Ningún comerciante puede controlar más del 5% de los puestos de un mismo mercadillo.",
+    "Los ayuntamientos deben obtener informes favorables de Salud y de Comercio antes de autorizar un mercadillo.",
+    "Se establece un régimen sancionador con multas que pueden llegar hasta 1.000.000 de pesetas (según el texto original)."
+  ],
+  "legal_references": [
+    "Real Decreto 1010/1985",
+    "Estatuto de Autonomía de la Comunidad de Madrid",
+    "Ley Orgánica 10/1994",
+    "Ley 30/1992",
+    "Real Decreto de 28 de noviembre de 1984",
+    "Ley 26/1984",
+    "Ley 14/1986",
+    "Decreto 115/1986",
+    "Ley 8/2009",
+    "Ley 5/2010"
+  ],
+  "derogations": [],
+  "main_obligations": "Los comerciantes deben estar al corriente con Hacienda y Seguridad Social, poseer seguro de responsabilidad civil y exhibir su autorización municipal visible. Se prohíbe pernoctar en vehículos cerca de los mercadillos y montar puestos antes de las 07:30 AM.",
+  "effective_date": "1997-08-20",
+  "procedures": [
+    {
+      "name": "Inscripción en el Registro de Comerciantes Ambulantes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inscripción",
+          "description": "Presentación de documentación (DNI, CIF, alta IAE, contratos, etc.) ante la Dirección General de Comercio y Consumo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "DNI/NIE, CIF, justificante de alta en IAE, contratos de trabajo, estatutos (si es sociedad) y originales para cotejo."
+        },
+        {
+          "step": 2,
+          "title": "Subsanación de errores",
+          "description": "Plazo para corregir documentación defectuosa o incompleta.",
+          "start_date": "Día siguiente a la notificación",
+          "end_date": "10 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Expedición del Carné Profesional",
+          "description": "Emisión del carné con vigencia de 4 años tras verificar la documentación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de Autorización Municipal para Mercadillos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Periodo anual para solicitar el permiso de venta.",
+          "start_date": "01-11",
+          "end_date": "31-01",
+          "required_documentation": "Identificación, certificado de estar al corriente de obligaciones, contratos, carné de manipulador de alimentos, seguro de responsabilidad civil y Carné Profesional de Comerciante Ambulante."
+        },
+        {
+          "step": 2,
+          "title": "Adjudicación y acreditación de documentos pendientes",
+          "description": "Plazo para aportar documentos que no se pudieron presentar inicialmente (como el alta en el IAE).",
+          "start_date": "Desde la adjudicación",
+          "end_date": "15 días",
+          "required_documentation": "Alta en el IAE y último recibo pagado."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

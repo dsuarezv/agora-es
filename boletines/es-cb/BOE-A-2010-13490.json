@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-2010-13490",
+  "title": "Ley 6/2010, de 30 de julio, de Medidas urgentes en materia de Ordenación del Territorio y Urbanismo",
+  "visible_title": "Medidas urgentes en materia de Ordenación del Territorio y Urbanismo",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "6/2010",
+  "publication_date": "2010-08-28",
+  "enactment_date": "2010-07-30",
+  "last_updated": "2012-12-19",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2010/07/30/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca resolver la inseguridad jurídica causada por la falta de adaptación de los planes municipales al Plan de Ordenación del Litoral de Cantabria. Introduce mecanismos rápidos y flexibles para que los ayuntamientos ajusten su planeamiento en zonas costeras. Además, mejora la transparencia en los procesos de licencias y establece criterios para proteger el paisaje frente a cambios en el entorno.",
+  "citizen_impact": "Los propietarios de viviendas en zonas costeras ganan claridad sobre si sus terrenos están protegidos o no. También se establece que la concesión de licencias de primera ocupación será pública, permitiendo a los vecinos conocer y, si fuera necesario, impugnar legalmente las obras de sus colindantes.",
+  "professional_impact": "Promotores y constructores deben cumplir con requisitos de información más estrictos, como colocar carteles visibles en las obras. Los abogados y técnicos urbanísticos dispondrán de plazos de impugnación más claros y precisos, especialmente tras la publicación de la licencia de primera ocupación.",
+  "keywords": [
+    "urbanismo",
+    "ordenación del territorio",
+    "litoral",
+    "paisaje",
+    "seguridad jurídica",
+    "licencias urbanísticas",
+    "Cantabria"
+  ],
+  "key_points": [
+    "Permite modificaciones puntuales de planeamiento para adaptar suelos al Plan de Ordenación del Litoral.",
+    "Se admite el uso residencial en suelos que pasen a estar incluidos en el Plan de Ordenación del Litoral, siempre que no tengan protección ambiental especial.",
+    "Obliga a publicar las licencias de primera ocupación en el Boletín Oficial de Cantabria y en el tablón municipal para que empiecen a contar los plazos de impugnación.",
+    "Crea un mecanismo para evitar la demolición de edificios que, aunque inicialmente eran disonantes con el paisaje, ahora se integran por cambios en el entorno.",
+    "Establece la obligación de tener la licencia urbanística visible en la obra mediante un cartel informativo.",
+    "Clarifica cuándo empiezan a contar los plazos de prescripción para las infracciones urbanísticas según si hay licencia o no."
+  ],
+  "legal_references": [
+    "Ley de Cantabria 2/2001, de 25 de junio, de Ordenación Territorial y Régimen Urbanístico del Suelo de Cantabria",
+    "Ley de Cantabria 2/2004, de 27 de septiembre, del Plan de Ordenación del Litoral",
+    "Ley 9/2006, de 28 de abril, sobre evaluación de los efectos de determinados planes y programas en el medio ambiente"
+  ],
+  "derogations": [],
+  "main_obligations": "Los titulares de licencias deben mantener una copia autorizada de la misma y un cartel informativo visible en la obra. Los ayuntamientos deben promover la modificación de sus planes si el entorno paisajístico cambia significativamente.",
+  "effective_date": "2010-08-28",
+  "procedures": [
+    {
+      "name": "Modificación puntual de planeamiento para adaptación al Plan de Ordenación del Litoral",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de zonificación",
+          "description": "El Ayuntamiento solicita a la Comisión Regional la propuesta de zonificación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública y audiencia",
+          "description": "Se somete la propuesta a información pública y se escucha a la Administración del Estado y al Ayuntamiento.",
+          "start_date": null,
+          "end_date": "20 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación",
+          "description": "El Consejo de Gobierno aprueba la propuesta tras el informe de la Dirección General.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de adaptación de edificaciones al entorno paisajístico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud del propietario",
+          "description": "El propietario presenta una solicitud para evitar la demolición alegando cambios en el entorno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria descriptiva (antecedentes, estado del paisaje, razones de adaptación, evaluación económica) y documentación gráfica (planos y delimitación)."
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "El Ayuntamiento somete la solicitud a información pública.",
+          "start_date": null,
+          "end_date": "20 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "El Ayuntamiento dicta resolución para adaptar la edificación o dejar sin efecto la orden de derrumbo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

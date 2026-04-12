@@ -1,0 +1,214 @@
+{
+  "identifier": "BOE-A-2014-7141",
+  "title": "Ley 2/2014, de 13 de junio, de Puertos de la Generalitat",
+  "visible_title": "Ley de Puertos de la Generalitat",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "2/2014",
+  "publication_date": "2014-07-08",
+  "enactment_date": "2014-06-13",
+  "last_updated": "2025-07-18",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2014/06/13/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para organizar, gestionar y planificar todo el sistema portuario de la Comunidad Valenciana. Introduce un modelo de gestión que permite la participación privada en la construcción de puertos y regula de forma estricta el uso del dominio público mediante concesiones de hasta 50 o 75 años. Además, crea un sistema de tasas basado en la actividad real y la ocupación del espacio, junto con un régimen sancionador severo para garantizar la seguridad y la protección medioambiental. El objetivo es modernizar la infraestructura portuaria y asegurar que su explotación sea eficiente y sostenible.",
+  "citizen_impact": "Sin impacto directo en ciudadanos, salvo que se trate de usuarios de servicios portuarios o propietarios de embarcaciones que deban cumplir con la normativa de residuos y seguridad.",
+  "professional_impact": "Afecta significativamente a empresas del sector logístico, naviero y de construcción, que ahora deben cumplir con garantías económicas estrictas (3% para solicitudes y 4% para obras), seguir normativas ambientales certificadas y pueden enfrentarse a multas de hasta 10 millones de euros. También impacta a empresas extranjeras de la UE que pueden operar bajo reciprocidad.",
+  "keywords": [
+    "puertos",
+    "Comunitat Valenciana",
+    "concesiones portuarias",
+    "tasas portuarias",
+    "dominio público portuario",
+    "gestión portuaria",
+    "régimen sancionador"
+  ],
+  "key_points": [
+    "Creación de un sistema de planificación dual: estructural (infraestructuras) y funcional (usos y espacios - DEUP).",
+    "Las obras portuarias de la Generalitat no requieren licencia municipal, aunque los ayuntamientos mantienen control preventivo.",
+    "Las concesiones de uso del dominio público pueden durar hasta 50 años, o 75 años en casos de inversión estratégica.",
+    "Se permite la iniciativa privada para construir puertos mediante estudios de viabilidad.",
+    "Implementación de un sistema de tasas basado en la ocupación de superficie, la actividad comercial/industrial y la primera venta de pescado.",
+    "Obligatoriedad de garantías económicas: 3% del presupuesto para solicitudes y 4% del valor de las obras para la garantía definitiva.",
+    "Las empresas extranjeras de la UE pueden prestar servicios portuarios bajo el principio de reciprocidad.",
+    "La ocupación del dominio público sin título conlleva un recargo del 20% sobre la tasa correspondiente.",
+    "La Administración puede retener buques para garantizar el pago de responsabilidades económicas.",
+    "Las multas por infracciones muy graves pueden alcanzar los 10.000.000 de euros.",
+    "La obligación de reparar daños y restituir las cosas al estado anterior no prescribe nunca.",
+    "La Administración puede ordenar la demolición de obras ilegales a costa del infractor."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 148.1.1.ª y 6.ª)",
+    "Estatut d'Autonomia de la Comunitat Valenciana (art. 49.1.15.ª)",
+    "Ley 11/2002, de 23 de diciembre, de la Generalitat",
+    "Ley 22/1988, de 28 de agosto, de Costas (art. 49)",
+    "Ley 4/2004, de 30 de junio, de la Generalitat, de Ordenación del Territorio y Protección del Paisaje",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas",
+    "Ley 20/2013, de 9 de diciembre, de garantía de la unidad de mercado",
+    "Ley 1/2015, de 6 de febrero, de hacienda pública, del sector público instrumental y de subvenciones",
+    "Ley de hacienda pública de la Generalitat"
+  ],
+  "derogatons": [
+    "Artículo 54 de la Ley 11/2002, de 23 de diciembre, de la Generalitat",
+    "Capítulo IX de la Ley 12/2004, de 27 de diciembre, de la Generalitat (salvo apartados séptimos y octavos del artículo 70)"
+  ],
+  "main_obligations": "Los concesionarios deben cumplir estrictamente la normativa medioambiental y de seguridad, disponiendo de sistemas de gestión certificados. Los solicitantes de concesión deben aportar estudios económicos y proyectos básicos, además de constituir las garantías económicas exigidas.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Transmisión de contratos de prestación de servicios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "El transmisor debe solicitar permiso previo a la Administración portuaria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de que el adquirente cumple los requisitos de la Ley 2/2014"
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "La transmisión es nula si no cuenta con la autorización expresa de la Administración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de desaforcio administrativo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requerimiento de cese",
+          "description": "Notificación al ocupante indebido para que abandone el espacio.",
+          "start_date": null,
+          "end_date": "10 días para alegaciones",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Toma de posesión",
+          "description": "La Administración toma posesión de las instalaciones sin más trámite.",
+          "start_date": "Tras el plazo de alegaciones",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inmovilización y retirada de bienes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inmovilización",
+          "description": "Precinado de embarcaciones, vehículos o mercancías por falta de autorización o impago.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Notificación de aviso",
+          "description": "Colocación de aviso visible en el bien o lugar de amarre/estacionamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Retirada de oficio",
+          "description": "Si no se retira voluntariamente en el plazo señalado, la Administración procede a la retirada a costa del interesado.",
+          "start_date": "Plazo determinado por la Administración",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de abandono de bienes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación de expediente",
+          "description": "Procedimiento para acreditar el abandono de vehículos o embarcaciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Audiencia",
+          "description": "Se debe dar audiencia al propietario, naviero o capitán.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Subasta pública",
+          "description": "Venta de los bienes declarados abandonados para cubrir costes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador administrativo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del expediente",
+          "description": "Inicio formal del procedimiento sancionador.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y resolución",
+          "description": "Plazo máximo para dictar y notificar la resolución final.",
+          "start_date": "Desde el acuerdo de iniciación",
+          "end_date": "1 año",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Audiencia (si procede)",
+          "description": "Derecho de audiencia preceptivo para concesionarios en superficies sujetas a concesión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Medidas cautelares portuarias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adopción de medidas",
+          "description": "Paralización de obras, precinto de instalaciones o retención de buques para asegurar la eficacia de la resolución.",
+          "start_date": "Una vez incoado el expediente",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Subsanación o regularización",
+          "description": "El interesado debe solicitar el título correspondiente o ajustar la actividad en el plazo fijado.",
+          "start_date": "Desde la notificación de la orden de suspensión",
+          "end_date": "Plazo fijado por la Administración",
+          "required_documentation": "Título administrativo correspondiente o adecuación de la obra/actividad"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

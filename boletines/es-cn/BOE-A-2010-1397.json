@@ -1,0 +1,78 @@
+{
+  "identifier": "BOE-A-2010-1397",
+  "title": "Ley 11/2009, de 15 de diciembre, reguladora de la Ordenación Territorial de las Telecomunicaciones de Canarias",
+  "visible_title": "Ley de Ordenación Territorial de las Telecomunicaciones de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "11/2009",
+  "publication_date": "2010-01-30",
+  "enactment_date": "2009-12-15",
+  "last_updated": "2009-12-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2009/12/15/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula dónde y cómo se pueden instalar infraestructuras de telecomunicaciones en Canarias para evitar el despliegue desordenado. Su objetivo es equilibrar la necesidad de tener buena conexión con la protección del paisaje, el medio ambiente y la salud. Busca fomentar el uso compartido de instalaciones entre operadores para reducir el impacto visual y asegurar la cobertura en zonas aisladas.",
+  "citizen_impact": "Garantiza que el despliegue de antenas y redes sea más estético y respetuoso con el entorno natural y los monumentos. Además, busca asegurar que incluso en las zonas más remotas de las islas se pueda acceder a servicios de comunicación de calidad.",
+  "professional_impact": "Los operadores de telecomunicaciones deben cumplir con planes de ordenación específicos y están obligados a compartir infraestructuras cuando sea técnicamente viable. También enfrentan la obligación de desmantelar equipos en desuso y pueden recibir sanciones graves por instalar equipos fuera de los planes aprobados.",
+  "keywords": [
+    "telecomunicaciones",
+    "ordenación territorial",
+    "Canarias",
+    "infraestructuras",
+    "medio ambiente",
+    "paisaje",
+    "uso compartido",
+    "radiación electromagnética"
+  ],
+  "key_points": [
+    "Obligación de compartir infraestructuras entre operadores para minimizar el impacto visual y ambiental.",
+    "Prohibición de instalar equipos en monumentos históricos o espacios naturales protegidos, salvo excepciones de planeamiento.",
+    "Exigencia de mimetización de las instalaciones en zonas de especial valor paisajístico o cultural.",
+    "Obligación de los operadores de retirar y desmantelar equipos en desuso, dejando el terreno como estaba.",
+    "Creación de planes territoriales especiales para coordinar el despliegue de redes a nivel regional e insular.",
+    "Prioridad al soterramiento de tendidos eléctricos y de telecomunicaciones.",
+    "Control e inspección por parte de los ayuntamientos y la Comunidad Autónoma para asegurar el cumplimiento urbanístico."
+  ],
+  "legal_references": [
+    "Ley 32/2003",
+    "Constitución Española",
+    "Directiva 97/33/CE",
+    "Recomendación del Consejo de las Comunidades Europeas de 12 de julio de 1999",
+    "Real Decreto 1066/2001",
+    "Ley 4/1999 de Patrimonio Histórico de Canarias",
+    "Decreto Legislativo 1/2000 (Texto Refundido de las Leyes de Ordenación del Territorio de Canarias y de Espacios Naturales de Canarias)",
+    "Ley 9/2006 de contenido ambiental"
+  ],
+  "derogations": [
+    "Disposiciones de rango inferior que resulten incompatibles con esta Ley"
+  ],
+  "main_obligations": "Los operadores deben mantener sus instalaciones en condiciones de seguridad, compartir infraestructuras cuando sea viable y desmantelar equipos obsoletos. El incumplimiento de la retirada de equipos o la instalación fuera de los planes aprobados conlleva sanciones graves o muy graves.",
+  "effective_date": "2010-01-31",
+  "procedures": [
+    {
+      "name": "Adecuación de infraestructuras existentes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Ajuste al nuevo planeamiento",
+          "description": "Las infraestructuras existentes deben ajustarse a las nuevas normas de ordenación territorial.",
+          "start_date": "Desde la adecuación del planeamiento a esta Ley",
+          "end_date": "1 año",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Procedimiento de demolición",
+          "description": "Si no se cumple el plazo o el planeamiento, se procederá a la demolición o retirada de la infraestructura.",
+          "start_date": "Al finalizar el plazo de un año",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

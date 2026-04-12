@@ -1,0 +1,91 @@
+{
+  "identifier": "BOE-A-1986-17091",
+  "title": "Ley 3/1986, de 15 de mayo, por la que se regula el procedimiento de creación de Comarcas en el Principado de Asturias",
+  "visible_title": "Regulación del procedimiento de creación de Comarcas en Asturias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "3/1986",
+  "publication_date": "1986-06-27",
+  "enactment_date": "1986-05-15",
+  "last_updated": "1986-05-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1986/05/15/3",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta ley establece el camino legal para que varios municipios de Asturias se agrupen en una 'Comarca' como entidad local con personalidad propia. Define quién puede proponer la creación de una comarca (ayuntamientos, vecinos o la Junta General) y cómo debe ser el proceso de aprobación. El objetivo es permitir una gestión más eficiente de servicios y recursos que superen el ámbito de un solo concejo.",
+  "citizen_impact": "No impone trámites directos a los ciudadanos, pero les otorga el derecho de proponer la creación de una comarca si consiguen que el 50% de los empadronados de los municipios implicados firmen la petición. Además, permite que los vecinos opinen sobre el proyecto mediante un periodo de información pública.",
+  "professional_impact": "Afecta directamente a concejales y técnicos municipales, ya que introduce la posibilidad de que sus competencias sean coordinadas o gestionadas por una entidad superior. Los ayuntamientos deberán realizar aportaciones presupuestarias a la comarca si esta se crea, y los funcionarios deberán adaptarse a nuevas estructuras de gobierno colegiado.",
+  "keywords": [
+    "Comarcas",
+    "Asturias",
+    "Entidad Local",
+    "Organización territorial",
+    "Régimen Local",
+    "Creación de comarcas"
+  ],
+  "key_points": [
+    "La iniciativa puede nacer de los Ayuntamientos, de los vecinos (50% del censo) o de la Junta General.",
+    "Existe un derecho de veto: si dos quintas partes de los concejos afectados se oponen, o si los concejos opositores representan la mitad del censo electoral, la comarca no se crea.",
+    "La creación de una comarca debe aprobarse mediante una Ley específica de la Junta General.",
+    "El gobierno de la comarca será un Consejo Comarcal formado por representantes de los ayuntamientos integrantes.",
+    "Se requiere un estudio previo que justifique la viabilidad económica, social y geográfica de la agrupación."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía para Asturias",
+    "Ley 7/1984, de 2 de abril, Reguladora de las Bases de Régimen Local",
+    "Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local"
+  ],
+  "derogations": [],
+  "main_obligations": "Los ayuntamientos que decidan adherirse a una comarca deben resolver sobre su adhesión en un plazo de un mes tras recibir la comunicación. En caso de aprobarse la comarca, la ley de creación debe especificar la aportación porcentual de los presupuestos municipales al presupuesto comarcal.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Procedimiento de creación de Comarcas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciativa",
+          "description": "Presentación de la propuesta por parte de Ayuntamientos, vecinos (50% censo) o la Junta General.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudio documentado con justificación geográfica, demográfica, social y económica, y plan de servicios."
+        },
+        {
+          "step": 2,
+          "title": "Consulta a concejos no participantes",
+          "description": "Se comunica la iniciativa a los concejos que podrían formar parte de la comarca para que decidan su adhesión u oposición.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Evaluación de viabilidad",
+          "description": "El Consejo de Gobierno estudia la viabilidad y, si es favorable, redacta un anteproyecto de Ley.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informes de la Consejería de Interior y Administración Territorial."
+        },
+        {
+          "step": 4,
+          "title": "Información pública",
+          "description": "Periodo para que vecinos y ayuntamientos presenten alegaciones al anteproyecto de Ley.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": "Alegaciones por escrito."
+        },
+        {
+          "step": 5,
+          "title": "Aprobación legislativa",
+          "description": "Redacción del proyecto de Ley definitivo y su tramitación en la Junta General para su aprobación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

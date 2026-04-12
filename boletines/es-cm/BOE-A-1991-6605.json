@@ -1,0 +1,117 @@
+{
+  "identifier": "BOE-A-1991-6605",
+  "title": "Ley 9/1990, de 28 de diciembre, de Carreteras y Caminos de Castilla-La Mancha",
+  "visible_title": "Ley de Carreteras y Caminos de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "9/1990",
+  "publication_date": "1991-03-11",
+  "enactment_date": "1990-12-28",
+  "last_updated": "2010-05-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/1990/12/28/9",
+  "official_journal": "Boletín Oficial de la Comunidad de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para la planificación, construcción, gestión y uso de la red de carreteras y caminos de titularidad autonómica en Castilla-La Mancha. Su objetivo es coordinar las actuaciones de las distintas administraciones regionales y asegurar la seguridad vial y la protección del patrimonio público. Regula aspectos fundamentales como la clasificación de vías, la financiación de obras, las zonas de dominio público y el régimen sancionador por infracciones.",
+  "citizen_impact": "Afecta a los ciudadanos mediante la regulación de las zonas de protección y servidumbre donde existen limitaciones para construir o realizar actividades. También establece la prohibición de publicidad no autorizada en las carreteras y regula el uso de las traviesas en núcleos urbanos.",
+  "professional_impact": "Impacta directamente en empresas constructoras, propietarios de fincas colindantes y profesionales del transporte. Los propietarios pueden verse obligados a pagar 'contribuiciones especiales' si una obra mejora su acceso, y las empresas deben cumplir estrictos procedimientos de autorización para obras o accesos, bajo riesgo de sanciones económicas elevadas.",
+  "keywords": [
+    "carreteras",
+    "caminos",
+    "infraestructuras",
+    "Castilla-La Mancha",
+    "seguridad vial",
+    "dominio público",
+    "servidumbre",
+    "sanciones",
+    "planificación vial"
+  ],
+  "key_points": [
+    "Clasificación de carreteras en autopistas, autovías, vías rápidas y convencionales.",
+    "Creación de zonas de dominio público, servidumbre y protección con distancias específicas según el tipo de vía.",
+    "Posibilidad de imponer contribuciones especiales a propietarios que se beneficien directamente de nuevas obras (hasta el 25% en general, 50% en vías de servicio y 90% en accesos particulares).",
+    "Prohibición de realizar publicidad visible desde el dominio público sin autorización.",
+    "Establecimiento de límites de edificabilidad respecto a la carretera (entre 18 y 50 metros según la vía).",
+    "Régimen sancionador con multas que pueden alcanzar las 25.000.000 de pesetas en infracciones muy graves.",
+    "Obligatoriedad de realizar estudios de impacto ambiental y de tráfico para ciertos proyectos y accesos.",
+    "Regulación especial de las traviesas para equilibrar el tráfico con la autonomía municipal."
+  ],
+  "legal_references": [
+    "Ley 25/1988, de 29 de julio, de Carreteras",
+    "Real Decreto 918/1984, de 29 de febrero",
+    "Ley 51/1974 de Carreteras",
+    "Real Decreto 1073/1977, de 8 de febrero",
+    "Ley 5/1999, de 8 de abril, de Evaluación de Impacto Ambiental",
+    "Ley 6/2001, de 8 de mayo",
+    "Ley 7/1985, de 2 de abril, reguladora de las bases de Régimen Local",
+    "Real Decreto 1812/1994",
+    "Real Decreto 1911/1997",
+    "Real Decreto 597/1999"
+  ],
+  "derogations": [],
+  "main_obligations": "Prohibición de realizar obras o actividades en zonas de dominio público, servidumbre o protección sin autorización previa. Obligación de restaurar el estado anterior y pagar indemnizaciones en caso de daños o construcciones ilegales. Los propietarios deben respetar los límites de edificabilidad y las restricciones de uso impuestas.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Aprobación de proyectos de carreteras de nueva construcción",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración de proyecto básico",
+          "description": "Análisis de necesidades y alternativas para nuevas carreteras o variantes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Trámite para que los ciudadanos formulen alegaciones sobre el trazado e interés general.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informe de la Corporación Local",
+          "description": "Las entidades locales tienen un mes para examinar si el trazado es adecuado para el interés general.",
+          "start_date": "1 mes",
+          "end_date": "1 mes + 1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación del proyecto",
+          "description": "La Administración titular aprueba el proyecto, lo que conlleva la declaración de utilidad pública.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de accesos con impacto de tráfico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de acceso",
+          "description": "Debe presentarse antes de la solicitud de la licencia municipal de obras.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudio de impacto sobre el tráfico"
+        },
+        {
+          "step": 2,
+          "title": "Evaluación de impacto",
+          "description": "Si el impacto es inadmisible, se exige un proyecto de acondicionamiento de la red.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de obras de acondicionamiento"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,95 @@
+{
+  "identifier": "BOE-A-2026-5128",
+  "title": "Orden ISM/164/2026, de 2 de marzo, por la que se regula el Registro Electrónico de Colaboradores de Extranjería",
+  "visible_title": "Regulación del Registro Electrónico de Colaboradores de Extranjería",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio de Inclusión, Seguridad Social y Migraciones",
+  "official_number": "ISM/164/2026",
+  "publication_date": "2026-03-05",
+  "enactment_date": "2026-03-02",
+  "last_updated": "2026-03-05",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2026/03/02/ism164",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "57",
+  "summary": "Esta norma crea un nuevo registro para habilitar a sindicatos y entidades sin ánimo lucro como 'colaboradores de extranjería'. El objetivo es permitir que estas organizaciones realicen trámites de extranjería de forma electrónica en nombre de los interesados. Con esto se busca agilizar la gestión administrativa y ofrecer una vía de representación más accesible, especialmente para personas en situación de vulnerabilidad.",
+  "citizen_impact": "Facilita a los extranjeros y sus familias la gestión de sus trámites de residencia y trabajo a través de entidades de confianza (sindicatos o ONGs). Esto reduce la necesidad de desplazamientos personales y ofrece un apoyo especializado en la presentación de solicitudes.",
+  "professional_impact": "Las entidades sin ánimo lucro y sindicatos deben cumplir requisitos estrictos de experiencia, solvencia y seguros de responsabilidad civil para inscribirse. Los funcionarios de la Dirección General de Gestión Migratoria dispondrán de un nuevo registro para validar la legitimidad de quienes actúan en representación de terceros.",
+  "keywords": [
+    "extranjería",
+    "registro de colaboradores",
+    "representación electrónica",
+    "sindicatos",
+    "entidades sin ánimo lucro",
+    "trámites migratorios"
+  ],
+  "key_points": [
+    "Creación del Registro Electrónico de Colaboradores de Extranjería para facilitar la representación electrónica.",
+    "Solo pueden inscribirse sindicatos representativos y entidades sin ánimo lucro con al menos 3 años de antigüedad vinculadas al ámbito migratorio.",
+    "Las entidades deben acreditar al menos 2 años de experiencia continua en asistencia a migrantes.",
+    "La inscripción en el registro tiene una validez de 4 años, prorrogable por otro periodo igual.",
+    "Los colaboradores deben contar obligatoriamente con un seguro de responsabilidad civil.",
+    "Las entidades deben mantener un censo actualizado de las personas habilitadas para representar a terceros.",
+    "La representación ejercida por estos colaboradores debe ser gratuita.",
+    "Se exige a las personas habilitadas presentar un certificado negativo de delitos de naturaleza sexual."
+  ],
+  "legal_references": [
+    "Ley Orgánica 4/2000",
+    "Real Decreto 1155/2024",
+    "Ley 39/2015",
+    "Ley Orgánica 11/1985",
+    "Ley Orgánica 3/2018",
+    "Real Decreto 203/2021",
+    "Reglamento (UE) 2016/679"
+  ],
+  "derogations": [],
+  "main_obligations": "Las entidades inscritas deben mantener actualizado su censo de representantes (comunicando bajas en 5 días hábiles) y presentar una auditoría externa o memoria de actividad para solicitar la prórroga de su inscripción. Además, deben garantizar la gratuidad de sus servicios de representación.",
+  "effective_date": "2026-03-06",
+  "procedures": [
+    {
+      "name": "Inscripción en el Registro Electrónico de Colaboradores de Extranjería",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Envío electrónico del modelo normalizado junto con la documentación de representación, experiencia y censo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación de representación legal, acreditación de experiencia, declaración responsable y censo de personas habilitadas."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y resolución",
+          "description": "La Administración tiene un plazo de dos meses para resolver la solicitud.",
+          "start_date": "Desde la presentación",
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Subsanación (si procede)",
+          "description": "En caso de falta de requisitos, se otorga un plazo para corregir errores.",
+          "start_date": "Tras requerimiento",
+          "end_date": "10 días hábiles",
+          "required_documentation": "Documentación faltante o errónea"
+        }
+      ]
+    },
+    {
+      "name": "Prórroga de la inscripción",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de prórroga",
+          "description": "Presentación de la solicitud para extender la validez de la inscripción por otros 4 años.",
+          "start_date": "6 meses antes de la finalización",
+          "end_date": null,
+          "required_documentation": "Auditoría externa o memoria de actividad que evalúe el impacto de la gestión."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

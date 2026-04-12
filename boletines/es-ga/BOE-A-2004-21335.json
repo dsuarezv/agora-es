@@ -1,0 +1,82 @@
+{
+  "identifier": "BOE-A-2004-21335",
+  "title": "Ley 11/2004, de 19 de noviembre, de inspección de consumo de Galicia",
+  "visible_title": "Ley de inspección de consumo de Galicia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "11/2004",
+  "publication_date": "2004-12-20",
+  "enactment_date": "2004-11-19",
+  "last_updated": "2022-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2004/11/19/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula y profesionaliza la actividad de inspección de consumo en Galicia para garantizar que los productos y servicios cumplan con la normativa de protección al consumidor. Establece las funciones de los inspectores, que van desde la vigilancia y la investigación hasta la mediación en conflictos. Además, crea cuerpos específicos de inspectores y subinspectores para asegurar una actuación técnica y especializada en el mercado gallego.",
+  "citizen_impact": "Aumenta la seguridad de los consumidores al garantizar que existan inspectores capacitados para vigilar la calidad y seguridad de lo que compran. Facilita la resolución de conflictos mediante la función de mediación que realizan los inspectores.",
+  "professional_impact": "Las empresas y autónomos deben permitir el acceso de los inspectores a sus instalaciones, entregar documentación (incluyendo datos personales) y facilitar la toma de muestras. El incumplimiento de estas obligaciones o la entrega de datos falsos se considera una infracción.",
+  "keywords": [
+    "inspección de consumo",
+    "protección al consumidor",
+    "Galicia",
+    "seguridad de productos",
+    "derechos del consumidor",
+    "actuación inspectora"
+  ],
+  "key_points": [
+    "Creación de dos escalas profesionales: inspectores (gestión) y subinspectores (administrativos).",
+    "Facultad de los inspectores para realizar visitas sin previo aviso en locales de acceso público.",
+    "Obligación de las empresas de suministrar datos personales y documentación comercial bajo requerimiento.",
+    "Posibilidad de toma de muestras y realización de ensayos sobre productos en cualquier fase de comercialización.",
+    "Los inspectores pueden actuar como mediadores en conflictos entre empresas y consumidores.",
+    "La falta de documentación o la entrega de datos falsos se presume como infracción.",
+    "Los inspectores tienen autoridad para solicitar ayuda de las fuerzas y cuerpos de seguridad."
+  ],
+  "legal_references": [
+    "Ley 12/1984, de 28 de diciembre, por la que se aprueba el Estatuto gallego del consumidor y usuario",
+    "Ley 8/1994, de 30 de diciembre, que crea el Instituto Gallego de Consumo",
+    "Ley 30/1992, de 26 de noviembre, de régimen jurídico de las administraciones públicas",
+    "Ley 4/1999, de 13 de enero",
+    "Estatuto de autonomía de Galicia (artículo 30.I.4)",
+    "Ley 3/2002, de 29 de abril, de medidas de régimen fiscal y administrativo"
+  ],
+  "derogations": [
+    "Artículo 13 de la Ley 3/2002, de 29 de abril, de medidas de régimen fiscal y administrativo"
+  ],
+  "main_obligations": "Las empresas están obligadas a permitir visitas de inspección, entregar copias de documentación comercial y datos personales necesarios, y facilitar la toma de muestras. La negativa o la entrega de datos inexactos se sancionará como infracción.",
+  "effective_date": "2004-12-10",
+  "procedures": [
+    {
+      "name": "Actuación Inspectora de Consumo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Identificación y acceso",
+          "description": "El inspector se identifica y accede a las instalaciones (con excepción de casos donde la identificación previa pueda frustrar la inspección).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Credenciales del inspector"
+        },
+        {
+          "step": 2,
+          "title": "Verificación y comprobación",
+          "description": "Examen de productos, locales, libros, registros y toma de muestras o fotografías.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación comercial, contratos y datos de transacciones"
+        },
+        {
+          "step": 3,
+          "title": "Formalización de la actuación",
+          "description": "Redacción de actas de inspección o diligencias para dejar constancia de los hechos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

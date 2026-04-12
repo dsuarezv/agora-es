@@ -1,0 +1,393 @@
+{
+  "identifier": "BOE-A-2001-13944",
+  "title": "Ley 4/2001, de 2 de julio, de Cooperativas de La Rioja",
+  "visible_title": "Ley de Cooperativas de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "4/2001",
+  "publication_date": "2001-07-19",
+  "enactment_date": "2001-07-02",
+  "last_updated": "2022-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2001/07/02/4",
+  "official_journal": "Boletín Oficial de La Rioja",
+  "journal_issue": null,
+  "summary": "Esta ley regula el funcionamiento de todas las cooperativas en La Rioja, ofreciendo un marco jurídico flexible para su creación y gestión. Introduce modelos simplificados como la 'microempresa cooperativa' para grupos pequeños y permite la creación de secciones con patrimonio propio para actividades específicas. Además, establece reglas claras sobre la toma de decisiones, la participación de los trabajadores en el gobierno y los beneficios fiscales y de costes para este modelo asociativo. Su objetivo es fomentar el cooperativismo como motor económico regional mediante la reducción de trámites y costes notariales.",
+  "citizen_impact": "Permite a los ciudadanos riojanos asociarse con menos capital inicial (desde 300€ en proyectos sociales) y con menos socios (desde 2 en microempresas). Facilita el acceso a modelos de vivienda en cesión de uso y a comunidades energéticas, además de ofrecer mecanismos para resolver conflictos internos mediante arbitraje sin necesidad de ir siempre a juicio.",
+  "professional_impact": "Las empresas pueden transformarse en cooperativas asumiendo la condición de cooperadores. Los profesionales y gestores deben cumplir con obligaciones de inscripción en el Registro de Cooperativas, dotación de fondos obligatorios y auditorías específicas (como en cooperativas de vivienda con más de 50 viviendas). Los consejeros tienen responsabilidades de diligencia y límites en el número de cargos que pueden ocupar.",
+  "keywords": [
+    "cooperativas",
+    "La Rioja",
+    "microempresa cooperativa",
+    "derecho cooperativo",
+    "sociedad cooperativa",
+    "gestión cooperativa"
+  ],
+  "key_points": [
+    "Creación de la 'sociedad cooperativa microempresa' con solo 2 a 20 socios y constitución en 2 días hábiles.",
+    "Regla general de constitución con un mínimo de 3 socios.",
+    "Capital social mínimo de 1.803€, reducido a 300€ para cooperativas de iniciativa social.",
+    "Posibilidad de voto plural (hasta 10 votos) en cooperativas agrarias, de servicios o transporte según actividad.",
+    "Derecho de los socios a la baja justificada ante cambios en el objeto social o nuevas aportaciones obligatorias.",
+    "Facultad para crear secciones con autonomía de gestión y patrimonio propio.",
+    "Obligatoriedad de un vocal trabajador en el Consejo Rector si la cooperativa tiene más de 30 trabajadores indefinidos.",
+    "Reducción de aranceles notariales y registrales en actos obligatorios por ley.",
+    "Las cooperativas de energía pueden integrar a personas físicas y jurídicas en comunidades energéticas.",
+    "Las cooperativas de vivienda operan bajo el modelo de cesión de uso, no de propiedad.",
+    "Los socios de cooperativas de trabajo asociado con más de 2 años de antigüedad pueden solicitar excedencias.",
+    "Mecanismo de impugnación de acuerdos: 1 año para acuerdos nulos y 40 días para anulables."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 129.2)",
+    "Estatuto de Auto-nomía de La Rioja",
+    "Real Decreto 944/1995",
+    "Declaración de la Alianza Cooperativa Internacional (Manchester, 1995)",
+    "Ley de Sociedades Anónimas (Texto Refundido)",
+    "Código Civil",
+    "Ley de Arrendamientos Urbanos o Rústicos",
+    "Ley de Auditoría de Cuentas",
+    "Código de Comercio",
+    "Plan General Contable",
+    "Legislación civil y laboral",
+    "Normativa mercantil sobre derecho concursal",
+    "Ley de Ordenación de Transporte Terrestre",
+    "Ley 27/1999, de 16 de julio, de Cooperativas",
+    "Ley 20/1990, de 19 de diciembre, de Régimen Fiscal de Cooperativas",
+    "Ley 36/1998, de 5 de diciembre, de Arbitraje",
+    "Ley 26/1984, de 19 de julio, General para la Defensa de los Consumidores y Usuarios",
+    "Ley de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común"
+  ],
+  "derogatations": [],
+  "main_obligations": "Las cooperativas deben inscribirse en el Registro de Cooperativas de La Rioja para obtener personalidad jurídica y adaptar sus estatutos a esta ley en un plazo de 3 años. Los consejeros deben inscribir sus nombramientos en el Registro en un plazo de 30 días tras su aceptación.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Constitución de la sociedad cooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Asamblea Constituyente o trámite abreviado",
+          "description": "Celebración de asamblea para aprobar estatutos y designar órganos, o comparecencia ante notario.",
+          "start_date": "Desde la voluntad de los socios",
+          "end_date": null,
+          "required_documentation": "Acta de la Asamblea Constituyente"
+        },
+        {
+          "step": 2,
+          "title": "Otorgamiento de escritura pública",
+          "description": "Formalización de la constitución ante notario.",
+          "start_date": "Plazo de 2 meses desde la Asamblea Constituyente",
+          "end_date": "2 meses",
+          "required_documentation": "Escritura pública"
+        },
+        {
+          "step": 3,
+          "title": "Inscripción registral",
+          "description": "Presentación de la escritura en el Registro de Cooperativas de La Rioja para obtener personalidad jurídica.",
+          "start_date": "Desde el otorgamiento de la escritura",
+          "end_date": "2 meses",
+          "required_documentation": "Escritura pública de constitución"
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de calificación previa de Estatutos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Los promotores solicitan al Registro que valide el proyecto de estatutos antes de la escritura.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Dos ejemplares del proyecto de Estatutos y certificación de no existencia de denominación idéntica"
+        }
+      ]
+    },
+    {
+      "name": "Ingreso de nuevos socios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de ingreso",
+          "description": "El interesado presenta su solicitud por escrito al Consejo Rector.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud por escrito"
+        },
+        {
+          "step": 2,
+          "title": "Resolución del Consejo Rector",
+          "description": "El Consejo debe comunicar la decisión de admisión o denegación.",
+          "start_date": "Desde la recepción de la solicitud",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Impugnación de acuerdos de la Asamblea General",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Oposición al acuerdo",
+          "description": "Los socios que quieran impugnar acuerdos anulables deben hacer constar su oposición en acta o documento fehaciente.",
+          "start_date": "Dentro de las 48 horas siguientes a la celebración de la Asamblea",
+          "end_date": "48 horas",
+          "required_documentation": "Acta de la sesión o documento fehaciente"
+        },
+        {
+          "step": 2,
+          "title": "Ejercicio de la acción",
+          "description": "Presentación de la demanda de impugnación según los plazos de caducidad.",
+          "start_date": "Desde la adopción del acuerdo",
+          "end_date": "40 días para anulables; 1 año para nulos",
+          "required_documentation": "Demanda judicial"
+        }
+      ]
+    },
+    {
+      "name": "Proceso de Fusión",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Redacción del proyecto",
+          "description": "Los consejos rectores redactan el proyecto de fusión y convenio previo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de fusión y convenio"
+        },
+        {
+          "step": 2,
+          "title": "Puesta a disposición de socios",
+          "description": "Los documentos deben estar disponibles en el domicilio social para examen de los socios.",
+          "start_date": "Con la convocatoria de la Asamblea",
+          "end_date": null,
+          "required_documentation": "Proyecto de fusión, informes de consejos, balances de 3 ejercicios, proyecto de estatutos"
+        },
+        {
+          "step": 3,
+          "title": "Acuerdo de la Asamblea",
+          "description": "La Asamblea General debe aprobar el proyecto sin modificaciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Derecho de separación",
+          "description": "Los socios que votaron en contra o no asistieron pueden separarse de la cooperativa.",
+          "start_date": "Desde la recepción de la comunicación del acuerdo",
+          "end_date": "1 mes",
+          "required_documentation": "Escrito dirigido al Consejo Rector"
+        },
+        {
+          "step": 5,
+          "title": "Publicación y formalización",
+          "description": "Publicación en el Boletín Oficial de La Rioja y diario de circulación y elevación a escritura pública.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública de fusión"
+        }
+      ]
+    },
+    {
+      "name": "Reembolso de aportaciones al capital social",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación del cálculo",
+          "description": "El Consejo Rector comunica al socio el importe a retornar tras la baja.",
+          "start_date": "Tras la aprobación de las cuentas del ejercicio de la baja",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Efectivización del pago",
+          "description": "El pago debe realizarse en plazos que no excedan el límite legal.",
+          "start_date": null,
+          "end_date": "Máximo 5 años (1 año en caso de fallecimiento)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Transformación de sociedad en cooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de la Junta General",
+          "description": "La junta debe acordar la transformación y elevarlo a escritura pública.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Balance cerrado el día anterior, estatutos, relación de socios y designación de cargos."
+        },
+        {
+          "step": 2,
+          "title": "Inscripción registral",
+          "description": "Si estaba en el Registro Mercantil, se debe inscribir en el Registro de Cooperativas de La Rioja con nota de inexistencia de obstáculos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública y certificación de asientos del Registro Mercantil."
+        }
+      ]
+    },
+    {
+      "name": "Disolución y Liquidación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de Asamblea",
+          "description": "El Consejo Rector debe convocar la Asamblea para adoptar el acuerdo de disolución en un plazo de un mes tras la causa.",
+          "start_date": "1 mes tras la causa de disolución",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Designación de liquidadores",
+          "description": "La Asamblea elige a los liquidadores mediante votación secreta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Cierre de liquidación",
+          "description": "Se presenta un balance final y proyecto de distribución para aprobación de la Asamblea.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Balance final, informe de gestión y proyecto de distribución."
+        },
+        {
+          "step": 4,
+          "title": "Impugnación",
+          "description": "Plazo para que socios o acreedores impugnen los acuerdos de distribución.",
+          "start_date": "Desde la publicación en diario",
+          "end_date": "40 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Transmisión de derechos en cooperativas de vivienda",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de intención de transmisión",
+          "description": "El socio comunica al Consejo Rector su intención de vender sus derechos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Derecho de preferencia",
+          "description": "La cooperativa ofrece la vivienda a socios expectantes por orden de antigüedad.",
+          "start_date": "Desde la comunicación",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Autorización de venta a terceros",
+          "description": "Si nadie ejerce el derecho, el socio puede vender a terceros.",
+          "start_date": "Tras 3 meses sin ejercicio de preferencia",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Constitución de sociedad cooperativa microempresa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de documentos",
+          "description": "Entrega de documentos necesarios en el Registro de Cooperativas de La Rioja.",
+          "start_date": "N/A",
+          "end_date": "N/A",
+          "required_documentation": "Estatutos adaptados al modelo orientativo de la Consejería"
+        },
+        {
+          "step": 2,
+          "title": "Inscripción",
+          "description": "Procedimiento abreviado de inscripción en el registro.",
+          "start_date": "2 días hábiles tras la recepción de documentos",
+          "end_date": "2 días hábiles tras la recepción de documentos",
+          "required_documentation": "N/A"
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de Estatutos Sociales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de convocatoria",
+          "description": "Cualquier consejero o socio puede solicitar al Consejo Rector la convocatoria de la Asamblea.",
+          "start_date": "N/A",
+          "end_date": "N/A",
+          "required_documentation": "N/A"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de espera/acción judicial",
+          "description": "Si no se convoca en 2 meses, se puede acudir al Juez de Primera Instancia.",
+          "start_date": "2 meses tras la solicitud",
+          "end_date": "N/A",
+          "required_documentation": "N/A"
+        },
+        {
+          "step": 3,
+          "title": "Acuerdo en Asamblea General",
+          "description": "Aprobación de la adaptación con mayoría de más de la mitad de socios presentes y representados.",
+          "start_date": "N/A",
+          "end_date": "Máximo 3 años desde la entrada en vigor de la Ley",
+          "required_documentation": "Escritura pública de modificación de estatutos con texto íntegro y acreditación de capital desembolsado"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Descalificación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Informe de Inspección",
+          "description": "La Inspección de Trabajo y Seguridad Social debe informar preceptivamente.",
+          "start_date": "N/A",
+          "end_date": "1 mes",
+          "required_documentation": "N/A"
+        },
+        {
+          "step": 2,
+          "title": "Trámite de audiencia",
+          "description": "Audiencia a la cooperativa a través del Consejo Rector o al menos dos socios.",
+          "start_date": "N/A",
+          "end_date": "N/A",
+          "required_documentation": "N/A"
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Decisión del Director General del Registro de Cooperativas de La Rioja.",
+          "start_date": "N/A",
+          "end_date": "N/A",
+          "required_documentation": "N/A"
+        },
+        {
+          "step": 4,
+          "title": "Nombramiento de liquidadores",
+          "description": "Obligación de nombrar liquidadores tras la descaliﬁcación.",
+          "start_date": "Tras la resolución firme",
+          "end_date": "2 meses",
+          "required_documentation": "N/A"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 4
+}

@@ -1,0 +1,81 @@
+{
+  "identifier": "BOE-A-2018-8849",
+  "title": "Ley 2/2018, de 26 de marzo, de Gratuidad de los Libros de Texto de la Comunidad Autónoma de la Región de Murcia",
+  "visible_title": "Ley de Gratuidad de los Libros de Texto de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "2/2018",
+  "publication_date": "2018-06-28",
+  "enactment_date": "2018-03-26",
+  "last_updated": "2021-06-25",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2018/03/26/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un sistema de préstamo y reutilización de libros de texto para garantizar la gratuidad efectiva de la enseñanza básica en Murcia. En lugar de dar ayudas económicas directas, la Administración crea 'bancos de libros' en los centros para que el material circule entre alumnos de distintos cursos. El objetivo es reducir el gasto de las familias, fomentar la sostenibilidad y asegurar la igualdad de oportunidades en centros públicos y concertados.",
+  "citizen_impact": "Las familias de alumnos en Primaria, ESO, FP Básica y Educación Especial dejarán de comprar libros de texto, ya que los recibirán en préstamo gratuito. Esto supone un ahorro económico directo y elimina la necesidad de solicitar becas específicas para este fin, aunque impone la responsabilidad de cuidar y devolver los libros en buen estado.",
+  "professional_impact": "Los centros docentes asumen la gestión operativa de los bancos de libros, incluyendo la recogida, marcado y distribución del material. Los directores deberán designar un coordinador del programa y los equipos docentes tendrán autonomía para elegir los libros, pero deberán asegurar su reutilización durante al menos cuatro cursos.",
+  "keywords": [
+    "gratuidad libros de texto",
+    "préstamo de libros",
+    "reutilización material escolar",
+    "educación básica",
+    "Región de Murcia",
+    "sostenibilidad educativa"
+  ],
+  "key_points": [
+    "Sustitución de ayudas económicas por un sistema de préstamo y reutilización de libros.",
+    "Aplicación obligatoria en centros públicos y concertados para Primaria, ESO, FP Básica y Educación Especial.",
+    "Los libros son propiedad de la Administración, no de las familias.",
+    "Los centros deben elegir los libros y garantizar que se mantengan al menos 4 años para asegurar la eficiencia.",
+    "Implementación progresiva con objetivo de cobertura total para el curso 2025-2026.",
+    "Incompatibilidad con otras ayudas públicas o privadas destinadas a la compra de libros.",
+    "Obligación de devolver los libros al finalizar el curso para permitir su uso por otros alumnos."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 27.1)",
+    "Ley Orgánica 2/2006, de 3 de mayo, de Educación",
+    "Ley Orgánica 8/2013, de 9 de diciembre, para la Mejora de la Calidad Educativa",
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Ley Orgánica 3/2020, de 29 de diciembre"
+  ],
+  "derogations": [
+    "Cualquier disposición de igual o inferior rango que se oponga a esta ley"
+  ],
+  "main_obligations": "Los alumnos y sus representantes están obligados a devolver los libros en buen estado al finalizar el curso o al cambiar de centro; en caso de pérdida o deterioro negligente, deberán reponerlos. Los centros deben incluir la gestión de este sistema en su proyecto educativo y reglamento de régimen interno.",
+  "effective_date": "2018-06-29",
+  "procedures": [
+    {
+      "name": "Implementación del sistema de préstamo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Preparación normativa y comunicativa",
+          "description": "Adopción de medidas organizativas y campañas de información para familias y centros.",
+          "start_date": "2017-06-28",
+          "end_date": "2018-06-30",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Inicio de la actividad efectiva",
+          "description": "Comienzo del funcionamiento del sistema de préstamo en todos los centros afectados.",
+          "start_date": "2018-09-01",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Consolidación total",
+          "description": "Plazo límite para que el sistema esté totalmente implantado en todas las enseñanzas básicas.",
+          "start_date": "2018-09-01",
+          "end_date": "2025-09-01",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

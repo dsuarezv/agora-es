@@ -1,0 +1,109 @@
+{
+  "identifier": "BOE-A-2010-15622",
+  "title": "Ley 5/2010, de 24 de junio, sobre derechos y deberes en materia de salud de Castilla-La Manchra",
+  "visible_title": "Derechos y deberes en materia de salud de Castilla-La Manchra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Manchra",
+  "official_number": "5/2010",
+  "publication_date": "2010-10-13",
+  "enactment_date": "2010-06-24",
+  "last_updated": "2019-12-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2010/06/24/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo deben interactuar los pacientes y los profesionales sanitarios en Castilla-La Manchra, garantizando que el ciudadano tenga el control sobre su propio tratamiento. Establece derechos fundamentales como la libre elección de médico y la posibilidad de decidir sobre cuidados futuros mediante voluntades anticipadas. Además, asegura que el sistema público cubra los gastos de los centros sanitarios concertados mediante tarifas oficiales. En definitiva, busca equilibrar la autonomía del paciente con las responsabilidades de los profesionales y la administración.",
+  "citizen_impact": "El ciudadano gana poder de decisión sobre su salud: puede elegir su médico o centro, pedir una segunda opinión y decidir qué tratamientos aceptar o rechazar mediante el consentimiento informado. También permite dejar instrucciones por escrito (voluntades anticipadas) para cuando no pueda decidir por sí mismo. Además, garantiza que si elige un centro concertado, el pago se gestione directamente entre la administración y el centro.",
+  "professional_impact": "Los profesionales sanitarios deben cumplir con protocolos estrictos de información (explicar riesgos y beneficios) y garantizar la confidencialidad de los datos clínicos y genéticos. Los centros sanitarios tienen la obligación de conservar la historia clínica durante al menos 5 años y los profesionales deben respetar la autonomía del paciente en cada intervención.",
+  "keywords": [
+    "derechos del paciente",
+    "deberes sanitarios",
+    "consentimiento informado",
+    "voluntades anticipadas",
+    "libre elección de médico",
+    "Castilla-La Manchra",
+    "historia clínica"
+  ],
+  "key_points": [
+    "Derecho a la autonomía mediante el consentimiento informado (verbal para lo general, escrito para cirugía o procedimientos invasivos).",
+    "Posibilidad de dejar escritas las voluntades anticipadas para decisiones futuras si se pierde la capacidad.",
+    "Garantía de tiempos máximos de respuesta para la atención sanitaria programada.",
+    "Derecho a la libre elección de profesional, servicio y centro sanitario.",
+    "Derecho a la segunda opinión médica para contrastar diagnósticos o tratamientos.",
+    "Derecho de los menores y personas dependientes a estar acompañados durante la asistencia.",
+    "Obligación de pago del Servicio de Salud a los centros sanitarios concertados según tarifas anuales.",
+    "Las tarifas de los servicios concertados se fijan mediante Resolución del Director Gerente y se publican en el DOCM."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 43)",
+    "Ley 9/1982, de 10 de agosto, de Estatuto de Autonomía de Castilla-La Manchra",
+    "Ley 14/1986, de 25 de abril, General de Sanidad",
+    "Ley 41/2002, de 14 de noviembre, básica reguladora de la AutoNomía del Paciente",
+    "Ley 16/2003, de 28 de mayo, de Cohesión y Calidad del Sistema Nacional de Salud",
+    "Ley 8/2000, de 30 de noviembre, de Ordenación Sanitaria de Castilla-La Manchra",
+    "Ley 24/2002, de 5 de diciembre, de Garantías en la Atención Sanitaria Especializada",
+    "Ley 30/1992, de 26 de agosto, de Régimen Jurídico de las Administraciones Públicas",
+    "Ley 6/2005, de 7 de julio, sobre la Declaración de Voluntades Anticipadas en Castilla-La Manchra",
+    "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+    "Ley 29/2006, de 26 de julio, de garantías y uso racional de los medicamentos",
+    "Real Decreto 1575/1993",
+    "Real Decreto 15/1996",
+    "Diario Oficial de Castilla-La Manchra"
+  ],
+  "derogations": [],
+  "main_obligations": "Los profesionales deben informar de riesgos/beneficios antes de intervenciones y asegurar la confidencialidad de datos. Los centros deben conservar la historia clínica al menos 5 años. El Servicio de Salud debe pagar a centros concertados según las tarifas publicadas anualmente.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Procedimiento de Consentimiento Informado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Información previa",
+          "descrption": "El profesional comunica de forma comprensible los objetivos, riesgos, beneficios y alternativas del procedimiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Historia clínica"
+        },
+        {
+          "step": 2,
+          "title": "Manifestación del consentimiento",
+          "descrption": "El paciente acepta verbalmente o por escrito (si es invasivo o quirúrgico) la intervención.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento de consentimiento informado firmado"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Acceso a la Historia Clínica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de acceso",
+          "descrption": "El paciente o su representante legal solicita la documentación clínica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación acreditativa de identidad o representación legal"
+        }
+      ]
+    },
+    {
+      "name": "Fijación de tarifas para servicios sanitarios concertados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación de resolución de cuantías",
+          "description": "El Director Gerente del Servicio de Salud fija y publica las cuantías anuales en el Diario Oficial de Castilla-La Mancha.",
+          "start_date": "Anualmente",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

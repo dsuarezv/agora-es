@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-1995-9683",
+  "title": "Ley 1/1995, de 27 de enero, de protección del menor",
+  "visible_title": "Ley de protección del menor",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "1/1995",
+  "publication_date": "1995-04-20",
+  "enactment_date": "1995-01-27",
+  "last_updated": "2019-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1995/01/27/1",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para que la Administración de Asturias intervenga cuando un menor se encuentra en situación de desprotección o riesgo. Su objetivo es garantizar el bienestar integral del menor priorizando siempre su interés superior y buscando su integración en un entorno familiar, ya sea el de origen o uno sustituto. La norma permite a la Administración asumir la tutela o la guarda de forma directa para evitar que el menor quede desamparado.",
+  "citizen_impact": "Garantiza a los menores en situación de riesgo el derecho a ser escuchados, a ser informados de su situación y a que se respete su intimidad y honor. Para las familias, establece mecanismos de apoyo (ayudas económicas o técnicas) para evitar la separación de los hijos, pero también define claramente cuándo la Administración puede intervenir y retirar la custodia.",
+  "professional_impact": "Los servicios sociales y profesionales de la administración deben actuar bajo criterios colegiados y multidisciplinares, creando la 'Comisión del Menor' para proponer medidas. Las instituciones sin ánimo de lucro pueden habilitarse como colaboradoras para realizar funciones de guarda y mediación, quedando sujetas a la inspección y control de la Administración.",
+  "keywords": [
+    "protección de menores",
+    "desamparo",
+    "tutela",
+    "acogimiento familiar",
+    "interés superior del menor",
+    "Asturias",
+    "servicios sociales"
+  ],
+  "key_points": [
+    "Prioridad absoluta al interés superior del menor en cualquier decisión administrativa.",
+    "La prevención y el apoyo a la familia de origen son las medidas prioritarias antes de separar al menor.",
+    "Creación de la Comisión del Menor para proponer medidas de protección y revisar casos de urgencia.",
+    "El acogimiento familiar tiene prioridad sobre el alojamiento en centros residenciales.",
+    "Se establece una garantía económica mensual para menores acogidos en familias ajenas.",
+    "Derecho del menor (mayores de 12 años o con juicio suficiente) a ser oído en los procedimientos.",
+    "Posibilidad de que la Administración asuma la tutela directamente tras declarar la situación de desamparo.",
+    "Creación de la Comisión de Participación para fomentar la solidaridad social en la protección de la infancia."
+  ],
+  "legal_references": [
+    "Ley Orgánica 7/1981, de 30 de diciembre, de Estatuto de Autonomía para Asturias",
+    "Ley 5/1987, de 11 de abril, de Servicios Sociales",
+    "Ley 21/1987, de 11 de noviembre (Código Civil y Ley de Enjuiciamiento Civil)",
+    "Convenio sobre los Derechos del Niño (Naciones Unidas, 1989)",
+    "Código Civil"
+  ],
+  "derogatons": [],
+  "main_obligations": "Cualquier persona o institución con conocimiento de una situación de maltrato, abandono o riesgo de un menor tiene la obligación de comunicarlo a la Administración de Asturias. Las instituciones que trabajen con menores deben cumplir con los requisitos de habilitación y los estándares de inspección establecidos.",
+  "effective_date": "1995-04-20",
+  "procedures": [
+    {
+      "name": "Determinación de la situación de desamparo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Apertura de expediente informativo",
+          "descrption": "Instrucción de un expediente para valorar hechos como abandono, malos tratos o falta de escolarización.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Pruebas de la situación de riesgo o desprotección"
+        },
+        {
+          "step": 2,
+          "title": "Declaración de desamparo",
+          "descrption": "Acuerdo motivado de la Administración que conlleva la asunción de la tutela por ministerio de la ley.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Notificación y posible oposición",
+          "descrption": "Se comunica a los padres y al Ministerio Fiscal; los padres pueden oponerse ante la autoridad judicial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acogimiento familiar administrativo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Formalización por escrito",
+          "descrption": "Acuerdo con el consentimiento de la Administración, los padres (si no están privados de patria potestad) y el menor si tiene 12 años.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Consentimientos firmados"
+        },
+        {
+          "step": 2,
+          "title": "Seguimiento y vigilancia",
+          "descrption": "La Administración realiza el seguimiento y el Ministerio Fiscal ejerce la vigilancia superior.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

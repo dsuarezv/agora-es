@@ -1,0 +1,225 @@
+{
+  "identifier": "BOE-A-2010-1708",
+  "title": "Ley 8/2009, de 22 de diciembre, por la que se regula el aprovechamiento eólico en Galicia y se crean el canon eólico y el Fondo de Compensación Ambiental",
+  "visible_title": "Regulación del aprovechamiento eólico en Galicia, Canon Eólico y Fondo de Compensación Ambiental",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "8/2009",
+  "publication_date": "2010-02-04",
+  "enactment_date": "2009-12-22",
+  "last_updated": "2026-03-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2009/12/22/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley transforma el modelo de energía eólica en Galicia, pasando de la participación pública en capitales privados a un sistema de planificación territorial y compensación económica. Introduce el 'canon eólico', un tributo basado en la altura de los aerogeneradores, para financiar la protección del medio ambiente y el desarrollo de los municipios afectados. Además, establece zonas de aceleración para proyectos de bajo impacto y obliga al desmantelamiento de instalaciones al finalizar su vida útil. El objetivo es garantizar que la expansión de la energía eólica sea transparente, ordenada y beneficie directamente al entorno local.",
+  "citizen_impact": "Los ciudadanos de municipios afectados por parques eólicos recibirán beneficios directos a través del Fondo de Compensación Ambiental para proyectos de biodiversidad y desarrollo local. Asimismo, se garantiza una mayor protección de la convivencia mediante la imposición de distancias mínimas de seguridad (500 metros o 5 veces la altura) entre aerogeneradores y núcleos de población.",
+  "professional_impact": "Las empresas del sector eólico deben adaptarse a un modelo de selección competitiva y cumplir con nuevas cargas fiscales (canon eólico) y técnicas. Los promotores tienen la obligación de presentar proyectos de cierre y desmantelamiento, así como realizar la repotenciación obligatoria de parques con más de 25 años. Además, deben gestionar la solicitud de infraestructuras de evacuación de forma simultánea a la autorización del parque.",
+  "keywords": [
+    "energía eólica",
+    "canon eólico",
+    "Galicia",
+    "compensación ambiental",
+    "renovables",
+    "planificación territorial",
+    "desmantelamiento"
+  ],
+  "key_points": [
+    "Creación del Canon Eólico: tributo de 75€ por metro de altura de los aerogeneradores.",
+    "Fondo de Compensación Ambiental: ingresos destinados a reparar el entorno y apoyar a municipios afectados.",
+    "Restricción de ubicación: prohibición de instalar parques fuera de las Áreas de Desarrollo Eólico (ADE).",
+    "Distancias de seguridad: mínimo de 500 metros o 5 veces la altura respecto a núcleos urbanos o rurales.",
+    "Zonas de Aceleración Renovables: creación de áreas para agilizar proyectos de bajo impacto ambiental.",
+    "Obligación de desmantelamiento: los promotores deben presentar un proyecto de cierre al finalizar la instalación.",
+    "Repotenciación obligatoria: los parques con más de 25 años deben ser repotenciados para reducir su impacto.",
+    "Registro Eólico de Galicia: creación de una plataforma para la consulta pública de la ubicación de parques.",
+    "Gestión de infraestructuras: las líneas de evacuación no pueden superar los 15 km sin justificación técnica.",
+    "Régimen de transición: nuevas reglas para solicitudes en zonas de aceleración a partir del 1 de enero de 2025.",
+    "Exenciones: el canon no se aplica a parques experimentales ni de titularidad municipal.",
+    "Simultaneidad de trámites: la infraestructura de evacuación debe solicitarse junto con la autorización del parque."
+  ],
+  "legal_references": [
+    "Decreto 242/2007",
+    "Ley 54/1997",
+    "Directiva 2009/72/CE",
+    "Directiva 2006/123/CE",
+    "Real Decreto-ley 6/2009",
+    "Directiva 2009/28/CE",
+    "Ley 6/2003",
+    "Estatuto de Autonomía de Galicia",
+    "Constitución Española",
+    "Ley 21/2013",
+    "Ley 39/2015",
+    "Ley 1/2021",
+    "Ley 2/2024",
+    "Ley 2/2016, de 10 de febrero, del suelo de Galicia",
+    "Ley 24/2013, de 27 de diciembre, del sector eléctrico",
+    "Ley 13/1989, de 10 de diciembre, de montes vecinales en mano común",
+    "Ley 18/2021, de 27 de diciembre, de medidas fiscales y administrativas",
+    "Directiva (UE) 2018/2001 del Parlamento Europeo y del Consejo",
+    "Real Decreto-ley 23/2020, de 23 de junio"
+  ],
+  "derogations": [
+    "Decreto 242/2007, de 13 de diciembre",
+    "Orden de 6 de marzo de 2008",
+    "Orden de 13 de junio de 2002"
+  ],
+  "main_obligations": "Las empresas deben realizar la autoliquidación del canon eólico y depositar garantías económicas para el acceso y conexión. Los promotores están obligados a presentar proyectos de cierre y desmantelamiento, así como a cumplir con la repotenciación de parques que superen los 25 años de antigüedad.",
+  "effective_date": "2010-01-01",
+  "procedures": [
+    {
+      "name": "Autorización administrativa previa y de construcción de parques eólicos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Inicio del trámite mediante medios electrónicos aportando capacidad técnica, económica y permiso de acceso.",
+          "start_date": "Fecha de presentación",
+          "end_date": null,
+          "required_documentation": "Capacidad legal/técnica/económica, garantía económica, proyecto de ejecución, documentación ambiental, planimetría SHP, justificante de tasa."
+        },
+        {
+          "step": 2,
+          "title": "Verificación y admisión a trámite",
+          "description": "La Administración comprueba requisitos y, tras el pago de la tasa, notifica la admisión.",
+          "start_date": "Tras la presentación",
+          "end_date": "1 mes para pagar la tasa",
+          "required_documentation": "Justificante de pago de la tasa de autorización."
+        },
+        {
+          "step": 3,
+          "title": "Informes de compatibilidad y distancias",
+          "description": "Informes de urbanismo sobre distancias a núcleos y otros informes sectoriales.",
+          "start_date": "Tras admisión",
+          "end_date": "20 días (urbanismo) / 1 mes (otros)",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Información pública",
+          "description": "Publicación en el DOG y web para alegaciones de terceros.",
+          "start_date": "Tras informes favorables",
+          "end_date": "Plazo indicado en la convocatoria",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Resolución",
+          "description": "Dictamen final sobre la autorización previa y de construcción.",
+          "start_date": "Tras documentación completa",
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización de explotación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de explotación",
+          "description": "Presentación tras la ejecución de la obra con certificado de final de obra.",
+          "start_date": "Tras finalización de obra",
+          "end_date": null,
+          "required_documentation": "Certificado de final de obra suscrito por técnico competente."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de explotación",
+          "description": "Otorgamiento de la autorización tras comprobaciones técnicas.",
+          "start_date": "Tras solicitud",
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reconocimiento de modificación no sustancial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Envío de documentación",
+          "description": "La dirección general envía documentación a órganos ambientales y de urbanismo.",
+          "start_date": null,
+          "end_date": "20 días",
+          "required_documentation": "Documentación técnica de la modificación"
+        },
+        {
+          "step": 2,
+          "title": "Emisión de reconocimiento",
+          "description": "La dirección general emite el reconocimiento de la modificación.",
+          "start_date": "Desde que se dispone de toda la información",
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización de cierre de instalación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de cierre",
+          "description": "El titular presenta la solicitud por medios electrónicos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de cierre (memoria técnica, económica, ambiental y planos)"
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y resolución",
+          "description": "El órgano competente resuelve tras informe del operador del sistema.",
+          "start_date": "Desde la recepción del expediente completo",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de utilidad pública y expropiación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de declaración",
+          "description": "La empresa solicita la utilidad pública detallando bienes afectados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Relación individualizada de bienes y derechos"
+        },
+        {
+          "step": 2,
+          "title": "Información pública y alegaciones",
+          "description": "Se somete a información pública y se recaban informes de organismos afectados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de compatibilidad o prevalencia",
+          "description": "En caso de conflicto de intereses públicos, se decide la prevalencia.",
+          "start_date": "Desde el conocimiento de la incompatibilidad",
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aplicación del régimen transitório para parques eólicos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del régimen transitório",
+          "description": "Comienzo de la aplicación de las reglas de transición para nuevas solicitudes en zonas de aceleración.",
+          "start_date": "2025-01-01",
+          "end_date": "Hasta la aprobación del nuevo Plan sectorial eólico o máximo 3 años",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

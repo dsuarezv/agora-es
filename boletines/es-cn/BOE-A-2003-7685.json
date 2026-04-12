@@ -1,0 +1,110 @@
+{
+  "identifier": "BOE-A-2003-7685",
+  "title": "Ley 7/2003, de 20 de marzo, de Elecciones al Parlamento de Canarias",
+  "visible_title": "Ley de Elecciones al Parlamento de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "7/2003",
+  "publication_date": "2003-04-14",
+  "enactment_date": "2003-03-20",
+  "last_updated": "2022-05-23",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2003/03/20/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma regulaba el proceso de elección de los diputados al Parlamento de Canarias, estableciendo las reglas de juego para partidos y ciudadanos. Definía quién podía votar y ser elegido, cómo se organizaban las juntas electorales y cómo se gestionaba la campaña y el escrutinio. También fijaba las reglas de financiación, límites de gasto y subvenciones para las candidaturas participantes.",
+  "citizen_impact": "Define las condiciones para que los ciudadanos canarios puedan votar y presentarse como candidatos. Establece la transparencia en el proceso mediante la creación de órganos de control y la regulación de la propaganda electoral.",
+  "professional_impact": "Afecta directamente a los partidos políticos y agrupaciones de electores, quienes deben designar administradores, abrir cuentas específicas y cumplir estrictos límites de gasto. También impone obligaciones a funcionarios de la administración electoral y cargos públicos que deben evitar incompatibilidades.",
+  "keywords": [
+    "elecciones autonómicas",
+    "Parlamento de Canarias",
+    "sistema electoral",
+    "sufragio",
+    "financiación electoral",
+    "candidaturas",
+    "junta electoral"
+  ],
+  "key_points": [
+    "Establece la circunscripción electoral insular para garantizar la representación de cada isla.",
+    "Define las causas de inelegibilidad para cargos públicos y altos cargos de la administración canaria.",
+    "Regula la composición y funciones de la Junta Electoral de Canarias.",
+    "Determina que la campaña electoral dura quince días.",
+    "Establece límites de gasto electoral basados en la población de la circunscripción.",
+    "Regula el sistema de subvenciones para partidos según escaños y votos obtenidos.",
+    "Obliga a la creación de cuentas bancarias específicas para la gestión de fondos electorales."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Canarias",
+    "Ley Orgánica 5/1985, del Régimen Electoral General",
+    "Ley 1/2022, de 11 de mayo"
+  ],
+  "derogations": [
+    "Ley 3/1987, de 3 de abril, de medidas urgentes en materia electoral"
+  ],
+  "main_obligations": "Los partidos deben designar un administrador general y comunicar la apertura de cuentas electorales en 24 horas. Deben presentar la contabilidad detallada ante la Audiencia de Cuentas de Canarias entre los 100 y 125 días tras las elecciones.",
+  "effective_date": "2003-04-15",
+  "procedures": [
+    {
+      "name": "Presentación de candidaturas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de listas",
+          "description": "Los partidos presentan sus listas de candidatos ante la Junta Electoral Provincial.",
+          "start_date": "15 días después de la convocatoria",
+          "end_date": "20 días después de la convocatoria",
+          "required_documentation": "DNI de candidatos, escrito de aceptación y declaración jurada de no estar incurso en causas de inelegibilidad."
+        },
+        {
+          "step": 2,
+          "title": "Publicación de candidaturas",
+          "description": "Las candidaturas se publican en el Boletín Oficial de Canarias.",
+          "start_date": "22 días después de la convocatoria",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Subsanación de errores",
+          "description": "Plazo para corregir irregularidades detectadas en las listas.",
+          "start_date": "2 días después de la publicación",
+          "end_date": "48 horas después de la notificación",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Proclamación de candidatos",
+          "description": "Las Juntas electorales declaran oficialmente a los candidatos.",
+          "start_date": "27 días después de la convocatoria",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión de subvenciones electorales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de anticipo",
+          "description": "Los partidos solicitan un adelanto de las subvenciones que les corresponden.",
+          "start_date": "21 días después de la convocatoria",
+          "end_date": "23 días después de la convocatoria",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de contabilidad",
+          "description": "Entrega de la documentación de ingresos y gastos ante la Audiencia de Cuentas.",
+          "start_date": "100 días después de las elecciones",
+          "end_date": "125 días después de las elecciones",
+          "required_documentation": "Contabilidad detallada y documentada de ingresos y gastos."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

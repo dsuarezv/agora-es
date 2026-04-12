@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-2025-22091",
+  "title": "Orden APA/1226/2025, de 27 de octubre, por la que se desarrolla la estructura y funcionamiento del Registro general de fabricantes y otros agentes económicos de productos fertilizantes (REGFER) y se regula su actuación",
+  "visible_title": "Estructura y funcionamiento del Registro general de fabricantes y agentes económicos de productos fertilizantes (REGFER)",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio de Agricultura, Pesca y Alimentación",
+  "official_number": "APA/1226/2025",
+  "publication_date": "2025-11-03",
+  "enactment_date": "2025-10-27",
+  "last_updated": "2025-11-03",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2025/10/27/apa1226",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "264",
+  "summary": "Esta norma establece las reglas de juego para el nuevo registro obligatorio de todos los profesionales que intervienen en el mercado de fertilizantes en España. Su objetivo es crear un censo digital fiable que permita al Gobierno controlar mejor el uso de nutrientes en el suelo y obtener estadísticas precisas para la política agraria. La orden define quién debe inscribirse, cómo se asignan los números de registro y qué datos deben reportar anualmente.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Obliga a fabricantes, importadores, distribuidores, empresas de servicios de fertilización y asesores a inscribirse obligatoriamente en un registro electrónico. Los profesionales deberán realizar trámites de forma digital y presentar informes anuales de ventas antes del 31 de marzo. Además, los asesores deben acreditar su formación técnica para poder operar.",
+  "keywords": [
+    "fertilizantes",
+    "REGFER",
+    "registro de agentes económicos",
+    "nutrición de suelos",
+    "sector agrario",
+    "comercialización de fertilizantes"
+  ],
+  "key_points": [
+    "Creación de un registro único nacional con seis secciones específicas para cada tipo de agente económico.",
+    "Obligatoriedad de realizar todos los trámites y comunicaciones exclusivamente por medios electrónicos.",
+    "Asignación de un número de registro único basado en una estructura de letras y números que identifica sección, comunidad autónoma y provincia.",
+    "Obligación de presentar una declaración responsable para poder iniciar la actividad.",
+    "Los agentes económicos deben comunicar sus ventas anuales antes del 31 de marzo de cada año.",
+    "Los asesores en fertilización deben acreditar obligatoriamente su titulación o formación específica.",
+    "Los agentes ya establecidos tienen un plazo para regularizarse hasta el 1 de julio de 2026.",
+    "Se establece la obligación de comunicar la continuidad de actividades cada tres años."
+  ],
+  "legal_references": [
+    "Real Decreto 1051/2022",
+    "Ley 39/2015",
+    "Reglamento (UE) 2019/1009",
+    "Reglamento (UE) 2019/515",
+    "Ley 50/1997",
+    "Ley 30/2022"
+  ],
+  "derogatations": [],
+  "main_obligations": "Todos los agentes económicos del sector deben inscribirse en el REGFER a partir del 1 de enero de 2026 (o antes si ya operan, con límite al 1 de julio de 2026). Deben remitir anualmente, antes del 31 de marzo, la información de ventas y mercado del año anterior. El incumplimiento puede derivar en sanciones según la Ley 30/2022 o normativa autonómica.",
+  "effective_date": "2026-01-01",
+  "procedures": [
+    {
+      "name": "Inscripción en el REGFER mediante declaración responsable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración responsable",
+          "description": "El interesado presenta la declaración por medios electrónicos con al menos un mes de antelación al inicio de actividad.",
+          "start_date": "1 mes antes del inicio de actividad",
+          "end_date": null,
+          "required_documentation": "Formulario oficial y acreditación de formación (solo para asesores)."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y asignación de número",
+          "description": "La autoridad competente procede a la inscripción de oficio y asigna el número de registro único.",
+          "start_date": "Desde la entrada en registro",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Subsanación de deficiencias (si procede)",
+          "description": "Si hay errores no esenciales, se requiere al interesado para que los corrija.",
+          "start_date": "Tras el requerimiento",
+          "end_date": "15 días",
+          "required_documentation": "Documentación requerida por la administración"
+        }
+      ]
+    },
+    {
+      "name": "Modificación o actualización de datos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de modificación",
+          "description": "Comunicación de cambios en datos, actividades o instalaciones por vía electrónica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el cambio"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la modificación",
+          "description": "Plazo para resolver la solicitud de actualización.",
+          "start_date": "Desde la entrada en registro",
+          "end_date": "6 meses (prorrogables 6 meses más)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,209 @@
+{
+  "identifier": "BOE-A-2007-191",
+  "title": "Ley Foral 14/2006, de 11 de diciembre, de Cooperativas de Navarra",
+  "visible_title": "Ley de Cooperativas de Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "14/2006",
+  "publication_date": "2007-01-04",
+  "enactment_date": "2006-12-11",
+  "last_updated": "2022-04-01",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es/nc/lf/2006/12/11/14",
+  "official_journal": "Boletín Oficial de Navarra",
+  "summary": "Esta ley moderniza y adapta el modelo cooperativo en Navarra para responder a las necesidades económicas actuales, con especial atención al sector agrario. Introduce nuevas figuras jurídicas como las cooperativas de iniciativa social o los grupos cooperativos, facilitando la creación de cooperativas de trabajo asociado al reducir el número mínimo de socios. Además, permite una gestión más profesional al autorizar la entrada de expertos externos en los consejos de administración. En definitiva, busca dinamizar el tejido asociativo mediante reglas más flexibles y adaptadas a distintos sectores.",
+  "citizen_impact": "Facilita que grupos pequeños de personas (desde 3 socios) puedan emprender proyectos cooperativos de trabajo asociado. Para quienes buscan vivienda, regula las cooperativas de vivienda limitando la propiedad de múltiples inmuebles en una misma localidad para asegurar la rotación y el acceso.",
+  "professional_impact": "Las empresas cooperativas deben adaptarse a nuevos límites de inversión y gestión de votos. Las cooperativas agrarias deben implementar sistemas de voto ponderado por actividad y no por capital. Aquellas con un volumen de negocio superior a 3 millones de euros tienen la obligación de contratar un letrado asesor.",
+  "keywords": [
+    "cooperativas",
+    "Navarra",
+    "cooperativa de trabajo asociado",
+    "cooperativa agraria",
+    "cooperativa de vivienda",
+    "iniciativa social",
+    "derecho cooperativo"
+  ],
+  "key_points": [
+    "Reducción del mínimo de socios para cooperativas de trabajo asociado de 5 a solo 3 personas.",
+    "Posibilidad de incorporar consejeros externos (no socios) en el Consejo Rector, siempre que no superen un tercio del total.",
+    "Ampliación del límite de inversión que puede decidir la Asamblea General del 25% al 50% del valor del inmovilizado.",
+    "Creación de nuevas figuras: Grupo Cooperativo, Cooperativa Mixta, Cooperativa Integral y Cooperativas de Iniciativa Social.",
+    "En cooperativas agrarias, el voto se pondera por actividad (de 1 a 10 votos) y nunca por el capital aportado.",
+    "En cooperativas de trabajo asociado, los trabajadores ajenos no pueden superar el 30% de la jornada total de los socios.",
+    "Las cooperativas de iniciativa social tienen carácter no lucrativo y restricciones en la retribución de sus trabajadores.",
+    "En cooperativas mixtas, los socios con votos basados en capital no pueden superar el 49% del total de votos.",
+    "Las cooperativas de vivienda prohíben que un socio sea titular de más de una vivienda de promoción cooperativa en la misma localidad.",
+    "En caso de baja de un socio en una cooperativa de trabajo asociado, el reembolso de su capital tiene un plazo máximo de 5 años con interés legal."
+  ],
+  "legal_references": [
+    "Ley Foral 12/1996, de 2 de julio, de Cooperativas de Navarra",
+    "Ley Foral 5/2006, de 11 de abril",
+    "Ley 27/1999, de 16 de julio, de Cooperativas",
+    "Ley Orgánica 13/1982, de 13 de agosto",
+    "Ley 13/1989, de 26 de mayo, de Cooperativas de Crédito",
+    "Ley Foral 20/2003, de 25 de marzo, de Familias Numerosas",
+    "Real Decreto Legislativo 2/1995, por el que se aprueba el texto refundido de la Ley de Procedimiento Laboral",
+    "Ley Foral 9/1994, de 21 de junio, regula el régimen fiscal de las cooperativas"
+  ],
+  "derogations": [
+    "Ley Foral 12/1996, de 2 de julio, de Cooperativas de Navarra"
+  ],
+  "main_obligations": "Las cooperativas deben tener su domicilio social en Navarra y cumplir con un capital social mínimo de 1.500€ (600€ en educativas) y aportaciones mínimas de 60€ por socio. Las de gran volumen (>3M€) deben contar con letrado asesor.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Constitución de una sociedad cooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Asamblea Constituyente",
+          "description": "Los promotores se reúnen para aprobar estatutos, capital, designar gestores y primer Consejo Rector.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de estatutos"
+        },
+        {
+          "step": 2,
+          "title": "Calificación previa",
+          "description": "Solicitud de calificación favorable de los estatutos ante el Registro de Cooperativas de Navarra.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de estatutos"
+        },
+        {
+          "step": 3,
+          "title": "Escritura Pública",
+          "description": "Otorgamiento de la escritura de constitución ante notario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estatutos calificados, relación de promotores y comprobante de desembolso del 25% del capital"
+        },
+        {
+          "step": 4,
+          "title": "Inscripción Registral",
+          "description": "Solicitud de inscripción en el Registro de Cooperativas de Navarra.",
+          "start_date": "Desde la escritura",
+          "end_date": "2 meses",
+          "required_documentation": "Copia autorizada y simple de la escritura de constitución"
+        }
+      ]
+    },
+    {
+      "name": "Admisión de nuevos socios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de admisión",
+          "description": "El interesado presenta solicitud por escrito al Consejo Rector.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud por escrito"
+        },
+        {
+          "step": 2,
+          "title": "Resolución del Consejo",
+          "description": "El Consejo Rector debe resolver la solicitud.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Baja voluntaria de un socio",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Preaviso",
+          "description": "El socio debe comunicar su intención por escrito al Consejo Rector.",
+          "start_date": null,
+          "end_date": "3 meses de antelación",
+          "required_documentation": "Comunicación por escrito"
+        }
+      ]
+    },
+    {
+      "name": "Transformación de sociedad no cooperativa en cooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo social",
+          "description": "La Asamblea General debe acordar la transformación con la mayoría exigida.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Escritura e inscripción",
+          "description": "Presentación de escritura pública e informe de expertos en patrimonio no dinerario ante el Registro Mercantil y el Registro de Cooperativas de Navarra.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Balance cerrado el día anterior al acuerdo"
+        }
+      ]
+    },
+    {
+      "name": "Disolución de la cooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de Asamblea",
+          "description": "Convocatoria para adoptar el acuerdo de disolución.",
+          "start_date": "Entre 10 y 30 días naturales antes de la Asamblea",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Publicación del acuerdo",
+          "description": "Publicar el acuerdo en el B.O.N. y en dos diarios de mayor difusión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Notificación registral",
+          "description": "Notificar el acuerdo al Registro de Cooperativas de Navarra.",
+          "start_date": "Plazo de 30 días desde la adopción",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Liquidación de la cooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Actuaciones de los liquidadores",
+          "description": "Saldar deudas, reservar fondos de educación y reintegrar capital a socios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Balance final",
+          "description": "Someter el balance final a decisión de la Asamblea General.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Cancelación registral",
+          "description": "Solicitar la cancelación de asientos en el Registro de Cooperativas.",
+          "start_date": "Plazo de 15 días tras la aprobación del balance",
+          "end_date": null,
+          "required_documentation": "Escritura pública con aprobación del balance final"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

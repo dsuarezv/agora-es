@@ -1,0 +1,125 @@
+{
+  "identifier": "BOE-A-1993-31103",
+  "title": "Ley 10/1993, de 26 de octubre, sobre Vertidos Líquidos Industriales al Sistema Integral de Saneamiento",
+  "visible_title": "Ley sobre Vertidos Líquidos Industriales al Sistema Integral de Saneamiento",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "10/1993",
+  "publication_date": "1993-12-30",
+  "enactment_date": "1993-10-26",
+  "last_updated": "2014-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1993/10/26/10",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo las industrias de la Comunidad de Madrid pueden verter sus aguas residuales al alcantarillado y sistemas de depuración. Su objetivo es evitar que los contaminantes dañen las infraestructuras públicas, afecten a la salud de las personas o degraden el medio ambiente. Establece qué sustancias están prohibidas, qué límites de contaminación se deben respetar y qué trámites de autorización son obligatorios.",
+  "citizen_impact": "Protege la salud pública y el medio ambiente al asegurar que el agua tratada devuelta a la naturaleza sea segura. Indirectamente, ayuda a mantener la eficiencia de los sistemas de saneamiento que todos los ciudadanos utilizan.",
+  "professional_impact": "Afecta directamente a empresas industriales, que deben tramitar identificaciones y autorizaciones de vertido ante Ayuntamientos o la Comunidad. Les impone la obligación de realizar tratamientos previos (pretatamiento) si sus aguas son contaminantes y de mantener sistemas de autocontrol y registro de sus vertidos.",
+  "keywords": [
+    "vertidos industriales",
+    "aguas residuales",
+    "saneamiento",
+    "medio ambiente",
+    "Comunidad de Madrid",
+    "contaminación hídrica",
+    "autorización de vertido"
+  ],
+  "key_points": [
+    "Prohibición absoluta de verter sustancias explosivas, corrosivas, tóxicas o que generen gases nocivos.",
+    "Obligación de realizar un tratamiento previo (pretatamiento) si el vertido no cumple los estándares permitidos.",
+    "Necesidad de obtener una Autorización de Vertido previa para las industrias según su caudal y actividad.",
+    "Prohibición de diluir vertidos para intentar cumplir con los límites de concentración permitidos.",
+    "Obligación de las empresas de llevar un libro de registro de sus vertidos y realizar análisis de autocontrol.",
+    "Los Ayuntamientos y la Comunidad de Madrid tienen potestad para inspeccionar las instalaciones sin previo aviso en horario laboral.",
+    "Responsabilidad económica total del usuario por los daños o costes de limpieza derivados de vertidos accidentales."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunidad de Madrid",
+    "Ley 3/1988, de 13 de octubre, para la gestión del Medio Ambiente de la Comunidad de Madrid",
+    "Ley 10/1991, de 4 de abril, de Protección del Medio Ambiente de la Comunidad de Madrid",
+    "Directiva 91/271/CEE",
+    "Ley 17/1984, de 20 de diciembre, reguladora del Abastecimiento y Saneamiento de Agua en la Comunidad de Madrid",
+    "Ley 29/1985, de 2 de agosto, de Aguas",
+    "Ley 7/1985, de 2 de abril, Reguladora de las Bases de Régimen Local",
+    "Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación",
+    "Real Decreto 886/1988, de 15 de julio",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común"
+  ],
+  "derogations": [
+    "Cualquier disposición de la Comunidad de Madrid que se oponga a esta Ley"
+  ],
+  "main_obligations": "Las industrias deben presentar identificación y autorización de vertido, cumplir con los límites de contaminación del Anexo 2 y realizar tratamientos previos si es necesario. En caso de accidente, deben comunicar el hecho urgentemente y reparar los daños causados.",
+  "effective_date": "1993-12-30",
+  "procedures": [
+    {
+      "name": "Solicitud de Autorización de Vertido",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de Identificación Industrial",
+          "descrption": "Presentar la identificación ante el Ayuntamiento o la Consejería de Medio Ambiente según la categoría de la industria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Identificación industrial"
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de Vertido",
+          "descrption": "Presentar la solicitud detallada de vertido junto con la identificación industrial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos de composición del vertido, análisis de laboratorio homologado si se requiere"
+        },
+        {
+          "step": 3,
+          "title": "Informe Preceptivo de Medio Ambiente",
+          "descrption": "La Consejería de Medio Ambiente emite un informe vinculante para el Ayuntamiento.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución de la Autorización",
+          "descrption": "El Ayuntamiento resuelve concediendo o denegando la autorización.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Suspensión de Vertidos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Orden de Suspensión Inmediata",
+          "descrption": "El Alcalde o la Comunidad ordenan la suspensión por falta de autorización o vertidos peligrosos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de Adecuación",
+          "descrption": "El usuario debe presentar la documentación o adecuar el vertido para levantar la suspensión.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": "Identificación industrial, solicitud de vertido o proyecto de adecuación"
+        },
+        {
+          "step": 3,
+          "title": "Resolución Definitiva",
+          "descrption": "Si no se cumple el plazo, se procede a la suspensión definitiva tras audiencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,98 @@
+{
+  "identifier": "BOE-A-2019-1543",
+  "title": "Decreto-ley 5/2018, de 21 de diciembre, sobre proyectos industriales estratégicos de las Illes Balears",
+  "visible_title": "Proyectos industriales estratégicos de las Illes Balears",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "5/2018",
+  "publication_date": "2019-02-06",
+  "enactment_date": "2018-12-21",
+  "last_updated": "2025-12-06",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/dl/2018/12/21/5",
+  "official_journal": "BOIB (implícito por contexto de Baleares, aunque el metadato dice BOE)",
+  "journal_issue": null,
+  "summary": "Esta norma crea un mecanismo para identificar y acelerar inversiones industriales de gran importancia para las Islas Baleares. Su objetivo es frenar la pérdida de peso del sector industrial en la región mediante la simplificación de trámites y la concesión de beneficios administrativos. Busca fomentar la industria limpia, tecnológica y sostenible para mejorar la competitividad económica de las islas.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo por la posible creación de empleo industrial de calidad y la mejora del tejido productivo regional.",
+  "professional_impact": "Las empresas industriales pueden beneficiarse de una tramitación administrativa ultra rápida, la exención de licencias municipales y la reducción de plazos administrativos a la mitad. Los funcionarios de los ayuntamientos ven sus competencias de urbanismo condicionadas por la declaración de interés general de estos proyectos.",
+  "keywords": [
+    "industria",
+    "proyectos estratégicos",
+    "inversión",
+    "Baleares",
+    "simplificación administrativa",
+    "desarrollo económico",
+    "sostenibilidad"
+  ],
+  "key_points": [
+    "Creación de la figura de 'proyecto industrial estratégico' para inversiones clave.",
+    "Exención de licencias municipales y comunicaciones previas para proyectos declarados.",
+    "Reducción de todos los plazos administrativos ordinarios a la mitad.",
+    "Los proyectos deben ubicarse en suelo urbano o urbanizable (salvo renovables en suelo rústico).",
+    "Declaración de interés general y, en ciertos casos, de utilidad pública.",
+    "Posibilidad de recibir subvenciones directas y programas de formación específicos.",
+    "Plazo máximo de resolución del procedimiento de declaración de 6 meses.",
+    "Mecanismo de revocación si el proyecto se detiene por más de un año o incumple condiciones."
+  ],
+  "legal_references": [
+    "Ley 4/2017, de 12 de julio, de industria de las Illes Balears",
+    "Estatuto de Autonomía de las Illes Balears (artículo 49)",
+    "Ley 7/2013, de 26 de noviembre, de régimen jurídico de instalación, acceso y ejercicio de actividades en las Illes Balears",
+    "Ley 39/2015, de 1 de diciembre, del Procedimiento Administrativo Común de las Administraciones Públicas"
+  ],
+  "derogations": [
+    "Todas las disposiciones legales que se opongan a lo establecido en este Decreto-ley"
+  ],
+  "main_obligations": "El promotor debe acreditar solvencia técnica y económica, presentar un proyecto técnico detallado y cumplir con las condiciones de sostenibilidad y empleo para evitar la revocación de la declaración.",
+  "effective_date": "2018-12-22",
+  "procedures": [
+    {
+      "name": "Declaración de proyecto industrial estratégico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud del promotor",
+          "description": "Presentación de memoria de impacto, calendario, viabilidad financiera y proyecto técnico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria de impacto, proyecto técnico, planos, acreditación de solvencia económica y técnica."
+        },
+        {
+          "step": 2,
+          "title": "Informes municipales y del Consejo Insular",
+          "description": "El ayuntamiento y el consejo insular deben emitir informes sobre la incidencia del proyecto.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Exposición pública",
+          "description": "Anuncio en el boletín oficial para consulta ciudadana.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Informe del Consejo de la Industria",
+          "description": "Emisión de informe técnico previo a la decisión final.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Resolución del Consejo de Gobierno",
+          "description": "Aprobación o denegación de la declaración de proyecto estratégico.",
+          "start_date": null,
+          "end_date": "6 meses (plazo máximo total desde el inicio)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

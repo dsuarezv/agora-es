@@ -1,0 +1,95 @@
+{
+  "identifier": "BOE-A-2007-9330",
+  "title": "Ley 3/2007, de 4 de abril, de Pesca en Aguas Continentales",
+  "visible_title": "Ley de Pesca en Aguas Continentales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "3/2007",
+  "publication_date": "2007-05-08",
+  "enactment_date": "2007-04-04",
+  "last_updated": "2013-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2007/04/04/3",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para la gestión sostenible de la pesca en ríos, lagos y otras aguas continentales de Cantabria. Su objetivo es proteger los recursos piscícolas y sus hábitats mediante una planificación organizada que incluye la clasificación de aguas, la regulación de especies y el control de artes de pesca. Además, define un régimen de sanciones para castigar prácticas perjudiciales para el medio ambiente acuático.",
+  "citizen_impact": "Los aficionados a la pesca deberán obtener una licencia de pesca de Cantabria y cumplir con las tallas, cupos y épocas de veda establecidos anualmente. También se prohíbe realizar actividades como lavar vehículos o bañarse en zonas de paso de peces para proteger el ecosistema.",
+  "professional_impact": "Los titulares de aprovechamientos hidráulicos (presas, azudes) asumen obligaciones estrictas de mantenimiento de caudales ecológicos y dispositivos de paso para peces. Las empresas de piscicultura requieren autorización previa y controles sanitarios rigurosos, mientras que los inspectores de pesca actúan como agentes de la autoridad con capacidad de vigilancia.",
+  "keywords": [
+    "pesca continental",
+    "Cantabria",
+    "recursos piscícolas",
+    "licencia de pesca",
+    "conservación ambiental",
+    "régimen sancionador",
+    "caudales ecológicos"
+  ],
+  "key_points": [
+    "Clasificación de las aguas en vedadas, acotadas y libres.",
+    "Obligatoriedad de poseer licencia de pesca nominal e intransferible.",
+    "Creación del Plan Regional de Ordenación Piscícola como eje de gestión.",
+    "Prohibición estricta de usar redes, explosivos o sustancias venenosas para pescar.",
+    "Obligación de los titulares de presas de garantizar el paso de peces y caudales mínimos.",
+    "Establecimiento de multas que pueden alcanzar los 60.000 euros en infracciones muy graves.",
+    "Regulación de la pesca intensiva en zonas específicas mediante permisos especiales.",
+    "Protección de las zonas de desove y alevinaje contra cualquier alteración."
+  ],
+  "legal_references": [
+    "Estatuto de Auto-nomía para Cantabria",
+    "Constitución Española (artículo 45)",
+    "Ley de 20 de febrero de 1942",
+    "Ley de Cantabria 3/1992, de 18 de marzo, de protección de los animales"
+  ],
+  "derogations": [
+    "Artículos 54 a 57 de la Ley de Cantabria 3/1992, de 18 de marzo, de protección de los animales"
+  ],
+  "main_obligations": "Es obligatorio poseer licencia de pesca y cumplir con las tallas y cupos de captura. Se prohíbe la pesca en aguas vedadas y el uso de artes prohibidas. Los titulares de infraestructuras hidráulicas deben mantener caudales ecológicos y dispositivos de franqueo de peces.",
+  "effective_date": "2007-05-09",
+  "procedures": [
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Apertura del expediente tras la detección de una posible infracción por parte de la autoridad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Medidas cautelares",
+          "description": "La administración puede suspender la actividad o comisar especies para asegurar la eficacia de la resolución.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución y notificación",
+          "description": "Plazo máximo de un año para resolver y notificar la sanción impuesta.",
+          "start_date": null,
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Expedición de Licencia de Pesca",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud",
+          "description": "Presentación de la solicitud ante la Consejería competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento oficial de identidad"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

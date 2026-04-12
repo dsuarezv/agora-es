@@ -1,0 +1,83 @@
+{
+  "identifier": "BOE-A-1991-9406",
+  "title": "Ley 7/1990, de 28 de diciembre, de protección de los animales domésticos",
+  "visible_title": "Ley de protección de los animales domésticos",
+  "rank": "ley",
+  "country": "es",
+  "department": "Junta de Comunidades de Castilla-La Mancha",
+  "official_number": "7/1990",
+  "publication_date": "1991-04-18",
+  "enactment_date": "1990-12-28",
+  "last_updated": "2020-09-07",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/1990/12/28/7",
+  "official_journal": "Diario Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta norma regulaba la protección, respeto y defensa de los animales domésticos en Castilla-La Mancha. Establecía las obligaciones de los dueños, las condiciones para criaderos y tiendas de animales, y el régimen de recogida de animales abandonados. Su objetivo era evitar el maltrato y garantizar condiciones higiénico-sanitarias adecuadas para los animales de compañía.",
+  "citizen_impact": "En su momento, obligaba a los dueños de perros a censarlos en su ayuntamiento y a mantenerlos en condiciones de salud y alimentación adecuadas. También prohibía el abandono y el maltrato, estableciendo sanciones para quienes no cumplieran con el cuidado de sus mascotas.",
+  "professional_impact": "Imponía requisitos estrictos a criaderos, tiendas de animales y centros de acogida, exigiendo autorizaciones de la Consejería de Agricultura y asistencia veterinaria. Los veterinarios debían mantener archivos clínicos de los animales para control de las autoridades.",
+  "keywords": [
+    "protección animal",
+    "animales domésticos",
+    "bienestar animal",
+    "censos de animales",
+    "maltrato animal",
+    "Castilla-La Mancha"
+  ],
+  "key_points": [
+    "Obligación de censar a los perros en el ayuntamiento en un plazo de 3 meses desde su nacimiento o 1 mes desde su adquisición.",
+    "Prohibición de realizar mutilaciones sin control veterinario o por razones estéticas.",
+    "Prohibición de utilizar animales en espectáculos o peleas que causen crueldad o muerte.",
+    "Establecimiento de un plazo de 20 días para que un propietario recupere un animal identificado tras su recogida.",
+    "Exigencia de condiciones higiénico-sanitarias y asistencia veterinaria para cualquier establecimiento de cría o venta.",
+    "Clasificación de infracciones en leves, graves y muy graves con multas que llegaban hasta un millón de pesetas."
+  ],
+  "legal_references": [
+    "Ley de Procedimiento Administrativo",
+    "Ley y Reglamento de Epizootias",
+    "Real Decreto 223/1988"
+  ],
+  "derogations": [
+    "Ley 7/1990, de 28 de diciembre, de protección de los animales domésticos (derogada por la Ley 7/2020)"
+  ],
+  "main_obligations": "Los dueños deben garantizar alimentación, higiene y tratamientos sanitarios obligatorios. Se prohíbe el abandono, el maltrato y la venta a menores de 14 años sin autorización. Las sanciones por infracciones muy graves podían alcanzar el millón de pesetas.",
+  "effective_date": "1991-06-18",
+  "procedures": [
+    {
+      "name": "Procedimiento sancionador administrativo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación e instrucción",
+          "description": "Apertura del expediente sancionador siguiendo la Ley de Procedimiento Administrativo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución sancionadora",
+          "description": "Dictamen de la autoridad competente sobre la infracción y la cuantía de la multa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Recuperación de animal recogido",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación al propietario",
+          "description": "En caso de animal identificado, se comunica al dueño para su recuperación.",
+          "start_date": null,
+          "end_date": "20 días",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

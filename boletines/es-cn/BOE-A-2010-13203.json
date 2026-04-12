@@ -1,0 +1,113 @@
+{
+  "identifier": "BOE-A-2010-13203",
+  "title": "Ley 8/2010, de 15 de julio, de los Juegos y Apuestas",
+  "visible_title": "Ley de los Juegos y Apuestas",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "8/2010",
+  "publication_date": "2010-08-17",
+  "enactment_date": "2010-07-15",
+  "last_updated": "2025-07-01",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2010/07/15/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula todas las actividades de casinos, juegos y apuestas dentro del territorio de Canarias. Su objetivo es adaptar la normativa al avance tecnológico (juego online), reforzar la protección de menores y personas vulnerables, y modernizar el régimen de licencias y sanciones. Además, establece un marco para la gestión de apuestas externas y la instalación de máquinas recreativas en otros negocios.",
+  "citizen_impact": "Prohíbe estrictamente el acceso a juegos de azar y máquinas recreativas a menores de edad y personas con discapacidad. También refuerza la protección contra la ludopatía mediante la creación de un registro de prohibidos y la destinación de fondos públicos a la prevención de adicciones.",
+  "professional_impact": "Las empresas del sector deben obtener autorizaciones o realizar declaraciones responsables para operar, enfrentando un régimen de inspección más estricto. Los operadores de casinos, bingos y locales de apuestas están sujetos a fianzas obligatorias y a un sistema de sanciones que puede incluir multas de hasta 450.000 euros o el cierre definitivo del negocio.",
+  "keywords": [
+    "juegos de azar",
+    "apuestas",
+    "canarias",
+    "casinos",
+    "bingos",
+    "máquinas recreativas",
+    "ludopatía",
+    "regulación de juego"
+  ],
+  "key_points": [
+    "Regulación del juego por medios electrónicos y telemáticos.",
+    "Prohibición de acceso a menores y personas con discapacidad.",
+    "Obligatoriedad de concurso público para la concesión de licencias de casinos, bingos e hipódromos.",
+    "Creación de un Registro de Prohibidos de Acceso al Juego.",
+    "Establecimiento de zonas de influencia (radio de 200 metros) para evitar la acumulación de locales de juego.",
+    "Destino del 1% de la recaudación de impuestos y multas a programas de prevención de la ludopatía.",
+    "Nuevas categorías de máquinas recreativas (Tipo A, B y C).",
+    "El silencio administrativo en solicitudes de autorización tiene efectos desestimatorios (negativos)."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Canarias",
+    "Ley 6/1985, de 30 de diciembre",
+    "Ley 6/1999, de 26 de marzo",
+    "Ley 25/2009, de 22 de diciembre",
+    "Ley 17/2009, de 23 de noviembre",
+    "Directiva 2006/123/CE",
+    "Ley 30/1992, de 26 de diciembre",
+    "Ley 34/1988, de 11 de noviembre",
+    "Ley 7/2010, de 31 de marzo",
+    "Ley 22/2003, de 9 de julio",
+    "Ley 5/2006, de 10 de abril",
+    "Ley Orgánica 5/1985, de 19 de agosto",
+    "Ley 1/1997, de 7 de febrero"
+  ],
+  "derogations": [
+    "Ley 6/1999, de 26 de marzo, de los Juegos y Apuestas"
+  ],
+  "main_obligations": "Los operadores deben constituir una fianza para garantizar el pago de premios y tributos. Está prohibido el acceso de menores y la explotación de juegos no incluidos en el Catálogo de Canarias. Las infracciones muy graves pueden acarrear multas de hasta 450.000 euros.",
+  "effective_date": "2010-08-18",
+  "procedures": [
+    {
+      "name": "Autorización de instalación, apertura y funcionamiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Presentación de la solicitud ante la Administración competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación según la modalidad de juego"
+        },
+        {
+          "step": 2,
+          "title": "Resolución administrativa",
+          "description": "Plazo máximo para que la Administración resuelva la solicitud.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Silencio administrativo",
+          "description": "Si no hay resolución en 3 meses, la solicitud se considera desestimada.",
+          "start_date": "3 meses tras la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración responsable (Salones y locales de apuestas)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración",
+          "description": "Comunicación previa a la Administración para habilitar el local.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación acreditativa de requisitos"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de apertura",
+          "description": "Si no se abre en 7 meses tras la presentación, la declaración pierde eficacia.",
+          "start_date": null,
+          "end_date": "7 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

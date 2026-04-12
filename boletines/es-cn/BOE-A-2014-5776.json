@@ -1,0 +1,91 @@
+{
+  "identifier": "BOE-A-2014-5776",
+  "title": "Ley 1/2014, de 15 de mayo, de reconocimiento de la universidad privada \"Universidad Fernando Pessoa-Canarias (UFP-C)\", con sede en Santa María de Guía, Gran Canaria",
+  "visible_title": "Reconocimiento de la Universidad Fernando Pessoa-Canarias (UFP-C)",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "1/2014",
+  "publication_date": "2014-06-02",
+  "enactment_date": "2014-05-15",
+  "last_updated": "2014-05-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2014/05/15/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley otorga el reconocimiento oficial a la Universidad Fernando Pessoa-Canarias (UFP-C) como institución universitaria privada dentro del sistema de Canarias. El objetivo es permitir que la entidad mercantil 'Máster del Conocimiento, S.L.' pueda impartir titulaciones oficiales de grado, máster y doctorado. La norma establece la estructura inicial de centros y la oferta académica para cubrir necesidades de formación en salud, ciencias humanas, tecnología y posgrado.",
+  "citizen_impact": "Los ciudadanos de Canarias dispondrán de una nueva opción de formación universitaria privada con títulos oficiales en áreas como salud, ingeniería y ciencias sociales. Esto amplía la oferta educativa y la libertad de elección de centros docentes en la región.",
+  "professional_impact": "La entidad promotora ('Máster del Conocimiento, S.L.') adquiere la capacidad de operar como universidad, pero queda sujeta a la supervisión de la Consejería de Educación. Además, cualquier cambio en su estructura o propiedad debe ser comunicado y autorizado previamente por la administración.",
+  "keywords": [
+    "universidad privada",
+    "reconocimiento universitario",
+    "Canarias",
+    "enseñanza superior",
+    "UFPC",
+    "títulos oficiales"
+  ],
+  "key_points": [
+    "Se reconoce oficialmente a la UFP-C como universidad privada en Canarias.",
+    "La universidad tiene su sede en Santa María de Guía, Gran Canaria.",
+    "La entidad promotora debe solicitar la autorización para iniciar actividades en un plazo máximo de 2 años.",
+    "Cualquier modificación en la estructura o propiedad de la universidad requiere comunicación previa a la Consejería de Educación.",
+    "El reconocimiento caducará si no se solicita la autorización de inicio de actividades en el plazo de 2 años o si se deniega por incumplimiento de requisitos."
+  ],
+  "legal_references": [
+    "Ley Orgánica 6/2001, de 21 de diciembre, de Universidades",
+    "Ley 11/2003, de 4 de abril, sobre Consejos Sociales y Coordinación del Sistema Universitario de Canarias",
+    "Real Decreto 1393/2007, de 29 de octubre",
+    "Decreto 1/2010, de 12 de enero",
+    "Constitución Española, artículo 27",
+    "Estatuto de Autonomía de Canarias, artículo 12.8 y 32.1"
+  ],
+  "derogations": [],
+  "main_obligations": "La universidad debe solicitar la autorización para el inicio de sus actividades en un plazo no superior a dos años. Asimismo, debe comunicar obligatoriamente a la Consejería de Educación cualquier cambio en su personalidad jurídica, estructura o transmisión de titularidad.",
+  "effective_date": "2014-06-03",
+  "procudeures": [
+    {
+      "name": "Autorización para el inicio de actividades académicas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "La universidad debe presentar la solicitud para comenzar a operar.",
+          "start_date": "A partir de la entrada en vigor de la ley",
+          "end_date": "Máximo 2 años después de la entrada en vigor",
+          "required_documentation": "Memoria de compromisos adquiridos y acreditación de cumplimiento de requisitos docentes y administrativos."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la Consejería",
+          "description": "La Consejería de Educación dicta una orden autorizando el inicio de actividades y fijando la fecha efectiva.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Comunicación de cambios estructurales o de propiedad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación previa",
+          "description": "Notificación a la Consejería de cualquier cambio en la personalidad jurídica, estructura o cesión de la universidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de conformidad",
+          "description": "La administración dispone de un plazo para denegar la conformidad.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

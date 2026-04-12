@@ -1,0 +1,86 @@
+{
+  "identifier": "DOGV-r-2021-90064",
+  "title": "Decreto-ley 3/2021, de 12 de febrero, del Consell, de medidas extraordinarias en materia de artesanía para paliar los efectos de la crisis derivada de la pandemia de la Covid-19",
+  "visible_title": "Medidas extraordinarias de apoyo al sector de la artesanía vinculada a las fiestas populares",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "3/2021",
+  "publication_date": "2021-02-17",
+  "enactment_date": "2021-02-12",
+  "last_updated": "2021-02-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=DOGV-r-2021-90064",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta norma establece ayudas económicas directas para salvar a los artesanos y pequeñas empresas de la Comunidad Valenciana cuyo negocio depende de las fiestas populares, las cuales fueron suspendidas por la pandemia. El objetivo es inyectar liquidez inmediata para evitar la desaparición de oficios tradicionales. Se trata de una medida de urgencia que permite la concesión directa de fondos sin los trámites habituales de subvenciones.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes, salvo por la posible preservación del patrimonio cultural y los oficios tradicionales de la región.",
+  "professional_impact": "Los artesanos y PYMES del sector de la fiesta acceden a ayudas de hasta 7.000 euros. Para obtenerlas, deben cumplir requisitos de facturación (caída del 30% en ingresos) y poseer la calificación artesana (DCA). Se introduce un procedimiento telemático estricto con un plazo de solicitud muy corto.",
+  "keywords": [
+    "artesanía",
+    "ayudas económicas",
+    "Covid-19",
+    "fiestas populares",
+    "Comunitat Valenciana",
+    "PYMES artesanas",
+    "subvenciones directas"
+  ],
+  "key_points": [
+    "Ayuda económica de hasta 7.000 euros por empresa.",
+    "Concesión directa de la ayuda por razones de urgencia y necesidad.",
+    "Requisito de haber sufrido una reducción de ingresos del 30% en 2020 respecto a 2019.",
+    "Es obligatorio poseer el Documento de Calificación Artesana (DCA) o equivalente.",
+    "Se incluyen como beneficiarias las comunidades de bienes y agrupaciones sin personalidad jurídica.",
+    "Plazo de solicitud muy breve: del 1 al 15 de marzo de 2021.",
+    "Obligación de mantener la actividad artesana durante al menos 12 meses tras recibir la ayuda."
+  ],
+  "legal_references": [
+    "Real Decreto 926/2020",
+    "Real Decreto 956/2020",
+    "Decreto 14/2020",
+    "Decreto 20/2020",
+    "Decreto 1/2020",
+    "Decreto 15/2020",
+    "Ley 1/1984 de ordenación de la artesanía",
+    "Ley 38/2003 General de Subvenciones",
+    "Ley 39/2015 de procedimiento administrativo común",
+    "Ley 1/2015 de hacienda pública de la Generalitat",
+    "Decreto ley 2/2021"
+  ],
+  "derogations": [],
+  "main_obligations": "Los beneficiarios deben mantener la actividad artesana durante al menos 12 meses tras la concesión. Deben presentar la solicitud exclusivamente por vía telemática y aportar una declaración responsable de la disminución de ingresos y de ayudas de minimis.",
+  "effective_date": "2021-02-18",
+  "procedures": [
+    {
+      "name": "Concesión de ayudas urgentes en materia de artesanía",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitudes",
+          "descrption": "Presentación telemática de la solicitud a través de la sede electrónica de la Generalitat.",
+          "start_date": "2021-03-01",
+          "end_date": "2021-03-15",
+          "required_documentation": "Escrituras/estatutos (personas jurídicas), declaración responsable de ingresos, modelo de domiciliación bancaria, declaración de ayudas de minimis, documento DCA o justificante de solicitud, certificado de IAE."
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y resolución",
+          "descrption": "Examen de las solicitudes y emisión de resolución por la Consejería competente.",
+          "start_date": "2021-03-16",
+          "end_date": "3 meses después del cierre del plazo",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Pago de la ayuda",
+          "descrption": "Liquidación y pago único tras la resolución de concesión y justificación de requisitos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

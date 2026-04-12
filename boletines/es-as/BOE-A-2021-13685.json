@@ -1,0 +1,153 @@
+{
+  "identifier": "BOE-A-2021-13685",
+  "title": "Ley 3/2021, de 30 de junio, de Garantía de Derechos y Prestaciones Vitales",
+  "visible_title": "Ley de Garantía de Derechos y Prestaciones Vitales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "3/2021",
+  "publication_date": "2021-08-10",
+  "enactment_date": "2021-06-30",
+  "last_updated": "2024-05-10",
+  "status": "in_force",
+  "scope": "Autoonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2021/06/30/3",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta ley crea un sistema de protección social en Asturias para combatir la pobreza extrema mediante la unificación de ayudas económicas. Su objetivo es garantizar que nadie carezca de lo básico para vivir, transformando el antiguo salario social en un derecho exigible. El sistema cubre desde necesidades de alimentación y vestido hasta suministros básicos como agua y luz. Además, busca asegurar el acceso a la vivienda y proteger especialmente a colectivos vulnerables como menores, personas con discapacidad y mayores con pensiones no contributivas.",
+  "citizen_impact": "Los ciudadanos en situación de vulnerabilidad acceden a un Salario Social Básico y complementos para alquiler, discapacidad o familias con menores. Se simplifica el acceso mediante declaraciones responsables si no hay ingresos. Sin embargo, el fraude se penaliza con multas de hasta 3.005€ y la pérdida de ayudas por 3 años. Si recibes ayudas de vivienda y vendes la propiedad, tienes solo 30 días para devolver el dinero.",
+  "professional_impact": "Los Ayuntamientos deben detectar la exclusión y gestionar ayudas de emergencia, mientras que el Principado gestiona los derechos vitales y el alquiler. Las comercializadoras de energía tienen la obligación de remitir la lista de beneficiarios del bono social térmico antes del 31 de enero de cada año. Los concejos deben informar de la ejecución de fondos a la Consejería antes del 31 de marzo.",
+  "keywords": [
+    "salario social básico",
+    "pobreza",
+    "exclusión social",
+    "ayudas de emergencia",
+    "vivienda",
+    "Asturias",
+    "prestaciones vitales"
+  ],
+  "key_points": [
+    "Creación del Salario Social Básico como derecho subjetivo para cubrir necesidades vitales.",
+    "Nuevos complementos económicos para familias con menores, personas con discapacidad y gastos de alquiler.",
+    "Protección de la tercera edad equiparando pensiones no contributivas con el salario social básico.",
+    "Prioridad del acogimiento familiar sobre el residencial mediante garantías económicas para menores.",
+    "Posibilidad de adjudicar viviendas vacantes de titularidad autonómica en casos de emergencia social.",
+    "Uso de la declaración responsable para agilizar el acceso al salario social si no hay rentas.",
+    "Ayudas de emergencia para cubrir agua, alcantarillado, residuos, vestido y educación.",
+    "Régimen sancionador por fraude de hasta 3.005€ e inhabilitación de 3 años.",
+    "Obligación de devolver ayudas de vivienda en 30 días tras la transmisión de la propiedad.",
+    "Gestión compartida: Ayuntamientos detectan exclusión y el Principado gestiona derechos vitales."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 9.2 y 148.1.20)",
+    "Estatuto de Autonomía del Principado de Asturias",
+    "Carta de los Derechos Fundamentales de la Unión Europea (art. 34)",
+    "Ley 1/2003, de 24 de febrero, de servicios sociales (Asturias)",
+    "Ley 4/2005, de 28 de octubre, de salario social básico (Asturias)",
+    "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno",
+    "Ley 3/2019, de 15 de marzo, sobre acción concertada con entidades de iniciativa social sin ánimo de lucro",
+    "Real Decreto Ley 15/2018, de 5 de octubre, de medidas urgentes para la transición energética",
+    "Indicador Público de Renta de Efectos Múltiples (IPREM)"
+  ],
+  "derogatons": [
+    "Ley del Principado de Asturias 4/2005, de 28 de octubre, de salario social básico"
+  ],
+  "main_obligations": "Los beneficiarios deben comunicar cambios de domicilio o ingresos en un plazo de un mes y, si reciben el salario social, acordar un programa de incorporación social/laboral en 3 meses. Quienes reciban ayudas de vivienda deben devolverlas en 30 días si venden la propiedad.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Concesión del Salario Social Básico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Inicio del procedimiento a instancia de parte.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite residencia (2 años), unidad de convivencia y carencia de recursos."
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "description": "Plazo máximo para resolver y notificar la decisión.",
+          "start_date": "Desde la presentación",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Suscripción del programa de incorporación",
+          "description": "Negociación y firma del programa personalizado de incorporación social y laboral.",
+          "start_date": "Desde la notificación de la resolución",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adjudicación de vivienda vacante por emergencia social",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de listado de viviendas",
+          "description": "La Consejería facilita a los concejos el listado de viviendas vacantes disponibles.",
+          "start_date": "Mensual",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Propuesta de adjudicación municipal",
+          "description": "El concejo formula la propuesta de adjudicación.",
+          "start_date": "Desde la recepción del listado",
+          "end_date": "15 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución autonómica",
+          "description": "La Consejería resuelve sobre la propuesta del concejo.",
+          "start_date": "Desde la recepción del expediente completo",
+          "end_date": "10 días hábiles",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Devolución de ayudas autonómicas para la adquisición de vivienda",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de la firma",
+          "description": "El transmitente debe comunicar la fecha de firma del documento público a la Consejería.",
+          "start_date": "Desde la firma del documento",
+          "end_date": "3 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Pago de la devolución",
+          "description": "Ingreso del importe de la ayuda más intereses legales.",
+          "start_date": "Desde la elevación a escritura pública",
+          "end_date": "30 días naturales",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acceso al Salario Social Básico mediante declaración responsable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de declaración",
+          "description": "Presentación de declaración responsable en casos de ausencia de rentas o patrimonio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración responsable"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

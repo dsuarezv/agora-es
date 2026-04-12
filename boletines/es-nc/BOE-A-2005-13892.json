@@ -1,0 +1,192 @@
+{
+  "identifier": "BOE-A-2005-13892",
+  "title": "Ley Foral 9/2005, de 6 de julio, del Taxi",
+  "visible_title": "Ley del Taxi",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "9/2005",
+  "publication_date": "2005-08-12",
+  "enactment_date": "2005-07-06",
+  "last_updated": "2025-07-04",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2005/07/06/9",
+  "official_journal": "Boletín Oficial de Navarra",
+  "journal_issue": null,
+  "summary": "Esta ley unifica y moderniza la regulación del servicio de taxi en toda Navarra, centralizando su gestión en Áreas Territoriales para evitar la fragmentación municipal. Establece un sistema de licencias vinculado a la población y garantiza que el servicio sea accesible para personas con movilidad reducida mediante vehículos adaptados. Además, regula estrictamente la renovación de vehículos, la contratación de conductores y las sanciones por infracciones graves. El objetivo es profesionalizar el sector y asegurar un servicio de transporte público de calidad y equitativo en la región.",
+  "citizen_impact": "El ciudadano gana derechos claros: puede elegir su itinerario, tiene garantizado el uso del taxímetro (salvo pacto previo) y cuenta con la obligación de que existan taxis adaptados para sillas de ruedas según la población. También mejora la transparencia mediante la obligatoriedad de tarifas visibles y libros de reclamaciones.",
+  "professional_impact": "Los taxistas deben cumplir con estrictos estándares de renovación de vehículos (máximo 10-12 años) y equipamiento. La gestión de licencias y tasas pasa de los ayuntamientos a las Áreas Territoriales, y se establece un régimen de inspecciones y sanciones severas por conductas como la conducción bajo efectos de sustancias o la manipulación del taxímetro. Los titulares deben comunicar cualquier transmisión de licencia en un plazo de un mes.",
+  "keywords": [
+    "taxi",
+    "transporte público",
+    "licencias de taxi",
+    "Navarra",
+    "movilidad reducida",
+    "tarifas taxi",
+    "transporte interurbano"
+  ],
+  "key_points": [
+    "Unificación de la gestión del taxi en Áreas Territoriales de Prestación Conjunta.",
+    "Las licencias de taxi urbano se otorgan por concurso y están vinculadas a un vehículo específico.",
+    "Obligatoriedad de vehículos adaptados para personas en silla de ruedas según la población.",
+    "Renovación obligatoria de vehículos: máximo 10 años (o 12 años para modelos Eco/Eurotaxi).",
+    "Derecho del usuario a elegir itinerario y uso de taxímetro.",
+    "Creación del Consejo Navarro del Taxi para asesorar a la Administración.",
+    "Sanciones graves por conducción bajo efectos de alcohol/drogas o manipulación del taxímetro.",
+    "Posibilidad de contratar un máximo de un conductor profesional por licencia.",
+    "Descuento del 25% en multas si se realiza el pago voluntario en los primeros 15 días.",
+    "En la Comarca de Pamplona, se fija un índice de 1,33 licencias por cada 1.000 habitantes."
+  ],
+  "legal_references": [
+    "Acuerdo de 6 de junio de 1979 de la Diputación Foral de Navarra",
+    "Ley Foral 7/1998, de 1 de junio",
+    "Ley Foral 8/1998, de 1 de junio",
+    "Ley Orgánica de Reintegración y Mejoramiento del Régimen Foral de Navarra (artículo 49.1.f)",
+    "Constitución Española (artículo 25)",
+    "Ley Orgánica 15/1999, de Protección de Datos de Carácter Personal",
+    "Artículo 51 de la Ley Foral 9/2005",
+    "Artículo 20 de la Ley Foral 9/2005",
+    "Artículo 25.4 de la Ley Foral 9/2005",
+    "Artículo 42 de la Ley Foral 9/2005"
+  ],
+  "derogations": [
+    "Normas reguladoras de los servicios discrecionales de transporte de clase VT (Acuerdo de 1979)",
+    "Artículos 20 y 21 de la Ley Foral 7/1998, de 1 de junio"
+  ],
+  "main_obligations": "Los conductores deben disponer de taxímetro, tarifas visibles, seguro vigente, libro de reclamaciones y recibos. Los titulares de licencias deben comunicar cualquier transmisión onerosa en el plazo de un mes y facilitar las inspecciones de vehículos y documentos.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Otorgamiento de licencias de taxi urbano",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria y concurso",
+          "description": "Procedimiento de concurso para personas físicas que cumplan los requisitos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de disponibilidad de vehículo, seguro y permiso de conductor si se exige."
+        },
+        {
+          "step": 2,
+          "title": "Otorgamiento definitivo",
+          "description": "Tras presentar la documentación, el municipio otorga la licencia de forma definitiva.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Transmisión de licencias de taxi",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requisito de antigüedad",
+          "description": "Deben haber transcurrido al menos 2 años desde que el transmitente es titular.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de autorización",
+          "description": "El municipio debe dictar resolución expresa en un plazo de 2 meses.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": "Acreditación de que el adquiriente cumple los requisitos del art. 6 y que el transmitente está al corriente de pagos y sanciones."
+        },
+        {
+          "step": 3,
+          "title": "Comunicación de cuantía",
+          "description": "Si la transmisión es onerosa, se debe comunicar el precio a la Administración.",
+          "start_date": null,
+          "end_date": "1 mes desde la transmisión",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Modificación del Índice General de licencias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración de estudio",
+          "description": "Realización de un estudio de movilidad y socio-económico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informe del Consejo",
+          "description": "Se solicita informe al Consejo Navarro del Taxi.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Pronunciamiento del Departamento",
+          "description": "El Departamento de transporte valora la propuesta y emite Orden Foral.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del expediente",
+          "description": "Inicio formal del procedimiento tras la detección de una infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Pago voluntario con reducción",
+          "description": "Pago de la sanción con un 25% de descuento para terminar el procedimiento rápidamente.",
+          "start_date": "Dentro de los 15 días siguientes a la notificación",
+          "end_date": "15 días tras la notificación",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución del procedimiento",
+          "description": "Notificación de la decisión final de la Administración.",
+          "start_date": "Desde la incoación",
+          "end_date": "Máximo 1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Incorporación de municipios al Área Territorial (Comarca de Pamplona)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adopción de acuerdos",
+          "description": "Los municipios deben adoptar acuerdos para incorporarse a la Mancomunidad.",
+          "start_date": "Desde la entrada en vigor de la Ley",
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Ratificación del Área",
+          "description": "La Mancomunidad ratifica el establecimiento del Área y aprueba la Ordenanza reguladora.",
+          "start_date": "Tras la incorporación de los municipios",
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

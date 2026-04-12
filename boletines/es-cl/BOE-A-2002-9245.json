@@ -1,0 +1,78 @@
+{
+  "identifier": "BOE-A-2002-9245",
+  "title": "Ley 1/2002, de 9 de abril, regula dor de el Consejo Consultivo de Castilla y León",
+  "visible_title": "Ley reguladora del Consejo Consultivo de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "1/2002",
+  "publication_date": "2002-05-14",
+  "enactment_date": "2002-04-09",
+  "last_updated": "2014-09-19",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2002/04/09/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea y organiza el Consejo Consultivo de Castilla y León como el máximo órgano de asesoramiento jurídico de la Comunidad Autónoma. Su función es garantizar que las leyes, reglamentos y actos de la Administración respeten la Constitución y el Estatuto de Autonomía. El texto define quiénes lo integran, cómo se eligen sus miembros y en qué casos la Administración está obligada a pedir su opinión técnica.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta principalmente a funcionarios y cargos políticos de la Junta de Castilla y León, quienes deben consultar obligatoriamente al Consejo en materias críticas como reformas estatutarias, leyes delegadas o grandes contratos. También impacta a abogados y técnicos que trabajen en la Administración, al establecerse el Consejo como un filtro de legalidad para sus actuaciones.",
+  "keywords": [
+    "Consejo Consultivo",
+    "Castilla y León",
+    "asesoramiento jurídico",
+    "administración pública",
+    "dictámenes",
+    "derecho administrativo"
+  ],
+  "key_points": [
+    "El Consejo actúa con autonomía orgánica y funcional para asegurar la objetividad de sus informes.",
+    "Los dictámenes no son vinculantes por defecto, salvo que una ley específica lo exija.",
+    "La consulta es obligatoria para proyectos de leyes, reglamentos generales y recursos de inconstitucionalidad.",
+    "Se establece la obligación de consultar en casos de responsabilidad patrimonial superior a 6.000 € (autonómica) o 3.000 € (local).",
+    "El Consejo se compone de tres consejeros electivos y consejeros natos (ex presidentes de la Junta).",
+    "Los consejeros electivos deben ser licenciados en Derecho con más de 10 años de experiencia jurídica.",
+    "El plazo ordinario para emitir un dictamen es de 20 días, pudiendo reducirse a 10 si hay urgencia.",
+    "Existe un régimen estricto de incompatibilidades para los miembros, prohibiendo cargos políticos o directivos en partidos y sindicatos."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Castilla y León",
+    "Ley Orgánica 4/1999, de 8 de enero",
+    "Ley 7/1987, de 8 de mayo"
+  ],
+  "derogations": [],
+  "main_obligations": "La Administración está obligada a solicitar el dictamen del Consejo en los supuestos preceptivos detallados en la ley (como reformas del Estatuto o leyes delegadas). Los miembros del Consejo deben guardar secreto sobre las deliberaciones y cumplir con el régimen de incompatibilidades para evitar conflictos de interés.",
+  "effective_date": "2002-05-04",
+  "procedures": [
+    {
+      "name": "Emisión de dictámenes del Consejo Consultivo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recepción del expediente",
+          "description": "El Consejo recibe la documentación necesaria para la consulta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Toda la documentación correspondiente a la cuestión planteada."
+        },
+        {
+          "step": 2,
+          "title": "Plazo de elaboración",
+          "description": "Periodo para que el Consejo estudie el asunto y redacte el dictamen.",
+          "start_date": "Desde la recepción del expediente",
+          "end_date": "20 días (o 10 días si se solicita reducción por urgencia)",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Emisión del dictamen",
+          "description": "Adopción del acuerdo por mayoría absoluta y firma del Presidente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

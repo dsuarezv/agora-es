@@ -1,0 +1,118 @@
+{
+  "identifier": "BOE-A-1997-4272",
+  "title": "Ley 5/1996, de 17 de diciembre, de Carreteras de Cantabria",
+  "visible_title": "Ley de Carreteras de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "5/1996",
+  "publication_date": "1997-02-28",
+  "enactment_date": "1996-12-17",
+  "last_updated": "2024-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/1996/12/17/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley organiza y protege la red de carreteras que se desarrollan íntegramente en Cantabria, clasificándolas en autonómicas y municipales. Establece las reglas para su planificación, construcción, gestión y mantenimiento, adaptando la normativa estatal a las necesidades específicas de la región. Además, regula las zonas de protección y el régimen de sanciones por uso indebido o daños a la infraestructura.",
+  "citizen_impact": "Afecta a los ciudadanos en cuanto a las restricciones de construcción y uso de terrenos colindantes a las carreteras (zonas de protección). También regula la prohibición de publicidad visible desde la vía pública y establece las normas de seguridad y acceso a las mismas.",
+  "professional_impact": "Empresas constructoras y de mantenimiento deben seguir los estándares técnicos y de planificación autonómicos. Los propietarios de fincas colindantes deben solicitar autorizaciones específicas para cualquier obra o instalación en las zonas de influencia, y las empresas de publicidad tienen prohibido instalar anuncios sin permiso en las zonas de dominio público.",
+  "keywords": [
+    "carreteras",
+    "Cantabria",
+    "infraestructuras",
+    "dominio público",
+    "zona de protección",
+    "planificación vial",
+    "sanciones"
+  ],
+  "key_points": [
+    "Clasificación de la red en carreteras autonómicas (gestionadas por la Consejería) y municipales (gestionadas por Ayuntamientos).",
+    "Creación de la 'Zona de Dominio Público' con una franja de protección de 3 metros a cada lado de la carretera.",
+    "Establecimiento de 'Zonas de Protección' laterales que varían según el tipo de carretera (de 10 a 18 metros) donde se limita la construcción.",
+    "Prohibición de realizar publicidad visible desde el dominio público sin autorización.",
+    "Obligación de realizar evaluaciones de impacto ambiental para nuevas carreteras o variantes significativas.",
+    "Posibilidad de imponer 'contribuciones especiales' a propietarios que se beneficien directamente de una obra vial (hasta el 25% del coste).",
+    "Régimen sancionador con multas que pueden alcanzar los 120.000 euros en infracciones muy graves."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía para Cantabria",
+    "Ley 25/1988, de 29 de julio, de Carreteras",
+    "Real Decreto 1812/1994, de 2 de diciembre",
+    "Ley 7/1990, de 30 de marzo, de Ordenación Territorial de Cantabria",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas",
+    "Ley 7/1985, de 2 de abril, Reguladora de Bases de Régimen Local"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": "Se prohíbe realizar obras o actividades en las zonas de influencia sin autorización previa. Las infracciones muy graves, como dañar elementos de seguridad o realizar publicidad no autorizada, conllevan multas de hasta 120.000 euros y la obligación de reparar los daños.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Aprobación del Plan de Carreteras de Cantabria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación inicial",
+          "description": "El Consejero competente realiza la propuesta inicial del plan.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública e institucional",
+          "description": "Trámite de exposición para recibir alegaciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación provisional",
+          "description": "El Consejero competente dicta la aprobación provisional.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación definitiva",
+          "description": "El Parlamento de Cantabria aprueba el plan a propuesta del Consejo de Gobierno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Trámite de Información Pública para estudios de carreteras",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Exposición pública",
+          "description": "Periodo para que los administrados presenten observaciones o alegaciones.",
+          "start_date": null,
+          "end_date": "30 días hábiles",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación y resolución",
+          "description": "Plazo máximo para dictar la resolución del expediente.",
+          "start_date": null,
+          "end_date": "12 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

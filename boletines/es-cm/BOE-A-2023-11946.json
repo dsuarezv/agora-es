@@ -1,0 +1,124 @@
+{
+  "identifier": "BOE-A-2023-11946",
+  "title": "Ley 9/2023, de 3 de abril, de Agricultura Familiar y de Acceso a la Tierra en Castilla-La Mancha",
+  "visible_title": "Ley de Agricultura Familiar y de Acceso a la Tierra en Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "9/2023",
+  "publication_date": "2023-05-22",
+  "enactment_date": "2023-04-03",
+  "last_updated": "2024-03-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2023/04/03/9",
+  "official_journal": "Boletín Oficial de la Comunidad de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley busca frenar la despoblación rural y proteger el modelo de agricultura familiar en Castilla-La Mancha. Introduce nuevas figuras de explotación para quienes no son profesionales pero trabajan la tierra en familia, crea un Banco de Tierras para facilitar el acceso a parcelas y establece zonas de protección agraria. Además, implementa medidas para combatir el abandono de tierras mediante la declaración de suelos infrautilizados.",
+  "citizen_impact": "Los agricultores familiares y jóvenes emprendedores rurales tienen ahora un marco legal que facilita el acceso a la tierra y prioriza su participación en ayudas. Las mujeres rurales también reciben un impulso específico para alcanzar la titularidad de las explotaciones.",
+  "professional_impact": "Los agricultores y ganaderos pueden solicitar el reconocimiento oficial de 'Explotación Familiar Agraria' para acceder a beneficios fiscales y ayudas incrementadas. Los propietarios de tierras que las mantengan abandonadas o infrautilizadas durante tres años se enfrentan al riesgo de que la Administración les imponga la cesión temporal de su uso al Banco de Tierras.",
+  "keywords": [
+    "agricultura familiar",
+    "acceso a la tierra",
+    "Castilla-La Mancha",
+    "Banco de Tierras",
+    "suelo infrautilizado",
+    "despoblación rural",
+    "zonas de protección agraria"
+  ],
+  "key_points": [
+    "Creación de la figura de Explotación Familiar Agraria (individual o asociativa) para quienes usen más del 50% de mano de obra familiar.",
+    "Implementación de un Banco de Tierras para conectar la oferta y demanda de parcelas cultivables.",
+    "Establecimiento de Zonas de Protección Agraria para evitar la pérdida de actividad en áreas críticas.",
+    "Prioridad de ayudas y adjudicación de tierras para mujeres y jóvenes menores de 40 años.",
+    "Posibilidad de declarar un suelo como 'infrautilizado' si permanece sin actividad durante 3 años.",
+    "Riesgo de cesión temporal de uso de tierras (de 10 a 25 años) al Banco de Tierras si se incumple la función social del suelo.",
+    "Nuevos beneficios fiscales y prioridad en contratos de suministro público para explotaciones familiares."
+  ],
+  "legal_references": [
+    "Ley 19/1995, de 4 de julio, de Modernización de las Explotaciones Agrarias",
+    "Ley 4/2004, de 18 de mayo, de la Explotación Agraria y del Desarrollo Rural en Castilla-La Mancha",
+    "Ley 6/2019, de 25 de noviembre, del Estatuto de las Mujeres Rurales de Castilla-La Mancha",
+    "Ley 9/2020, de 6 de noviembre, de Patrimonio de la Junta de Comunidades de Castilla-La Mancha",
+    "Ley 3/2008, de 12 de junio, de Montes y Gestión Forestal Sostenible de Castilla-La Mancha"
+  ],
+  "derogations": [
+    "Definición de explotación familiar agraria del punto 16 del artículo 3 de la Ley 4/2004"
+  ],
+  "main_obligations": "Los titulares de explotaciones familiares deben comunicar cualquier variación de datos a la Consejería para mantener su título. Los propietarios de suelos declarados infrautilizados deben evitar la inactividad de 3 años para no sufrir la cesión temporal de su uso al Banco de Tierras.",
+  "effective_date": "2023-05-12",
+  "procedures": [
+    {
+      "name": "Reconocimiento de Explotación Familiar Agraria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de reconocimiento",
+          "description": "Presentación de solicitud ante la Consejería cumpliendo requisitos de edad, seguridad social y mano de obra familiar.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la actividad y el vínculo familiar"
+        },
+        {
+          "step": 2,
+          "title": "Otorgamiento de título",
+          "description": "La Consejería expide un título con validez de 5 años.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de Suelo Agrario Infrautilizado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Detección e inicio de oficio",
+          "description": "La Consejería detecta la posible infrautilización y notifica al titular para que pueda presentar un compromiso de mejora.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Trámite de alegaciones",
+          "description": "Plazo para que los interesados presenten sus argumentos.",
+          "start_date": "15 días hábiles",
+          "end_date": "15 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Instrucción y resolución",
+          "description": "Se realiza la prueba y se dicta resolución en un plazo máximo de un año.",
+          "start_date": null,
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de Zona de Protección Agraria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación de oficio",
+          "description": "Inicio del procedimiento por la Consejería incluyendo información pública.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Caducidad del procedimiento",
+          "description": "El procedimiento caduca si no se dicta decreto en 18 meses.",
+          "start_date": null,
+          "end_date": "18 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

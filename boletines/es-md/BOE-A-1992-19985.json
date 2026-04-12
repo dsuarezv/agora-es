@@ -1,0 +1,113 @@
+{
+  "identifier": "BOE-A-1992-19985",
+  "title": "Ley 4/1992, de 8 de julio, de Coordinación de Policías Locales",
+  "visible_title": "Ley de Coordinación de Policías Locales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "4/1992",
+  "publication_date": "1992-08-20",
+  "enactment_date": "1992-07-08",
+  "last_updated": "2018-03-12",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1992/07/08/4",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": "172",
+  "summary": "Esta norma establece el marco de coordinación para los cuerpos de Policía Local en la Comunidad de Madrid. Define su naturaleza jurídica como institutos armados de carácter civil y regula sus funciones básicas, como la gestión del tráfico y la policía administrativa. Además, crea la Comisión Regional de Coordinación para homogeneizar criterios de formación, selección y uniformidad entre los distintos municipios.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que regula la organización interna y la coordinación de los cuerpos policiales municipales.",
+  "professional_impact": "Afecta directamente a los agentes de policía local, regulando su régimen estatutario, sus escalas de mando, los procesos de selección por oposición y su régimen disciplinario. También establece obligaciones específicas sobre el uso de uniformes, armamento y el deber de secreto profesional.",
+  "keywords": [
+    "Policía Local",
+    "Coordinación policial",
+    "Comunidad de Madrid",
+    "Seguridad ciudadana",
+    "Régimen estatutario",
+    "Funcionarios locales"
+  ],
+  "key_points": [
+    "Define a la Policía Local como un Instituto Armado de naturaleza civil.",
+    "Crea la Comisión Regional de Coordinación de Policías Locales para unificar criterios.",
+    "Establece la obligatoriedad de uniformidad homogénea con emblemas de la Comunidad y el municipio.",
+    "Regula las funciones de policía administrativa, tráfico y protección de autoridades.",
+    "Determina las escalas de mando (Técnica y Ejecutiva) y los requisitos de acceso por oposición.",
+    "Prohíbe expresamente el derecho a la huelga para estos agentes.",
+    "Establece un régimen disciplinario con faltas leves, graves y muy graves.",
+    "Permite la actuación supramunicipal en situaciones de emergencia o requerimiento de autoridad."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunidad de Madrid",
+    "Ley Orgánica de Fuerzas y Cuerpos de Seguridad",
+    "Ley de Bases de Régimen Local",
+    "Real Decreto Legislativo 781/1986",
+    "Ley 1/1983 de Gobierno y Administración de la Comunidad de Madrid",
+    "Ley 7/2007 del Estatuto Básico del Empleado Público"
+  ],
+  "derogations": [
+    "Decreto 31/1984, de 27 de marzo"
+  ],
+  "main_obligations": "Los agentes deben cumplir con el deber de imparcialidad, secreto profesional y respeto a la Constitución. Tienen prohibido ejercer el derecho a la huelga y deben utilizar el arma solo en situaciones de riesgo racionalmente grave para la vida o integridad física.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Acceso al cuerpo de Policía Local",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de oposición",
+          "description": "Publicación de las bases en el BOCM.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación acreditativa de requisitos (nacionalidad, edad, títulos, etc.)"
+        },
+        {
+          "step": 2,
+          "title": "Pruebas selectivas",
+          "description": "Superación de pruebas psico-técnicas, físicas, culturales y reconocimiento médico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Curso selectivo de formación",
+          "description": "Curso obligatorio en el Centro de Formación Integral de Seguridad con duración mínima de 6 meses.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Periodo de prácticas",
+          "description": "Prácticas en el municipio con una duración mínima de 3 meses.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del expediente",
+          "description": "Inicio del procedimiento por parte del Alcalde o autoridad delegada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Medidas preventivas",
+          "description": "Posible suspensión provisional de funciones o retirada de arma durante la tramitación.",
+          "start_date": null,
+          "end_date": "máximo 6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

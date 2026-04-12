@@ -1,0 +1,82 @@
+{
+  "identifier": "BOE-A-2020-8755",
+  "title": "Decreto-ley 26/2020, de 23 de junio, de medidas extraordinarias en materia sanitaria y administrativa",
+  "visible_title": "Medidas extraordinarias en materia sanitaria y administrativa",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "26/2020",
+  "publication_date": "2020-07-30",
+  "enactment_date": "2020-06-23",
+  "last_updated": "2022-05-18",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2020/06/23/26",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece herramientas de gestión para que el sistema público de salud de Cataluña pueda absorber posibles rebotes de la COVID-19. Permite la integración temporal de recursos de la sanidad privada y laboratorios en el sistema público (SISCAT) y regula la habilitación de nuevos espacios sanitarios. Además, adapta la gestión de residuos, la receta electrónica y la actividad de entidades privadas (cooperativas, fundaciones y comunidades de propietarios) para facilitar su funcionamiento en un contexto de restricciones de movilidad.",
+  "citizen_impact": "Garantiza que el sistema de salud tenga capacidad de respuesta ante nuevos picos de la pandemia, permitiendo el uso de clínicas privadas si es necesario. También facilita que las comunidades de vecinos y asociaciones sigan funcionando mediante reuniones telemáticas o sin presencia física.",
+  "professional_impact": "Los centros sanitarios privados y laboratorios pueden ser integrados funcionalmente en el SISCAT bajo encargo de la administración. Las empresas funerarias tienen la obligación de comunicar datos específicos de defunciones, y los profesionales sanitarios públicos pueden realizar actividades privadas bajo condiciones de interés público.",
+  "keywords": [
+    "COVID-19",
+    "sanidad pública",
+    "SISCAT",
+    "gestión sanitaria",
+    "residuos biosanitarios",
+    "comunidades de propietarios",
+    "cooperativas",
+    "Cataluña"
+  ],
+  "key_points": [
+    "Integración temporal de la sanidad privada y laboratorios en el sistema público (SISCAT) para responder a la demanda.",
+    "Facultad para habilitar locales públicos o privados como espacios de atención sanitaria sin necesidad de autorizaciones técnicas previas.",
+    "Posibilidad de fijar precios máximos en pruebas diagnósticas de laboratorios privados para asegurar la equidad.",
+    "Obligación de las funerarias de transmitir datos detallados de defunciones al Departamento de Salud.",
+    "Extensión de la posibilidad de realizar reuniones y acuerdos por videoconferencia en asociaciones, fundaciones y comunidades de propietarios hasta el 31 de diciembre de 2020.",
+    "Prórroga de la suspensión de actividad en cooperativas bajo condiciones específicas hasta finales de 2020.",
+    "Actualización de la gestión de residuos para incluir específicamente las secreciones de pacientes con COVID-19."
+  ],
+  "legal_references": [
+    "Decreto-ley 7/2020, de 17 de marzo",
+    "Decreto 159/2007, de 24 de julio",
+    "Decreto 27/1999, de 9 de febrero",
+    "Decreto-ley 10/2020, de 27 de marzo",
+    "Decreto-ley 22/2020, de 2 de junio",
+    "Decreto-ley 12/2020, de 10 de abril",
+    "Decreto-ley 19/2020, de 19 de mayo",
+    "Real Decreto 463/2020, de 14 de marzo",
+    "Ley 9/2017, de 8 de noviembre"
+  ],
+  "derogations": [],
+  "main_obligations": "Las empresas de servicios funerarios deben comunicar obligatoriamente al Departamento de Salud los datos de identidad, sexo, edad, fecha, causa y lugar de defunción de cada fallecido. Los laboratorios clínicos y centros privados pueden ser obligados a atender encargos del Servicio Catalán de la Salud.",
+  "effective_date": "2020-06-20",
+  "procedures": [
+    {
+      "name": "Gestión de la actividad sanitaria privada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Integración funcional",
+          "description": "El Servicio Catalán de la Salud establece mecanismos de relación y contraprestación económica para centros privados.",
+          "start_date": "2020-06-23",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Comunicación de defunciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Transmisión de datos funerarios",
+          "description": "Las empresas funerarias deben remitir datos de defunción al Departamento de Salud según el procedimiento establecido.",
+          "start_date": "2020-06-23",
+          "end_date": null,
+          "required_documentation": "DNI/NIE, sexo, edad, fecha y causa de defunción, municipio de residencia, lugar de defunción y destino final."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

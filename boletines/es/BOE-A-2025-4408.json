@@ -1,0 +1,77 @@
+{
+  "identifier": "BOE-A-2025-4408",
+  "title": "Orden INT/210/2025, de 27 de febrero, por la que se regula la formación para el acceso progresivo al permiso de conducción de la clase A",
+  "visible_title": "Nueva regulación de la formación para el permiso de conducción de la clase A",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio del Interior",
+  "official_number": "INT/210/2025",
+  "publication_date": "2025-03-06",
+  "enactment_date": "2025-02-27",
+  "last_updated": "2025-03-06",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2025/02/27/int210",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "56",
+  "summary": "Esta norma actualiza la formación necesaria para obtener el permiso de conducir de motocicleta clase A, respondiendo al aumento de la mortalidad en este colectivo. Introduce contenidos sobre nuevas tecnologías (sistemas de ayuda a la conducción) y movilidad eléctrica, además de modificar la distribución de las horas de práctica para priorizar la conducción en vías abiertas al tráfico frente al circuito cerrado. También establece el uso obligatorio de airbag en el equipamiento de protección durante las prácticas.",
+  "citizen_impact": "Los futuros motoristas deberán realizar un curso con un enfoque más práctico en carretera y con contenidos teóricos actualizados. Además, se les exige obligatoriamente el uso de una prenda con airbag y un equipo de protección específico para poder realizar las prácticas.",
+  "professional_impact": "Las escuelas de conducción deben adaptar sus programas, horarios y equipos de protección a los nuevos estándares. También deben cumplir con nuevos requisitos de comunicación telemática ante la Jefatura Provincial de Tráfico y asegurar que sus instructores posean el permiso A con más de un año de antigüedad.",
+  "keywords": [
+    "permiso de conducción clase A",
+    "motocicletas",
+    "seguridad vial",
+    "formación de conductores",
+    "airbag",
+    "siniestralidad vial"
+  ],
+  "key_points": [
+    "Aumento de las horas de práctica en vías abiertas al tráfico general frente a las de circuito cerrado.",
+    "Obligatoriedad de usar prenda homologada con airbag durante las prácticas.",
+    "Inclusión de contenidos sobre sistemas de ayuda a la conducción (ASR, ABS, etc.) y motocicletas eléctricas.",
+    "El curso tendrá una duración mínima de 9 horas lectivas.",
+    "Los instructores de prácticas en carretera deben tener permiso clase A con más de un año de antigüedad.",
+    "Se permite la formación teórica mediante plataformas virtuales con doble factor de autenticación.",
+    "Las prácticas en carretera se realizarán en grupos de máximo tres alumnos por profesor."
+  ],
+  "legal_references": [
+    "Orden INT/2323/2011, de 29 de julio",
+    "Ley 39/2015, de 1 de octubre",
+    "Real Decreto 818/2009, de 8 de mayo",
+    "Real Decreto 1295/2003, de 17 de octubre",
+    "Ley 50/1997, de 26 de julio",
+    "Real Decreto Legislativo 6/2015, de 30 de octubre",
+    "Constitución Española, artículo 149.1.21.ª",
+    "Reglamento (UE) 2016/679",
+    "Ley Orgánica 3/2018, de 5 de diciembre"
+  ],
+  "derogations": [
+    "Orden INT/2323/2011, de 29 de julio, por la que se regula la formación para el acceso progresivo al permiso de conducción de la clase A"
+  ],
+  "main_obligations": "Los alumnos deben completar 9 horas de formación (3 teóricas y 6 prácticas) y utilizar obligatoriamente equipo de protección que incluya airbag. Las escuelas deben comunicar telemáticamente el inicio de cada curso a la Jefatura Provincial de Tráfico con al menos 10 días hábiles de antelación.",
+  "effective_date": "2025-07-01",
+  "procedures": [
+    {
+      "name": "Comunicación de cursos de formación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación telemática del curso",
+          "descrption": "El centro debe informar a la Jefatura Provincial de Tráfico sobre el curso, alumnos, motos y formadores.",
+          "start_date": "10 días hábiles antes del inicio del curso",
+          "end_date": null,
+          "required_documentation": "Fechas, horarios, itinerario de circulación, relación de alumnos, relación de motocicletas y relación de formadores."
+        },
+        {
+          "step": 2,
+          "title": "Comprobación de la Jefatura",
+          "descrption": "La autoridad puede solicitar correcciones si detecta errores en la comunicación.",
+          "start_date": "Dentro de los 5 días hábiles tras recibir la comunicación",
+          "end_date": "2 días hábiles antes del inicio del curso",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

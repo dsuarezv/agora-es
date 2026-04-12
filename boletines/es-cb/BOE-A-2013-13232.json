@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-2013-13232",
+  "title": "Ley 7/2013, de 25 de noviembre, por la que se regula el aprovechamiento eólico en la Comunidad Autónoma de Cantabria",
+  "visible_title": "Regulación del aprovechamiento eólico en Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "7/2013",
+  "publication_date": "2013-12-18",
+  "enactment_date": "2013-11-25",
+  "last_updated": "2014-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2013/11/25/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el nuevo marco para la instalación y gestión de parques eólicos en Cantabria, sustituyendo el modelo de concurso público por un sistema de selección competitiva más ágil. Introduce un procedimiento de autorización específico para evitar bloqueos judiciales y garantiza la protección del entorno mediante la creación de un fondo de compensación ambiental. Además, regula las garantías económicas que los promotores deben depositar para asegurar la restauración de los terrenos tras el cierre de las instalaciones.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en la posible mejora de la infraestructura energética regional y la protección del paisaje mediante el fondo de compensación ambiental.",
+  "professional_impact": "Las empresas del sector eólico deben adaptarse a un nuevo proceso de selección competitiva y acreditar solvencia técnica y económica estricta. Los promotores asumen nuevas cargas financieras, como la obligación de constituir garantías por el 2% del presupuesto y 20.000€ por megavatio para la restauración del terreno.",
+  "keywords": [
+    "energía eólica",
+    "Cantabria",
+    "parques eólicos",
+    "autorización administrativa",
+    "compensación ambiental",
+    "renovables"
+  ],
+  "key_points": [
+    "Sustitución del concurso público por un trámite de selección competitiva para agilizar la gestión administrativa.",
+    "Creación del Fondo para la Compensación Ambiental y la Mejora Energética para financiar la restauración del medio natural.",
+    "Obligación de constituir una garantía del 2% del presupuesto para asegurar la construcción.",
+    "Exigencia de una garantía de 20.000 euros por megavatio instalado para garantizar la retirada de instalaciones y restauración del suelo.",
+    "Requisito de acreditar capacidad económica con fondos propios de al menos el 20% del presupuesto o 500.000€ por megavatio.",
+    "Establecimiento de criterios de valoración técnicos (eficiencia, recurso eólico, soterrado de líneas) para la selección de proyectos."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía para Cantabria",
+    "Decreto 19/2009, de 12 de marzo",
+    "Ley 24/2013, de 26 de diciembre, del Sector Eléctrico",
+    "Ley de Cantabria 2/2001, de 25 de junio, de Ordenación Territorial y Régimen Urbanístico del Suelo de Cantabria",
+    "Real Decreto Legislativo 1/2008, de 11 de enero"
+  ],
+  "derogations": [
+    "Decreto 19/2009, de 12 de marzo, que regula la instalación de parques eólicos en la Comunidad Autónoma de Cantabria"
+  ],
+  "main_obligations": "Los promotores deben constituir garantías financieras (2% del presupuesto para construcción y 20.000€/MW para restauración) y aportar proyectos de restauración ambiental. El incumplimiento de las condiciones de la autorización puede conllevar su revocación.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Obtención de la autorización en competencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud inicial",
+          "description": "Presentación de documentación técnica, legal y económica ante la Consejería de Energía.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud, acreditación de capacidad, cartografía UTM, estimación de recurso eólico, potencia y pago de tasa."
+        },
+        {
+          "step": 2,
+          "title": "Publicidad de la solicitud",
+          "description": "Anuncio en el Boletín Oficial de Cantabria para permitir la concurrencia de otros interesados.",
+          "start_date": "15 días tras recepción de documentación completa",
+          "end_date": "30 días de publicidad",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Presentación de solicitudes concurrentes",
+          "description": "Plazo para que otros interesados presenten proyectos en la misma ubicación.",
+          "start_date": "Día siguiente a la publicación",
+          "end_date": "30 días",
+          "required_documentation": "Estudio de explotación, memoria de evacuación, proyectos de restauración y compromiso de aportación al Fondo."
+        },
+        {
+          "step": 4,
+          "title": "Valoración y resolución",
+          "description": "La Comisión de valoración evalúa los proyectos y el Consejero dicta la resolución.",
+          "start_date": "Tras finalizar el trámite de publicidad",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización de construcción",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de proyecto técnico",
+          "description": "Tras la autorización previa, se presenta el proyecto de ejecución y declaración responsable.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto técnico de ejecución y declaración responsable."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

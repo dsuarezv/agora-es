@@ -1,0 +1,169 @@
+{
+  "identifier": "BOE-A-2011-399",
+  "title": "Ley 7/2010, de 18 de noviembre, de protección contra la contaminación acústica de Aragón",
+  "visible_title": "Ley de protección contra la contaminación acústica de Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "7/2010",
+  "publication_date": "2011-01-08",
+  "enactment_date": "2010-11-18",
+  "last_updated": "2010-12-03",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2010/11/18/7",
+  "official_journal": "Boletín Oficial de Aragón",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo se debe controlar y prevenir el ruido y las vibraciones en Aragón para proteger la salud y el descanso de las personas. Establece que tanto empresas como ayuntamientos tienen responsabilidades claras para evitar la contaminación acústica en zonas residenciales, industriales o de ocio. Permite la creación de zonas de protección especial y otorga a las autoridades la capacidad de sancionar o incluso cerrar locales que incumplan los límites. Además, impone estándares técnicos estrictos para que las mediciones de ruido sean válidas legalmente.",
+  "citizen_impact": "El ciudadano gana derechos de descanso y salud al contar con zonas de protección acústica especial. Los vecinos pueden denunciar ruidos incívicos o domésticos, y los promotores de viviendas están obligados a informarles sobre la calidad acústica del inmueble antes de la compra. En caso de ruidos excesivos, las autoridades pueden intervenir directamente en locales o actividades.",
+  "professional_impact": "Las empresas y locales de ocio deben adaptar sus actividades a los límites de ruido y vibraciones permitidos, bajo riesgo de clausura inmediata o multas sucesivas. Los inspectores tienen potestad para entrar en instalaciones privadas. Para técnicos y empresas de medición, es obligatorio el uso de equipos de Clase 1 y el cumplimiento estricto de normativas europeas (UNE-EN ISO) y condiciones ambientales específicas para que sus informes tengan validez judicial.",
+  "keywords": [
+    "contaminación acústica",
+    "ruido",
+    "vibraciones",
+    "Aragón",
+    "protección de la salud",
+    "sanciones",
+    "medición de ruido"
+  ],
+  "key_points": [
+    "Creación de zonas de protección acústica especial para áreas con ruido persistente.",
+    "Los municipios pueden imponer límites de ruido más estrictos que los generales para proteger a sus vecinos.",
+    "Obligación de los promotores de informar a los compradores sobre las condiciones acústicas de la vivienda.",
+    "Potestad de los inspectores para entrar en instalaciones privadas y precintar actividades si se superan los límites.",
+    "Posibilidad de clausura inmediata de locales o suspensión de licencias como medida cautelar.",
+    "El cambio de titularidad de un negocio no detiene los expedientes sancionadores en curso.",
+    "Imposición de multas coercitivas sucesivas (hasta el 10% de la sanción) para forzar el cumplimiento.",
+    "Las nuevas infraestructuras (carreteras, trenes, aeropuertos) no pueden superar los límites de ruido establecidos.",
+    "Obligatoriedad de usar equipos de medición de Clase 1 y cumplir la norma UNE-EN ISO 8041:2006 para que las mediciones sean válidas.",
+    "Las mediciones de vibraciones deben respetar estrictamente las condiciones ambientales recomendadas por el fabricante."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 45)",
+    "Estatuto de Auto autonomía de Aragón (artículo 18 y 45)",
+    "Directiva 2002/49/CE del Parlamento Europeo y del Consejo",
+    "Ley 37/2003, de 17 de noviembre, del Ruido",
+    "Real Decreto 1513/2005, de 16 de diciembre",
+    "Real Decreto 1367/2007, de 19 de octubre",
+    "Código Técnico de la Edificación",
+    "Ley 16/2002, de 1 de julio, de Prevención y Control Integrados de la Contaminación",
+    "Real Decreto Legislativo 339/1990 (Ley de Tráfico)",
+    "Orden ITC/2845/2007",
+    "Normas UNE-EN 61672-1:2005",
+    "Normas UNE-EN 61672-2:2005",
+    "Normas UNE-EN 61260/A1:2002",
+    "Norma ISO 9613-2:1996",
+    "Norma ISO 8297:1994",
+    "Norma UNE-EN ISO 3744:1996",
+    "Norma UNE-EN ISO 3746:1996",
+    "Norma ISO 2631-2:2003",
+    "UNE-EN ISO 8041:2006"
+  ],
+  "derogatons": [],
+  "main_obligations": "Los emisores deben respetar los límites de ruido y vibraciones, facilitando el acceso a inspectores. Los municipios deben elaborar mapas de ruido y planes de acción. Las mediciones técnicas deben realizarse con instrumental certificado bajo condiciones ambientales controladas.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Procedimiento de inspección y sanción",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Actuación inspectora",
+          "description": "Realización de mediciones y controles por agentes de la autoridad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de inspección"
+        },
+        {
+          "step": 2,
+          "title": "Precinto provisional (si procede)",
+          "description": "Cierre inmediato de la instalación si se detectan infracciones graves de ruido o vibraciones.",
+          "start_date": null,
+          "end_date": "7 días (plazo para que el órgano competente confirme, modifique o levante el precinto)",
+          "required_documentation": "Acta de precinto"
+        },
+        {
+          "step": 3,
+          "title": "Tramitación del expediente sancionador",
+          "description": "Procedimiento para determinar la responsabilidad y la sanción tras la infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Elaboración de Mapas de Ruido",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Trámite de información pública",
+          "description": "Exposición de los mapas para que la ciudadanía pueda realizar alegaciones.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aprobación",
+          "description": "Resolución de la Administración competente para la entrada en vigor del mapa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador y de Medidas Cautelares",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "descrption": "Apertura de expediente tras detección de infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Adopción de medidas cautelares",
+          "descrption": "Precintado, clausura o suspensión de licencias de forma motivada.",
+          "start_date": "En cualquier momento tras el inicio",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de sanción",
+          "descrption": "Imposición de multas o sanciones administrativas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de actividades existentes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Revisión de licencias",
+          "descrption": "Adaptación de licencias según lo marquen las ordenanzas municipales.",
+          "start_date": "Según plazos de ordenanzas municipales",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo general de adaptación",
+          "descrption": "Toda actividad autorizada debe adaptarse a la nueva ley.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "3 años tras la entrada en vigor",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

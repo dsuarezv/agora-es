@@ -1,0 +1,81 @@
+{
+  "identifier": "BOE-A-2015-1412",
+  "title": "Ley Foral 2/2015, de 22 de enero, de microcooperativas de trabajo asociado",
+  "visible_title": "Ley de microcooperativas de trabajo asociado",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "2/2015",
+  "publication_date": "2015-02-13",
+  "enactment_date": "2015-01-22",
+  "last_updated": "2015-02-02",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2015/01/22/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma crea una figura jurídica simplificada para fomentar la creación de pequeñas empresas de economía social en Navarra. Permite que grupos de hasta diez personas se constituyan como microcooperativas con menos trabas administrativas y una estructura de gestión más flexible. El objetivo es facilitar el emprendimiento colectivo y la generación de empleo de calidad mediante un modelo societario adaptado a la realidad de las micropymes.",
+  "citizen_impact": "Facilita que grupos de trabajadores puedan emprender juntos de forma organizada y legal con menos costes y burocracia. Ofrece asesoramiento gratuito a través de puntos de atención especializados para emprendedores.",
+  "professional_impact": "Las empresas que opten por este modelo disfrutan de una tramitación ultra rápida (48 horas) si usan estatutos modelo. Durante los primeros siete años, tienen límites específicos en la contratación de personal ajeno y socios temporales para proteger su naturaleza de microempresa.",
+  "keywords": [
+    "microcooperativa",
+    "trabajo asociado",
+    "economía social",
+    "Navarra",
+    "emprendimiento",
+    "cooperativa"
+  ],
+  "key_points": [
+    "Límite de socios trabajadores de entre 2 y 10 personas.",
+    "Tramitación de inscripción en solo 48 horas si se utilizan estatutos modelo.",
+    "Durante los primeros 7 años, el número de trabajadores por cuenta ajena no puede superar los 5.",
+    "Durante los primeros 7 años, los socios de duración determinada no pueden superar el número de socios indefinidos.",
+    "Posibilidad de gestión unipersonal o colegiada con reglas de votación simplificadas.",
+    "Exención de intervención si todos los socios forman parte del órgano de gobierno.",
+    "Acceso a servicios de asesoramiento gratuitos en puntos de atención al emprendedor."
+  ],
+  "legal_references": [
+    "Ley Foral 14/2006, de 11 de diciembre, de Cooperativas de Navarra",
+    "Ley Foral 9/1994, de 21 de junio, reguladora del régimen fiscal de las cooperativas"
+  ],
+  "derogations": [],
+  "main_obligations": "Las microcooperativas deben inscribirse en el Registro de Cooperativas de Navarra y utilizar la denominación 'Sociedad Microcooperativa' o 'S. Microcoop.'. Tras 7 años, deben certificar su adecuación a la Ley Foral de Cooperativas general.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Constitución de una microcooperativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Redacción de estatutos",
+          "description": "Elaboración de los estatutos sociales, preferiblemente utilizando el modelo orientativo del Gobierno de Navarra.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Escritura pública de constitución"
+        },
+        {
+          "step": 2,
+          "title": "Calificación e inscripción",
+          "description": "Trámite de calificación de estatutos e inscripción en el Registro de Cooperativas de Navarra.",
+          "start_date": null,
+          "end_date": "48 horas (si se usa el modelo de estatutos sin cambios)",
+          "required_documentation": "Escritura pública"
+        }
+      ]
+    },
+    {
+      "name": "Adaptación a la Ley General de Cooperativas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de regularización",
+          "description": "Si se supera el número máximo de socios, se debe adaptar la estructura a la ley general.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

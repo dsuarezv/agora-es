@@ -1,0 +1,270 @@
+{
+  "identifier": "BOE-A-2020-3782",
+  "title": "Ley 2/2020, de 5 de marzo, de la vitivinicultura",
+  "visible_title": "Ley de la vitivinicultura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "2/2020",
+  "publication_date": "2020-03-17",
+  "enactment_date": "2020-03-05",
+  "last_updated": "2021-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2020/03/05/2",
+  "official_journal": "Diari Oficial de la Generalitat de Catalunya",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza el sector vitivinícola catalán para alinearlo con la normativa de la Unión Europea. Introduce nuevas categorías de calidad como el 'vino de finca calificada' y crea el Instituto Catalán de la Viña y el Vino para gestionar el sector. Establece un control mucho más estricto sobre las plantaciones, exigiendo autorizaciones previas y un registro digitalizado. Además, refuerza la protección de las zonas de cultivo frente a la urbanización y potencia el enoturismo y la formación técnica.",
+  "citizen_impact": "El impacto es indirecto para el consumidor general, quien se beneficia de una mayor garantía de calidad y trazabilidad en los vinos catalanes. Para los residentes en zonas de producción, la ley ofrece protección contra la presión urbanística en entornos de cultivo.",
+  "professional_impact": "Afecta directamente a viticultores, bodegas y operadores de DOP/IGP, quienes deben adaptarse a nuevos registros digitales (tarjeta vitícola virtual), cumplir con verificaciones anuales obligatorias y someterse a inspecciones más rigurosas. Las sanciones por incumplimientos graves son elevadas, pudiendo alcanzar los 300.000 euros o el cierre de la empresa.",
+  "keywords": [
+    "vitivinicultura",
+    "vino de finca calificada",
+    "DOP",
+    "viticultura",
+    "Incavi",
+    "control de plantaciones",
+    "enoturismo"
+  ],
+  "key_points": [
+    "Creación de la categoría 'vino de finca calificada' con requisitos de rendimiento y cata más exigentes que la DOP.",
+    "Implementación del Registro vitivinícola de Cataluña y la tarjeta vitícola virtual para la entrega de uva.",
+    "Obligatoriedad de autorización previa para cualquier nueva plantación de viña.",
+    "Nuevas sanciones por plantaciones no autorizadas que oscilan entre 6.000 € y 20.000 € por hectárea.",
+    "Régimen sancionador severo para infracciones muy graves con multas de hasta 300.000 € o el 10% de las ventas.",
+    "Creación del Instituto Catalán de la Viña y el Vino (Incavi) para la supervisión y tutela del sector.",
+    "Protección especial de zonas de cultivo frente a la presión urbanística en áreas periurbanas.",
+    "Programas de apoyo económico y técnico específicos para el cultivo en zonas de montaña.",
+    "Obligatoriedad de verificación anual de todas las fases de producción para operadores de DOP/IGP.",
+    "Autorización de aumento del grado alcohólico en condiciones meteorológicas excepcionales.",
+    "Impulso a la formación técnica en fertilización, vendimia y adaptación al cambio climático.",
+    "Los órganos de gestión de las DOP adquieren autonomía económica y actúan como corporaciones de derecho público."
+  ],
+  "legal_references": [
+    "Ley 15/2002, de 27 de junio, de ordenación vitiwinícola",
+    "Reglamento (UE) 1308/2013",
+    "Reglamento (UE) 2019/625",
+    "Reglamento (CE) 1493/1999",
+    "Reglamento 753/2003",
+    "Reglamento 479/2008",
+    "Reglamento 491/2009",
+    "Ley orgánica 6/2006, de 19 de julio",
+    "Ley 14/2003, de 13 de junio, de calidad agroalimentaria",
+    "Norma UNE-EN 17065",
+    "Norma UNE-EN-ISO/IEC 17065/2012",
+    "Estatuto de autonomía de Cataluña (artículo 128)"
+  ],
+  "derogations": [
+    "Ley 15/2002, de 27 de junio, de ordenación vitiwinícola",
+    "Decreto 474/2004, de 2 de diciembre (parcialmente)"
+  ],
+  "main_obligations": "Los productores deben inscribirse en los registros, presentar declaraciones de producción y utilizar la tarjeta vitícola virtual. Los operadores de DOP/IGP están obligados a someterse a una verificación anual de producción y solicitar autorización de etiquetas.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Procedimiento de sanción y arrancado de plantaciones no autorizadas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de irregularidad",
+          "description": "La Administración notifica la obligación de arrancar la viña tras un expediente administrativo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de audiencia",
+          "description": "Periodo para que el interesado presente alegaciones.",
+          "start_date": "10 días hábiles tras la notificación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Plazo de arrancado para sanción mínima",
+          "description": "Arrancado de la plantación para evitar la sanción máxima.",
+          "start_date": "Desde la notificación",
+          "end_date": "4 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Plazo de arrancado para sanción intermedia",
+          "description": "Arrancado durante el primer año tras expirar el plazo de 4 meses.",
+          "start_date": "4 meses",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reconocimiento de Denominación de Origen o Indicación Geográfica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de reconocimiento",
+          "description": "Presentación de solicitud ante el Incavi por parte de agrupaciones de viticultores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Estudio justificativo, acreditación de notoriedad, vinculación territorial, pliego de condiciones y certificado negativo de la OEPM/EUIPO."
+        },
+        {
+          "step": 2,
+          "title": "Instrucción del expediente",
+          "description": "Tramitación por parte del Incavi y posibles informes de otras administraciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de reconocimiento provisional",
+          "description": "El Consejero dicta la resolución de reconocimiento provisional y nacional transitorio.",
+          "start_date": null,
+          "end_date": "6 meses desde la solicitud",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación del reglamento",
+          "description": "Aprobación mediante orden del consejero del reglamento de la denominación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Modificación de reglamentos de DOP/IGP",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de modificación",
+          "descrption": "El órgano de gestión eleva la propuesta al Incavi con estudios que acrediten la conveniencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acuerdo de la comisión rectora e informes/estudios de conveniencia"
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y propuesta",
+          "descrption": "El Incavi instruye el expediente y formula una propuesta al departamento competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación",
+          "descrption": "El titular del departamento competente dicta una orden de modificación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Inspección y Medidas Cautelares",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Actuación inspectora",
+          "descrption": "Visita a instalaciones, toma de muestras y revisión de documentación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Adopción de medidas cautelares",
+          "descrption": "Inmovilización, retirada de mercado o suspensión de actividades si hay irregularidad.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": "Acta de inspección con motivos"
+        },
+        {
+          "step": 3,
+          "title": "Confirmación de la medida",
+          "descrption": "El órgano competente debe confirmar, modificar o levantar la medida para iniciar el expediente sancionador.",
+          "start_date": "Tras los 15 días de la medida",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Reconocimiento de vinos de finca calificada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Expediente de reconocimiento",
+          "descrption": "El Incavi inicia el expediente señalando características cualitativas del entorno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe preceptivo del órgano de gestión de la DOP"
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "descrption": "El consejero competente dicta la resolución de reconocimiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Gestión del Consejo Asesor",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de sesión ordinaria",
+          "description": "El presidente convoca la reunión con una antelación mínima de 20 días naturales.",
+          "start_date": "20 días antes de la sesión",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Convocatoria de sesión extraordinaria",
+          "description": "El presidente convoca la reunión con una antelación mínima de 7 días naturales.",
+          "start_date": "7 días antes de la sesión",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Constitución del Consejo",
+          "description": "Se requiere la presencia de la mitad más uno de los miembros para sesionar.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Recursos Administrativos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recurso de alzada contra actos del Director",
+          "description": "Se interpone ante el Presidente del Instituto Catalán de la Viña y el Vino.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Recurso de alzada contra actos de Comisiones Rectoras (D.O. / I.G.P.)",
+          "description": "Se interpone ante el Director del Instituto Catalán de la Viña y el Vino.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

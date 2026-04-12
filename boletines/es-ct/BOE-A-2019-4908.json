@@ -1,0 +1,80 @@
+{
+  "identifier": "BOE-A-2019-4908",
+  "title": "Resolución INT/593/2019, de 7 de marzo, por la que se establecen las restricciones a la circulación durante el año 2019",
+  "visible_title": "Restricciones a la circulación de vehículos en Cataluña",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "INT/593/2019",
+  "publication_date": "2019-04-03",
+  "enactment_date": "2019-03-07",
+  "last_updated": "2020-02-17",
+  "status": "derogated",
+  "scope": "Autoonómico",
+  "source": "https://www.boe.es/eli/es-ct/res/2019/03/07/int593",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece las limitaciones de tráfico para vehículos pesados y de mercancías peligrosas en la red viaria de Cataluña durante 2019. El objetivo es mejorar la fluidez del tráfico y la seguridad vial, especialmente en periodos de vacaciones, festivos o eventos masivos. Define itinerarios obligatorios, horarios prohibidos y excepciones específicas según el tipo de carga y vehículo.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en lo relativo a la posible reducción de congestión en carreteras principales y mayor seguridad en túneles y zonas de montaña.",
+  "professional_impact": "Afecta directamente a empresas de transporte de mercancías, transportistas autónomos y operadores de mercancías peligrosas. Les obliga a planificar rutas específicas (RIMP), respetar horarios de prohibición en túneles y carreteras clave, y gestionar autorizaciones para servicios urgentes o excepciones.",
+  "keywords": [
+    "tráfico",
+    "restricciones de circulación",
+    "transporte de mercancías",
+    "mercancías peligrosas",
+    "Cataluña",
+    "seguridad vial",
+    "vehículos pesados"
+  ],
+  "key_points": [
+    "Prohibición de circular para vehículos de mercancías con masa superior a 7.500 kg en tramos y horarios específicos.",
+    "Obligatoriedad de usar rutas de largo recorrido (autopistas y vías preferentes) para transportes de paso por Cataluña.",
+    "Restricciones severas para vehículos de mercancías peligrosas (ADR), incluyendo prohibiciones en túneles como el del Cadí o Vielha.",
+    "Limitaciones de circulación en carriles Bus-VAO de la C-58CC según tipo de vehículo y etiqueta ambiental.",
+    "Restricciones horarias específicas en accesos a Barcelona y zonas de montaña como la Val d'Aran.",
+    "Obligación de circular por el carril derecho en condiciones meteorológicas adversas (niebla, lluvia intensa, nieve).",
+    "Exenciones para transporte de productos perecederos, ganado vivo, basura municipal y suministros sanitarios.",
+    "Posibilidad de sanción e inmovilización de vehículos por parte de los Mossos d'Esquadra en caso de incumplimiento."
+  ],
+  "legal_references": [
+    "Artículo 5 del Texto refundido de la Ley sobre tráfico, circulación de vehículos a motor y seguridad vial (Real decreto legislativo 6/2015)",
+    "Artículo 39 del Reglamento general de circulación (Real decreto 1428/2003)",
+    "Ley 14/1997 de creación del Servicio Catalán de Tráfico",
+    "Decreto 320/2011 de reestructuración del Departamento de Interior"
+  ],
+  "derogations": [
+    "Resolución INT/3014/2017, de 29 de diciembre",
+    "Resolución INT/1865/2018, de 27 de julio"
+  ],
+  "main_obligations": "Los vehículos de transporte de mercancías >7.500 kg deben respetar los horarios y tramos prohibidos indicados en los anexos. Los vehículos ADR deben seguir estrictamente la Red de Itinerarios de Mercancías Peligrosas (RIMP) y las señalizaciones R-108, R-109 o R-110.",
+  "effective_date": "2019-03-15",
+  "procedures": [
+    {
+      "name": "Autorización de transportes urgentes o de mercancías peligrosas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "descrption": "Trámite para obtener permiso de circulación en horarios o tramos restringidos por razones de urgencia o necesidad justificada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Justificación de la urgencia o necesidad según el procedimiento en transit.gencat.cat"
+        }
+      ]
+    },
+    {
+      "name": "Comunicación previa para transporte especial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de circulación",
+          "descrption": "Obligación de realizar una comunicación previa para circular bajo régimen de transporte especial en tramos restringidos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Comunicación a través del enlace transit.gencat.cat"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

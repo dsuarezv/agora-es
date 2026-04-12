@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-2012-9666",
+  "title": "Ley 16/2012, de 28 de junio, de Apoyo a las Personaas Emprendeedoras y a la Pequeña Empresa del País Vasco",
+  "visible_title": "Ley de Apoyo a las Personas Emprendedoras y a la Pequeña Empresa del País Vasco",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "16/2012",
+  "publication_date": "2012-07-19",
+  "enactment_date": "2012-07-02",
+  "last_updated": "2012-07-06",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2012/06/28/16",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca dinamizar la economía vasca fomentando el espíritu emprendedor y facilitando la supervivencia de las pequeñas empresas. Implementa medidas de simplificación administrativa para reducir la burocracia y crea nuevos mecanismos de financiación como el Fondo de Capital Semilla y microcréditos. Además, integra la cultura emprendedora en el sistema educativo y regula la figura de los 'business angels' para atraer inversión privada.",
+  "citizen_impact": "Facilita que personas con ideas de negocio puedan acceder a financiación y reducir costes iniciales, como las tasas municipales. También mejora la formación educativa en habilidades de gestión y emprendimiento desde la secundaria hasta la universidad.",
+  "professional_impact": "Los autónomos y pequeñas empresas se benefician de una reducción de trámites (uso de declaraciones responsables y eliminación de duplicidades) y de una 'ventanilla única' electrónica. Los inversores privados cuentan con un marco regulatorio y un directorio para operar como 'business angels' con mayor seguridad jurídica.",
+  "keywords": [
+    "emprendimiento",
+    "pequeña empresa",
+    "País Vasco",
+    "simplificación administrativa",
+    "business angels",
+    "capital semilla",
+    "financiación",
+    "innovación"
+  ],
+  "key_points": [
+    "Reducción de la carga burocrática mediante la sustitución de autorizaciones por declaraciones responsables.",
+    "Creación de un Fondo de Capital Semilla mixto público-privado para proyectos innovadores.",
+    "Garantía de capitalización íntegra de la prestación por desempleo para emprendedores autónomos.",
+    "Compensación del 100% de las tasas municipales vinculadas al inicio de actividad para microempresas.",
+    "Implementación de una 'ventanilla única' electrónica para trámites empresariales.",
+    "Regulación y apoyo a las redes de inversores privados o 'business angels'.",
+    "Obligatoriedad de realizar informes de impacto en la empresa antes de aprobar nuevas normas.",
+    "Integración de contenidos de ética y espíritu empresarial en los currículos de secundaria y formación profesional.",
+    "Creación de una línea de microcréditos con intereses subvencionados para colectivos vulnerables."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 38)",
+    "Estatuto de Autonomía para el País Vasco (Ley Orgánica 3/1979)",
+    "Recomendación 2003/361/CE",
+    "Ley 3/2004 del Sistema Universitario Vasco",
+    "Texto Refundido de la Ley Reguladora de Haciendas Locales"
+  ],
+  "derogations": [],
+  "main_obligations": null,
+  "effective_date": "2012-07-20",
+  "procedures": [
+    {
+      "name": "Creación de empresa y trámites iniciales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acceso a la Ventanilla Única",
+          "description": "Acceso electrónico a la información y trámites para el inicio, ejercicio y conclusión de la actividad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación según el trámite específico"
+        },
+        {
+          "step": 2,
+          "title": "Declaración responsable",
+          "description": "Sustitución de autorizaciones previas por una declaración de cumplimiento de requisitos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento suscrito por el interesado"
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de ayudas y financiación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Compensación de tasas municipales",
+          "description": "Solicitud de ayuda para sufragar el 100% de las tasas locales de inicio de actividad.",
+          "start_date": "Durante el primer año de actividad",
+          "end_date": null,
+          "required_documentation": "Justificante de pago de tasas locales"
+        },
+        {
+          "step": 2,
+          "title": "Acceso a Microcréditos",
+          "description": "Solicitud de préstamos para empresas con menos de 3 años de antigüedad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "No especificada"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

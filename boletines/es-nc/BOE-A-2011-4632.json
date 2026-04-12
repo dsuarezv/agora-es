@@ -1,0 +1,138 @@
+{
+  "identifier": "BOE-A-2011-4632",
+  "title": "Ley Foral 1/2011, de 15 de febrero, por la que se establece el procedimiento para el reconocimiento de la situación de dependencia y se regula la organización, las funciones y el régimen del personal que configura los equipos y el órgano de valoración de la situación de dependencia en Navarra",
+  "visible_title": "Procedimiento para el reconocimiento de la situación de dependencia y organización de equipos de valoración en Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "1/2011",
+  "publication_date": "2011-03-14",
+  "enactment_date": "2011-02-15",
+  "last_updated": "2022-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2011/02/15/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley organiza cómo se evalúa y reconoce oficialmente a las personas que necesitan ayuda para su autonomía personal en Navarra. Establece quiénes deben realizar estas valoraciones (equipos multidisciplinares públicos), qué requisitos deben cumplir los profesionales y cómo se debe elaborar el plan de atención individualizado para cada ciudadano. El objetivo es garantizar un sistema de atención a la dependencia profesional, transparente y adaptado a las necesidades de cada persona.",
+  "citizen_impact": "Si necesitas ayuda por dependencia, esta ley define los pasos que seguirá la Administración para evaluar tu grado de necesidad y asignarte servicios o ayudas económicas. Establece plazos máximos para resolver tu solicitud (3 meses para el reconocimiento y 6 meses para la resolución final) y te otorga el derecho a participar en la elección de tu plan de atención.",
+  "professional_impact": "Los profesionales de la salud y servicios sociales (médicos, psicólogos, trabajadores sociales, etc.) que actúen como valoradores deben cumplir requisitos específicos de titulación y formación. Además, se les imponen deberes estrictos de identificación, confidencialidad y objetividad, además de la obligación de realizar valoraciones en el domicilio del solicitante.",
+  "keywords": [
+    "dependencia",
+    "valoración",
+    "Navarra",
+    "servicios sociales",
+    "autonomía personal",
+    "ayudas dependencia",
+    "programa de atención"
+  ],
+  "key_points": [
+    "Creación de equipos de valoración multiprofesionales y públicos (modelo biopsicosocial).",
+    "Plazo máximo de 3 meses para reconocer el grado de dependencia desde la solicitud.",
+    "Plazo máximo de 6 meses para la resolución definitiva del derecho a prestaciones.",
+    "Obligación de realizar la valoración preferentemente en el domicilio del solicitante.",
+    "Derecho del ciudadano a ser consultado y participar en la elección de su Programa Individual de Atención.",
+    "Los profesionales valoradores deben poseer titulaciones específicas (Medicina, Psicología, Trabajo Social, etc.).",
+    "Posibilidad de revisión del grado de dependencia si la situación de salud cambia.",
+    "Garantía de que las ayudas económicas en Navarra no serán inferiores al nivel mínimo estatal."
+  ],
+  "legal_references": [
+    "Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia",
+    "Ley Foral 15/2006, de 14 de diciembre, de Servicios Sociales",
+    "Real Decreto 504/2007, de 20 de abril",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley Foral 15/2004, de 3 de diciembre, de la Administración de la Comunidad Foral de Navarra",
+    "Real Decreto 1971/1999, de 23 de diciembre",
+    "Ley Foral 11/2007, de 4 de abril, para la implantación de la Administración electrónica de Navarra"
+  ],
+  "derogations": [
+    "Decreto Foral 6/2008, de 19 de enero"
+  ],
+  "main_obligations": "Los ciudadanos deben comunicar cualquier cambio en su situación que afecte a su derecho a la prestación en un plazo de 30 días. Los profesionales valoradores tienen la obligación de identificarse, guardar secreto profesional y actuar con objetividad.",
+  "effective_date": "2011-03-15",
+  "procedures": [
+    {
+      "name": "Reconocimiento de la situación de dependencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "descrption": "Inicio del trámite por parte del interesado o su representante.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación requerida por reglamento (sin exigir documentos que ya tenga la Administración)."
+        },
+        {
+          "step": 2,
+          "title": "Subsanción de errores",
+          "descrption": "Plazo para corregir deficiencias en la solicitud si las hubiera.",
+          "start_date": null,
+          "end_date": "10 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informe Social",
+          "descrption": "Valoración de la situación sociofamiliar por Servicios Sociales o Centro de Salud.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Valoración técnica",
+          "descrption": "Visita del equipo de valoración al domicilio para aplicar el baremo de dependencia.",
+          "start_date": null,
+          "end_date": "3 meses (plazo máximo para resolución de reconocimiento)",
+          "required_documentation": "Informe de salud e informe sobre el entorno habitual y accesibilidad."
+        },
+        {
+          "step": 5,
+          "title": "Elaboración del Programa Individual de Atención (PIA)",
+          "descrption": "Propuesta de servicios y prestaciones según el grado detectado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Trámite de audiencia",
+          "descrption": "Participación del interesado en la elección de las alternativas propuestas en el PIA.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 7,
+          "title": "Resolución definitiva",
+          "descrption": "Dictamen final que establece el grado, nivel y servicios concedidos.",
+          "start_date": null,
+          "end_date": "6 meses (desde la presentación de la solicitud)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Revisión de la situación de dependencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de revisión",
+          "descrption": "Petición de cambio de grado por agravamiento o mejoría de la salud.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informes que acrediten la variación de la situación de salud."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la revisión",
+          "descrption": "Plazo para resolver el procedimiento de revisión.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

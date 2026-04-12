@@ -1,0 +1,98 @@
+{
+  "identifier": "BOE-A-2008-14097",
+  "title": "Ley 7/2008, de 7 de julio, de protección del paisaje de Galicia",
+  "visible_title": "Ley de protección del paisaje de Galicia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "7/2008",
+  "publication_date": "2008-08-20",
+  "enactment_date": "2008-07-07",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2008/07/07/7",
+  "official_journal": "Diario Oficial de Galicia",
+  "journal_issue": "139",
+  "summary": "Esta ley otorga reconocimiento jurídico al paisaje gallego como un bien de interés general que integra valores naturales, culturales y económicos. Establece un marco para proteger, gestionar y ordenar el territorio mediante herramientas como los Catálogos y Directrices de Paisaje. Su objetivo es frenar la degradación del entorno causada por el desarrollo socioeconómico descontrolado y asegurar que cualquier nueva actividad sea compatible con la identidad visual y ecológica de Galicia.",
+  "citizen_impact": "Garantiza el derecho de los ciudadanos a vivir en un entorno de calidad y preserva la identidad cultural y natural de sus comunidades. Además, reconoce el derecho al desarrollo sostenible para quienes habitan en zonas de especial interés paisajístico.",
+  "professional_impact": "Las empresas promotoras de proyectos (especialmente energéticos o urbanísticos) deben realizar estudios específicos de impacto e integración paisajística. Los ayuntamientos y la administración deben coordinar sus planes urbanísticos con los criterios de calidad paisajística establecidos, lo que añade una capa de evaluación técnica a la planificación territorial.",
+  "keywords": [
+    "paisaje",
+    "Galicia",
+    "protección ambiental",
+    "ordenación del territorio",
+    "desarrollo sostenible",
+    "impacto paisajístico",
+    "patrimonio natural"
+  ],
+  "key_points": [
+    "Reconocimiento del paisaje como elemento esencial para el bienestar humano y patrimonio de Galicia.",
+    "Creación de los Catálogos del Paisaje para identificar y delimitar las unidades paisajísticas de la región.",
+    "Obligatoriedad de incluir estudios de impacto e integración paisajística en proyectos sujetos a evaluación de impacto ambiental.",
+    "Establecimiento de Directrices de Paisaje con carácter vinculante para la planificación sectorial y urbanística.",
+    "Prioridad al despliegue de energía eólica, aunque condicionada a la mitigación de impactos visuales críticos.",
+    "Creación de 'Áreas de especial interés paisajístico' para una protección reforzada.",
+    "Fomento de 'Pactos por el Paisaje' entre administraciones y agentes socioeconómicos para la mejora del entorno."
+  ],
+  "legal_references": [
+    "Convenio europeo del paisaje (Florencia, 2000)",
+    "Ley 9/2006, de 28 de abril, sobre evaluación de los efectos de determinados planes y programas en materia de medio ambiente",
+    "Ley 10/2023, de 28 de diciembre, de medidas fiscales y administrativas",
+    "Estatuto de Autonomía de Galicia",
+    "Constitución Española"
+  ],
+  "derogations": [],
+  "main_obligations": "Los promotores de proyectos deben integrar medidas de mitigación visual y restaurar la vegetación afectada. Los planes urbanísticos municipales deben someterse a un informe de paisaje previo, el cual tiene un plazo de 3 meses para emitirse.",
+  "effective_date": "2008-07-28",
+  "procedures": [
+    {
+      "name": "Elaboración de Catálogos del Paisaje",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Información pública",
+          "description": "Trámite para que los interesados formulen alegaciones sobre el catálogo.",
+          "start_date": "2 meses",
+          "end_date": null,
+          "required_documentation": "Alegaciones por escrito"
+        }
+      ]
+    },
+    {
+      "name": "Informe de paisaje para planes urbanísticos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Emisión de informe",
+          "description": "El órgano competente debe emitir un informe sobre los aspectos paisajísticos del plan.",
+          "start_date": "Tras la aprobación inicial del plan",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Elaboración de Directrices de Paisaje",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Información pública",
+          "description": "Periodo de consulta ciudadana para definir objetivos de calidad.",
+          "start_date": "2 meses",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Informes preceptivos",
+          "description": "Consulta obligatoria a ayuntamientos y consejerías de territorio y cultura.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

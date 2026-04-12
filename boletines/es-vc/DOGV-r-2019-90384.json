@@ -1,0 +1,72 @@
+{
+  "identifier": "DOGV-r-2019-90384",
+  "title": "Decreto-ley 3/2019, de 22 de marzo, del Consell, por el que se adoptan medidas para favorecer el acceso universal a los servicios públicos que permitan el saneamiento de las entidades locales en especial dificultad económico-financiera, y la cofinanciación de servicios en zonas de baja densidad poblacional de la Comunitat Valenciana",
+  "visible_title": "Medidas para el saneamiento de entidades locales y el acceso universal a servicios públicos en la Comunitat Valenciana",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Generalitat Valenciana",
+  "official_number": "3/2019",
+  "publication_date": "2019-03-26",
+  "enactment_date": "2019-03-22",
+  "last_updated": "2019-03-26",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=DOGV-r-2019-90384",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta norma busca evitar que los municipios con problemas económicos o en zonas despobladas dejen de prestar servicios esenciales. La Generalitat intervendrá para financiar gastos corrientes, ayudar a pagar deudas excesivas y facilitar la venta de activos municipales para sanear sus cuentas. El objetivo final es garantizar que cualquier ciudadano reciba servicios públicos de calidad, sin importar la situación financiera de su ayuntamiento.",
+  "citizen_impact": "Garantiza que los servicios públicos básicos (como agua, limpieza o servicios sociales) no se corten o degraden debido a la mala situación económica de los ayuntamientos locales. Protege especialmente a los residentes de zonas rurales o despobladas para evitar la inequidad territorial.",
+  "professional_impact": "Los gestores municipales con dificultades financieras acceden a fondos de la Generalitat, pero a cambio deben cumplir estrictas reglas de disciplina fiscal. Esto incluye la obligación de aplicar todos los impuestos municipales voluntarios y la prohibición de aumentar gastos de funcionamiento de forma descontrolada.",
+  "keywords": [
+    "saneamiento local",
+    "servicios públicos",
+    "entidades locales",
+    "Comunitat Valenciana",
+    "estabilidad financiera",
+    "despoblación",
+    "deuda municipal"
+  ],
+  "key_points": [
+    "Financiación de gastos corrientes para municipios con dificultades para prestar servicios esenciales.",
+    "Ayuda para reducir la deuda de ayuntamientos que superen el 110% de sus ingresos corrientes.",
+    "Permite la venta directa de bienes inmuebles municipales a la Generalitat para obtener liquidez.",
+    "Se establece un plazo de 6 años para que los municipios alcancen niveles de deuda sostenibles.",
+    "Los municipios en riesgo de despoblación tienen prioridad y condiciones específicas de ayuda.",
+    "Se prohíbe subir gastos de funcionamiento de forma desmedida mientras se recibe la ayuda.",
+    "Los ayuntamientos deben tener implementados todos los impuestos municipales voluntarios para acceder a estas medidas."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de la Comunitat Valenciana",
+    "Ley 8/2010 de régimen local de la Comunitat Valenciana",
+    "Real Decreto Legislativo 2/2004 (Haciendas Locales)",
+    "Real Decreto Ley 17/2014 de medidas de sostenibilidad financiera",
+    "Ley 1/2015 de Hacienda Pública, del Sector Público Instrumental y de Subvenciones"
+  ],
+  "derogations": [],
+  "main_obligations": "Los municipios que se adhieran deben implementar todos los impuestos municipales voluntarios y no pueden aumentar sus gastos de funcionamiento más allá de la regla de gasto establecida hasta reducir su deuda al 110% de sus ingresos.",
+  "effective_date": "2019-03-27",
+  "procedures": [
+    {
+      "name": "Plan de enajenación de bienes inmuebles y saneamiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de Plan de Saneamiento",
+          "description": "El ayuntamiento propone un plan para vender activos o gestionar deudas ante la Generalitat.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Plan de enajenación de bienes y memoria económica."
+        },
+        {
+          "step": 2,
+          "title": "Ejecución de la enajenación",
+          "description": "Venta de inmuebles, pudiendo ser a la Generalitat con un precio mínimo del 50% de la tasación.",
+          "start_date": null,
+          "end_date": "Plazo de 6 años para alcanzar objetivos de deuda",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

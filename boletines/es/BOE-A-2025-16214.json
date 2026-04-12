@@ -1,0 +1,115 @@
+{
+  "identifier": "BOE-A-2025-16214",
+  "title": "Orden PJC/845/2025, de 29 de julio, por la que se publica el Acuerdo del Consejo de Seguridad Nacional de 14 de julio de 2025, por el que se aprueba la Estrategia de Seguridad Aeroespacial Nacional",
+  "visible_title": "Estrategia de Seguridad Aeroespacial Nacional",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes",
+  "official_number": "PJC/845/2025",
+  "publication_date": "2025-08-05",
+  "enactment_date": "2025-07-29",
+  "last_updated": "2025-08-05",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2025/07/29/pjc845",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "187",
+  "summary": "España lanza una nueva estrategia para proteger de forma conjunta el cielo y el espacio exterior frente a amenazas tecnológicas y geopolíticas. El plan busca blindar infraestructuras críticas como satélites y sistemas de navegación, reduciendo la dependencia de tecnologías extranjeras. Se introducen medidas estrictas para controlar el uso de drones y combatir ataques cibernéticos en el sector aeroespacial. Además, se fomenta la soberanía tecnológica mediante el impulso de la industria nacional de lanzamientos y la gestión de la basura espacial.",
+  "citizen_impact": "El ciudadano verá reforzada la seguridad en el uso de servicios esenciales como el GPS y las comunicaciones satelitales. Asimismo, se endurece el control sobre el uso de drones en entornos urbanos para garantizar la privacidad y la seguridad pública.",
+  "professional_impact": "Las empresas del sector aeroespacial y de drones enfrentan nuevas cargas: deben declarar el origen de sus componentes, integrar la ciberseguridad desde el diseño de sus productos y cumplir con estrictos protocolos de notificación de incidentes. Los operadores de drones deben registrar sus equipos y comunicar operaciones en zonas concurridas.",
+  "keywords": [
+    "seguridad aeroespacial",
+    "seguridad nacional",
+    "drones",
+    "satélites",
+    "ciberseguridad",
+    "New Space",
+    "infraestructuras críticas",
+    "soberanía tecnológica"
+  ],
+  "key_points": [
+    "Unificación de la seguridad aérea y espacial bajo un mismo marco estratégico para mitigar riesgos interconectados.",
+    "Protección prioritaria de servicios esenciales como GPS, comunicaciones satelitales y meteorología.",
+    "Control estricto de drones: obligación de registro para equipos ≥ 250g o con sensores de datos personales y comunicación de vuelos en zonas urbanas.",
+    "Blindaje de la cadena de suministro mediante la obligatoriedad de declarar el origen de los componentes aeroespaciales.",
+    "Creación de un centro de operaciones de ciberseguridad específico para el sector aeroespacial.",
+    "Impulso a la industria nacional de drones, sistemas de contra-drone y capacidad de lanzamiento de cohetes.",
+    "Implementación de requisitos de seguridad desde el diseño en sistemas espaciales y productos digitales críticos.",
+    "Nuevas medidas de sostenibilidad espacial para mitigar la basura espacial mediante diseños que permitan la reentrada controlada.",
+    "Refuerzo de la vigilancia en el 'espacio aéreo superior' (por encima de los 55.000 pies).",
+    "Gestión de amenazas híbridas y ataques cibernéticos bajo el esquema de la Directiva NIS2.",
+    "Regulación de la actividad de actores privados en el sector 'New Space'.",
+    "Protocolos para evitar el uso de vuelos de emergencia médica para eludir controles fronterizos en crisis migratorias."
+  ],
+  "legal_references": [
+    "Ley 36/2015 de Seguridad Nacional",
+    "Real Decreto 158/2023 (Estatuto de la Agencia Espacial Española)",
+    "Real Decreto 517/2024 (Uso civil de drones)",
+    "Real Decreto 524/2022 (Denominación Ejército del Aire y del Espacio)",
+    "Ley 48/1960 de Navegación Aérea",
+    "Ley 21/2003 de Seguridad Aérea",
+    "Reglamento (UE) 2024/2803 (Cielo Único Europeo)",
+    "Reglamento (UE) 2023/203 (PART-IS)",
+    "Reglamentos (UE) 2019/945 y 2019/947 (Drones)",
+    "Reglamento (UE) 2021/664 (U-Space)",
+    "Ley Orgánica 2/1986 de Fuerzas y Cuerpos de Seguridad",
+    "Ley Orgánica 5/2005 de la Defensa Nacional",
+    "Orden PCM/218/2020, de 13 de marzo",
+    "Orden PCM/1067/2022, de 4 de noviembre",
+    "Directiva (UE) 2022/2555 (NIS2)",
+    "Decisión (PESC) 2021/698 del Consejo",
+    "Reglamento sobre la seguridad, resiliencia y sostenibilidad de las actividades espaciales (EU Space Act)",
+    "Directiva CER",
+    "Real Decreto 704/2011",
+    "Esquema Nacional de Seguridad (ENS)"
+  ],
+  "derogations": [],
+  "main_obligations": "Los operadores de drones deben registrar sus equipos (si pesan ≥ 250g o tienen sensores de datos) y comunicar operaciones en entornos urbanos al Ministerio del Interior. Las empresas aeroespaciales deben declarar el origen de sus suministros e integrar la ciberseguridad en el diseño de sus productos y cumplir con la notificación de incidentes bajo la Directiva NIS2.",
+  "effective_date": "2025-08-05",
+  "procedures": [
+    {
+      "name": "Implementación de la Estrategia de Seguridad Aeroespacial Nacional",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación de la Estrategia",
+          "descrption": "El Consejo de Seguridad Nacional aprueba la ESAAN para actualizar la estrategia de 2019.",
+          "start_date": "2025-07-14",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Publicación oficial",
+          "descrption": "Publicación de la orden en el BOE para su conocimiento general.",
+          "start_date": "2025-08-05",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Evaluación y seguimiento de la Estrategia de Seguridad Aeroespacial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Ejecución de líneas de actuación",
+          "description": "Implementación de medidas por parte de los departamentos ministeriales según sus competencias.",
+          "start_date": "2025-08-05",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Evaluación periódica",
+          "description": "El Consejo Nacional de Seguridad Aeroespacial elabora un informe de evaluación de las medidas.",
+          "start_date": "Cada 3 años",
+          "end_date": null,
+          "required_documentation": "Informe de evaluación presentado al Consejo de Seguridad Nacional"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

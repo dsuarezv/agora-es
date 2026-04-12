@@ -1,0 +1,85 @@
+{
+  "identifier": "BOE-A-2019-18623",
+  "title": "Resolución de 20 de diciembre de 2019, de la Dirección de Tráfico, del Departamento de Seguridad, por la que se establecen medidas especiales de regulación de tráfico durante el año 2020 en la Comunidad Autónoma del País Vasco",
+  "visible_title": "Medidas especiales de regulación de tráfico en el País Vasco para 2020",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "BOE-A-2019-18623",
+  "publication_date": "2019-12-28",
+  "enactment_date": "2019-12-20",
+  "last_updated": "2021-02-12",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/res/2019/12/20/(1)",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece restricciones temporales de circulación en el País Vasco para el año 2020 con el fin de garantizar la seguridad y fluidez del tráfico. Regula la prohibición de eventos deportivos en fechas críticas, limita el tránsito de vehículos de transporte de mercancías peligrosas y de vehículos pesados de más de 7.500 kg en días festivos y periodos estivales. Además, define itinerarios obligatorios para mercancías peligrosas y establece excepciones para servicios esenciales.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en lo relativo a posibles molestias por la gestión de eventos deportivos o restricciones de tráfico en vías interurbanas durante festivos.",
+  "professional_impact": "Afecta directamente a empresas de transporte de mercancías peligrosas y de carga pesada (>7.500 kg), quienes deben ajustar sus rutas y horarios de entrega para evitar prohibiciones en días festivos y periodos de vacaciones. Los organizadores de eventos deportivos también deben consultar las fechas restringidas para obtener autorizaciones.",
+  "keywords": [
+    "tráfico",
+    "País Vasco",
+    "restricciones de circulación",
+    "mercancías peligrosas",
+    "transporte de carga",
+    "seguridad vial",
+    "vehículos pesados"
+  ],
+  "key_points": [
+    "Prohibición de circulación de vehículos con mercancías peligrosas los domingos y festivos (8:00 a 24:00) y vísperas de festivos (16:00 a 24:00).",
+    "Restricción de vehículos de más de 7.500 kg de MMA en periodos estivales (6 de junio al 6 de septiembre) en días y horas específicos.",
+    "Obligatoriedad de usar la Red de Itinerarios de Mercancías Peligrosas (RIMP) para ciertos desplazamientos.",
+    "Limitación de eventos deportivos y marchas ciclísticas en vías interurbanas durante fechas de alta ocupación.",
+    "Exenciones para transporte de animales vivos, prensa, correo, servicios de emergencia y productos perecederos.",
+    "Posibilidad de sanciones y retirada de vehículos por parte de la autoridad si incumplen las medidas."
+  ],
+  "legal_references": [
+    "Real Decreto Legislativo 6/2015",
+    "Real Decreto 1428/2003",
+    "Real Decreto 3256/1982",
+    "Decreto 83/2017",
+    "Real Decreto 97/2014",
+    "Real Decreto 2822/1998"
+  ],
+  "derogations": [],
+  "main_obligations": "Los transportistas de mercancías peligrosas y vehículos de más de 7.500 kg deben respetar los horarios y días de prohibición indicados en los anexos. El incumplimiento conlleva sanciones según la Ley de Tráfico y la posible retirada del vehículo.",
+  "effective_date": "2020-01-06",
+  "procedures": [
+    {
+      "name": "Autorización de pruebas deportivas y eventos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Los responsables deben solicitar permiso para eventos que ocupen calzada o arcenes en vías interurbanas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación del evento y detalles de ocupación de vía"
+        },
+        {
+          "step": 2,
+          "title": "Evaluación de seguridad y fluidez",
+          "description": "La autoridad de tráfico verifica si el evento coincide con fechas restringidas o si hay agentes suficientes para la cobertura.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Concesión de autorizaciones especiales de circulación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud por servicio indispensable",
+          "description": "Solicitud para circular en periodos restringidos por motivos de necesidad justificada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Matrícula, características del vehículo, tipo de mercancía y justificación del servicio"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

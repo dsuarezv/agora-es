@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-2014-3719",
+  "title": "Ley 2/2014, de 21 de marzo, de Proyectos Estratégicos, Simplificación Administrativa y Evaluación de los Servicios Públicos de la Comunidad Autónoma de la Región de Murcia",
+  "visible_title": "Ley de Proyectos Estratégicos, Simplificación Administrativa y Evaluación de los Servicios Públicos de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "2/2014",
+  "publication_date": "2014-04-08",
+  "enactment_date": "2014-03-21",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2014/03/21/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca modernizar la administración murciana para reactivar la economía mediante la reducción de trámites y la digitalización. Introduce mecanismos para agilizar proyectos de gran impacto económico y establece un sistema de evaluación para medir la calidad de los servicios públicos. Además, impulsa el uso de medios electrónicos y la interoperabilidad entre administraciones para evitar que los ciudadanos repitan trámites.",
+  "citizen_impact": "Los ciudadanos se benefician de una administración más ágil y digital, con el derecho a no entregar documentos que la Administración ya posea. Se busca reducir los tiempos de espera en trámites y mejorar la calidad de los servicios mediante la evaluación constante de su funcionamiento.",
+  "professional_impact": "Las empresas y autónomos ven reducidas sus cargas burocráticas gracias a la introducción de declaraciones responsables y comunicaciones previas que sustituyen licencias lentas. Se facilita la creación de empresas mediante una unidad administrativa única y se agilizan los trámites ambientales para proyectos industriales.",
+  "keywords": [
+    "simplificación administrativa",
+    "administración electrónica",
+    "proyectos estratégicos",
+    "evaluación de servicios públicos",
+    "gestión pública",
+    "interoperabilidad",
+    "carga administrativa"
+  ],
+  "key_points": [
+    "Sustitución de licencias previas por declaraciones responsables y comunicaciones para agilizar la actividad económica.",
+    "Obligación de la Administración de consultar datos ya existentes en otras bases de datos para no pedirlos al ciudadano.",
+    "Creación de la Comisión de Simplificación para reducir trabas burocráticas de forma continua.",
+    "Implementación obligatoria y progresiva de la administración electrónica en todas las relaciones con empresas.",
+    "Establecimiento de un sistema de evaluación de políticas públicas basado en resultados y calidad.",
+    "Creación del Observatorio de la Calidad de los Servicios para medir la satisfacción ciudadana.",
+    "Agilización de trámites ambientales mediante la unificación de autorizaciones y eliminación de visados innecesarios.",
+    "Creación de una unidad administrativa única para facilitar la creación de empresas."
+  ],
+  "legal_references": [
+    "Ley 11/2007, de 22 de junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos",
+    "Ley 7/2004, de 28 de diciembre, de Organización y Régimen Jurídico de la Administración Pública de la Región de Murcia",
+    "Decreto n.º 286/2010, de 5 de noviembre",
+    "Ley 7/2011, de 26 de diciembre, de Medidas Fiscales y de Fomento Económico en la Región de Murcia",
+    "Decreto n.º 302/2011, de 25 de noviembre",
+    "Ley 30/1992, de 26 de diciembre",
+    "Ley 17/2009, de 23 de noviembre, de la Directiva de Servicios",
+    "Ley 4/2009, de 14 de mayo, de Protección Ambiental Integrada",
+    "Ley 6/2004, de 28 de diciembre, del Estatuto del Presidente y del Consejo de Gobierno de la Región de Murcia",
+    "Ley 22/2011, de 28 de julio, de Residuos y Suelos Contaminados",
+    "Real Decreto 9/2005, de 14 de enero"
+  ],
+  "derogations": [
+    "Título III de la Ley 7/2011, de 26 de diciembre, de Medidas Fiscales y de Fomento Económico en la Región de Murcia"
+  ],
+  "main_obligations": "La Administración tiene la obligación de implantar progresivamente medios electrónicos y garantizar la interoperabilidad. Las consejerías deben realizar auditorías anuales sobre el impacto del uso de medios electrónicos y ejecutar medidas de seguimiento coordinadas.",
+  "effective_date": "2014-04-09",
+  "procedures": [
+    {
+      "name": "Declaración de Proyecto de Interés Estratégico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y requisitos",
+          "description": "Presentación del proyecto cumpliendo los criterios de impacto económico, social y territorial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación técnica y económica que justifique el impacto estratégico."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y resolución",
+          "description": "Procedimiento administrativo con plazos reducidos respecto a la normativa ordinaria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización Ambiental Integrada / Única",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Presentación de la solicitud junto con el proyecto técnico y la cédula de compatibilidad urbanística.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto técnico, cédula de compatibilidad urbanística, estudio de impacto ambiental o memoria ambiental, y documentación de vertidos."
+        },
+        {
+          "step": 2,
+          "title": "Comunicación de modificación no sustancial",
+          "description": "El titular comunica cambios no esenciales; la administración tiene un mes para manifestar oposición.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": "Comunicación de la modificación."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

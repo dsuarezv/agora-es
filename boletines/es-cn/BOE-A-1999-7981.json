@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-1999-7981",
+  "title": "Ley 4/1999, de 15 de marzo, de Patrimonio Histórico de Canarias",
+  "visible_title": "Ley de Patrimonio Histórico de Canarias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "4/1999",
+  "publication_date": "1999-04-09",
+  "enactment_date": "1999-03-15",
+  "last_updated": "2020-01-06",
+  "status": "amended",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/1999/03/15/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas para proteger y gestionar la riqueza cultural, arqueológica y etnográfica de Canarias. Define quién tiene la responsabilidad de cuidar estos bienes (desde la Comunidad Autónoma hasta los Ayuntamientos) y cómo deben intervenirse. Su objetivo es evitar la destrucción del patrimonio y asegurar que los descubrimientos históricos beneficien a la sociedad. Además, regula la actividad de museos y el comercio de objetos históricos para garantizar su conservación.",
+  "citizen_impact": "Si encuentras restos arqueológicos mientras haces una obra, tienes el derecho a recibir un premio del 50% de su valor, pero estás obligado a detener la obra de inmediato. Los propietarios de edificios protegidos deben respetar restricciones estéticas (como no poner antenas o publicidad visible) y solicitar permisos específicos para cualquier reforma. Además, si eres dueño de un bien de interés cultural, debes permitir la visita pública al menos cuatro días al mes.",
+  "professional_impact": "Comerciantes de objetos históricos deben llevar un libro de registro de ventas. Empresas de construcción deben realizar estudios de impacto arqueológico antes de obtener licencias en zonas sensibles. Los técnicos de conservación y restauración son los únicos autorizados para firmar proyectos de intervención en bienes muebles inventariados. Los museos privados deben someterse a inspecciones y permitir el acceso a investigadores.",
+  "keywords": [
+    "patrimonio histórico",
+    "Canarias",
+    "hallazgos arqueológicos",
+    "bienes de interés cultural",
+    "protección de monumentos",
+    "museos",
+    "conservación"
+  ],
+  "key_points": [
+    "Los hallazgos arqueológicos casuales son de dominio público y no pueden ser propiedad privada.",
+    "El descubridor o dueño del terreno tiene derecho a un premio del 50% del valor de lo hallado.",
+    "Se prohíbe instalar cables, antenas o publicidad comercial visible en fachadas de bienes protegidos.",
+    "Cualquier intervención en bienes muebles requiere un proyecto firmado por un técnico titulado en conservación.",
+    "Los comerciantes de bienes históricos están obligados a llevar un libro de registro de transacciones.",
+    "Las obras en Conjuntos Históricos requieren autorización previa del Cabildo Insular hasta que exista un Plan Especial.",
+    "Los bienes de interés cultural deben permitir la visita pública al menos cuatro días al mes.",
+    "Es posible pagar deudas con la Hacienda de Canarias mediante la entrega de bienes históricos (dación en pago).",
+    "Las infracciones graves pueden conllevar multas de hasta 600.000 euros o la obligación de reparar los daños.",
+    "Se crea un fondo del 1% de la inversión pública superior a 50 millones de pesetas para la conservación del patrimonio."
+  ],
+  "legal_references": [
+    "Ley 14/1990, de 26 de febrero, de Régimen Jurídico de las Administraciones Públicas de Canarias",
+    "Ley 16/1985, de 26 de junio, del Patrimonio Histórico Español",
+    "Ley 3/1990, de 22 de febrero, del Patrimonio Documental y Archivos de Canarias",
+    "Ley 2/1987, de 30 de marzo, de la Función Pública canaria",
+    "Artículo 48 de la Ley 4/1999"
+  ],
+  "derogations": [
+    "Ley 4/1999 (derogada parcialmente por la Ley 11/2019, de 25 de abril)"
+  ],
+  "main_obligations": "Ante un hallazgo arqueológico, es obligatorio suspender las obras de inmediato y notificar a la autoridad. Los propietarios de bienes protegidos deben permitir el acceso a inspectores y mantener los restos en su lugar hasta recibir autorización.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Protocolo ante hallazgo casual de restos arqueológicos o paleontológicos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Suspensión inmediata de la actividad",
+          "description": "Detener cualquier obra o actividad que pueda afectar al hallazgo.",
+          "start_date": "En el momento del hallazgo",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Notificación del hallazgo",
+          "description": "Comunicar de forma inmediata el descubrimiento a las autoridades competentes.",
+          "start_date": "Inmediatamente después de la suspensión",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Mantenimiento de los restos",
+          "description": "Conservar los objetos y restos en el lugar exacto del hallazgo sin alterarlos.",
+          "start_date": "Desde el hallazgo",
+          "end_date": "Hasta recibir autorización de la administración",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

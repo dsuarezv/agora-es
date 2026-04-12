@@ -1,0 +1,85 @@
+{
+  "identifier": "BOE-A-2022-6676",
+  "title": "Resolución INT/956/2022, de 4 de abril, por la que se establecen las restricciones a la circulación durante el año 2022",
+  "visible_title": "Restricciones a la circulación de vehículos en Cataluña durante 2022",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "INT/956/2022",
+  "publication_date": "2022-04-26",
+  "enactment_date": "2022-04-04",
+  "last_updated": "2023-01-30",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/res/2022/04/04/int956",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece un calendario de restricciones de circulación para vehículos pesados, de transporte especial y de mercancías peligrosas en la red vial de Cataluña durante el año 2022. El objetivo es garantizar la fluidez del tráfico, la seguridad vial y la movilidad en periodos de alta demanda o festividades. Regula itinerarios obligatorios, horarios prohibidos y excepciones específicas según el tipo de carga y vehículo.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes, salvo por posibles alteraciones en la fluidez del tráfico o cambios en los tiempos de llegada de mercancías y servicios de transporte.",
+  "professional_impact": "Afecta severamente a empresas de transporte de mercancías, conductores de vehículos pesados (>7.500 kg), transportistas de mercancías peligrosas (ADR) y organizadores de eventos deportivos. Obliga a planificar rutas específicas, respetar horarios de prohibición y, en ciertos casos, realizar comunicaciones previas o solicitar autorizaciones para circular en situaciones de urgencia.",
+  "keywords": [
+    "tráfico",
+    "restricciones de circulación",
+    "transporte de mercancías",
+    "vehículos pesados",
+    "mercancías peligrosas",
+    "Cataluña",
+    "seguridad vial",
+    "transporte especial"
+  ],
+  "key_points": [
+    "Prohibición de circular para vehículos de mercancías >7.500 kg en tramos y horarios específicos según el Anexo B.",
+    "Obligatoriedad de usar la red de itinerarios europeos y autopistas para vehículos de paso sin operación de transporte.",
+    "Restricciones adicionales para vehículos de transporte especial y mercancías peligrosas (ADR) en domingos, festivos y túneles críticos (Cadí y Vielha).",
+    "Establecimiento de rutas obligatorias (RIMP) para el transporte de mercancías peligrosas.",
+    "Limitaciones de uso de carriles Bus-VAO en la C-58CC y C-31 norte para ciertos vehículos.",
+    "Restricciones de acceso a Barcelona en días laborables y festivos.",
+    "Prohibición de realizar pruebas deportivas o eventos que ocupen la calzada en tramos y fechas restringidas.",
+    "Exenciones para transporte de productos alimenticios, ganado vivo, basura orgánica, correo y prensa.",
+    "Posibilidad de detención o retirada del vehículo por parte de los Mossos d'Esquadra si se incumple la norma y se causa riesgo grave."
+  ],
+  "legal_references": [
+    "Real decreto legislativo 6/2015 (Ley sobre tráfico, circulación de vehículos a motor y seguridad vial)",
+    "Real decreto 1428/2003 (Reglamento general de circulación)",
+    "Ley 14/1997 de creación del Servicio Catalán de Tráfico",
+    "Resolución INT/741/2011",
+    "Reglamento (CE) 561/2006",
+    "Decreto legislativo 2/2009 (Ley de carreteras)"
+  ],
+  "derogations": [
+    "Resolución INT/332/2021, de 8 de febrero",
+    "Resolución INT/2663/2021, de 25 de agosto",
+    "Resolución INT/2750/2021, de 9 de septiembre"
+  ],
+  "main_obligations": "Los vehículos de transporte de mercancías >7.500 kg deben respetar los horarios y tramos prohibidos detallados en los anexos. Los vehículos ADR deben seguir estrictamente la Red de Itinerarios de Mercancías Peligrosas (RIMP) y los vehículos de transporte especial deben realizar comunicación previa para circular.",
+  "effective_date": "2022-04-30",
+  "procedures": [
+    {
+      "name": "Autorización de transporte urgente o de mercancías peligrosas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "descrption": "Procedimiento online para solicitar permiso de circulación en casos de urgencia o necesidades ineludibles.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Justificación de la necesidad ineludible del desplazamiento"
+        }
+      ]
+    },
+    {
+      "name": "Comunicación previa para transporte especial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de itinerario",
+          "descrption": "Obligación de comunicar previamente el tránsito de vehículos especiales a través de la web de Transit.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

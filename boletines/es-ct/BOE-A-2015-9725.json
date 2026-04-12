@@ -1,0 +1,101 @@
+{
+  "identifier": "BOE-A-2015-9725",
+  "title": "Ley 24/2015, de 29 de julio, de medidas urgentes para afrontar la emergencia en el ámbito de la vivienda y la pobreza energética",
+  "visible_title": "Medidas urgentes contra la emergencia de vivienda y la pobreza energética",
+  "rank": "ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "24/2015",
+  "publication_date": "2015-09-09",
+  "enactment_date": "2015-07-29",
+  "last_updated": "2024-11-16",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/l/2015/07/29/24",
+  "official_journal": "Diari Oficial de la Generalitat de Catalunya",
+  "journal_issue": null,
+  "summary": "Esta ley responde a la crisis de vivienda y pobreza energética en Cataluña mediante la creación de mecanismos para evitar desahucios y cortes de suministros. Introduce procedimientos para resolver el sobreendeudamiento de familias y obliga a grandes tenedores a ofrecer alquileres sociales. Además, busca aumentar el parque de vivienda asequible mediante la cesión de inmuebles vacíos de personas jurídicas.",
+  "citizen_impact": "Las familias en riesgo de exclusión residencial ganan protección frente a desahucios y cortes de luz o agua, con derecho a propuestas de alquiler social y ayudas de emergencia. También se establece un límite para que los gastos de vivienda y suministros no superen el 30% de los ingresos familiares en casos de vulnerabilidad.",
+  "professional_impact": "Los grandes tenedores (bancos, fondos de inversión y personas con más de 10-15 viviendas) asumen la obligación de ofrecer alquileres sociales antes de ejecutar desahucios o ventas. Las empresas suministradoras deben seguir protocolos de comunicación con servicios sociales antes de realizar cortes por impago.",
+  "keywords": [
+    "vivienda",
+    "pobreza energética",
+    "desahucios",
+    "alquiler social",
+    "sobreendeudamiento",
+    "exclusión residencial",
+    "grandes tenedores"
+  ],
+  "key_points": [
+    "Creación de comisiones de sobreendeudamiento para negociar planes de pago extrajudiciales.",
+    "Obligación de ofrecer alquiler social a familias vulnerables antes de proceder a un desahucio o ejecución hipotecaria por parte de grandes tenedores.",
+    "Protección contra cortes de suministros básicos (agua, luz, gas) mediante la intervención de servicios sociales.",
+    "Posibilidad de cesión obligatoria de viviendas vacías propiedad de personas jurídicas para uso de vivienda social por 7 años.",
+    "Límite de gasto en vivienda y suministros del 30% de los ingresos para hogares vulnerables.",
+    "Definición de 'gran tenedor' para aplicar estas obligaciones de forma específica.",
+    "Derecho al realojo adecuado para personas en proceso de desahucio en situación de emergencia social."
+  ],
+  "legal_references": [
+    "Ley 18/2007, de 28 de diciembre, del derecho a la vivienda",
+    "Ley 22/2010, de 20 de julio, del Código de consumo de Cataluña",
+    "Constitución Española",
+    "Estatuto de Autonomía de Cataluña",
+    "Pacto Internacional de Derechos Económicos, Sociales y Culturales (PIDESC)"
+  ],
+  "derogations": [],
+  "main_obligations": "Los grandes tenedores deben ofrecer propuestas de alquiler social con rentas ajustadas a los ingresos de la familia (entre el 10% y 18% según el caso). Las administraciones deben emitir informes de riesgo de exclusión en un plazo de 15 días y garantizar el realojo en casos de emergencia social.",
+  "effective_date": "2015-09-10",
+  "procedures": [
+    {
+      "name": "Procedimiento extrajudicial de sobreendeudamiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud del procedimiento",
+          "description": "El consumidor o sus acreedores solicitan la intervención de la comisión de sobreendeudamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la situación de insolvencia derivada del pago de la vivienda."
+        },
+        {
+          "step": 2,
+          "title": "Gestión por la comisión",
+          "description": "La comisión actúa como mediadora para establecer un plan de pagos o reestructuración de la deuda.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Oferta de alquiler social obligatorio",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comprobación de vulnerabilidad",
+          "description": "El demandante debe requerir información a los afectados para verificar su riesgo de exclusión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación de identidad, ingresos y empadronamiento."
+        },
+        {
+          "step": 2,
+          "title": "Presentación de la propuesta",
+          "description": "El gran tenedor debe presentar una oferta de alquiler social que cumpla los requisitos de renta y ubicación.",
+          "start_date": null,
+          "end_date": "1 mes tras recibir documentación",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Notificación a la Administración",
+          "description": "Se debe comunicar la oferta al Ayuntamiento y a la Agencia de la Vivienda de Cataluña.",
+          "start_date": null,
+          "end_date": "3 días hábiles tras la oferta",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

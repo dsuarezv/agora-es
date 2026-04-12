@@ -1,0 +1,138 @@
+{
+  "identifier": "BOE-A-2018-17064",
+  "title": "Ley 6/2018, de 26 de noviembre, de protección de los animales en la Comunidad Autónoma de La Rioja",
+  "visible_title": "Protección de los animales en La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "6/2018",
+  "publication_date": "2018-12-14",
+  "enactment_date": "2018-11-26",
+  "last_updated": "2023-08-08",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2018/11/26/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un nuevo estándar de bienestar animal en La Rioja, prohibiendo el sacrificio de mascotas salvo por razones sanitarias o de seguridad. Introduce controles estrictos sobre la identificación, esterilización y cuidados de perros, gatos y hurones para evitar el abandono. Además, regula la gestión de centros de acogida y prohíbe prácticas como los espectáculos circenses con animales o la venta ambulante. La norma también endurece las sanciones por maltrato, permitiendo la intervención inmediata de las autoridades.",
+  "citizen_impact": "Los dueños de mascotas deben cumplir con la identificación obligatoria mediante microchip antes de los 3 meses y la esterilización antes del primer celo o al cumplir el año. Se imponen deberes de cuidado como realizar dos paseos diarios y la obligación de comunicar la pérdida o muerte del animal en plazos de 48 horas y 7 días respectivamente. El incumplimiento puede acarrear multas desde 500€ hasta 100.000€.",
+  "professional_impact": "Los centros de acogida y núcleos zoológicos deben cumplir con requisitos de formación específica validada por la Comunidad Autónoma. Los ayuntamientos con más de 10.000 habitantes están obligados a contar con centros de acogida y servicios de recogida 24 horas. Las empresas de espectáculos o venta de animales enfrentan prohibiciones estrictas, y los infractores deberán asumir todos los costes de mantenimiento de los animales intervenidos.",
+  "keywords": [
+    "protección animal",
+    "bienestar animal",
+    "La Rioja",
+    "identificación mascotas",
+    "esterilización",
+    "sanciones maltrato"
+  ],
+  "key_points": [
+    "Prohibición del sacrificio de mascotas salvo por motivos de sanidad, seguridad o sufrimiento irreversible.",
+    "Obligatoriedad de microchip para perros y gatos antes de los 3 meses de edad.",
+    "Obligación de esterilizar perros, gatos y hurones antes del primer celo o al cumplir el año.",
+    "Prohibición de mantener animales atados o encerrados de forma permanente.",
+    "Prohibición de espectáculos circenses con animales y de la venta ambulante de animales.",
+    "Los ayuntamientos de más de 10.000 habitantes deben tener centros de acogida y recogida 24h.",
+    "Sistema de multas: leves (hasta 500€), graves (hasta 5.000€) y muy graves (hasta 100.000€).",
+    "Posibilidad de prohibición de tener animales hasta por 25 años.",
+    "Facultad de la autoridad para el decomiso inmediato de animales ante indicios de maltrato.",
+    "Obligación de los infractores de pagar transporte, depósito y mantenimiento de los animales intervenidos.",
+    "Exigencia de formación específica para el personal de núcleos zoológicos.",
+    "Prohibición de uso de animales en publicidad o cine sin autorización."
+  ],
+  "legal_references": [
+    "Ley 8/2017, de 19 de septiembre, de perros de asistencia de La Rioja",
+    "Constitución Española",
+    "Estatuto de Autonomía de La Rioja",
+    "Tratado de Ámsterdam (Protocolo 33)",
+    "Código Civil",
+    "Ley 5/1995, de 22 de marzo, de Protección de los Animales",
+    "Artículo 10 de la Ley 6/2018",
+    "Artículo 26 de la Ley 6/2018"
+  ],
+  "derogatons": [
+    "Ley 6/2018 (derogada por la Ley 10/2023 el 8 de agosto de 2023)",
+    "Ley 5/1995, de 22 de marzo, de Protección de los Animales"
+  ],
+  "main_obligations": "Los propietarios deben identificar a sus mascotas con microchip antes de los 3 meses y asegurar su esterilización. Es imperativo comunicar la pérdida del animal en 48 horas y su fallecimiento en un plazo de 7 días.",
+  "effective_date": "2018-12-14",
+  "procedures": [
+    {
+      "name": "Gestión de pérdida o extravío de animales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de la pérdida",
+          "descrption": "El propietario debe denunciar la pérdida ante la Administración competente.",
+          "start_date": "Inmediato",
+          "end_date": "48 horas",
+          "required_documentation": "Datos de identificación del animal"
+        },
+        {
+          "step": 2,
+          "title": "Recuperación de animal extraviado con identificación",
+          "descrption": "Plazo para que el propietario recupere al animal tras la notificación.",
+          "start_date": "Desde la notificación",
+          "end_date": "20 días hábiles",
+          "required_documentation": "Tarjeta sanitaria o documento de propiedad y pago de gastos"
+        }
+      ]
+    },
+    {
+      "name": "Gestión de animales abandonados o sin identificar",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recuperación de animal sin identificación",
+          "descrption": "Plazo para acreditar la propiedad y recuperar al animal.",
+          "start_date": "Desde la recogida",
+          "end_date": "8 días hábiles",
+          "required_documentation": "Tarjeta sanitaria o cualquier medio de prueba de titularidad y pago de gastos"
+        }
+      ]
+    },
+    {
+      "name": "Cambio de titularidad de animal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de cambio en el registro",
+          "descrption": "Obligación de inscribir al nuevo propietario en el registro de identificación.",
+          "start_date": "Desde la posesión efectiva",
+          "end_date": "3 días hábiles",
+          "required_documentation": "Documentación de la transacción"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adopción de medidas provisionales",
+          "description": "Retirada inmediata de animales o clausura de instalaciones para evitar daños continuos.",
+          "start_date": "En cualquier momento ante indicios de infracción",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y resolución",
+          "description": "Tramitación según la normativa de la Administración de La Rioja para imponer multas y sanciones accesorias.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Prescripción de la infracción",
+          "description": "Plazo para que la administración pierda la facultad de sancionar según la gravedad.",
+          "start_date": "Desde la comisión de la infracción",
+          "end_date": "1 año (leves), 3 años (graves) o 5 años (muy graves)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

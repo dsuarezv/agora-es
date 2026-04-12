@@ -1,0 +1,110 @@
+{
+  "identifier": "BOE-A-2021-757",
+  "title": "Decreto-ley 46/2020, de 24 de noviembre, de medidas urgentes de carácter administrativo, tributario y de control financiero",
+  "visible_title": "Medidas urgentes de carácter administrativo, tributario y de control financiero",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "46/2020",
+  "publication_date": "2021-01-19",
+  "enactment_date": "2020-11-24",
+  "last_updated": "2024-03-14",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2020/11/24/46",
+  "official_journal": "Diari Oficial de la Generalitat de Catalunya",
+  "journal_issue": null,
+  "summary": "Esta norma agiliza la entrega de ayudas económicas durante la crisis de la COVID-19 mediante la simplificación de trámites y el uso de declaraciones responsables. Introduce mecanismos de inscripción previa para que la administración conozca las necesidades antes de publicar las convocatorias. Además, regula el control financiero posterior para evitar que la burocracia de fiscalización retrase el gasto público urgente y suspende plazos de licencias de juego para proteger al sector de la hostelería.",
+  "citizen_impact": "Facilita el acceso rápido a ayudas extraordinarias mediante la posibilidad de inscribirse previamente y usar declaraciones responsables en lugar de documentos complejos. Sin embargo, la falsedad en los datos aportados conlleva sanciones legales y la pérdida de la ayuda.",
+  "professional_impact": "Las empresas y autónomos se benefician de una tramitación más ágil y de la suspensión de caducidad en licencias de máquinas recreativas. Los funcionarios de la administración pública ven modificados sus procesos de control financiero, pasando de una fiscalización previa a una posterior para ganar velocidad en el gasto.",
+  "keywords": [
+    "ayudas extraordinarias",
+    "COVID-19",
+    "declaración responsable",
+    "control posterior",
+    "gestión financiera",
+    "hostelería",
+    "inscripción previa"
+  ],
+  "key_points": [
+    "Creación de un trámite de inscripción previa de hasta 15 días para conocer potenciales beneficiarios de ayudas antes de su convocatoria.",
+    "Uso de la declaración responsable para acreditar requisitos de ayudas, permitiendo el cobro rápido y la verificación posterior.",
+    "Suspensión de la caducidad de licencias de máquinas recreativas en hostelería hasta el 30 de junio de 2021.",
+    "Implementación del control posterior por parte de la Intervención General para agilizar la ejecución del gasto público.",
+    "Habilitación temporal de funcionarios de otras escalas para reforzar las funciones de intervención financiera.",
+    "Verificación de contratos de emergencia y pagos anticipados realizados durante el año 2020."
+  ],
+  "legal_references": [
+    "Estatuto de la Generalidad",
+    "Ley 13/2008, de 5 de noviembre",
+    "Decreto 114/2020, de 30 de septiembre",
+    "Real decreto 887/2006",
+    "Ley 38/2003, General de subvenciones",
+    "Decreto legislativo 3/2002 (Ley de finanzas públicas de Cataluña)",
+    "Decreto 133/1985",
+    "Decreto-ley 16/2020, de 5 de mayo",
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Ley orgánica 3/2018",
+    "Real decreto 956/2020",
+    "Decreto-ley 8/2020",
+    "Decreto-ley 7/2020"
+  ],
+  "derogations": [
+    "Artículo 4 (Bonificación de concesiones de dominio público para terrazas) - Derogado"
+  ],
+  "main_obligations": "Los solicitantes de ayudas deben aportar información mediante declaración responsable, siendo responsables de su veracidad. La administración realizará verificaciones por muestreo durante un plazo de hasta dos años tras el pago.",
+  "effective_date": "2020-11-25",
+  "procedures": [
+    {
+      "name": "Inscripción previa a ayudas extraordinarias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación de orden de inscripción",
+          "description": "El departamento competente publica una orden con los requisitos mínimos y el objeto de la ayuda.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos requeridos en la orden"
+        },
+        {
+          "step": 2,
+          "title": "Plazo de inscripción",
+          "description": "Periodo para que los interesados se inscriban para ser considerados solicitantes automáticos tras la convocatoria.",
+          "start_date": "Plazo no superior a 15 días naturales",
+          "end_date": "15 días naturales tras la orden",
+          "required_documentation": "Declaración responsable de datos"
+        }
+      ]
+    },
+    {
+      "name": "Concesión de ayudas mediante declaración responsable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y concesión",
+          "description": "Presentación de la solicitud basada en declaración responsable de cumplimiento de requisitos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración responsable"
+        },
+        {
+          "step": 2,
+          "title": "Pago de la ayuda",
+          "description": "La administración efectúa el pago de la ayuda tras la resolución.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Verificación posterior",
+          "description": "Comprobación de la veracidad de los requisitos mediante un plan de actuaciones.",
+          "start_date": "Durante el ejercicio presupuestario posterior",
+          "end_date": null,
+          "required_documentation": "Documentación requerida por el órgano gestor"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

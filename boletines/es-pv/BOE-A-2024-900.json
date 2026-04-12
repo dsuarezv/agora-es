@@ -1,0 +1,163 @@
+{
+  "identifier": "BOE-A-2024-900",
+  "title": "Ley 16/2023, de 21 de diciembre, de la Autoridad Vasca de Protección de Datos",
+  "visible_title": "Ley de la Autoridad Vasca de Protección de Datos",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "16/2023",
+  "publication_date": "2024-01-18",
+  "enactment_date": "2023-12-21",
+  "last_updated": "2024-01-04",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2023/12/21/16",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley transforma la antigua Agencia Vasca en la Autoridad Vasca de Protección de Datos, otorgándole una independencia reforzada y nuevas capacidades de control. El cambio principal es la creación de un organismo con mayor poder para supervisar tanto al sector público vasco como a las empresas privadas que gestionen servicios públicos. La norma agiliza la resolución de quejas mediante plazos estrictos y permite medidas urgentes, como el bloqueo de datos, para proteger la privacidad. Además, establece un sistema de sanciones diferenciado que evita multas económicas a administraciones públicas, sustituyéndolas por medidas correctivas.",
+  "citizen_impact": "El ciudadano gana mayor seguridad y rapidez en la defensa de su privacidad. Si presenta una reclamación, la Autoridad tiene plazos máximos para responder, y si no hay respuesta en 3 meses, la reclamación se admite automáticamente. Además, ante riesgos graves de filtración o uso indebido, la Autoridad puede ordenar el bloqueo inmediato de tus datos para evitar daños mayores.",
+  "professional_impact": "Las empresas que gestionen servicios públicos o actúen como encargadas de tratamiento para el sector público vasco quedan bajo la supervisión directa de esta Autoridad. Las empresas tienen un plazo de solo 15 días para responder a alegaciones tras una reclamación. Para las administraciones públicas, el impacto es de carácter correctivo (apercibimientos) en lugar de multas económicas, pero con una obligación estricta de colaboración.",
+  "keywords": [
+    "protección de datos",
+    "Euskadi",
+    "privacidad",
+    "autoridad de control",
+    "derechos digitales",
+    "sector público vasco"
+  ],
+  "key_points": [
+    "Evolución de Agencia a Autoridad Vasca de Protección de Datos con mayor independencia institucional.",
+    "La Presidencia será elegida por el Parlamento Vasco tras propuesta del Gobierno Vasco para un mandato de 5 años.",
+    "Potestad regulatoria para dictar circulares de obligado cumplimiento.",
+    "Sujeción de entidades privadas que gestionen servicios públicos o actúen como encargadas de tratamiento para el sector público vasco.",
+    "Régimen sancionador diferenciado: las administraciones públicas reciben apercibimientos y medidas correctivas en lugar de multas.",
+    "Admisión automática de reclamaciones si no hay respuesta en un plazo de 3 meses.",
+    "Capacidad de ordenar el bloqueo inmediato de datos como medida cautelar ante riesgos graves.",
+    "Plazo máximo de 6 meses para resolver reclamaciones de derechos.",
+    "Caducidad de los procedimientos sancionadores si no se dicta resolución en 12 meses.",
+    "Posibilidad de archivar reclamaciones si la empresa corrige el error sin perjuicio relevante.",
+    "Creación de cuerpos de funcionarios propios especializados (Jurídico, Sistemas, Traducción, etc.).",
+    "Obligación de colaboración de todas las administraciones, incluyendo haciendas forales."
+  ],
+  "legal_references": [
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales",
+    "Ley Orgánica 7/2021, de 26 de mayo, de protección de datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penales",
+    "Ley 2/2004, de 25 de febrero, de Ficheros de Datos de Carácter Personal de Titularidad Pública",
+    "Decreto 308/2005, de 18 de octubre",
+    "Decreto 309/2005, de 18 de octubre",
+    "Real Decreto Legislativo 5/2015 (Estatuto Básico del Empleado Público)",
+    "Ley 7/2021 de los cuerpos y de las escalas de la Administración de la Comunidad Autónoma de Euskadi"
+  ],
+  "derogatons": [
+    "Ley 2/2004, de 25 de febrero, de Ficheros de Datos de Carácter Personal de Titularidad Pública",
+    "Decreto 308/2005, de 18 de octubre",
+    "Decreto 309/2005, de 18 de octubre"
+  ],
+  "main_obligations": "Las empresas deben responder a las alegaciones de una reclamación en un plazo de 15 días tras ser notificadas. Las administraciones y personas jurídicas tienen el deber de colaborar facilitando datos e informes, mientras que la Autoridad debe resolver sanciones en menos de 12 meses para evitar la caducidad.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Procedimiento de reclamación por ejercicio de derechos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Examen de competencia y naturaleza del tratamiento",
+          "description": "La Autoridad verifica si es competente y si el tratamiento es trasfronterizo.",
+          "start_date": "Desde la recepción de la reclamación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Traslado al responsable o encargado",
+          "description": "Se comunica la reclamación para que el responsable realice alegaciones.",
+          "start_date": "Tras verificar competencia",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de la reclamación",
+          "description": "Plazo máximo para resolver la reclamación sobre el ejercicio de derechos.",
+          "start_date": "Tras el traslado o respuesta",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación del procedimiento",
+          "description": "Apertura de expediente de oficio o por requerimiento de otra autoridad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Reclamación por ejercicio de derechos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Admisión a trámite",
+          "description": "Decisión de la Autoridad sobre si la reclamación procede o no.",
+          "start_date": "Desde la recepción de la reclamación",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Traslado al responsable",
+          "description": "Se envía la reclamación a la empresa para que alegue lo que considere.",
+          "start_date": "Tras la admisión",
+          "end_date": "15 días",
+          "required_documentation": "Alegaciones del responsable"
+        },
+        {
+          "step": 3,
+          "title": "Instrucción y resolución",
+          "description": "Fase de pruebas, informes y audiencia para dictar la decisión final.",
+          "start_date": "Tras recibir alegaciones",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Actuaciones de investigación",
+          "description": "Investigación previa para determinar hechos y circunstancias.",
+          "start_date": "Desde el acuerdo de admisión",
+          "end_date": "18 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Inicio del procedimiento sancionador",
+          "description": "Dictado del acuerdo de inicio tras la investigación.",
+          "start_date": "Tras concluir investigación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución final",
+          "description": "Dictado de la resolución definitiva; si se supera el plazo, el proceso caduca.",
+          "start_date": "Desde el acuerdo de inicio",
+          "end_date": "12 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

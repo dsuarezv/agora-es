@@ -1,0 +1,86 @@
+{
+  "identifier": "BOE-A-2022-10454",
+  "title": "Ley 3/2022, de 18 de mayo, por la que se aprueba el Plan Asturiano de Estadística 2022-2025",
+  "visible_title": "Plan Asturiano de Estadística 2022-2025",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "3/2022",
+  "publication_date": "2022-06-24",
+  "enactment_date": "2022-05-18",
+  "last_updated": "2022-05-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2022/05/18/3",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta norma establece la estrategia de recogida y gestión de datos en Asturias para los próximos años. Su objetivo es modernizar la administración mediante la digitalización y el uso de datos ya existentes para evitar duplicidades. El plan prioriza la creación de estadísticas con perspectiva de género y edad para entender mejor la realidad social. Además, busca monitorizar indicadores críticos como el consumo de drogas, el mercado laboral y el medio ambiente para diseñar mejores políticas públicas.",
+  "citizen_impact": "Aunque no altera trámites personales directos, mejora la calidad de los servicios públicos al basar las decisiones gubernamentales en datos reales sobre empleo, salud y medio ambiente. La protección de la privacidad está garantizada mediante el secreto estadístico.",
+  "professional_impact": "Las entidades de tratamiento de adicciones (públicas o privadas) y las empresas con establecimientos productivos asumen la carga de suministrar datos específicos para la contabilidad regional y el seguimiento de indicadores de salud y economía.",
+  "keywords": [
+    "estadística",
+    "Asturias",
+    "datos administrativos",
+    "políticas públicas",
+    "perspectiva de género",
+    "consumo de drogas",
+    "mercado laboral"
+  ],
+  "key_points": [
+    "Vigencia del plan desde el 1 de enero de 2022 hasta el 31 de diciembre de 2025.",
+    "Obligatoriedad de suministro de datos para los sujetos identificados en el Anexo V.",
+    "Garantía de confidencialidad mediante el secreto estadístico para toda la información recogida.",
+    "Prioridad en la recogida de datos aprovechando la información administrativa ya existente.",
+    "Inclusión obligatoria de perspectiva de género y edad en estadísticas sociales y demográficas.",
+    "Monitorización bienal del consumo de drogas en estudiantes de ESO, Bachillerato y FP.",
+    "Obligación de entidades de tratamiento de adicciones de suministrar datos sobre sus usuarios.",
+    "Seguimiento anual de mortalidad y urgencias hospitalarias relacionadas con sustancias psicoactivas.",
+    "Publicación mensual de datos de empleo (paro, contratación y afiliación) con desglose detallado.",
+    "Control estadístico de la siniestralidad laboral y enfermedades profesionales.",
+    "Recopilación de datos ambientales sobre incendios, calidad del aire y emisiones de gases.",
+    "Posibilidad de añadir nuevas actividades estadísticas mediante decreto del Consejo de Gobierno."
+  ],
+  "legal_references": [
+    "Ley del Principado de Asturias 7/2006, de 3 de noviembre, de Estadística",
+    "Ley del Principado de Asturias 19/2013, de 9 de diciembre, de Transparencia, Acceso a la Información Pública y Buen Gobierno",
+    "Estatuto de Autonomía del Principado de Asturias",
+    "Código de Buenas Prácticas de las Estadísticas Europeas",
+    "Real Decreto 1299/2006, de 10 de noviembre"
+  ],
+  "derogations": [],
+  "main_obligations": "Los sujetos identificados en el Anexo V deben suministrar la información requerida. Las entidades de tratamiento de adicciones están obligadas a reportar datos para el Observatorio Español de las Drogas y las Adicciones, y las empresas con centros productivos deben aportar datos para la contabilidad regional.",
+  "effective_date": "2022-06-25",
+  "procedures": [
+    {
+      "name": "Ciclo de vida del Plan Asturiano de Estadística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Ejecución del Plan",
+          "description": "Desarrollo de las actividades estadísticas programadas anualmente.",
+          "start_date": "2022-01-01",
+          "end_date": "2025-12-31",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Evaluación preliminar",
+          "description": "Elaboración de un informe de evaluación tras el tercer año de vigencia.",
+          "start_date": "6 meses tras finalizar el tercer año",
+          "end_date": null,
+          "required_documentation": "Informe de evaluación preliminar"
+        },
+        {
+          "step": 3,
+          "title": "Evaluación final",
+          "description": "Informe de evaluación del cumplimiento de los objetivos del plan.",
+          "start_date": "6 meses tras la finalización de la vigencia",
+          "end_date": null,
+          "required_documentation": "Informe de evaluación final"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

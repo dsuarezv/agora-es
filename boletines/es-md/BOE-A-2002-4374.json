@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-2002-4374",
+  "title": "Ley 11/2001, de 19 de diciembre, de Uniones de Hecho de la Comunidad de Madrid",
+  "visible_title": "Ley de Uniones de Hecho de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "11/2001",
+  "publication_date": "2002-03-05",
+  "enactment_date": "2001-12-19",
+  "last_updated": "2024-12-26",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2001/12/19/11",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley reconoce legalmente a las parejas que conviven de forma estable y pública en la Comunidad de Madrid sin estar casadas. Su objetivo es dotar de seguridad jurídica a estas uniones, permitiéndoles inscribirse en un registro oficial. Con este reconocimiento, las parejas acceden a beneficios similares a los del matrimonio en el ámbito de la administración autonómica.",
+  "citizen_impact": "Permite a las parejas de hecho obtener un reconocimiento oficial de su relación, lo que les otorga derechos en materia de subvenciones, tributos y beneficios de la función pública madrileña. Para ello, deben cumplir con un requisito de convivencia mínima de 12 meses empadronados en el mismo domicilio.",
+  "professional_impact": "Los funcionarios de la Comunidad de Madrid deben aplicar los mismos beneficios que a los matrimonios a las parejas inscritas. La administración debe gestionar el Registro de Uniones de Hecho y tramitar los expedientes de inscripción y cancelación según la normativa.",
+  "keywords": [
+    "uniones de hecho",
+    "parejas de hecho",
+    "Comunidad de Madrid",
+    "registro de uniones de hecho",
+    "convivencia estable",
+    "derechos de pareja"
+  ],
+  "key_points": [
+    "Requisito de convivencia mínima de 12 meses ininterrumpidos en el mismo domicilio.",
+    "Es obligatorio estar empadronado en la Comunidad de Madrid para que la ley sea aplicable.",
+    "La unión debe ser libre, pública y notoria para ser reconocida.",
+    "Se prohíbe la inscripción a menores no emancipados, personas con discapacidad sin capacidad de consentimiento, personas casadas no separadas y parientes cercanos.",
+    "La unión se extingue por mutuo acuerdo, decisión unilateral, muerte, separación de hecho superior a 6 meses o matrimonio de uno de los miembros.",
+    "Los beneficios en la función pública madrileña son equivalentes a los de los matrimonios.",
+    "Se reconoce la validez de certificados de convivencia de otras Comunidades Autónomas o países de la UE para acreditar el tiempo de convivencia."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de la Comunidad de Madrid",
+    "Constitución Española",
+    "Resolución de 8 de febrero de 1994 del Parlamento Europeo",
+    "Decreto 36/1995 de la Comunidad de Madrid",
+    "Orden 827/1995 de la Consejería de Integración Social"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": "Para obtener el reconocimiento, los interesados deben acreditar la convivencia de 12 meses mediante el certificado de empadronamiento conjunto. La inscripción solo surte efectos desde la fecha de su registro oficial.",
+  "effective_date": "2002-03-06",
+  "procedures": [
+    {
+      "name": "Inscripción en el Registro de Uniones de Hecho",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de requisitos",
+          "description": "Presentación de expediente para demostrar la convivencia estable, pública y notoria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado de empadronamiento de ambos miembros en el mismo domicilio durante los 12 meses anteriores a la solicitud."
+        },
+        {
+          "step": 2,
+          "title": "Expediente contradictorio",
+          "description": "Tramitación del expediente ante el Encargado del Registro para validar la información.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Inscripción y certificación",
+          "description": "Efectivización de la unión en el registro y emisión de la certificación oficial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Extinción de la unión",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de extinción",
+          "description": "Comunicación de la decisión unilateral o de común acuerdo para cancelar la unión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Cancelación registral",
+          "description": "El Encargado del Registro procede a la cancelación y comunica a la otra parte.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

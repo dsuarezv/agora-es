@@ -1,0 +1,88 @@
+{
+  "identifier": "BOE-A-2011-10541",
+  "title": "Ley 5/2010, de 27 de diciembre, de medidas extraordinarias para la sostenibilidad de las finanzas públicas",
+  "visible_title": "Medidas extraordinarias para la sostenibilidad de las finanzas públicas",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "5/2010",
+  "publication_date": "2011-06-17",
+  "enactment_date": "2010-12-27",
+  "last_updated": "2023-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2010/12/27/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley implementa un plan de choque para reducir el déficit público de la Región de Murcia mediante el recorte de gastos y el aumento de ingresos. Se centra principalmente en la contención del gasto de personal en los sectores de administración, educación y sanidad. Además, busca la reestructuración del sector público regional y la optimización del patrimonio inmobiliario para garantizar la estabilidad financiera.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en la posible percepción de la calidad de los servicios públicos debido a la optimización de recursos.",
+  "professional_impact": "Afecta drásticamente a los empleados públicos de la Región de Murcia, especialmente en sanidad y educación, mediante la reducción de la jornada laboral, la congelación de subidas salariales y la modificación de complementos retributivos. También impone mayores controles de absentismo y nuevas reglas para la gestión de horas extraordinarias.",
+  "keywords": [
+    "sostenibilidad financiera",
+    "reducción de déficit",
+    "gasto público",
+    "personal estatutario",
+    "sector público regional",
+    "ajuste presupuestario",
+    "Región de Murcia"
+  ],
+  "key_points": [
+    "Reducción de la jornada laboral semanal a 36 horas y 30 minutos para personal de administración y servicios.",
+    "Congelación de subidas salariales, limitándolas al incremento general del Estado.",
+    "Eliminación del pago de horas extraordinarias en 2011, sustituyéndolas por descansos compensatorios.",
+    "Reducción del 5% en los complementos de atención continuada y turnicidad en el sector sanitario.",
+    "Mandato para reducir el número de entidades del sector público regional hasta un máximo del 30% de las existentes.",
+    "Implementación de un programa estricto de control del absentismo laboral.",
+    "Facultad para enajenar inmuebles públicos con reserva de uso temporal para la Administración.",
+    "Obligación de reducir la financiación de la Televisión Autonómica de la Región de Murcia en un 80%."
+  ],
+  "legal_references": [
+    "Ley 3/1992, de 30 de julio, de Patrimonio de la Comunidad Autónoma de la Región de Murcia",
+    "Real Decreto-ley 8/2010, de 20 de mayo",
+    "Ley 55/2003, de 16 de diciembre, del Estatuto Marco",
+    "Ley 4/2010, de 27 de diciembre, de Presupuestos Generales de la Comunidad Autónoma de la Región de Murcia",
+    "Estatuto de Autonomía de la Región de Murcia"
+  ],
+  "derogations": [
+    "Acuerdos sindicales y pactos de condiciones de trabajo que contravengan las medidas de contención de gasto de esta ley"
+  ],
+  "main_obligations": "Los empleados públicos deben registrar obligatoriamente sus entradas y salidas. Las unidades del sector público deben solicitar autorización previa para gastos contractuales o subvenciones que superen los 60.000 euros.",
+  "effective_date": "2011-01-01",
+  "procedures": [
+    {
+      "name": "Reducción del número de entidades del sector público",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de reducción",
+          "descrption": "Cada consejero debe proponer la relación de unidades a extinguir y el plazo para ello.",
+          "start_date": "2011-01-01",
+          "end_date": "2011-03-01",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comunicación a la Asamblea Regional",
+          "descrption": "Comunicación de los acuerdos del Consejo de Gobierno sobre la reducción de entidades.",
+          "start_date": "2011-03-01",
+          "end_date": "2011-03-31",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Control de absentismo laboral",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Ejecución del programa de control",
+          "descrption": "Puesta en funcionamiento del programa de gestión, inspección y control de ausencias.",
+          "start_date": "2011-01-01",
+          "end_date": "2011-05-31",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

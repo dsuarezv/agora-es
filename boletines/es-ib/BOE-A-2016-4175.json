@@ -1,0 +1,83 @@
+{
+  "identifier": "BOE-A-2016-4175",
+  "title": "Ley 2/2016, de 30 de marzo, del impuesto sobre estancias turísticas en las Illes Balears y de medidas de impulso del turismo sostenible",
+  "visible_title": "Impuesto sobre estancias turísticas en las Illes Balears",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "2/2016",
+  "publication_date": "2016-05-02",
+  "enactment_date": "2016-03-30",
+  "last_updated": "2025-05-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2016/03/30/2",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley crea un impuesto específico para los turistas que visitan las Islas Baleares con el fin de financiar la sostenibilidad del archipiélago. El dinero recaudado se destina íntegramente a un fondo para proteger el medio ambiente, mejorar la infraestructura y fomentar un turismo de mayor calidad. Busca compensar el impacto social y ambiental que genera la actividad turística masiva.",
+  "citizen_impact": "Los turistas que se alojen en hoteles, apartamentos turísticos, viviendas de uso turístico o cruceros deberán pagar una tasa diaria adicional. El coste varía según el tipo de alojamiento, pero se reduce a la mitad si se viaja en temporada baja o si la estancia supera los ocho días.",
+  "professional_impact": "Los empresarios del sector turístico (hoteles, agencias, propietarios de viviendas turísticas) actúan como sustitutos, lo que les obliga a recaudar el impuesto, emitir justificantes y presentar declaraciones trimestrales o anuales ante la Agencia Tributaria de Baleares. También asumen la responsabilidad de gestionar la liquidación y el cobro de este tributo.",
+  "keywords": [
+    "impuesto turístico",
+    "Illes Balears",
+    "turismo sostenible",
+    "tasas turísticas",
+    "medio ambiente",
+    "alojamiento turístico"
+  ],
+  "key_points": [
+    "Creación de un impuesto directo por estancia en establecimientos turísticos y cruceros.",
+    "El impuesto se aplica incluso si no hay pernoctación (estancias de día).",
+    "Bonificación del 75% en la cuota para estancias en temporada baja (noviembre a abril).",
+    "Bonificación del 50% para estancias que superen los ocho días consecutivos.",
+    "Los ingresos se destinan exclusivamente al Fondo para Favorecer el Turismo Sostenible.",
+    "Se incluyen en el impuesto las viviendas turísticas, incluso las que no cumplan la normativa oficial.",
+    "Las tarifas diarias oscilan entre 0,25 y 2 euros según la categoría del establecimiento."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de las Illes Balears",
+    "Ley 58/2003, General Tributaria",
+    "Ley 8/2012, del Turismo de las Illes Balears",
+    "Ley 2/1999, General Turística de las Illes Balears",
+    "Ley 2/2005, de Comercialización de Estancias Turísticas en Viviendas",
+    "Reglamento (UE) número 1177/2010"
+  ],
+  "derogatations": [
+    "Normas de igual o inferior rango que se opongan a lo dispuesto en esta ley"
+  ],
+  "main_obligations": "Los empresarios turísticos deben recaudar el impuesto, expedir justificantes de cobro y presentar autoliquidaciones trimestrales (estimación directa) o anuales (estimación objetiva). El incumplimiento de estas obligaciones conlleva sanciones según la Ley General Tributaria.",
+  "effective_date": "2016-07-01",
+  "procedures": [
+    {
+      "name": "Liquidación del Impuesto sobre Estancias Turísticas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Devengo del impuesto",
+          "description": "El impuesto se genera al inicio de cada estancia, computada por días o fracciones.",
+          "start_date": "2016-07-01",
+          "end_date": null,
+          "required_documentation": "Documento de alojamiento o contrato de transporte con alojamiento"
+        },
+        {
+          "step": 2,
+          "title": "Exigencia al contribuyente",
+          "description": "El empresario debe cobrar el impuesto al cliente en cualquier momento antes de finalizar la estancia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Presentación de autoliquidaciones",
+          "description": "Presentación trimestral de la liquidación para el régimen de estimación directa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Modelos de autoliquidación oficiales"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

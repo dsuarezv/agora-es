@@ -1,0 +1,85 @@
+{
+  "identifier": "BOE-A-1995-17372",
+  "title": "Ley 14/1995, de 21 de abril, de Incompatibilidades de Altos Cargos de la Comunidad de Madrid",
+  "visible_title": "Ley de Incompatibilidades de Altos Cargos de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "14/1995",
+  "publication_date": "1995-07-18",
+  "enactment_date": "1995-04-21",
+  "last_updated": "2022-12-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/1995/04/21/14",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece el régimen de incompatibilidades y control de intereses para los altos cargos de la Comunidad de Madrid. Su objetivo es garantizar la transparencia y la imparcialidad en la gestión pública, evitando conflictos de intereses entre la actividad política y la privada. Para ello, obliga a los cargos a declarar sus bienes y sus actividades profesionales.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, más allá de la garantía de mayor transparencia y ética en la gestión de los recursos públicos de su comunidad.",
+  "professional_impact": "Afecta directamente a directivos y altos cargos de la administración autonómica, quienes deben cumplir con estrictas obligaciones de transparencia. Les impone la prohibición de ejercer actividades privadas incompatibles, la obligación de declarar su patrimonio y la gestión obligatoria de sus inversiones financieras a través de terceros para evitar conflictos de interés.",
+  "keywords": [
+    "incompatibilidades",
+    "altos cargos",
+    "transparencia",
+    "comunidad de madrid",
+    "conflicto de intereses",
+    "declaración de bienes",
+    "administración pública"
+  ],
+  "key_points": [
+    "Obligación de realizar una declaración de actividades en los dos meses siguientes al nombramiento.",
+    "Obligación de presentar una declaración de bienes, derechos y obligaciones al entrar y cesar en el cargo.",
+    "Prohibición de realizar actividades privadas relacionadas con expedientes en los que se haya dictado resolución durante los dos años posteriores al cese.",
+    "Los altos cargos con competencias reguladoras deben delegar la gestión de sus valores financieros en una entidad profesional.",
+    "Se prohíbe la percepción de otras remuneraciones públicas o privadas, salvo excepciones específicas como la docencia o la creación artística.",
+    "Creación de dos registros específicos: el de Actividades y el de Bienes y Derechos Patrimoniales.",
+    "Obligación de inhibirse de asuntos donde tengan interés personal o de familiares hasta el segundo grado."
+  ],
+  "legal_references": [
+    "Ley 7/1984, de 14 de marzo",
+    "Decreto 63/1985, de 5 de junio",
+    "Ley 30/1992"
+  ],
+  "derogations": [
+    "Ley 7/1984, de 14 de marzo, de Incompatibilidades de los miembros del Consejo de Gobierno y Altos Cargos de la Administración de la Comunidad de Madrid"
+  ],
+  "main_obligations": "Los altos cargos deben declarar sus actividades en un plazo de 2 meses tras el nombramiento y presentar anualmente su declaración de la renta antes del 30 de noviembre. Asimismo, deben declarar la totalidad de sus bienes al inicio y fin de su gestión.",
+  "effective_date": "1995-07-18",
+  "procedures": [
+    {
+      "name": "Declaración de Actividades",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración",
+          "description": "Presentar la declaración comprensiva de actividades realizadas durante el último año ante el Registro de Actividades.",
+          "start_date": "Desde el nombramiento",
+          "end_date": "2 meses tras el nombramiento",
+          "required_documentation": "Relación de actividades desempeñadas por cuenta propia o ajena"
+        }
+      ]
+    },
+    {
+      "name": "Declaración de Bienes y Derechos Patrimoniales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración inicial y de cese",
+          "description": "Presentar la declaración de bienes, derechos y obligaciones al asumir y dejar el cargo.",
+          "start_date": "Fecha de nombramiento/cese",
+          "end_date": "2 meses tras el nombramiento o cese",
+          "required_documentation": "Copia de la última declaración de IRPF y del impuesto sobre el patrimonio"
+        },
+        {
+          "step": 2,
+          "title": "Declaración anual",
+          "description": "Presentar copia de las declaraciones tributarias anuales.",
+          "start_date": "Anualmente",
+          "end_date": "30 de noviembre",
+          "required_documentation": "Declaración de IRPF y patrimonio"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

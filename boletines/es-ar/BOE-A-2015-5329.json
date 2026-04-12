@@ -1,0 +1,249 @@
+{
+  "identifier": "BOE-A-2015-5329",
+  "title": "Ley 5/2015, de 25 de marzo, de Subvenciones de Aragón",
+  "visible_title": "Ley de Subvenciones de Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "5/2015",
+  "publication_date": "2015-05-14",
+  "enactment_date": "2015-03-25",
+  "last_updated": "2023-05-15",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2015/03/25/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley unifica y moderniza las reglas para solicitar, recibir y justificar ayudas públicas en Aragón. Su objetivo es hacer el proceso más ágil mediante la digitalización y evitar que los ciudadanos entreguen papeles que la Administración ya tiene. Además, establece controles estrictos sobre cómo se gasta el dinero y endurece las sanciones, permitiendo que la responsabilidad por multas pueda recaer directamente sobre los administradores o socios de una empresa en caso de fraude o incumplimiento.",
+  "citizen_impact": "Facilita la gestión de ayudas al crear un Registro de Beneficiarios que evita pedir documentación ya aportada en los últimos 4 años. Sin embargo, exige una vigilancia estricta: si recibes una ayuda, debes avisar de cualquier cambio en tu actividad en menos de un mes y asegurar que los bienes comprados se mantengan para el fin previsto durante 2 o 5 años.",
+  "professional_impact": "Las empresas y entidades deben cumplir con límites estrictos de subcontratación (máximo 50% del importe) y protocolos de justificación telemática. Los administradores de sociedades asumen un riesgo mayor, ya que pueden responder con su patrimonio de forma subsidiaria o solidaria ante sanciones por incumplimientos de la entidad.",
+  "keywords": [
+    "subvenciones",
+    "Aragón",
+    "ayudas públicas",
+    "justificación de gastos",
+    "concurrencia competitiva",
+    "sanciones administrativas",
+    "responsabilidad de administradores"
+  ],
+  "key_points": [
+    "Creación de un Registro de Beneficiarios para no exigir documentación ya aportada en un plazo de 4 años.",
+    "Introducción de la 'convocatoria abierta' para realizar múltiples procesos de selección en un mismo año.",
+    "Posibilidad de usar procedimientos de concurrencia competitiva simplificados por fecha o criterios automáticos.",
+    "Obligación de comunicar cualquier cambio en la actividad subvencionada en un plazo de un mes.",
+    "Límite de subcontratación de la actividad subvencionada al 50% del importe, salvo que las bases digan otra cosa.",
+    "Requisito de contrato escrito y autorización previa si la subcontratación supera el 20% y es mayor de 60.000€.",
+    "Prohibición de subcontratar a personas vinculadas al beneficiario, salvo a precio de mercado y con autorización.",
+    "Obligatoriedad de usar tasadores independientes para la compra de bienes inmuebles con fondos públicos.",
+    "Los bienes adquiridos deben destinarse al fin previsto al menos 2 o 5 años según su inscripción en registro.",
+    "Responsabilidad subsidiaria de administradores y solidaridad de socios en caso de disolución de la sociedad.",
+    "El Gobierno de Aragón puede actualizar las cuantías de las sanciones sin necesidad de una nueva ley.",
+    "Aplicación del principio de favorabilidad: se aplicará la norma sancionadora más beneficiosa para el ciudadano."
+  ],
+  "legal_references": [
+    "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+    "Estatuto de Autonomía de Aragón",
+    "Decreto Legislativo 2/2023, de 3 de mayo",
+    "Ley 4/1998, de 8 de abril, de Medidas Fiscales, Financieras, de Patrimonio y Administrativas",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Decreto Legislativo 1/2000, de 25 de marzo, Texto Refundido de la Ley de Hacienda de la Comunidad Autónoma de Aragón",
+    "Tratado de la Unión Europea (artículos 87 y 89)",
+    "Ley 11/2009, de 30 de diciembre, de la Cámara de Cuentas de Aragón",
+    "Ley Orgánica 2/1982, de 12 de mayo, del Tribunal de Cuentas",
+    "Ley 7/1988, de 5 de abril, de funcionamiento del Tribunal de Cuentas"
+  ],
+  "derogations": [
+    "Artículo 18 de la Ley 4/1998, de 8 de abril, de Medidas Fiscales, Financieras, de Patrimonio y Administrativas"
+  ],
+  "main_obligations": "Los beneficiarios deben presentar la cuenta justificativa en el plazo de las bases (máximo 3 meses si no se especifica) y comunicar cambios en la actividad en un mes. Es imperativo conservar los originales de todos los documentos de gasto y no superar el 80% de financiación pública sobre el coste total.",
+  "effective_date": "2023-05-16",
+  "procedures": [
+    {
+      "name": "Concurrencia Competitiva (Ordinario)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "descrption": "Publicación de la convocatoria en el BOA y portales electrónicos.",
+          "start_date": "Fecha de publicación",
+          "end_date": null,
+          "required_documentation": "Documentación especificada en la convocatoria"
+        },
+        {
+          "step": 2,
+          "title": "Presentación de solicitudes",
+          "descrption": "Entrega de la solicitud y documentos mediante sede electrónica.",
+          "start_date": "Plazo fijado en la convocatoria",
+          "end_date": "Plazo fijado en la convocatoria",
+          "required_documentation": "Modelos normalizados y documentos acreditativos"
+        },
+        {
+          "step": 3,
+          "title": "Instrucción y valoración",
+          "descrption": "Comprobación de datos y evaluación por una comisión técnica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Propuesta de resolución",
+          "descrption": "Traslado al interesado para audiencia (5 días) y propuesta definitiva.",
+          "start_date": "5 días tras la propuesta",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Resolución",
+          "descrption": "Dictado de la resolución definitiva en un plazo máximo de 3 meses.",
+          "start_date": null,
+          "end_date": "3 meses desde la publicación o fin de plazo de solicitud",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Concesión Directa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud o Iniciación de oficio",
+          "descrption": "Presentación de la petición o inicio por parte de la administración.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aceptación",
+          "descrption": "El beneficiario debe aceptar la resolución en un plazo de 15 días.",
+          "start_date": "Desde la notificación",
+          "end_date": "15 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de subvención de concesión directa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El interesado inicia el trámite ante la administración.",
+          "start_date": "Fecha de presentación",
+          "end_date": null,
+          "required_documentation": "Documentación requerida en la convocatoria"
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "description": "Plazo máximo para resolver la solicitud.",
+          "start_date": "Fecha de presentación",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Justificación de la subvención",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la cuenta justificativa",
+          "description": "Acreditación del gasto y cumplimiento de objetivos.",
+          "start_date": "Finalización del plazo de la actividad",
+          "end_date": "3 meses (si no hay plazo fijado en bases)",
+          "required_documentation": "Facturas, justificantes de pago, estados contables o informes de auditoría"
+        },
+        {
+          "step": 2,
+          "title": "Subsanación de defectos",
+          "description": "Plazo para corregir errores en la documentación presentada.",
+          "start_date": "Notificación de defectos",
+          "end_date": "10 días",
+          "required_documentation": "Documentación subsanada"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Reintegro",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación del expediente",
+          "description": "Se inicia de oficio o por denuncia ante incumplimientos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "description": "Plazo máximo para dictar la resolución del reintegro.",
+          "start_date": "Inicio del procedimiento",
+          "end_date": "12 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación",
+          "description": "Instrucción de la infracción administrativa detectada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador de subvenciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Expediente administrativo",
+          "description": "Tramitación de la posible infracción mediante expediente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Audiencia al interesado",
+          "description": "Se debe dar la oportunidad al interesado de defenderse antes de dictar la sanción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Acuerdo de sanción",
+          "description": "Resolución final del expediente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación de bases reguladoras",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo de adecuación",
+          "description": "Las bases publicadas anteriormente deben ajustarse a la nueva ley.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

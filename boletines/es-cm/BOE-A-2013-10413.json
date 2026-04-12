@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-2013-10413",
+  "title": "Ley 2/2013, de 25 de abril, del juego y las apuestas de Castilla-La Mancha",
+  "visible_title": "Ley del juego y las apuestas de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Junta de Comunidades de Castilla-La Mancha",
+  "official_number": "2/2013",
+  "publication_date": "2013-10-07",
+  "enactment_date": "2013-04-25",
+  "last_updated": "2021-07-30",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2013/04/25/2",
+  "official_journal": "Boletín Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta norma regula todas las actividades de juego y apuestas en Castilla-La Mancha, adaptándose a la era digital y tecnológica. Su objetivo es garantizar la seguridad jurídica de los operadores y proteger a los jugadores, especialmente a los colectivos de riesgo. Establece un marco de control administrativo, un régimen de licencias y un sistema de sanciones para combatir el juego ilegal.",
+  "citizen_impact": "Protege al ciudadano mediante la promoción del juego responsable y la prohibición de acceso a menores o personas con prohibición judicial. También garantiza derechos como el cobro de premios y el acceso a información clara sobre los juegos.",
+  "professional_impact": "Las empresas del sector deben cumplir con requisitos estrictos de autorización, registro y pago de tasas. Se simplifican trámites mediante la declaración responsable para renovaciones y se establece un régimen de silencio administrativo positivo para las autorizaciones.",
+  "keywords": [
+    "juego y apuestas",
+    "Castilla-La Mancha",
+    "juego responsable",
+    "autorización administrativa",
+    "casinos",
+    "bingo",
+    "loterías",
+    "sanciones"
+  ],
+  "key_points": [
+    "Introducción del concepto de 'juego responsable' como mandato para la Administración y los operadores.",
+    "Simplificación administrativa: las renovaciones de autorizaciones pueden hacerse mediante declaración responsable.",
+    "Cambio de silencio administrativo: de negativo a positivo en los procedimientos de autorización.",
+    "Creación de un Registro General de juegos y apuestas con inscripción de oficio por la Administración.",
+    "Regulación específica para juegos a través de canales electrónicos, informáticos y telemáticos.",
+    "Establecimiento de un régimen de tasas para cubrir los servicios de control y supervisión.",
+    "Clasificación de infracciones en leves, graves y muy graves con multas de hasta 600.000 euros."
+  ],
+  "legal_references": [
+    "Ley 4/1999, de 31 de marzo, del Juego de Castilla-La Mancha",
+    "Ley 13/2011, de 27 de mayo, de Regulación del Juego",
+    "Ley 30/1992, de 26 de mayo, de Régimen Jurídico de las Administraciones Públicas",
+    "Ley 9/2012, de 29 de noviembre, de Tasas y Precios Públicos de Castilla-La Mancha",
+    "Real Decreto 1398/1993, de 4 de agosto"
+  ],
+  "derogations": [
+    "Ley 4/1999, de 31 de marzo, del Juego de Castilla-La Mancha"
+  ],
+  "main_obligations": "Los operadores deben obtener autorizaciones previas o realizar declaraciones responsables, inscribirse en el Registro General y pagar las tasas correspondientes. Se prohíbe estrictamente el acceso a menores y la concesión de créditos a jugadores en los locales.",
+  "effective_date": "2014-04-01",
+  "procedures": [
+    {
+      "name": "Autorización de actividades de juego y apuestas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Presentación de la solicitud ante la Consejería competente para obtener el título habilitante.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación según el tipo de actividad y cumplimiento de requisitos de capacidad y prohibiciones."
+        },
+        {
+          "step": 2,
+          "title": "Resolución administrativa",
+          "description": "La Administración debe resolver la solicitud; en caso de silencio, se entenderá estimatoria.",
+          "start_date": null,
+          "end_date": "Plazo máximo legal establecido por la normativa de procedimiento administrativo",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Inscripción de oficio",
+          "description": "Una vez concedida la autorización y depositada la garantía, la Administración inscribe al titular en el Registro General.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Depósito de la garantía correspondiente"
+        }
+      ]
+    },
+    {
+      "name": "Renovación de autorizaciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de declaración responsable",
+          "description": "El interesado comunica que sigue reuniendo los requisitos para la renovación.",
+          "start_date": "Hasta 3 meses antes de la extinción de la vigencia",
+          "end_date": null,
+          "required_documentation": "Declaración responsable justificativa"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,262 @@
+{
+  "identifier": "DOG-g-2015-90508",
+  "title": "Decreto Legislativo 1/2015, de 12 de febrero, por el que se aprueba el texto refundido de las disposiciones legales de la Comunidad Autónoma de Galicia en materia de política industrial",
+  "visible_title": "Política Industrial y Seguridad Industrial de Galicia",
+  "rank": "decreto legislativo",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "1/2015",
+  "publication_date": "2015-07-09",
+  "enactment_date": "2015-02-12",
+  "last_updated": "2025-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=DOG-g-2015-90508",
+  "official_journal": "Diario Oficial de Galicia",
+  "journal_issue": null,
+  "summary": "Esta norma unifica toda la regulación de política y seguridad industrial en Galicia para simplificar la gestión empresarial. Su objetivo principal es acelerar la implantación de proyectos industriales mediante la creación de proyectos estratégicos que gozan de prioridad administrativa y reducción de plazos. Además, establece un sistema de control de instalaciones basado en su riesgo y crea mecanismos para evitar bloqueos municipales en licencias urbanísticas. En definitiva, busca convertir a Galicia en un entorno más ágil y seguro para la inversión industrial.",
+  "citizen_impact": "Sin impacto directo en ciudadanos, salvo por la mejora potencial en la seguridad de las instalaciones industriales cercanas y el impulso económico derivado de la creación de empleo industrial.",
+  "professional_impact": "Las empresas industriales ganan agilidad mediante la tramitación de urgencia y la posibilidad de que la Xunta sustituya a los Ayuntamientos en licencias urbanísticas si hay retrasos. Sin embargo, deben cumplir con estrictos controles de seguridad, comunicar cambios en sus procesos y, en caso de proyectos estratégicos, aportar documentación técnica detallada (viabilidad, impacto ambiental y urbanístico).",
+  "keywords": [
+    "política industrial",
+    "seguridad industrial",
+    "proyectos estratégicos",
+    "Galicia",
+    "licencias urbanísticas",
+    "instalaciones industriales",
+    "tramitación de urgencia"
+  ],
+  "key_points": [
+    "Clasificación de instalaciones en Grupo I (autorización previa) y Grupo II (declaración responsable).",
+    "Aceleración de proyectos industriales con inversión en activos fijos superior a 800.000€ mediante el Plan de impulso y aceleración.",
+    "Reducción de plazos administrativos a la mitad para proyectos declarados estratégicos o de interés autonómico.",
+    "Capacidad de la Xunta para dictar resoluciones de licencias urbanísticas si un Ayuntamiento no resuelve en plazo.",
+    "Prevalencia de los proyectos estratégicos sobre el planeamiento urbanístico vigente.",
+    "Indemnización de hasta 500.000€ o el 1% del proyecto si la Xunta demora la aprobación de un proyecto estratégico más de un año.",
+    "Creación de zonas de implantación prioritaria para facilitar la localización de áreas industriales.",
+    "Posibilidad de tramitación conjunta de suelo empresarial y proyectos estratégicos.",
+    "Los proyectos de cero emisiones netas pueden optar al régimen de tramitación de proyectos estratégicos.",
+    "Potestad de los inspectores para paralizar actividades ante peligro inminente.",
+    "Creación del Registro de Clústeres Empresariales Gallegos para el acceso a ayudas públicas.",
+    "Imposición de multas coercitivas de entre 1.000 y 25.000 euros por incumplimiento de seguridad industrial."
+  ],
+  "legal_references": [
+    "Ley 14/2013, de 26 de diciembre, de racionalización del sector público autonómico",
+    "Ley 9/2004, de 10 de agosto, de seguridad industrial de Galicia",
+    "Ley 13/2011, de 16 de diciembre, reguladora de la política industrial de Galicia",
+    "Ley 1/2010, de 11 de febrero",
+    "Decreto 51/2011, de 17 de marzo",
+    "Ley 9/2013, de 19 de diciembre, del emprendimiento y de la competitividad económica de Galicia",
+    "Directiva 2006/123/CE",
+    "Ley 1/2021, de 8 de enero, de ordenación del territorio de Galicia",
+    "Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas",
+    "Ley 9/2021, de 25 de febrero, de simplificación administrativa y de apoyo a la reactivación económica de Galicia",
+    "Ley 7/1985, de 2 de abril, reguladora de las bases del régimen local",
+    "Ley 8/2009, de 22 de diciembre, que regula el aprovechamiento eólico en Galicia",
+    "Ley 3/2022, de 18 de octubre, de áreas empresariales de Galicia",
+    "Ley 21/2013, de 9 de diciembre, de evaluación ambiental",
+    "Ley 2/2016, de 10 de febrero",
+    "Reglamento (UE) 2024/1735",
+    "Ley 5/2017, de 19 de octubre"
+  ],
+  "derogations": [
+    "Ley 9/2004, de 10 de agosto, de seguridad industrial de Galicia",
+    "Ley 13/2011, de 16 de diciembre, reguladora de la política industrial de Galicia"
+  ],
+  "main_obligations": "Los titulares de instalaciones deben permitir inspecciones, mantener contratos de mantenimiento obligatorios y comunicar accidentes o cambios en sus procesos. Para proyectos estratégicos, es imperativo presentar memoria de viabilidad, proyecto de implantación, análisis de compatibilidad urbanística y descripción de afecciones ambientales.",
+  "effective_date": "2015-07-10",
+  "procedures": [
+    {
+      "name": "Instalación, modificación o puesta en funcionamiento de instalaciones (Grupo II)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de declaración responsable o comunicación",
+          "descrption": "Trámite para instalaciones del Grupo II ante el órgano competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación técnica y certificaciones según la normativa aplicable"
+        },
+        {
+          "step": 2,
+          "title": "Entrega de justificante",
+          "descrption": "La Consejería entrega un justificante que acredita el cumplimiento de deberes administrativos.",
+          "start_date": "Tras la presentación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación del expediente",
+          "descrption": "Apertura del procedimiento tras una inspección o detección de infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución del procedimiento",
+          "descrption": "Plazo máximo para dictar y notificar la resolución.",
+          "start_date": "Desde la iniciación",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inclusión de proyectos en el Plan autonómico de impulso y aceleración",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de la empresa",
+          "description": "Presentación de documentación técnica, económica y urbanística ante la consejería competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de implantación, memoria de viabilidad, delimitación territorial, análisis urbanístico, compromiso de legalidad urbanística y descripción de afecciones."
+        },
+        {
+          "step": 2,
+          "title": "Requerimiento de subsanación",
+          "description": "Si la documentación está incompleta, se otorga un plazo para completarla.",
+          "start_date": "10 días hábiles",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informes de otros centros directivos",
+          "description": "Consulta a otros órganos que puedan verse afectados por el proyecto.",
+          "start_date": "10 días hábiles",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución",
+          "description": "Decisión de la consejería sobre la aceptación o denegación de la inclusión.",
+          "start_date": "30 días hábiles desde la solicitud completa",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de Proyecto Industrial Estratégico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de la empresa",
+          "description": "Presentación de proyecto de implantación y memoria justificativa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de implantación, memoria de expansión/consolidación, viabilidad económica, delimitación territorial y descripción de afecciones ambientales."
+        },
+        {
+          "step": 2,
+          "title": "Informes sectoriales y municipales",
+          "description": "Informes de la consejería de ordenación del territorio y consulta al ayuntamiento.",
+          "start_date": "15 días",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Propuesta al Consejo de la Xunta",
+          "description": "La consejería eleva la propuesta tras verificar los requisitos de inversión o empleo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación del proyecto",
+          "description": "Decisión final del Consejo de la Xunta de Galicia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Plazo máximo de aprobación final",
+          "description": "Plazo total desde la documentación completa hasta la aprobación definitiva.",
+          "start_date": null,
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación conjunta de proyecto de interés autonómico y proyecto estratégico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de documentación",
+          "description": "Presentación conjunta de la documentación exigida para ambas iniciativas.",
+          "start_date": "Al inicio del procedimiento",
+          "end_date": null,
+          "required_documentation": "Documentación preceptiva para cada iniciativa"
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Trámite de información pública, que si es simultáneo para ambos proyectos, dura 45 días hábiles.",
+          "start_date": "Al iniciar el trámite de información pública",
+          "end_date": "45 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación",
+          "description": "El Consejo de la Xunta puede aprobar ambos proyectos de forma conjunta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aprobación de proyectos de urbanización (Evaluación Ordinaria)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación inicial",
+          "description": "La dirección general competente aprueba inicialmente el proyecto tras recibir la documentación.",
+          "start_date": "15 días desde la presentación de documentación completa",
+          "end_date": null,
+          "required_documentation": "Proyecto de urbanización y estudio de impacto ambiental"
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Sometimiento del proyecto a información pública y consultas a administraciones.",
+          "start_date": "Tras la aprobación inicial",
+          "end_date": "30 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Adaptación ambiental",
+          "description": "El promotor debe adaptar el proyecto a la declaración de impacto ambiental.",
+          "start_date": "Tras finalizar la tramitación ambiental",
+          "end_date": "15 días",
+          "required_documentation": "Proyecto de urbanización adaptado"
+        },
+        {
+          "step": 4,
+          "title": "Aprobación definitiva",
+          "description": "Aprobación final del proyecto de urbanización.",
+          "start_date": "15 días tras la presentación del proyecto adaptado",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

@@ -1,0 +1,198 @@
+{
+  "identifier": "BOJA-b-2020-90103",
+  "title": "Decreto-Ley 9/2020, de 15 de abril, por el que se establecen medidas urgentes complementarias en el ámbito económico y social como consecuencia de la situación ocasionada por el coronavirus (COVID-19)",
+  "visible_title": "Medidas urgentes económicas y sociales por la situación del COVID-19 en Andalucía",
+  "rank": "real_decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "9/2020",
+  "publication_date": "2020-04-15",
+  "enactment_date": "2020-04-15",
+  "last_updated": "2021-12-17",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOJA-b-2020-90103",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": null,
+  "summary": "Esta norma implementa ayudas económicas y flexibilizaciones administrativas en Andalucía para mitigar los efectos de la pandemia. Introduce una ayuda directa de 300 euros para autónomos excluidos de las ayudas estatales y evita que personas con discapacidad pierdan sus derechos por la imposibilidad de realizar trámites presenciales. Asimismo, alivia la carga financiera de sectores como el pesquero y el portuario mediante exenciones y aplazamientos de tasas. También refuerza la atención social en municipios con asentamientos de inmigrantes y moderniza la gestión de servicios sociales mediante la digitalización de historias clínicas.",
+  "citizen_impact": "Los ciudadanos con discapacidad no tendrán que preocuparse por la caducidad de sus certificados o tarjetas de aparcamiento durante el periodo de crisis. Los autónodos andaluces que no reciban la prestación estatal podrán solicitar 300 euros de ayuda directa. Además, se facilita el acceso a servicios sociales mediante un sistema de historia electrónica unificada.",
+  "professional_impact": "Las empresas de los sectores pesquero, industrial, hostelero y servicios náuticos se benefician de la exención de tasas por ocupación de dominio público portuario. Los operadores portuarios disponen de plazos administrativos reducidos a la mitad y la posibilidad de fraccionar pagos de tasas en 6 meses sin intereses. Los municipios de Almería y Huelva reciben financiación condicionada para servicios básicos en asentamientos.",
+  "keywords": [
+    "ayudas autónomos",
+    "discapacidad",
+    "tasas portuarias",
+    "COVID-19",
+    "Andalucía",
+    "servicios sociales",
+    "sector pesquero"
+  ],
+  "key_points": [
+    "Subvención de 300 euros para autónomos andaluces que no sean beneficiarios de la prestación extraordinaria estatal.",
+    "Prórroga automática de un año en la validez de los certificados de discapacidad y sus tarjetas acreditativas.",
+    "Prórroga de seis meses para la renovación de las tarjetas de aparcamiento para personas con movilidad reducida.",
+    "Exención de tasas por ocupación de dominio público portuario para los sectores pesquero, industrial, hostelero y servicios náuticos.",
+    "Posibilidad de fraccionar el pago de tasas portuarias (ocupación y T7) en hasta 6 meses sin intereses ni garantías.",
+    "Reducción a la mitad de los plazos administrativos para la concesión de títulos de ocupación de dominio público portuario.",
+    "Creación del sistema 'CoheSSiona' para unificar la historia social electrónica de los usuarios de servicios sociales.",
+    "Financiación de servicios básicos (agua, basura, higiene) en asentamientos de Almería y Huelva mediante transferencias condicionadas.",
+    "Los gastos de personal en programas de la Consejería de Igualdad son subvencionables aunque la actividad se detuviera por el COVID-19."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020",
+    "Real Decreto 476/2020",
+    "Real Decreto 487/2020",
+    "Real Decreto-ley 6/2020",
+    "Real Decreto-ley 7/2020",
+    "Real Decreto-ley 8/2020",
+    "Real Decreto-ley 9/2020",
+    "Real Decreto-ley 10/2020",
+    "Real Decreto-ley 11/2020",
+    "Real Decreto-ley 13/2020",
+    "Decreto-ley 3/2020 (Andalucía)",
+    "Decreto-ley 4/2020 (Andalucía)",
+    "Decreto-ley 6/2020 (Andalucía)",
+    "Decreto-ley 8/2020 (Andalucía)",
+    "Ley Orgánica 4/2000",
+    "Estatuto de Autonomía de Andalucía",
+    "Ley 9/2016 (Servicios Sociales de Andalucía)",
+    "Ley 21/2007 (Régimen Jurídico y Económico de los Puertos de Andalucía)",
+    "Ley 38/2003 (Ley General de Subvenciones)",
+    "Ley 39/2015 (Procedimiento Administrativo Común)",
+    "Ley 9/2017",
+    "Ley 4/1988",
+    "Real Decreto 1971/1999"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a este Decreto-Ley"
+  ],
+  "main_obligations": "Los autónomos beneficiarios deben mantener su alta en el RETA de forma ininterrumpida y comunicar si pasan a ser beneficiarios de la prestación estatal para reintegrar la ayuda. Los municipios receptores de financiación deben aceptar la ayuda en 5 días hábiles, ejecutar las actuaciones antes del 31/12/2020 y justificar gastos en los dos meses siguientes.",
+  "effective_date": "2020-04-15",
+  "procedures": [
+    {
+      "name": "Concesión de subvenciones para autónomos (Línea de apoyo COVID-19)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "descrption": "Solicitud telemática mediante modelo oficial en la oficina virtual de la Consejería competente.",
+          "start_date": "Día siguiente a la publicación del extracto en el BOJA",
+          "end_date": "15 días después de la finalización del estado de alarma",
+          "required_documentation": "DNI/NIE, Certificado de empadronamiento, Informe de Vida Laboral, Declaración de IRPF 2018 (si aplica), Declaración responsable de titularidad bancaria."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y resolución",
+          "descrption": "Instrucción y resolución del expediente por la Dirección General competente.",
+          "start_date": "Desde la entrada en registro",
+          "end_date": "2 meses (prorrogable)",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Pago de la subvención",
+          "descrption": "Abono del 100% de la ayuda mediante transferencia bancaria tras justificación mediante declaración responsable.",
+          "start_date": "Tras la resolución de concesión",
+          "end_date": null,
+          "required_documentation": "Declaración responsable de cumplimiento de requisitos"
+        }
+      ]
+    },
+    {
+      "name": "Agilización de títulos habilitantes en puertos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción de trámites",
+          "descrption": "Reducción de los plazos para instruir trámites de ocupación de dominio público portuario a la mitad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "descrption": "Reducción de los plazos máximos para dictar y notificar la resolución a la mitad del plazo legal ordinario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de reintegración de subvenciones (Trabajo Autónomo)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Acuerdo de la Dirección General competente para iniciar el cobro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución y notificación",
+          "description": "Plazo máximo para resolver y notificar el reintegro.",
+          "start_date": "Desde el acuerdo de iniciación",
+          "end_date": "12 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Programa de colaboración financiera para municipios (Almería y Huelva)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aceptación de la financiación",
+          "description": "La Alcaldía debe aceptar la ayuda vía electrónica en el Portal de la Junta.",
+          "start_date": "5 días hábiles tras la publicación",
+          "end_date": "5 días hábiles",
+          "required_documentation": "Modelo de Anexo III"
+        },
+        {
+          "step": 2,
+          "title": "Reconocimiento de la obligación",
+          "description": "Resolución de la Dirección General que cuantifica la ayuda.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Presentación de documentación de actuaciones",
+          "description": "Envío telemático de la relación de actuaciones y presupuestos.",
+          "start_date": "Tras la resolución de cuantificación",
+          "end_date": "2 meses",
+          "required_documentation": "Relación de actuaciones (Anexos IV y V), Informe justificativo (Anexo VI) y Certificación del órgano de gobierno"
+        },
+        {
+          "step": 4,
+          "title": "Validación de proyectos",
+          "description": "Verificación de requisitos por la Dirección General.",
+          "start_date": "Tras la presentación",
+          "end_date": "10 días",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Ejecución de actuaciones",
+          "description": "Periodo para realizar los trabajos financiados.",
+          "start_date": null,
+          "end_date": "2020-12-31",
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Justificación de gastos",
+          "description": "Acreditación del uso de los fondos mediante certificación.",
+          "start_date": "Tras la finalización de la ejecución",
+          "end_date": "2 meses tras la ejecución",
+          "required_documentation": "Certificación justificativa (Anexo VII)"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

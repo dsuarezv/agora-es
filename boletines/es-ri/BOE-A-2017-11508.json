@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-2017-11508",
+  "title": "Ley 8/2017, de 19 de septiembre, de perros de asistencia de La Rioja",
+  "visible_title": "Ley de perros de asistencia de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "8/2017",
+  "publication_date": "2017-10-07",
+  "enactment_date": "2017-09-19",
+  "last_updated": "2017-09-25",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2017/09/19/8",
+  "official_journal": "Boletín Oficial de La Rioja",
+  "journal_issue": null,
+  "summary": "Esta ley amplía y garantiza el derecho de acceso al entorno de las personas con discapacidad o enfermedades que utilizan perros de asistencia en La Rioja. Supera la antigua regulación limitada a perros guía para incluir perros de servicio, de aviso médico y para personas con autismo. El objetivo es asegurar la igualdad real y la autonomía personal, eliminando barreras en espacios públicos y privados.",
+  "citizen_impact": "Las personas con discapacidad o enfermedades crónicas (como epilepsia o diabetes) que usen perros de asistencia ahora tienen garantizado el acceso a casi cualquier establecimiento, transporte o espacio público sin costes adicionales. Se les otorga un carné oficial y un distintivo para el animal que facilita su movilidad y evita discriminaciones.",
+  "professional_impact": "Los establecimientos comerciales, hosteleros y de transporte no pueden prohibir la entrada de estos perros ni cobrar suplementos por ello, bajo riesgo de sanciones. Los centros de adiestramiento deben estar oficialmente reconocidos por la Consejería de Ganadería, y los profesionales del sector deben cumplir con requisitos de formación y acreditación.",
+  "keywords": [
+    "perros de asistencia",
+    "discapacidad",
+    "accesibilidad",
+    "La Rioja",
+    "derechos de igualdad",
+    "perro guía",
+    "perro de servicio"
+  ],
+  "key_points": [
+    "Ampliación de la categoría de perro de asistencia: incluye perros guía, de señalización de sonidos, de servicio, de aviso médico y para personas con autismo.",
+    "Derecho de acceso irrestricto a locales de ocio, restauración, transporte público, centros sanitarios y espacios naturales protegidos.",
+    "Prohibición de cobrar tarifas adicionales o exigir garantías económicas por la presencia del perro.",
+    "Obligatoriedad de contar con un seguro de responsabilidad civil vigente para el perro.",
+    "Creación de un carné de identificación oficial para la unidad de vinculación (persona + perro).",
+    "Los perros deben estar esterilizados y cumplir con un estricto protocolo sanitario anual.",
+    "Protección contra la discriminación en el ámbito laboral, garantizando la permanencia del perro en el puesto de trabajo.",
+    "Sanciones económicas que pueden llegar hasta los 10.000 euros por infracciones muy graves (como impedir el acceso en espacios públicos)."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de La Rioja",
+    "Real Decreto Legislativo 1/2013",
+    "Convenio Internacional sobre los Derechos de las Personas con Discapacidad",
+    "Ley 1/2000, de 31 de mayo, de perros guía acompañantes de personas con deficiencia visual"
+  ],
+  "derogations": [
+    "Ley 1/2000, de 31 de mayo, de perros guía acompañantes de personas con deficiencia visual"
+  ],
+  "main_obligations": "Los usuarios deben mantener al perro con distintivo visible, poseer un seguro de responsabilidad civil y realizar una revisión veterinaria anual. Los establecimientos tienen prohibido impedir el acceso o cobrar suplementos, bajo riesgo de multas de hasta 10.000 euros.",
+  "effective_date": "2017-10-08",
+  "procedures": [
+    {
+      "name": "Reconocimiento de la condición de perro de asistencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de reconocimiento",
+          "description": "El propietario o usuario solicita el reconocimiento ante la Dirección General de Servicios Sociales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado del centro de adiestramiento, microchip, cartilla veterinaria/certificado sanitario y póliza de seguro de responsabilidad civil."
+        },
+        {
+          "step": 2,
+          "title": "Resolución y entrega de documentación",
+          "description": "La administración notifica la resolución y entrega el carné de identificación y el distintivo oficial.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Suspensión de la condición de perro de asistencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio de expediente contradictorio",
+          "description": "Se inicia el proceso ante la incapacidad temporal, falta de higiene o falta de seguro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de subsanación",
+          "description": "Si la causa es temporal, se tiene un plazo para corregir la situación antes de la pérdida definitiva.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

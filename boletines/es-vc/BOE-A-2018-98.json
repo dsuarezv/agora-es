@@ -1,0 +1,196 @@
+{
+  "identifier": "BOE-A-2018-98",
+  "title": "Ley 17/2017, de 13 de diciembre, de coordinación de policías locales de la Comunitat Valenciana",
+  "visible_title": "Ley de coordinación de policías locales de la Comunitat Valenciana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "17/2017",
+  "publication_date": "2018-01-04",
+  "enactment_date": "2017-12-13",
+  "last_updated": "2022-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2017/12/13/17",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley unifica la organización y actuación de todas las policías locales de la Comunidad Valenciana para garantizar un modelo de seguridad común y profesional. Establece criterios obligatorios de formación, creación de cuerpos según el tamaño del municipio y mecanismos de coordinación entre ayuntamientos. Además, busca dignificar la profesión mediante la estabilidad laboral de los agentes y la creación de unidades especializadas en delitos de odio y violencia de género. Por último, refuerza el control ético y la transparencia mediante nuevos comités de supervisión.",
+  "citizen_impact": "El ciudadano se beneficia de una mayor seguridad y especialización policial en su municipio, especialmente en temas de violencia de género y delitos de odio. La policía local tendrá protocolos más estrictos para el uso de armas y una mayor capacidad de respuesta coordinada entre diferentes municipios cercanos.",
+  "professional_impact": "Los agentes de policía local ven mejorada su estabilidad laboral y sus derechos, aunque asumen mayores responsabilidades de control ético y disciplina. Los ayuntamientos deben cumplir con nuevas obligaciones de contratación de seguros (vida, accidentes y responsabilidad civil), realizar revisiones médicas anuales y garantizar la creación de grupos especializados según el censo poblacional.",
+  "keywords": [
+    "policía local",
+    "coordinación policial",
+    "seguridad ciudadana",
+    "Comunitat Valenciana",
+    "delitos de odio",
+    "violencia de género",
+    "régimen disciplinario"
+  ],
+  "key_points": [
+    "Obligatoriedad de tener cuerpo de Policía Local en municipios de más de 5.000 habitantes.",
+    "Creación de grupos especializados en violencia de género (municipios > 20.000 hab.) y delitos de odio (municipios > 50.000 hab.).",
+    "Implementación de un proceso de consolidación para eliminar la precariedad de los funcionarios interiros.",
+    "Protocolo de retirada de armas por inestabilidad emocional, negligencia grave o no superación de pruebas.",
+    "Creación del Comité de Ética y Transparencia y del Comité de Asuntos Internos para control de legalidad.",
+    "Posibilidad de servicios policiales conjuntos entre municipios mediante consejos supra-municipales.",
+    "Los procesos de selección no pueden durar más de un año desde la publicación de las bases.",
+    "Reserva del 30% de plazas para mujeres en escala básica si la plantilla femenina es inferior al 40%.",
+    "Derecho a la 'segunda actividad' para agentes con problemas de salud o edad avanzada sin pérdida de sueldo base.",
+    "Prohibición absoluta del derecho de huelga para los agentes.",
+    "Sanciones muy graves por acoso sexual, laboral o discriminación.",
+    "Obligación municipal de contratar seguros de vida, accidentes y responsabilidad civil para los agentes."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 149.1.29.ª y 148.1.22.ª)",
+    "Estatuto de Autonomía de la Comunitat Valenciana (art. 55.3)",
+    "Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad",
+    "Ley 2/1990, de 4 de abril, de la Generalitat Valenciana",
+    "Ley 6/1999, de 19 de abril, de la Generalitat",
+    "Ley 4/2021, de 16 de abril, de la Función Pública Valenciana",
+    "Ley Orgánica 4/2010, de 20 de mayo, del régimen disciplinario del Cuerpo Nacional de Policía",
+    "Ley 10/2010, de 9 de mayo, de ordenación y gestión de la función pública valenciana",
+    "Ley de presupuestos generales del Estado de 2017"
+  ],
+  "derogations": [
+    "Ley 6/1999, de 19 de abril, de policías locales y de coordinación de las policías locales de la Comunitat Valenciana",
+    "Decreto 169/2010, de 16 de octubre del Consell"
+  ],
+  "main_obligations": "Los ayuntamientos deben garantizar la creación de cuerpos policiales según población, realizar revisiones médicas anuales y contratar seguros obligatorios para sus agentes. Los agentes deben portar identificación, declarar su compromiso de uso de armas y cumplir con los protocolos de ética y transparencia.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Retirada del arma reglamentaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Detección de causa",
+          "description": "Identificación de inestabilidad emocional, negligencia, impericia o falta de superación de pruebas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe psico-técnico o informe de jefatura"
+        },
+        {
+          "step": 2,
+          "title": "Medida cautelar (opcional)",
+          "description": "La alcaldía puede retirar el arma preventivamente tras informe de la jefatura.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ratificación o levantamiento",
+          "description": "La alcaldía debe ratificar o levantar la retirada cautelar en un plazo máximo de 5 días hábiles.",
+          "start_date": null,
+          "end_date": "5 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Procedimiento contradictorio",
+          "description": "Tramitación de expediente para la retirada definitiva, incluyendo prueba psico-técnica vinculante si es por causas psíquicas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Nombramiento de personal funcionario interino",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acreditación de necesidad",
+          "description": "El ayuntamiento debe acreditar urgencia y existencia de proceso de provisión ordinario ante la Generalitat.",
+          "start_date": null,
+          "end_date": "10 días (plazo de informe de la Generalitat)",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Selección",
+          "description": "Superación de pruebas físicas, psico-técnicas y de conocimientos desde la bolsa de empleo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Formación",
+          "description": "Curso teórico-práctico de al menos 60 horas impartido por el Ivaspe o entidad homologada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Vigencia",
+          "description": "La relación de interinidad finaliza a los 3 años, salvo que se haya publicado convocatoria en ese plazo.",
+          "start_date": null,
+          "end_date": "3 años",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Proceso de Selección (Turno Libre/Promoción)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de bases",
+          "description": "El ayuntamiento debe comunicar las bases al órgano autonómico antes de iniciar el proceso.",
+          "start_date": "Antes del inicio del proceso",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Publicación",
+          "description": "Publicación íntegra en boletín provincial y extracto en el DOGV y BOE.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ejecución del proceso",
+          "description": "Desarrollo de las pruebas selectivas sin superar el año de duración total.",
+          "start_date": "Desde la publicación",
+          "end_date": "1 año desde la publicación de las bases",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Disciplinario",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación",
+          "description": "Inicio del expediente por parte de la Alcaldía.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Instrucción",
+          "description": "Realizada por un funcionario de la misma escala o superior.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Decisión final sobre la sanción por parte de la Alcaldía.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

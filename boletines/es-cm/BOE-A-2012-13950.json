@@ -1,0 +1,92 @@
+{
+  "identifier": "BOE-A-2012-13950",
+  "title": "Ley 6/2012, de 2 de agosto, de acompañamiento de la Ley 1/2012, de 21 de febrero, de Medidas Complementarias para la Aplicación del Plan de Garantía de los Servicios Sociales Básicos de Castilla-La Mancha",
+  "visible_title": "Ley de acompañamiento al Plan de Garantía de los Servicios Sociales Básicos de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "6/2012",
+  "publication_date": "2012-11-13",
+  "enactment_date": "2012-08-02",
+  "last_updated": "2017-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2012/08/02/6",
+  "official_journal": "Diario Oficial de Castilla-La Manchcha",
+  "journal_issue": null,
+  "summary": "Esta ley implementa medidas de austeridad y eficiencia para reducir el gasto público en Castilla-La Manchcha ante la crisis económica. Introduce cambios en la gestión de personal público, permitiendo la reducción de jornada y excedencias para ahorrar costes. Asimismo, reorganiza empresas públicas y modifica impuestos locales para aliviar la carga fiscal en la compra de vivienda y actividades agrícolas.",
+  "citizen_impact": "Los ciudadanos pueden beneficiarse de una reducción de impuestos (ITP y AJD) al comprar su primera vivienda habitual o al realizar actividades agrícolas. También se establece la posibilidad de que la educación en centros concertados sea gratuita para alumnos en situación de exclusión social.",
+  "professional_impact": "Los funcionarios de la Junta de Comunidades enfrentan restricciones en la prolongación de su servicio activo y nuevas opciones de reducción de jornada o excedencias voluntarias. Los altos cargos pierden la paga extraordinaria de diciembre de 2012, y las empresas públicas de infraestructuras sufren cambios en su adscripción y objeto social.",
+  "keywords": [
+    "austeridad",
+    "gasto público",
+    "funcionarios",
+    "ITP",
+    "vivienda habitual",
+    "servicios sociales",
+    "Castilla-La Manchcha",
+    "reducción de jornada"
+  ],
+  "key_points": [
+    "Prohibición de nuevas prolongaciones de servicio activo para personal no laboral durante dos años.",
+    "Habilitación para reducir la jornada laboral del personal interno hasta un 15%.",
+    "Nuevas opciones de reducción de jornada voluntaria y excedencias para empleados públicos.",
+    "Eliminación de la paga extraordinaria de diciembre de 2012 para altos cargos.",
+    "Reducción del tipo de gravamen del ITP al 7% para la compra de la primera vivienda habitual (hasta 180.000€).",
+    "Aplicación de un tipo reducido del 0,75% en actos notariales para la compra de primera vivienda.",
+    "Bonificación del 50% en el impuesto AJD para construcciones destinadas a actividades agrícolas prioritarias.",
+    "Reorganización de la empresa pública GICAMAN, pasando a depender de la Consejería de Fomento."
+  ],
+  "legal_references": [
+    "Ley 1/2012, de 21 de febrero",
+    "Ley 11/1997, de 17 de diciembre",
+    "Ley 5/2012, de 12 de julio",
+    "Ley 9/2008, de 4 de diciembre",
+    "Constitución Española, artículo 135",
+    "Ley 4/2011, de 10 de marzo"
+  ],
+  "derogations": [
+    "Párrafo segundo del artículo 68.7 de la Ley 4/2011",
+    "Artículos 69.3, 70.7, 72.2 y 115.5 de la Ley 4/2011",
+    "Artículos 18.3 y 22.2 del Decreto 74/2002"
+  ],
+  "main_obligations": "Los altos cargos de la administración regional no percibirán la paga extraordinaria de diciembre de 2012. El personal que solicite reducción de jornada o excedencia debe cumplir con las necesidades del servicio acreditadas por su responsable.",
+  "effective_date": "2012-08-03",
+  "procedures": [
+    {
+      "name": "Solicitud de reducción de jornada voluntaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "descrption": "El empleado debe presentar la solicitud con una antelación mínima de 15 días.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "No especificada"
+        },
+        {
+          "step": 2,
+          "title": "Informe de necesidades del servicio",
+          "descrption": "El responsable de la unidad debe emitir un informe acreditando que la reducción no afecta al servicio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe de la unidad"
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de excedencia voluntaria especial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de excedencia",
+          "descrption": "El funcionario puede solicitar una excedencia de entre 6 meses y 3 años.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "No especificada"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

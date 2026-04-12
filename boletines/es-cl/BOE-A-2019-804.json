@@ -1,0 +1,97 @@
+{
+  "identifier": "BOE-A-2019-804",
+  "title": "Ley 7/2018, de 14 de diciembre, por la que se regula la Conferencia de Titulares de Alcaldías y Presidencias de Diputación, el estatuto de los miembros de las entidades locales y la información en los Plenos",
+  "visible_title": "Regulación de la Conferencial de Alcaldes y Diputaciones, estatuto de cargos locales e información en Plenos",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "7/2018",
+  "publication_date": "2019-01-24",
+  "enactment_date": "2018-12-27",
+  "last_updated": "2018-12-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2018/12/14/7",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley crea un órgano de coordinación política entre la Junta de Castilla y León y los gobiernos locales para evitar duplicidades y mejorar la gestión territorial. Además, establece derechos y deberes para los concejales y alcaldes, regulando su acceso a la información y su comportamiento ético. Finalmente, garantiza la transparencia al obligar a la grabación de los plenos y facilitar el acceso de la ciudadanía a las sesiones.",
+  "citizen_impact": "Mejora la transparencia local al garantizar que las sesiones de los ayuntamientos sean públicas y puedan ser grabadas por ciudadanos y medios. También permite que las asociaciones de vecinos puedan intervenir en los plenos para defender sus intereses.",
+  "professional_impact": "Los cargos locales (alcaldes, concejales) adquieren derechos claros de acceso a la documentación administrativa y la posibilidad de asistir a plenos por videoconferencia en casos de enfermedad o maternidad/paternidad. También se les imponen deberes estrictos de transparencia, como la declaración de bienes y la observancia de códigos de conducta.",
+  "keywords": [
+    "entidades locales",
+    "transparencia",
+    "ayuntamientos",
+    "concejales",
+    "alcaldes",
+    "castilla y león",
+    "buen gobierno",
+    "plenos municipales"
+  ],
+  "key_points": [
+    "Creación de la Conferencial de Titulares de Alcaldías y Presidencias de Diputación como foro de colaboración política.",
+    "Derecho de los miembros de entidades locales a acceder a la documentación administrativa sin necesidad de autorización previa en ciertos casos.",
+    "Obligatoriedad de grabar los plenos: audio en municipios de más de 5.000 habitantes y audio/vídeo en municipios de más de 20.000 habitantes.",
+    "Posibilidad de asistencia a plenos mediante videoconferencia por enfermedad grave, maternidad o paternidad.",
+    "Obligación de los cargos locales de realizar declaraciones de bienes y actividades para garantizar la transparencia.",
+    "Derecho de los medios de comunicación a disponer de un espacio reservado en los plenos.",
+    "Establecimiento de sanciones económicas para concejales que falten injustificadamente a los plenos.",
+    "Creación de un grupo mixto para concejales que no estén adscritos a un grupo político específico."
+  ],
+  "legal_references": [
+    "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+    "Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local",
+    "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Estatuto de Autonomía de Castilla y León"
+  ],
+  "derogations": [
+    "Disposiciones que se opongan a lo establecido en la presente ley"
+  ],
+  "main_obligations": "Los cargos locales deben declarar anualmente sus bienes y actividades económicas. Deben cumplir con los principios de imparcialidad y evitar conflictos de intereses. El incumplimiento de la asistencia a plenos puede acarrear sanciones económicas equivalentes a la indemnización no percibida.",
+  "effective_date": "2019-01-24",
+  "procedures": [
+    {
+      "name": "Acceso a la información por miembros de la entidad local",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de información",
+          "description": "El miembro de la entidad local solicita antecedentes, datos o informes a la Alcaldía o Junta de Gobierno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución o silencio administrativo",
+          "description": "La administración debe responder o, en caso de silencio tras 5 días naturales, se entenderá concedida la petición.",
+          "start_date": null,
+          "end_date": "5 días naturales",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de incompatibilidades y bienes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración",
+          "description": "Los miembros deben formular declaraciones sobre incompatibilidades, ingresos y bienes patrimoniales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Modelos tipo de declaración"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de incompatibilidad",
+          "description": "Si se detecta una incompatibilidad, el Pleno comunica al interesado para que elija entre renunciar al cargo o abandonar la situación incompatible.",
+          "start_date": null,
+          "end_date": "10 días",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

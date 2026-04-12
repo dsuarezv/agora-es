@@ -1,0 +1,89 @@
+{
+  "identifier": "BOE-A-2017-6071",
+  "title": "Ley 7/2017, de 22 de mayo, de Comunicación y Publicidad Institucional",
+  "visible_title": "Ley de Comunicación y Publicidad Institucional",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "7/2017",
+  "publication_date": "2017-06-01",
+  "enactment_date": "2017-05-22",
+  "last_updated": "2017-05-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2017/05/22/7",
+  "official_journal": "Boletín Oficial de La Rioja",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo las instituciones públicas de La Rioja deben comunicarse y hacer publicidad. Su objetivo es garantizar que la información sea veraz, objetiva y útil para el ciudadano, evitando que se use el dinero público para hacer propaganda política o destacar logros de gestión. Establece principios de transparencia, profesionalidad y responsabilidad social en toda la comunicación institucional.",
+  "citizen_impact": "Los ciudadanos ganan herramientas para exigir que la publicidad institucional sea transparente y no engañosa. Si una campaña infringe la ley, los ciudadanos tienen derecho a solicitar su inmediata cesación o rectificación mediante un procedimiento rápido.",
+  "professional_impact": "Las agencias de publicidad y profesionales de la comunicación que trabajen con la Administración de La Rioja deben cumplir con estándares éticos y de transparencia estrictos. Las entidades locales y universidades públicas también deben someterse a estas reglas de planificación y rendición de cuentas.",
+  "keywords": [
+    "comunicación institucional",
+    "publicidad institucional",
+    "transparencia",
+    "La Rioja",
+    "derecho de rectificación",
+    "buen gobierno"
+  ],
+  "key_points": [
+    "Prohibición de usar publicidad institucional para destacar logros de gestión política.",
+    "Obligación de identificar claramente cualquier mensaje como comunicación institucional.",
+    "Prohibición de campañas publicitarias durante periodos electorales.",
+    "Creación de un Plan Anual de Publicidad que debe ser público y transparente.",
+    "Derecho de los ciudadanos a solicitar la cesación o rectificación de campañas ilícitas.",
+    "Obligación de realizar un informe anual detallado sobre el gasto y efectividad de la publicidad.",
+    "Aplicación de la ley también a redes sociales como medios de difusión.",
+    "Exigencia de contenidos con perspectiva de género y respeto a la diversidad."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de La Rioja",
+    "Ley 29/2005, de 29 de diciembre, de Publicidad y Comunicación Institucional",
+    "Ley Orgánica 3/1982, de 9 de junio"
+  ],
+  "derogatations": [
+    "Cualquier disposición de igual o inferior rango que se oponga a esta ley"
+  ],
+  "main_obligations": "Las administraciones deben elaborar un plan anual de publicidad y un informe de evaluación anual detallado. Se prohíbe estrictamente el uso de campañas para fines partidistas, mensajes discriminatorios o que induzcan a error sobre el origen de la información.",
+  "effective_date": "2017-06-21",
+  "procedures": [
+    {
+      "name": "Solicitud de cesación o rectificación de campañas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El interesado dirige la solicitud al titular de la consejería con competencias en comunicación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de interés legítimo o condición de afectado"
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la solicitud",
+          "description": "La Administración debe resolver y notificar la decisión.",
+          "start_date": "Plazo máximo de 6 días desde la entrada en registro",
+          "end_date": "6 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ejecución de la rectificación",
+          "description": "Si se estima la rectificación, la administración debe proceder a ella.",
+          "start_date": "Tras la resolución",
+          "end_date": "7 días",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Medida cautelar de suspensión",
+          "description": "Solicitud de suspensión provisional de la campaña ante indicios de infracción manifiesta.",
+          "start_date": "A petición del interesado",
+          "end_date": "2 días para resolver",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

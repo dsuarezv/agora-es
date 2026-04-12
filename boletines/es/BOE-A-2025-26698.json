@@ -1,0 +1,125 @@
+{
+  "identifier": "BOE-A-2025-26698",
+  "title": "Ley 10/2025, de 26 de diciembre, por la que se regulan los servicios de atención a la clientela",
+  "visible_title": "Ley de regulación de los servicios de atención al cliente",
+  "rank": "ley",
+  "country": "es",
+  "department": "Jefatura del Estado",
+  "official_number": "10/2025",
+  "publication_date": "2025-12-27",
+  "enactment_date": "2025-12-26",
+  "last_updated": "2025-12-27",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/l/2025/12/26/10",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "312",
+  "summary": "Esta ley pone fin al calvario de los clientes atrapados en bucles de bots y contestadores automáticos. Obliga a las grandes empresas y proveedores de servicios básicos (luz, agua, banca, etc.) a garantizar atención humana rápida y efectiva. El objetivo es asegurar que cualquier incidencia crítica, como un corte de suministro, se resuelva en tiempo récord. Además, introduce controles estrictos mediante auditorías externas para que las empresas no puedan falsear la calidad de su servicio.",
+  "citizen_impact": "Los ciudadanos ganan el derecho irrenunciable a hablar con una persona real en menos de 3 minutos en el 95% de los casos. Se prohíbe que los bots sean la única vía de contacto y se garantiza que no te corten el suministro si tienes una reclamación abierta sobre el motivo del corte. También se asegura que te respondan en tu mismo idioma y con precios totalmente desglosados y transparentes.",
+  "professional_impact": "Las empresas de servicios básicos y grandes compañías deben transformar sus centros de atención al cliente para cumplir con plazos de respuesta ultra-rápidos (2 horas para suministros). Deben implementar sistemas de evaluación anual de calidad, contratar auditorías externas acreditadas y publicar sus resultados en la web. Las empresas pequeñas (menos de 250 empleados) tienen un régimen de evaluación más flexible, cada dos años.",
+  "keywords": [
+    "atención al cliente",
+    "derechos del consumidor",
+    "servicios básicos",
+    "atención humana",
+    "auditoría de calidad",
+    "suministros",
+    "derechos digitales"
+  ],
+  "key_points": [
+    "Derecho a atención humana: El 95% de las solicitudes personalizadas deben atenderse en menos de 3 minutos.",
+    "Prohibición de bots exclusivos: Siempre debe existir la opción de hablar con una persona física.",
+    "Protección contra cortes de suministro: No se puede suspender un servicio si hay una reclamación en curso relacionada con la causa de la suspensión.",
+    "Plazos de respuesta críticos: Máximo 2 horas para incidencias de continuidad de suministro (luz, agua, gas) y 5 días para facturación.",
+    "Derecho de idioma: Obligación de responder en la misma lengua en la que se presentó la queja.",
+    "Transparencia total: Desglose completo de precios y garantía de que las reseñas online sean de consumidores reales.",
+    "Control de calidad: Obligación de realizar evaluaciones anuales y auditorías externas con un margen de error máximo del 5%.",
+    "Transparencia corporativa: Publicación obligatoria de la documentación de evaluación en la web de la empresa.",
+    "Régimen para PYMES: Empresas de menos de 250 empleados pueden realizar la evaluación y auditoría cada dos años."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 51)",
+    "Real Decreto Legislativo 1/2007 (Ley General para la Defensa de los Consumidores y Usuarios)",
+    "Ley 4/2022 (Protección de consumidores vulnerables)",
+    "Recomendación CE/2003/361",
+    "Real Decreto-ley 37/2020",
+    "Ley 11/2022 (Ley General de Telecomunicaciones)",
+    "Ley 44/2002 (Medidas de Reforma del Sistema Financiero)",
+    "Ley 3/1991 (Competencia Desleal)",
+    "Ley 39/2015 (Procedimiento Administrativo Común)",
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Ley Orgánica 3/2018 (Protección de Datos Personales)"
+  ],
+  "derogatons": [
+    "Artículos 6, 9, 10, 11, 12, 13, 14, 15 y 16 de la Orden ECO/734/2004"
+  ],
+  "main_obligations": "Las empresas deben implementar sistemas de evaluación anual de calidad y contratar auditorías externas acreditadas. Deben garantizar la atención humana rápida, cumplir con plazos de resolución de hasta 2 horas para suministros y adaptar todos sus servicios en un plazo máximo de 12 meses.",
+  "effective_date": "2025-12-26",
+  "procedures": [
+    {
+      "name": "Adaptación a la nueva normativa de atención al cliente",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Periodo de adaptación",
+          "description": "Las empresas disponen de un plazo para ajustar sus sistemas, personal y procesos a los nuevos estándares de calidad y accesibilidad.",
+          "start_date": "Desde la entrada en vigor de la ley",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Adaptación a la Ley 10/2025",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Periodo de adaptación",
+          "description": "Las empresas deben ajustar sus servicios de atención al cliente a los nuevos requisitos legales.",
+          "start_date": "Fecha de publicación en el BOE",
+          "end_date": "12 meses desde la entrada en vigor",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Notificación de criterios de tráfico (Operadores)",
+          "description": "Los operadores afectados deben informar sobre los criterios de detección de tráfico irregular.",
+          "start_date": "Fecha de entrada en vigor",
+          "end_date": "1 mes desde la entrada en vigor",
+          "required_documentation": "Criterios empleados para la detección de tráfico irregular"
+        }
+      ]
+    },
+    {
+      "name": "Ciclo de Evaluación y Auditoría",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Realización de la evaluación",
+          "description": "Implementación y documentación del sistema de evaluación de calidad.",
+          "start_date": "Anual",
+          "end_date": null,
+          "required_documentation": "Sistema de evaluación documentado"
+        },
+        {
+          "step": 2,
+          "title": "Auditoría externa",
+          "description": "Contratación de auditoría para verificar la fiabilidad de las mediciones (error < 5%).",
+          "start_date": "Anual",
+          "end_date": null,
+          "required_documentation": "Informe de auditoría"
+        },
+        {
+          "step": 3,
+          "title": "Entrega de documentación a la Administración",
+          "description": "Poner a disposición de la Administración la documentación descriptiva actualizada.",
+          "start_date": "Al finalizar el primer trimestre del año siguiente",
+          "end_date": null,
+          "required_documentation": "Copia actualizada de la documentación descriptiva en formato electrónico"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

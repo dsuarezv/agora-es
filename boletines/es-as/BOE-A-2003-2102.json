@@ -1,0 +1,122 @@
+{
+  "identifier": "BOE-A-2003-2102",
+  "title": "Ley 13/2002, de 23 de diciembre, de tenencia, protección y derechos de los animales",
+  "visible_title": "Ley de tenencia, protección y derechos de los animales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "13/2002",
+  "publication_date": "2003-02-01",
+  "enactment_date": "2002-12-23",
+  "last_updated": "2002-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2002/12/23/13",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo se deben tener y proteger los animales domésticos, salvajes domesticados y en cautividad en Asturias. Busca equilibrar el bienestar animal con el uso que las personas hacen de ellos, estableciendo normas de seguridad para evitar riesgos a personas y bienes. Además, introduce un marco de control para animales potencialmente peligrosos y regula la actividad de centros de cuidado y asociaciones protectoras.",
+  "citizen_impact": "Los dueños de perros y gatos deben identificar obligatoriamente a sus mascotas mediante microchip y censarlas en su ayuntamiento. También impone prohibiciones estrictas como el abandono de animales y establece reglas de seguridad (bozal y correa) para razas potencialmente peligrosas.",
+  "professional_impact": "Los centros de cría, refugios y tiendas de animales deben inscribirse en registros oficiales y contar con personal capacitado y servicios veterinarios. Los veterinarios tienen la obligación de archivar fichas clínicas durante cinco años, y los adiestradores de animales peligrosos deben poseer un certificado de capacitación específico.",
+  "keywords": [
+    "bienestar animal",
+    "tenencia de animales",
+    "perros potencialmente peligrosos",
+    "microchip",
+    "censos de animales",
+    "protección animal",
+    "Asturias"
+  ],
+  "key_points": [
+    "Obligatoriedad de microchip e identificación para perros y gatos antes de los tres meses.",
+    "Obligación de censar a las mascotas en el municipio de residencia en un plazo de tres meses.",
+    "Prohibición absoluta de abandonar animales.",
+    "Requisitos estrictos de licencia, seguro de responsabilidad civil y aptitud psicológica para dueños de animales potencialmente peligrosos.",
+    "Los perros de ataque deben usar bozal y correa en espacios públicos y tienen prohibido el acceso a transportes colectivos.",
+    "Creación de un Registro Informático Centralizado para controlar animales, propietarios y establecimientos.",
+    "Los centros de depósito de animales deben entregar los animales a sus dueños en un plazo de 8 días antes de considerar al animal como abandonado.",
+    "Las sanciones por infracciones muy graves pueden alcanzar los 90.151 euros."
+  ],
+  "legal_references": [
+    "Estatuto de Auto-nomía del Principado de Asturias",
+    "Ley 50/1999, de 23 de diciembre, sobre el régimen jurídico de la tenencia de animales potencialmente peligrosos",
+    "Declaración Universal de los Derechos del Animal (UNESCO)",
+    "Convenios de Washington, Berna y Bonn"
+  ],
+  "derogations": [],
+  "main_obligations": "Los propietarios deben identificar a sus mascotas con microchip, censarlas en su ayuntamiento y evitar cualquier maltrato. Para animales peligrosos, es obligatorio tener licencia, seguro de responsabilidad civil y cumplir con medidas de control como el uso de bozal.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Identificación y Censado de Mascotas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Identificación mediante microchip",
+          "description": "Implantación de microchip para identificación individual del animal.",
+          "start_date": "Antes de la venta o cesión",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Censo Municipal",
+          "description": "Inscripción del animal en el censo del Concejo correspondiente.",
+          "start_date": "Desde el nacimiento o adquisición",
+          "end_date": "Plazo de 3 meses (nacimiento) o 15 días (adquisición)",
+          "required_documentation": "Cartilla sanitaria"
+        }
+      ]
+    },
+    {
+      "name": "Obtención de Licencia para Animales Potencialmente Peligrosos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de licencia",
+          "description": "Trámite ante el Ayuntamiento de residencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Identificación, vacuna antirrábica, certificado de esterilización (si aplica) y seguro de responsabilidad civil"
+        },
+        {
+          "step": 2,
+          "title": "Inscripción en el Registro Centralizado",
+          "description": "Obligación de inscribir el animal en el Registro Informático Centralizado tras obtener la licencia.",
+          "start_date": "Tras obtener la licencia",
+          "end_date": "15 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de Animales Errantes/Abandonados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Captura y depósito",
+          "description": "Traslado del animal al centro de depósito municipal.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Plazo de reclamación",
+          "description": "Periodo para que el propietario identifique y reclame al animal.",
+          "start_date": null,
+          "end_date": "8 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de destino",
+          "description": "Cesión a refugios, particulares o sacrificio según la evaluación veterinaria.",
+          "start_date": "Tras finalizar el plazo de 8 días",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

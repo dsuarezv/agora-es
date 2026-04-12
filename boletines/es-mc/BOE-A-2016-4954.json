@@ -1,0 +1,72 @@
+{
+  "identifier": "BOE-A-2016-4954",
+  "title": "Ley 4/2016, de 15 de abril, de regulación de los procedimientos de emergencia ciudadana en la Administración de la Región de Murcia",
+  "visible_title": "Regulación de los procedimientos de emergencia ciudadana en la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "4/2016",
+  "publication_date": "2016-05-25",
+  "enactment_date": "2016-04-15",
+  "last_updated": "2023-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2016/04/15/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea una categoría especial de trámites administrativos denominados 'Procedimientos de Emergencia Ciudadana' (PEC) para proteger a colectivos vulnerables. Su objetivo es evitar que la burocracia o la falta de recursos retrasen ayudas vitales como la renta básica, la dependencia o becas de comedor. Para lograrlo, establece la obligación de tramitar estos expedientes con urgencia y garantiza que tengan prioridad en el presupuesto y en los pagos de la Tesorería.",
+  "citizen_impact": "Acelera la obtención de ayudas críticas para personas en riesgo de exclusión, mayores, dependientes y familias con menores. Los ciudadanos que soliciten prestaciones listadas (como ayudas al alquiler o servicios de dependencia) recibirán una respuesta en la mitad de tiempo que un trámite ordinario.",
+  "professional_impact": "Los funcionarios de la Administración regional deben priorizar estos expedientes, reduciendo los plazos de resolución a la mitad. Además, la Tesorería tiene la obligación de dar prioridad de pago a estos gastos, y el Consejo de Gobierno debe planificar recursos humanos específicos para asegurar que no haya cuellos de botella.",
+  "keywords": [
+    "emergencia ciudadana",
+    "procedimiento de urgencia",
+    "ayudas sociales",
+    "dependencia",
+    "exclusión social",
+    "Región de Murcia",
+    "prioridad presupuestaria"
+  ],
+  "key_points": [
+    "Los plazos de tramitación de los procedimientos de emergencia se reducen a la mitad.",
+    "Se prohíbe recortar el presupuesto destinado a estos procedimientos durante el ejercicio.",
+    "La Tesorería debe priorizar el pago de las obligaciones derivadas de estos expedientes.",
+    "El Consejo de Gobierno puede añadir nuevos procedimientos a esta lista mediante reglamentos.",
+    "Se establece una obligación de informar trimestralmente a la Asamblea Regional sobre el estado de estas ayudas.",
+    "Incluye ayudas específicas de servicios sociales, sanidad, educación e igualdad."
+  ],
+  "legal_references": [
+    "Ley 30/1992, de 26 de noviembre",
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Ley 7/2004, de 28 de diciembre",
+    "Real Decreto Ley 17/2014, de 26 de diciembre",
+    "Ley 7/2007, de 14 de abril",
+    "Decreto Legislativo 1/2001, de 26 de enero"
+  ],
+  "derogations": [],
+  "main_obligations": "La Administración debe tramitar los PEC con urgencia (plazos reducidos al 50%) y la Tesorería debe priorizar sus pagos. No se pueden realizar modificaciones presupuestarias que reduzcan los fondos destinados a estos procedimientos.",
+  "effective_date": "2016-05-26",
+  "procedures": [
+    {
+      "name": "Procedimiento de Emergencia Ciudadana (PEC)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y tramitación de urgencia",
+          "description": "El procedimiento se inicia y debe tramitarse con plazos reducidos a la mitad respecto al régimen ordinario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación según la materia específica (social, sanitaria, educativa o igualdad)."
+        },
+        {
+          "step": 2,
+          "title": "Resolución y ordenación de pago",
+          "description": "Una vez resuelto, la Tesorería debe priorizar el pago del expediente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

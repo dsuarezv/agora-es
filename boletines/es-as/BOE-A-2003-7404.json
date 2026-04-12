@@ -1,0 +1,97 @@
+{
+  "identifier": "BOE-A-2003-7404",
+  "title": "Ley 1/2003, de 24 de febrero, de servicios sociales",
+  "visible_title": "Ley de servicios sociales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "1/2003",
+  "publication_date": "2003-04-10",
+  "enactment_date": "2003-02-24",
+  "last_updated": "2019-03-25",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/2003/02/24/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza el sistema de asistencia social en Asturias para responder de forma eficiente al envejecimiento de la población y la exclusión social. Establece un nuevo modelo de atención organizado por niveles y zonas geográficas para asegurar que la ayuda llegue donde se necesita. Introduce un catálogo de prestaciones que convierte la asistencia en derechos exigibles para los ciudadanos. Además, digitaliza la gestión mediante un expediente electrónico único para evitar la duplicidad de trámites y mejorar la coordinación entre administraciones.",
+  "citizen_impact": "Los ciudadanos pasan de recibir una asistencia discrecional a tener derechos exigibles mediante un catálogo de prestaciones. La creación de la Historia Social Única Electrónica facilita que sus datos y expedientes estén centralizados, agilizando la atención. También se establecen deberes de convivencia para quienes utilizan los servicios sociales.",
+  "professional_impact": "Las entidades privadas que operen en el sector de servicios sociales deben obtener obligatoriamente una autorización administrativa previa. Los ayuntamientos y organismos públicos tienen la carga de suministrar datos al nuevo sistema de información. Se establece un régimen sancionador tanto para entidades como para usuarios que incumplan la normativa.",
+  "keywords": [
+    "servicios sociales",
+    "Asturias",
+    "asistencia social",
+    "exclusión social",
+    "prestaciones sociales",
+    "historia social única",
+    "derechos sociales"
+  ],
+  "key_points": [
+    "Creación de la Historia Social Única Electrónica (HSUE) para centralizar expedientes y datos de los usuarios.",
+    "Establecimiento de un catálogo de prestaciones que distingue las 'fundamentales' como derechos exigibles.",
+    "Organización territorial basada en un Mapa Asturiano de Servicios Sociales (áreas, distritos y zonas básicas).",
+    "Obligatoriedad de autorización administrativa previa para centros y servicios sociales privados.",
+    "Reconocimiento de derechos y deberes específicos para las personas usuarias del sistema.",
+    "Implementación de un régimen sancionador para entidades y usuarios que incumplan normas de convivencia."
+  ],
+  "legal_references": [
+    "Ley 5/1987, de 11 de abril, de servicios sociales",
+    "Estatuto de Autonomía del Principado de Asturias",
+    "Ley 30/1992, de 26 de noviembre, de régimen jurídico de las Administraciones Públicas",
+    "Constitución Española",
+    "Reglamento (UE) 2016/679 (RGPD)",
+    "Ley Orgánica 3/2018, de 5 de diciembre, de protección de datos personales y garantía de los derechos digitales",
+    "Convenio de las Naciones Unidas sobre los derechos del niño de 1989"
+  ],
+  "derogatons": [
+    "Ley del Principado de Asturias 5/1987, de 11 de abril, de servicios sociales"
+  ],
+  "main_obligations": "Las entidades privadas deben obtener autorización administrativa previa para operar. El Consejo de Gobierno tiene un plazo de 8 meses para aprobar el Mapa de servicios sociales y de 2 años para el Catálogo de prestaciones. Los ayuntamientos deben suministrar datos al sistema de información.",
+  "effective_date": "2003-04-11",
+  "procedures": [
+    {
+      "name": "Aprobación del marco regulatorio de servicios sociales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación del Mapa asturiano de servicios sociales",
+          "descrption": "El Consejo de Gobierno debe aprobar el mapa que organiza territorialmente los servicios.",
+          "start_date": "8 meses desde la entrada en vigor de la Ley",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aprobación del Catálogo de prestaciones",
+          "descrption": "El Consejo de Gobierno debe aprobar el catálogo detallando las prestaciones y derechos.",
+          "start_date": "2 años desde la entrada en vigor de la Ley",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Implantación de la Historia Social Única Electrónica (HSUE)",
+          "descrption": "Tareas necesarias para la puesta en marcha de la plataforma informática.",
+          "start_date": "2 años desde la entrada en vigor de la Ley",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador en servicios sociales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Resolución y notificación",
+          "descrption": "Plazo máximo para resolver y notificar el expediente sancionador.",
+          "start_date": null,
+          "end_date": "12 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

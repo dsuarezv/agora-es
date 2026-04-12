@@ -1,0 +1,98 @@
+{
+  "identifier": "BOE-A-2021-19807",
+  "title": "Ley 3/2021, de 10 de noviembre, para impulsar y agilizar la tramitación de ayudas y otras actuaciones en materia de vivienda",
+  "visible_title": "Ley para impulsar y agilizar la tramitación de ayudas y actuaciones en materia de vivienda",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "3/2021",
+  "publication_date": "2021-12-01",
+  "enactment_date": "2021-11-10",
+  "last_updated": "2021-11-13",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/l/2021/11/10/3",
+  "official_journal": "BOIB",
+  "journal_issue": "166",
+  "summary": "Esta ley busca acelerar la entrega de ayudas de vivienda y mejorar la gestión del parque público en las Illes Balears tras la crisis de la COVID-19. Introduce un régimen especial de subvenciones para que los pagos sean más rápidos y simplifica los trámites administrativos. Además, refuerza el control sobre los grandes tenedores de viviendas y mejora las herramientas de la administración para adquirir inmuebles y aumentar la oferta de alquiler social.",
+  "citizen_impact": "Los ciudadanos que solicitan ayudas al alquiler podrán acceder a ellas sin necesidad de acreditar previamente el depósito de la fianza, eliminando un obstáculo burocrático común. También se agilizan los procesos para recibir subvenciones de rehabilitación y mejora de la vivienda.",
+  "professional_impact": "Los grandes tenedores de viviendas enfrentan mayores obligaciones de información y una inspección más estricta, con nuevas infracciones y sanciones por falta de colaboración. Las empresas inmobiliarias y profesionales del sector están sujetos a un nuevo régimen sancionador por conductas específicas.",
+  "keywords": [
+    "vivienda",
+    "ayudas al alquiler",
+    "subvenciones",
+    "grandes tenedores",
+    "vivienda protegida",
+    "agilización administrativa",
+    "Illes Balears"
+  ],
+  "key_points": [
+    "Eliminación del requisito de acreditar el depósito de la fianza para solicitar ayudas al alquiler.",
+    "Creación de un régimen especial de subvenciones para agilizar la concesión y el pago de ayudas.",
+    "Posibilidad de que la administración ceda su derecho de adquisición preferente a ayuntamientos y otras entidades públicas.",
+    "Nuevas obligaciones para grandes tenedores de comunicar la venta de viviendas desocupadas y facilitar el acceso de inspectores.",
+    "Ampliación del catálogo de infracciones y sanciones, incluyendo nuevas conductas en el sector inmobiliario.",
+    "Simplificación de los trámites para la aprobación de bases reguladoras de ayudas (solo 7 días de información pública).",
+    "Prórroga de la actividad de construcción sin restricciones estivales hasta mediados de junio de 2021.",
+    "Refuerzo de las herramientas de inspección para comprobar el cumplimiento de la normativa de vivienda."
+  ],
+  "legal_references": [
+    "Ley 5/2018, de 19 de junio, de la vivienda de las Illes Balears",
+    "Decreto ley 3/2020, de 28 de febrero",
+    "Decreto 36/2019, de 10 de mayo",
+    "Decreto 22/1989, de 22 de febrero",
+    "Ley 2/2020, de 15 de octubre",
+    "Real decreto ley 11/2020, de 31 de marzo",
+    "Ley 38/2003, de 17 de noviembre, General de Subvenciones"
+  ],
+  "derogations": [
+    "Apartado 5 del artículo 90 de la Ley 5/2018",
+    "Disposición transitoria tercera del Decreto 36/2019",
+    "Artículos 1, 2, 3, 4, 9, 10, 11 y disposiciones de la Ley 5/2018 relacionados con el Decreto 22/1989",
+    "Decreto 109/1990, de 13 de diciembre",
+    "Orden de 18 de octubre de 2010 (Registro Público de Demandantes de Viviendas Protegidas)",
+    "Decreto ley 4/2021, de 3 de mayo"
+  ],
+  "main_obligations": "Los grandes tenedores deben comunicar la venta de viviendas desocupadas en un plazo de un mes y facilitar el acceso físico de los inspectores a dichas viviendas. Se establecen nuevas sanciones por incumplimiento de la función social de la vivienda protegida y por conductas indebidas en la actividad inmobiliaria.",
+  "effective_date": "2021-11-10",
+  "procedures": [
+    {
+      "name": "Concesión de ayudas en materia de vivienda (Régimen Especial)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Resolución de inicio",
+          "descrption": "Aprobación de las bases reguladoras y la convocatoria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "descrption": "Periodo de exposición de las bases para alegaciones.",
+          "start_date": null,
+          "end_date": "7 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informe jurídico y fiscalización",
+          "descrption": "Trámite de informes preceptivos y control de la Intervención.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución de concesión",
+          "descrption": "Resolución de las ayudas mediante concurrencia no competitiva.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

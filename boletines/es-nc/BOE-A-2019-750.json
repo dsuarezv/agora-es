@@ -1,0 +1,111 @@
+{
+  "identifier": "BOE-A-2019-750",
+  "title": "Ley Foral 28/2018, de 26 de diciembre, sobre el derecho subjetivo a la vivienda en Navarra",
+  "visible_title": "Ley sobre el derecho subjetivo a la vivienda en Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "28/2018",
+  "publication_date": "2019-01-23",
+  "enactment_date": "2018-12-26",
+  "last_updated": "2018-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2018/12/26/28",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley transforma el acceso a la vivienda en un derecho exigible ante la Administración en Navarra. Ante la falta de vivienda pública suficiente, establece un sistema de deducciones fiscales anticipadas para ayudar al pago del alquiler. Además, refuerza la función social de la vivienda prohibiendo su uso turístico si es protegida y creando mecanismos para combatir la desocupación de inmuebles.",
+  "citizen_impact": "Los jóvenes (23-30 años) y familias con bajos ingresos pueden recibir ayudas directas mediante deducciones en el IRPF que se cobran de forma anticipada cada mes o trimestre. También se facilita el acceso a la vivienda protegida mediante nuevos criterios de renta y la posibilidad de elegir promociones específicas.",
+  "professional_impact": "Los propietarios de viviendas protegidas tienen prohibido el alquiler turístico bajo riesgo de sanción. Las entidades financieras y suministradoras de servicios (agua, luz, gas) están obligadas a facilitar datos a la Administración para identificar viviendas deshabitadas. Los promotores deben atender vicios ocultos en un plazo de tres años tras la calificación.",
+  "keywords": [
+    "derecho a la vivienda",
+    "Navarra",
+    "deducciones IRPF",
+    "vivienda protegida",
+    "emancipación",
+    "viviendas deshabitadas",
+    "SARA"
+  ],
+  "key_points": [
+    "Reconocimiento del derecho subjetivo a una vivienda digna exigible ante la Administración.",
+    "Creación del indicador SARA para actualizar las ayudas según la economía real.",
+    "Nuevas deducciones fiscales en el IRPF para emancipación (23-30 años) y acceso a la vivienda.",
+    "Prohibición absoluta de destinar viviendas protegidas al alquiler turístico.",
+    "Creación del Registro de Viviendas Deshabitadas para controlar inmuebles vacíos.",
+    "Obligación de las eléctricas y suministradoras de informar sobre consumos mínimos para detectar desocupación.",
+    "Facultad de la Administración para ejercer derecho de tanteo y retracto en viviendas protegidas.",
+    "Reducción del 50% en el precio de transmisión de viviendas protegidas adquiridas por dación en pago."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley Foral 10/2010, de 10 de mayo, del Derecho a la Vivienda en Navarra",
+    "Decreto Foral Legislativo 4/2008 (IRPF Navarra)",
+    "Decreto Foral 61/2013",
+    "Decreto Foral 108/2014",
+    "Ley Foral 2/2018"
+  ],
+  "derogations": [],
+  "main_obligations": "Se prohíbe el uso turístico de viviendas protegidas y se obliga a los propietarios de edificios residenciales a realizar informes de evaluación. Las empresas de suministros y entidades financieras deben entregar datos de consumo y titularidad a la Administración para identificar viviendas deshabitadas.",
+  "effective_date": "2019-01-01",
+  "procedures": [
+    {
+      "name": "Solicitud de deducción fiscal por arrendamiento (anticipada)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Solicitud a través de la plataforma informática del portal web de vivienda de Navarra.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Justificación del pago del alquiler mediante recibo bancario o transferencia."
+        },
+        {
+          "step": 2,
+          "title": "Resolución administrativa",
+          "description": "La Dirección General competente resuelve la solicitud.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Abono de la deducción",
+          "description": "Pago de la ayuda de forma trimestral (emancipación) o mensual (acceso).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Justificación del pago del periodo vencido."
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento declarativo de vivienda deshabitada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de inicio",
+          "description": "La Administración inicia el expediente tras detectar indicios de no habitación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Trámite de audiencia",
+          "description": "Periodo para que el interesado alegue o acepte medidas de fomento.",
+          "start_date": null,
+          "end_date": "10 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Declaración de vivienda deshabitada e inscripción en el Registro.",
+          "start_date": null,
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

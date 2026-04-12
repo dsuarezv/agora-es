@@ -1,0 +1,81 @@
+{
+  "identifier": "BOE-A-2017-10293",
+  "title": "Ley 6/2017, de 15 de junio, de Cuentas Abiertas de Aragón",
+  "visible_title": "Ley de Cuentas Abiertas de Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "6/2017",
+  "publication_date": "2017-09-08",
+  "enactment_date": "2017-06-15",
+  "last_updated": "2017-06-23",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2017/06/15/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley obliga a las instituciones públicas de Aragón a publicar de forma proactiva y detallada la información de sus cuentas bancarias en internet. El objetivo es garantizar la máxima transparencia sobre el uso del dinero público y combatir la corrupción. No se trata de un derecho de acceso que el ciudadano deba solicitar, sino de una obligación de las administraciones de mostrar sus saldos y movimientos de forma clara y accesible.",
+  "citizen_impact": "Permite a cualquier ciudadano controlar en qué y cómo gastan el dinero público las instituciones aragonesas. Facilita el acceso a datos financieros reales sin necesidad de realizar trámites burocráticos de solicitud de información.",
+  "professional_impact": "Impone a funcionarios y gestores de entidades públicas (incluyendo ayuntamientos de más de 20.000 habitantes, universidades y sociedades mercantiles públicas) la carga de mantener actualizados sus portales de transparencia con datos bancarios. Las entidades deben asegurar que la información sea descargable, reutilizable y esté anonimizada cuando sea necesario para proteger datos sensibles.",
+  "keywords": [
+    "transparencia",
+    "cuentas abiertas",
+    "dinero público",
+    "Aragón",
+    "rendición de cuentas",
+    "publicidad activa",
+    "control financiero"
+  ],
+  "key_points": [
+    "Obligación de publicar saldos, titulares y movimientos bancarios en portales de transparencia.",
+    "Los números de cuenta (IBAN) se publicarán de forma codificada (solo los 4 primeros y 4 últimos dígitos) por seguridad.",
+    "La información debe actualizarse cada seis meses.",
+    "Los datos deben publicarse en formatos abiertos, descargables y reutilizables.",
+    "El Consejo de Transparencia de Aragón es el encargado de vigilar el cumplimiento y resolver quejas.",
+    "El incumplimiento reiterado tras requerimiento se considera infracción grave y se publica en el BOA.",
+    "Se aplica también a sociedades mercantiles y fundaciones con fuerte participación de capital público."
+  ],
+  "legal_references": [
+    "Ley 8/2015, de 25 de marzo, de Transparencia de la Actividad Pública y Participación Ciudadana de Aragón",
+    "Estatuto de Autonomía de Aragón",
+    "Ley 19/2013, de 9 de diciembre, de Transparencia, Acceso a la Información Pública y Buen Gobierno",
+    "Ley 37/2007, de 16 de junio, de reutilización de la información del sector público",
+    "Real Decreto 3/2010, de 8 de enero, del Esquema Nacional de Seguridad",
+    "Real Decreto 4/2010, de 8 de enero, del Esquema Nacional de Interoperabilidad"
+  ],
+  "derogations": [],
+  "main_obligations": "Las entidades deben publicar la información de sus cuentas bancarias y movimientos en sus webs cada seis meses. El incumplimiento reiterado tras dos meses de requerimiento del Consejo de Transparencia conlleva la sanción de publicación de la infracción en el Boletín Oficial de Aragón.",
+  "effective_date": "2017-06-16",
+  "procedures": [
+    {
+      "name": "Implementación de la transparencia de cuentas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación inicial de cuentas",
+          "description": "Las entidades deben hacer públicas todas sus cuentas abiertas en sus portales de transparencia.",
+          "start_date": "6 meses desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": "Datos de titularidad, entidad, IBAN codificado, saldo y NIF."
+        },
+        {
+          "step": 2,
+          "title": "Ejecución de medidas técnicas",
+          "description": "Desarrollo de las herramientas técnicas para la publicación de datos.",
+          "start_date": "6 meses desde la publicación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Actualización semestral",
+          "description": "Actualización de la información de movimientos y saldos.",
+          "start_date": "Cada 6 meses",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

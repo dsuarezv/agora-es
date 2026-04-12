@@ -1,0 +1,171 @@
+{
+  "identifier": "DOGV-r-2013-90037",
+  "title": "Decreto-ley 2/2013, de 1 de marzo, del Consell, de Actuaciones Urgentes de Gestión y Eficiencia en Prestación Farmacéutica y Ortoprotésica",
+  "visible_title": "Gestión y Eficiencia en la Prestación Farmacéutica y Ortoprotésica",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "2/2013",
+  "publication_date": "2013-03-05",
+  "enactment_date": "2013-03-01",
+  "last_updated": "2020-12-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=DOGV-r-2013-90037",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta norma busca optimizar el gasto sanitario en la Comunidad Valenciana mediante un control estricto de la prescripción y la dispensación de medicamentos. Introduce algoritmos de decisión para que los médicos prescriban basándose en la relación coste-efectividad y digitaliza todo el proceso mediante la receta electrónica integral. Además, establece mecanismos de apoyo para farmacias rurales y refuerza la supervisión de productos de alto impacto y de implantología. El objetivo final es garantizar la sostenibilidad del sistema de salud asegurando que cada euro invertido en fármacos sea eficiente.",
+  "citizen_impact": "El paciente recibirá un informe detallado de sus tratamientos donde se incluirá el coste individualizado de cada producto. Aunque la prescripción se ajustará más a criterios de eficiencia económica, se garantiza la continuidad del tratamiento mediante la receta electrónica interoperable.",
+  "professional_impact": "Los médicos deben usar obligatoriamente algoritmos de decisión terapéutica y justificar mediante informe cualquier desviación. Los profesionales sanitarios deben operar con los sistemas Abucasis y Gaia. Las farmacias enfrentan controles más estrictos en la facturación y el registro de productos (sistema MDISP), con plazos mensuales rigurosos para la entrega de justificantes y facturas. Los Colegios de Farmacéuticos asumen la gestión de horarios y urgencias.",
+  "keywords": [
+    "gestión farmacéutica",
+    "receta electrónica",
+    "coste-efectividad",
+    "prescripción médica",
+    "farmacias rurales",
+    "control de facturación"
+  ],
+  "key_points": [
+    "Obligatoriedad de prescribir medicamentos siguiendo algoritmos de coste-efectividad.",
+    "Implementación de la receta electrónica integral para agilizar la dispensación y facturación.",
+    "Creación del programa de seguimiento de medicamentos de alto impacto (PAISE).",
+    "Apoyo económico a farmacias rurales con ventas anuales inferiores a 200.000€ mediante un índice corrector de márgenes.",
+    "Uso obligatorio de los sistemas Abucasis y Gaia para la gestión clínica y administrativa.",
+    "Control estricto de la facturación: el pago está condicionado a la entrega de justificantes electrónicos mensuales.",
+    "En caso de fallo informático, la farmacia solo puede dispensar un envase del tratamiento vigente.",
+    "Registro obligatorio de suministros en centros sanitarios mediante el sistema MDISP.",
+    "Nueva estructura de la Comisión Asesorada de Implantes (CAI) para controlar productos quirúrgicos.",
+    "Delegación de la gestión de horarios y urgencias farmacéuticas en los Colegios Oficiales de Farmacéuticos."
+  ],
+  "legal_references": [
+    "Ley 29/2006, de 26 de julio, de garantías y uso racional de los medicamentos y productos sanitarios",
+    "Real Decreto-ley 16/2012, de 20 de abril",
+    "Real Decreto 1030/2006, de 15 de septiembre",
+    "Ley 6/1998, de 26 de agosto, de Ordenación Farmacéutica de la Comunitat Valenciana",
+    "Real Decreto 823/2008, de 15 de julio",
+    "Ley 11/2007, de 27 de junio, de Acceso Electrónico de los Ciudadanos a los Servicios Públicos",
+    "Ley 3/2010, de 5 de mayo, de administración electrónica de la Comunitat Valenciana",
+    "Estatuto de la Autonomía de la Comunitat Valenciana",
+    "Decreto 118/2010",
+    "Decreto 76/2010",
+    "Decreto 187/1997",
+    "Ley 30/1992"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a la presente norma"
+  ],
+  "main_obligations": "Las farmacias deben presentar los justificantes de dispensación antes del día 20 del mes siguiente a la facturación y las facturas dentro de los primeros 15 días del mes siguiente. Los centros hospitalarios deben realizar la asignación previa del gasto en medicamentos antes de finalizar febrero de cada año.",
+  "effective_date": "2013-03-01",
+  "procedures": [
+    {
+      "name": "Prescripción basada en algoritmos corporativos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aplicación del algoritmo",
+          "descrption": "El facultativo selecciona el tratamiento según las directrices de coste-efectividad en el sistema Abucasis-Gaia.",
+          "start_date": "Al día siguiente del consenso y publicación del algoritmo",
+          "end_date": null,
+          "required_documentation": "Sistema de información Abucasis-Gaia"
+        },
+        {
+          "step": 2,
+          "title": "Justificación de excepción",
+          "descrption": "En caso de no seguir el algoritmo, el médico debe realizar un informe justificativo de la excepción terapéutica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe justificativo registrado en el sistema"
+        }
+      ]
+    },
+    {
+      "name": "Gestión presupuestaria hospitalaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Asignación previa de gasto",
+          "descrption": "Los centros hospitalarios deben asignar el gasto previsibles de medicamentos, dietoterápicos y ortoprótesis por área y mes.",
+          "start_date": "Antes de finalizar febrero",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comunicación de balance mensual",
+          "descrption": "Las Gerencias deben comunicar el balance entre la asignación prevista y la utilización real.",
+          "start_date": "Antes del día 15 del mes siguiente al informado",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acceso a ayudas para farmacias rurales (Índice corrector)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria anual",
+          "descrption": "La Agència Valenciana de Salut realiza la convocatoria de las compensaciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Requisitos de solicitud",
+          "descrption": "La farmacia debe tener ventas < 200.000€, no haber sido sancionada y participar en programas de atención farmacéutica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Proceso de facturación y pago de recetas en farmacias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Dispensación y captura de datos",
+          "description": "Registro obligatorio de la tarjeta sanitaria y todos los elementos identificativos de la medicación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Tarjeta sanitaria individual y receta (electrónica o papel)"
+        },
+        {
+          "step": 2,
+          "title": "Confección de facturas",
+          "description": "Elaboración mensual de facturas individuales por farmacia y resumen general.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Información de dispensaciones electrónicas o recetas médicas"
+        },
+        {
+          "step": 3,
+          "title": "Presentación de justificantes",
+          "description": "Entrega de los justificantes de dispensación para validar la factura.",
+          "start_date": null,
+          "end_date": "Día 20 del mes siguiente",
+          "required_documentation": "Justificantes de dispensación"
+        },
+        {
+          "step": 4,
+          "title": "Presentación de facturas y soportes",
+          "description": "Entrega de la factura y los soportes informáticos equivalentes.",
+          "start_date": null,
+          "end_date": "Primeros 15 días del mes siguiente",
+          "required_documentation": "Facturas y soportes electrónicos"
+        },
+        {
+          "step": 5,
+          "title": "Pago de la factura",
+          "description": "Abono por parte de la Agència Valenciana de Salut tras comprobación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

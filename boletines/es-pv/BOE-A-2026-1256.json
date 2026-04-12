@@ -1,0 +1,83 @@
+{
+  "identifier": "BOE-A-2026-1256",
+  "title": "Ley 6/2025, de 11 de diciembre, de Medidas Urgentes en materia de Vivienda, Suelo y Urbanismo",
+  "visible_title": "Ley de Medidas Urgentes en materia de Vivienda, Suelo y Urbanismo",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "6/2025",
+  "publication_date": "2026-01-20",
+  "enactment_date": "2025-12-11",
+  "last_updated": "2025-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2025/12/11/6",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta ley busca combatir la crisis habitacional en el País Vasco agilizando la creación de vivienda protegida y liberando suelo para su construcción. Introduce nuevos procedimientos urbanísticos rápidos para evitar la parálisis administrativa y permite reducir la reserva obligatoria de vivienda protegida en ciertos casos para asegurar la viabilidad de los proyectos. Además, busca controlar el impacto de las viviendas de uso turístico en las zonas donde el alquiler residencial es escaso.",
+  "citizen_impact": "Los ciudadanos podrían beneficiarse de una mayor oferta de vivienda protegida en alquiler y venta gracias a la agilización de trámites. También se busca proteger el mercado de alquiler residencial limitando la proliferación de pisos turísticos en zonas tensionadas.",
+  "professional_impact": "Las constructoras y promotoras dispondrán de un nuevo procedimiento de 'actuación prioritaria' mucho más rápido para proyectos de vivienda protegida. Los ayuntamientos y la administración pública tendrán nuevas herramientas para gestionar suelo y realizar contrataciones de obra de forma más ágil y conjunta.",
+  "keywords": [
+    "vivienda protegida",
+    "suelo urbanizable",
+    "alquiler social",
+    "urbanismo",
+    "vivienda turística",
+    "País Vasco",
+    "mercado tensionado"
+  ],
+  "key_points": [
+    "Creación de 'actuaciones prioritarias' con procedimientos abreviados para construir vivienda protegida sin trámites intermedios.",
+    "Posibilidad de reducir la reserva de vivienda protegida del 75% al 60% (con un mínimo del 55% social) para facilitar la viabilidad económica de proyectos.",
+    "Creación de una reserva estratégica de suelo mediante la cesión automatizada de plusvalías de los ayuntamientos al Gobierno Vasco.",
+    "Suspensión de la posibilidad de abrir nuevas viviendas de uso turístico mediante declaración responsable en zonas de mercado residencial tensionado.",
+    "Agilización de informes ambientales y sectoriales, permitiendo que la falta de respuesta en plazo se considere informe favorable.",
+    "Facilidad para ubicar alojamientos dotacionales en suelos de equipamiento o parcelas residenciales públicas sin cambiar la calificación.",
+    "Nuevas reglas para la contratación pública que permiten unir diseño, dirección y ejecución de obras en promociones de vivienda protegida."
+  ],
+  "legal_references": [
+    "Ley 2/2006, de 30 de junio, de Suelo y Urbanismo",
+    "Ley 3/2015, de 18 de junio, de Vivienda",
+    "Ley 12/2023, de 24 de mayo, por el Derecho a la Vivienda",
+    "Ley 10/2021, de 9 de diciembre, de Administración Ambiental de Euaskadi",
+    "Ley 4/2015, de 25 de junio, para la prevención y corrección de la contaminación del suelo",
+    "Ley 2/2016, de 7 de abril, de Instituciones Locales de Euaskadi",
+    "Ley 13/2016, de 28 de julio, de Turismo",
+    "Ley 14/2022, de 22 de diciembre, del Sistema Vasco de Garantía de Ingresos y para la Inclusión"
+  ],
+  "derogations": [
+    "Se dejan sin contenido y se modifican diversos artículos de la Ley 2/2006 de Suelo y Urbanismo",
+    "Se derogan la sección octava del capítulo I del título V y otros artículos específicos de la Ley 2/2006"
+  ],
+  "main_obligations": "Los ayuntamientos deberán participar en la cesión de suelos para la reserva estratégica de suelo. El incumplimiento de las obligaciones en zonas de mercado residencial tensionado se considera una infracción grave.",
+  "effective_date": "2026-01-21",
+  "procedures": [
+    {
+      "name": "Tramitación de Proyecto de Actuación Prioritaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación por el Ayuntamiento",
+          "description": "El ayuntamiento aprueba el proyecto, lo que permite iniciar la urbanización y edificación sin instrumentos intermedios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Informes Sectoriales Agilizados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Emisión de informe único",
+          "description": "El Gobierno Vasco o Diputación emite un informe único para todos los organismos implicados.",
+          "start_date": null,
+          "end_date": "1 mes (en proyectos de planeamiento o edificación protegida)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

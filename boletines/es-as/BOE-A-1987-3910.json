@@ -1,0 +1,94 @@
+{
+  "identifier": "BOE-A-1987-3910",
+  "title": "Ley 14/1986, de 26 de diciembre, sobre régimen de elecciones a la Junta General del Principado de Asturias",
+  "visible_title": "Régimen de elecciones a la Junta General del Principado de Asturias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "14/1986",
+  "publication_date": "1987-02-13",
+  "enactment_date": "1986-12-26",
+  "last_updated": "1991-03-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1986/12/26/14",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas de juego para elegir a los diputados de la Junta General de Asturias. Define cómo se divide el territorio en circunscripciones (Centro, Occidente y Oriente), cómo se reparten los 45 escaños y quiénes pueden ser candidatos o votar. Además, regula el uso de medios de comunicación públicos para la propaganda electoral y el sistema de subvenciones para los partidos.",
+  "citizen_impact": "Define quiénes pueden votar en las elecciones asturianas (ciudadanos españoles con condición política de asturianos) y quiénes pueden presentarse como candidatos. También establece el derecho a la información sobre las candidaturas y el proceso de voto por correo.",
+  "professional_impact": "Afecta directamente a los partidos políticos y agrupaciones de electores, quienes deben designar administradores electorales y cumplir con estrictos controles de contabilidad. Los altos cargos de la administración asturiana y de otras comunidades autónomas tienen prohibido ser candidatos para evitar conflictos de intereses.",
+  "keywords": [
+    "elecciones asturias",
+    "Junta General",
+    "sistema electoral",
+    "sufragio",
+    "circunscripciones",
+    "partidos políticos",
+    "subvenciones electorales"
+  ],
+  "key_points": [
+    "División del territorio en tres grandes zonas: Centro, Occidente y Oriente.",
+    "La Junta General se compone de un total de 45 diputados.",
+    "Para que una candidatura sea válida, debe obtener al menos el 3% de los votos en su circunscripción.",
+    "Se establece un sistema de reparto de escaños basado en la fórmula de los cocientes (D'Hondt/similar).",
+    "Los partidos tienen derecho a tiempos gratuitos de emisión en medios públicos regionales.",
+    "Se prohíbe el uso de símbolos que reproduzcan la bandera o el escudo de Asturias en las papeletas.",
+    "Los candidatos deben presentar listas cerradas y bloqueadas.",
+    "Se regula la incompatibilidad de cargos para evitar que altos funcionarios de la administración sean diputados."
+  ],
+  "legal_references": [
+    "Ley Orgánica 7/1981, del Estatuto de Autonomía para Asturias",
+    "Ley Orgánica 5/1985, del Régimen Electoral General"
+  ],
+  "derogations": [],
+  "main_obligations": "Los partidos deben designar un administrador electoral y presentar la contabilidad detallada ante el Tribunal de Cuentas. Las candidaturas deben presentarse en el plazo de entre el día 15 y 20 tras la convocatoria.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Proceso de presentación de candidaturas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Designación de representantes",
+          "description": "Los partidos deben designar un representante general ante la Junta Electoral.",
+          "start_date": "9 días después de la convocatoria",
+          "end_date": "9 días después de la convocatoria",
+          "required_documentation": "Escrito de designación y aceptación"
+        },
+        {
+          "step": 2,
+          "title": "Presentación de candidaturas",
+          "description": "Presentación de las listas de candidatos ante la Junta Electoral.",
+          "start_date": "15 días después de la convocatoria",
+          "end_date": "20 días después de la convocatoria",
+          "required_documentation": "Listas cerradas y bloqueadas, y en caso de agrupaciones, firmas del 1% del censo"
+        },
+        {
+          "step": 3,
+          "title": "Publicación de candidaturas presentadas",
+          "description": "Se exponen las listas para conocimiento público.",
+          "start_date": "22 días después de la convocatoria",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Subsanación de errores",
+          "description": "Plazo para corregir irregularidades comunicadas por la Junta Electoral.",
+          "start_date": "2 días después de la publicación",
+          "end_date": "48 horas después de la notificación",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Proclamación de candidatos",
+          "description": "La Junta Electoral oficializa las candidaturas válidas.",
+          "start_date": "27 días después de la convocatoria",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

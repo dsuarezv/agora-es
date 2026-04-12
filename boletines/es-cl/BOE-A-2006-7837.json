@@ -1,0 +1,115 @@
+{
+  "identifier": "BOE-A-2006-7837",
+  "title": "Ley 1/2006, de 6 de abril, de mediación familiar de Castilla y León",
+  "visible_title": "Ley de mediación familiar de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "1/2006",
+  "publication_date": "2006-05-03",
+  "enactment_date": "2006-04-06",
+  "last_updated": "2009-12-26",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2006/04/06/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "7837",
+  "summary": "Esta ley regula la mediación familiar en Castilla y León como un método extrajudicial para resolver conflictos de pareja, parentesco o convivencia. Su objetivo es evitar procesos judiciales contenciosos y reducir su impacto, buscando soluciones consensuadas que protejan especialmente a menores y dependientes. Establece un marco de actuación para profesionales cualificados y garantiza la existencia de mediación gratuita para personas con escasos recursos.",
+  "citizen_impact": "Ofrece a las familias una vía alternativa y menos traumática para resolver conflictos de divorcio, separación o convivencia sin acudir directamente a los tribunales. Permite acceder a servicios de mediación gratuitos si se acredita falta de recursos económicos, garantizando la confidencialidad y la voluntariedad del proceso.",
+  "professional_impact": "Crea un nuevo mercado laboral para profesionales de áreas como Derecho, Psicología, Trabajo Social y Educación Social, quienes deben inscribirse en un Registro oficial. Impone obligaciones estrictas de neutralidad, secreto profesional y deberes de actuación, bajo riesgo de sanciones que pueden incluir la suspensión del ejercicio profesional hasta por 15 años.",
+  "keywords": [
+    "mediación familiar",
+    "resolución de conflictos",
+    "Castilla y León",
+    "derecho de familia",
+    "mediadores profesionales",
+    "procedimiento extrajudicial"
+  ],
+  "key_points": [
+    "La mediación es estrictamente voluntaria para todas las partes.",
+    "Queda prohibida la mediación en casos donde exista violencia o maltrato familiar.",
+    "Se permite la creación de equipos multidisciplinares de mediadores para aportar mayor especialidad.",
+    "Existe un Registro de Mediadores Familiares gestionado por la Junta de Castilla y León.",
+    "La mediación puede ser gratuita para personas con recursos económicos escasos.",
+    "Los acuerdos alcanzados en mediación pueden ser presentados ante un juez para su validación procesal.",
+    "El proceso de mediación tiene una duración máxima de 3 meses, prorrogables por otros 3 en casos excepcionales."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Castilla y León",
+    "Ley 18/1988, de 23 de diciembre, de Acción Social y Servicios Sociales de la Comunidad",
+    "Ley 14/2002, de 25 de julio, de promoción, atención y protección a la infancia en Castilla y León"
+  ],
+  "derogatations": [],
+  "main_obligations": "Los mediadores deben actuar con neutralidad, secreto profesional y abstenerse si tienen conflictos de interés. El incumplimiento de deberes graves, como quebrar la confidencialidad o cobrar a personas con derecho a gratuidad, conlleva sanciones de suspensión de hasta 15 años.",
+  "effective_date": "2006-11-03",
+  "procedures": [
+    {
+      "name": "Procedimiento de mediación familiar (General)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación por común acuerdo",
+          "description": "Las partes interesadas solicitan la mediación ante un profesional inscrito en el Registro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Sesión inicial y compromiso",
+          "description": "Reunión para analizar la pertinencia de la mediación y firma del compromiso de sometimiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Compromiso de sometimiento expreso a la mediación"
+        },
+        {
+          "step": 3,
+          "title": "Desarrollo de las sesiones",
+          "description": "Realización de las sesiones de mediación para buscar soluciones.",
+          "start_date": null,
+          "end_date": "3 meses (prorrogables 3 meses más)",
+          "required_documentation": "Justificantes de celebración de cada sesión"
+        },
+        {
+          "step": 4,
+          "title": "Finalización y Acta",
+          "description": "Cierre del proceso con la redacción del acta final que contiene los acuerdos alcanzados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta de la sesión final"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de mediación gratuita",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de gratuidad",
+          "description": "Presentación de la solicitud ante el encargado del Registro de Mediadores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite escasez de recursos económicos"
+        },
+        {
+          "step": 2,
+          "title": "Comprobación y resolución",
+          "description": "El Registro comprueba la legitimación y la situación económica de los solicitantes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Designación de mediador",
+          "description": "Se asigna un mediador por estricto orden de turno de oficio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

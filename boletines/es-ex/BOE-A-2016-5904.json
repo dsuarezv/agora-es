@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-2016-5904",
+  "title": "Decreto-ley 1/2016, de 10 de mayo, de medidas extraordinarias contra la exclusión social",
+  "visible_title": "Medidas extraordinarias contra la exclusión social",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Junta de Extremadura",
+  "official_number": "1/2016",
+  "publication_date": "2016-06-17",
+  "enactment_date": "2016-05-10",
+  "last_updated": "2016-05-11",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/dl/2016/05/10/1",
+  "official_journal": "Boletín Oficial de Extremadura",
+  "journal_issue": null,
+  "summary": "Esta norma implementa un paquete de urgencia para combatir la pobreza y la exclusión social en Extremadura. Establece la universalización de la asistencia sanitaria para extranjeros sin recursos, agiliza la Rentas Básicas de Inserción y garantiza suministros mínimos de agua y luz. Además, reforma el acceso a la vivienda pública y crea ayudas para situaciones de emergencia social.",
+  "citizen_impact": "Los ciudadanos en situación de vulnerabilidad o extranjeros empadronados sin recursos ganan acceso a la sanidad pública y a garantías de suministro de agua y electricidad. También se facilita el acceso a viviendas públicas mediante un sistema de concurso en lugar de sorteo y se crean ayudas para evitar desahucios o cubrir gastos básicos inesperados.",
+  "professional_impact": "Los trabajadores sociales ven modificados sus procedimientos de gestión de la Renta Básica y de las ayudas por contingencias. Los profesionales sanitarios deben gestionar la nueva tarjeta de acceso para colectivos extranjeros, y los gestores de vivienda pública deben implementar el nuevo sistema de concurso por valoración.",
+  "keywords": [
+    "exclusión social",
+    "sanidad universal",
+    "vivienda pública",
+    "pobreza energética",
+    "renta básica",
+    "Extremadura",
+    "ayudas de emergencia"
+  ],
+  "key_points": [
+    "Acceso a la sanidad pública para extranjeros no registrados pero empadronados en Extremadura con bajos ingresos.",
+    "Garantía de suministro mínimo de 100 litros de agua y 6 kWh de electricidad al día para personas vulnerables.",
+    "Cambio del sistema de adjudicación de vivienda pública de sorteo a concurso por valoración social.",
+    "Creación de ayudas económicas para gastos básicos (alimentación, salud, vivienda) ante situaciones de emergencia social.",
+    "Agilización de la tramitación de la Rentas Básica Extremeña de Inserción y posibilidad de subrogación del derecho en caso de fallecimiento o abandono del titular.",
+    "Nuevas ayudas para familias afectadas por ejecuciones hipotecarias para cubrir el alquiler mientras acceden a vivienda pública.",
+    "Inclusión de la mediación hipotecaria entre las funciones del Instituto de Consumo de Extremadura."
+  ],
+  "legal_references": [
+    "Real Decreto-ley 16/2012",
+    "Ley 16/2003",
+    "Ley 33/2011",
+    "Ley 10/2001 de Salud de Extremadura",
+    "Ley 9/2014 de Rentas Básicas Extremeña de Inserción",
+    "Ley 14/2015 de Servicios Sociales de Extremadura",
+    "Ley 3/2013",
+    "Decreto 31/2004",
+    "Decreto 115/2006",
+    "Ley 1/2008"
+  ],
+  "derogations": [],
+  "main_obligations": "Los solicitantes de ayudas deben acreditar su residencia efectiva en Extremadura y su situación de falta de recursos económicos. Los beneficiarios de la Renta Básica deben cumplir con un Proyecto Individualizado de Inserción.",
+  "effective_date": "2016-06-17",
+  "procedures": [
+    {
+      "name": "Acceso a la asistencia sanitaria para extranjeros sin recursos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y acreditación",
+          "description": "Presentar documentación que acredite empadronamiento (mínimo 3 meses), condición de extranjero y falta de recursos (renta < 1,5 IPREM).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Certificado de empadronamiento, acreditación de ingresos y situación de residencia."
+        },
+        {
+          "step": 2,
+          "title": "Asignación de médico y centro",
+          "description": "Se asigna centro de salud y médico de familia según el mapa sanitario y domicilio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Concesión de la Rentas Básica Extremeña de Inserción",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Solicitud telemática asistida por trabajadores sociales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Libro de familia, certificado de empadronamiento, certificado de convivencia, resolución judicial de alimentos (si aplica)."
+        },
+        {
+          "step": 2,
+          "title": "Evaluación e Informe Social",
+          "description": "El trabajador social evalúa la situación y elabora el Proyecto Individualizado de Inserción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Plazo máximo de 6 meses para resolver. Si no hay respuesta, se entiende estimada por silencio administrativo.",
+          "start_date": null,
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

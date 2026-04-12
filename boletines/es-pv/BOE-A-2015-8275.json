@@ -1,0 +1,94 @@
+{
+  "identifier": "BOE-A-2015-8275",
+  "title": "Ley 7/2015, de 30 de junio, de relaciones familiares en supuestos de separación o ruptura de los progenitores",
+  "visible_title": "Ley de relaciones familiares en supuestos de separación o ruptura de los progenitores",
+  "rank": "ley",
+  "country": "es",
+  "department": "Parlamento Vasco",
+  "official_number": "7/2015",
+  "publication_date": "2015-07-24",
+  "enactment_date": "2015-06-30",
+  "last_updated": "2015-07-10",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2015/06/30/7",
+  "official_journal": "Boletín Oficial del País Vasco",
+  "journal_issue": null,
+  "summary": "Esta ley regula cómo deben organizarse las familias en el País Vasco tras una separación, divorcio o ruptura de pareja de hecho. Su objetivo principal es priorizar el bienestar de los menores y fomentar la corresponsabilidad de ambos progenitores. Introduce la custodia compartida como opción preferente y promueve la mediación familiar para evitar conflictos judiciales.",
+  "citizen_impact": "Los padres y madres en el País Vasco que se separen tienen ahora un marco legal que facilita la custodia compartida y la toma de decisiones conjunta. Se les ofrece la mediación como herramienta para resolver conflictos sin ir a juicio y se les permite pactar condiciones de convivencia incluso antes de la ruptura formal.",
+  "professional_impact": "Los jueces y fiscales deben aplicar nuevos criterios para decidir sobre la custodia, priorizando la compartida salvo que perjudique al menor. Los mediadores familiares adquieren un rol central en la resolución de conflictos, y los abogados deben integrar la propuesta de convenio regulador de forma más detallada en sus demandas.",
+  "keywords": [
+    "custodia compartida",
+    "ruptura familiar",
+    "derecho civil vasco",
+    "corresponsabilidad parental",
+    "mediación familiar",
+    "interés superior del menor",
+    "parejas de hecho"
+  ],
+  "key_points": [
+    "La custodia compartida es la opción preferente si un progenitor la solicita y no perjudica al menor.",
+    "Se fomenta la mediación familiar como paso previo o paralelo al proceso judicial para reducir litigios.",
+    "Los progenitores pueden realizar 'pactos en previsión de ruptura' mediante escritura pública para anticiparse al conflicto.",
+    "La patria potestad debe ejercerse de forma conjunta para garantizar la corresponsabilidad en la educación y salud de los hijos.",
+    "Se establecen criterios claros para el uso de la vivienda familiar, priorizando el interés de los menores.",
+    "Los menores de 12 años tienen derecho a ser oídos en los procesos que les afecten.",
+    "Se regula la obligación de alimentos y la distinción entre gastos ordinarios y extraordinarios para evitar disputas económicas."
+  ],
+  "legal_references": [
+    "Ley 2/2003, de 7 de mayo, reguladora de las parejas de hecho",
+    "Ley 13/2008, de 12 de diciembre, de apoyo a las familias",
+    "Ley 3/2005, de 18 de febrero, de Atención y Protección a la Infancia y a la Adolescencia",
+    "Convenio sobre los Derechos del Niño",
+    "Estatuto de Autonomía del País Vasco",
+    "Código Civil"
+  ],
+  "derogations": [],
+  "main_obligations": "Los progenitores tienen la obligación de participar en la toma de decisiones sobre la educación y bienestar de sus hijos. En caso de acuerdo o sentencia, deben cumplir estrictamente con el régimen de custodia, alimentos y uso de la vivienda establecido.",
+  "effective_date": "2015-10-24",
+  "procedures": [
+    {
+      "name": "Procedimiento de separación, divorcio o ruptura",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de convenio regulador",
+          "description": "Presentación obligatoria de una propuesta de acuerdo que detalle la custodia, alimentos y uso de vivienda.",
+          "start_date": "Al presentar la demanda",
+          "end_date": null,
+          "required_documentation": "Propuesta de convenio regulador"
+        },
+        {
+          "step": 2,
+          "title": "Mediación familiar (opcional o pactada)",
+          "description": "Sometimiento de las discrepancias a un mediador para intentar alcanzar un acuerdo amistoso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución judicial",
+          "description": "El juez aprueba el convenio o dicta medidas en defecto de acuerdo, tras oír al Ministerio Fiscal y a los menores si procede.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Medidas provisionales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de medidas cautelares",
+          "description": "Solicitud de medidas urgentes antes de la sentencia principal.",
+          "start_date": "Antes de la demanda principal",
+          "end_date": "30 días tras su adopción (debe presentarse la demanda principal)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

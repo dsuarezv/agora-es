@@ -1,0 +1,70 @@
+{
+  "identifier": "BOE-A-2026-7297",
+  "title": "Instrucción 1/2026, de 26 de marzo, de la Junta Electoral Central, sobre el acceso telemátic de las copias del censo electoral por los representantes de las candidaturas electorales proclamadas",
+  "visible_title": "Acceso telemático a las copias del censo electoral para representantes de candidaturas",
+  "rank": "instrucción",
+  "country": "es",
+  "department": "Junta Electoral Central",
+  "official_number": "1/2026",
+  "publication_date": "2026-03-31",
+  "enactment_date": "2026-03-26",
+  "last_updated": "2026-03-31",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/ins/2026/03/26/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "79",
+  "summary": "Esta norma optimiza el proceso de entrega digital de las listas del censo electoral a los partidos políticos tras la proclamación de candidaturas. Busca evitar el colapso de la Oficina del Censo Electoral, especialmente en elecciones municipales, mediante una comunicación más ágil entre las Juntas Electorales y el INE. El objetivo es que los representantes de las candidaturas reciban la información de forma rápida, segura y telemática.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Los representantes de candidaturas políticas ahora tienen un procedimiento más eficiente para obtener los datos del censo mediante la sede electrónica del INE. Se establece la obligación de usar sistemas de identificación como Cl@ve para agilizar el trámite y se mejora la coordinación de datos entre el Ministerio del Interior y el INE.",
+  "keywords": [
+    "censo electoral",
+    "candidaturas electorales",
+    "acceso telemático",
+    "representantes de candidatura",
+    "INE",
+    "Junta Electoral Central"
+  ],
+  "key_points": [
+    "Acceso telemático a las copias del censo a través del portal del INE.",
+    "Obligación de las Juntas Electorales de enviar las candidaturas proclamadas al INE en formato Excel el mismo día de la proclamación.",
+    "Uso obligatorio de Cl@ve para la solicitud telemática en la sede electrónica del INE.",
+    "Plazo de entrega de las copias del censo: dentro de los dos días siguientes a la proclamación de la candidatura.",
+    "Posibilidad de realizar la solicitud de forma presencial en delegaciones del INE si no se dispone de Cl@ve."
+  ],
+  "legal_references": [
+    "Artículo 41.5 de la LOREG",
+    "Real Decreto 189/2023, de 21 de marzo",
+    "Real Decreto 1799/2003, de 26 de diciembre",
+    "Artículo 19.1 a) y c) de la LOREG"
+  ],
+  "derogations": [
+    "Instrucción 3/2023, de 13 de abril, de la Junta Electoral Central"
+  ],
+  "main_obligations": "Los representantes de las candidaturas deben solicitar el acceso telemático mediante la sede electrónica del INE antes del día de la proclamación. Deben aportar identificación, acreditación de representación, datos de la formación, territorio solicitado y dos direcciones de correo electrónico (una para los archivos cifrados y otra para las claves de descifrado).",
+  "effective_date": "2026-04-01",
+  "procedures": [
+    {
+      "name": "Solicitud de acceso telemático a las copias del censo electoral",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El representante debe solicitar el acceso mediante la sede electrónica del INE usando Cl@ve antes del día de la proclamación.",
+          "start_date": "Antes del día de la proclamación de la candidatura",
+          "end_date": null,
+          "required_documentation": "Identificación, acreditación de representante, datos de la formación política, territorio solicitado y dos correos electrónicos."
+        },
+        {
+          "step": 2,
+          "title": "Entrega de la información",
+          "description": "La Oficina del Censo Electoral envía los archivos cifrados y las claves de descifrado a las direcciones proporcionadas.",
+          "start_date": "Día de la proclamación",
+          "end_date": "2 días después de la proclamación",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

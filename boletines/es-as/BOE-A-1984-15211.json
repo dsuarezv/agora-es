@@ -1,0 +1,129 @@
+{
+  "identifier": "BOE-A-1984-15211",
+  "title": "Ley 4/1984, de 5 de junio, regula dor de la iniciativa legislativa de los Ayuntamientos y de la iniciativa popular",
+  "visible_title": "Regulación de la iniciativa legislativa de los Ayuntamientos y la iniciativa popular en Asturias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "4/1984",
+  "publication_date": "1984-07-04",
+  "enactment_date": "1984-06-05",
+  "last_updated": "1984-06-08",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1984/06/05/4",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta ley establece los mecanismos para que tanto los Ayuntamientos asturianos como los ciudadanos puedan proponer leyes ante la Junta General del Principado de Asturias. Busca garantizar la participación política directa en la región, permitiendo que las instituciones locales y la población influyan en la creación de normas dentro de las competencias autonómicas. Define los requisitos de firmas, los plazos de tramitación y las materias que quedan excluidas de este derecho.",
+  "citizen_impact": "Otorga a los ciudadanos asturianos el derecho de proponer leyes si consiguen reunir al menos 10.000 firmas de personas con condición política de asturianos. Esto permite que la ciudadanía pase de ser espectadora a proponente activa de la agenda legislativa regional.",
+  "professional_impact": "Los alcaldes y concejales tienen un canal formal para presentar propuestas legislativas si cuentan con el apoyo de al menos tres ayuntamientos y un censo conjunto de 10.000 electores. Además, establece un sistema de compensación económica para las comisiones promotoras de iniciativas populares para cubrir gastos acreditados.",
+  "keywords": [
+    "iniciativa legislativa popular",
+    "iniciativa de ayuntamientos",
+    "participación ciudadana",
+    "Asturias",
+    "Junta General",
+    "derecho de propuesta"
+  ],
+  "key_points": [
+    "Los ciudadanos pueden proponer leyes si reúnen 10.000 firmas de mayores de edad con condición política de asturianos.",
+    "Los Ayuntamientos pueden proponer leyes si al menos tres corporaciones municipales (con un censo total de 10.000 electores) lo aprueban por mayoría absoluta.",
+    "Están prohibidas las iniciativas sobre temas tributarios, derechos fundamentales o materias que no sean competencia exclusiva de Asturias.",
+    "Una vez admitida la iniciativa popular, la comisión promotora tiene un plazo de 3 meses para recoger las firmas.",
+    "El Principado debe indemnizar a la comisión promotora por los gastos realizados, con un límite histórico de un millón de pesetas (actualizable).",
+    "Las propuestas no se pierden si se disuelve la Junta General, aunque pueden reajustarse en el nuevo mandato."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía para Asturias",
+    "Constitución Española (artículo 9.2)",
+    "Ley Orgánica 2/1878, de 3 de octubre, del Tribunal Constitucional"
+  ],
+  "derogations": [],
+  "main_obligations": "Las comisiones promotoras deben asegurar la autenticación de las firmas mediante fedatarios públicos o especiales. Los promotores deben presentar un texto articulado con exposición de motivos y un documento de razones que justifiquen la propuesta.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Iniciativa Legislativa de los Ayuntamientos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la propuesta",
+          "description": "Entrega ante la Mesa de la Junta General del escrito con el texto de ley, motivos y actas de los ayuntamientos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Texto articulado, exposición de motivos, razones de la propuesta y actas certificadas de los ayuntamientos."
+        },
+        {
+          "step": 2,
+          "title": "Examen de admisibilidad",
+          "description": "La Mesa de la Junta General decide si la propuesta cumple los requisitos legales.",
+          "start_date": "15 días tras la presentación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Trámite de conformidad",
+          "description": "Se remite al Consejo de Gobierno para que manifieste su criterio, especialmente si afecta al presupuesto.",
+          "start_date": "Tras la admisión",
+          "end_date": "10 días (si no hay negativa expresa)",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Debate y tramitación",
+          "description": "Inclusión en el orden del día del Pleno para debate y posterior tramitación reglamentaria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Iniciativa Legislativa Popular",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación inicial",
+          "description": "La Comisión Promotora presenta el texto y la relación de sus miembros ante la Mesa de la Junta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Texto articulado, exposición de motivos, razones de la propuesta y datos de la Comisión Promotora."
+        },
+        {
+          "step": 2,
+          "title": "Examen de admisibilidad",
+          "description": "La Mesa de la Junta General comprueba que la propuesta no incurra en causas de inadmisibilidad.",
+          "start_date": "15 días tras la presentación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Recogida de firmas",
+          "description": "Tras la admisión, la comisión procede a recoger las 10.000 firmas necesarias en papel timbrado.",
+          "start_date": "Desde la notificación de admisión",
+          "end_date": "3 meses",
+          "required_documentation": "Plegos de firmas con nombre, apellidos, DNI y domicilio."
+        },
+        {
+          "step": 4,
+          "title": "Entrega y recuento",
+          "description": "Entrega de firmas en la Secretaría General y validación de las mismas.",
+          "start_date": "Dentro de los 6 días siguientes al fin del plazo de recogida",
+          "end_date": null,
+          "required_documentation": "Plegos de firmas autenticadas."
+        },
+        {
+          "step": 5,
+          "title": "Publicación y debate",
+          "description": "Si se alcanzan las 10.000 firmas válidas, se publica la propuesta y se incluye en el orden del día del Pleno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

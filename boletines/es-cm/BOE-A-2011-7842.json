@@ -1,0 +1,79 @@
+{
+  "identifier": "BOE-A-2011-7842",
+  "title": "Ley 9/2011, de 21 de marzo, por la que se crean el canon eólico y el Fondo para el Desarrollo Tecnológico de las Energías Renovables y el Uso Racional de la Energía en Castilla-La Manch la",
+  "visible_title": "Creación del canon eólico y del Fondo para el Desarrollo Tecnológico de las Energías Renovables en Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "9/2011",
+  "publication_date": "2011-05-03",
+  "enactment_date": "2011-03-21",
+  "last_updated": "2011-03-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2011/03/21/9",
+  "official_journal": "Diario Oficial de Castilla-La Mancha",
+  "journal_issue": null,
+  "summary": "Esta ley introduce un nuevo tributo (canon eólico) para compensar el impacto ambiental y territorial que suponen los parques eólicos en Castilla-La Mancha. El dinero recaudado se destina a promover el uso racional de la energía y a financiar un fondo específico para la investigación y desarrollo tecnológico en energías renovables. Además, ajusta los tipos de otros impuestos ambientales para asegurar la sostenibilidad de las finanzas regionales.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes.",
+  "professional_impact": "Las empresas explotadoras de parques eólicos deben afrontar una nueva carga económica mediante el pago trimestral de un canon basado en el número de aerogeneradores. También deben cumplir con nuevos trámites de alta, modificación o baja de sus instalaciones ante la administración autonómica.",
+  "keywords": [
+    "canon eólico",
+    "energías renovables",
+    "Castilla-La Mancha",
+    "impacto ambiental",
+    "desarrollo tecnológico",
+    "tributación energética"
+  ],
+  "key_points": [
+    "Creación del canon eólico como compensación por el uso del recurso viento y sus efectos en el territorio.",
+    "Establecimiento de un impuesto trimestral basado en la cantidad de aerogeneradores por parque.",
+    "Exención del canon para instalaciones de autoconsumo y proyectos de investigación de hasta 5 MW.",
+    "Creación del Fondo para el Desarrollo Tecnológico de las Energías Renovables (Foder) para financiar I+D+i.",
+    "Los ingresos del canon se usarán para promover el ahorro energético y el desarrollo tecnológico regional.",
+    "Modificación de los tipos impositivos del Impuesto sobre determinadas actividades que inciden en el medio ambiente.",
+    "Los sujetos pasivos deben realizar la autoliquidación del impuesto de forma trimestral."
+  ],
+  "legal_references": [
+    "Decreto 20/2010, de 20 de abril",
+    "Ley 1/2007, de 15 de febrero",
+    "Ley 16/2005, de 29 de diciembre",
+    "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "Constitución Española"
+  ],
+  "derogatons": [],
+  "main_obligations": "Las empresas deben presentar una declaración de alta en el plazo de un mes tras el inicio del primer periodo imponible. Deben realizar la autoliquidación y el ingreso del canon trimestralmente dentro del mes siguiente al vencimiento del periodo.",
+  "effective_date": "2011-04-01",
+  "procedures": [
+    {
+      "name": "Gestión del Canon Eólico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración de alta",
+          "description": "Presentación de la declaración de alta de la instalación ante la Consejería competente.",
+          "start_date": "1 mes desde el día siguiente al inicio del primer periodo imponisible",
+          "end_date": null,
+          "required_documentation": "Modelos aprobados por la Consejería de Energía"
+        },
+        {
+          "step": 2,
+          "title": "Autoliquidación trimestral",
+          "description": "Cálculo y pago de la cuota tributaria correspondiente al trimestre.",
+          "start_date": "1 mes desde el día siguiente al de la fecha de devengo",
+          "end_date": null,
+          "required_documentation": "Modelos normalizados"
+        },
+        {
+          "step": 3,
+          "title": "Declaración de modificación o baja",
+          "description": "Comunicación de cambios en los datos o desmantelamiento del parque.",
+          "start_date": "1 mes desde el día siguiente a la modificación o al desmantelamiento",
+          "end_date": null,
+          "required_documentation": "Modelos aprobados por la Consejería de Energía"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

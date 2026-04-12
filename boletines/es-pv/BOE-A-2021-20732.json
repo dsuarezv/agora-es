@@ -1,0 +1,84 @@
+{
+  "identifier": "BOE-A-2021-20732",
+  "title": "Ley 7/2021, de 11 de noviembre, de los cuerpos y de las escalas de la Administración de la Comunidad Autónoma de Euskadi",
+  "visible_title": "Ley de los cuerpos y de las escalas de la Administración de la Comunidad Autónoma de Euskadi",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "7/2021",
+  "publication_date": "2021-12-16",
+  "enactment_date": "2021-11-11",
+  "last_updated": "2022-12-26",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/2021/11/11/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley reorganiza la estructura profesional de la Administración vasca para adaptarla al Estatuto Básico del Empleado Público. Establece una nueva clasificación de cuerpos (generales y especiales) y escalas basadas en los niveles de titulación requeridos. Además, busca regular la consolidación de trabajadores temporales y la integración de los funcionarios actuales en este nuevo esquema organizativo.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta directamente a todos los funcionarios de la Administración vasca, quienes deberán pasar por un proceso de integración en los nuevos cuerpos y escalas. Introduce nuevas categorías como la 'agrupación profesional de personal de apoyo' y establece reglas específicas para la consolidación de empleo temporal mediante concursos-oposición.",
+  "keywords": [
+    "función pública vasca",
+    "cuerpos y escalas",
+    "empleo público",
+    "administración autonómica",
+    "consolidación de empleo",
+    "personal funcionario"
+  ],
+  "key_points": [
+    "Clasificación de cuerpos en generales (administrativos) y especiales (profesionales específicos).",
+    "Creación de una nueva agrupación profesional de personal de apoyo que no requiere titulaciones académicas específicas.",
+    "Establecimiento de escalas dentro de los cuerpos para agrupar funciones por titulaciones o campos de estudio.",
+    "Procedimiento de integración para funcionarios actuales que debe iniciarse en un plazo de 6 meses.",
+    "Mecanismo excepcional para consolidar empleo temporal mediante procesos de concurso-oposición.",
+    "Mantenimiento de la retribución económica actual durante el proceso de integración de los funcionarios.",
+    "Regulación específica para los cuerpos de la Administración Penitenciaria vasca."
+  ],
+  "legal_references": [
+    "Ley 6/1989, de 6 de julio, de la Función Pública Vasca",
+    "Ley 1/2004, de 25 de febrero, de Ordenación de los Cuerpos y Escalas de la Administración General de la Comunidad Autónoma de Euskadi y sus Organismos Autónomos",
+    "Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público"
+  ],
+  "derogations": [
+    "Ley 1/2004, de 25 de febrero, de Ordenación de los Cuerpos y Escalas de la Administración General de la Comunidad Autónoma de Euskadi y sus Organismos Autónomos"
+  ],
+  "main_obligations": "La Administración debe convocar un procedimiento para integrar al personal funcionario en los nuevos cuerpos y escalas en un plazo máximo de seis meses desde la publicación de la ley. El Gobierno Vasco debe dictar un decreto para adecuar las relaciones de puestos de trabajo en el mismo plazo.",
+  "effective_date": "2021-12-17",
+  "procedures": [
+    {
+      "name": "Integración del personal funcionario en los nuevos cuerpos y escalas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria del procedimiento de integración",
+          "description": "La Administración debe proponer la integración de los funcionarios según la correspondencia con los nuevos cuerpos y escalas.",
+          "start_date": "6 meses desde la publicación de la ley",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Modificación voluntaria de la propuesta",
+          "description": "El funcionario puede solicitar integrarse en otros cuerpos o escalas si acredita experiencia o si coinciden con su puesto actual.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de experiencia de al menos 5 años en los últimos 10 años (si aplica)"
+        }
+      ]
+    },
+    {
+      "name": "Consolidación de empleo temporal",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de procesos selectivos excepcionales",
+          "description": "Procesos de concurso-oposición para convertir personal temporal en plazas estructurales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

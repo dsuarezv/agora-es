@@ -1,0 +1,114 @@
+{
+  "identifier": "BOE-A-2017-3067",
+  "title": "Ley 2/2017, de 17 de febrero, de emergencia social de la vivienda de Extremadura",
+  "visible_title": "Ley de emergencia social de la vivienda de Extremadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "2/2017",
+  "publication_date": "2017-03-22",
+  "enactment_date": "2017-02-17",
+  "last_updated": "2023-03-31",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2017/02/17/2",
+  "official_journal": "Diario Oficial de Extremadura",
+  "journal_issue": null,
+  "summary": "Esta ley combate la especulación y la exclusión residencial en Extremadura mediante la regulación de la función social de la vivienda. Introduce mecanismos para declarar viviendas como deshabitadas y permite la intervención pública para proteger a familias en situación de emergencia social. Su objetivo principal es evitar desahucios y facilitar el acceso a la vivienda habitual frente a la desocupación de inmuebles por parte de entidades financieras.",
+  "citizen_impact": "Las familias en riesgo de desahucio por ejecución hipotecaria o impago de alquiler en vivienda pública pueden obtener suspensiones temporales o ayudas para mantener su hogar. Además, se crean bolsas de vivienda para alquiler social y ayudas específicas para jóvenes y víctimas de violencia de género.",
+  "professional_impact": "Las entidades financieras y personas jurídicas enfrentan mayores controles y posibles sanciones si mantienen viviendas desocupadas de forma injustificada. Los profesionales del sector inmobiliario y suministradores de servicios (agua, luz, gas) están obligados a colaborar con la Administración aportando información para detectar viviendas deshabitadas.",
+  "keywords": [
+    "vivienda habitual",
+    "vivienda deshabitada",
+    "función social de la propiedad",
+    "desahucio",
+    "emergencia social",
+    "especulación inmobiliaria",
+    "Extremadura"
+  ],
+  "key_points": [
+    "Se define la vivienda deshabitada como aquella desocupada por más de 6 meses consecutivos.",
+    "La Administración puede declarar oficialmente una vivienda como desocupada tras un procedimiento contradictorio.",
+    "Se suspenden por dos años los desahucios de viviendas de promoción pública para familias con cambios económicos significativos.",
+    "Las fianzas de alquiler se depositarán en una cuenta especial de la Comunidad para financiar políticas de vivienda.",
+    "Se establece el derecho de tanteo y retracto de la Junta sobre viviendas de protección pública.",
+    "Las personas jurídicas que mantengan viviendas desocupadas pueden recibir sanciones económicas graves.",
+    "Se crean ayudas específicas para el alquiler de vivienda libre para jóvenes y víctimas de violencia de género.",
+    "Se obliga a las compañías de suministros a colaborar con la administración para verificar el consumo de energía y agua."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 3/2001, de 26 de abril, de Calidad, Promoción y Acceso a la Vivienda de Extremadura",
+    "Decreto 115/2006, de 27 de junio",
+    "Ley de Arrendamientos Urbanos (Ley 29/1994)",
+    "Real Decreto Legislativo 7/2015",
+    "Estatuto de Autonomía de la Comunidad Autónoma de Extremadura"
+  ],
+  "derogations": [
+    "Disposición adicional quinta (relativa al tipo de gravamen reducido del ITPAJD)",
+    "Disposición final tercera (relativa al canon de vivienda deshabitada)"
+  ],
+  "main_obligations": "Las personas jurídicas deben evitar mantener viviendas desocupadas sin causa justificada bajo riesgo de multas de hasta 200.000 euros. Los titulares de viviendas protegidas deben notificar cualquier transmisión a la Junta para permitir el ejercicio del derecho de tanteo. Las empresas de suministros deben aportar datos de consumo a la administración cuando se le requiera.",
+  "effective_date": "2017-04-11",
+  "procedures": [
+    {
+      "name": "Declaración de vivienda desocupada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Detección de desocupación",
+          "description": "La Consejería identifica inmuebles sin consumo de suministros o desocupados por más de 6 meses.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos de suministros, padrón municipal, información de notarías o registros."
+        },
+        {
+          "step": 2,
+          "title": "Procedimiento contradictorio",
+          "description": "Se abre un expediente para que el titular pueda presentar alegaciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "El órgano directivo resuelve declarando la vivienda como deshabitada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Ejercicio del derecho de tanteo (Vivienda Protegida)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de transmisión",
+          "description": "El propietario o entidad financiera debe informar a la Junta sobre la intención de vender o adquirir.",
+          "start_date": null,
+          "end_date": "6 meses (caducidad de la notificación)",
+          "required_documentation": "Precio, forma de pago y datos del comprador."
+        },
+        {
+          "step": 2,
+          "title": "Plazo de decisión de la Junta",
+          "description": "La Junta dispone de un plazo para decidir si ejerce su derecho de compra preferente.",
+          "start_date": "Día siguiente a la recepción de la notificación",
+          "end_date": "30 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Pago del precio",
+          "description": "Si la Junta ejerce el tanteo, debe realizar el pago.",
+          "start_date": null,
+          "end_date": "4 meses (o 2 meses en ejecuciones patrimoniales)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

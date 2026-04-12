@@ -1,0 +1,75 @@
+{
+  "identifier": "BOE-A-2025-386",
+  "title": "Resolución de 27 de noviembre de 2024, de la Dirección General de la Guardia Civil, por la que se disponen las medidas de seguridad para el almacenamiento de armas de fuego durante el transporte",
+  "visible_title": "Medidas de seguridad para el almacenamiento de armas de fuego durante el transporte",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Ministerio del Interior",
+  "official_number": "BOE-A-2025-386",
+  "publication_date": "2025-01-08",
+  "enactment_date": "2024-11-27",
+  "last_updated": "2025-01-08",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/res/2024/11/27/(2)",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "7",
+  "summary": "Esta norma regula cómo deben protegerse las armas, componentes y cartuchería cuando las empresas de transporte o seguridad las guardan temporalmente durante su logística. Introduce la figura del 'almacenamiento en tránsito' para permitir estancias cortas de hasta 8 horas con límites de cantidad específicos. El objetivo es flexibilizar la operativa logística sin comprometer la seguridad ciudadana, adaptándose a la tecnología actual de trazabilidad.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Las empresas de transporte y seguridad privada ahora tienen reglas claras para el almacenamiento temporal, lo que reduce la incertidumbre jurídica. Deben cumplir con límites estrictos de tiempo (8h) y cantidad (ej. 200 armas) para el tránsito rápido, o bien instalar zonas de alta seguridad (blindaje P6B, cámaras, alarmas) si el almacenamiento es más prolongado.",
+  "keywords": [
+    "transporte de armas",
+    "almacenamiento en tránsito",
+    "seguridad privada",
+    "Guardia Civil",
+    "logística de armas",
+    "cartuchería"
+  ],
+  "key_points": [
+    "Se define el 'almacenamiento en tránsito' como aquel que dura menos de 8 horas.",
+    "Límite de 200 armas de fuego para el almacenamiento en tránsito.",
+    "Límite de 25.000 cartuchos metálicos para el almacenamiento en tránsito (máximo 15.000 de calibre distinto al .22).",
+    "Si el almacenamiento supera las 8 horas o las cantidades, se requiere personal permanente o una estancia blindada con protección P6B y alarmas conectadas a central receptora.",
+    "Las empresas deben comunicar previamente a la Guardia Civil sus locales de transbordo y datos de contacto.",
+    "Los componentes esenciales se consideran legalmente como el arma a la que pertenecen."
+  ],
+  "legal_references": [
+    "Real Decreto 137/1993 (Reglamento de Armas)",
+    "Real Decreto 989/2015 (Reglamento de Artículos Pirotécnicos y Cartuchería)",
+    "Instrucción Técnica Complementaria número 11"
+  ],
+  "derogations": [
+    "Todas las disposiciones de igual o inferior rango que se opongan a esta resolución."
+  ],
+  "main_obligations": "Las empresas deben respetar los límites de tiempo y cantidad para el tránsito rápido o, en caso contrario, habilitar estancias blindadas con cámaras y alarmas autorizadas. Asimismo, tienen la obligación de comunicar sus locales de transbordo y representantes a la Intervención de Armas y Explosivos de la Guardia Civil.",
+  "effective_date": "2025-01-09",
+  "procedures": [
+    {
+      "name": "Comunicación de locales de transbordo o almacenamiento",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación previa",
+          "description": "Informar a la Intervención de Armas y Explosivos de la Guardia Civil sobre la actividad y datos de contacto del representante.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos de contacto del representante de la empresa"
+        }
+      ]
+    },
+    {
+      "name": "Autorización de medidas de seguridad para almacenamiento prolongado",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Solicitar a la Intervención Central de Armas y Explosivos la autorización de las medidas de seguridad o la validación de las existentes.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria justificativa de las medidas de seguridad"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

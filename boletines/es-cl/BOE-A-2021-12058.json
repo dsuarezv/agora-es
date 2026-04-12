@@ -1,0 +1,155 @@
+{
+  "identifier": "BOE-A-2021-12058",
+  "title": "Ley 4/2021, de 1 de julio, de Caza y de Gestión Sostenible de los Recursos Cinegéticos de Castilla y León",
+  "visible_title": "Ley de Caza y Gestión Sostenible de los Recursos Cinegéticos de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "4/2021",
+  "publication_date": "2021-07-20",
+  "enactment_date": "2021-07-01",
+  "last_updated": "2024-05-14",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2021/07/01/4",
+  "official_journal": "Boletín Oficial de Castilla y León",
+  "journal_issue": null,
+  "summary": "Esta ley transforma la caza en Castilla y León, dejando de verla solo como un deporte para tratarla como una herramienta de gestión ecológica sostenible. Introduce controles estrictos sobre la planificación técnica de los cotos, la protección de especies y la seguridad de los cazadores. Establece nuevas reglas de visibilidad, horarios y condiciones meteorológicas para evitar accidentes. Además, endurece significativamente el régimen de sanciones y la digitalización de todos los trámites y registros.",
+  "citizen_impact": "Los cazadores deben adaptarse a nuevas normas de seguridad (uso obligatorio de prendas de alta visibilidad y límites de visibilidad de 250m) y realizar todos sus trámites de forma electrónica. Se introduce un descuento del 25% en la tasa de la licencia autonómica para cazadores federados.",
+  "professional_impact": "Los titulares de cotos y gestores deben implementar planes cinegéticos obligatorios y realizar la gestión de capturas mediante sistemas telemáticos. Los técnicos deben contar con titulación universitaria o postgrado oficial. Se imponen cargas administrativas de notificación previa (5-10 días) a ayuntamientos y Guardia Civil para las actividades de caza.",
+  "keywords": [
+    "caza",
+    "gestión cinegética",
+    "Castilla y León",
+    "sostenibilidad",
+    "cotos de caza",
+    "seguridad en la caza",
+    "sanciones caza"
+  ],
+  "key_points": [
+    "Los cotos de caza deben tener una superficie mínima de 250 hectáreas.",
+    "Es obligatorio el uso de prendas de alta visibilidad en monterías, ganchos u ojeos con arma larga rayada.",
+    "Se prohíbe la caza si la visibilidad es inferior a 250 metros.",
+    "La caza solo es legal desde una hora antes de la salida del sol hasta una hora después de la puesta.",
+    "Es obligatorio contar con un plan cinegético aprobado para cazar en cotos o reservas.",
+    "Se prohíbe cazar en 'días de fortuna' (tras incendios o inundaciones) o con nieve que cubra el suelo.",
+    "Está prohibido transportar armas listas para su uso en vehículos agrícolas o durante labores agropecuarias.",
+    "La constitución de cotos se realiza mediante declaración responsable por vía electrónica.",
+    "Las sanciones por infracciones pueden alcanzar los 100.000 euros y el decomiso de medios.",
+    "La reincidencia aumenta la sanción en un 50% la primera vez y un 100% en sucesivas ocasiones.",
+    "Los cazadores deben llevar siempre identificación, licencia, permisos de armas y autorización escrita del titular.",
+    "Se prohíbe abandonar vainas o casquillos en el medio natural."
+  ],
+  "legal_references": [
+    "Constitución Española (art. 148.1.11.ª y 45)",
+    "Estatuto de Auto autonomía de Castilla y León",
+    "Ley 42/2007 de Patrimonio Natural y de la Biodiversidad",
+    "Directiva 92/43/CEE (Hábitats)",
+    "Directiva 2009/147/CE (Aves)",
+    "Ley 4/2015 de Patrimonio Natural de Castilla y León",
+    "Ley 4/1996 de Caza de Castilla y León",
+    "Directiva 2006/123/CE",
+    "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+    "Ley 1/1970, de 4 de abril, de caza",
+    "Decreto 506/1971, de 25 de marzo",
+    "Decreto 144/1989, de 13 de julio",
+    "Decreto 268/2000, de 14 de diciembre",
+    "Decreto 79/2002, de 20 de junio",
+    "Decreto 14/2015, de 19 de febrero",
+    "Orden de 22 de octubre de 1998",
+    "Decreto 82/2005, de 3 de noviembre",
+    "Decreto 65/2006, de 14 de septiembre"
+  ],
+  "derogations": [
+    "Ley 4/1996, de 12 de julio, de Caza de Castilla y León",
+    "Decreto 144/1989, de 13 de julio",
+    "Decreto 268/2000, de 14 de diciembre",
+    "Decreto 79/2002, de 20 de junio",
+    "Decreto 14/2015, de 19 de febrero",
+    "Orden de 22 de octubre de 1998 (prohibición comercialización liebre)",
+    "Decreto 82/2005, de 3 de noviembre",
+    "Decreto 65/2006, de 14 de septiembre"
+  ],
+  "main_obligations": "Los cazadores deben informar de las fechas de cacería a ayuntamientos y Guardia Civil con una antelación de 5 a 10 días. Los titulares de cotos deben comunicar su correo electrónico para notificaciones en un plazo de 6 meses y presentar una memoria anual de aprovechamiento.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Constitución de un Coto de Caza",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Exposición en tablón de edictos",
+          "description": "Publicación de la relación de parcelas para incluir en el cotoc durante un plazo mínimo.",
+          "start_date": "Inicio del trámite",
+          "end_date": "30 días naturales",
+          "required_documentation": "Relación de parcelas propias, cedidas y no cedidas"
+        },
+        {
+          "step": 2,
+          "title": "Presentación de declaración responsable",
+          "description": "Trámite telemático para manifestar la titularidad y compromiso de gestión.",
+          "start_date": "Tras la exposición",
+          "end_date": null,
+          "required_documentation": "Modelo normalizado electrónico"
+        },
+        {
+          "step": 3,
+          "title": "Presentación del Plan Cinegético",
+          "description": "Entrega del plan técnico para la explotación del cotoc.",
+          "start_date": "Dentro de los 3 meses siguientes a la declaración",
+          "end_date": "3 meses",
+          "required_documentation": "Plan cinegético del cotoc"
+        }
+      ]
+    },
+    {
+      "name": "Comunicación de Cacerías Colectivas (Monterías/Ganchos)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación previa",
+          "description": "Informar de la fecha y mancha a ayuntamientos, Guardia Civil y colindantes.",
+          "start_date": "Antelación mínima según tipo",
+          "end_date": "5 días (ganchos) o 10 días (monterías) antes de la actividad",
+          "required_documentation": "Datos de la cacería y mancha afectada"
+        }
+      ]
+    },
+    {
+      "name": "Notificación y comunicación para titulares de cotos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de dirección de correo electrónico",
+          "descrption": "Los titulares de cotos existentes deben facilitar una dirección de email para recibir notificaciones.",
+          "start_date": "Entrada en vigor de la ley",
+          "end_date": "6 meses desde la entrada en vigor",
+          "required_documentation": "Dirección de correo electrónico"
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de procedimientos administrativos de caza",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación electrónica",
+          "descrption": "Presentación de comunicaciones, declaraciones responsables o solicitudes mediante modelos normalizados en la sede electrónica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Modelo normalizado disponible en la sede electrónica"
+        },
+        {
+          "step": 2,
+          "title": "Certificación y resolución",
+          "descrption": "Recepción de la certificación de presentación y la resolución administrativa por vía electrónica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-2016-7692",
+  "title": "Ley 7/2016, de 21 de julio, de medidas extraordinarias contra la exclusión social",
+  "visible_title": "Medidas extraordinarias contra la exclusión social",
+  "rank": "ley",
+  "country": "es",
+  "department": "Junta de Extremadura",
+  "official_number": "7/2016",
+  "publication_date": "2016-08-10",
+  "enactment_date": "2016-07-21",
+  "last_updated": "2019-02-26",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2016/07/21/7",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley implementa un paquete de ayudas urgentes en Extremadura para combatir la pobreza y la exclusión social. Introduce garantías de suministros básicos (agua y luz), crea ayudas para emergencias sociales puntuales y modifica el acceso a la vivienda pública. Además, agiliza la gestión de la Renta Básica Extremeña de Inserción para responder a la crisis económica.",
+  "citizen_impact": "Los ciudadanos en situación de vulnerabilidad acceden a un derecho garantizado de suministros mínimos de agua y electricidad. También se facilita el acceso a ayudas económicas para gastos urgentes (comida, medicinas, alquiler) y se mejora el sistema de adjudicación de viviendas públicas mediante concursos de valoración en lugar de sorteos.",
+  "professional_impact": "Los servicios sociales y la administración autonómica deben adoptar el 'Procedimiento de Emergencia Ciudadana', lo que implica priorizar pagos y agilizar trámites. Los funcionarios de servicios sociales asumen la responsabilidad de emitir informes motivados que habilitan el acceso a estas ayudas extraordinarias.",
+  "keywords": [
+    "exclusión social",
+    "pobreza energética",
+    "vivienda pública",
+    "renta básica",
+    "ayudas de emergencia",
+    "Extremadura",
+    "suministros vitales"
+  ],
+  "key_points": [
+    "Garantía de suministro mínimo de 100 litros de agua y 6 kWh de electricidad al día para personas vulnerables.",
+    "Creación de ayudas extraordinarias para gastos básicos como alimentación, medicinas, alojamiento temporal o mobiliario.",
+    "Cambio del sistema de adjudicación de viviendas públicas de sorteo a concurso de valoración para mayor justicia social.",
+    "Posibilidad de participar en adjudicaciones de vivienda pública para personas que hayan ocupado ilegalmente una vivienda tras haber comunicado su necesidad urgente.",
+    "Ampliación de la ayuda al alquiler para familias afectadas por ejecuciones hipotecarias hasta que reciban una vivienda pública.",
+    "Agilización de la tramitación de la Renta Básica Extremeña de Inserción mediante la supresión de plazos de convocatoria.",
+    "Inclusión de la mediación e intermediación hipotecaria como función del Instituto de Consumo de Extremadura."
+  ],
+  "legal_references": [
+    "Ley 9/2014 de la Renta Básica Extremeña de Inserción",
+    "Real Decreto Ley 16/2012",
+    "Ley 10/2001 de Salud de Extremadura",
+    "Ley 14/2015 de Servicios Sociales de Extremadura",
+    "Decreto 115/2006 de adjudicación de viviendas",
+    "Ley 1/2008 de creación de Entidades Públicas de la Junta de Extremadura"
+  ],
+  "derogations": [
+    "Parte de la Ley 9/2014 (en lo relativo a plazos de convocatoria y gestión)"
+  ],
+  "main_obligations": "La Administración debe garantizar la provisión de medios y priorizar los pagos de los procedimientos de emergencia ciudadana. Los beneficiarios de ayudas por contingencias deben justificar el uso de los fondos para el fin solicitado.",
+  "effective_date": "2016-08-10",
+  "procedures": [
+    {
+      "name": "Procedimiento de Emergencia Ciudadana",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de ayuda",
+          "description": "Presentación de la solicitud por parte del interesado ante la entidad local de residencia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe de los Servicios Sociales de Atención Social Básica que acredite la contingencia."
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y resolución",
+          "description": "Tramitación y decisión por parte del órgano competente de la entidad local.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Garantía de suministros mínimos vitales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Reconocimiento del derecho",
+          "description": "Procedimiento reglamentario para verificar requisitos de residencia y carencia de ingresos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Pago directo",
+          "description": "La Junta de Extremadura paga directamente a las empresas suministradoras mediante convenios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

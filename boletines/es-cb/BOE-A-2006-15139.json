@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-2006-15139",
+  "title": "Ley 11/2006, de 17 de julio, de organización y funcionamiento del Servicio Jurídico",
+  "visible_title": "Ley de organización y funcionamiento del Servicio Jurídico de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "11/2006",
+  "publication_date": "2006-08-26",
+  "enactment_date": "2006-07-17",
+  "last_updated": "2022-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2006/07/17/11",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y profesionaliza la asistencia jurídica de la Administración de Cantabria. Crea el Cuerpo de Letrados como un cuerpo de administración especial para asegurar que el asesoramiento y la defensa judicial de la región sean realizados por expertos técnicos. Además, establece mecanismos para garantizar que la Administración actúe siempre bajo criterios jurídicos unificados y coherentes.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Crea una nueva carrera profesional para abogados públicos mediante el Cuerpo de Letrados, exigiendo oposición para su ingreso. Los funcionarios de la Administración que antes realizaban labores jurídicas pueden integrarse en este nuevo cuerpo bajo ciertas condiciones. También establece reglas estrictas de dedicación exclusiva para estos profesionales.",
+  "keywords": [
+    "Servicio Jurídico",
+    "Cuerpo de Letrados",
+    "Asesoramiento jurídico",
+    "Representación judicial",
+    "Administración de Cantabria",
+    "Función consultiva",
+    "Función contenciosa"
+  ],
+  "key_points": [
+    "Creación del Cuerpo de Letrados de la Administración de Cantabria (Grupo A) para funciones exclusivas de asesoramiento y defensa.",
+    "Establecimiento de la obligación de oposición para el ingreso en dicho cuerpo.",
+    "Creación de la Comisión de Coordinación Jurídica para garantizar la unidad de criterio en la interpretación de normas.",
+    "Definición de la función consultiva, que incluye desde informes hasta la intervención en mesas de contratación.",
+    "Definición de la función contenciosa, que otorga a los letrados la representación y defensa exclusiva en juicios.",
+    "Regulación de la defensa de autoridades y funcionarios en el ejercicio de sus cargos.",
+    "Asunción de la representación y defensa de menores sujetos a tutela por la Administración.",
+    "Otorgamiento de privilegios procesales a la Comunidad Autónoma similares a los del Estado."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía para Cantabria",
+    "Decreto 19/1986, de 18 de abril",
+    "Decreto 57/1994, de 15 de diciembre",
+    "Ley Reguladora de las Bases de Régimen Local",
+    "Ley de Cantabria 4/1993, de 10 de marzo, de la Función Pública de Cantabria"
+  ],
+  "derogations": [
+    "Decreto 19/1986, de 18 de abril, por el que se aprueba el Reglamento de la Dirección Jurídica Regional"
+  ],
+  "main_obligations": "Los letrados del Servicio Jurídico tienen prohibido el ejercicio privado de la abogacía y cualquier otra actividad de asesoramiento jurídico. Los órganos de la Administración están obligados a colaborar con el Servicio Jurídico remitiendo de inmediato las comunicaciones judiciales que les afecten.",
+  "effective_date": "2006-08-27",
+  "procedures": [
+    {
+      "name": "Ingreso en el Cuerpo de Letrados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria de oposición",
+          "description": "Publicación de las bases para el acceso al cuerpo mediante examen.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Licenciatura en Derecho"
+        },
+        {
+          "step": 2,
+          "title": "Proceso selectivo",
+          "description": "Realización de pruebas teóricas y prácticas por un tribunal de jurispatas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de informe jurídico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Petición de informe",
+          "description": "El órgano interesado solicita asesoramiento concretando los extremos jurídicos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación necesaria y previo informe de la asesoría del centro solicitante"
+        },
+        {
+          "step": 2,
+          "title": "Emisión del informe",
+          "description": "La Dirección General del Servicio Jurídico emite el dictamen razonado en Derecho.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

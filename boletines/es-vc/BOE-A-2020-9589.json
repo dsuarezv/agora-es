@@ -1,0 +1,103 @@
+{
+  "identifier": "BOE-A-2020-9589",
+  "title": "Decreto-ley 6/2020, de 5 de junio, para la ampliación de vivienda pública en la Comunitat Valenciana mediante los derechos de tanteo y retracto",
+  "visible_title": "Ampliación de vivienda pública en la Comunitat Valenciana mediante derechos de tanteo y retracto",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "6/2020",
+  "publication_date": "2020-08-13",
+  "enactment_date": "2020-06-05",
+  "last_updated": "2025-05-31",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/dl/2020/06/05/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma busca aumentar urgentemente el parque de vivienda pública en la Comunitat Valenciana para mitigar la crisis de acceso a la vivienda agravada por la COVID-19. Para ello, refuerza los derechos de tanteo y retracto de la Administración sobre viviendas de protección pública y sobre grandes operaciones inmobiliarias o ejecuciones hipotecarias en zonas de necesidad. El objetivo es que la Generalitat pueda adquirir inmuebles preferentemente para destinarlos a colectivos vulnerables, garantizando que estas viviendas mantengan su protección de forma permanente.",
+  "citizen_impact": "Las personas en situación de vulnerabilidad o con derecho subjetivo sobre una vivienda podrían beneficiarse de que la Administración adquiera inmuebles para su uso social. Sin embargo, los propietarios de viviendas protegidas deben cumplir con nuevos deberes de notificación obligatoria ante cualquier intento de venta.",
+  "professional_impact": "Notarios y registradores asumen la carga de verificar y exigir la acreditación de las notificaciones de venta a la Generalitat antes de autorizar cualquier escritura. Los propietarios de viviendas protegidas deben realizar trámites administrativos específicos de notificación para evitar sanciones o la nulidad de la venta.",
+  "keywords": [
+    "vivienda pública",
+    "tanteo y retracto",
+    "vivienda protegida",
+    "Comunitat Valenciana",
+    "derecho de adquisición preferente",
+    "vulnerabilidad residencial"
+  ],
+  "key_points": [
+    "La Generalitat tiene derecho preferente de compra (tanteo y retracto) sobre viviendas de protección pública en sus sucesivas transmisiones.",
+    "Las viviendas adquiridas por la Administración pasan a tener calificación de protección pública de forma permanente, sin límite temporal.",
+    "Se introducen derechos de adquisición preferente sobre grandes operaciones inmobiliarias (edificios de 4+ viviendas con 80% de transmisión o ventas de 10+ viviendas).",
+    "Se aplican estos derechos en 'áreas de necesidad de vivienda' que la Generalitat delimitará mediante un catálogo.",
+    "La Administración puede ejercer estos derechos a favor de municipios o entidades sin ánimo de lucro para gestionar la vivienda.",
+    "Se establece la obligación de notificar la intención de venta a la Consejería de Vivienda para permitir el ejercicio del tanteo.",
+    "El precio de adquisición será el mismo que se haya pactado en la transmisión original."
+  ],
+  "legal_references": [
+    "Ley 8/2004, de 20 de octubre, de la Vivienda de la Comunidad Valenciana",
+    "Ley 2/2017, de 3 de febrero, de la función social de la vivienda de la Comunidad Valenciana",
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunitat Valenciana",
+    "Ley de Arrendamientos Urbanos"
+  ],
+  "derogations": [
+    "Artículos 50, 51, 52 y 53 de la Ley 8/2004, de 20 de octubre, de la Vivienda de la Comunidad Valenciana",
+    "Disposición transitoria segunda del Decreto 75/2007, de 18 de mayo, del Consell"
+  ],
+  "main_obligations": "Los propietarios de viviendas protegidas están obligados a notificar a la Generalitat su decisión de enajenar la vivienda antes de la venta. Los notarios deben exigir la acreditación de dicha notificación y comunicar la transmisión en un plazo de 20 días naturales.",
+  "effective_date": "2020-06-05",
+  "procedures": [
+    {
+      "name": "Ejercicio del derecho de tanteo (Vivienda de Protección Pública)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de la intención de venta",
+          "descrption": "El propietario debe informar a la Generalitat sobre la decisión de vender, incluyendo precio, datos del comprador y estado de la vivienda.",
+          "start_date": "Antes de la transmisión",
+          "end_date": null,
+          "required_documentation": "Datos de identificación, datos de la vivienda, precio, forma de pago y datos del interesado."
+        },
+        {
+          "step": 2,
+          "title": "Plazo de respuesta de la Generalitat",
+          "descrption": "La Administración dispone de un plazo para decidir si compra la vivienda al mismo precio ofrecido.",
+          "start_date": "Día siguiente a la entrada en el registro de la Consejería",
+          "end_date": "60 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Pago del precio",
+          "descrption": "En caso de que la Generalitat ejerza el tanteo, debe realizar el pago.",
+          "start_date": "Tras la notificación del ejercicio del derecho",
+          "end_date": "4 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Ejercicio del derecho de retracto",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de la adquisición",
+          "descrption": "El comprador debe notificar la compra realizada a la Consejería de Vivienda.",
+          "start_date": "Desde la adquisición",
+          "end_date": "15 días naturales",
+          "required_documentation": "Copia del documento de formalización de la transmisión."
+        },
+        {
+          "step": 2,
+          "title": "Plazo de respuesta de la Generalitat",
+          "descrption": "La Administración decide si recupera la vivienda por haber sido transmitida sin cumplir los requisitos.",
+          "start_date": "Día siguiente a la entrada en el registro de la Consejería",
+          "end_date": "60 días naturales",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

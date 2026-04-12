@@ -1,0 +1,91 @@
+{
+  "identifier": "BOE-A-1990-16904",
+  "title": "Ley 6/1990, de 11 de abril, de Archivos y Patrimonio Documental de la Región de Murcia",
+  "visible_title": "Ley de Archivos y Patrimonio Documental de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "6/1990",
+  "publication_date": "1990-07-17",
+  "enactment_date": "1990-04-11",
+  "last_updated": "1990-05-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/1990/04/11/6",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley organiza y protege el patrimonio documental de la Región de Murcia, integrando tanto documentos públicos como privados de interés histórico. Establece un Sistema de Archivos coordinado por la Consejería de Cultura para garantizar la conservación, organización y acceso a la información. Busca evitar la pérdida de la memoria histórica regional mediante la regulación de la transferencia de documentos y la protección de archivos privados.",
+  "citizen_impact": "Facilita el acceso de los ciudadanos a la información histórica y administrativa de la región para investigación o consulta. No impone trámites directos a la población general, salvo que posean archivos privados de relevancia histórica.",
+  "professional_impact": "Los funcionarios tienen la obligación de organizar y transferir la documentación administrativa a los archivos correspondientes según su antigüedad. Los propietarios de archivos privados históricos deben comunicar su existencia, mantener la organización de sus fondos y solicitar autorización para desmembramientos o restauraciones.",
+  "keywords": [
+    "patrimonio documental",
+    "archivos",
+    "conservación",
+    "documentación histórica",
+    "Región de Murcia",
+    "gestión administrativa"
+  ],
+  "key_points": [
+    "Creación de un Sistema de Archivos regional que incluye archivos públicos, municipales y privados de interés.",
+    "Obligación de transferir documentos administrativos al archivo intermedio tras perder su vigencia y al histórico tras 25 años.",
+    "Protección de documentos privados históricos con más de 100 años de antigüedad (o 40 años para entidades específicas).",
+    "Prohibición de enajenar, embargar o adquirir por prescripción los documentos que forman parte del patrimonio documental regional.",
+    "Obligación de los comerciantes de documentos históricos de informar trimestralmente sobre sus ventas y compras.",
+    "Derecho de tanteo o retracto de la Administración sobre la venta de archivos privados históricos.",
+    "Los documentos públicos no pueden destruirse si aún tienen valor probatorio de derechos y obligaciones."
+  ],
+  "legal_references": [
+    "Ley 16/1985, del Patrimonio Histórico español",
+    "Estatuto de Autonomía de la Región de Murcia"
+  ],
+  "derogations": [
+    "Todas las disposiciones de igual o inferior rango que se opongan a esta Ley"
+  ],
+  "main_obligations": "Los propietarios de archivos privados históricos deben comunicar su existencia a la Consejería, mantener la organización de sus fondos y no desmembrarlos sin autorización. Los comerciantes de documentos deben presentar informes trimestrales de sus operaciones.",
+  "effective_date": "1990-07-18",
+  "procedures": [
+    {
+      "name": "Declaración de archivo o documento histórico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del expediente",
+          "description": "La Consejería de Cultura inicia de oficio o a instancia de parte el expediente para declarar un archivo o documento como histórico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Audiencia al interesado",
+          "description": "Se concede audiencia al propietario o poseedor del documento o archivo antes de la resolución.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "El responsable del Departamento dicta la resolución final, la cual puede ser impugnada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Comunicación de comercialización de documentos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Envío de relación trimestral",
+          "description": "Los comerciantes de documentos deben enviar una relación de los productos puestos a la venta y los adquiridos.",
+          "start_date": "Cada trimestre",
+          "end_date": null,
+          "required_documentation": "Relación de documentos en venta y adquiridos"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

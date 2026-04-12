@@ -1,0 +1,84 @@
+{
+  "identifier": "BOE-A-2025-15426",
+  "title": "Orden PJC/804/2025, de 23 de julio, por la que se establecen criterios generales para la adaptación de medios y tiempos y la realización de otros ajustes razonables en los procesos selectivos para el acceso al empleo público de personas con discapacidad",
+  "visible_title": "Criterios para la adaptación de medios, tiempos y ajustes razonables en procesos selectivos para personas con discapacidad",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio de la Presidencia, Justicia y Relaciones con las Cortes",
+  "official_number": "PJC/804/2025",
+  "publication_date": "2025-07-25",
+  "enactment_date": "2025-07-23",
+  "last_updated": "2025-07-25",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2025/07/23/pjc804",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "178",
+  "summary": "Esta norma actualiza y unifica los criterios para que las personas con discapacidad (grado ≥ 33%) puedan acceder a la función pública en igualdad de condiciones. Establece cómo se deben conceder tiempos adicionales en exámenes, qué apoyos técnicos o humanos se pueden solicitar y garantiza el uso de productos de apoyo y perros de asistencia. El objetivo es sustituir la normativa obsoleta de 2006 por una respuesta más flexible y adaptada a las necesidades reales de cada perfil de discapacidad.",
+  "citizen_impact": "Facilita que las personas con discapacidad puedan presentarse a oposiciones públicas con las adaptaciones necesarias (más tiempo, asistentes, tecnología o perros de asistencia). Elimina barreras de acceso al garantizar que las pruebas se ajusten a sus capacidades físicas o cognitivas.",
+  "professional_impact": "Los órganos de selección de la Administración del Estado deben aplicar nuevos baremos para calcular tiempos adicionales y gestionar solicitudes de ajustes razonables. Además, la Secretaría de Estado de Función Pública deberá elaborar un manual orientativo en un plazo de seis meses para guiar a los tribunales en estas adaptaciones.",
+  "keywords": [
+    "empleo público",
+    "discapacidad",
+    "ajustes razonables",
+    "procesos selectivos",
+    "adaptación de tiempos",
+    "igualdad de oportunidades",
+    "oposiciones"
+  ],
+  "key_points": [
+    "Se establece un baremo específico para calcular el tiempo adicional en pruebas escritas y orales según el tipo de discapacidad.",
+    "Se garantiza el derecho a usar sin restricciones productos de apoyo, órtesis, prótesis y perros de asistencia durante todo el proceso.",
+    "Las personas sin certificado oficial de discapacidad pueden solicitar ajustes si acreditan formalmente su necesidad de apoyo.",
+    "Los órganos de selección pueden solicitar informes técnicos a organismos como el IMSERSO o comunidades autónomas para valorar la adaptación.",
+    "Se obliga a las convocatorias a indicar explícitamente cómo solicitar estas adaptaciones y qué documentación aportar.",
+    "Se crea la obligación de publicar un Manual General Orientativo en un plazo de 6 meses para estandarizar estos criterios."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Real Decreto Legislativo 5/2015 (Estatuto Básico del Empleado Público)",
+    "Real Decreto 2271/2004",
+    "Real Decreto-ley 6/2023",
+    "Real Decreto Legislativo 1/2013",
+    "Real Decreto 888/2022",
+    "Ley 39/2015",
+    "Real Decreto 409/2025"
+  ],
+  "derogations": [
+    "Orden PRE/1822/2006, de 9 de junio"
+  ],
+  "main_obligations": "Los órganos de selección deben resolver sobre la procedencia de las adaptaciones solicitadas basándose en los nuevos baremos y asegurar la accesibilidad de los espacios y canales virtuales. Las convocatorias deben incluir obligatoriamente la información sobre cómo solicitar estos ajustes.",
+  "effective_date": "2025-07-26",
+  "procedures": [
+    {
+      "name": "Solicitud de adaptación de medios, tiempos y ajustes razonables en procesos selectivos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "descrption": "El aspirante debe solicitar la adaptación concreta en la fase de inscripción de la convocatoria.",
+          "start_date": "Durante el plazo de la convocatoria",
+          "end_date": null,
+          "required_documentation": "Dictamen Técnico Facultativo que acredite las deficiencias causantes de la discapacidad (o medios admitidos en Derecho si no hay certificado oficial)."
+        },
+        {
+          "step": 2,
+          "title": "Valoración y posible informe técnico",
+          "descrption": "El órgano de selección evalúa la solicitud y, si es necesario, pide informes a organismos competentes (ej. IMSERSO).",
+          "start_date": null,
+          "end_date": "10 días hábiles desde la recepción de la solicitud por parte del organismo técnico",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "descrption": "El órgano de selección dicta la resolución sobre la concesión de la adaptación solicitada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,73 @@
+{
+  "identifier": "BOE-A-2025-23896",
+  "title": "Resolución de 4 de noviembre de 2025, de la Entidad Pública Empresarial Administrador de Infraestructuras Ferroviarias, por la que se publica el Reglamento de determinación de los cánones ferroviarios de la Entidad Pública Empresarial Administrador de Infraestructuras Ferroviarias",
+  "visible_title": "Reglamento de determinación de los cánones ferroviarios de ADIF",
+  "rank": "resolucion",
+  "country": "es",
+  "department": "Ministerio de Transportes y Movilidad Sostenible",
+  "official_number": "283",
+  "publication_date": "2025-11-25",
+  "enactment_date": "2025-11-04",
+  "last_updated": "2025-11-25",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/res/2025/11/04/(3)",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "283",
+  "summary": "Esta norma actualiza anualmente el sistema de cobro de cánones que ADIF aplica a las empresas ferroviarias por el uso de la red y sus instalaciones. Introduce nuevas metodologías de cálculo de costes directos y una estructura de recargos más eficiente para recuperar costes no elegibles. Además, redefine los tipos de servicios de viajeros para alinearse con la normativa europea y optimizar la gestión de la capacidad de la red.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que regula las relaciones económicas entre el gestor de infraestructuras y los operadores ferroviarios.",
+  "professional_impact": "Afecta directamente a los operadores ferroviarios (viajeros y mercancías), quienes deberán adaptar sus modelos de costes y programación de trenes. Introduce nuevas penalizaciones por falta de uso de la capacidad adjudicada y modifica la forma de calcular el uso de estaciones y vías de maniobra.",
+  "keywords": [
+    "ADIF",
+    "cánones ferroviarios",
+    "infraestructura ferroviaria",
+    "operadores ferroviarios",
+    "capacidad de red",
+    "tarifas ferroviarias"
+  ],
+  "key_points": [
+    "Actualización anual de las tarifas y recargos aplicables por el uso de la red ferroviaria.",
+    "Nueva metodología de cálculo de costes directos basada en criterios de la CNMC.",
+    "Implementación de recargos por falta de uso de la capacidad adjudicada (más del 2% en viajeros y 15% en mercancías).",
+    "Redefinición de servicios de viajeros, eliminando el tipo VL3 para unificarlo con VL1 según estándares europeos.",
+    "Nuevas tarifas diferenciadas para trenes de doble composición en líneas de alta velocidad.",
+    "Establecimiento de un sistema de compensación para garantizar la sostenibilidad económica de ADIF mediante convenios con el Estado.",
+    "Introducción de fórmulas específicas para el cobro por uso de estaciones y vías de apartado/maniobra."
+  ],
+  "legal_references": [
+    "Ley 38/2015, de 29 de septiembre, del sector ferroviario",
+    "Directiva 2012/34/UE",
+    "Reglamento de Ejecución (UE) 2015/909 de la Comisión",
+    "Ley 26/2022, de 19 de diciembre",
+    "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público"
+  ],
+  "derogations": [
+    "Reglamento de Determinación de los Cánones Ferroviarios aprobado por el Consejo de Administración de ADIF en sesión celebrada el 30 de septiembre de 2024"
+  ],
+  "main_obligations": "Los operadores ferroviarios deben presentar mensualmente una declaración de información con los datos de viajeros subidos y bajados para el cálculo de cánones en estaciones. Asimismo, deben cumplir con los umbrales de utilización de la capacidad adjudicada para evitar recargos por ineficiencia.",
+  "effective_date": "2025-12-01",
+  "procedures": [
+    {
+      "name": "Transición de cánones devengados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aplicación de normativa anterior",
+          "descrption": "Los cánones devengados desde la publicación hasta la entrada en vigor se rigen por la normativa previa.",
+          "start_date": "2025-11-25",
+          "end_date": "2025-11-30",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Liquidación compensatoria",
+          "descrption": "ADIF establecerá una compensación global para garantizar que la recaudación no exceda lo que dictaría el nuevo reglamento.",
+          "start_date": "3 meses tras la finalización del horario de servicio 2024-2025",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

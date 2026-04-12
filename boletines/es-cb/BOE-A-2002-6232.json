@@ -1,0 +1,103 @@
+{
+  "identifier": "BOE-A-2002-6232",
+  "title": "Ley 1/2002, de 26 de febrero, del Comercio de Cantabria",
+  "visible_title": "Ley del Comercio de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "1/2002",
+  "publication_date": "2002-04-02",
+  "enactment_date": "2002-02-26",
+  "last_updated": "2017-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2002/02/26/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco regulador de toda la actividad comercial en Cantabria, desde el comercio minorista hasta las ventas especiales. Su objetivo es organizar el mercado regional, definiendo reglas para grandes superficies, horarios comerciales, promociones y ventas ambulantes. Además, crea registros específicos para asociaciones de comerciantes y tipos de ventas especiales para garantizar la transparencia y la competencia.",
+  "citizen_impact": "Los ciudadanos ven regulados sus derechos como consumidores en cuanto a la transparencia de las rebajas, la veracidad de las promociones y el derecho de desistimiento en ventas a domicilio. También afecta a su vida diaria mediante la regulación de los horarios de apertura de los comercios y la organización de los mercados ambulantes.",
+  "professional_impact": "Los comerciantes y empresarios deben cumplir con requisitos de registro, comunicación de apertura de grandes superficies y normativas estrictas sobre promociones y ventas con pérdida. Los ayuntamientos asumen la competencia de autorizar ventas ambulantes y deben adaptar sus ordenanzas. Las sanciones se gradúan según el tamaño económico de la empresa, lo que impacta directamente en la gestión de riesgos de las compañías.",
+  "keywords": [
+    "comercio interior",
+    "Cantabria",
+    "horarios comerciales",
+    "rebajas",
+    "venta ambulante",
+    "franquicias",
+    "grandes establecimientos",
+    "consumidores"
+  ],
+  "key_points": [
+    "Se define como Gran Establecimiento Comercial a cualquier local con más de 2.500 m² de superficie de venta.",
+    "Los comercios tienen un límite máximo de 90 horas semanales de apertura y pueden abrir un máximo de 10 domingos o festivos al año.",
+    "Se prohíbe la venta con pérdida, salvo excepciones muy específicas como productos perecederos o para igualar competidores tras aviso previo.",
+    "Las ventas en rebajas solo pueden realizarse en dos temporadas anuales (invierno y verano).",
+    "Se crea el Registro de Asociaciones de Comerciantes de Cantabria para gestionar ayudas públicas.",
+    "Las ventas ambulantes requieren autorización municipal y deben cumplir requisitos higiénico-sanitarios.",
+    "Las sanciones económicas se calculan según el volumen de facturación y el número de trabajadores de la empresa.",
+    "En ventas a domicilio, el consumidor tiene un derecho de desistimiento de al menos 7 días."
+  ],
+  "legal_references": [
+    "Ley 7/1996, de 15 de enero, de Ordenación del Comercio Minorista",
+    "Ley Orgánica 2/1996",
+    "Real Decreto-ley 6/2000",
+    "Estatuto de Autonomía para Cantabria",
+    "Constitución Española",
+    "Real Decreto Legislativo 1/2007"
+  ],
+  "derogations": [
+    "Normas de igual o inferior rango que se opongan a la presente Ley"
+  ],
+  "main_obligations": "Los comerciantes deben comunicar la apertura de grandes superficies en un plazo de 3 meses, informar claramente de los precios y horarios, y cumplir con las reglas de comunicación de ventas en liquidación con 15 días de antelación. Las infracciones pueden acarrear multas de hasta 600.000 euros para empresas de gran tamaño.",
+  "effective_date": "2002-04-03",
+  "procedures": [
+    {
+      "name": "Comunicación de apertura de Gran Establecimiento Comercial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación a la Consejería",
+          "descrption": "El empresario debe comunicar el inicio de actividad de un gran establecimiento a la Consejería competente.",
+          "start_date": "Dentro de los 3 meses siguientes al inicio de la actividad",
+          "end_date": null,
+          "required_documentation": "Documentación de la actividad comercial"
+        }
+      ]
+    },
+    {
+      "name": "Emisión de informe para Grandes Establecimientos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Remisión de expediente por el Ayuntamiento",
+          "descrption": "El Ayuntamiento remite el expediente de licencia de apertura a la Consejería de Comercio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informes medioambientales y urbanísticos"
+        },
+        {
+          "step": 2,
+          "title": "Resolución del informe por la Consejería",
+          "descrption": "La Consejería emite el informe técnico sobre la ubicación y efectos del establecimiento.",
+          "start_date": "Desde la entrada del expediente completo",
+          "end_date": "3 meses (o 5 meses si se requiere informe de competencia)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Comunicación de ventas en liquidación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación previa",
+          "descrption": "El comerciante debe comunicar las fechas de la liquidación a la Consejería.",
+          "start_date": "15 días de antelación a la venta",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

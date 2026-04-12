@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-2010-12423",
+  "title": "Ley 9/2010, de 7 de julio, de designación de Senadores o Senadoras en representación de la Comunitat Valenciana",
+  "visible_title": "Ley de designación de Senadores en representación de la Comunitat Valenciana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "9/2010",
+  "publication_date": "2010-08-03",
+  "enactment_date": "2010-07-07",
+  "last_updated": "2019-12-10",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2010/07/07/9",
+  "official_journal": "Diari Oficial de la Comunitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta norma establece el procedimiento para que las Corts Valencianas elijan a sus representantes en el Senado. Regula desde el cálculo del número de senadores según la población hasta la distribución proporcional entre grupos parlamentarios mediante la regla D'Hondt. Introduce requisitos de transparencia, exigiendo currículums detallados de los candidatos y un control estricto de su elegibilidad e incompatibilidades.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Afecta a los políticos y cargos públicos de la Comunitat Valenciana, quienes deben cumplir con requisitos de elegibilidad estrictos y presentar documentación detallada (currículum y declaraciones) para poder ser candidatos. También establece incompatibilidades para altos cargos de la Generalitat y otros organismos públicos.",
+  "keywords": [
+    "Senado",
+    "designación",
+    "Corts Valencianas",
+    "representación territorial",
+    "elegibilidad",
+    "incompatibilidad",
+    "Comunitat Valenciana"
+  ],
+  "key_points": [
+    "El número de senadores se determina según el censo de población de las últimas elecciones generales.",
+    "La distribución de plazas entre grupos parlamentarios se realiza mediante la regla D'Hondt.",
+    "Los candidatos deben presentar un currículum detallado de sus méritos profesionales.",
+    "Se prohíbe que altos cargos de la Generalitat, el Consell Jurídic Consultiu o el Síndic de Greuges sean senadores.",
+    "La elección se realiza mediante votación secreta por papeleta en el Pleno de las Corts.",
+    "Las vacantes se cubren automáticamente por los suplentes designados."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunitat Valenciana",
+    "Ley Orgánica del Régimen Electoral General (LOREG)",
+    "Ley 3/1988, de 23 de mayo, de la Generalitat"
+  ],
+  "derogations": [
+    "Ley 3/1988, de 23 de mayo, de la Generalitat, de designación de Senadores en representación de la Comunitat Valenciana"
+  ],
+  "main_obligations": "Los grupos parlamentarios deben presentar sus candidaturas por escrito incluyendo currículum y documentos de elegibilidad en un plazo máximo de 10 días tras la fijación del número de senadores. Los candidatos deben aceptar expresamente el cargo.",
+  "effective_date": "2010-08-04",
+  "procedures": [
+    {
+      "name": "Designación de Senadores por las Corts Valencianas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Determinación del número de senadores",
+          "description": "La Mesa de la Cámara fija el número de representantes basándose en el censo de población.",
+          "start_date": "Dentro de los 30 días siguientes a la constitución de Les Corts",
+          "end_date": null,
+          "required_documentation": "Censo de población de derecho vigente"
+        },
+        {
+          "step": 2,
+          "title": "Propuesta de candidaturas",
+          "description": "Los grupos parlamentarios presentan sus listas de titulares y suplentes.",
+          "start_date": "Tras la fijación del número de senadores",
+          "end_date": "Plazo máximo de 10 días",
+          "required_documentation": "Escrito con nombres, apellidos, documentos de elegibilidad, currículum detallado y declaración de aceptación"
+        },
+        {
+          "step": 3,
+          "title": "Examen de elegibilidad",
+          "description": "La Comisión de Estatuto de los Diputados y las Diputadas verifica la ausencia de incompatibilidades.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación recabada por la Comisión"
+        },
+        {
+          "step": 4,
+          "title": "Subsanación de errores",
+          "description": "Plazo para corregir causas de inelegibilidad detectadas.",
+          "start_date": "Tras el dictamen de la Comisión",
+          "end_date": "3 días para subsanar o 48 horas para sustituir al candidato",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Votación en el Pleno",
+          "description": "Elección mediante votación secreta por papeleta.",
+          "start_date": "Dentro de los 30 días siguientes al dictamen de la Comisión",
+          "end_date": null,
+          "required_documentation": "Papeletas con nombres de candidatos y suplentes"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

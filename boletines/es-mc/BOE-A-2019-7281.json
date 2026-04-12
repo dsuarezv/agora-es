@@ -1,0 +1,84 @@
+{
+  "identifier": "BOE-A-2019-7281",
+  "title": "Ley 4/2019, de 3 de abril, de venta local de productos agroalimentarios de la Comunidad Autónoma de la Región de Murcia",
+  "visible_title": "Ley de venta local de productos agroalimentarios de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "4/2019",
+  "publication_date": "2019-05-16",
+  "enactment_date": "2019-04-03",
+  "last_updated": "2019-04-06",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2019/04/03/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca dinamizar el mundo rural murciano facilitando que los productores vendan sus alimentos directamente al consumidor o con un solo intermediario. Introduce flexibilidad en las normas de higiene para permitir métodos tradicionales y pequeñas cantidades de productos sin las trabas de la gran industria. El objetivo es crear circuitos de comercialización más cortos, sostenibles y con mayor beneficio para el agricultor y el consumidor local.",
+  "citizen_impact": "Los ciudadanos tendrán más opciones para comprar productos frescos, locales y de temporada con mayor trazabilidad. Además, se implementará un sistema de señalización en carreteras para identificar fácilmente los puntos de venta directa y los comercios que trabajan con productos de la zona.",
+  "professional_impact": "Los agricultores y productores forestales pueden vender directamente (incluso online) sin intermediarios excesivos, simplificando sus requisitos sanitarios mediante guías de buenas prácticas. Los establecimientos locales (restaurantes, tiendas, turismo rural) que compren a productores locales deberán realizar una declaración responsable y podrán usar un distintivo de venta local.",
+  "keywords": [
+    "venta directa",
+    "canal corto de comercialización",
+    "productos agroalimentarios",
+    "desarrollo rural",
+    "higiene alimentaria",
+    "Región de Murcia",
+    "productor agrario"
+  ],
+  "key_points": [
+    "Se permite la venta directa del productor al consumidor en su propia explotación, ferias, mercados o incluso vía online.",
+    "Se regula el 'canal corto', permitiendo un único intermediario (como un pequeño comercio o restaurante) entre el productor y el cliente.",
+    "Se flexibilizan las normas de higiene para adaptarse a pequeñas cantidades y métodos tradicionales sin perder seguridad.",
+    "Se crea un Registro de Venta Local de productos agroalimentarios en la Región de Murcia.",
+    "Se establece un sistema de señalización en carreteras para identificar puntos de venta local.",
+    "Los productores deben estar inscritos en el REGEPA o REGA (o registro específico para forestales).",
+    "Se permite la venta de productos transformados por el propio productor (elaboración propia) bajo esta modalidad.",
+    "Se incluye la posibilidad de comercializar carne de aves y lagomorfos sacrificados en la propia explotación bajo condiciones específicas."
+  ],
+  "legal_references": [
+    "Reglamento (UE) n.º 1305/2013",
+    "Reglamento (CE) n.º 852/2004",
+    "Reglamento (CE) n.º 853/2004",
+    "Real Decreto 640/2006",
+    "Reglamento (CE) n.º 1169/2011",
+    "Ley 11/2006 de la Región de Murcia",
+    "Decreto 2484/1967",
+    "Real Decreto 30/2009"
+  ],
+  "derogations": [],
+  "main_obligations": "Los productores deben llevar un registro de trazabilidad (producto, cantidad, fecha y lugar de venta) y los establecimientos locales deben presentar una declaración responsable ante el ayuntamiento. El incumplimiento de las normas de seguridad alimentaria o comercio dará lugar a sanciones según la normativa vigente.",
+  "effective_date": "2019-05-06",
+  "procedures": [
+    {
+      "name": "Desarrollo normativo de la Ley",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación de Guías Higiénico-Sanitarias",
+          "descrption": "El Gobierno debe aprobar guías de buenas prácticas para facilitar la adaptación de requisitos de higiene.",
+          "start_date": "6 meses desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Determinación de cantidades máximas",
+          "descrption": "Los consejeros de agricultura y salud pública deben aprobar la orden que fija los volúmenes máximos de productos comercializables.",
+          "start_date": "6 meses desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Sistema de señalización",
+          "descrption": "Desarrollo de un sistema de señalización visible en carreteras para identificar puntos de venta.",
+          "start_date": "1 año desde la entrada en vigor",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

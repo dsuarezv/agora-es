@@ -1,0 +1,80 @@
+{
+  "identifier": "BOE-A-2003-5695",
+  "title": "Ley 5/2003, de 26 de febrero, de creación de la Comarca de Sobrarbe",
+  "visible_title": "Creación de la Comarca de Sobrarbe",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "5/2003",
+  "publication_date": "2003-03-21",
+  "enactment_date": "2003-02-26",
+  "last_updated": "2003-03-07",
+  "status": "in_force",
+  "scope": "Local",
+  "source": "https://www.boe.es/eli/es-ar/l/2003/02/26/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece oficialmente la Comarca de Sobrarbe como una nueva entidad local en Aragón para mejorar la gestión de servicios públicos. Su objetivo es agrupar a los municipios de la zona para gestionar de forma eficiente áreas como el urbanismo, medio ambiente, sanidad, acción social y turismo. La norma organiza su estructura de gobierno, su capitalidad en Boltaña y su capacidad para recibir competencias de la Diputación y la Comunidad Autónoma.",
+  "citizen_impact": "Los ciudadanos de los municipios integrados verán una gestión más profesional y cercana de servicios esenciales como la recogida de residuos, la protección civil o la promoción turística. Al centralizar estos servicios, se busca evitar el abandono de zonas rurales y mejorar la calidad de la vida en el Pirineo.",
+  "professional_impact": "Los ayuntamientos locales pasan a colaborar con una estructura supramunicipal, debiendo realizar aportaciones económicas obligatorias según su población. Los funcionarios de la zona podrán integrarse en la nueva estructura comarcal, y se crea la figura del Gerente para la gestión técnica de los servicios.",
+  "keywords": [
+    "Comarca de Sobrarbe",
+    "Administración Local",
+    "Aragón",
+    "Gestión de servicios",
+    "Descentralización"
+  ],
+  "key_points": [
+    "Creación oficial de la Comarca de Sobrarbe integrada por 20 municipios.",
+    "Designación de Boltaña como capital administrativa y Aínsa como capital económica.",
+    "Atribución de competencias en 19 áreas, incluyendo medio ambiente, sanidad, cultura y transporte.",
+    "Establecimiento de un Consejo Comarca con 19 miembros elegidos por los concejales.",
+    "Obligatoriedad de los municipios de realizar aportaciones económicas a la Comarca.",
+    "Creación de un servicio de asistencia técnica y jurídica para los ayuntamientos miembros.",
+    "Posibilidad de crear un puesto de Gerente para la gestión ejecutiva de la entidad."
+  ],
+  "legal_references": [
+    "Ley 10/1993, de 4 de noviembre, de Comarcalización de Aragón",
+    "Ley 8/1996, de 2 de diciembre, de Delimitación Comarcal de Aragón",
+    "Ley 7/1999, de 9 de abril, de Administración Local de Aragón",
+    "Ley 23/2001, de 26 de diciembre, de Medidas de Comarcalización",
+    "Estatuto de Autonomía de Aragón"
+  ],
+  "derogatons": [
+    "Mancomunidades cuyos fines coincidan con los de la nueva Comarca (como la Mancomunidad del Sobrarbe)"
+  ],
+  "main_obligations": "Los municipios integrantes tienen la obligación de realizar aportaciones económicas anuales a la Comarca, calculadas según su población y uso de servicios. En caso de impago superior a un trimestre, la Comarca puede solicitar la retención de transferencias autonómicas o provinciales del municipio deudor.",
+  "effective_date": "2003-03-22",
+  "procedures": [
+    {
+      "name": "Constitución de la Comarca",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elección de Consejeros Comarcales",
+          "description": "La Junta Electoral convoca a los concejales para designar a los miembros del Consejo Comarca.",
+          "start_date": "1 mes tras la entrada en vigor de la Ley",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Constitución del Consejo Comarcal",
+          "description": "Sesión pública en la capital para la constitución formal del órgano de gobierno.",
+          "start_date": "1 mes tras la proclamación de electos",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Constitución de Comisiones Mixtas",
+          "description": "Creación de las comisiones para el traspaso de competencias entre la Comarca, la Comunidad Autónoma y la Diputación.",
+          "start_date": "1 mes tras la constitución del Consejo",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

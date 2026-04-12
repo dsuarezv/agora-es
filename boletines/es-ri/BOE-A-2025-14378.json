@@ -1,0 +1,104 @@
+{
+  "identifier": "BOE-A-2025-14378",
+  "title": "Ley 4/2025, de 1 de julio, del paisaje de La Rioja",
+  "visible_title": "Ley del paisaje de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "4/2025",
+  "publication_date": "2025-07-12",
+  "enactment_date": "2025-07-01",
+  "last_updated": "2025-07-02",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/2025/07/01/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un marco jurídico integral para proteger, gestionar y ordenar el paisaje de La Rioja, elevándolo a la categoría de bien público y elemento de identidad cultural. Su objetivo es frenar la degradación del territorio causada por proyectos de gran impacto, como infraestructuras energéticas renovables, sin frenar el desarrollo económico. Para ello, crea herramientas como el Catálogo de Paisaje y el Observatorio del Paisaje, clasificando el territorio en unidades y paisajes con distintos niveles de protección.",
+  "citizen_impact": "Los ciudadanos ganan voz en la gestión de su entorno mediante procesos de participación pública y la creación de un Observatorio del Paisaje. Además, se garantiza la preservación de la identidad visual y cultural de sus pueblos y paisajes naturales, lo que protege su calidad de vida y el valor de su patrimonio.",
+  "professional_impact": "Las empresas de energía, construcción y extractivas enfrentan mayores exigencias: deberán presentar Estudios de Integración Paisajística y someterse a informes vinculantes de la Consejería. Los proyectos de gran escala (como parques eólicos o solares de gran potencia) tendrán restricciones severas en zonas protegidas y podrían enfrentar multas de hasta 2,4 millones de euros.",
+  "keywords": [
+    "paisaje",
+    "La Rioja",
+    "ordenación del territorio",
+    "protección ambiental",
+    "impacto paisajístico",
+    "desarrollo sostenible",
+    "infraestructuras renovables"
+  ],
+  "key_points": [
+    "Creación de un Catálogo de Paisaje y una Directriz de Paisaje para regular el territorio.",
+    "Obligatoriedad de presentar un Estudio de Integración Paisajística para proyectos en suelo no urbanizable.",
+    "Clasificación de proyectos según su impacto: los de 'elevado impacto' requieren informes vinculantes y mayor control.",
+    "Prohibición de ciertas actividades (como invernaderos o vertederos) en zonas de especial protección paisajística.",
+    "Creación del Observatorio del Paisaje como órgano de asesoramiento y decisión.",
+    "Establecimiento de un régimen sancionador con multas que pueden alcanzar los 2.404.000 euros.",
+    "Definición de criterios para proyectos de energía renovable (parques eólicos y solares) como de elevado impacto.",
+    "Reconocimiento del paisaje como un recurso que debe equilibrar economía, sociedad y medioambiente."
+  ],
+  "legal_references": [
+    "Convenio Europeo del Paisaje",
+    "Ley 5/2006, de 2 de mayo, de Ordenación del Territorio y Urbanismo de La Rioja (LOTUR)",
+    "Ley 1/2024, de 24 de enero, de medidas temporales y urgentes para la protección del paisaje de La Rioja",
+    "Ley 21/2013, de 9 de diciembre, de evaluación ambiental",
+    "Ley 7/2004, de 18 de diciembre, de Patrimonio Cultural, Histórico y Artístico de La Rioja",
+    "Ley 2/2023, de 31 de enero, de biodiversidad y patrimonio natural de La Rioja",
+    "Ley 3/1995, de 23 de marzo, de Vías Pecuarias",
+    "Ley 39/2015, de 1 de octubre",
+    "Ley 40/2015, de 1 de octubre",
+    "Ley 4/2005, de 1 de junio"
+  ],
+  "derogations": [
+    "Ley 1/2024, de 24 de enero, de medidas temporales y urgentes para la protección del paisaje de La Rioja"
+  ],
+  "main_obligations": "Los promotores de proyectos de impacto deben obtener informes favorables de la Consejería de Paisaje; el incumplimiento de autorizaciones o la destrucción de paisajes relevantes conlleva multas de hasta 2,4 millones de euros y la obligación de restaurar el daño.",
+  "effective_date": "2025-07-31",
+  "procedures": [
+    {
+      "name": "Autorización de proyectos con impacto paisajístico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud inicial",
+          "description": "El interesado presenta la solicitud ante el Ayuntamiento donde se pretende realizar la actividad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos de ubicación, objeto y características del proyecto; Estudio de Integración Paisajística si procede."
+        },
+        {
+          "step": 2,
+          "title": "Traslado al órgano competente",
+          "description": "El Ayuntamiento remite el expediente a la Consejería de Paisaje (salvo que sea denegable por urbanismo).",
+          "start_date": "dentro de 2 meses desde la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Clasificación de impacto",
+          "description": "La Consejería determina si el proyecto es de elevado o moderado impacto paisajístico.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Información pública",
+          "description": "Se anuncia en el Boletín Oficial de La Rioja para recibir alegaciones.",
+          "start_date": null,
+          "end_date": "20 días",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Resolución",
+          "description": "Emisión de la resolución definitiva (favorable o desestimatoria).",
+          "start_date": null,
+          "end_date": "3 meses (si hay silencio administrativo, la demora implica desestimación)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,102 @@
+{
+  "identifier": "BOE-A-2016-11670",
+  "title": "Ley 9/2016, de 3 de noviembre, de reducción de la pobreza energética de Aragón",
+  "visible_title": "Ley de reducción de la pobreza energética de Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "9/2016",
+  "publication_date": "2016-12-08",
+  "enactment_date": "2016-11-03",
+  "last_updated": "2016-11-11",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2016/11/03/9",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley combate la pobreza energética en Aragón mediante ayudas económicas directas para el pago de facturas de luz, gas y agua. Establece criterios de renta y situación social para identificar a hogares vulnerables y evitar que se les corten los suministros básicos. Además, impulsa un plan de eficiencia energética para reducir el consumo y los costes a largo plazo en las viviendas de estas familias.",
+  "citizen_impact": "Las familias en situación de vulnerabilidad o riesgo de exclusión pueden recibir ayudas de hasta el 100% de su factura energética para evitar cortes de suministro. Se garantiza el acceso presencial a estas ayudas para evitar la barrera digital. También se facilita la rehabilitación de viviendas para que consuman menos energía.",
+  "professional_impact": "Las empresas suministradoras de agua, gas y electricidad están obligadas a informar a los usuarios sobre estas ayudas y deben abstenerse de cortar el suministro mientras se tramita la ayuda. Los Servicios Sociales asumen la responsabilidad de valorar técnicamente la vulnerabilidad de los hogares para gestionar estas prestaciones.",
+  "keywords": [
+    "pobreza energética",
+    "vulnerabilidad",
+    "ayudas energéticas",
+    "eficiencia energética",
+    "suministros básicos",
+    "Aragón"
+  ],
+  "key_points": [
+    "Ayudas económicas de hasta el 100% de la factura para hogares en situación de especial vulnerabilidad.",
+    "Ayudas de hasta el 50% (ampliables al 75% según composición familiar) para hogares en situación de vulnerabilidad.",
+    "Prohibición de corte de suministro mientras se tramita la ayuda para personas con acreditación de vulnerabilidad.",
+    "Obligación de las suministradoras de informar sobre estas ayudas en sus avisos de impago.",
+    "Creación de un Plan de medidas de eficiencia energética con prioridad para hogares vulnerables.",
+    "Posibilidad de solicitar las ayudas de forma presencial en entidades locales para evitar la brecha digital.",
+    "Financiación de medidas de microeficiencia energética entre el 25% y el 100% según el caso."
+  ],
+  "legal_references": [
+    "Directiva 2009/72/CE",
+    "Directiva 2009/73/CE",
+    "Directiva 2012/27/UE",
+    "Ley 24/2013 del Sector Eléctrico",
+    "Estatuto de Autonomía de Aragón",
+    "Sentencia del Tribunal Constitucional 62/2016",
+    "Ley 5/2009 de Servicios Sociales de Aragón"
+  ],
+  "derogations": [],
+  "main_obligations": "Las suministradoras deben informar obligatoriamente sobre estas ayudas en sus comunicaciones de impago. Los beneficiarios deben comunicar la percepción de otras ayudas similares para evitar duplicidades. El incumplimiento de los deberes de información por parte de las empresas puede acarrear sanciones graves.",
+  "effective_date": "2016-12-09",
+  "procedures": [
+    {
+      "name": "Acceso a ayudas para el pago de facturas energéticas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Detección o solicitud",
+          "description": "Los Servicios Sociales detectan el caso o el usuario comunica la situación de impago ante la entidad local.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informe de la Administración competente en servicios sociales"
+        },
+        {
+          "step": 2,
+          "title": "Valoración técnica",
+          "description": "Los profesionales de Servicios Sociales realizan una valoración para verificar el cumplimiento de requisitos de renta y situación social.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Notificación al suministrador",
+          "description": "Se comunica a la empresa suministradora para evitar o restablecer el servicio.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Elaboración del Plan de medidas de eficiencia energética",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Proyecto piloto",
+          "description": "Realización de un estudio sobre tipologías de vivienda y hábitos de consumo como paso previo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aprobación del Plan",
+          "description": "El Gobierno de Aragón debe aprobar el plan de medidas de eficiencia energética.",
+          "start_date": null,
+          "end_date": "9 meses tras la entrada en vigor de la ley",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,125 @@
+{
+  "identifier": "BOE-A-2020-16969",
+  "title": "Decreto-ley 38/2020, de 3 de noviembre, por el cual se adoptan medidas en el ámbito cultural para paliar los efectos de la crisis generada por la pandemia de la COVID-19",
+  "visible_title": "Medidas de apoyo económico para el sector cultural ante la crisis de la COVID-19",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "38/2020",
+  "publication_date": "2020-12-25",
+  "enactment_date": "2020-11-03",
+  "last_updated": "2020-11-05",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2020/11/03/38",
+  "official_journal": "Diari Oficial de la Generalitat de Catalunya",
+  "journal_issue": null,
+  "summary": "Esta norma establece ayudas económicas urgentes para evitar la quiebra del sistema cultural catalán debido a las restricciones por la pandemia. Crea dos líneas de subvenciones: una para compensar ingresos perdidos por la cancelación de espectáculos y otra para cubrir gastos de funcionamiento de empresas y entidades culturales. El objetivo es garantizar la supervivencia de los agentes creativos y la continuidad de la industria cultural.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, más allá de la posible mejora en la disponibilidad de oferta cultural gracias al apoyo al sector.",
+  "professional_impact": "Artistas, técnicos, empresas de gestión cultural y entidades sin ánimo de lucro pueden acceder a subvenciones para cubrir pérdidas por cancelaciones o gastos operativos. Los beneficiarios deben acreditar la cancelación de actividades y presentar documentación presupuestaria y de compromiso para recibir las ayudas.",
+  "keywords": [
+    "cultura",
+    "subvenciones",
+    "COVID-19",
+    "artes escénicas",
+    "gastos de funcionamiento",
+    "cancelación de espectáculos",
+    "Cataluña"
+  ],
+  "key_points": [
+    "Subvención del 40% del caché o ingresos previstos para artistas y técnicos por espectáculos cancelados.",
+    "Ayudas para cubrir el 100% de los gastos de funcionamiento (personal, alquileres, suministros) en empresas culturales.",
+    "Límites de ayuda según el aforo de la sala (desde 10.000€ hasta 28.000€ para gestión de salas).",
+    "Compatibilidad con otras ayudas siempre que no se supere el coste real de la actividad.",
+    "Prohibición de haber tramitado ERE desde el inicio del estado de alarma para acceder a las ayudas de funcionamiento.",
+    "Obligación de mantener la actividad económica hasta el 31 de diciembre de 2020."
+  ],
+  "legal_references": [
+    "Estatuto de autonomía de Cataluña",
+    "Ley 13/2008, del 5 de noviembre, de la presidencia de la Generalidad y del Gobierno",
+    "Real Decreto 926/2020, de 25 de octubre",
+    "Resolución SLT/2700/2020, de 29 de octubre",
+    "Real Decreto 463/2020, de 14 de marzo",
+    "Decisión de la Comisión Europea S.A. 56851"
+  ],
+  "derogations": [],
+  "main_obligations": "Los beneficiarios deben acreditar fehacientemente las actividades canceladas mediante contratos o documentos de compromiso y justificar los gastos mediante una cuenta simplificada antes del 26 de febrero de 2021.",
+  "effective_date": "2020-11-03",
+  "procedures": [
+    {
+      "name": "Concesión de subvenciones por cancelación de espectáculos (OSIC)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Entrega de documentación incluyendo presupuesto detallado, declaración responsable de cancelación y contratos/compromisos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Presupuesto, declaración responsable de cancelación, contratos o documentos de compromiso, y liquidación de ingresos del año anterior (para entidades sin ánimo de lucro)."
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y propuesta",
+          "description": "El órgano instructor elabora la propuesta por orden de presentación según disponibilidad presupuestaria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "El Consejo de Administración de la OSIC resuelve la convocatoria en un plazo máximo de dos meses.",
+          "start_date": null,
+          "end_date": "2 meses desde la presentación",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Pago",
+          "description": "Abono del importe en un único pago tras la resolución.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Justificación",
+          "description": "Presentación de la cuenta justificativa simplificada.",
+          "start_date": null,
+          "end_date": "2021-02-26",
+          "required_documentation": "Cuenta justificativa simplificada."
+        }
+      ]
+    },
+    {
+      "name": "Concesión de subvenciones para gastos de funcionamiento (ICEC)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Entrega de presupuesto de gastos de funcionamiento y declaraciones responsables.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Presupuesto de gastos, declaración de perjuicio económico, título de uso del establecimiento y acreditación de no tramitación de ERE."
+        },
+        {
+          "step": 2,
+          "title": "Resolución y Pago",
+          "description": "Resolución y abono del 100% de la cuantía tras la concesión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Justificación",
+          "description": "Presentación de la cuenta justificativa simplificada.",
+          "start_date": null,
+          "end_date": "2021-02-26",
+          "required_documentation": "Cuenta justificativa simplificada."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

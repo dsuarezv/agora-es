@@ -1,0 +1,79 @@
+{
+  "identifier": "BOE-A-2020-5022",
+  "title": "Decreto-ley 5/2020, de 27 de marzo, por el que se establecen medidas urgentes en materias tributaria y administrativa para hacer frente al impacto económico y social del COVID-19",
+  "visible_title": "Medidas urgentes tributarias y administrativas para hacer frente al impacto económico y social del COVID-19 en las Illes Balears",
+  "rank": "real_decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "5/2020",
+  "publication_date": "2020-05-14",
+  "enactment_date": "2020-03-27",
+  "last_updated": "2020-03-28",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/dl/2020/03/27/5",
+  "official_journal": "Butlletíri Oficial de les Illes Balears",
+  "journal_issue": null,
+  "summary": "Esta norma implementa ayudas económicas y alivios administrativos en las Islas Baleares para mitigar la crisis causada por la pandemia de COVID-19. Se centra en dar oxígeno financiero a personas físicas y pequeñas empresas mediante la ampliación de plazos para pagar impuestos y la eliminación de intereses por aplazamientos. Además, introduce medidas de apoyo a la seguridad mediante la incorporación de policías en prácticas y exenciones en tasas portuarias para el transporte de pasajeros.",
+  "citizen_impact": "Las personas físicas y las pequeñas empresas tienen un mes extra para presentar y pagar los impuestos de sucesiones, donaciones y transmisiones patrimoniales. También pueden aplazar deudas tributarias sin pagar intereses de demora durante los primeros tres meses, facilitando su liquidez inmediata.",
+  "professional_impact": "Las navieras de pasajeros de línea regular y transbordo quedan exentas de tasas portuarias durante el estado de alarma. Los funcionarios en prácticas de la policía local pueden empezar sus prácticas de apoyo de forma inmediata sin haber terminado el curso de capacitación, permitiendo reforzar la seguridad ciudadana.",
+  "keywords": [
+    "COVID-19",
+    "medidas tributarias",
+    "ampliación de plazos",
+    "intereses de demora",
+    "pequeñas empresas",
+    "policía local",
+    "tasas portuarias",
+    "Illes Balears"
+  ],
+  "key_points": [
+    "Un mes adicional para presentar autoliquidaciones de ITP, AJD, Sucesiones y Donaciones para personas físicas y pymes.",
+    "No se cobrarán intereses de demora durante los primeros tres meses de aplazamientos o fraccionamientos de deuda tributaria.",
+    "Exención del pago de tasas portuarias para navieras de barcos de pasajeros de línea regular y transbordo.",
+    "Permiso para que policías locales en prácticas realicen tareas de apoyo de forma inmediata sin completar el curso de capacitación.",
+    "Ampliación del plazo para presentar la cuenta general de la Comunidad Autónoma de 2019 hasta el 30 de septiembre de 2020."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020",
+    "Real Decreto-ley 8/2020",
+    "Decreto-ley 4/2020",
+    "Decreto legislativo 1/2014",
+    "Decreto 40/2019",
+    "Ley 11/1998",
+    "Ley 14/2014",
+    "Ley 4/2013"
+  ],
+  "derogations": [],
+  "main_obligations": "Los contribuyentes deben cumplir con los nuevos plazos ampliados para la presentación de autoliquidaciones de ITP, AJD, Sucesiones y Donaciones si su vencimiento original era antes del 1 de mayo de 2020.",
+  "effective_date": "2020-03-27",
+  "procedures": [
+    {
+      "name": "Presentación de autoliquidaciones de ITP, AJD, Sucesiones y Donaciones (Plazo ampliado)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación y pago de impuestos",
+          "descrption": "Plazo para presentar las declaraciones y documentación de los impuestos mencionados.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": "Un mes adicional al plazo ordinario (si el vencimiento original era antes del 01-05-2020)",
+          "required_documentation": "Documentación exigible según artículos 82 y 90 del Texto refundido de la CAIB"
+        }
+      ]
+    },
+    {
+      "name": "Aplazamiento o fraccionamiento de deuda tributaria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de aplazamiento",
+          "descrption": "Solicitud de aplazamiento de deudas de ITP, AJD o Sucesiones para evitar intereses.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": "Hasta la finalización del estado de alarma",
+          "required_documentation": "Documentación según normativa general de la Agencia Tributaria de las Illes Balears"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

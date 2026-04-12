@@ -1,0 +1,101 @@
+{
+  "identifier": "BOE-A-1998-3168",
+  "title": "Ley 5/1997, de 13 de octubre, de Ferias de la Región de Murcia",
+  "visible_title": "Ley de Ferias de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "5/1997",
+  "publication_date": "1998-02-12",
+  "enactment_date": "1997-10-13",
+  "last_updated": "2009-12-24",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/1997/10/13/5",
+  "official_journal": "Boletín Oficial de la Región de Murcia",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza el marco jurídico de las ferias comerciales en Murcia para cumplir con la normativa de la Unión Europea, garantizando la libre participación de empresarios comunitarios. Establece las reglas para que un evento sea considerado 'Feria Oficial', regula la creación de instituciones feriares y crea un registro específico para estos certámenes. Además, actualiza el régimen de sanciones y los criterios de gestión económica para asegurar la transparencia.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
+  "professional_impact": "Las empresas organizadoras de ferias deben cumplir con trámites estrictos de solicitud y declaración responsable antes del 1 de octubre de cada año. Los empresarios que deseen exponer en ferias oficiales tienen garantizado el derecho a la no discriminación por su origen nacional. Las instituciones feriares asumen cargas de gestión contable, elaboración de presupuestos y presentación de memorias anuales ante la Administración.",
+  "keywords": [
+    "ferias comerciales",
+    "Región de Murcia",
+    "instituciones feriares",
+    "derecho comunitario",
+    "organización de eventos",
+    "comercio regional"
+  ],
+  "key_points": [
+    "Garantiza la libre participación de empresarios de la Unión Europea en las ferias murcianas.",
+    "Establece que las ferias oficiales deben solicitar su calificación antes del 1 de octubre del año anterior a su celebración.",
+    "Crea el Registro de Ferias Oficiales e Instituciones Feriales de la Región de Murcia.",
+    "Define que las ferias oficiales no pueden durar más de quince días.",
+    "Obliga a las entidades organizadoras a presentar la liquidación del presupuesto y la memoria de actividades en el primer semestre de cada año.",
+    "Introduce un sistema de sanciones por infracciones leves, graves y muy graves relacionadas con la gestión y denominación de las ferias.",
+    "Permite la administración de oficio de la calificación de feria oficial si la solicitud no se resuelve en tres meses."
+  ],
+  "legal_references": [
+    "Ley 2/1986, de 20 de enero, de Ferias de la Región de Murcia",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Tratado de Adhesión de España"
+  ],
+  "derogatons": [
+    "Ley 2/1986, de 20 de enero, de Ferias de la Región de Murcia"
+  ],
+  "main_obligations": "Las entidades organizadoras deben solicitar la calificación de feria oficial antes del 1 de octubre mediante declaración responsable. Deben presentar anualmente la liquidación presupuestaria y la memoria de actividades en el primer semestre. El incumplimiento de estas obligaciones o el uso no autorizado de denominaciones oficiales conlleva multas de hasta 1.700.000 pesetas.",
+  "effective_date": "1998-02-13",
+  "procedures": [
+    {
+      "name": "Calificación de Feria Comercial Oficial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "La entidad organizadora debe presentar la solicitud y declaración responsable ante la Dirección General competente.",
+          "start_date": "Antes del 1 de octubre del año anterior a la celebración",
+          "end_date": null,
+          "required_documentation": "Datos de la entidad, denominación, periodicidad, fechas, lugar (con planos), gama de bienes/servicios, presupuesto, proyecto de Estatutos y Reglamento, y autorizaciones especiales."
+        },
+        {
+          "step": 2,
+          "title": "Valoración y resolución",
+          "description": "La Consejería de Comercio valora la solicitud y debe resolver en un plazo máximo de tres meses.",
+          "start_date": "Desde la entrada en registro",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Inscripción en el Registro",
+          "description": "Si la solicitud es estimada, se publica en el BORM y se inscribe de oficio en el Registro de Ferias Oficiales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Inscripción de Institución Feria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inscripción",
+          "description": "Presentación de acuerdos de constitución y estatutos ante la Administración regional.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acuerdos de constitución y Estatutos que regulen denominación, fines, domicilio, órganos, régimen de funcionamiento, patrimonio y aplicación en caso de disolución."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de inscripción",
+          "description": "La Consejería resuelve tras los informes necesarios en un plazo de dos meses.",
+          "start_date": null,
+          "end_date": "2 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

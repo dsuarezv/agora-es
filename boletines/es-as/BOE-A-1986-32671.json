@@ -1,0 +1,130 @@
+{
+  "identifier": "BOE-A-1986-32671",
+  "title": "Ley 10/1986, de 7 de noviembre, regulaforadora de la Demarcación Territorial de los Concejos del Principado de Asturias",
+  "visible_title": "Ley reguladora de la Demarcación Territorial de los Concejos del Principado de Asturias",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del Principado de Asturias",
+  "official_number": "10/1986",
+  "publication_date": "1986-12-16",
+  "enactment_date": "1986-11-07",
+  "last_updated": "1986-11-18",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-as/l/1986/11/07/10",
+  "official_journal": "Boletín Oficial del Principado de Asturias",
+  "journal_issue": null,
+  "summary": "Esta ley establece las reglas para cambiar los límites, crear o eliminar municipios (concejos) en Asturias. Su objetivo es evitar que existan ayuntamientos demasiado pequeños o sin recursos económicos para prestar servicios básicos. Permite la fusión de municipios o la separación de partes de uno para formar nuevos, siempre que se garantice la viabilidad económica y la calidad de los servicios.",
+  "citizen_impact": "Afecta principalmente a la organización de los servicios públicos locales (limpieza, agua, urbanismo). En casos de segregación, los vecinos pueden solicitar directamente la creación de un nuevo municipio si no están conformes con la gestión actual.",
+  "professional_impact": "Afecta directamente a funcionarios municipales y políticos locales, ya que regula la creación de nuevas administraciones y la gestión de bienes, deudas y personal durante procesos de fusión o segregación. Los técnicos municipales deberán seguir procedimientos estrictos de liquidación de activos y pasivos.",
+  "keywords": [
+    "demarcación territorial",
+    "concejos",
+    "municipios",
+    "fusión de municipios",
+    "segregación municipal",
+    "Asturias",
+    "gestión municipal"
+  ],
+  "key_points": [
+    "Permite crear nuevos concejos mediante la fusión de municipios limítrofes o la segregación de parte de uno existente.",
+    "La creación de un nuevo municipio exige que este tenga recursos suficientes para cumplir sus competencias sin bajar la calidad de los servicios.",
+    "Los vecinos pueden instar la segregación de un territorio si la mayoría lo solicita, incluso si el Ayuntamiento se opone.",
+    "En caso de fusión, se debe realizar una división proporcional de bienes, derechos, deudas y cargas según habitantes y riqueza.",
+    "Se establecen ayudas económicas del Principado para incentivar la fusión de municipios y mejorar sus infraestructuras.",
+    "Los nuevos municipios contarán con una Comisión Gestora provisional hasta que se celebren elecciones."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía para Asturias",
+    "Ley 7/1985, de 2 de abril",
+    "Ley reguladora de las Bases de Régimen Local"
+  ],
+  "derogatons": [],
+  "main_obligations": "Los Ayuntamientos que pretendan cambios territoriales deben obtener el voto favorable de las dos terceras partes de sus miembros y presentar una justificación económica y de servicios. En procesos de segregación, es obligatorio liquidar de forma proporcional bienes y deudas.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Procedimiento ordinario de modificación de demarcación territorial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación por acuerdo municipal",
+          "description": "El Pleno del Ayuntamiento aprueba la propuesta con mayoría de dos tercios.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Justificación de causas y planos de los nuevos límites"
+        },
+        {
+          "step": 2,
+          "title": "Valoración de viabilidad",
+          "description": "La Consejería de Interior comprueba si la propuesta es viable antes de iniciar el trámite.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Información pública",
+          "description": "Periodo para que los vecinos presenten alegaciones.",
+          "start_date": "4 meses",
+          "end_date": "4 meses",
+          "required_documentation": "Alegaciones de ciudadanos"
+        },
+        {
+          "step": 4,
+          "title": "Trámite de alegaciones",
+          "description": "Los Ayuntamientos afectados responden a las alegaciones presentadas.",
+          "start_date": "2 meses",
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Dictamen consultivo",
+          "description": "El expediente se somete al órgano consultivo superior del Consejo de Gobierno.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 6,
+          "title": "Resolución final",
+          "description": "El Consejo de Gobierno resuelve mediante Decreto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de oficio (Casos especiales)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Resolución de la Consejería",
+          "description": "La Consejería inicia el proceso por necesidad de servicios o despoblación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Periodo de alegaciones para ayuntamientos y vecinos.",
+          "start_date": "4 meses",
+          "end_date": "4 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Proyecto de Ley",
+          "description": "Si es procedente, el Consejo de Gobierno envía un proyecto de Ley a la Junta General.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

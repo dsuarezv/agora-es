@@ -1,0 +1,108 @@
+{
+  "identifier": "BOE-A-2016-11671",
+  "title": "Ley Foral 15/2016, de 11 de noviembre, por la que se regulan los derechos a la Inclusión Social y a la Rentas Garantizada",
+  "visible_title": "Derechos a la Inclusión Social y a la Renta Garantizada",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "15/2016",
+  "publication_date": "2016-12-08",
+  "enactment_date": "2016-11-11",
+  "last_updated": "2022-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2016/11/11/15",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un sistema de protección social en Navarra basado en dos pilares: el derecho a un proceso de inclusión social personalizado y el derecho a recibir una renta económica mínima. Su objetivo es combatir la pobreza y la exclusión social tras la crisis económica, garantizando que nadie carezca de recursos para cubrir sus necesidades básicas. La norma busca que la ayuda económica no sea un obstáculo para trabajar, introduciendo incentivos para el empleo.",
+  "citizen_impact": "Las personas en situación de vulnerabilidad en Navarra tienen derecho a recibir una ayuda económica mensual (Renta Garantizada) y a contar con un acompañamiento de servicios sociales para su integración. Para acceder, se deben cumplir requisitos de residencia, edad y carencia de medios económicos, pero se facilita el acceso si se trabaja mediante estímulos fiscales y económicos.",
+  "professional_impact": "Los servicios sociales y de empleo deben coordinarse para ofrecer itinerarios personalizados y realizar co-diagnósticos con los ciudadanos. La administración asume la responsabilidad de evaluar el impacto de estas medidas cada dos años y de gestionar un régimen sancionador por incumplimiento de obligaciones o falsedad en los datos.",
+  "keywords": [
+    "inclusión social",
+    "renta garantizada",
+    "ayudas económicas",
+    "Navarra",
+    "exclusión social",
+    "servicios sociales",
+    "protección social"
+  ],
+  "key_points": [
+    "Creación de la Renta Garantizada como prestación económica para cubrir necesidades básicas.",
+    "Derecho a un proceso de inclusión social voluntario y personalizado.",
+    "Estímulos al empleo para que trabajar no penalice la percepción de la renta.",
+    "La renta es intransferible y no puede ser objeto de embargo (salvo excepciones legales).",
+    "Se establece un límite de ingresos para una persona de 600 euros mensuales, con complementos por cada miembro adicional.",
+    "Obligación de comunicar cambios de domicilio o de situación económica en un plazo de 15 días hábiles.",
+    "Posibilidad de solicitar el abono anticipado de deducciones fiscales para pensiones de viudedad y no contributivas.",
+    "Las personas en exclusión social grave pueden acceder a la renta incluso sin cumplir todos los requisitos ordinarios."
+  ],
+  "legal_references": [
+    "Ley Foral 1/2012, de 23 de enero",
+    "Ley Foral 15/2006, de 14 de diciembre, de Servicios Sociales de Navarra",
+    "Declaración Universal de Derechos Humanos",
+    "Agenda 2030 para el Desarrollo Sostenible",
+    "Estrategia Europea 2020",
+    "Ley Foral 15/2004, de 3 de diciembre, de la Administración de la Comunidad Foral de Navarra",
+    "Ley Orgánica 15/1999, de 25 de septiembre, de Protección de Datos de Carácter Personal",
+    "Decreto Foral 69/2008, de 17 de junio",
+    "Ley Foral 6/2013, de 25 de febrero"
+  ],
+  "derogations": [
+    "Ley Foral 1/2012, de 23 de enero, por la que se regula la renta de inclusión social"
+  ],
+  "main_obligations": "Los beneficiarios deben residir en Navarra, comunicar cualquier cambio en su situación económica o de domicilio en 15 días hábiles y mantenerse disponibles para ofertas de empleo adecuado. El incumplimiento de estas obligaciones o la ocultación de datos puede derivar en sanciones que van desde apercibimientos hasta multas de 3.000 euros y la pérdida de la prestación.",
+  "effective_date": "2016-12-09",
+  "procedures": [
+    {
+      "name": "Acceso al derecho a la inclusión social",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y Co-diagnóstico",
+          "description": "Inicio del proceso mediante solicitud de la persona interesada y realización de un diagnóstico social conjunto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la situación personal y familiar"
+        },
+        {
+          "step": 2,
+          "title": "Elaboración del Programa Personalizado",
+          "description": "Creación de un convenio de inclusión con objetivos, compromisos y servicios de acompañamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de la Rentas Garantizada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Presentación en el Servicio Social de Base correspondiente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación para comprobar requisitos de edad, residencia y capacidad económica"
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y comprobación",
+          "description": "La administración comprueba los requisitos y eleva propuesta de resolución.",
+          "start_date": null,
+          "end_date": "15 días hábiles para subsanar errores si se requiere",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Dictado de la resolución que concede la prestación y determina su cuantía.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

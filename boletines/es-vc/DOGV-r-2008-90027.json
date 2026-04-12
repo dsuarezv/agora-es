@@ -1,0 +1,85 @@
+{
+  "identifier": "DOGV-r-2008-90027",
+  "title": "Decreto-ley 1/2008 de 27 de junio, del Consell, de medidas urgentes para el fomento de la vivienda y el suelo",
+  "visible_title": "Medidas urgentes para el fomento de la vivienda y el suelo",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "1/2008",
+  "publication_date": "2008-06-30",
+  "enactment_date": "2008-06-27",
+  "last_updated": "2009-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=DOGV-r-2008-90027",
+  "official_journal": "Diari Oficial de la Generalitat Valenciana",
+  "journal_issue": null,
+  "summary": "Esta norma introduce medidas de urgencia para aumentar la oferta de vivienda protegida en la Comunidad Valenciana ante la crisis del mercado inmobiliario. Establece la creación de 'áreas residenciales prioritarias' para que la administración gestione directamente la construcción de viviendas. Además, ajusta los porcentajes de reserva de suelo para vivienda protegida y regula la cesión de terrenos a la administración en proyectos urbanísticos.",
+  "citizen_impact": "Busca facilitar el acceso a una vivienda digna y asequible mediante el aumento de la oferta de vivienda de protección pública. El impacto real dependerá de la ejecución de los nuevos proyectos urbanísticos y la creación de estas áreas prioritarias.",
+  "professional_impact": "Las empresas constructoras y urbanistas deben adaptarse a nuevos porcentajes de cesión de suelo (5% en suelo urbano y 10% en suelo urbanizable) y a la obligación de destinar parte de su aprovechamiento a vivienda protegida. Los ayuntamientos adquieren nuevas facultades para la gestión directa de programas de actuación integrada.",
+  "keywords": [
+    "vivienda protegida",
+    "suelo residencial",
+    "urbanismo",
+    "áreas residenciales prioritarias",
+    "gestión directa",
+    "Comunitat Valenciana"
+  ],
+  "key_points": [
+    "Creación de áreas residenciales prioritarias para fomentar la vivienda protegida con gestión pública.",
+    "Obligación de reservar al menos un 30% de la edificabilidad residencial para vivienda protegida en municipios grandes o con alto crecimiento.",
+    "Establecimiento de una cesión obligatoria del 5% de aprovechamiento en actuaciones de transformación en suelo urbano.",
+    "Establecimiento de una cesión del 10% de aprovechamiento en suelo urbanizable.",
+    "Posibilidad de que la administración gestione directamente programas de actuación integrada sin necesidad de concurso para la selección del urbanizador.",
+    "Los beneficios de las empresas en gestión directa solo pueden percibirlos sociedades de capital íntegramente público.",
+    "El patrimonio público de suelo debe destinarse prioritariamente a vivienda protegida o fines de interés social."
+  ],
+  "legal_references": [
+    "Ley 4/2004, de 30 de junio, de la Generalitat, de Ordenación del Territorio y Protección del Paisaje",
+    "Ley 16/2005, de 30 de diciembre, de la Generalitat, Urbanística Valenciana",
+    "Decreto 67/2006, de 19 de mayo, del Consell",
+    "Ley 6/1998, de 13 de abril, sobre Régimen del Suelo y Valoraciones",
+    "Ley 8/2007, de 28 de mayo, de Suelo",
+    "Ley 16/2003, de 17 de diciembre, de la Generalitat",
+    "Decreto 75/2007, de 18 de mayo, del Consell",
+    "Ley Orgánica 5/1982, de 1 de julio, del Estatuto de Autonomía de la Comunidad Valenciana"
+  ],
+  "derogations": [
+    "Artículo 544 del Reglamento de Ordenación y Gestión Territorial y Urbanística (Decreto 67/2006)",
+    "Título VI del Decreto 75/2007, de 18 de mayo, del Consell (Reglamento de Protección Pública a la Vivienda)"
+  ],
+  "main_obligations": "Los propietarios en actuaciones de transformación urbana deben ceder el 5% del aprovechamiento tipo a la administración. En suelo urbanizable, la cesión de parcelas edificables debe ser del 10%. Los municipios deben adaptar su planeamiento a los indicadores de demanda de vivienda protegida.",
+  "effective_date": "2008-06-30",
+  "procedures": [
+    {
+      "name": "Delimitación de Áreas Residenciales Prioritarias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Resolución de delimitación",
+          "description": "La delimitación se realiza mediante resolución del Conseller competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Exposición pública e informes",
+          "description": "Se inicia el periodo de exposición pública y se solicitan informes sectoriales.",
+          "start_date": null,
+          "end_date": "1 mes para la emisión de informes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Ejecución de obras",
+          "description": "Plazo máximo para la ejecución de las obras de urbanización tras el proyecto de reparcelación.",
+          "start_date": null,
+          "end_date": "18 meses desde el inicio",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

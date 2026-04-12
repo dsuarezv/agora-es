@@ -1,0 +1,91 @@
+{
+  "identifier": "BOE-A-2003-11273",
+  "title": "Ley 15/2003, de 8 de abril, de la Mediación Familiar",
+  "visible_title": "Ley de la Mediación Familiar",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "15/2003",
+  "publication_date": "2003-06-05",
+  "enactment_date": "2003-04-08",
+  "last_updated": "2005-07-05",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2003/04/08/15",
+  "official_journal": "Boletín Oficial de Canarias",
+  "journal_issue": null,
+  "summary": "Esta ley establece un marco legal en Canarias para resolver conflictos familiares de forma extrajudicial y voluntaria mediante la figura del mediador. Busca ofrecer una alternativa a los tribunales para gestionar crisis entre familiares (parejas, padres e hijos, etc.) en un entorno de diálogo y confidencialidad. El objetivo es lograr acuerdos más rápidos, estables y menos traumáticos, especialmente para los menores.",
+  "citizen_impact": "Permite a las familias en conflicto evitar procesos judiciales largos y costosos mediante el diálogo asistido por un profesional neutral. Ofrece la posibilidad de acceder a este servicio de forma gratuita para personas con escasos recursos económicos. Los acuerdos alcanzados tienen validez legal y pueden ser ejecutados por los tribunales.",
+  "professional_impact": "Crea un nuevo mercado laboral para profesionales de Derecho, Psicología y Trabajo Social, quienes deben estar acreditados y registrados para ejercer como mediadores. Establece un régimen sancionador para estos profesionales en caso de incumplir deberes de confidencialidad, neutralidad o ética profesional.",
+  "keywords": [
+    "mediación familiar",
+    "resolución de conflictos",
+    "Canarias",
+    "derecho de familia",
+    "acuerdos extrajudiciales",
+    "mediador familiar"
+  ],
+  "key_points": [
+    "El proceso es totalmente voluntario: las partes pueden abandonar la mediación en cualquier momento antes de firmar un acuerdo.",
+    "La mediación es confidencial: nada de lo dicho o documentado puede usarse fuera del proceso.",
+    "Los mediadores deben ser profesionales titulados en Derecho, Psicología o Ciencias Sociales con formación específica.",
+    "El proceso tiene una duración máxima de 3 meses, prorrogables por otros 3 meses más.",
+    "Existe derecho a la gratuidad para quienes tengan reconocido el derecho de asistencia jurídica gratuita.",
+    "Los acuerdos finales son vinculantes y tienen la misma validez que un contrato."
+  ],
+  "legal_references": [
+    "Estatuto de Autoformía de Canarias",
+    "Recomendación R98 del Comité de Ministros del Consejo de Europa"
+  ],
+  "derogations": [],
+  "main_obligations": "Los mediadores están obligados a mantener el secreto profesional, la imparcialidad y la neutralidad. El incumplimiento de la confidencialidad o la discriminación se consideran infracciones muy graves sujetas a sanción de baja definitiva del registro.",
+  "effective_date": "2003-06-06",
+  "procedures": [
+    {
+      "name": "Procedimiento de Mediación Familiar",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "description": "Solicitud escrita de todas las partes o de una con el consentimiento de la otra.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Solicitud escrita"
+        },
+        {
+          "step": 2,
+          "title": "Designación del mediador",
+          "description": "Elección del profesional por las partes, la entidad o el organismo público.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Sesión inicial",
+          "description": "Reunión para informar sobre derechos, deberes, costes y planificar las sesiones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta inicial firmada"
+        },
+        {
+          "step": 4,
+          "title": "Desarrollo de la mediación",
+          "description": "Sesiones de diálogo para buscar acuerdos, con un plazo máximo de 3 meses (prorrogables).",
+          "start_date": null,
+          "end_date": "3 meses desde la sesión inicial (prorrogable 3 meses más)",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Terminación",
+          "description": "Sesión final donde se redacta el acta con los acuerdos alcanzados o la imposibilidad de ellos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acta final firmada"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

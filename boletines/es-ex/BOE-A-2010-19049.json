@@ -1,0 +1,112 @@
+{
+  "identifier": "BOE-A-2010-19049",
+  "title": "Ley 12/2010, de 16 de noviembre, de impulso al nacimiento y consolidación de empresas en la Comunidad Autónoma de Extremadura",
+  "visible_title": "Ley de impulso al nacimiento y consolidación de empresas en Extremadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "12/2010",
+  "publication_date": "2010-12-10",
+  "enactment_date": "2010-11-16",
+  "last_updated": "2015-04-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2010/11/16/12",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley busca eliminar las barreras burocráticas que frenan la creación de negocios en Extremadura. Introduce un modelo de gestión basado en la confianza, donde la declaración responsable sustituye a las licencias previas en muchos casos. Además, crea la 'Declaración de Nueva Empresa' (DNE) para agilizar la puesta en marcha de actividades económicas sin riesgos ambientales o sanitarios complejos.",
+  "citizen_impact": "Facilita que los ciudadanos que quieran emprender puedan empezar su actividad de forma mucho más rápida y con menos trámites. Reduce la incertidumbre al establecer que, si la Administración no responde en plazo, la solicitud se considera aprobada (silencio positivo).",
+  "professional_impact": "Los autónomos y empresarios se benefician de la simplificación de trámites, la posibilidad de actuar mediante declaraciones responsables y la eliminación de pagos previos de tasas. Los funcionarios deben adaptarse a plazos de urgencia reducidos y a un modelo de control posterior en lugar de preventivo.",
+  "keywords": [
+    "emprendimiento",
+    "creación de empresas",
+    "Extremadura",
+    "simplificación administrativa",
+    "declaración responsable",
+    "libertad de empresa",
+    "trámites empresariales"
+  ],
+  "key_points": [
+    "Aplicación del principio 'in dubio pro apertura': se presume que el empresario cumple los requisitos.",
+    "Creación de la Declaración de Nueva Empresa (DNE) para actividades de bajo impacto.",
+    "Uso generalizado de la declaración responsable para sustituir licencias y autorizaciones.",
+    "Implementación del silencio administrativo positivo en la mayoría de los trámites.",
+    "Reducción de plazos de tramitación a la mitad mediante la declaración de urgencia.",
+    "Posibilidad de iniciar actividades sin haber pagado la tasa correspondiente de forma previa.",
+    "Creación de una ventanilla única electrónica para centralizar trámites.",
+    "Eliminación de la exigencia de la cédula de habitabilidad para ciertos usos empresariales compatibles.",
+    "Obligación de la Administración de no exigir documentos que ya posea otra administración pública."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Extremadura",
+    "Directiva 2006/123/CE",
+    "Constitución Española",
+    "Ley 30/1992",
+    "Ley 3/2001",
+    "Ley 2/1999",
+    "Ley 18/2001",
+    "Ley 5/2007",
+    "Ley 15/2001",
+    "Ley 2/1997",
+    "Ley 4/1984",
+    "Ley 11/2007"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a la presente ley"
+  ],
+  "main_obligations": "El empresario debe asegurar la veracidad de la información aportada en las declaraciones responsables, ya que la falsedad conlleva el cierre cautelar de la empresa y posibles sanciones. La Administración tiene la obligación de resolver en un plazo máximo de tres meses.",
+  "effective_date": "2010-12-30",
+  "procedures": [
+    {
+      "name": "Declaración de Nueva Empresa (DNE)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la DNE",
+          "description": "Suscripción de documento electrónico con datos de domicilio, actividad, capital y empleo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Identificación del titular, datos de la actividad, capital, estimación de empleo y contrato de seguro."
+        },
+        {
+          "step": 2,
+          "title": "Reconocimiento de entidad jurídica",
+          "description": "La Administración reconoce al solicitante como entidad con ánimo de lucro.",
+          "start_date": "Inmediato tras la presentación",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Comprobación administrativa",
+          "description": "La Administración realiza inspecciones para verificar la conformidad de los datos.",
+          "start_date": "En cualquier momento",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Solicitud de Licencia Urbanística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud y declaración responsable",
+          "description": "El interesado presenta la solicitud acreditando su derecho a construir o usar el suelo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria descriptiva, proyecto técnico y declaración responsable de legalidad."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y resolución",
+          "description": "El Ayuntamiento debe resolver en un plazo máximo de 15 días hábiles (según ordenanzas).",
+          "start_date": "Desde la presentación",
+          "end_date": "15 días hábiles",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

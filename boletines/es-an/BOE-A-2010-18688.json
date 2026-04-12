@@ -1,0 +1,75 @@
+{
+  "identifier": "BOE-A-2010-18688",
+  "title": "Ley 10/2010, de 15 de noviembre, relativa a medidas para la asistencia y atención a las víctimas del terrorismo de la Comunidad Autónoma de Andalucía",
+  "visible_title": "Ley de asistencia y atención a las víctimas del terrorismo de Andalucía",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Andalucía",
+  "official_number": "10/2010",
+  "publication_date": "2010-12-06",
+  "enactment_date": "2010-11-15",
+  "last_updated": "2024-05-24",
+  "status": "in_force",
+  "scope": "Autoonómico",
+  "source": "https://www.boe.es/eli/es-an/l/2010/11/15/10",
+  "official_journal": "Boletín Oficial de la Junta de Andalucía",
+  "journal_issue": null,
+  "summary": "Esta ley establece un sistema integral de apoyo para las víctimas de actos terroristas en Andalucía. Su objetivo es reparar los daños sufridos mediante indemnizaciones económicas, asistencia sanitaria, psicológica y social, además de ofrecer ayudas en educación, empleo y vivienda. Busca compensar las secuelas físicas, psíquicas y materiales, reconociendo públicamente el sacrificio de las víctimas.",
+  "citizen_impact": "Las víctimas y sus familiares directos (hasta segundo grado) acceden a ayudas económicas complementarias a las del Estado, servicios de salud especializados y apoyo educativo o laboral. También se facilita el acceso prioritario a viviendas protegidas y centros de mayores en casos de dependencia.",
+  "professional_impact": "Los funcionarios de la Junta de Andalucía deben aplicar criterios de trato preferente y celeridad en los expedientes de estas víctimas. Las entidades sin ánimo lucro dedicadas a estas víctimas pueden recibir subvenciones para sus programas de asistencia y dignificación.",
+  "keywords": [
+    "víctimas del terrorismo",
+    "Andalucía",
+    "indemnizaciones",
+    "asistencia social",
+    "reparación de daños",
+    "ayudas económicas"
+  ],
+  "key_points": [
+    "Complementariedad: La Junta de Andalucía aporta un 30% adicional sobre las indemnizaciones que ya otorgue el Estado.",
+    "Ampliación de beneficiarios: Incluye a familiares hasta segundo grado de consanguinidad y convivientes estables.",
+    "Protección de vivienda: Se garantiza alojamiento provisional si la vivienda habitual es reparada y se facilita el acceso a vivienda protegida sin requisitos de empadronamiento.",
+    "Apoyo educativo: Becas para estudios, exención de tasas y ayudas para libros, comedor y transporte.",
+    "Trato administrativo preferente: Los plazos de resolución deben ser de 3 meses y se debe evitar pedir documentos que ya obren en la Administración.",
+    "Inclusión de daños materiales: Reparación de daños en viviendas, vehículos y sedes de partidos políticos o sindicatos.",
+    "Retroactividad: Se aplica a daños físicos o psíquicos causados por actos terroristas desde el 1 de enero de 1968."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de Andalucía",
+    "Ley 13/1996",
+    "Ley 32/1999",
+    "Ley 2/2003",
+    "Ley 39/2006",
+    "Ley 17/2007",
+    "Ley Orgánica 15/1999",
+    "Ley 6/2006"
+  ],
+  "derogations": [],
+  "main_obligations": "Las víctimas deben comprometerse a ejercer acciones de reparación de daños y comunicar cualquier otra ayuda recibida de otras administraciones para evitar duplicidades.",
+  "effective_date": "2011-03-06",
+  "procedures": [
+    {
+      "name": "Solicitud de medidas de asistencia e indemnización",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Formalización de la petición ante la consejería competente.",
+          "start_date": "Desde la fecha del hecho o desde la resolución judicial/administrativa que declare el acto terrorista",
+          "end_date": "Hasta un año después de la resolución que declare el acto terrorista o la determinación de secuelas",
+          "required_documentation": "Certificación de la Delegación del Gobierno o resolución judicial que acredite el acto terrorista."
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y resolución",
+          "description": "Tramitación del expediente por la consejería correspondiente con trato preferente.",
+          "start_date": null,
+          "end_date": "3 meses (prorrogable un mes más por causas excepcionales)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

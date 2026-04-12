@@ -1,0 +1,326 @@
+{
+  "identifier": "BOE-A-2019-7221",
+  "title": "Ley 8/2019, de 5 de abril, para una Administración más ágil en la Comunidad Autónoma de Extremadura",
+  "visible_title": "Ley para una Administración más ágil en Extremadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "8/2019",
+  "publication_date": "2019-05-15",
+  "enactment_date": "2019-04-05",
+  "last_updated": "2022-11-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2019/04/05/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley transforma la gestión administrativa en Extremadura para eliminar la burocracia innecesaria y fomentar el crecimiento económico. Introduce incentivos fiscales directos para nuevos negocios, digitaliza la relación con el ciudadano y agiliza la concesión de ayudas y permisos ambientales. Además, establece el silencio administrativo positivo en decenas de trámites para evitar que la inacción de la Administración bloquee la actividad de las personas y empresas. El objetivo final es convertir a la región en un entorno más competitivo y sencillo para emprender y operar.",
+  "citizen_impact": "Los ciudadanos y emprendedores se benefician de una reducción drástica de costes en sus primeros años de negocio y de una administración que responde más rápido gracias al silencio administrativo positivo. Se facilita el acceso a servicios públicos mediante atención omnicanal y se simplifica la acreditación de ayudas económicas menores mediante declaraciones responsables.",
+  "professional_impact": "Las empresas disfrutan de exenciones de tasas y procesos ambientales más rápidos con funcionarios responsables asignados. Los funcionarios deben adaptarse a una gestión obligatoriamente electrónica y a nuevos protocolos de transparencia y control financiero. Los proyectos industriales de gran relevancia ahora cuentan con un estatus de 'interés prioritario' para acelerar su ejecución.",
+  "keywords": [
+    "simplificación administrativa",
+    "Extremadura",
+    "emprendimiento",
+    "silencio administrativo positivo",
+    "digitalización",
+    "incentivos fiscales",
+    "gestión de montes",
+    "proyectos de interés prioritario"
+  ],
+  "key_points": [
+    "Exención total de tasas administrativas para nuevos negocios durante sus primeros 2 años de actividad.",
+    "Bonificación del 25% al 50% en tasas para empresas en su tercer año de actividad.",
+    "Implementación del silencio administrativo positivo en 48 procedimientos específicos.",
+    "Las subvenciones de hasta 3.000€ pueden acreditarse mediante declaración responsable sin certificados oficiales.",
+    "Creación del concepto 'Proyecto de Interés Prioritario para Extremadura' con urgencia de ocupación.",
+    "Digitalización obligatoria de la gestión de documentos y archivos mediante sistema común.",
+    "Adquisición directa de bienes en un mes si la valoración es inferior a 50.000€.",
+    "Arrendamientos de inmuebles de hasta 3.000€ mensuales y dos años de duración pueden contratarse directamente.",
+    "Uso público de montes para actividades sin ánimo de lucro no requiere título administrativo.",
+    "Los altos cargos deben comparecer ante la Asamblea de Extremadura antes de su nombramiento.",
+    "Atención ciudadana omnicanal (digital, presencial y telefónica) obligatoria.",
+    "El distintivo 'municipio emprendedor extremeño' otorga puntos extra en ayudas de la Junta."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Extremadura",
+    "Real Decreto-ley 11/2018",
+    "Ley 39/2015",
+    "Directiva 2006/123/CE",
+    "Ley 12/2010",
+    "Ley 16/2015",
+    "Ley 2/2008",
+    "Ley 5/2007",
+    "Ley 6/2011",
+    "Ley 1/2002",
+    "Ley 40/2015",
+    "Ley 2/2011",
+    "Ley 9/2002",
+    "Ley 6/2015",
+    "Ley 1/2018",
+    "Ley 1/2014",
+    "Ley 7/2001",
+    "Ley 3/2009",
+    "Ley 2/1999",
+    "Ley 2/2007",
+    "Ley 29/1998",
+    "Ley 21/2013",
+    "Ley 42/2007",
+    "Ley 58/2003",
+    "Ley 43/2003",
+    "Ley 4/2013",
+    "Ley 27/2006",
+    "Ley 6/2015",
+    "Ley 33/2003",
+    "Ley 2/2011",
+    "Ley 9/2002",
+    "Ley 16/2015",
+    "Ley 1/2014",
+    "Ley 2/1999",
+    "Ley 2/2007",
+    "Decreto 178/2010",
+    "Decreto 206/2010",
+    "Decreto 125/2005",
+    "Decreto 184/2008"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a esta ley",
+    "Apartados 2 y 3 del artículo 85 de la Ley 2/2008",
+    "Ley 9/2002 (apartados específicos)",
+    "Ley 16/2015 (artículo 70.2)",
+    "Ley 6/2015 (artículo 232.e)",
+    "Decreto 178/2010",
+    "Decreto 206/2010",
+    "Decreto 125/2005",
+    "Decreto 184/2008"
+  ],
+  "main_obligations": "Los nuevos empresarios deben presentar una declaración responsable indicando la fecha de inicio de actividad para acceder a exenciones. En trámites ambientales, es obligatorio aportar el presupuesto de ejecución para liquidar la tasa antes de iniciar el proceso. Los daños en montes de la CA deben comunicarse en un plazo de 7 días naturales.",
+  "effective_date": "2019-06-15",
+  "procedures": [
+    {
+      "name": "Autorización Ambiental Integrada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Entrega de documentación y presupuesto de ejecución para liquidación de tasa.",
+          "start_date": "Día de la presentación",
+          "end_date": null,
+          "required_documentation": "Documentación del RD Legislativo 1/2016, estudio de impacto ambiental y presupuesto de ejecución."
+        },
+        {
+          "step": 2,
+          "title": "Información pública y audiencia",
+          "description": "Trámite de información pública y consulta a organismos (Ayuntamientos, organismos de cuenca, etc.).",
+          "start_date": "Tras la apertura del trámite",
+          "end_date": "30 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Evaluación de impacto ambiental",
+          "description": "El órgano ambiental redacta la propuesta de resolución tras la evaluación.",
+          "start_date": "Tras concluir el trámite de audiencia",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución final",
+          "description": "Dictado y notificación de la resolución que pone fin al procedimiento.",
+          "start_date": "Desde la presentación",
+          "end_date": "9 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización Ambiental Unificada",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Entrega de proyecto básico y estudio de impacto ambiental.",
+          "start_date": "Día de la presentación",
+          "end_date": null,
+          "required_documentation": "Proyecto básico, estudio de impacto ambiental o documento ambiental, resumen no técnico."
+        },
+        {
+          "step": 2,
+          "title": "Información pública y notificación a vecinos",
+          "description": "Notificación personal a vecinos inmediatos y publicación en sede electrónica.",
+          "start_date": "Tras completar documentación",
+          "end_date": "10 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informe técnico municipal",
+          "description": "El Ayuntamiento debe emitir informe sobre competencias municipales.",
+          "start_date": "Tras la información pública",
+          "end_date": "20 días",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Informe técnico ambiental",
+          "description": "Elaboración del informe técnico por el órgano ambiental.",
+          "start_date": "Desde la presentación",
+          "end_date": "2 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Resolución final",
+          "description": "Dictado y notificación de la resolución.",
+          "start_date": "Desde la presentación",
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Afectación de bienes patrimoniales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de afectación",
+          "description": "Emisión de la propuesta para la afectación de un bien.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Dictado de la orden",
+          "description": "La orden de afectación debe dictarse en el plazo establecido.",
+          "start_date": "Desde la propuesta",
+          "end_date": "1 mes",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Suscripción del acta",
+          "description": "Firma del acta entre las consejerías implicadas.",
+          "start_date": "Desde la notificación de la orden",
+          "end_date": "10 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Concesión de subvenciones en régimen de concurrencia competitiva",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación de la convocatoria",
+          "description": "Resolución de la convocatoria por el órgano competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de solicitudes",
+          "description": "Plazo para que los interesados presenten sus peticiones.",
+          "start_date": null,
+          "end_date": "Máximo 1 año para la vigencia de la convocatoria",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Fiscalización de expedientes por la Intervención",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Recepción del expediente",
+          "description": "La Intervención recibe la documentación para su revisión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Emisión de informe",
+          "description": "Plazo para concluir la fiscalización del expediente.",
+          "start_date": "Desde la recepción",
+          "end_date": "10 días (5 días si es urgente)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Autorización de uso de dominio de monte",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "descrption": "Entrega de modelo normalizado con memoria justificativa y dos planos georreferenciados.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria técnica (firmada por técnico competente), plano de situación, plano de detalle."
+        },
+        {
+          "step": 2,
+          "title": "Informe de Hacienda",
+          "descrption": "Informe preceptivo y vinculante de la Consejería de Hacienda.",
+          "start_date": "Desde la solicitud",
+          "end_date": "10 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "descrption": "Resolución de la Dirección General de Montes. Si no hay respuesta, se entiende desestimada.",
+          "start_date": "Desde la solicitud",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Concesión de uso de dominio de monte",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud y Memoria",
+          "descrption": "Presentación de solicitud motivada con memoria explicativa de la necesidad del uso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria explicativa"
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "descrption": "Resolución de la Dirección General de Montes.",
+          "start_date": "Desde la solicitud",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Nombramiento de Altos Cargos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación a la Asamblea",
+          "descrption": "La Junta comunica el nombre del propuesto a la Asamblea de Extremadura.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Información de formación, experiencia, bienes, derechos e intereses."
+        },
+        {
+          "step": 2,
+          "title": "Comparecencia",
+          "descrption": "El candidato comparece ante la comisión parlamentaria correspondiente.",
+          "start_date": "Desde la comunicación",
+          "end_date": "10 días",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 3
+}

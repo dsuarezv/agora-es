@@ -1,0 +1,113 @@
+{
+  "identifier": "BOE-A-2001-7428",
+  "title": "Ley 1/2001, de 16 de marzo, de Colegios Profesionales de Cantabria",
+  "visible_title": "Ley de Colegios Profesionales de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "1/2001",
+  "publication_date": "2001-04-17",
+  "enactment_date": "2001-03-16",
+  "last_updated": "2022-12-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/2001/03/16/1",
+  "official_journal": "Boletín Oficial de Cantabria",
+  "journal_issue": null,
+  "summary": "Esta ley regula el funcionamiento y la organización de los colegios profesionales que operan exclusivamente en Cantabria. Establece su naturaleza como corporaciones de derecho público y define sus funciones de ordenación profesional, defensa de intereses y protección del consumidor. Además, regula la creación de nuevos colegios, su régimen de estatutos y la obligación de colegiación cuando la ley estatal así lo exija.",
+  "citizen_impact": "Garantiza que los profesionales que contraten servicios en Cantabria estén debidamente habilitados y supervisados por sus colegios. Facilita a los ciudadanos el acceso a un registro público para verificar la titulación y situación de un profesional, y establece canales para presentar quejas o reclamaciones.",
+  "professional_impact": "Obliga a los profesionales a cumplir con normas deontológicas y a estar colegiados para ejercer si la ley lo requiere. Introduce la obligación de los colegios de ofrecer una 'ventanilla única' electrónica para trámites y prohíbe que los colegios impongan baremos de honorarios, fomentando la libre competencia.",
+  "keywords": [
+    "Colegios Profesionales",
+    "Cantabria",
+    "Colegiación",
+    "Deontología",
+    "Derecho Público",
+    "Servicios Profesionales",
+    "Consumidores"
+  ],
+  "key_points": [
+    "Los colegios profesionales en Cantabria son corporaciones de derecho público con personalidad jurídica propia.",
+    "Se prohíbe a los colegios establecer baremos o recomendaciones sobre honorarios profesionales.",
+    "Los colegios deben ofrecer una 'ventanilla única' electrónica para trámites de alta, baja y consulta de información.",
+    "Se establece la obligación de publicar una memoria anual con la gestión económica y estadística de sanciones y quejas.",
+    "Los colegios pueden realizar el visado de trabajos profesionales, pero no pueden imponerlo de forma obligatoria por estatutos.",
+    "Los profesionales tienen derecho a la igualdad de trato y no discriminación en el ejercicio de su actividad.",
+    "Se crea el Registro de Colegios Profesionales de Cantabria para dar publicidad a su existencia y estructura."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 2/1974, de 13 de febrero, de Colegios Profesionales",
+    "Ley 74/1978, de 26 de diciembre",
+    "Ley 7/1997, de 14 de abril",
+    "Real Decreto-ley 6/2000, de 23 de junio",
+    "Ley 15/2007, de 3 de julio, de Defensa de la Competencia",
+    "Ley 17/2009, de 23 de julio, sobre libre acceso a las actividades de servicios y su ejercicio",
+    "Ley 2/2007, de 15 de marzo, de sociedades profesionales",
+    "Ley 62/2003, de 30 de diciembre"
+  ],
+  "derogations": [],
+  "main_obligations": "Los colegios deben adaptar sus estatutos a esta ley en un plazo de un año y cumplir con las obligaciones registrales en seis meses tras la puesta en marcha del Registro. Los profesionales deben cumplir con las normas deontológicas y, si la ley estatal lo exige, estar colegiados para ejercer.",
+  "effective_date": "2001-05-07",
+  "procedures": [
+    {
+      "name": "Creación de un nuevo Colegio Profesional",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Propuesta de profesionales",
+          "description": "La iniciativa debe ser propuesta por la mayoría de los profesionales domiciliados en Cantabria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Tramitación administrativa",
+          "description": "La Consejería competente tramita la solicitud tras informar a las áreas profesionales.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación legislativa",
+          "description": "La creación definitiva se realiza mediante una Ley del Parlamento de Cantabria.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aprobación de Estatutos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración y aprobación",
+          "description": "El Colegio elabora y aprueba sus propios estatutos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Control de legalidad",
+          "description": "Remisión a la Consejería para calificación de legalidad e inscripción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de inscripción",
+          "description": "La Administración debe dictar resolución en un plazo máximo de 3 meses; de lo contrario, el silencio será desestimatorio.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

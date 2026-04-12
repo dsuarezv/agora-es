@@ -1,0 +1,101 @@
+{
+  "identifier": "BOE-A-2014-9902",
+  "title": "Ley 7/2014, de 30 de julio, de la Agencia Tributaria Canaria",
+  "visible_title": "Ley de la Agencia Tributaria Canaria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "7/2014",
+  "publication_date": "2014-10-01",
+  "enactment_date": "2014-07-30",
+  "last_updated": "2023-03-15",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2014/07/30/7",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley transforma la gestión de los impuestos en Canarias al crear la Agencia Tributaria Canaria, un organismo con autonomía propia para sustituir a la antigua Dirección General de Tributos. El objetivo es pasar de una administración tradicional a una gestión profesional orientada a resultados y objetivos medibles. La nueva Agencia tiene capacidad para recaudar, inspeccionar y sancionar tanto los tributos propios de la región como los estatales cedidos. Con este cambio, se busca una mayor especialización y eficiencia en el control fiscal de la comunidad.",
+  "citizen_impact": "El ciudadano notará una gestión más especializada de sus impuestos en Canarias. Esto implica que la Agencia tiene ahora agentes con capacidad para localizar obligados y realizar notificaciones materiales de forma más directa, además de contar con una unidad específica para gestionar a los grandes contribuyentes.",
+  "professional_impact": "Para las empresas, supone una gestión fiscal más técnica y orientada a objetivos. Para los funcionarios, crea nuevas escalas profesionales (Gestión y Agentes) con funciones de inspección y recaudación, además de introducir complementos de productividad vinculados al cumplimiento de metas y una estricta obligación de sigilo profesional.",
+  "keywords": [
+    "Agencia Tributaria Canaria",
+    "gestión tributaria",
+    "recaudación",
+    "inspección fiscal",
+    "tributos autonómicos",
+    "Canarias"
+  ],
+  "key_points": [
+    "Creación de la Agencia Tributaria Canaria como ente con personalidad jurídica y patrimonio propio.",
+    "Sustitución de la Dirección General de Tributos por un modelo de gestión basado en resultados y contratos de gestión.",
+    "Capacidad de la Agencia para aplicar tributos propios, del Régimen Económico y Fiscal de Canarias y estatales cedidos.",
+    "Creación de una Unidad de Grandes Contribuyentes para una gestión especializada.",
+    "Establecimiento de nuevas escalas de funcionarios con funciones de inspección, recaudación y sanción.",
+    "Los agentes tributarios cuentan con potestad para localizar obligados y realizar notificaciones materiales.",
+    "La Agencia tiene autonomía para ejercer la potestad sancionadora y la revisión de sus propios actos.",
+    "Introducción de incentivos por productividad para el personal según el cumplimiento de objetivos.",
+    "Transición automática de expedientes en curso desde la Dirección General de Tributos a la nueva Agencia.",
+    "El Gobierno de Canarias mantiene el control sobre la planificación y la oferta de empleo de la Agencia."
+  ],
+  "legal_references": [
+    "Ley 9/2006, de 11 de diciembre, Tributaria de la Comunidad Autónoma de Canarias",
+    "Ley 4/2012, de 25 de junio, de medidas administrativas y fiscales",
+    "Ley 11/2006, de 11 de diciembre, de la Hacienda Pública Canaria",
+    "Ley 58/2003, de 17 de diciembre, General Tributaria",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común",
+    "Ley Orgánica 1/1982, de 5 de julio, del derecho al honor, a la intimidad personal y familiar y a la propia imagen",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal",
+    "Ley 22/2009, de 28 de julio, de la financiación de las Comunidades Autónomas de Régimen Común y Ciudades con Estatuto de Autonomía"
+  ],
+  "derogatations": [
+    "Funciones de la Dirección General de Tributos"
+  ],
+  "main_obligations": "El Gobierno de Canarias debe aprobar el Estatuto de la Agencia en un plazo de 3 meses y el Contrato de Gestión en un plazo de 6 meses tras la entrada en vigor. El personal de la Agencia tiene la obligación estricta de reserva y sigilo de los datos.",
+  "effective_date": "2014-10-01",
+  "procedures": [
+    {
+      "name": "Transición de expedientes administrativos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio de actividades de la Agencia",
+          "description": "La Agencia Tributaria Canaria comienza a operar formalmente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Traspaso de expedientes",
+          "description": "Los procedimientos que estaban en curso en la Dirección General de Tributos pasan a la nueva Agencia.",
+          "start_date": "Al inicio de actividades de la Agencia",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Implementación normativa de la Agencia",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Aprobación del Estatuto de la Agencia",
+          "description": "El Gobierno debe aprobar el reglamento que rige la organización de la Agencia.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Aprobación del Contrato de Gestión",
+          "description": "El Gobierno debe aprobar el documento que define los objetivos y la gestión de la Agencia.",
+          "start_date": "Desde la entrada en vigor",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

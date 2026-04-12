@@ -1,0 +1,117 @@
+{
+  "identifier": "BOE-A-2025-4169",
+  "title": "Ley 4/2024, de 19 de julio, de Integridad Pública de Castilla-La Manch la",
+  "visible_title": "Ley de Integridad Pública de Castilla-La Mancha",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Castilla-La Mancha",
+  "official_number": "4/2024",
+  "publication_date": "2025-03-03",
+  "enactment_date": "2024-07-19",
+  "last_updated": "2025-04-15",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cm/l/2024/07/19/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un nuevo marco para combatir la corrupción y garantizar la ética en la administración de Castilla-La Mancha. Crea la Oficina de Integridad, un órgano centralizado que supervisará la transparencia, gestionará registros de bienes y actividades, y controlará los conflictos de intereses. Su objetivo es modernizar la rendición de cuentas y asegurar que los cargos públicos actúen siempre en favor del interés general.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, más allá de una mayor garantía de que los recursos públicos se gestionen con honestidad y transparencia.",
+  "professional_impact": "Los altos cargos y personal directivo de la región enfrentan nuevas obligaciones de transparencia, como presentar declaraciones de bienes y actividades. También se endurece el control sobre las incompatibilidades y se establece un régimen sancionador que puede incluir el cese inmediato del cargo.",
+  "keywords": [
+    "integridad pública",
+    "transparencia",
+    "conflicto de intereses",
+    "altos cargos",
+    "corrupción",
+    "oficina de integridad",
+    "rendición de cuentas"
+  ],
+  "key_points": [
+    "Creación de la Oficina de Integridad para centralizar la supervisión ética y la gestión de canales de denuncia.",
+    "Obligación de presentar una declaración responsable de no incurrir en incompatibilidades en un plazo de 10 días tras el nombramiento.",
+    "Implementación de dos registros: uno público de actividades y uno reservado de bienes y derechos patrimoniales.",
+    "Nuevas reglas para evitar conflictos de intereses, incluyendo intereses de familiares hasta cuarto grado de consanguinidad.",
+    "Control estricto de la actividad privada que realizan los cargos públicos tras dejar su puesto (durante 2 años).",
+    "Establecimiento de sanciones que van desde apercibimientos hasta el cese e inhabilitación por 4 años.",
+    "Creación de un sistema de prestación por inactividad laboral para ciertos cargos públicos bajo condiciones específicas."
+  ],
+  "legal_references": [
+    "Ley 11/2003, de 25 de septiembre, del Gobierno y del Consejo Consultivo de Castilla-La Mancha",
+    "Ley 4/2016, de 15 de diciembre, de Transparencia y Buen Gobierno de Castilla-La Mancha",
+    "Ley 2/2023, de 20 de febrero, reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción",
+    "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público",
+    "Ley 6/1994, de 22 de diciembre, de Publicidad en el Diario Oficial de los Bienes, Rentas y Actividades de los Gestores Públicos de Castilla-La Mancha"
+  ],
+  "derogations": [
+    "Ley 6/1994, de 22 de diciembre, de Publicidad en el Diario Oficial de los Bienes, Rentas y Actividades de los Gestores Públicos de Castilla-La Mancha",
+    "Artículos específicos de la Ley 4/2016, de 15 de diciembre, de Transparencia y Buen Gobierno de Castilla-La Mancha"
+  ],
+  "main_obligations": "Los cargos públicos deben presentar declaraciones de actividades, bienes y rentas, y una declaración responsable de no incompatibilidad en 10 días. Deben abstenerse de cualquier asunto donde exista conflicto de intereses y comunicar su actividad privada tras el cese.",
+  "effective_date": "2025-03-03",
+  "procedures": [
+    {
+      "name": "Declaración responsable de no incompatibilidad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración",
+          "description": "El cargo debe presentar la declaración ante la Oficina de Integridad.",
+          "start_date": "10 días desde el nombramiento",
+          "end_date": null,
+          "required_documentation": "Modelo oficial de declaración responsable"
+        },
+        {
+          "step": 2,
+          "title": "Subsanación de incompatibilidades",
+          "description": "Si existe una causa de incompatibilidad, debe resolverse en un plazo determinado.",
+          "start_date": "1 mes desde el nombramiento",
+          "end_date": "2 meses (excepcionalmente)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Control de la situación patrimonial",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de declaración de bienes y rentas",
+          "description": "Presentación telemática de la situación patrimonial.",
+          "start_date": "Según plazos de la Ley 11/2003",
+          "end_date": null,
+          "required_documentation": "Modelo oficial de declaración de actividades, bienes y rentas"
+        },
+        {
+          "step": 2,
+          "title": "Examen de la Oficina de Integridad",
+          "description": "La Oficina elabora un informe sobre la congruencia de la evolución patrimonial.",
+          "start_date": "60 días tras la presentación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Comunicación de actividad privada post-cese",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Notificación de nueva actividad",
+          "description": "Comunicar la actividad privada que se va a realizar tras dejar el cargo.",
+          "start_date": "Con carácter previo al inicio de la actividad",
+          "end_date": "Durante los 2 años siguientes al cese",
+          "required_documentation": "Identificación de la empresa o entidad"
+        },
+        {
+          "step": 2,
+          "title": "Pronunciamiento de la Oficina",
+          "description": "La Oficina emite un informe sobre la compatibilidad de la actividad.",
+          "start_date": "1 mes desde la comunicación",
+          "end_date": "2 meses (si no hay respuesta, se entiende favorable)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

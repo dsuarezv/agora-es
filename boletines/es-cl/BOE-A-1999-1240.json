@@ -1,0 +1,126 @@
+{
+  "identifier": "BOE-A-1999-1240",
+  "title": "Ley 10/1998, de 5 de diciembre, de Ordenación del Territorio de la Comunidad de Castilla y León",
+  "visible_title": "Ley de Ordenación del Territorio de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "10/1998",
+  "publication_date": "1999-01-19",
+  "enactment_date": "1998-12-05",
+  "last_updated": "2024-05-14",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/1998/12/05/10",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco estratégico para organizar el uso del suelo y la distribución de infraestructuras en Castilla y León. Busca evitar que el territorio se gestione de forma desordenada mediante la creación de herramientas de planificación que coordinen a los ayuntamientos, la administración regional y los sectores económicos. Su objetivo es lograr un desarrollo equilibrado que proteja el medio ambiente y el patrimonio cultural frente al crecimiento urbano y económico.",
+  "citizen_impact": "Afecta indirectamente a través de la planificación de servicios públicos, infraestructuras y la protección de entornos naturales donde los ciudadanos viven o trabajan. También influye en la gestión de la vivienda protegida y la regeneración urbana en sus municipios.",
+  "professional_impact": "Impacta directamente en urbanistas, promotores inmobiliarios, empresas de infraestructuras y administraciones locales. Estos profesionales deben ajustar sus proyectos y planes municipales a las directrices regionales, que pueden ser vinculantes y condicionar la aprobación de licencias o la ejecución de obras.",
+  "keywords": [
+    "ordenación del territorio",
+    "planificación territorial",
+    "desarrollo sostenible",
+    "urbanismo",
+    "Castilla y León",
+    "infraestructuras",
+    "medio ambiente"
+  ],
+  "key_points": [
+    "Crea un sistema de instrumentos de planificación: Directrices regionales, subregionales, Planes/Proyectos Regionales y Planes de Recursos Naturales.",
+    "Establece tres niveles de obligatoriedad para las normas: aplicación plena (vinculante), básica (vinculante en sus fines) y orientativa (recomendación).",
+    "Permite a la Junta de Castilla y León dictar normas de ordenación en municipios que no tengan planes urbanísticos propios.",
+    "Introduce los 'Planes y Proyectos Regionales' como herramientas de intervención directa para obras de interés general.",
+    "Otorga la potestad de declarar utilidad pública e interés social para facilitar la ejecución de proyectos regionales.",
+    "Establece la participación social obligatoria mediante periodos de información pública para todos los instrumentos de ordenación."
+  ],
+  "legal_references": [
+    "Constitución Española (artículo 148.1.3)",
+    "Estatuto de Autonomía de Castilla y León (artículo 14.3)",
+    "Ley Reguladora de las Bases del Régimen Local (artículo 84.1.b)"
+  ],
+  "derogations": [
+    "Planes Directores Territoriales de Coordinación",
+    "Planes de Conjunto",
+    "Normas Subsidiarias de Planeamiento Municipal con ámbito provincial"
+  ],
+  "main_obligations": "Las administraciones y particulares deben ajustar sus planes y proyectos a las determinaciones de las directrices regionales según su grado de aplicación. Los promotores de proyectos regionales deben cumplir con las garantías económicas y compromisos de ejecución establecidos en su aprobación.",
+  "effective_date": "1999-01-20",
+  "procedures": [
+    {
+      "name": "Elaboración de Directrices de Ordenación del Territorio de Castilla y León",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de iniciación",
+          "description": "La Junta publica un acuerdo en el BOCyL señalando objetivos y plazos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública y audiencia",
+          "description": "Periodo para que la administración y ciudadanos presenten alegaciones.",
+          "start_date": "45 días tras la elaboración",
+          "end_date": "45 días",
+          "required_documentation": "Informes, alegaciones y sugerencias"
+        },
+        {
+          "step": 3,
+          "title": "Dictámenes preceptivos",
+          "description": "Solicitud de informes a la Asesoría Jurídica, Consejo Económico y Social, Federación de Municipios y trámite ambiental.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Aprobación de Directrices Esenciales",
+          "description": "Se aprueban mediante Ley de las Cortes de Castilla y León.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Aprobación de Directrices Complementarias",
+          "description": "Se aprueban mediante Decreto de la Junta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de Planes y Proyectos Regionales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de propuesta",
+          "description": "Iniciativa de la administración o, en proyectos, de la iniciativa privada.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Descripción de objetivos, justificación de interés general e impacto ambiental"
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Periodo de consulta para la ciudadanía y administraciones afectadas.",
+          "start_date": null,
+          "end_date": "45 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación",
+          "description": "La Consejería competente aprueba el plan mediante Orden.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

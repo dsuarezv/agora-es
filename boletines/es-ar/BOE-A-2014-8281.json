@@ -1,0 +1,99 @@
+{
+  "identifier": "BOE-A-2014-8281",
+  "title": "Ley 4/2014, de 26 de junio, de Fundaciones Bancaarias de Aragón",
+  "visible_title": "Ley de Fundaciones Bancarias de Aragón",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Aragón",
+  "official_number": "4/2014",
+  "publication_date": "2014-08-01",
+  "enactment_date": "2014-06-26",
+  "last_updated": "2014-07-15",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ar/l/2014/06/26/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula el nuevo modelo de las fundaciones que surgen de la transformación de las antiguas cajas de ahorro en Aragón. Establece cómo deben gestionarse, quiénes pueden dirigir sus patronatos y cómo deben utilizar sus excedentes para la obra social. El objetivo es garantizar la transparencia y el control sobre el destino de los fondos destinados a fines sociales, educativos y culturales en la región.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en la gestión de los fondos destinados a la obra social (sanidad, cultura, educación) que estas fundaciones financian en Aragón.",
+  "professional_impact": "Afecta directamente a directivos y patronos de fundaciones bancarias y cajas de ahorro, imponiendo estrictos requisitos de honorabilidad, incompatibilidades con cargos políticos y la obligación de publicar informes de gobierno corporativo. Las entidades deben adaptarse a nuevos modelos de gobernanza y transparencia bajo supervisión del Gobierno de Aragón.",
+  "keywords": [
+    "fundaciones bancarias",
+    "cajas de ahorro",
+    "obra social",
+    "Aragón",
+    "gobierno corporativo",
+    "patronato",
+    "transformación de entidades"
+  ],
+  "key_points": [
+    "Obligación de transformar las cajas de ahorro en fundaciones bancarias u ordinarias según su participación en entidades de crédito.",
+    "El 25% de los miembros del patronato deben ser representantes designados por la Comunidad Autónoma de Aragón.",
+    "Los excedentes deben destinarse obligatoriamente a un fondo para la obra social (enseñanza, sanidad, cultura, etc.).",
+    "Se prohíbe a los patronos ejercer cargos políticos electivos o cargos ejecutivos en partidos o sindicatos.",
+    "Las fundaciones deben publicar anualmente un informe de gobierno corporativo y un informe de remuneraciones.",
+    "Las fundaciones no domiciliadas en Aragón pero con clientes en la región deben destinar una parte proporcional de su obra social a Aragón.",
+    "Se establecen sanciones económicas de hasta 500.000 euros por incumplimientos graves en la gestión de la obra social o informes falsos."
+  ],
+  "legal_references": [
+    "Ley 26/2013, de 27 de diciembre, de cajas de ahorro y fundaciones bancarias",
+    "Ley 50/2002, de 26 de diciembre, de Fundaciones",
+    "Real Decreto-ley 11/2010, de 9 de julio",
+    "Ley 1/1991, de 4 de enero, Reguladora de las Cajas de Ahorros en Aragón",
+    "Estatuto de Autonomía de Aragón"
+  ],
+  "derogations": [
+    "Disposiciones adicionales primera, segunda, tercera y quinta de la Ley 1/1991, de 4 de enero",
+    "Disposición transitoria tercera de la Ley 1/1991, de 4 de enero",
+    "Decreto-ley 1/2012, de 21 de febrero, del Gobierno de Aragón",
+    "Disposición final tercera de la Ley 10/2012, de 27 de diciembre",
+    "Disposición adicional segunda de la Ley 2/2014, de 23 de enero"
+  ],
+  "main_obligations": "Las fundaciones deben destinar la totalidad de sus excedentes a la obra social y presentar anualmente un informe de gobierno corporativo. El incumplimiento del presupuesto de obra social o la falta de elaboración de informes conlleva multas de hasta 100.000€ o el 0,5% de los recursos propios según la gravedad.",
+  "effective_date": "2014-08-02",
+  "procedures": [
+    {
+      "name": "Transformación de cajas de ahorro en fundaciones",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Acuerdo de transformación",
+          "description": "La asamblea general adopta los acuerdos de transformación, nuevos estatutos y patronato.",
+          "start_date": "Antes del 29-12-2014",
+          "end_date": null,
+          "required_documentation": "Acuerdos de la asamblea y nuevos estatutos"
+        },
+        {
+          "step": 2,
+          "title": "Comunicación al protectorado",
+          "description": "Comunicar los acuerdos para su inscripción en el Registro de Fundaciones.",
+          "start_date": null,
+          "end_date": "10 días tras el acuerdo",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Transformación de fundaciones ordinarias en bancarias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Adopción de acuerdos",
+          "description": "El patronato adopta acuerdos de transformación, estatutos y nuevo patronato.",
+          "start_date": "Momento de la adquisición de participación",
+          "end_date": "6 meses tras la adquisición",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Comunicación y ratificación",
+          "description": "Comunicación al protectorado y espera de ratificación.",
+          "start_date": "10 días tras la adopción",
+          "end_date": "2 meses tras la comunicación",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

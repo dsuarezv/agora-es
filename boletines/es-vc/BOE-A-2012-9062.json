@@ -1,0 +1,100 @@
+{
+  "identifier": "BOE-A-2012-9062",
+  "title": "Ley 2/2012, de 14 de junio, de Medidas Urgentes de Apoyo a la Iniciativa Empresarial y los Emprendedores, Microempresas y Pequeñas y Medianas Empresas de la Comunitat Valenciana",
+  "visible_title": "Medidas de Apoyo a la Iniciativa Empresarial y Emprendedores de la Comunitat Valenciana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "2/2012",
+  "publication_date": "2012-07-06",
+  "enactment_date": "2012-06-14",
+  "last_updated": "2017-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2012/06/14/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley implementa un paquete de ayudas para reactivar la economía valenciana mediante el apoyo directo a emprendedores y PYMES. Busca reducir la burocracia permitiendo aperturas rápidas mediante declaraciones responsables y ofrece beneficios fiscales significativos. Además, establece mecanismos de financiación y promueve la cultura emprendedora desde el sistema educativo y universitario.",
+  "citizen_impact": "Facilita que personas que quieran trabajar por cuenta propia o montar un pequeño negocio lo hagan con menos trámites y menos costes iniciales. Los jóvenes emprendedores (menores de 35 años) cuentan con programas de apoyo específicos para mejorar su empleabilidad.",
+  "professional_impact": "Los autónomos y dueños de PYMES se benefician de la exención o bonificación de tasas administrativas y de la posibilidad de abrir locales mediante declaración responsable sin esperar licencias previas. Las empresas pueden compensar deudas con la Generalitat mediante créditos que tengan a su favor. Los funcionarios deben implementar planes semestrales de simplificación administrativa.",
+  "keywords": [
+    "emprendimiento",
+    "PYME",
+    "simplificación administrativa",
+    "declaración responsable",
+    "ayudas empresariales",
+    "Comunitat Valenciana",
+    "exención de tasas"
+  ],
+  "key_points": [
+    "Sustitución de licencias de apertura por declaraciones responsables para comercios y establecimientos públicos.",
+    "Exención total de ciertas tasas autonómicas para nuevos negocios en su primer año de actividad (2012-2013).",
+    "Bonificación del 50% en las tasas para empresas que inicien su segundo año de actividad.",
+    "Posibilidad de compensar deudas con la Generalitat con créditos tributarios o no tributarios a favor de la empresa.",
+    "Creación del Consejo Valenciano del Emprendimiento y la Plataforma del Emprendedor para centralizar información.",
+    "Introducción de la cultura emprendedora en los planes de estudio de educación primaria, secundaria y superior.",
+    "Tramitación conjunta de obras y licencias para agilizar la implantación de actividades.",
+    "Creación de líneas de avales a través de la Sociedad de Garantía Recíproca (SGR) para facilitar el acceso al crédito."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunitat Valenciana",
+    "Ley 14/2010 de Espectáculos Públicos, Actividades Recreativas y Establecimientos Públicos",
+    "Ley 3/2011 de Comercio de la Comunitat Valenciana",
+    "Real Decreto Legislativo 4/2004 (Impuesto sobre Sociedades)",
+    "Ley 16/2005 de Urbanística Valenciana",
+    "Ley 2/2006 de Prevención de la Contaminación y Calidad Ambiental",
+    "Decreto Legislativo 1/2005 (Tasas de la Generalitat)",
+    "Ley 58/2003 General Tributaria"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a esta ley"
+  ],
+  "main_obligations": "Los titulares de actividades comerciales deben presentar una declaración responsable cumpliendo con todos los requisitos técnicos bajo su exclusiva responsabilidad. En caso de falsedad en la documentación, la administración puede clausurar la actividad de inmediato.",
+  "effective_date": "2012-07-07",
+  "procedures": [
+    {
+      "name": "Apertura de establecimientos comerciales mediante declaración responsable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la declaración responsable",
+          "description": "Entrega de la declaración de identidad, ubicación y compromiso de cumplimiento de requisitos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración responsable, certificados finales de obras/instalaciones, resguardo de pago de tasas o proyecto técnico."
+        },
+        {
+          "step": 2,
+          "title": "Registro de entrada",
+          "description": "El ayuntamiento debe registrar la documentación el mismo día de su recepción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Inspección y comprobación",
+          "description": "Si no hay certificado de OCA, el ayuntamiento tiene un mes para inspeccionar. Si hay certificado OCA, la apertura es inmediata.",
+          "start_date": null,
+          "end_date": "1 mes",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de obras para implantación de actividad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación conjunta",
+          "description": "Se tramitan de forma simultánea la licencia de obra y la autorización de actividad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto de obra y memoria técnica."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

@@ -1,0 +1,103 @@
+{
+  "identifier": "BOCT-c-1986-90001",
+  "title": "Ley 10/1985, de 16 de diciembre, de Protección y Modernización de la Empresa Familiar Agraria",
+  "visible_title": "Ley de Protección y Modernización de la Empresa Familiar Agraria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Diputación Regional de Cantabria",
+  "official_number": "10/1985",
+  "publication_date": "1986-01-06",
+  "enactment_date": "1985-12-16",
+  "last_updated": "1986-01-06",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BOCT-c-1986-90001",
+  "official_journal": "Boletín Oficial de la Cantabria",
+  "journal_issue": "13",
+  "summary": "Esta ley busca asegurar la supervivencia y competitividad de las explotaciones agrarias familiares en Cantabria frente a los retos del mercado europeo. Establece un marco de ayudas, créditos y subvenciones para modernizar las explotaciones mediante planes de inversión técnicos y económicos. Además, crea mecanismos para facilitar que los jóvenes se incorporen al sector y para regular la colaboración de familiares en la gestión de la empresa.",
+  "citizen_impact": "Facilita que los jóvenes agricultores de Cantabria accedan a tierras, viviendas y ayudas para emprender en el sector agrario. También ofrece seguridad jurídica a los familiares que trabajan en la explotación mediante acuerdos de colaboración formalizados.",
+  "professional_impact": "Los agricultores y ganaderos familiares acceden a beneficios financieros preferentes (intereses un punto inferiores al Banco de Crédito Agrícola) y asesoramiento técnico. Los funcionarios de la Consejería de Ganadería, Agricultura y Pesca asumen la gestión de la aprobación de planes de modernización y el control del registro de empresas familiares.",
+  "keywords": [
+    "empresa familiar agraria",
+    "modernización agraria",
+    "ayudas agricultura Cantabria",
+    "relevo generacional",
+    "colaboración familiar",
+    "explotación agraria"
+  ],
+  "key_points": [
+    "Creación de un Registro de Empresas Familiares Agrarias para acceder a beneficios.",
+    "Acceso a ayudas financieras con intereses preferentes para planes de modernización integral.",
+    "Incentivos específicos para la instalación de agricultores jóvenes menores de 40 años.",
+    "Posibilidad de formalizar acuerdos de colaboración familiar para regular derechos y funciones de los colaboradores.",
+    "Ayudas para la adquisición de tierras y mejora de la vivienda de uso propio para nuevos instaladores.",
+    "Prioridad de ayudas para explotaciones que se agrupen en fórmulas asociativas o cooperativas.",
+    "Obligación de mantener la integridad del patrimonio de la empresa para conservar las ayudas recibidas."
+  ],
+  "legal_references": [
+    "Ley 49/1981, de 24 de diciembre, sobre el Estatuto de la Explotación Familiar Agraria y de los Agricultores Jóvenes",
+    "Constitución Española (artículo 130.1)",
+    "Tratado de Roma (artículo 39)"
+  ],
+  "derogations": [],
+  "main_obligations": "Los beneficiarios deben presentar un plan de modernización integral y llevar una contabilidad simplificada. El incumplimiento de los planes o de la conservación de los bienes de la empresa puede provocar el vencimiento anticipado de préstamos y la obligación de devolver las subvenciones con intereses.",
+  "effective_date": "1986-01-07",
+  "procedures": [
+    {
+      "name": "Calificación como Empresa Familiar Agraria",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inscripción",
+          "description": "El titular debe solicitar la inscripción en el Registro correspondiente de la Consejería.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite la actividad principal agraria, el vínculo familiar y la estructura de la explotación."
+        }
+      ]
+    },
+    {
+      "name": "Plan de Modernización y Desarrollo",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación del plan",
+          "description": "El titular presenta un plan integral que incluya memoria descriptiva, programa de inversiones y programa de mejoras.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria descriptiva, resultados económicos, programa de inversiones y financiación."
+        },
+        {
+          "step": 2,
+          "title": "Aprobación por la Consejería",
+          "description": "La Consejería de Ganadería, Agricultura y Pesca revisa y aprueba el plan, pudiendo introducir correcciones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Incorporación de Jóvenes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de plan de establecimiento",
+          "description": "Los jóvenes menores de 40 años deben presentar un plan de establecimiento o modernización.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Plan de establecimiento o modernización conforme al artículo 8."
+        },
+        {
+          "step": 2,
+          "title": "Solicitud de inscripción",
+          "description": "Solicitud de inscripción en el Registro de Empresas Familiares Agrarias.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

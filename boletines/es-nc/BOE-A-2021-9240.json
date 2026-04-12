@@ -1,0 +1,105 @@
+{
+  "identifier": "BOE-A-2021-9240",
+  "title": "Decreto-ley Foral 4/2021, de 14 de abril, por el que se aprueban medidas urgentes para la gestión y ejecución de las actuaciones financiables con fondos europeos provenientes del Instrumento Europeo de Recuperación",
+  "visible_title": "Medidas urgentes para la gestión y ejecución de fondos europeos Next Generation EU en Navarra",
+  "rank": "decreto-ley foral",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "4/2021",
+  "publication_date": "2021-06-03",
+  "enactment_date": "2021-04-14",
+  "last_updated": "2022-04-22",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/dlf/2021/04/14/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma acelera la llegada y el uso de los fondos europeos Next Generation EU en Navarra. Establece procedimientos administrativos de urgencia, reduce plazos de control interno y simplifica la gestión de subvenciones y licitaciones. Además, agiliza la tramitación de instalaciones energéticas renovables para cumplir con los objetivos de transición ecológica.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo que sean beneficiarios de ayudas o promotores de proyectos energéticos.",
+  "professional_impact": "Las empresas y autónomos que soliciten ayudas europeas disfrutarán de una gestión más rápida y con menos trámites de justificación para importes menores a 100.000€. Los promotores de energías renovables (especialmente fotovoltaica) verán simplificados sus trámites administrativos y de información pública.",
+  "keywords": [
+    "Next Generation EU",
+    "fondos europeos",
+    "Navarra",
+    "subvenciones",
+    "energías renovables",
+    "agilización administrativa",
+    "transición ecológica"
+  ],
+  "key_points": [
+    "Tramitación de urgencia y despacho prioritario para todos los gastos con fondos europeos.",
+    "Reducción del plazo de intervención de la Intervención a solo 5 días hábiles.",
+    "Creación de la 'cuenta justificativa simplificada' para subvenciones de menos de 100.000€.",
+    "Exención de autorización administrativa para instalaciones de autoconsumo.",
+    "Eliminación del trámite de información pública para instalaciones eléctricas de pequeña potencia (≤ 1 MW).",
+    "Coordinación simultánea de trámites ambientales y de autorización para proyectos fotovoltaicos.",
+    "Posibilidad de iniciar la ejecución de contratos de licitación antes de su formalización si hay urgencia.",
+    "Ampliación de la duración de contratos de suministro energético hasta un máximo de 10 años."
+  ],
+  "legal_references": [
+    "Real Decreto-ley 36/2020",
+    "Ley Orgánica 13/1982",
+    "Ley Foral 11/2005",
+    "Ley Foral 11/2019",
+    "Ley Foral 13/2007",
+    "Ley Foral 18/2016",
+    "Ley 39/2015",
+    "Ley Foral 2/2018"
+  ],
+  "derogations": [],
+  "main_obligations": null,
+  "effective_date": "2021-06-03",
+  "procedures": [
+    {
+      "name": "Gestión de subvenciones con fondos europeos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación de bases y convocatoria",
+          "description": "Aprobación de bases mediante informe jurídico y fiscalización de la Intervención.",
+          "start_date": null,
+          "end_date": "10 días naturales (plazo de fiscalización)",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Justificación simplificada (si aplica)",
+          "description": "Presentación de memoria de actuación y relación de gastos para importes < 100.000€.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria de actuación, relación de gastos, detalle de otros ingresos y carta de pago de reintegros si procede."
+        }
+      ]
+    },
+    {
+      "name": "Autorización de instalaciones fotovoltaicas en suelo no urbanizable",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud simultánea",
+          "description": "Presentación conjunta de solicitud de autorización de actividades y evaluación de impacto ambiental.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación técnica de la instalación."
+        },
+        {
+          "step": 2,
+          "title": "Subsanación",
+          "description": "Plazo para corregir deficiencias en la documentación presentada.",
+          "start_date": null,
+          "end_date": "10 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Traslado a órganos competentes",
+          "description": "La Dirección General traslada la documentación a los órganos ambiental y de urbanismo.",
+          "start_date": null,
+          "end_date": "10 días",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

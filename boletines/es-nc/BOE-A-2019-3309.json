@@ -1,0 +1,92 @@
+{
+  "identifier": "BOE-A-2019-3309",
+  "title": "Ley Foral 5/2019, de 7 de febrero, para la acreditación de las familias monoparentales en la Comunidad Foral de Navarra",
+  "visible_title": "Ley para la acreditación de las familias monoparentales en la Comunidad Foral de Navarra",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Foral de Navarra",
+  "official_number": "5/2019",
+  "publication_date": "2019-03-08",
+  "enactment_date": "2019-02-07",
+  "last_updated": "2022-04-01",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-nc/lf/2019/02/07/5",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea un sistema oficial para reconocer y acreditar la condición de familia monoparental o en situación de monoparentalidad en Navarra. Su objetivo es proteger a hogares con un solo progenitor o en situaciones de vulnerabilidad similares, facilitando su acceso a ayudas sociales. La norma distingue entre familias monoparentales estrictas y aquellas que, teniendo dos progenitores, atraviesan situaciones de riesgo económico o social.",
+  "citizen_impact": "Los ciudadanos que vivan en hogares monoparentales pueden obtener un título oficial que les da acceso a beneficios en educación, transporte, vivienda y fiscalidad. Esto supone un alivio económico directo en gastos de comedor escolar, becas universitarias y bonificaciones en actividades culturales o deportivas. Además, permite una puntuación específica en las adjudicaciones de vivienda de protección oficial.",
+  "professional_impact": "Los funcionarios de servicios sociales y administración deben aplicar nuevos criterios de clasificación y baremos para la concesión de ayudas. Las empresas privadas y administraciones locales deberán reconocer los beneficios derivados de este título. Se establece un régimen sancionador para quienes utilicen el título de forma indebida o falseen su situación.",
+  "keywords": [
+    "familia monoparental",
+    "Navarra",
+    "acreditación",
+    "ayudas sociales",
+    "vulnerabilidad",
+    "protección de la familia"
+  ],
+  "key_points": [
+    "Se crea el título oficial de familia monoparental y un carné individual para sus miembros.",
+    "Se reconoce la 'situación de monoparentalidad' para familias con dos progenitores en casos de violencia de género, ingresos bajos o ingresos de un progenitor en prisión.",
+    "Los hijos pueden ser beneficiarios hasta los 21 años, o hasta los 26 si están estudiando.",
+    "Se establecen categorías (Especial y General) según el número de hijos o nivel de ingresos/discapacidad.",
+    "Los beneficios incluyen bonificaciones en transporte público, becas de comedor y ayudas para ortodoncia o psicología.",
+    "El silencio administrativo tras 3 meses de solicitud se considera estimatorio.",
+    "El título es compatible con el de familia numerosa, pero los beneficios no son acumulables.",
+    "Se imponen sanciones por uso indebido o falseamiento de datos, que pueden llegar a la pérdida del título."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley Foral 20/2003",
+    "Decreto 179/2013 (Comunidad Valenciana)",
+    "Ley 18/2003 (Cataluña)",
+    "Ley Foral 14/2015",
+    "Ley 39/2015",
+    "Ley Foral 15/2004"
+  ],
+  "derogatations": [
+    "Todas las disposiciones que se opongan a esta ley foral"
+  ],
+  "main_obligations": "Los titulares deben comunicar cualquier cambio en su situación familiar que afecte al título en un plazo de 15 días. El uso de datos falsos o la cesión del título a terceros constituye una infracción grave.",
+  "effective_date": "2019-01-01",
+  "procedures": [
+    {
+      "name": "Reconocimiento y expedición del título de familia monoparental",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "Inicio del trámite mediante impreso normalizado y documentación acreditativa.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "DNI/NIE, Libro de familia o sentencia, Certificado de empadronamiento, Declaración responsable de ingresos (IPREM) y documentación específica según el caso (ej. certificado de discapacidad o sentencia de custodia)."
+        },
+        {
+          "step": 2,
+          "title": "Subsanación de errores",
+          "description": "Si falta documentación, se requiere al interesado para que la aporte.",
+          "start_date": null,
+          "end_date": "10 días",
+          "required_documentation": "La documentación faltante requerida por la administración."
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Dictado de la resolución administrativa (favorable o desestimatoria).",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Expedición del título",
+          "description": "Entrega del título colectivo y el carné individual.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

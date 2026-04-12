@@ -1,0 +1,96 @@
+{
+  "identifier": "BOE-A-2010-9772",
+  "title": "Ley 4/2010, de 4 de junio, del Catálogo Canario de Especies Protegidas",
+  "visible_title": "Catálogo Canario de Especies Protegidas",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "4/2010",
+  "publication_date": "2010-06-21",
+  "enactment_date": "2010-06-04",
+  "last_updated": "2010-06-09",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2010/06/04/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley crea y regula el Catálogo Canario de Especies Protegidas para proteger la biodiversidad única del archipiélago. Establece un sistema de clasificación que va desde especies en peligro de extinción hasta aquellas de interés ecológico o protección especial. Además, consolida el Banco de Datos de Biodiversidad de Canarias como la herramienta técnica de registro para la gestión de la fauna y flora silvestres.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo para aquellos interesados en la conservación que pueden solicitar la inclusión o cambio de categoría de una especie mediante una propuesta científica.",
+  "professional_impact": "Afecta a profesionales del sector ambiental, científicos y gestores de espacios naturales, quienes deben seguir nuevos criterios técnicos para la catalogación. También impone restricciones y procedimientos específicos para la colecta científica y la gestión de proyectos que afecten a especies protegidas.",
+  "keywords": [
+    "biodiversidad",
+    "especies protegidas",
+    "Canarias",
+    "conservación",
+    "catálogo de especies",
+    "endemismos",
+    "medio ambiente"
+  ],
+  "key_points": [
+    "Creación del Catálogo Canario de Especies Protegidas con cuatro categorías de protección.",
+    "Introducción de la categoría de especies 'de interés para los ecosistemas canarios' para proteger especies clave sin que estén amenazadas.",
+    "Creación y consolidación del Banco de Datos de Biodiversidad de Canarias como registro administrativo.",
+    "Establecimiento de criterios científicos estrictos (área de ocupación, tamaño de población y probabilidad de extinción) para catalogar especies.",
+    "Permiso para que cualquier ciudadano u organización solicite la inclusión o exclusión de especies en el catálogo mediante informe científico.",
+    "Vinculación de la protección canaria con el Catálogo Español de Especies Amenazadas para asegurar la coherencia normativa."
+  ],
+  "legal_references": [
+    "Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad",
+    "Directiva 79/409/CEE (Aves)",
+    "Directiva 92/43/CEE (Hábitats)",
+    "Decreto 151/2001, de 23 de julio",
+    "Orden de 13 de julio de 2005"
+  ],
+  "derogations": [
+    "Decreto 151/2001, de 23 de julio, del Catálogo de Especies Amenazadas de Canarias",
+    "Decreto 188/2005, de 13 de septiembre",
+    "Orden de 13 de julio de 2005"
+  ],
+  "main_obligations": "Se prohíbe la captura, recolección o perturbación de especies en peligro de extinción y vulnerables según la Ley 42/2007. Las infracciones administrativas se regirán por el régimen sancionador estatal de biodiversidad, pudiendo derivar en procesos penales si constituyen delito.",
+  "effective_date": "2010-06-22",
+  "procedures": [
+    {
+      "name": "Modificación del Catálogo Canario de Especies Protegidas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de inclusión, cambio o exclusión",
+          "description": "Cualquier ciudadano u organización puede presentar una propuesta motivada con base científica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Información científica pertinente, referencias de informes y publicaciones científicas."
+        },
+        {
+          "step": 2,
+          "title": "Propuesta de la Consejería",
+          "description": "La consejería competente elabora una propuesta basada en informes técnicos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación por Decreto",
+          "description": "El Gobierno de Canarias aprueba la modificación mediante decreto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aprobación de planes de recuperación y conservación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Tramitación del plan",
+          "description": "Elaboración y aprobación de los planes para especies en peligro o vulnerables.",
+          "start_date": null,
+          "end_date": "12 meses desde el acuerdo de aprobación del avance",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

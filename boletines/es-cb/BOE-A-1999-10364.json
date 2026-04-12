@@ -1,0 +1,124 @@
+{
+  "identifier": "BOE-A-1999-10364",
+  "title": "Ley 5/1999, de 24 de marzo, de Ordenación del Turismo de Cantabria",
+  "visible_title": "Ordenación del Turismo de Cantabria",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cantabria",
+  "official_number": "5/1999",
+  "publication_date": "1999-05-08",
+  "enactment_date": "1999-03-24",
+  "last_updated": "2024-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cb/l/1999/03/24/5",
+  "official_journal": "Boletín Oficial de la Comunidad Autónoma de Cantabria",
+  "journal_issue": null,
+  "summary": "Esta ley moderniza y unifica toda la normativa turística de Cantabria para profesionalizar el sector. Crea la Sociedad de Turismo de Cantabria, S.A. para potenciar la promoción de la región y establece reglas claras de juego para empresas y consumidores. Introduce medidas de seguridad obligatorias para actividades de riesgo y mecanismos para resolver disputas de forma ágil. Además, permite al Gobierno controlar la saturación turística en zonas específicas para proteger el territorio.",
+  "citizen_impact": "El ciudadano gana protección al exigir que las empresas de turismo activo tengan seguros de responsabilidad civil de al menos 600.000€ y material homologado. También mejora la transparencia, ya que las empresas deben mostrar precios finales con impuestos incluidos y políticas de cancelación claras antes de que compres. En caso de problemas con un servicio, tienes acceso a un sistema de arbitraje voluntario para resolver conflictos sin ir a juicio.",
+  "professional_impact": "Las empresas turísticas deben adaptarse a nuevos requisitos de transparencia y seguridad, incluyendo la obligación de exhibir hojas de reclamaciones y listas de precios visibles. Las empresas de turismo activo asumen cargas adicionales de seguros y homologación de equipos. El sector se enfrenta a la posibilidad de restricciones de apertura en 'zonas turísticas saturadas' y debe cumplir con trámites de declaración responsable o autorización previa según su actividad.",
+  "keywords": [
+    "turismo cantabria",
+    "ordenación turística",
+    "turismo activo",
+    "seguros responsabilidad civil",
+    "arbitraje de consumo",
+    "promoción turística"
+  ],
+  "key_points": [
+    "Creación de la Sociedad de Turismo de Cantabria, S.A. para la gestión de promoción e información.",
+    "Obligatoriedad de seguros de responsabilidad civil con cobertura mínima de 600.000€ para turismo activo.",
+    "Exigencia de publicidad de precios finales (con impuestos incluidos) y políticas de cancelación antes de la contratación.",
+    "Posibilidad de declarar 'zonas turísticas saturadas' para limitar nuevas instalaciones.",
+    "Implementación de un sistema de arbitraje voluntario para la resolución de conflictos entre empresas y usuarios.",
+    "Obligación de contar con equipos y material homologado en actividades de turismo activo.",
+    "Necesidad de presentar declaración responsable o autorización previa para iniciar la actividad turística."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía para Cantabria",
+    "Ley de Cantabria 2/1997, de 28 de abril, de Régimen Jurídico del Gobierno y de la Administración",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+    "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público"
+  ],
+  "derogatons": [
+    "Ley 1/1992, de 11 de febrero, de Inspección y Régimen Sancionador en materia de Turismo"
+  ],
+  "main_obligations": "Las empresas deben obtener autorización previa o presentar declaración responsable antes de operar. Las de turismo activo deben mantener seguros de responsabilidad civil y de rescate vigentes, además de usar material homologado. Todas deben exhibir hojas de reclamaciones y precios finales visibles.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Inicio, modificación o cese de actividad turística",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de declaración responsable o solicitud de autorización",
+          "description": "Trámite previo obligatorio para comenzar o modificar la actividad turística.",
+          "start_date": "Antes del inicio de la actividad",
+          "end_date": null,
+          "required_documentation": "Documentación según la modalidad de actividad"
+        },
+        {
+          "step": 2,
+          "title": "Control e inspección",
+          "description": "La Administración comprueba la adecuación de la actividad a lo declarado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de cese de actividad (en caso de incumplimiento)",
+          "description": "Si hay inexactitudes o falta de autorización, se dicta resolución para el cese.",
+          "start_date": "Desde la detección de la infracción",
+          "end_date": "12 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "description": "Se inicia de oficio, por denuncia o por acuerdo de la Dirección General.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Tramitación y resolución",
+          "description": "Plazo máximo para notificar la resolución final del expediente.",
+          "start_date": "Desde la iniciación",
+          "end_date": "1 año",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Arbitraje de consumo turístico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Sometimiento voluntario",
+          "description": "Las partes acuerdan resolver el conflicto mediante arbitraje.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Emisión del laudo",
+          "description": "El árbitro dicta una decisión obligatoria para ambas partes.",
+          "start_date": "Desde el inicio del arbitraje",
+          "end_date": "60 días",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

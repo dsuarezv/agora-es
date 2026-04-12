@@ -1,0 +1,100 @@
+{
+  "identifier": "BOE-A-2015-4547",
+  "title": "Ley 2/2015, de 2 de abril, de Transparencia, Buen Gobierno y Participación Ciudadana de la Comunitat Valenciana",
+  "visible_title": "Ley de Transparencia, Buen Gobierno y Participación Ciudadana de la Comunidad Valenciana",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunitat Valenciana",
+  "official_number": "2/2015",
+  "publication_date": "2015-04-27",
+  "enactment_date": "2015-04-02",
+  "last_updated": "2023-04-20",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-vc/l/2015/04/02/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma establece un marco integral para garantizar que la administración valenciana actúe con transparencia, ética y apertura. Introduce la obligación de publicar proactivamente datos económicos, contractuales y de personal, además de crear mecanismos para que la ciudadanía participe directamente en la toma de decisiones y la elaboración de normas. También regula el derecho de acceso a la información pública y la creación de un Consejo de garantías para supervisar estos procesos.",
+  "citizen_impact": "Otorga a los ciudadanos el derecho a saber cómo se gasta el dinero público y qué decisiones toman sus representantes mediante el Portal de Transparencia. Permite participar activamente en procesos de consulta y propuestas legislativas, e incluso ofrece la posibilidad de recibir compensación por gastos en ciertos procesos de participación ciudadana.",
+  "professional_impact": "Los funcionarios y altos cargos deben cumplir con estrictos códigos de ética y publicar sus agendas, viajes y declaraciones de bienes. Las empresas que contratan con la administración están sujetas a una mayor visibilidad de sus contratos y subcontrataciones, mientras que las entidades locales deben adaptar sus sistemas para cumplir con las obligaciones de publicidad activa.",
+  "keywords": [
+    "transparencia",
+    "participación ciudadana",
+    "buen gobierno",
+    "acceso a la información",
+    "datos abiertos",
+    "comunidad valenciana",
+    "rendición de cuentas"
+  ],
+  "key_points": [
+    "Obligación de publicar contratos, subvenciones, presupuestos y su ejecución de forma trimestral.",
+    "Creación de un Portal de Transparencia para facilitar el acceso digital a la información.",
+    "Derecho de los ciudadanos a proponer iniciativas normativas con el aval de 20.000 firmas.",
+    "Implementación de un régimen sancionador para incumplimientos de transparencia y buen gobierno.",
+    "Derecho a la compensación de gastos (hasta 500€) para entidades sin ánimo de lucro en procesos participativos.",
+    "Garantía de participación de los valencianos residentes en el exterior mediante los CEVEX.",
+    "Obligación de publicar la trayectoria profesional y declaraciones de bienes de los altos cargos.",
+    "Fomento de la participación ciudadana mediante el uso de nuevas tecnologías y medios electrónicos."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de la Comunitat Valenciana",
+    "Ley 19/2013, de 9 de diciembre, de Transparencia, Acceso a la Información Pública y Buen Gobierno",
+    "Ley 5/1993, de 27 de diciembre, Reguladora de la Iniciativa Legislativa Popular de la Comunidad Valenciana",
+    "Directiva 2003/98/CE",
+    "Directiva 2013/37/UE"
+  ],
+  "derogations": [
+    "Ley 11/2009, de 20 de noviembre, de la Generalitat, de Ciudadanía Corporativa",
+    "Ley 11/2007, de 20 de marzo, de la Generalitat, de Comunidades de Valencianos en el Exterior",
+    "Ley 11/2008, de 3 de julio, de la Generalitat, de Participación Ciudadana de la Comunitat Valenciana",
+    "Decreto 206/2007, de 19 de octubre, del Consell"
+  ],
+  "main_obligations": "Las administraciones deben publicar de forma proactiva y actualizada información económica, jurídica, organizativa y de altos cargos. Se establece un régimen de sanciones para quienes incumplan el suministro de información o las normas de buen gobierno.",
+  "effective_date": "2015-04-28",
+  "procedures": [
+    {
+      "name": "Solicitud de acceso a la información pública",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la solicitud",
+          "description": "El ciudadano presenta una petición de acceso a la información no publicada proactivamente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Identificación del solicitante y descripción de la información requerida"
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "El órgano competente resuelve sobre la concesión o denegación del acceso.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Propuesta ciudadana de iniciativa normativa",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la propuesta",
+          "description": "Presentación de la iniciativa con el aval de al menos 20.000 firmas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "20.000 firmas acreditadas y texto de la propuesta"
+        },
+        {
+          "step": 2,
+          "title": "Evaluación de legalidad y oportunidad",
+          "description": "El órgano competente evalúa la propuesta en cuanto legalidad, coste y efectos.",
+          "start_date": null,
+          "end_date": "3 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

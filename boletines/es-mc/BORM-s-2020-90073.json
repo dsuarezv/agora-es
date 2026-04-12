@@ -1,0 +1,89 @@
+{
+  "identifier": "BORM-s-2020-90073",
+  "title": "Decreto-ley 2/2020, de 26 de marzo, de medidas urgentes en materia tributaria y de agilización de actuaciones administrativas debido a la crisis sanitaria ocasionada por el COVID-19",
+  "visible_title": "Medidas urgentes en materia tributaria y agilización administrativa por crisis sanitaria COVID-19",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "2/2020",
+  "publication_date": "2020-03-26",
+  "enactment_date": "2020-03-26",
+  "last_updated": "2020-06-19",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/buscar/act.php?id=BORM-s-2020-90073",
+  "official_journal": "Boletín Oficial de la Región de Murcia",
+  "journal_issue": null,
+  "summary": "Esta norma implementa ayudas y alivios fiscales en la Región de Murcia para mitigar el impacto económico de la pandemia de COVID-19. Amplía los plazos de pago y presentación de impuestos cedidos (como Sucesiones y Transmisiones Patrimoniales) y propios. Además, simplifica trámites para evitar la presencialidad y establece exenciones en ciertas tasas para reducir la carga financiera de los ciudadanos durante la crisis.",
+  "citizen_impact": "Los ciudadanos disponen de más tiempo para pagar impuestos de sucesiones, donaciones y transmisiones patrimoniales sin incurrir en sanciones. También se eliminan pagos de ciertas tasas administrativas y se facilita que los trámites se hagan por internet sin necesidad de entregar papeles físicos.",
+  "professional_impact": "Las empresas y autónomos del sector del juego y los colaboradores sociales están obligados a realizar sus gestiones exclusivamente por vía electrónica. Los notarios deben remitir información de forma telemática a la Agencia Tributaria de Murcia. Los funcionarios de la administración ven flexibilizado el control de gastos, permitiendo un control posterior en lugar de previo para agilizar la gestión.",
+  "keywords": [
+    "tributos",
+    "COVID-19",
+    "ampliación de plazos",
+    "Región de Murcia",
+    "impuesto sucesiones",
+    "transmisiones patrimoniales",
+    "gestión telemática",
+    "exención de tasas"
+  ],
+  "key_points": [
+    "Ampliación de 3 meses en los plazos de Impuesto sobre Sucesiones y Donaciones y Transmisiones Patrimoniales si vencían antes del 30 de junio de 2020.",
+    "Ampliación de plazos para la presentación y pago de Tributos sobre el Juego.",
+    "Eliminación de la obligación de presentar copias físicas de escrituras notariales para ciertos impuestos, permitiendo la gestión 100% telemática.",
+    "Extensión del plazo de pago para impuestos medioambientales (residuos, vertidos y emisiones) hasta el 20 de junio de 2020.",
+    "Exención del pago de tasas del Anexo I del Decreto Legislativo 1/2004 cuyo devengo ocurra en los tres meses tras el estado de alarma.",
+    "Obligatoriedad de relación electrónica para colaboradores sociales y operadores de juego.",
+    "Permiso excepcional para sustituir el control previo de gastos por control financiero posterior en la administración regional."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020",
+    "Real Decreto 465/2020",
+    "Real Decreto-ley 8/2020",
+    "Estatuto de Auto-nomía de la Región de Murcia",
+    "Ley 9/2005",
+    "Decreto Legislativo 1/2004",
+    "Ley 39/2015",
+    "Decreto Legislativo 1/2010"
+  ],
+  "derogations": [],
+  "main_obligations": "Los colaboradores sociales y operadores de juego deben relacionarse exclusivamente por medios electrónicos. Los notarios deben remitir telemáticamente declaraciones informativas de actos sujetos a impuestos cedidos.",
+  "effective_date": "2020-03-26",
+  "procedures": [
+    {
+      "name": "Presentación y pago de autoliquidaciones (Impuestos Cedidos)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Plazo inicial de presentación y pago",
+          "description": "Vencimiento original según normativa de Sucesiones, Donaciones y Transmisiones Patrimoniales.",
+          "start_date": null,
+          "end_date": "2020-06-30",
+          "required_documentation": "Documentos notariales (ahora permitida la gestión telemática sin papel físico)"
+        },
+        {
+          "step": 2,
+          "title": "Ampliación de plazo",
+          "description": "Extensión automática de 3 meses adicionales sobre el plazo inicial.",
+          "start_date": "Desde el fin del plazo inicial",
+          "end_date": "3 meses después del vencimiento original",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Pago de Impuestos Medioambientales",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Pago fraccionado",
+          "description": "Pago de los primeros veinte días de abril ampliado.",
+          "start_date": null,
+          "end_date": "2020-06-20",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

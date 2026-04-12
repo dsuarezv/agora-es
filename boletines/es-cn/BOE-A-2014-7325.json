@@ -1,0 +1,84 @@
+{
+  "identifier": "BOE-A-2014-7325",
+  "title": "Ley 2/2014, de 20 de junio, de modificación de la Ley 2/2003, de 30 de enero, de Vivienda de Canarias y de medidas para garantizar el derecho a la vivienda",
+  "visible_title": "Modificación de la Ley de Vivienda de Canarias y medidas para garantizar el derecho a la vivienda",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "2/2014",
+  "publication_date": "2014-07-11",
+  "enactment_date": "2014-06-20",
+  "last_updated": "2018-05-29",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/2014/06/20/2",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta ley busca combatir el problema de las viviendas vacías y proteger a las familias en riesgo de exclusión habitacional en Canarias. Introduce mecanismos para que la Administración pueda intervenir en propiedades desocupadas, especialmente de grandes tenedores o bancos, para asegurar su uso social. Además, refuerza el control sobre las viviendas protegidas y garantiza que las fianzas de alquiler se depositen correctamente para proteger al inquilino. En definitiva, prioriza el derecho a la vivienda sobre el derecho de propiedad cuando este último se usa de forma improductiva.",
+  "citizen_impact": "Los inquilinos ganan seguridad jurídica al garantizarse que sus fianzas se depositen en la Administración Canaria. Las familias en riesgo de desahucio por impago de hipoteca cuentan con mecanismos de protección que permiten la intervención pública para evitar la exclusión. Por otro lado, los propietarios de viviendas libres pueden acceder a incentivos fiscales si las ponen en el mercado de alquiler.",
+  "professional_impact": "Los arrendadores y empresas de suministros (agua, luz, gas) asumen nuevas obligaciones de reporte y depósito de fianzas. Los bancos y personas jurídicas enfrentan mayores riesgos de inspección, sanciones de hasta 300.000 euros y la posible expropiación temporal del uso de sus viviendas si permanecen desocupadas. Los inspectores de vivienda adquieren facultades de agentes de la autoridad.",
+  "keywords": [
+    "vivienda",
+    "Canarias",
+    "desocupación",
+    "fianzas",
+    "vivienda protegida",
+    "expropiación",
+    "alquiler"
+  ],
+  "key_points": [
+    "Creación de un Registro de Viviendas Deshabitadas para controlar el stock de inmuebles vacíos.",
+    "Posibilidad de expropiación temporal (máximo 3 años) del uso de viviendas de bancos para evitar desahucios en emergencias sociales.",
+    "Sanciones de hasta 300.000 euros para infracciones muy graves en materia de vivienda.",
+    "Obligación de las empresas de suministros de facilitar datos de consumo para detectar viviendas vacías.",
+    "Obligatoriedad de depositar las fianzas de alquiler en la Administración Canaria.",
+    "Creación de un Registro de Viviendas Protegidas para controlar su ocupación y titularidad.",
+    "Incentivos fiscales para propietarios que pongan viviendas libres en alquiler o venta.",
+    "Las personas jurídicas pueden ser inspeccionadas y sancionadas si mantienen viviendas desocupadas sin uso habitacional."
+  ],
+  "legal_references": [
+    "Ley 2/2003, de 30 de enero, de Vivienda de Canarias",
+    "Constitución Española (art. 47, 40.1, 128.1, 33)",
+    "Real Decreto-ley 27/2012",
+    "Decreto-ley 6/2013 de la Junta de Andalucía",
+    "Ley Foral 24/2013 de Navarra",
+    "Ley 29/1994 de Arrendamientos Urbanos",
+    "Ley 30/1992 de Régimen Jurídico de las Administraciones Públicas",
+    "Ley de Expropiación Forzosa",
+    "Ley 11/2007, de 25 de junio, de acceso electrónico de los ciudadanos a los Servicios Públicos",
+    "Ley 39/2015, de 1 de octubre",
+    "Ley 5/1996, de 27 de junio, de Presupuestos Generales de la Comunidad Autónoma de Canarias"
+  ],
+  "derogations": [
+    "Cédula de habitabilidad",
+    "Disposición adicional séptima de la Ley 5/1996, de 27 de junio, de Presupuestos Generales de la Comunidad Autónoma de Canarias para 1997",
+    "Disposición adicional séptima de la Ley 5/1996"
+  ],
+  "main_obligations": "Los arrendadores deben depositar la fianza en la Caja de Depósitos en el plazo de un mes desde la firma del contrato. Las entidades financieras deben comunicar el inventario de viviendas protegidas en su balance y las empresas de suministros deben facilitar datos de consumo a la Administración.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Depósito de fianzas de alquiler",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Firma del contrato de arrendamiento",
+          "description": "Formalización del contrato entre arrendador y arrendatario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Ingreso de la fianza en la Administración",
+          "description": "El arrendador debe realizar el depósito de la fianza en la Caja de Depósitos de la Administración Canaria.",
+          "start_date": "Desde la firma del contrato",
+          "end_date": "1 mes",
+          "required_documentation": "Contrato de arrendamiento"
+        }
+      ]
+    }
+  ],
+  "chunked": true,
+  "chunk_count": 2
+}

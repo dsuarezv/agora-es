@@ -1,0 +1,79 @@
+{
+  "identifier": "BOE-A-2020-6428",
+  "title": "Decreto-ley 19/2020, de 19 de mayo, de medidas complementarias en materia social y sanitaria para paliar los efectos de la pandemia generada por COVID-19",
+  "visible_title": "Medidas complementarias sociales y sanitarias para paliar los efectos de la pandemia por COVID-19",
+  "rank": "decreto-ley",
+  "country": "es",
+  "department": "Generalitat de Catalunya",
+  "official_number": "19/2020",
+  "publication_date": "2020-06-19",
+  "enactment_date": "2020-05-19",
+  "last_updated": "2022-05-18",
+  "status": "amended",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2020/05/19/19",
+  "official_journal": "Boletín Oficial del Estado (referencia al DOGC)",
+  "journal_issue": null,
+  "summary": "Esta norma establece medidas de emergencia para mitigar el impacto de la COVID-19 en Cataluña, centrándose en tres ejes: la continuidad de servicios sociales, la flexibilidad en la formación de especialistas sanitarios y la adaptación de la gestión de cooperativas. Busca evitar la interrupción de servicios esenciales y permitir que los profesionales de la salud recuperen el tiempo de formación perdido. Asimismo, flexibiliza los trámites de las cooperativas para que puedan operar legalmente durante la crisis sanitaria.",
+  "citizen_impact": "Garantiza que las personas vulnerables no pierdan el acceso a sus servicios sociales esenciales a pesar de las restricciones sanitarias. También permite que los médicos residentes puedan completar su formación de manera más flexible.",
+  "professional_impact": "Los médicos residentes en formación sanitaria especializada pueden realizar rotaciones externas en los últimos tres meses de su carrera durante el año 2021. Las sociedades cooperativas cuentan con plazos ampliados para celebrar asambleas, legalizar libros y mantener la vigencia de sus cargos sin incurrir en irregularidades.",
+  "keywords": [
+    "COVID-19",
+    "servicios sociales",
+    "formación sanitaria especializada",
+    "médicos residentes",
+    "cooperativas",
+    "medidas de emergencia",
+    "Cataluña"
+  ],
+  "key_points": [
+    "Permite a los médicos residentes realizar rotaciones externas en los últimos tres meses de su formación durante el año 2021.",
+    "Extiende hasta el 31 de diciembre de 2020 la posibilidad de realizar asambleas y reuniones de órganos colegiados por videoconferencia para cooperativas.",
+    "Amplía el plazo para la celebración de la asamblea ordinaria de las cooperativas hasta el 31 de diciembre de 2020.",
+    "Permite la legalización de libros de cooperativas hasta el 31 de diciembre de 2020.",
+    "Establece que las asambleas para resolver recursos sobre expedientes sancionadores deben convocarse en un máximo de 6 meses tras el fin del estado de alarma."
+  ],
+  "legal_references": [
+    "Real Decreto 463/2020",
+    "Ley 8/2011",
+    "Decreto 165/2015",
+    "Ley de cooperativas",
+    "Decreto ley 10/2020",
+    "Ley 13/2008"
+  ],
+  "derogations": [],
+  "main_obligations": "Las cooperativas deben convocar las asambleas para resolver recursos sobre expedientes sancionadores en un plazo máximo de seis meses tras la finalización del estado de alarma.",
+  "effective_date": "2020-05-19",
+  "procedures": [
+    {
+      "name": "Gestión de asambleas y trámites de cooperativas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Celebración de asamblea ordinaria",
+          "description": "Plazo excepcional para cooperativas con cierre económico específico.",
+          "start_date": null,
+          "end_date": "2020-12-31",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Legalización de libros",
+          "description": "Plazo para la legalización de libros de sociedades cooperativas.",
+          "start_date": null,
+          "end_date": "2020-12-31",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de recursos sancionadores",
+          "description": "Convocatoria de asambleas para resolver recursos tras el estado de alarma.",
+          "start_date": null,
+          "end_date": "6 meses tras la finalización del estado de alarma",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

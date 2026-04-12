@@ -1,0 +1,107 @@
+{
+  "identifier": "BOE-A-1991-10293",
+  "title": "Ley 2/1991, de 7 de marzo, de Carreteras de la Comunidad Autónoma de La Rioja",
+  "visible_title": "Ley de Carreteras de la Comunidad Autónoma de La Rioja",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de La Rioja",
+  "official_number": "2/1991",
+  "publication_date": "1991-04-27",
+  "enactment_date": "1991-03-07",
+  "last_updated": "2025-12-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ri/l/1991/03/07/2",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco jurídico para gestionar todas las carreteras que transcurren íntegramente por La Rioja y no son estatales. Regula desde la planificación y construcción hasta el uso y la conservación de la red vial autonómica. Su objetivo es adaptar la gestión de infraestructuras a la orografía riojana y evitar vacíos legales tras la transferencia de competencias.",
+  "citizen_impact": "Afecta a los ciudadanos en cuanto a las restricciones de uso y construcción en las zonas cercanas a las carreteras (dominio público, servidumbre y afección). También regula la prohibición de publicidad visual desde la carretera para garantizar la seguridad vial.",
+  "professional_impact": "Empresas constructoras y de servicios deben cumplir estrictos protocolos de estudios y proyectos para obras en la red. Los propietarios de terrenos colindantes deben solicitar autorizaciones para cualquier obra o cambio de uso en las franjas de protección, bajo riesgo de sanciones graves o demolición.",
+  "keywords": [
+    "carreteras autonómicas",
+    "La Rioja",
+    "infraestructuras",
+    "dominio público",
+    "servidumbre",
+    "afección",
+    "seguridad vial",
+    "urbanismo"
+  ],
+  "key_points": [
+    "Clasificación de la red en tres niveles: Regional básica, Comarcal y Local.",
+    "Establecimiento de tres zonas de protección: Dominio público (3m), Servidumbre (8m) y Afección (50m) desde la explanación.",
+    "Prohibición de publicidad visible desde el dominio público de la carretera.",
+    "Límite de edificabilidad situado a 18 metros de la arista exterior de la calzada (35 metros en variantes).",
+    "Obligatoriedad de realizar estudios de impacto ambiental en nuevos proyectos.",
+    "Potestad de la Administración para declarar utilidad pública y proceder a la expropiación forzosa.",
+    "Régimen sancionador con multas que pueden alcanzar los 60.000 euros para infracciones muy graves."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de La Rioja",
+    "Ley 25/1988, de 29 de julio, de carreteras",
+    "Ley 51/1974, de 19 de diciembre, de Carreteras",
+    "Ley 7/1985, de 2 de abril, reguladora de las Bases de Régimen Local",
+    "Ley de Expropiación Forzosa de 16 de diciembre de 1954",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común"
+  ],
+  "derogations": [
+    "Ley 51/1974, de 19 de diciembre, de Carreteras",
+    "Reglamento para su aplicación de 8 de febrero de 1977"
+  ],
+  "main_obligations": "Se prohíbe realizar obras o cambios de uso en las zonas de dominio, servidumbre y afección sin autorización previa. Las infracciones muy graves, como dañar la plataforma o instalar publicidad no autorizada, conllevan multas de hasta 60.000 euros y la obligación de demolición.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Información pública de estudios informativos para nuevas carreteras o variantes",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Exposición pública",
+          "description": "Sometimiento del estudio informativo a consulta pública para recibir alegaciones sobre el interés general y el trazado.",
+          "start_date": "Publicación en el Boletín Oficial de La Rioja",
+          "end_date": "30 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Trámite con Corporaciones Locales",
+          "description": "Consulta a los Ayuntamientos afectados para verificar la conveniencia del trazado.",
+          "start_date": "Durante el periodo de información pública",
+          "end_date": "30 días hábiles",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de disconformidad",
+          "description": "En caso de oposición motivada de los Ayuntamientos, el expediente se eleva al Consejo de Gobierno para decidir.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del expediente",
+          "description": "Inicio de oficio por la autoridad o mediante denuncia de particulares.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "description": "Imposición de multa según la gravedad (Leve: 30-600€, Grave: 601-6.000€, Muy Grave: 6.001-60.000€).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

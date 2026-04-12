@@ -1,0 +1,93 @@
+{
+  "identifier": "BOE-A-2011-2491",
+  "title": "Ley 1/2009, de 11 de marzo, de transporte marítimo de pasajeros de la Región de Murcia",
+  "visible_title": "Ley de transporte marítimo de pasajeros de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "1/2009",
+  "publication_date": "2011-02-09",
+  "enactment_date": "2009-03-11",
+  "last_updated": "2016-05-20",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2009/03/11/1",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley regula todas las actividades de transporte de pasajeros en embarcaciones con propulsión mecánica o vela que operen exclusivamente dentro de las aguas de la Región de Murcia. Su objetivo es establecer un marco de control para servicios regulares y discrecionales (como cruceros turísticos o excursiones deportivas) mediante un sistema de comunicación previa y registro. La norma busca garantizar la seguridad de los usuarios y la correcta gestión del dominio público marítimo-terrestre murciano.",
+  "citizen_impact": "Los usuarios de barcos turísticos o de transporte regular en la región ganan derechos claros: información sobre precios e itinerarios, derecho a reclamar en libros oficiales y derecho a ser indemnizados por daños personales o pérdida de equipaje. Además, asegura un acceso no discriminatorio a los servicios públicos de transporte marítimo.",
+  "professional_impact": "Las empresas navieras y operadores turísticos deben cumplir con un régimen de comunicación previa ante la Consejería de Transportes con 15 días de antelación y renovar su intención de actividad cada tres años. Se imponen cargas de seguridad estrictas, la obligación de contratar seguros de responsabilidad civil y un régimen sancionador que puede alcanzar los 30.000 euros o la inmovilización de la embarcación.",
+  "keywords": [
+    "transporte marítimo",
+    "pasajeros",
+    "Región de Murcia",
+    "navieras",
+    "cruceros turísticos",
+    "seguridad marítima",
+    "comunicación previa"
+  ],
+  "key_points": [
+    "Obligatoriedad de comunicación previa al inicio de la actividad con al menos 15 días de antelación.",
+    "Creación de un Registro de Comunicaciones Previas público y gratuito para los operadores.",
+    "Los servicios pueden ser regulares (horarios fijos) o discrecionales (sin horario preestablecido).",
+    "Obligación de disponer de seguro de responsabilidad civil para pasajeros y equipajes.",
+    "Las infracciones muy graves pueden conllevar multas de hasta 30.000 euros y la suspensión de la actividad.",
+    "El silencio administrativo tiene carácter negativo en los procedimientos de autorización.",
+    "Los inspectores de transporte tienen consideración de agentes de la autoridad."
+  ],
+  "legal_references": [
+    "Real Decreto 1597/1999",
+    "Decreto Regional 159/1999",
+    "Estatuto de Autonomía de la Región de Murcia",
+    "Ley Orgánica 15/1999 de Protección de Datos",
+    "Ley 30/1992 de Régimen Jurídico de las Administraciones Públicas"
+  ],
+  "derogations": [],
+  "main_obligations": "Los operadores deben comunicar su actividad con 15 días de antelación, mantener la documentación de seguridad y seguros al día, y respetar los precios comunicados. El incumplimiento de requisitos puede derivar en multas de hasta 30.000 euros y la paralización inmediata del servicio.",
+  "effective_date": "2009-04-01",
+  "procedures": [
+    {
+      "name": "Comunicación previa de actividad de transporte",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de comunicación",
+          "descrption": "Comunicar la voluntad de realizar la actividad a la consejería competente.",
+          "start_date": "15 días antes del inicio de la actividad",
+          "end_date": null,
+          "required_documentation": "Tipo de servicio, itinerarios/zonas, puntos de partida/llegada, memoria descriptiva, títulos de propiedad/fletamento, certificados de seguridad y relación de precios."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la Administración",
+          "descrption": "Plazo máximo para que la administración resuelva el procedimiento.",
+          "start_date": "Desde la comunicación",
+          "end_date": "6 meses",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del expediente",
+          "descrption": "Apertura del expediente tras detectar una infracción.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Notificación de resolución",
+          "descrption": "Plazo máximo para notificar la sanción definitiva.",
+          "start_date": null,
+          "end_date": "12 meses",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

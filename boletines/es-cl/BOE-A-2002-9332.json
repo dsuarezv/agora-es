@@ -1,0 +1,100 @@
+{
+  "identifier": "BOE-A-2002-9332",
+  "title": "Ley 2/2002, de 9 de abril, reguladora del Consejo de Cuentas de Castilla y León",
+  "visible_title": "Ley reguladora del Consejo de Cuentas de Castilla y León",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Castilla y León",
+  "official_number": "2/2002",
+  "publication_date": "2002-05-15",
+  "enactment_date": "2002-04-09",
+  "last_updated": "2013-07-03",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cl/l/2002/04/09/2",
+  "official_journal": "Boletín Oficial de Castilla y León",
+  "journal_issue": null,
+  "summary": "Esta ley crea y organiza el Consejo de Cuentas de Castilla y León como el órgano encargado de vigilar que el dinero público de la comunidad se gestione correctamente. Su función es realizar auditorías externas para comprobar la legalidad y regularidad de los ingresos y gastos de la administración autonómica, las entidades locales y otros organismos públicos. Además, actúa como asesor consultivo para las Cortes de la región en temas presupuestarios y contables.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que es una norma de organización institucional y control interno del Estado.",
+  "professional_impact": "Afecta a funcionarios y gestores de entidades públicas, quienes tienen la obligación de colaborar con el Consejo proporcionando toda la documentación requerida. Las empresas que reciban subvenciones o ayudas públicas también quedan sujetas a la fiscalización de estos fondos por parte del Consejo.",
+  "keywords": [
+    "Consejo de Cuentas",
+    "fiscalización externa",
+    "control de gestión",
+    "sector público",
+    "Castilla y León",
+    "auditoría",
+    "contabilidad pública"
+  ],
+  "key_points": [
+    "Creación del Consejo de Cuentas como órgano dependiente de las Cortes de Castilla y León.",
+    "Capacidad de fiscalizar la gestión económica de la administración autonómica, entidades locales y sociedades con participación pública superior al 50%.",
+    "Obligación de las entidades sujetas a control de rendir sus cuentas en un plazo de un mes tras su aprobación.",
+    "Potestad para imponer multas coercitivas a quienes no colaboren con los requerimientos de información del Consejo.",
+    "El Consejo debe elaborar un Plan Anual de fiscalizaciones que debe ser aprobado por las Cortes.",
+    "Los miembros del Consejo deben cumplir un estricto régimen de incompatibilidades para garantizar su independencia.",
+    "El Consejo tiene la facultad de emitir informes sobre la fiabilidad y exactitud de las cuentas públicas."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Castilla y León",
+    "Ley Orgánica 4/1999, de 8 de enero",
+    "Ley de la Hacienda y del Sector Público de la Comunidad de Castilla y León",
+    "Ley 7/1987, de 8 de mayo"
+  ],
+  "derogations": [],
+  "main_obligations": "Las entidades públicas y personas físicas/jurídicas que reciban subvenciones o ayudas están obligadas a proporcionar cualquier dato o documento que el Consejo solicite. El incumplimiento de este deber de colaboración puede derivar en la imposición de multas coercitivas.",
+  "effective_date": "2002-04-24",
+  "procedures": [
+    {
+      "name": "Elección de los Consejeros de Cuentas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de candidatos",
+          "description": "Los Grupos Parlamentarios presentan candidatos en proporción a su número de Procuradores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Votación en las Cortes",
+          "description": "Elección por mayoría absoluta en segunda votación o tres quintos en primera.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Ciclo de Fiscalización de Cuentas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Rendición de cuentas",
+          "description": "Las entidades deben remitir sus cuentas al Consejo en el plazo de un mes tras su aprobación.",
+          "start_date": null,
+          "end_date": "1 mes tras la aprobación de cuentas",
+          "required_documentation": "Cuentas anuales y documentación contable"
+        },
+        {
+          "step": 2,
+          "title": "Examen de cuentas",
+          "description": "El Consejo examina las cuentas recibidas según el Plan Anual.",
+          "start_date": null,
+          "end_date": "6 meses tras la recepción",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Emisión de informe",
+          "description": "El Consejo elabora el informe de fiscalización con la declaración de fiabilidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

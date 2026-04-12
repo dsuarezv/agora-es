@@ -1,0 +1,124 @@
+{
+  "identifier": "BOE-A-2018-3363",
+  "title": "Decreto-ley 1/2018, de 19 de enero, de medidas urgentes para la mejora y/o la ampliación de la red de equipamientos públicos de usos educativos, de investigación, sanitarios o sociales de la Comunidad Autónoma de las Islas Baleares",
+  "visible_title": "Medidas urgentes para la mejora y ampliación de la red de equipamientos públicos educativos, sanitarios y sociales de las Islas Baleares",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de las Illes Balears",
+  "official_number": "1/2018",
+  "publication_date": "2018-03-10",
+  "enactment_date": "2018-01-19",
+  "last_updated": "2025-12-06",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ib/dl/2018/01/19/1",
+  "official_journal": "BOCM (referenciado en BOE)",
+  "journal_issue": null,
+  "summary": "Esta norma agiliza la construcción y reforma de centros de educación, salud y servicios sociales en Baleares para responder al aumento de población. Introduce la figura de 'inversión de interés autonómico' para saltarse trámites urbanísticos lentos y simplificar licencias. También recupera la competencia de los mataderos como servicio público para proteger el sector ganadero y la sanidad.",
+  "citizen_impact": "Busca mejorar la calidad y disponibilidad de colegios, centros de salud y servicios sociales mediante una construcción más rápida. No impone nuevas obligaciones directas al ciudadano, sino que pretende reducir la saturación de los servicios públicos existentes.",
+  "professional_impact": "Las empresas constructoras y técnicos de la administración se benefician de procedimientos de comunicación previa y licencias con plazos de resolución automática (silencio administrativo positivo). Los ayuntamientos ven reducida su capacidad de control sobre proyectos declarados de interés autonómico, que pueden ejecutarse sin licencia municipal.",
+  "keywords": [
+    "equipamientos públicos",
+    "infraestructuras",
+    "urbanismo",
+    "Baleares",
+    "educación",
+    "sanidad",
+    "servicios sociales",
+    "inversión de interés autonómico",
+    "mataderos"
+  ],
+  "key_points": [
+    "Creación de la figura de 'inversión de interés autonómico' para acelerar obras de equipamientos.",
+    "Simplificación de licencias: si el ayuntamiento no responde en 45 días, la licencia se entiende concedida.",
+    "Posibilidad de cambiar usos específicos en centros públicos sin alterar otros parámetros urbanísticos.",
+    "Los terrenos para estos equipamientos se califican automáticamente como sistema general de equipamiento.",
+    "Los proyectos de interés autonómico no requieren licencia municipal para su ejecución.",
+    "Se permite la mejora de centros educativos privados concertados bajo la figura de interés autonómico.",
+    "Declaración de los mataderos como servicio de interés económico general para facilitar ayudas.",
+    "Plazo de 2 años para presentar el proyecto y 2 años para iniciar la ejecución tras la declaración de interés autonómico."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Estatuto de Autonomía de las Islas Baleares",
+    "Ley 4/2010 de Medidas Urgentes para el Impulso de la Inversión en las Islas Baleares",
+    "Ley 12/2017 de Urbanismo de las Islas Baleares",
+    "Ley 7/1985 de Bases del Régimen Local",
+    "Ley 27/2013 de Racionalización y Sostenibilidad de la Administración Local",
+    "Decreto-ley 3/2014 de medidas para la competitividad y desestacionalización turística"
+  ],
+  "derogations": [
+    "Disposición derogatoria única del Decreto-ley 8/2025, de 5 de diciembre (con efectos el 7 de diciembre de 2025)"
+  ],
+  "main_obligations": null,
+  "effective_date": "2018-03-11",
+  "procedures": [
+    {
+      "name": "Solicitud de licencia urbanística para equipamientos públicos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "La administración presenta el proyecto técnico al ayuntamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto firmado por técnico competente con contenido según Ley 12/2017"
+        },
+        {
+          "step": 2,
+          "title": "Resolución municipal",
+          "description": "El ayuntamiento debe emitir una resolución expresa.",
+          "start_date": null,
+          "end_date": "45 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Estimación por silencio",
+          "description": "Si no hay resolución en contra tras 45 días, la licencia se entiende concedida.",
+          "start_date": "Día 46",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Declaración de inversión de interés autonómico",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración del Consejo de Gobierno",
+          "description": "El Consejo de Gobierno identifica terrenos, usos y sistema de equipamiento.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Información pública",
+          "description": "Trámite de información pública del proyecto.",
+          "start_date": null,
+          "end_date": "15 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Informe municipal",
+          "description": "El ayuntamiento emite informe; si no lo hace en el plazo, se entiende favorable.",
+          "start_date": null,
+          "end_date": "15 días naturales",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Autorización del proyecto",
+          "description": "El Consejo de Gobierno autoriza el proyecto tras los pasos anteriores.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

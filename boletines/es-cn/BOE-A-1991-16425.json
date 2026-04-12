@@ -1,0 +1,95 @@
+{
+  "identifier": "BOE-A-1991-16425",
+  "title": "Ley 8/1991, de 30 de abril, de protección de los animales",
+  "visible_title": "Ley de protección de los animales",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Canarias",
+  "official_number": "8/1991",
+  "publication_date": "1991-06-26",
+  "enactment_date": "1991-04-30",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-cn/l/1991/04/30/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco de protección para animales domésticos y de compañía en Canarias. Regula las condiciones de cría, venta, transporte y mantenimiento, prohibiendo prácticas de maltrato o espectáculos cruentos. Además, define las competencias de los ayuntamientos y asociaciones para la recogida de animales abandonados y la gestión de censos.",
+  "citizen_impact": "Los dueños de mascotas deben cumplir con la obligación de censar y vacunar a sus perros, además de garantizarles condiciones de vida dignas. Se prohíbe el abandono y se establecen sanciones económicas por maltrato o falta de cuidados básicos.",
+  "professional_impact": "Los criaderos, tiendas de animales y centros de acogida deben cumplir estrictos requisitos higiénico-sanitarios y de registro. Los veterinarios tienen la obligación de mantener fichas clínicas, y los fotógrafos o cineastas deben cumplir normas específicas sobre el uso de animales en sus trabajos.",
+  "keywords": [
+    "protección animal",
+    "animales de compañía",
+    "Canarias",
+    "bienestar animal",
+    "censos de perros",
+    "maltrato animal",
+    "criaderos"
+  ],
+  "key_points": [
+    "Obligación de identificar y censar a los perros en el ayuntamiento correspondiente.",
+    "Prohibición estricta de abandonar animales domésticos.",
+    "Regulación de espectáculos: se prohíben actividades que impliquen crueldad, permitiendo peleas de gallos solo bajo condiciones muy restrictivas y en locales cerrados.",
+    "Prohibición de vender animales a menores de 16 años o personas con incapacidad psíquica.",
+    "Los ayuntamientos son responsables de la recogida de animales abandonados.",
+    "Las asociaciones de protección animal son consideradas de utilidad pública.",
+    "Se establecen multas que pueden alcanzar las 2.500.000 pesetas para infracciones muy graves."
+  ],
+  "legal_references": [
+    "Estatuto de Autonomía de Canarias",
+    "Declaración Universal de los Derechos del Animal"
+  ],
+  "derogations": [],
+  "main_obligations": "Los propietarios deben mantener a sus animales en condiciones higiénico-sanitarias adecuadas, vacunarlos y censarlos. Se prohíbe el maltrato, el abandono y el uso de animales como reclamo publicitario o para fines de lucro en espectáculos cruentos.",
+  "effective_date": null,
+  "procedures": [
+    {
+      "name": "Censo y registro de perros",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Identificación y censado",
+          "descrption": "El propietario debe censar al perro en su ayuntamiento tras el nacimiento o adquisición.",
+          "start_date": "3 meses desde el nacimiento o 1 mes desde la adquisición",
+          "end_date": null,
+          "required_documentation": "Identificación censal permanente"
+        }
+      ]
+    },
+    {
+      "name": "Recogida de animales abandonados",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Periodo de retención para localización",
+          "descrption": "Tras la recogida, se debe intentar localizar al dueño antes de proceder a cualquier otra medida.",
+          "start_date": "Día de la recogida",
+          "end_date": "10 días",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del expediente",
+          "descrption": "Los ayuntamientos instruyen los expedientes de infracciones leves y graves.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Resolución",
+          "descrption": "La resolución depende de la gravedad: Alcalde (leves), Pleno (graves) o Administración Autonómica (muy graves).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

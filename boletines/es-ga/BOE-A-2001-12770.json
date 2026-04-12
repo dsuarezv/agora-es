@@ -1,0 +1,87 @@
+{
+  "identifier": "BOE-A-2001-12770",
+  "title": "Ley 3/2001, de 28 de mayo, reguladora del consentimiento informado y de la historia clínica de los pacientes",
+  "visible_title": "Ley reguladora del consentimiento informado y de la historia clínica de los pacientes",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Galicia",
+  "official_number": "3/2001",
+  "publication_date": "2001-07-03",
+  "enactment_date": "2001-05-28",
+  "last_updated": "2005-03-21",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ga/l/2001/05/28/3",
+  "official_journal": "Diario Oficial de Galicia",
+  "journal_issue": null,
+  "summary": "Esta ley transforma la relación médico-paciente en Galicia, otorgando al paciente el control sobre sus decisiones de salud. Establece el derecho a recibir información clara y comprensible antes de cualquier intervención y regula el uso, custodia y acceso a la historia clínica. Su objetivo es garantizar la autonomía personal y la confidencialidad de los datos sanitarios tanto en centros públicos como privados.",
+  "citizen_impact": "Los ciudadanos en Galicia ganan el derecho a decidir sobre sus tratamientos tras ser informados adecuadamente y a acceder a su propia historia clínica. También permite dejar instrucciones por escrito (testamento vital) para que se respeten sus deseos si en el futuro no pueden comunicarse.",
+  "professional_impact": "Los profesionales sanitarios asumen la obligación legal de informar detalladamente al paciente y de documentar correctamente cada proceso. Los centros sanitarios deben garantizar la seguridad, confidencialidad y custodia de las historias clínicas, además de gestionar el acceso de terceros bajo estrictos criterios legales.",
+  "keywords": [
+    "consentimiento informado",
+    "historia clínica",
+    "autonomía del paciente",
+    "derechos sanitarios",
+    "Galicia",
+    "confidencialidad",
+    "instrucciones previas"
+  ],
+  "key_points": [
+    "El consentimiento debe ser libre y voluntario; por escrito en cirugías o procedimientos invasivos.",
+    "Se permite el uso de 'instrucciones previas' (testamento vital) ante notario o tres testigos.",
+    "El paciente tiene derecho a acceder a su historia clínica y obtener copias de la misma.",
+    "La historia clínica debe ser única por paciente en cada centro sanitario.",
+    "En situaciones de emergencia donde no se pueda obtener consentimiento, el médico puede actuar para salvar la vida del paciente.",
+    "Los familiares pueden decidir por un paciente incapacitado siguiendo un orden de preferencia legal.",
+    "La información médica debe ser verdadera, comprensible y evitar términos alarmistas.",
+    "La historia clínica debe conservarse indefinidamente en casos de informes de alta, consentimiento o informes quirúrgicos."
+  ],
+  "legal_references": [
+    "Ley 14/1986, de 25 de abril, General de Sanidad",
+    "Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente",
+    "Real Decreto 63/1995, de 20 de enero",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal",
+    "Ley Orgánica 3/1986, de 14 de marzo, de medidas especiales en materia de salud pública",
+    "Estatuto de Autonomía de Galicia"
+  ],
+  "derogations": [],
+  "main_obligations": "Los médicos deben garantizar el derecho a la información y obtener el consentimiento adecuado. Los centros sanitarios están obligados a custodiar la historia clínica, asegurar su confidencialidad y permitir el acceso del paciente o sus representantes legales.",
+  "effective_date": "2001-08-01",
+  "procedures": [
+    {
+      "name": "Otorgamiento de instrucciones previas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Formalización del documento",
+          "description": "Manifestar la voluntad anticipada ante Notario o ante tres testigos mayores de edad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento de instrucciones previas firmado"
+        },
+        {
+          "step": 2,
+          "title": "Incorporación a la historia clínica",
+          "description": "Entrega del documento al centro sanitario para que se integre en el registro del paciente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Acceso a la historia clínica",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de acceso",
+          "description": "El paciente o su representante acreditado solicita la documentación al centro sanitario.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Identificación y, si procede, acreditación de representación legal"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

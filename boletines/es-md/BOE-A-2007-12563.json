@@ -1,0 +1,117 @@
+{
+  "identifier": "BOE-A-2007-12563",
+  "title": "Ley 1/2007, de 21 de febrero, de Mediación Familiar de la Comunidad de Madrid",
+  "visible_title": "Ley de Mediación Familiar de la Comunidad de Madrid",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "1/2007",
+  "publication_date": "2007-06-27",
+  "enactment_date": "2007-02-21",
+  "last_updated": "2007-03-05",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2007/02/21/1",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta ley regula la mediación familiar en la Comunidad de Madrid como una alternativa pacífica para resolver conflictos entre familiares sin llegar a juicio. Establece los requisitos para que los mediadores sean profesionales cualificados y crea un Registro oficial para garantizar su idoneidad. El objetivo es facilitar acuerdos voluntarios, proteger el interés de menores y dependientes, y mejorar la comunicación en las familias.",
+  "citizen_impact": "Ofrece a las familias una vía voluntaria y confidencial para resolver disputas (divorcios, herencias, convivencia) evitando procesos judiciales largos y costosos. Permite elegir a un mediador profesional acreditado, garantizando que la persona que interviene sea neutral y esté debidamente formada.",
+  "professional_impact": "Los profesionales que deseen ejercer como mediadores familiares en Madrid deben poseer un título universitario y formación específica, además de inscribirse obligatoriamente en el Registro de Mediadores Familiares. El incumplimiento de sus deberes (como la falta de imparcialidad o la ruptura de la confidencialidad) puede acarrear sanciones que van desde amonestaciones hasta la baja definitiva del registro.",
+  "keywords": [
+    "mediación familiar",
+    "resolución de conflictos",
+    "Comunidad de Madrid",
+    "derecho de familia",
+    "registro de mediadores",
+    "acuerdos familiares"
+  ],
+  "key_points": [
+    "Creación del Registro de Mediadores Familiares para garantizar la cualificación profesional.",
+    "La mediación es un proceso estrictamente voluntario para todas las partes.",
+    "Se establece el deber de confidencialidad sobre todo lo tratado en las sesiones.",
+    "El mediador no tiene poder de decisión; su función es facilitar la comunicación.",
+    "Los procesos de mediación tienen una duración máxima de 3 meses, prorrogables por otros 3.",
+    "Protección prioritaria de los intereses de menores y personas dependientes.",
+    "Se definen infracciones específicas para mediadores, clasificadas en leves, graves y muy graves.",
+    "Los mediadores deben abstenerse si tienen un conflicto de interés personal con las partes."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 11/2003, de 27 de marzo, de Servicios Sociales de la Comunidad de Madrid",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal",
+    "Ley 8/2001, de 13 de julio, de Protección de Datos de Carácter Personal de la Comunidad de Madrid",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas y del Procedimiento Administrativo Común"
+  ],
+  "derogations": [],
+  "main_obligations": "Los mediadores deben mantener la confidencialidad y la imparcialidad, bajo riesgo de sanciones administrativas. Las partes están obligadas a actuar de buena fe y a cumplir los acuerdos alcanzados. Los mediadores deben inscribirse en el Registro oficial para ejercer legalmente.",
+  "effective_date": "2007-06-28",
+  "procedures": [
+    {
+      "name": "Procedimiento de Mediación Familiar",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Iniciación",
+          "description": "Solicitud de la mediación por ambas partes o por una con aceptación de la otra.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Designación del mediador",
+          "description": "Selección de común acuerdo de un profesional inscrito en el Registro.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Sesión inicial de información",
+          "description": "Entrevista para acordar objetivos, asuntos a tratar y planificar sesiones.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento acreditativo de lo tratado en la sesión inicial"
+        },
+        {
+          "step": 4,
+          "title": "Desarrollo de la mediación",
+          "description": "Sesiones de diálogo para la búsqueda de acuerdos.",
+          "start_date": null,
+          "end_date": "3 meses (prorrogables por otros 3 meses)",
+          "required_documentation": null
+        },
+        {
+          "step": 5,
+          "title": "Finalización",
+          "description": "Redacción de documento con acuerdos alcanzados o constancia de no acuerdo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento de acuerdos o certificado de finalización para efectos judiciales"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador para Mediadores",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Instrucción del expediente",
+          "description": "Apertura de expediente contradictorio por la Administración o el Colegio Profesional.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Imposición de sanción",
+          "description": "Resolución de la sanción (amonestación, suspensión o baja del registro).",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

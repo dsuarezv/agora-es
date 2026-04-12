@@ -1,0 +1,70 @@
+{
+  "identifier": "BOE-A-2019-15311",
+  "title": "Decreto ley 13/2019, de 10 de septiembre, de aprobación de las reglas necesarias para la autoliquidación del impuesto sobre bebidas azucaradas envasadas",
+  "visible_title": "Reglas para la autoliquidación del impuesto sobre bebidas azucaradas envasadas",
+  "rank": "decreto_ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Cataluña",
+  "official_number": "13/2019",
+  "publication_date": "2019-10-25",
+  "enactment_date": "2019-09-10",
+  "last_updated": "2019-09-13",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ct/dl/2019/09/10/13",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta norma restablece urgentemente las reglas de gestión y liquidación del impuesto sobre bebidas azucaradas en Cataluña tras la anulación judicial de su reglamento anterior. Su objetivo es evitar un vacío legal que impidiera el cobro del tributo y garantizara que las empresas supieran cómo calcular y presentar sus pagos. Define conceptos clave como qué se considera bebida envasada y establece los mecanismos para que distribuidores y fabricantes cumplan con sus obligaciones fiscales.",
+  "citizen_impact": "El impacto es indirecto, ya que el impuesto se traslada al precio final de las bebidas azucaradas en el punto de venta. El consumidor no verá un cargo separado en su ticket, sino que el coste ya estará integrado en el precio del producto.",
+  "professional_impact": "Afecta directamente a fabricantes, distribuidores y minoristas de bebidas. Las empresas deben realizar autoliquidaciones trimestrales por vía telemática, gestionar facturas con el impuesto desglosado (en el caso de distribuidores) y presentar declaraciones informativas anuales ante la Agencia Tributaria de Cataluña.",
+  "keywords": [
+    "impuesto bebidas azucaradas",
+    "autoliquidación",
+    "Cataluña",
+    "fiscalidad",
+    "bebidas envasadas",
+    "obligaciones tributarias"
+  ],
+  "key_points": [
+    "Establece que la base imponible para distribuidores es la cantidad neta de bebida vendida (ventas menos devoluciones).",
+    "Define que para bebidas con zumos o leche, el impuesto solo grava el azúcar añadido.",
+    "Para jarabes y preparados, el impuesto se calcula según el azúcar que tendría la bebida una vez preparada.",
+    "La autoliquidación debe presentarse trimestralmente entre los días 1 y 20 del mes siguiente al trimestre.",
+    "La presentación de la declaración debe realizarse obligatoriamente de forma telemática.",
+    "Los distribuidores deben incluir el impuesto de forma identificada en sus facturas a los contribuyentes.",
+    "Los contribuyentes repercuten el impuesto en el precio de venta sin necesidad de desglosarlo en el ticket de compra."
+  ],
+  "legal_references": [
+    "Ley 5/2017, de 28 de marzo",
+    "Decreto 73/2017, de 20 de junio",
+    "Estatuto de Autonomía de Cataluña",
+    "Sentencia número 588, de 28 de junio, del Tribunal Superior de Justicia de Catalunya"
+  ],
+  "derogations": [],
+  "main_obligations": "Los obligados tributarios deben presentar la autoliquidación trimestral entre los días 1 y 20 del mes siguiente al cierre del trimestre. Además, deben presentar una declaración informativa anual ante la Agencia Tributaria de Cataluña detallando sus operaciones de suministro.",
+  "effective_date": "2019-10-26",
+  "procedures": [
+    {
+      "name": "Autoliquidación del impuesto sobre bebidas azucaradas",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Periodo de liquidación",
+          "description": "Cálculo de la base imponible basada en los litros vendidos y devueltos durante el trimestre natural.",
+          "start_date": "01-01",
+          "end_date": "31-03",
+          "required_documentation": "Facturas de venta y registros de devoluciones"
+        },
+        {
+          "step": 2,
+          "title": "Presentación e ingreso",
+          "description": "Presentación telemática de la autoliquidación y pago mediante los medios de la Agencia Tributaria de Cataluña.",
+          "start_date": "01 del mes siguiente al trimestre",
+          "end_date": "20 del mes siguiente al trimestre",
+          "required_documentation": "Modelo de autoliquidación telemático"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

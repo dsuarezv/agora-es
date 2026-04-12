@@ -1,0 +1,109 @@
+{
+  "identifier": "BOE-A-2002-2333",
+  "title": "Ley 17/2001, de 14 de diciembre, de Cámaras Oficiales de Comercio e Industria de la Comunidad Autónoma de Extremadura",
+  "visible_title": "Ley de Cámaras Oficiales de Comercio e Industria de Extremadura",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de Extremadura",
+  "official_number": "17/2001",
+  "publication_date": "2002-02-06",
+  "enactment_date": "2001-12-14",
+  "last_updated": "2018-02-23",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-ex/l/2001/12/14/17",
+  "official_journal": "BOE",
+  "journal_issue": null,
+  "summary": "Esta norma establece el marco jurídico para las Cámaras de Comercio e Industria en Extremadura, definiéndolas como corporaciones de derecho público. Su objetivo es crear un sistema de colaboración estable entre estas cámaras y la Junta de Extremadura para impulsar el desarrollo económico regional. La ley regula su organización interna, su régimen electoral y sus funciones de asesoramiento, formación y promoción empresarial.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes.",
+  "professional_impact": "Afecta directamente a empresarios, autónomos y sectores industriales de Extremadura, quienes cuentan con estas cámaras como órganos de representación y apoyo técnico. Define cómo pueden participar en la gestión de las cámaras mediante procesos electorales y establece servicios de formación y asesoramiento para mejorar su competitividad.",
+  "keywords": [
+    "Cámaras de Comercio",
+    "Cámaras de Industria",
+    "Extremadura",
+    "Desarrollo económico",
+    "Empresas",
+    "Régimen electoral",
+    "Colaboración público-privada"
+  ],
+  "key_points": [
+    "Constitución de las Cámaras como corporaciones de derecho público con personalidad jurídica propia.",
+    "Creación del Consejo Extremeño de Cámaras para coordinar la actuación regional y la relación con la Junta.",
+    "Establecimiento de un régimen electoral para garantizar la representación de los distintos sectores económicos.",
+    "Obligatoriedad de elaborar una memoria anual de actividades y una memoria económica de la circunscripción.",
+    "Definición de funciones de apoyo a la exportación y formación profesional para las empresas.",
+    "Exigencia de que el Secretario General sea Licenciado en Derecho con al menos cinco años de experiencia.",
+    "Necesidad de aprobación de la Administración para operaciones económicas especiales o deudas significativas."
+  ],
+  "legal_references": [
+    "Ley 3/1993, de 22 de marzo, Básica de las Cámaras Oficiales de Comercio, Industria y Navegación",
+    "Estatuto de Autonomía de la Comunidad Autónoma de Extremadura",
+    "Ley 30/1992, de 26 de diciembre, de Régimen Jurídico de las Administraciones Públicas"
+  ],
+  "derogations": [
+    "Ley 17/2001 (derogada por la Ley 3/2018, de 21 de febrero)"
+  ],
+  "main_obligations": "Las Cámaras deben remitir a la Junta de Extremadura una copia de sus acuerdos de gobierno en un plazo de 10 días y presentar sus presupuestos para aprobación antes del 31 de octubre de cada año.",
+  "effective_date": "2002-02-26",
+  "procedures": [
+    {
+      "name": "Proceso Electoral de las Cámaras",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Convocatoria",
+          "description": "La Consejería de Comercio convoca las elecciones para renovar los Plenos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Exposición del Censo",
+          "description": "Las Cámaras exponen el censo electoral para que los interesados puedan revisarlo.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Reclamaciones sobre el censo",
+          "description": "Plazo para presentar reclamaciones sobre la inclusión o exclusión de empresas en grupos específicos.",
+          "start_date": "Desde la exposición del censo",
+          "end_date": "Plazo reglamentario",
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Constitución del Pleno",
+          "description": "Los miembros electos toman posesión de sus cargos en sesión celebrada en la sede de la Cámara.",
+          "start_date": "Dentro del mes siguiente a la elección",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Aprobación de Presupuestos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Elaboración y aprobación interna",
+          "description": "El Comité Ejecutivo elabora el proyecto y el Pleno lo aprueba.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Sometimiento a la Administración",
+          "description": "Los presupuestos deben enviarse a la Administración tutelante para su aprobación.",
+          "start_date": null,
+          "end_date": "31 de octubre",
+          "required_documentation": "Memoria explicativa, programa de actuación e inversiones y estado de ejecución"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

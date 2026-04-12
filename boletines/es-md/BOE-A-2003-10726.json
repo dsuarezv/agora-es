@@ -1,0 +1,81 @@
+{
+  "identifier": "BOE-A-2003-10726",
+  "title": "Ley 6/2003, de 20 de marzo, del Impuesto sobre Depósito de Residuos",
+  "visible_title": "Impuesto sobre Depósito de Residuos",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad de Madrid",
+  "official_number": "6/2003",
+  "publication_date": "2003-05-29",
+  "enactment_date": "2003-03-20",
+  "last_updated": "2021-12-28",
+  "status": "derogated",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-md/l/2003/03/20/6",
+  "official_journal": "Boletín Oficial de la Comunidad de Madrid",
+  "journal_issue": null,
+  "summary": "Esta norma establece un impuesto en la Comunidad de Madrid para penalizar económicamente el depósito de residuos en tierra. Su objetivo principal es desincentivar el uso de vertederos y fomentar prácticas más sostenibles como el reciclaje y la valorización de materiales. Funciona bajo el principio de 'quien contamina paga', gravando tanto la entrega en vertederos como el abandono ilegal de basura.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo que se trate de propietarios de terrenos que deban vigilar que no se abandonen residuos en sus propiedades para evitar responsabilidades solidarias.",
+  "professional_impact": "Afecta directamente a empresas gestoras de residuos, titulares de vertederos y profesionales de la construcción. Las empresas deben declarar el peso/volumen de los residuos, los vertederos deben instalar sistemas de pesaje y los responsables de residuos deben soportar el coste del impuesto repercutido.",
+  "keywords": [
+    "impuesto",
+    "residuos",
+    "vertederos",
+    "medio ambiente",
+    "reciclaje",
+    "Comunidad de Madrid",
+    "gestión de residuos"
+  ],
+  "key_points": [
+    "Grava el depósito de residuos en vertederos y el abandono de basura en lugares no autorizados.",
+    "Establece tipos impositivos diferenciados: 8€/tonelada para residuos peligrosos, 5€/tonelada para no peligrosos y 1€/m³ para construcción.",
+    "Los titulares de vertederos actúan como sustitutos del contribuyente, obligándose a recaudar y repercutir el impuesto.",
+    "Los propietarios de terrenos donde se abandonen residuos pueden ser responsables solidarios del pago.",
+    "Se exime del impuesto el depósito de residuos para procesos de reciclaje o reutilización, siempre que se respeten los plazos legales.",
+    "Los residuos urbanos gestionados por administraciones públicas están exentos."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 230/1963, de 28 de diciembre, General Tributaria",
+    "Directiva 91/156/CE",
+    "Estatuto de Autonomía de la Comunidad de Madrid",
+    "Ley de Residuos de la Comunidad de Madrid"
+  ],
+  "derogations": [
+    "Ley 6/2003 (derogada por la Ley 3/2021, de 22 de diciembre)"
+  ],
+  "main_obligations": "Los contribuyentes deben declarar el peso o volumen de los residuos antes de su depósito. Los gestores de vertederos tienen la obligación de instalar sistemas de pesaje y presentar declaraciones de autoliquidación periódicas.",
+  "effective_date": "2003-05-30",
+  "procedures": [
+    {
+      "name": "Gestión del Impuesto sobre Depósito de Residuos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Declaración de volumen/peso",
+          "description": "El contribuyente debe declarar la cantidad de residuos antes de entregarlos en el vertedero.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Datos de peso o volumen"
+        },
+        {
+          "step": 2,
+          "title": "Presentación de declaración y autoliquidación",
+          "description": "El sustituto (gestor del vertedero) presenta la declaración y paga la cuota resultante.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Declaración de impuesto"
+        },
+        {
+          "step": 3,
+          "title": "Reclamación económica-administrativa",
+          "description": "Procedimiento para impugnar actos de la administración o de repercusión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

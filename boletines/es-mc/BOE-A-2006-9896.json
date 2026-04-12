@@ -1,0 +1,126 @@
+{
+  "identifier": "BOE-A-2006-9896",
+  "title": "Ley 8/2005, de 14 de diciembre, para la calidad en la Edificación de la Región de Murcia",
+  "visible_title": "Ley para la calidad en la Edificación de la Región de Murcia",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma de la Región de Murcia",
+  "official_number": "8/2005",
+  "publication_date": "2006-06-05",
+  "enactment_date": "2005-12-14",
+  "last_updated": "2015-03-27",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-mc/l/2005/12/14/8",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece un marco integral para garantizar que las construcciones en la Región de Murcia cumplan con estándares superiores de seguridad, funcionalidad y habitabilidad. Busca reducir defectos constructivos mediante la obligación de documentar todo el proceso técnico y la responsabilidad de cada agente implicado. Introduce herramientas como el Libro del Edificio para asegurar que el mantenimiento sea correcto durante toda la vida útil de la obra.",
+  "citizen_impact": "Los ciudadanos que compren o habiten una vivienda en Murcia obtienen mayores garantías sobre la calidad de lo que adquieren. Tienen derecho a recibir el 'Libro del Edificio' con instrucciones claras de uso y mantenimiento para evitar deterioros y asegurar la seguridad de su hogar.",
+  "professional_impact": "Impone nuevas obligaciones documentales y de control a promotores, arquitectos, constructores y administradores de fincas. Las empresas deben implementar planes de control de calidad y pueden enfrentarse a sanciones económicas significativas o inhabilitaciones si no cumplen con las normas técnicas o la entrega de documentación.",
+  "keywords": [
+    "edificación",
+    "calidad constructiva",
+    "Libro del Edificio",
+    "Región de Murcia",
+    "mantenimiento de edificios",
+    "seguridad estructural",
+    "habitabilidad"
+  ],
+  "key_points": [
+    "Creación del Libro del Edificio como documento obligatorio que recoge todo el historial técnico y de mantenimiento.",
+    "Obligatoriedad de entregar la 'Carpeta de la Calidad' y la 'Carpeta de Uso, Mantenimiento y Emergencia'.",
+    "Definición de un 'Perfil de Calidad' que permite ir más allá de los mínimos legales exigidos por la LOE.",
+    "Responsabilidad directa de los agentes (promotor, constructor, proyectista, etc.) en la gestión de la calidad.",
+    "Establecimiento de un régimen sancionador con multas de hasta 30.000 euros para infracciones muy graves.",
+    "Obligación del promotor de contratar controles de recepción de forma independiente.",
+    "Introducción de la figura del Consejo Asesor para la Calidad en la Edificación."
+  ],
+  "legal_references": [
+    "Ley 38/1999, de 5 de noviembre, de Ordenación de la Edificación",
+    "Constitución Española (artículos 47 y 51)",
+    "Directiva Europea 89/106/CEE",
+    "Real Decreto 1630/1992",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas"
+  ],
+  "derogations": [
+    "Orden de 24 de febrero de 1992 (acreditación de laboratorios de hormigón)",
+    "Decreto 1/1993 (Laboratorio Regional de Calidad)",
+    "Orden de 23 de octubre de 2001 (Guía de Estudios Geotécnicos)",
+    "Decreto 80/2001 (Libro del Edificio en Murcia)",
+    "Orden de 14 de febrero de 2002 (Modelo Libro del Edificio)",
+    "Decreto 89/2002 (Acreditación de entidades de control de calidad)",
+    "Orden de 17 de julio de 2002 (Condiciones técnicas de acreditación)",
+    "Orden de 27 de septiembre de 2004 (Banco de Precios)"
+  ],
+  "main_obligations": "Los agentes deben cumplir con la transmisión documental obligatoria (Libro del Edificio) y los planes de control de calidad. El incumplimiento de normas técnicas o la falta de mantenimiento puede acarrear multas de hasta 30.000 euros y la paralización de obras.",
+  "effective_date": "2006-12-05",
+  "procedures": [
+    {
+      "name": "Gestión de la Calidad en la Edificación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Planificación de la Promoción",
+          "description": "El promotor fija el perfil de calidad, la vida útil y los objetivos de la obra.",
+          "start_date": "Inicio de la promoción",
+          "end_date": null,
+          "required_documentation": "Planificación documentada y objetivos de calidad"
+        },
+        {
+          "step": 2,
+          "title": "Elaboración del Proyecto",
+          "description": "El proyectista redacta el proyecto incluyendo el Plan de Control de Calidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Proyecto, Plan de Control de Calidad y estudios geotécnicos"
+        },
+        {
+          "step": 3,
+          "title": "Ejecución y Control de Obra",
+          "description": "El constructor implementa el Plan para el Aseguramiento de la Calidad y se realizan ensayos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Programa de Control de Calidad, Carpetas de Calidad y resultados de ensayos"
+        },
+        {
+          "step": 4,
+          "title": "Entrega del Libro del Edificio",
+          "description": "El promotor entrega al adquiriente la documentación técnica y de mantenimiento.",
+          "start_date": "Finalización de la obra",
+          "end_date": null,
+          "required_documentation": "Libro del Edificio (Carpeta de Calidad + Carpeta de Uso y Mantenimiento)"
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento Sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Apertura de Expediente",
+          "description": "Inicio del procedimiento ante infracciones graves o muy graves.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Medidas Cautelares",
+          "description": "Posible paralización de la obra o precinto de equipos si hay riesgo.",
+          "start_date": "Durante el expediente",
+          "end_date": "Hasta la subsanación",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Imposición de multa o inhabilitación según la gravedad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

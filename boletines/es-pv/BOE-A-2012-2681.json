@@ -1,0 +1,103 @@
+{
+  "identifier": "BOE-A-2012-2681",
+  "title": "Ley 4/1991, de 8 de noviembre, reguladora del juego en la Comunidad Autónoma del País Vasco",
+  "visible_title": "Ley reguladora del juego en el País Vasco",
+  "rank": "ley",
+  "country": "es",
+  "department": "Comunidad Autónoma del País Vasco",
+  "official_number": "4/1991",
+  "publication_date": "2012-02-24",
+  "enactment_date": "1991-11-08",
+  "last_updated": "2012-04-30",
+  "status": "in_force",
+  "scope": "Autonómico",
+  "source": "https://www.boe.es/eli/es-pv/l/1991/11/08/4",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": null,
+  "summary": "Esta ley establece el marco legal para controlar y supervisar todas las actividades de juego y apuestas en el País Vasco. Su objetivo es garantizar la seguridad jurídica, prevenir el fraude y proteger a menores y personas vulnerables mediante un sistema de autorizaciones y un catálogo oficial de juegos. Además, crea órganos de control como el Consejo Vasco de Juego y el Registro Central del Juego para centralizar la gestión administrativa.",
+  "citizen_impact": "Protege a los ciudadanos mediante la prohibición de acceso a menores de edad y personas con capacidades volitivas reducidas a locales de juego. También garantiza la transparencia en sorteos y combinaciones aleatorias con fines publicitarios, asegurando que los premios existan realmente.",
+  "professional_impact": "Las empresas del sector deben obtener autorizaciones administrativas previas, inscribirse en el Registro Central del Juego y cumplir con estrictos requisitos de capital y solvencia. Los establecimientos de hostelería tienen límites estrictos en la cantidad y tipo de máquinas que pueden instalar, y el personal especializado debe poseer un documento profesional expedido por el Departamento de Interior.",
+  "keywords": [
+    "juego de azar",
+    "apuestas",
+    "casinos",
+    "bingo",
+    "máquinas recreativas",
+    "autorización administrativa",
+    "País Vasco",
+    "control de juego"
+  ],
+  "key_points": [
+    "Obligatoriedad de autorización administrativa previa para cualquier explotación de juego.",
+    "Creación de un Catálogo de Juegos oficial gestionado por el Consejo de Gobierno.",
+    "Prohibición absoluta de participación de menores de edad y personas con incapacidad legal.",
+    "Establecimiento de límites de aforo para salas de bingo y casinos.",
+    "Clasificación de máquinas de juego en tipos AR (redención), B (con premio) y C (azar).",
+    "Creación de la Unidad de Juego y Espectáculos de la Ertzaintza para la inspección.",
+    "Régimen sancionador con multas que pueden alcanzar los 100 millones de pesetas (ajustables).",
+    "Exigencia de inscripción en el Registro Central del Juego para operar legalmente."
+  ],
+  "legal_references": [
+    "Estatuto de Gernika (artículo 10.35)",
+    "Ley de Tasas y Precios Públicos de la Comunidad Autónoma del País Vasco",
+    "Ley de Procedimiento Administrativo"
+  ],
+  "derogations": [
+    "Todas las normas que se opongan a lo dispuesto en esta Ley"
+  ],
+  "main_obligations": "Las empresas deben obtener autorizaciones previas e inscribirse en el Registro Central del Juego. Se prohíbe el juego a menores y se sanciona gravemente la manipulación de juegos, el impago de premios o la explotación sin licencia.",
+  "effective_date": "1991-11-09",
+  "procedures": [
+    {
+      "name": "Concesión de autorizaciones para la explotación de juegos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Presentación de la solicitud ante el Departamento de Interior para obtener el permiso de explotación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación que acredite el cumplimiento de requisitos legales y solvencia."
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y resolución",
+          "description": "Tramitación del expediente por parte de la administración para decidir sobre la concesión.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento sancionador",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Incoación del expediente",
+          "description": "Inicio del procedimiento por parte del Director de Juego y Espectáculos.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Práctica de prueba (infracciones leves)",
+          "description": "Plazo para realizar las pruebas necesarias en el procedimiento.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Dictado de la resolución final que impone la sanción o archiva el expediente.",
+          "start_date": null,
+          "end_date": "2 meses (para infracciones leves)",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}
