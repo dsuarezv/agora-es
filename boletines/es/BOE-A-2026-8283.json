@@ -1,0 +1,84 @@
+{
+  "identifier": "BOE-A-2026-8283",
+  "title": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en materia de transporte",
+  "visible_title": "Medidas urgentes para el sector del transporte por la crisis energética",
+  "rank": "real_decreto_ley",
+  "country": "es",
+  "department": "Ministerio de Transportes y Movilidad Sostenible",
+  "official_number": "9/2026",
+  "publication_date": "2026-04-15",
+  "enactment_date": "2026-04-14",
+  "last_updated": "2026-04-15",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rdl/2026/04/14/9",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "92",
+  "summary": "Esta norma responde a la subida drástica de los precios del combustible causada por el conflicto en Oriente Medio. Establece una fórmula automática y obligatoria para que las empresas de transporte por carretera puedan actualizar sus precios según el coste del gasóleo, evitando la necesidad de leyes temporales cada vez que suba el combustible. Además, otorga ayudas directas de 3,15 millones de euros a las empresas de transporte ferroviario de mercancías para compensar sus costes energéticos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo una posible estabilización de los precios de los servicios de transporte y logística.",
+  "professional_impact": "Las empresas de transporte por carretera ahora tienen la obligación legal de desglosar la revisión del precio del combustible en sus facturas y cuentan con una fórmula dinámica para proteger su rentabilidad. Las empresas ferroviarias de mercancías con locomotoras diésel pueden solicitar ayudas directas de hasta 15.000 € por locomotora. Se introducen nuevas sanciones para quienes no cumplan con la revisión obligatoria de precios.",
+  "keywords": [
+    "transporte de mercancías",
+    "gasóleo",
+    "revisión de precios",
+    "ayudas ferroviarias",
+    "crisis energética",
+    "transporte por carretera",
+    "contrato de transporte"
+  ],
+  "key_points": [
+    "Creación de una fórmula de revisión de precios de transporte automática y dinámica ante la volatilidad del gasóleo.",
+    "Obligatoriedad de reflejar el ajuste del precio del combustible de forma desglosada en la factura.",
+    "Concesión de ayudas directas a empresas ferroviarias de mercancías (hasta 15.000 € por locomotora diésel).",
+    "Inclusión de los taxis adaptados (eurotaxis) en el régimen de ayudas por combustible.",
+    "Ampliación de ayudas al transporte marítimo regular para incluir servicios de carga pura entre la península y archipiélagos.",
+    "Introducción de nuevas infracciones y sanciones para garantizar que se aplique la revisión de precios pactada.",
+    "Aprobación de un crédito extraordinario de 3.150.000 euros para financiar las ayudas al sector ferroviario."
+  ],
+  "legal_references": [
+    "Real Decreto-ley 7/2026, de 20 de marzo",
+    "Ley 38/1992, de 28 de diciembre, de Impuestos Especiales",
+    "Ley 15/2009, de 11 de noviembre, del contrato de transporte terrestre de mercancías",
+    "Orden FOM/1882/2012, de 1 de agosto",
+    "Real Decreto-ley 11/2022, de 25 de junio",
+    "Real Decreto-ley 20/2022, de 27 de diciembre",
+    "Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres",
+    "Real Decreto 10/2025, de 14 de enero",
+    "Directiva (UE) 2016/797"
+  ],
+  "derogations": [],
+  "main_obligations": "Las empresas de transporte por carretera deben aplicar la revisión de precios del combustible de forma obligatoria y desglosada en factura. El incumplimiento de esta revisión conlleva nuevas infracciones según la Ley 16/1987.",
+  "effective_date": "2026-04-16",
+  "procedures": [
+    {
+      "name": "Solicitud de ayudas para empresas ferroviarias",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Actualización en el Registro Europeo de Vehículos",
+          "descrption": "Las empresas deben actualizar su condición de poseedores de locomotoras diésel ante la AESF.",
+          "start_date": "2026-04-16",
+          "end_date": "15 días hábiles tras la entrada en vigor",
+          "required_documentation": "Datos de inscripción en el Registro Europeo de Vehículos"
+        },
+        {
+          "step": 2,
+          "title": "Presentación de la solicitud de ayuda",
+          "descrption": "Presentación de la solicitud de ayuda económica a través de la Sede Electrónica del Ministerio.",
+          "start_date": "2026-04-16",
+          "end_date": "30 días desde la entrada en vigor",
+          "required_documentation": "Formulario oficial y cuenta bancaria para el abono"
+        },
+        {
+          "step": 3,
+          "title": "Liquidación de la ayuda",
+          "descrption": "El órgano gestor procede a la liquidación y notificación de la cuantía correspondiente.",
+          "start_date": "20 días hábiles tras la recepción del fichero de la AESF",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}
