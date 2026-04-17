@@ -1,0 +1,154 @@
+{
+  "identifier": "BOE-A-2006-13371",
+  "title": "Real Decreto 887/2006, de 21 de julio, por el que se aprueba el Reglamento de la Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+  "visible_title": "Reglamento de la Ley General de Subvenciones",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de Economía y Hacienda",
+  "official_number": "887/2006",
+  "publication_date": "2006-07-25",
+  "enactment_date": "2006-07-21",
+  "last_updated": "2026-04-16",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2006/07/21/887",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "176",
+  "summary": "Este reglamento establece las reglas de juego para la gestión de las ayudas públicas en España. Define cómo se deben solicitar, conceder, justificar y controlar las subvenciones para que el proceso sea transparente y eficiente. Además, busca unificar criterios entre distintas administraciones y reducir la carga burocrática mediante nuevas formas de justificación.",
+  "citizen_impact": "Facilita el acceso a ayudas públicas al simplificar trámites, como el uso de declaraciones responsables en lugar de certificados para becas o ayudas pequeñas. También garantiza que el ciudadano sepa exactamente qué debe hacer para no perder su ayuda y cómo debe publicitar su uso.",
+  "professional_impact": "Las empresas y autónomos deben conocer las diversas modalidades de justificación (por módulos, estados contables o auditoría) para elegir la más eficiente. Los funcionarios y gestores públicos tienen ahora un marco claro para la creación de planes estratégicos y el uso de la Base de Datos Nacional de Subvenciones.",
+  "keywords": [
+    "subvenciones",
+    "ayudas públicas",
+    "justificación de gastos",
+    "concurrencia competitiva",
+    "reintegro",
+    "procedimiento administrativo",
+    "control financiero"
+  ],
+  "key_points": [
+    "Introducción de la justificación por módulos para actividades medibles en unidades físicas.",
+    "Uso de la declaración responsable para sustituir certificados en subvenciones de menos de 3.000 euros o becas.",
+    "Creación de la Junta Consultiva de Subvenciones para unificar criterios interpretativos.",
+    "Implementación de la Base de Datos Nacional de Subvenciones para mejorar el control y la transparencia.",
+    "Posibilidad de tramitación anticipada de convocatorias para agilizar la ejecución presupuestaria.",
+    "Regulación de la subcontratación, limitándola al 50% del importe si no se especifica lo contrario.",
+    "Establecimiento de nuevos regímenes de garantías para pagos anticipados y entregas dinerarias."
+  ],
+  "legal_references": [
+    "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
+    "Ley 30/1992, de 26 de noviembre, de Régimen Jurídico de las Administraciones Públicas",
+    "Ley 47/2003, de 26 de noviembre, General Presupuestaria",
+    "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común",
+    "Real Decreto 161/1997, de 7 de febrero, Reglamento de la Caja General de Depósitos"
+  ],
+  "derogations": [
+    "Decreto 2784/1964",
+    "Real Decreto 2225/1993",
+    "Real Decreto 2188/1995 (artículo 46)",
+    "Orden de 28 de abril de 1986 (Hacienda)",
+    "Orden de 25 de noviembre de 1987 (Hacienda)",
+    "Orden de 13 de enero de 2000",
+    "Resolución de 28 de abril de 1986"
+  ],
+  "main_obligations": "Los beneficiarios deben cumplir con sus obligaciones tributarias y de la Seguridad Social, presentar la justificación en los plazos establecidos y adoptar las medidas de publicidad de la ayuda. El incumplimiento puede derivar en el reintegro de los fondos y sanciones administrativas.",
+  "effective_date": "2006-10-25",
+  "procedures": [
+    {
+      "name": "Concesión de subvenciones en régimen de concurrencia competitiva",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Publicación de la convocatoria",
+          "description": "Anuncio de la disponibilidad de fondos y las bases reguladoras.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de solicitudes",
+          "description": "Los interesados presentan sus proyectos y documentación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación acreditativa de personalidad y requisitos"
+        },
+        {
+          "step": 3,
+          "title": "Tramitación y valoración",
+          "description": "La administración evalúa las solicitudes según los criterios de puntuación.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 4,
+          "title": "Resolución de concesión",
+          "description": "Acto administrativo que otorga la subvención o desestima la solicitud.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Justificación de la subvención",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Ejecución de la actividad",
+          "description": "Realización de las tareas para las que se recibió la ayuda.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Presentación de la cuenta justificativa",
+          "description": "Entrega de la memoria de actuación y económica en el plazo fijado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Memoria de actuación, relación de gastos, facturas o justificantes"
+        },
+        {
+          "step": 3,
+          "title": "Comprobación administrativa",
+          "description": "La administración revisa la documentación presentada.",
+          "start_date": null,
+          "end_date": "4 años (para revisión de facturas)",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de reintegro",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inicio del procedimiento",
+          "description": "Notificación de la causa del reintegro y las obligaciones incumplidas.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Trámite de alegaciones",
+          "description": "El interesado dispone de un plazo para defenderse.",
+          "start_date": null,
+          "end_date": "15 días",
+          "required_documentation": "Documentos de descargo"
+        },
+        {
+          "step": 3,
+          "title": "Resolución final",
+          "description": "Decisión definitiva sobre la obligación de devolver el dinero e intereses.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}
