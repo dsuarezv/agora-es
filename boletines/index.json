@@ -1,5 +1,28 @@
 [
   {
+    "identifier": "BOE-A-1977-27160",
+    "title": "Real Decreto 2829/1977, de 6 de octubre por el que se regulan las sustancias y preparados medicinales psicotrópicos, así como la fiscalización e inspección de su fabricación, distribución, prescripción y dispensación",
+    "visible_title": "Regulación de sustancias y preparados medicinales psicotrópicos",
+    "rank": "real_decreto",
+    "department": "Ministerio de Sanidad y Seguridad Social",
+    "keywords": [
+      "sustancias psicotrópicas",
+      "control farmacéutico",
+      "prescripción médica",
+      "dispensación",
+      "fiscalización",
+      "salud pública",
+      "libros de contabilidad"
+    ],
+    "publication_date": "1977-11-16",
+    "last_updated": null,
+    "status": "in_force",
+    "scope": "Estatal",
+    "summary": "Esta norma establece un control estricto sobre toda la cadena de suministro de sustancias psicotrópicas, desde su fabricación hasta su venta al público. Su objetivo es prevenir el uso indebido de estas sustancias y proteger la salud pública mediante la vigilancia de su distribución y prescripción. Para ello, impone registros obligatorios, libros de contabilidad y requisitos específicos de etiquetado y receta médica.",
+    "citizen_impact": "Garantiza que los medicamentos con efectos psicotrópicos se administren de forma segura y controlada, evitando el acceso sin supervisión médica. Los ciudadanos deben presentar receta médica para obtener estos fármacos, la cual tiene límites de duración y cantidad para evitar la dependencia.",
+    "url": "es/BOE-A-1977-27160.json"
+  },
+  {
     "identifier": "BOE-A-1980-11021",
     "title": "Real Decreto 1025/1980, de 19 de mayo, por el que se crea la Medalla al Mérito en la Investigación y en la Educación Universitaria",
     "visible_title": "Medalla al Mérito en la Investigación y en la Educación Universitaria",
@@ -14,7 +37,7 @@
       "universidades"
     ],
     "publication_date": "1980-05-29",
-    "last_updated": "2026-04-16",
+    "last_updated": null,
     "status": "in_force",
     "scope": "Estatal",
     "summary": "Este Real Decreto establece la creación de un reconocimiento honorífico para premiar la excelencia en el ámbito académico. La Medalla al Mérito busca distinguir a personas o entidades que hayan realizado aportaciones excepcionales al desarrollo de la investigación científica y la educación universitaria en España.",
@@ -32,11 +55,10 @@
       "investigación",
       "educación universitaria",
       "condecoración",
-      "diseño de medallas",
-      "reconocimiento académico"
+      "diseño de medalla"
     ],
     "publication_date": "1980-08-28",
-    "last_updated": "2026-04-16",
+    "last_updated": null,
     "status": "in_force",
     "scope": "Estatal",
     "summary": "Esta norma establece el diseño físico, las medidas y los materiales de la Medalla al Mérito en la Investigación y en la Educación Universitaria. Define cómo debe ser la pieza de oro, su cinta verde con lista blanca y las opciones para su uso (medalla, placa o botón). El objetivo es dar cumplimiento técnico al Decreto 1025/1980 que creó esta condecoración para premiar la excelencia académica y científica.",
@@ -67,6 +89,52 @@
     "url": "es/BOE-A-2000-544.json"
   },
   {
+    "identifier": "BOE-A-2002-22807",
+    "title": "Ley 44/2002, de 22 de noviembre, de Medidas de Reforma del Sistema Financiero",
+    "visible_title": "Ley de Medidas de Reforma del Sistema Financiero",
+    "rank": "ley",
+    "department": "Jefatura del Estado",
+    "keywords": [
+      "sistema financiero",
+      "mercado de valores",
+      "protección al consumidor",
+      "entidades de crédito",
+      "seguros",
+      "transparencia",
+      "riesgo de crédito"
+    ],
+    "publication_date": "2002-11-23",
+    "last_updated": null,
+    "status": "in_force",
+    "scope": "Estatal",
+    "summary": "Esta ley moderniza el sistema financiero español para hacerlo más competitivo frente a la integración europea. Busca aumentar la eficiencia de los mercados de valores, crédito y seguros, facilitando la canalización del ahorro hacia las empresas. Además, refuerza la protección de los consumidores financieros y regula la gestión de riesgos y la contratación electrónica.",
+    "citizen_impact": "Mejora la protección de los usuarios de servicios financieros al obligar a las entidades a tener departamentos de atención al cliente y defensores de la clientela. También facilita la resolución de quejas y reclamaciones ante entidades y organismos supervisores.",
+    "url": "es/BOE-A-2002-22807.json"
+  },
+  {
+    "identifier": "BOE-A-2003-10715",
+    "title": "Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud",
+    "visible_title": "Ley de cohesión y calidad del Sistema Nacional de Salud",
+    "rank": "ley",
+    "department": "Ministerio de Sanidad y Consumo",
+    "keywords": [
+      "Sistema Nacional de Salud",
+      "cohesión sanitaria",
+      "calidad asistencial",
+      "equidad en salud",
+      "prestaciones sanitarias",
+      "coordinación autonómica",
+      "salud pública"
+    ],
+    "publication_date": "2003-05-29",
+    "last_updated": null,
+    "status": "in_force",
+    "scope": "Estatal",
+    "summary": "Esta ley establece las reglas para que el Estado y las Comunidades Autónomas trabajen juntos en sanidad, evitando que la calidad de la atención dependa de dónde vivas. Define qué servicios básicos deben ofrecerse en todo el país y crea organismos para coordinar la investigación, la información sanitaria y la calidad asistencial. Su objetivo es asegurar que el sistema sea equitativo, de alta calidad y permita la participación de los ciudadanos.",
+    "citizen_impact": "Garantiza que tengas los mismos derechos sanitarios básicos sin importar si te desplazas de una comunidad autónoma a otra. Te otorga derechos específicos como solicitar una segunda opinión médica y recibir atención en tiempos máximos establecidos. Además, regula el uso de la tarjeta sanitaria como tu llave de acceso al sistema.",
+    "url": "es/BOE-A-2003-10715.json"
+  },
+  {
     "identifier": "BOE-A-2003-20977",
     "title": "Ley 38/2003, de 17 de noviembre, General de Subvenciones",
     "visible_title": "Ley General de Subvenciones",
@@ -82,11 +150,11 @@
       "concurrencia competitiva"
     ],
     "publication_date": "2003-11-18",
-    "last_updated": "2026-04-16",
+    "last_updated": null,
     "status": "in_force",
     "scope": "Estatal",
     "summary": "Esta ley establece el marco jurídico común para todas las subvenciones otorgadas por las Administraciones Públicas en España. Su objetivo es garantizar la transparencia, la igualdad de acceso y la eficiencia en el uso del dinero público. Introduce mecanismos de control financiero y un régimen de sanciones para evitar el fraude y asegurar que los fondos cumplan los objetivos sociales o económicos previstos.",
-    "citizen_impact": "Permite a los ciudadanos y empresas conocer con mayor transparencia qué ayudas públicas se conceden mediante la Base de Datos Nacional de Subvenciones. También establece que, para recibir ayudas, se debe cumplir estrictamente con la finalidad para la que se otorgaron, bajo riesgo de tener que devolver el dinero.",
+    "citizen_impact": "Permite a los ciudadanos y entidades conocer con mayor transparencia qué ayudas públicas se conceden mediante la Base de Datos Nacional de Subvenciones. También establece que, si se recibe una ayuda, se debe cumplir estrictamente con lo prometido para evitar tener que devolver el dinero.",
     "url": "es/BOE-A-2003-20977.json"
   },
   {
@@ -98,19 +166,43 @@
     "keywords": [
       "subvenciones",
       "ayudas públicas",
-      "justificación de gastos",
+      "justificación de subvenciones",
       "concurrencia competitiva",
       "reintegro",
-      "procedimiento administrativo",
+      "administración pública",
       "control financiero"
     ],
     "publication_date": "2006-07-25",
     "last_updated": "2026-04-16",
     "status": "in_force",
     "scope": "Estatal",
-    "summary": "Este reglamento establece las reglas de juego para la gestión de las ayudas públicas en España. Define cómo se deben solicitar, conceder, justificar y controlar las subvenciones para que el proceso sea transparente y eficiente. Además, busca unificar criterios entre distintas administraciones y reducir la carga burocrática mediante nuevas formas de justificación.",
-    "citizen_impact": "Facilita el acceso a ayudas públicas al simplificar trámites, como el uso de declaraciones responsables en lugar de certificados para becas o ayudas pequeñas. También garantiza que el ciudadano sepa exactamente qué debe hacer para no perder su ayuda y cómo debe publicitar su uso.",
+    "summary": "Este reglamento establece las reglas de juego para la gestión de las ayudas públicas en España. Define cómo se deben solicitar, conceder, justificar y controlar las subvenciones para que el proceso sea transparente y eficiente. Además, busca unificar criterios entre distintas administraciones y reducir la carga burocrática mediante la simplificación de trámites.",
+    "citizen_impact": "Facilita el acceso a ayudas públicas al permitir que, en muchos casos, se use una declaración responsable en lugar de presentar certificados oficiales. También mejora la transparencia al centralizar la información en una base de datos nacional.",
     "url": "es/BOE-A-2006-13371.json"
+  },
+  {
+    "identifier": "BOE-A-2006-16212",
+    "title": "Real Decreto 1030/2006, de 15 de septiembre, por el que se establece la cartera de servicios comunes del Sistema Nacional de Salud y el procedimiento para su actualización",
+    "visible_title": "Cartera de servicios comunes del Sistema Nacional de Salud",
+    "rank": "real_decreto",
+    "department": "Ministerio de Sanidad y Consumo",
+    "keywords": [
+      "Sistema Nacional de Salud",
+      "cartera de servicios",
+      "atención primaria",
+      "atención especializada",
+      "salud pública",
+      "prestación farmacéutica",
+      "ortoprótesis",
+      "transporte sanitario"
+    ],
+    "publication_date": "2006-09-16",
+    "last_updated": null,
+    "status": "in_force",
+    "scope": "Estatal",
+    "summary": "Esta norma define exactamente qué servicios médicos, medicamentos, productos sanitarios y ayudas de transporte tiene derecho a recibir cualquier ciudadano a través del Sistema Nacional de Salud. Su objetivo es garantizar que, sin importar en qué parte de España te encuentres, recibas la misma calidad de atención básica. Además, establece un método científico y riguroso para decidir cuándo se debe añadir una nueva tecnología o tratamiento al catálogo público.",
+    "citizen_impact": "Garantiza tu derecho a recibir atención sanitaria integral, desde la medicina de familia hasta cirugías complejas y medicamentos, con las mismas garantías en todo el territorio nacional. Te asegura que los avances médicos se incorporen al sistema público de forma segura y eficiente, evitando que el acceso a la salud dependa de tu lugar de residencia.",
+    "url": "es/BOE-A-2006-16212.json"
   },
   {
     "identifier": "BOE-A-2007-1",
@@ -135,6 +227,28 @@
     "url": "es/BOE-A-2007-1.json"
   },
   {
+    "identifier": "BOE-A-2011-1638",
+    "title": "Ley Orgánica 1/2011, de 28 de enero, de reforma del Estatuto de Autonomía de la Comunidad Autónoma de Extremadura",
+    "visible_title": "Reforma del Estatuto de Autonomía de Extremadura",
+    "rank": "ley_organica",
+    "department": "Jefatura del Estado",
+    "keywords": [
+      "Estatuto de Autonomía",
+      "Extremadura",
+      "Autogobierno",
+      "Competencias autonómicas",
+      "Reforma institucional",
+      "Descentralización"
+    ],
+    "publication_date": "2011-01-29",
+    "last_updated": null,
+    "status": "in_force",
+    "scope": "Autonómico",
+    "summary": "Esta ley reforma integralmente el Estatuto de Autonomía de Extremadura para adaptar su estructura política y social al siglo XXI. El objetivo es reforzar el autogobierno regional, ampliar las competencias de la Comunidad Autónoma y mejorar la cohesión social y económica. La norma redefine la identidad de la región, sus símbolos y la organización de sus instituciones de gobierno.",
+    "citizen_impact": "Define la identidad política de los extremeños y refuerza sus derechos en ámbitos como la salud, la educación y la igualdad. Aunque no impone trámites nuevos, establece el marco jurídico sobre el cual la administración regional gestionará servicios esenciales para la población.",
+    "url": "es/BOE-A-2011-1638.json"
+  },
+  {
     "identifier": "BOE-A-2015-9883",
     "title": "Orden DEF/1846/2015, de 9 de septiembre, por la que se determina la estructura orgánica básica de la Academia Central de la Defensa",
     "visible_title": "Estructura orgánica de la Academia Central de la Defensa",
@@ -146,15 +260,39 @@
       "formación militar",
       "escuelas militares",
       "Ministerio de Defensa",
-      "competencia lingüística"
+      "enseñanza militar"
     ],
     "publication_date": "2015-09-15",
-    "last_updated": "2026-04-17",
+    "last_updated": null,
     "status": "in_force",
     "scope": "Estatal",
-    "summary": "Esta norma organiza internamente la Academia Central de la Defensa, unificando diversas escuelas militares bajo una misma estructura. Su objetivo es racionalizar la administración militar y mejorar la eficiencia en la formación de los cuerpos comunes de las Fuerzas Armadas. Además, establece la capacidad de la Academia para evaluar la competencia lingüística en idiomas de interés para la defensa.",
+    "summary": "Esta norma organiza internamente la Academia Central de la Defensa, unificando diversas escuelas militares bajo una sola estructura. Su objetivo es racionalizar la administración militar y eliminar duplicidades en la formación de los cuerpos comunes de las Fuerzas Armadas. A través de esta orden, se definen las funciones de la dirección, las escuelas integradas y los departamentos de apoyo y servicios.",
     "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
     "url": "es/BOE-A-2015-9883.json"
+  },
+  {
+    "identifier": "BOE-A-2018-15138",
+    "title": "Ley Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias",
+    "visible_title": "Reforma del Estatuto de Autonomía de Canarias",
+    "rank": "ley_organica",
+    "department": "Jefatura del Estado",
+    "keywords": [
+      "Estatuto de Autonomía",
+      "Canarias",
+      "ultraperiferia",
+      "insularidad",
+      "Cabildos",
+      "régimen fiscal",
+      "autonomía",
+      "derechos ciudadanos"
+    ],
+    "publication_date": "2018-11-06",
+    "last_updated": "2026-04-20",
+    "status": "in_force",
+    "scope": "Autonómico",
+    "summary": "Esta ley reforma el Estatuto de Autonomía de Canarias para modernizar su estructura política y administrativa. El objetivo es reconocer formalmente la identidad canaria y su condición de región ultraperiférica para adaptar las leyes estatales a la realidad de la insularidad. Además, refuerza la autonomía de los Cabildos y define con mayor claridad los derechos de los ciudadanos y las competencias de la Comunidad Autónoma.",
+    "citizen_impact": "Refuerza la identidad y los derechos de los canarios, incluyendo el reconocimiento de la condición política de los descendientes de canarios. Mejora la protección de derechos en salud, educación, vivienda y medio ambiente, adaptando la gestión pública a la realidad de vivir en islas.",
+    "url": "es/BOE-A-2018-15138.json"
   },
   {
     "identifier": "BOE-A-2020-17340",
@@ -170,14 +308,15 @@
       "PERTE",
       "transición ecológica",
       "transformación digital",
-      "contratación pública"
+      "contratación pública",
+      "subvenciones"
     ],
     "publication_date": "2020-12-31",
-    "last_updated": "2026-04-16",
+    "last_updated": null,
     "status": "in_force",
     "scope": "Estatal",
     "summary": "Esta norma establece un marco de actuación excepcional para agilizar la gestión de los fondos europeos del programa Next Generation EU. Su objetivo es modernizar la Administración Pública española, eliminando trabas burocráticas y simplificando procedimientos de contratación, subvenciones y convenios. Busca asegurar que el dinero llegue rápidamente a proyectos estratégicos de transición ecológica y digital para reactivar la economía tras la pandemia.",
-    "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en la mejora indirecta de servicios públicos gracias a la digitalización y la inversión en sectores como salud, educación y medio ambiente.",
+    "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en la mejora indirecta de servicios públicos mediante la digitalización y la inversión en sectores como salud, educación y medio ambiente.",
     "url": "es/BOE-A-2020-17340.json"
   },
   {
@@ -189,19 +328,19 @@
     "keywords": [
       "cooperación al desarrollo",
       "desarrollo sostenible",
-      "Agenda 2030",
-      "acción humanitaria",
       "AECID",
-      "solidaridad global",
+      "acción humanitaria",
       "ayuda oficial al desarrollo",
+      "Agenda 2030",
+      "solidaridad global",
       "cooperación descentralizada"
     ],
     "publication_date": "2023-02-21",
-    "last_updated": "2026-04-16",
+    "last_updated": null,
     "status": "in_force",
     "scope": "Estatal",
     "summary": "Esta ley moderniza el marco jurídico de la cooperación española para adaptarlo a la Agenda 2030 y a los retos globales actuales como el cambio climático y la desigualdad. Establece un nuevo modelo de gestión que integra la acción humanitaria, la cooperación financiera y la cooperación descentralizada. Además, refuerza el papel de la AECID y busca movilizar más recursos mediante nuevas herramientas financieras y alianzas con el sector privado.",
-    "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo para aquellos que participen en programas de voluntariado internacional o trabajen en el sector de la cooperación.",
+    "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo para aquellos que participen en programas de voluntariado o cooperación internacional, quienes contarán con un nuevo marco de protección y derechos.",
     "url": "es/BOE-A-2023-4512.json"
   },
   {
@@ -1747,24 +1886,24 @@
   {
     "identifier": "BOE-A-2025-26698",
     "title": "Ley 10/2025, de 26 de diciembre, por la que se regulan los servicios de atención a la clientela",
-    "visible_title": "Ley de regulación de los servicios de atención al cliente",
+    "visible_title": "Regulación de los servicios de atención a la clientela",
     "rank": "ley",
     "department": "Jefatura del Estado",
     "keywords": [
       "atención al cliente",
       "derechos del consumidor",
       "servicios básicos",
-      "atención humana",
-      "auditoría de calidad",
-      "suministros",
-      "derechos digitales"
+      "accesibilidad universal",
+      "reclamaciones",
+      "calidad de servicio",
+      "vulnerabilidad económica"
     ],
     "publication_date": "2025-12-27",
-    "last_updated": "2025-12-27",
+    "last_updated": "2026-04-21",
     "status": "in_force",
     "scope": "Estatal",
-    "summary": "Esta ley pone fin al calvario de los clientes atrapados en bucles de bots y contestadores automáticos. Obliga a las grandes empresas y proveedores de servicios básicos (luz, agua, banca, etc.) a garantizar atención humana rápida y efectiva. El objetivo es asegurar que cualquier incidencia crítica, como un corte de suministro, se resuelva en tiempo récord. Además, introduce controles estrictos mediante auditorías externas para que las empresas no puedan falsear la calidad de su servicio.",
-    "citizen_impact": "Los ciudadanos ganan el derecho irrenunciable a hablar con una persona real en menos de 3 minutos en el 95% de los casos. Se prohíbe que los bots sean la única vía de contacto y se garantiza que no te corten el suministro si tienes una reclamación abierta sobre el motivo del corte. También se asegura que te respondan en tu mismo idioma y con precios totalmente desglosados y transparentes.",
+    "summary": "Esta ley establece estándares mínimos de calidad obligatorios para los servicios de atención al cliente de grandes empresas y proveedores de servicios básicos (agua, luz, gas, transporte, telecomunicaciones y banca). Busca evitar que los usuarios queden atrapados en bucles de contestadores automáticos y garantiza una atención humana y accesible. El objetivo es reducir la litigiosidad y asegurar que las reclamaciones se resuelvan de forma eficaz y rápida.",
+    "citizen_impact": "Los ciudadanos tendrán derecho a ser atendidos por personas reales tras usar un contestador y podrán elegir el formato de comunicación (especialmente útil para personas con discapacidad o mayores). Además, se garantiza que las empresas respondan a incidencias críticas de suministros en un plazo máximo de dos horas y que las reclamaciones no sean motivo de corte de servicio.",
     "url": "es/BOE-A-2025-26698.json"
   },
   {
@@ -28408,20 +28547,18 @@
     "department": "Comunidad Autónoma de Canarias",
     "keywords": [
       "suelo",
-      "urbanismo",
       "espacios naturales protegidos",
-      "Canarias",
-      "licencias",
-      "comunicación previa",
+      "urbanismo canarias",
       "suelo rústico",
-      "protección ambiental"
+      "ordenación del territorio",
+      "medio ambiente"
     ],
     "publication_date": "2017-09-08",
-    "last_updated": "2025-12-12",
+    "last_updated": "2026-04-20",
     "status": "in_force",
     "scope": "Autonómico",
-    "summary": "Esta ley unifica y simplifica toda la normativa de suelo y protección ambiental en Canarias para reducir la burocracia. Sustituye licencias lentas por comunicaciones previas en actividades permitidas y establece reglas claras sobre qué se puede construir y dónde. Define tres tipos de suelo (rústico, urbanizable y urbano) y endurece la protección de los espacios naturales. Además, busca modernizar la gestión mediante la digitalización y la participación ciudadana en la planificación territorial.",
-    "citizen_impact": "Los ciudadanos ganan agilidad al poder realizar ciertas obras (como placas solares o reformas menores) mediante comunicación previa en lugar de esperar licencias. Tienen derecho a conocer por escrito el régimen urbanístico de su propiedad y a consultar el planeamiento de forma digital. Sin embargo, los propietarios de suelo rústico deben cumplir con obligaciones estrictas de limpieza para evitar incendios y pueden enfrentar multas elevadas o incluso la expropiación si construyen ilegalmente.",
+    "summary": "Esta ley unifica y simplifica toda la normativa de suelo y protección ambiental en Canarias para reducir la burocracia. Su objetivo es equilibrar el desarrollo económico y el turismo con la protección de la naturaleza, permitiendo usos más ágiles en zonas rústicas pero con controles estrictos. Introduce mecanismos para gestionar edificios ilegales y fomenta la colaboración de propietarios en la conservación ambiental. En definitiva, establece las reglas de juego para qué se puede construir, dónde y cómo se debe proteger el entorno natural de las islas.",
+    "citizen_impact": "Afecta directamente a propietarios de terrenos y viviendas: permite el uso turístico de edificaciones antiguas en suelo rústico bajo límites estrictos y ofrece una vía para regularizar la situación de edificios 'fuera de ordenación'. Además, impone la obligación de mantener limpios los terrenos agrícolas cercanos a zonas forestales y obliga a realizar inspecciones técnicas de edificios cada 20 años.",
     "url": "es-cn/BOE-A-2017-10295.json"
   },
   {
@@ -29409,19 +29546,19 @@
     "keywords": [
       "cambio climático",
       "transición energética",
-      "Canarias",
-      "neutralidad de carbono",
-      "huella de carbono",
+      "emisiones GEI",
+      "energías renovables",
       "eficiencia energética",
       "movilidad sostenible",
-      "energías renovables"
+      "Canarias",
+      "neutralidad de carbono"
     ],
     "publication_date": "2023-02-04",
-    "last_updated": "2024-06-25",
+    "last_updated": "2026-04-20",
     "status": "in_force",
     "scope": "Autonómico",
-    "summary": "Esta ley establece la hoja de ruta obligatoria para que Canarias logre la neutralidad de carbono y abandone los combustibles fósiles. Crea la Agencia Canaria de Acción Climática, Energía y Agua para coordinar este proceso y otorga prioridad a los proyectos climáticos sobre cualquier planificación urbanística previa. La norma impone transformaciones profundas en el sector turístico, el transporte y la gestión de la vivienda pública. Además, establece un régimen de sanciones severas para asegurar que tanto empresas como administraciones cumplan con los nuevos estándares de eficiencia y sostenibilidad.",
-    "citizen_impact": "El ciudadano verá cambios en su entorno urbano, con nuevas exigencias de zonas verdes (10 m² por habitante) y mayor eficiencia en la vivienda. También afectará a su movilidad, con una transición hacia flotas de transporte público y alquiler de vehículos cero emisiones, y a su economía mediante la posible aplicación de sanciones por incumplimientos ambientales.",
+    "summary": "Esta ley establece la hoja de ruta para que Canarias alcance la neutralidad climática y abandone los combustibles fósiles. Introduce una nueva gobernanza mediante la creación de la Agencia Canaria de Acción Climática, Energía y Agua para coordinar la transición energética. El objetivo es proteger la biodiversidad y la economía insular frente a la crisis climática mediante la planificación de la mitigación y la adaptación.",
+    "citizen_impact": "Los ciudadanos verán cambios en la movilidad, con el fomento del transporte público y la creación de zonas de bajas emisiones. También se promoverá la eficiencia energética en viviendas y la instalación de puntos de recarga para vehículos eléctricos. Además, se busca proteger a los colectivos vulnerables de la pobreza energética.",
     "url": "es-cn/BOE-A-2023-2941.json"
   },
   {
@@ -35381,14 +35518,14 @@
       "gobierno en funciones",
       "traspaso de poderes",
       "administración pública",
-      "continuidad administrativa"
+      "transparencia"
     ],
     "publication_date": "2015-03-25",
-    "last_updated": "2015-02-27",
+    "last_updated": null,
     "status": "in_force",
     "scope": "Autonómico",
-    "summary": "Esta ley establece las reglas de juego para el periodo de vacío de poder que ocurre cuando un Presidente de la Junta de Extremadura deja su cargo y aún no ha sido elegido el sucesor. Su objetivo es evitar que el gobierno saliente tome decisiones políticas de gran calado o comprometa al futuro gobierno. Regula cómo debe ser el traspaso de información, presupuestos y documentos para garantizar la continuidad de los servicios públicos.",
-    "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, ya que regula exclusivamente la dinámica interna de los órganos de gobierno y la administración autonómica.",
+    "summary": "Esta ley establece las reglas de juego para cuando cambia el gobierno de Extremadura, asegurando que la administración no se detenga. Regula qué puede y qué no puede hacer un Presidente en funciones para evitar que use su poder para beneficiarse o comprometer al siguiente gobierno. Además, organiza cómo se debe entregar la información y los documentos al nuevo equipo entrante para que el cambio sea ordenado y transparente.",
+    "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos.",
     "url": "es-ex/BOE-A-2015-3183.json"
   },
   {

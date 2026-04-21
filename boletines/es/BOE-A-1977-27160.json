@@ -1,0 +1,90 @@
+{
+  "identifier": "BOE-A-1977-27160",
+  "title": "Real Decreto 2829/1977, de 6 de octubre por el que se regulan las sustancias y preparados medicinales psicotrópicos, así como la fiscalización e inspección de su fabricación, distribución, prescripción y dispensación",
+  "visible_title": "Regulación de sustancias y preparados medicinales psicotrópicos",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de Sanidad y Seguridad Social",
+  "official_number": "2829/1977",
+  "publication_date": "1977-11-16",
+  "enactment_date": "1977-10-06",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/1977/10/06/2829",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "274",
+  "summary": "Esta norma establece un control estricto sobre toda la cadena de suministro de sustancias psicotrópicas, desde su fabricación hasta su venta al público. Su objetivo es prevenir el uso indebido de estas sustancias y proteger la salud pública mediante la vigilancia de su distribución y prescripción. Para ello, impone registros obligatorios, libros de contabilidad y requisitos específicos de etiquetado y receta médica.",
+  "citizen_impact": "Garantiza que los medicamentos con efectos psicotrópicos se administren de forma segura y controlada, evitando el acceso sin supervisión médica. Los ciudadanos deben presentar receta médica para obtener estos fármacos, la cual tiene límites de duración y cantidad para evitar la dependencia.",
+  "professional_impact": "Impone una carga burocrática significativa a fabricantes, laboratorios, distribuidores y farmacias, quienes deben llevar libros de contabilidad estrictos y presentar partes anuales de existencias. Los profesionales sanitarios deben cumplir con requisitos de prescripción muy específicos y las empresas deben obtener autorizaciones previas para importar, exportar o fabricar estas sustancias.",
+  "keywords": [
+    "sustancias psicotrópicas",
+    "control farmacéutico",
+    "prescripción médica",
+    "dispensación",
+    "fiscalización",
+    "salud pública",
+    "libros de contabilidad"
+  ],
+  "key_points": [
+    "Prohibición total del uso, comercio y tenencia de sustancias de la Lista I, salvo fines científicos autorizados.",
+    "Obligatoriedad de llevar libros de contabilidad sellados para registrar entradas, salidas y existencias.",
+    "Exigencia de símbolos específicos en el embalaje y prospectos para identificar medicamentos psicotrópicos.",
+    "Control estricto de la prescripción: las recetas para fórmulas magistrales no pueden superar los 10 días de tratamiento.",
+    "Necesidad de autorización previa de la Dirección General de Ordenación Farmacéutica para la importación y exportación.",
+    "Obligación de archivar recetas y vales de salida durante un periodo de dos años."
+  ],
+  "legal_references": [
+    "Convenio sobre Sustancias Psicotrópicas de Viena (1971)",
+    "Ley de Contrabando",
+    "Orden ministerial de 11 de mayo de 1977"
+  ],
+  "derogations": [],
+  "main_obligations": "Los agentes del sector deben registrar todas las operaciones en libros oficiales, obtener autorizaciones para el tráfico de sustancias y cumplir con la prescripción mediante receta médica. El incumplimiento conlleva multas desde 30 euros hasta 30.050 euros y posibles suspensiones de actividad.",
+  "effective_date": "1977-11-16",
+  "procedures": [
+    {
+      "name": "Control de fabricación y distribución",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Inscripción en el registro",
+          "description": "Las personas o entidades deben inscribirse en el registro de la Dirección General de Ordenación Farmacéutica antes de comenzar la actividad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación de la entidad y del Director Técnico responsable"
+        },
+        {
+          "step": 2,
+          "title": "Diligenciamiento de libros",
+          "description": "Presentación de los libros de contabilidad ante la Inspección Provincial de Farmacia para su sellado y foliado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Libros de contabilidad de entrada, salida y existencias"
+        },
+        {
+          "step": 3,
+          "title": "Remisión de partes anuales",
+          "description": "Envío de un parte con el balance de entradas, salidas y existencias al cierre del año.",
+          "start_date": "Enero del año siguiente",
+          "end_date": null,
+          "required_documentation": "Parte anual de sustancias psicotrópicas (Modelo 4)"
+        }
+      ]
+    },
+    {
+      "name": "Autorización de importación y exportación",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de permiso",
+          "description": "Tramitación de la solicitud ante la Dirección General de Ordenación Farmacéutica.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentación según instrucciones de la Dirección General"
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

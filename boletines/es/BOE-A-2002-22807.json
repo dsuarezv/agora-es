@@ -1,0 +1,105 @@
+{
+  "identifier": "BOE-A-2002-22807",
+  "title": "Ley 44/2002, de 22 de noviembre, de Medidas de Reforma del Sistema Financiero",
+  "visible_title": "Ley de Medidas de Reforma del Sistema Financiero",
+  "rank": "ley",
+  "country": "es",
+  "department": "Jefatura del Estado",
+  "official_number": "44/2002",
+  "publication_date": "2002-11-23",
+  "enactment_date": "2002-11-22",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/l/2002/11/22/44",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "281",
+  "summary": "Esta ley moderniza el sistema financiero español para hacerlo más competitivo frente a la integración europea. Busca aumentar la eficiencia de los mercados de valores, crédito y seguros, facilitando la canalización del ahorro hacia las empresas. Además, refuerza la protección de los consumidores financieros y regula la gestión de riesgos y la contratación electrónica.",
+  "citizen_impact": "Mejora la protección de los usuarios de servicios financieros al obligar a las entidades a tener departamentos de atención al cliente y defensores de la clientela. También facilita la resolución de quejas y reclamaciones ante entidades y organismos supervisores.",
+  "professional_impact": "Las entidades financieras deben adaptar su organización interna, implementar sistemas de control de riesgos y cumplir con nuevas normas de transparencia y conducta. Las empresas de capital riesgo y las cooperativas de crédito también ven modificadas sus reglas de inversión y gestión.",
+  "keywords": [
+    "sistema financiero",
+    "mercado de valores",
+    "protección al consumidor",
+    "entidades de crédito",
+    "seguros",
+    "transparencia",
+    "riesgo de crédito"
+  ],
+  "key_points": [
+    "Creación de la Sociedad de Gestión de los Sistemas de Registro, Compensación y Liquidación de Valores para integrar mercados.",
+    "Introducción de la figura de Entidades de Contrapartida Central para reducir riesgos en operaciones.",
+    "Obligatoriedad de las entidades financieras de contar con servicios de atención al cliente y Defensor de la Clientela.",
+    "Refuerzo de la transparencia en el mercado de valores para evitar el uso de información privilegiada y la manipulación de cotizaciones.",
+    "Nuevas reglas para la gestión de riesgos a través de la Central de Información de Riesgos (CIR) del Banco de España.",
+    "Flexibilización de la normativa para cooperativas de crédito y reformas en la gestión de las Cajas de Ahorros.",
+    "Regulación de la contratación electrónica de servicios financieros.",
+    "Nuevas medidas para facilitar la financiación de las PYMES mediante factoring y titulización."
+  ],
+  "legal_references": [
+    "Ley 24/1988, de 28 de julio, del Mercado de Valores",
+    "Ley 26/1988, de 29 de julio, sobre Disciplina e Intervención de las Entidades de Crédito",
+    "Ley 30/1995, de 8 de noviembre, de Ordenación y Supervisión de los Seguros Privados",
+    "Ley 1/1999, de 5 de enero, reguladora de las Entidades de Capital-Riesgo",
+    "Ley 13/1996, de 30 de diciembre, de Medidas fiscales, administrativas y del orden social"
+  ],
+  "derogations": [
+    "Comisión Liquidadora de Entidades Aseguradoras",
+    "Diversos preceptos de la Ley 24/1988, Ley 26/1988 y Ley 30/1995 según detallado en la norma"
+  ],
+  "main_obligations": "Las entidades financieras deben resolver quejas en un plazo de un mes. Los emisores de valores deben comunicar inmediatamente cualquier información relevante al mercado. Las entidades deben implementar medidas para evitar el flujo de información privilegiada entre sus áreas de actividad.",
+  "effective_date": "2002-11-24",
+  "procedures": [
+    {
+      "name": "Tramitación de quejas y reclamaciones ante la entidad",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de la queja",
+          "description": "El cliente presenta su reclamación por escrito (papel o medio electrónico) ante el servicio de atención al cliente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documento con nombre, motivo de la queja, oficina donde ocurrió y pruebas documentales."
+        },
+        {
+          "step": 2,
+          "title": "Admisión a trámite",
+          "description": "La entidad revisa la documentación y, si falta algo, concede 10 días naturales para subsanar.",
+          "start_date": null,
+          "end_date": "10 días naturales tras requerimiento",
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "La entidad debe dictar un pronunciamiento motivado.",
+          "start_date": null,
+          "end_date": "1 mes desde la presentación",
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Tramitación de reclamaciones ante organismos supervisores (Banco de España, CNMV, DGSFP)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Requisito de previa reclamación",
+          "description": "Es imprescindible haber reclamado primero ante el servicio de atención al cliente de la entidad.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Acreditación de la reclamación previa y respuesta de la entidad (o falta de respuesta tras 1 mes)."
+        },
+        {
+          "step": 2,
+          "title": "Tramitación del expediente",
+          "description": "El organismo supervisor abre un expediente y puede solicitar información adicional.",
+          "start_date": null,
+          "end_date": "90 días naturales desde la presentación",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

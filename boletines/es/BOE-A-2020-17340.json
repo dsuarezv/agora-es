@@ -8,15 +8,15 @@
   "official_number": "36/2020",
   "publication_date": "2020-12-31",
   "enactment_date": "2020-12-30",
-  "last_updated": "2026-04-16",
+  "last_updated": null,
   "status": "in_force",
   "scope": "Estatal",
   "source": "https://www.boe.es/eli/es/rdl/2020/12/30/36",
   "official_journal": "Boletín Oficial del Estado",
   "journal_issue": "341",
   "summary": "Esta norma establece un marco de actuación excepcional para agilizar la gestión de los fondos europeos del programa Next Generation EU. Su objetivo es modernizar la Administración Pública española, eliminando trabas burocráticas y simplificando procedimientos de contratación, subvenciones y convenios. Busca asegurar que el dinero llegue rápidamente a proyectos estratégicos de transición ecológica y digital para reactivar la economía tras la pandemia.",
-  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en la mejora indirecta de servicios públicos gracias a la digitalización y la inversión en sectores como salud, educación y medio ambiente.",
-  "professional_impact": "Las empresas y autónomos se benefician de procesos de contratación y subvenciones más rápidos y simplificados. Los funcionarios públicos enfrentan una reorganización de sus puestos de trabajo y nuevas metodologías de gestión por objetivos para gestionar la carga de trabajo extraordinaria de los fondos europeos.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo en la mejora indirecta de servicios públicos mediante la digitalización y la inversión en sectores como salud, educación y medio ambiente.",
+  "professional_impact": "Las empresas y autónomos se benefician de procesos de contratación y subvenciones más rápidos y simplificados. Los funcionarios públicos enfrentan una reorganización de sus tareas, con la creación de unidades temporales y la posibilidad de recibir retribuciones variables por el cumplimiento de objetivos de gestión de fondos.",
   "keywords": [
     "fondos europeos",
     "Next Generation EU",
@@ -25,30 +25,32 @@
     "PERTE",
     "transición ecológica",
     "transformación digital",
-    "contratación pública"
+    "contratación pública",
+    "subvenciones"
   ],
   "key_points": [
     "Creación de los PERTE (Proyectos Estratégicos para la Recuperación y Transformación Económica) para fomentar la colaboración público-privada.",
     "Simplificación de la tramitación de convenios administrativos, permitiendo pagos anticipados de hasta el 50%.",
-    "Reducción de plazos en procedimientos de contratación pública y evaluación ambiental para acelerar la inversión.",
-    "Implementación de la gestión por objetivos y planificación estratégica en las Administraciones Públicas.",
-    "Creación de un Registro estatal para entidades interesadas en los proyectos estratégicos (PERTE).",
-    "Flexibilización de la gestión presupuestaria para permitir la tramitación anticipada de gastos y compromisos plurianuales.",
-    "Nuevas reglas para la gestión de recursos humanos, permitiendo la creación de unidades administrativas provisionales y la asignación de funciones a tiempo parcial."
+    "Reducción de plazos en la tramitación de procedimientos administrativos y de contratación para agilizar el gasto.",
+    "Implementación de la gestión por objetivos y la planificación estratégica en las Administraciones Públicas.",
+    "Creación de un Registro estatal de entidades interesadas en los proyectos PERTE.",
+    "Flexibilización de la gestión presupuestaria, permitiendo la tramitación anticipada de expedientes de gasto.",
+    "Reducción de plazos en la evaluación ambiental para proyectos de transición ecológica.",
+    "Posibilidad de crear unidades administrativas temporales para gestionar específicamente los fondos europeos.",
+    "Establecimiento de un régimen de urgencia para la elaboración de normas vinculadas al Plan de Recuperación."
   ],
   "legal_references": [
     "Ley 40/2015 de Régimen Jurídico del Sector Público",
     "Ley 47/2003 General Presupuestaria",
-    "Ley 9/2017 de Contratos del Sector Público",
     "Ley 38/2003 General de Subvenciones",
+    "Ley 9/2017 de Contratos del Sector Público",
     "Ley 21/2013 de Evaluación Ambiental",
     "Ley 14/2011 de Ciencia, Tecnología e Innovación"
   ],
   "derogations": [
-    "Artículo 7.2 del Real Decreto-ley 4/2011",
-    "Artículos 4.1.ll y 30 del Real Decreto 1636/2011"
+    "Artículo 7.2 del Real Decreto-ley 4/2011"
   ],
-  "main_obligations": "Las entidades públicas deben identificar y codificar todos los gastos vinculados al Plan con un código de referencia único. Las empresas que reciban subvenciones deben justificar su uso bajo nuevos umbrales simplificados (hasta 100.000€ para cuentas justificativas).",
+  "main_obligations": "Las entidades públicas deben identificar los gastos vinculados al Mecanismo de Recuperación y Resiliencia mediante códigos de referencia únicos. Las empresas que reciban subvenciones deben cumplir con los requisitos de transparencia y rendición de cuentas exigidos por la normativa europea.",
   "effective_date": "2020-12-31",
   "procedures": [
     {
@@ -56,26 +58,26 @@
       "steps": [
         {
           "step": 1,
-          "title": "Consulta a Administraciones y personas interesadas",
-          "description": "Plazo para que las administraciones afectadas y ciudadanos emitan informes o alegaciones.",
-          "start_date": "30 días hábiles desde la recepción del borrador",
+          "title": "Consulta a administraciones y personas interesadas",
+          "description": "Plazo para que las administraciones afectadas y el público emitan informes y alegaciones.",
+          "start_date": "30 días hábiles",
           "end_date": null,
-          "required_documentation": "Informes y alegaciones"
+          "required_documentation": "Borrador del plan o programa y documento inicial estratégico"
         },
         {
           "step": 2,
           "title": "Elaboración del estudio ambiental estratégico",
-          "description": "Periodo para desarrollar el estudio tras recibir el documento de alcance.",
-          "start_date": "Tras notificación del documento de alcance",
-          "end_date": "9 meses",
+          "description": "Plazo para la realización del estudio tras recibir el documento de alcance.",
+          "start_date": "9 meses",
+          "end_date": null,
           "required_documentation": null
         },
         {
           "step": 3,
           "title": "Análisis técnico y declaración ambiental",
-          "description": "El órgano ambiental analiza el expediente y formula la declaración ambiental estratégica.",
-          "start_date": "Tras recepción del expediente completo",
-          "end_date": "4 meses",
+          "description": "Fase de análisis por el órgano ambiental y emisión de la declaración estratégica.",
+          "start_date": "4 meses",
+          "end_date": null,
           "required_documentation": null
         }
       ]
@@ -87,24 +89,53 @@
           "step": 1,
           "title": "Solicitud de informe jurídico",
           "description": "Emisión del informe de servicios jurídicos para el convenio.",
-          "start_date": "Desde la solicitud",
-          "end_date": "7 días hábiles",
+          "start_date": "7 días hábiles",
+          "end_date": null,
           "required_documentation": null
         },
         {
           "step": 2,
           "title": "Autorización de Hacienda",
-          "description": "Obtención de la autorización necesaria para la firma del convenio.",
-          "start_date": "Desde la solicitud",
-          "end_date": "7 días hábiles (silencio positivo)",
+          "description": "Obtención de la autorización del Ministerio de Hacienda (se entiende otorgada si no se responde en 7 días).",
+          "start_date": "7 días hábiles",
+          "end_date": null,
           "required_documentation": null
         },
         {
           "step": 3,
           "title": "Formalización e inscripción",
-          "description": "Firma del convenio e inscripción en el Registro Electrónico estatal.",
-          "start_date": "Tras la autorización",
-          "end_date": "5 días hábiles para inscripción",
+          "description": "Perfeccionamiento del convenio e inscripción en el Registro Electrónico estatal.",
+          "start_date": "5 días hábiles",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de licitación de contratos (Tramitación Urgente)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Anuncio de licitación",
+          "description": "Publicación del anuncio para la presentación de proposiciones.",
+          "start_date": "Mínimo 15 días naturales",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 2,
+          "title": "Valoración de proposiciones",
+          "description": "Plazo para que los servicios técnicos realicen la valoración de criterios de juicio de valor.",
+          "start_date": "4 días naturales",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución de adjudicación y plazo de recurso",
+          "description": "Notificación de la adjudicación y espera obligatoria antes de formalizar.",
+          "start_date": "10 días naturales",
+          "end_date": null,
           "required_documentation": null
         }
       ]

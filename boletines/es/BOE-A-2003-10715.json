@@ -1,0 +1,106 @@
+{
+  "identifier": "BOE-A-2003-10715",
+  "title": "Ley 16/2003, de 28 de mayo, de cohesión y calidad del Sistema Nacional de Salud",
+  "visible_title": "Ley de cohesión y calidad del Sistema Nacional de Salud",
+  "rank": "ley",
+  "country": "es",
+  "department": "Ministerio de Sanidad y Consumo",
+  "official_number": "16/2003",
+  "publication_date": "2003-05-29",
+  "enactment_date": "2003-05-28",
+  "last_updated": null,
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/l/2003/05/28/16",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "128",
+  "summary": "Esta ley establece las reglas para que el Estado y las Comunidades Autónomas trabajen juntos en sanidad, evitando que la calidad de la atención dependa de dónde vivas. Define qué servicios básicos deben ofrecerse en todo el país y crea organismos para coordinar la investigación, la información sanitaria y la calidad asistencial. Su objetivo es asegurar que el sistema sea equitativo, de alta calidad y permita la participación de los ciudadanos.",
+  "citizen_impact": "Garantiza que tengas los mismos derechos sanitarios básicos sin importar si te desplazas de una comunidad autónoma a otra. Te otorga derechos específicos como solicitar una segunda opinión médica y recibir atención en tiempos máximos establecidos. Además, regula el uso de la tarjeta sanitaria como tu llave de acceso al sistema.",
+  "professional_impact": "Para los profesionales, establece criterios comunes de formación, carrera profesional y movilidad entre comunidades. Para las farmacias, regula su colaboración con el sistema para asegurar la dispensación de medicamentos. Para los gestores sanitarios, impone la obligación de coordinarse mediante el Consejo Interterritorial y cumplir con estándares de calidad y seguridad.",
+  "keywords": [
+    "Sistema Nacional de Salud",
+    "cohesión sanitaria",
+    "calidad asistencial",
+    "equidad en salud",
+    "prestaciones sanitarias",
+    "coordinación autonómica",
+    "salud pública"
+  ],
+  "key_points": [
+    "Creación del Consejo Interterritorial como motor de coordinación entre el Estado y las autonomías.",
+    "Definición de una cartera común de servicios (básica, suplementaria y accesoria) para asegurar prestaciones mínimas.",
+    "Garantía de movilidad y derechos para los profesionales sanitarios en todo el territorio.",
+    "Establecimiento de garantías de tiempo para el acceso a las prestaciones y de movilidad para los pacientes.",
+    "Creación de la Agencia Española de Medicamentos y Productos Sanitarios para centralizar la evaluación técnica.",
+    "Implementación de un sistema de información sanitaria unificado y uso de la tarjeta sanitaria individual.",
+    "Obligación de aplicar estándares de calidad y seguridad tanto en centros públicos como privados.",
+    "Fomento de la investigación mediante el Instituto de Salud Carlos III."
+  ],
+  "legal_references": [
+    "Constitución Española",
+    "Ley 14/1986, de 25 de abril, General de Sanidad",
+    "Ley 21/2001, de 27 de diciembre, de medidas fiscales y administrativas del nuevo sistema de financiación de las Comunidades Autónomas",
+    "Ley 25/1990, de 20 de diciembre, del Medicamento",
+    "Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente",
+    "Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter Personal",
+    "Ley Orgánica 4/2000, de 11 de enero, sobre Derechos y Libertades de los Extranjeros en España y su Integración Social"
+  ],
+  "derogations": [
+    "Artículo 47 de la Ley 14/1986, de 25 de abril, General de Sanidad"
+  ],
+  "main_obligations": "Las Comunidades Autónomas deben financiar las prestaciones y garantizar la calidad y accesibilidad. El Estado debe coordinar la política farmacéutica y la investigación. Los centros sanitarios (públicos y privados) están obligados a cumplir con las garantías de seguridad y calidad establecidas.",
+  "effective_date": "2003-05-30",
+  "procedures": [
+    {
+      "name": "Actualización de la cartera de servicios",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Evaluación técnica",
+          "description": "Las nuevas tecnologías o procedimientos deben ser evaluados por la Red Española de Agencias de Evaluación de Tecnologías Sanitarias.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Informes de evaluación de eficacia, seguridad y coste."
+        },
+        {
+          "step": 2,
+          "title": "Acuerdo del Consejo Interterritorial",
+          "description": "Se debe obtener el acuerdo previo del Consejo Interterritorial del Sistema Nacional de Salud.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Aprobación por Real Decreto",
+          "description": "La cartera común de servicios se aprueba mediante Real Decreto.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Uso tutelado de tecnologías",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Autorización",
+          "description": "El Ministerio de Sanidad, previo acuerdo del Consejo Interterritorial, autoriza el uso de una tecnología para investigar su eficacia.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Diseño de investigación y protocolo específico."
+        },
+        {
+          "step": 2,
+          "title": "Ejecución controlada",
+          "description": "Se aplica en centros autorizados y por tiempo limitado con consentimiento informado.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Consentimiento informado del paciente."
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

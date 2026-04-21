@@ -8,7 +8,7 @@
   "official_number": "1025/1980",
   "publication_date": "1980-05-29",
   "enactment_date": "1980-05-19",
-  "last_updated": "2026-04-16",
+  "last_updated": null,
   "status": "in_force",
   "scope": "Estatal",
   "source": "https://www.boe.es/eli/es/rd/1980/05/19/1025",
@@ -16,7 +16,7 @@
   "journal_issue": "129",
   "summary": "Este Real Decreto establece la creación de un reconocimiento honorífico para premiar la excelencia en el ámbito académico. La Medalla al Mérito busca distinguir a personas o entidades que hayan realizado aportaciones excepcionales al desarrollo de la investigación científica y la educación universitaria en España.",
   "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos comunes.",
-  "professional_impact": "Afecta principalmente a investigadores, docentes universitarios y entidades del sector científico. Permite que estos profesionales reciban un reconocimiento oficial del Estado por su trayectoria, aunque no conlleva una compensación económica directa, sino un prestigio honorífico.",
+  "professional_impact": "Afecta principalmente a investigadores, académicos, rectores y entidades del sector científico-universitario. Permite que estos profesionales reciban un reconocimiento oficial del Estado por su trayectoria, aunque no conlleva una compensación económica directa, sino un prestigio honorífico.",
   "keywords": [
     "investigación científica",
     "educación universitaria",
@@ -26,11 +26,11 @@
     "universidades"
   ],
   "key_points": [
-    "Creación de la Medalla al Mérito en una única categoría de oro.",
-    "Posibilidad de otorgar el reconocimiento tanto a personas físicas como a entidades (públicas o privadas).",
-    "Creación de un Consejo Asesor para evaluar las propuestas, compuesto por autoridades universitarias y científicos.",
-    "El procedimiento de concesión puede ser iniciado por cualquier persona o entidad interesada.",
-    "Los galardonados tienen derecho a utilizar una placa con las insignias de la medalla."
+    "Creación de una Medalla de categoría oro para distinguir méritos en investigación y educación universitaria.",
+    "La propuesta de concesión puede ser iniciada tanto por personas físicas como por entidades públicas o privadas.",
+    "Se constituye un Consejo Asesor para evaluar las propuestas, integrado por autoridades universitarias, científicos y antiguos galardonados.",
+    "El Consejo Asesor debe garantizar la presencia equilibrada de mujeres y hombres en su composición.",
+    "Los galardonados tienen derecho al uso de una placa con las insignias correspondientes."
   ],
   "legal_references": [
     "Ley Orgánica 3/2007, de 22 de marzo, de igualdad efectiva de hombres y mujeres",
@@ -48,31 +48,23 @@
         {
           "step": 1,
           "title": "Iniciación del expediente",
-          "description": "Propuesta de la candidatura por parte de personas físicas o jurídicas, públicas o privadas.",
+          "description": "Propuesta de personas físicas o jurídicas (públicas o privadas) ante la Secretaría del Consejo Asesor.",
           "start_date": null,
           "end_date": null,
           "required_documentation": "Documentación que acredite los méritos de la persona o entidad propuesta."
         },
         {
           "step": 2,
-          "title": "Tramitación ante el Consejo Asesor",
-          "description": "Presentación de la propuesta ante la Secretaría del Consejo Asesor para su estudio.",
+          "title": "Evaluación y asesoramiento",
+          "description": "El Consejo Asesor analiza los méritos y emite un informe de asesoramiento al Ministerio.",
           "start_date": null,
           "end_date": null,
           "required_documentation": null
         },
         {
           "step": 3,
-          "title": "Asesoramiento",
-          "description": "El Consejo Asesor evalúa los méritos y emite un informe de asesoramiento al Ministerio.",
-          "start_date": null,
-          "end_date": null,
-          "required_documentation": null
-        },
-        {
-          "step": 4,
           "title": "Resolución",
-          "description": "Otorgamiento de la medalla mediante Real Decreto a propuesta del Ministro.",
+          "description": "La concesión se formaliza mediante Real Decreto a propuesta del titular del Ministerio.",
           "start_date": null,
           "end_date": null,
           "required_documentation": null
