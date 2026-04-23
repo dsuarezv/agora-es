@@ -1,0 +1,134 @@
+{
+  "identifier": "BOE-A-2026-8871",
+  "title": "Orden TRM/367/2026, de 10 de abril, relativa a las condiciones de circulación de trenes históricos en la Red Ferroviaria de Interés General",
+  "visible_title": "Condiciones de circulación de trenes históricos en la Red Ferroviaria de Interés General",
+  "rank": "orden",
+  "country": "es",
+  "department": "Ministerio de Transportes y Movilidad Sostenible",
+  "official_number": "TRM/367/2026",
+  "publication_date": "2026-04-23",
+  "enactment_date": "2026-04-10",
+  "last_updated": "2026-04-23",
+  "status": "in_force",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/o/2026/04/10/trm367",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "99",
+  "summary": "Esta norma establece el marco jurídico para que los trenes históricos puedan circular por la red ferroviaria principal de España. Define qué se considera un vehículo histórico, cómo deben mantenerse y qué requisitos debe cumplir el personal que los opera. El objetivo es preservar el patrimonio ferroviario permitiendo su uso cultural sin comprometer la seguridad del sistema ferroviario nacional.",
+  "citizen_impact": "Sin impacto directo en la vida diaria de los ciudadanos, salvo para aquellos interesados en el turismo ferroviario o la cultura histórica, quienes verán garantizada la seguridad y continuidad de estos servicios especiales.",
+  "professional_impact": "Afecta directamente a fundaciones, museos y empresas ferroviarias que gestionan patrimonio histórico, imponiéndoles la obligación de catalogar sus vehículos, designar responsables técnicos y cumplir planes de mantenimiento estrictos. También introduce nuevas exigencias de formación específica para maquinistas y personal de operaciones que trabajen con material antiguo.",
+  "keywords": [
+    "trenes históricos",
+    "patrimonio ferroviario",
+    "seguridad ferroviaria",
+    "catalogación de vehículos",
+    "mantenimiento ferroviario",
+    "Red Ferroviaria de Interés General"
+  ],
+  "key_points": [
+    "Definición de vehículo histórico: debe tener al menos 30 años y relevancia sociocultural.",
+    "Creación de la figura del 'Responsable de vehículo histórico' y 'Responsable de tren histórico'.",
+    "Obligatoriedad de contar con una entidad de mantenimiento certificada para vehículos operativos.",
+    "Exigencia de formación adicional para auxiliares de cabina y maquinistas en vehículos singulares.",
+    "Implementación de un Número de Vehículo Histórico (NVH) de 12 cifras.",
+    "Regulación de la velocidad máxima (hasta 100 km/h) y sistemas de seguridad para trenes sin protección moderna.",
+    "Plazo de dos años para que los propietarios adapten su documentación y numeración a la nueva norma.",
+    "Procedimiento especial para la circulación de locomotoras de vapor y coches de madera."
+  ],
+  "legal_references": [
+    "Ley 38/2015 del sector ferroviario",
+    "Real Decreto 929/2020 sobre seguridad operacional e interoperabilidad",
+    "Directiva (UE) 2016/797",
+    "Directiva (UE) 2016/798",
+    "Ley 16/1985 del Patrimonio Histórico Español",
+    "Ley 39/2015 del Procedimiento Administrativo Común",
+    "Orden FOM/2872/2010"
+  ],
+  "derogations": [
+    "Disposiciones de igual o inferior rango que se opongan a esta orden"
+  ],
+  "main_obligations": "Las entidades deben catalogar sus vehículos ante la Fundación de los Ferrocarriles Españoles, designar responsables técnicos, presentar planes de mantenimiento y solicitar autorización de circulación ante la AESF. Se debe acreditar anualmente la actividad y el estado de mantenimiento para evitar la suspensión de la autorización.",
+  "effective_date": "2026-07-01",
+  "procedures": [
+    {
+      "name": "Catalogación de vehículos ferroviarios históricos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de catalogación",
+          "description": "Presentación de solicitud ante la Fundación de los Ferrocarriles Españoles con documentación técnica y de mantenimiento.",
+          "start_date": "2026-07-01",
+          "end_date": "3 meses desde la recepción",
+          "required_documentation": "Reseña descriptiva, datos del REV, informe de mantenimiento, escrito de conformidad del propietario y manuales."
+        },
+        {
+          "step": 2,
+          "title": "Resolución de la solicitud",
+          "description": "La Fundación resuelve de forma motivada. Si no hay respuesta en 3 meses, se entiende estimada.",
+          "start_date": "3 meses desde la recepción",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Reclamación (si procede)",
+          "description": "En caso de desestimación, se puede reclamar ante la Agencia Estatal de Seguridad Ferroviaria.",
+          "start_date": "1 mes desde la notificación",
+          "end_date": "3 meses desde la interposición",
+          "required_documentation": "Expediente completo"
+        }
+      ]
+    },
+    {
+      "name": "Autorización de circulación de vehículos históricos operativos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud de autorización",
+          "description": "Presentación de solicitud ante la Agencia Estatal de Seguridad Ferroviaria (AESF).",
+          "start_date": "2026-07-01",
+          "end_date": null,
+          "required_documentation": "Datos del solicitante, informe de la Fundación, NVH, inscripción en REV, certificado de mantenimiento y plan de mantenimiento."
+        },
+        {
+          "step": 2,
+          "title": "Evaluación y notificación de completitud",
+          "description": "La AESF notifica si el expediente está completo o requiere información adicional.",
+          "start_date": "1 mes desde la recepción",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución final",
+          "description": "La AESF resuelve de manera motivada la autorización.",
+          "start_date": "4 meses desde la recepción de documentación completa",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Modificación de vehículos ferroviarios históricos",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Comunicación de la modificación",
+          "description": "Notificación a la AESF de la modificación propuesta.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Descripción técnica, informe de conformidad de la Fundación y evaluación de impacto en seguridad."
+        },
+        {
+          "step": 2,
+          "title": "Evaluación de la AESF",
+          "description": "La AESF determina si la modificación requiere autorización previa o si es solo comunicación.",
+          "start_date": "1 mes desde la notificación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}

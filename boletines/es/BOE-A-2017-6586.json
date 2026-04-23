@@ -1,0 +1,113 @@
+{
+  "identifier": "BOE-A-2017-6586",
+  "title": "Real Decreto 581/2017, de 9 de junio, por el que se incorpora al ordenamiento jurídico español la Directiva 2013/55/UE del Parlamento Europeo y del Consejo, de 20 de noviembre de 2013, por la que se modifica la Directiva 2005/36/CE relativa al reconocimiento de cualificaciones profesionales y el Reglamento (UE) n.º 1024/2012 relativo a la cooperación administrativa a través del Sistema de Información del Mercado Interior (Reglamento IMI)",
+  "visible_title": "Reconocimiento de cualificaciones profesionales de la Unión Europea",
+  "rank": "real_decreto",
+  "country": "es",
+  "department": "Ministerio de la Presidencia y para las Administraciones Territoriales",
+  "official_number": "581/2017",
+  "publication_date": "2017-06-10",
+  "enactment_date": "2017-06-09",
+  "last_updated": "2026-04-23",
+  "status": "amended",
+  "scope": "Estatal",
+  "source": "https://www.boe.es/eli/es/rd/2017/06/09/581",
+  "official_journal": "Boletín Oficial del Estado",
+  "journal_issue": "138",
+  "summary": "Esta norma regula cómo los profesionales titulados en otros países de la Unión Europea pueden hacer reconocer sus títulos para trabajar en España. Introduce herramientas como la Tarjeta Profesional Europea para agilizar trámites y establece mecanismos de cooperación entre países para verificar la validez de los documentos. Su objetivo es eliminar barreras burocráticas y facilitar la movilidad laboral dentro del mercado común europeo.",
+  "citizen_impact": "Facilita que ciudadanos de la UE con títulos extranjeros (como médicos, enfermeros o arquitectos) puedan trabajar en España de forma más rápida y transparente. Reduce la incertidumbre sobre si su formación será aceptada y ofrece mecanismos de asesoramiento para entender los requisitos locales.",
+  "professional_impact": "Los profesionales sanitarios y técnicos de la UE cuentan con procedimientos más claros para el reconocimiento automático o simplificado. Las administraciones públicas y colegios profesionales deben usar el sistema IMI para intercambiar información y alertas sobre sanciones o inhabilitaciones de profesionales.",
+  "keywords": [
+    "reconocimiento de títulos",
+    "cualificaciones profesionales",
+    "movilidad laboral",
+    "Unión Europea",
+    "Tarjeta Profesional Europea",
+    "profesiones reguladas",
+    "mercado interior"
+  ],
+  "key_points": [
+    "Creación de la Tarjeta Profesional Europea para facilitar la movilidad temporal y el establecimiento.",
+    "Introducción del concepto de 'Acceso Parcial' para profesionales cuyas actividades en España difieran de su país de origen.",
+    "Establecimiento de un 'Mecanismo de Alerta' para informar sobre profesionales inhabilitados o sancionados.",
+    "Uso obligatorio del Sistema de Información del Mercado Interior (IMI) para la cooperación entre autoridades.",
+    "Creación de 'Centros de Asistencia' para asesorar a ciudadanos sobre la normativa del mercado interior.",
+    "Nuevos requisitos de formación para profesiones como matronas y arquitectos.",
+    "Obligación de acreditar conocimientos lingüísticos en profesiones con impacto en la salud pública."
+  ],
+  "legal_references": [
+    "Directiva 2013/55/UE",
+    "Directiva 2005/36/CE",
+    "Reglamento (UE) n.º 1024/2012",
+    "Real Decreto 1837/2008",
+    "Ley 39/2015",
+    "Ley 29/1998",
+    "Ley 44/2003"
+  ],
+  "derogations": [
+    "Real Decreto 1837/2008, de 8 de noviembre"
+  ],
+  "main_obligations": "Los profesionales deben acreditar conocimientos lingüísticos adecuados para su profesión. Las autoridades deben resolver las solicitudes de reconocimiento en plazos de 1 a 4 meses según el caso. Las autoridades están obligadas a emitir alertas en un plazo de 3 días sobre profesionales inhabilitados.",
+  "effective_date": "2017-06-10",
+  "procedures": [
+    {
+      "name": "Expedición de la Tarjeta Profesional Europea (Prestación temporal)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Solicitud",
+          "description": "Presentación de la solicitud vía plataforma electrónica con la documentación requerida.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Documentos según Anexo II del Reglamento de Ejecución (UE) 2015/983"
+        },
+        {
+          "step": 2,
+          "title": "Acuse de recibo y requerimiento",
+          "description": "La autoridad debe acusar recibo y solicitar documentos faltantes en una semana.",
+          "start_date": "1 semana tras la solicitud",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución",
+          "description": "Expedición de la tarjeta en un plazo de 3 semanas tras la subsanación.",
+          "start_date": "3 semanas tras subsanación",
+          "end_date": null,
+          "required_documentation": null
+        }
+      ]
+    },
+    {
+      "name": "Procedimiento de reconocimiento de cualificaciones (Régimen General)",
+      "steps": [
+        {
+          "step": 1,
+          "title": "Presentación de solicitud",
+          "description": "Inicio del expediente ante la autoridad competente.",
+          "start_date": null,
+          "end_date": null,
+          "required_documentation": "Anexo V del Real Decreto"
+        },
+        {
+          "step": 2,
+          "title": "Instrucción y requerimiento",
+          "description": "La administración tiene un mes para requerir subsanación de deficiencias.",
+          "start_date": "1 mes desde la entrada",
+          "end_date": null,
+          "required_documentation": null
+        },
+        {
+          "step": 3,
+          "title": "Resolución final",
+          "description": "Plazo máximo de 4 meses para dictar y notificar la resolución.",
+          "start_date": null,
+          "end_date": "4 meses desde la entrada",
+          "required_documentation": null
+        }
+      ]
+    }
+  ],
+  "chunked": false
+}
